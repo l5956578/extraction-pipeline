@@ -23,6 +23,10 @@ python run_pipeline.py --step figures
 
 Requires Tesseract OCR (for rotated pages).
 
+## Debug history (persistent across sessions)
+
+**`metadata/EXTRACTION_DEBUG_HISTORY.md`** — canonical notes on what was tried (reading_order overhaul + remaining-fixes), what the audits claimed vs what broke, validator state, and next steps. Update this file after every fix attempt; do not rely on chat memory.
+
 ## Output
 
 | Path | Description |

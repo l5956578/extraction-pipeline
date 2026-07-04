@@ -4,9 +4,14 @@
 **Project:** extraction-pipeline  
 **PDF:** 278 pages → single Markdown deliverable
 
+## ⚠️ Canonical debug history (read first across sessions)
+
+**`../metadata/EXTRACTION_DEBUG_HISTORY.md`** — persistent record of both fix attempts (`e3d7fbe`, `078f0b8`), honest outcomes, validator counts, and what still fails.  
+This audit pack is supplementary; several files here are **stale** relative to current `metadata/output_validation.json`.
+
 ## How to use this pack
 
-Read files in numbered order: design → rules → proof → sample output.
+Read **`metadata/EXTRACTION_DEBUG_HISTORY.md` first**, then files in numbered order: design → rules → proof → sample output.
 
 | File | Purpose |
 |------|---------|

@@ -1,10 +1,10 @@
 # Extraction Remaining Fixes Plan
 
-**Status:** Approved for implementation (plan mode, 2026-07-03)  
+**Status:** Implemented (`078f0b8`) — see honest outcomes in **`metadata/EXTRACTION_DEBUG_HISTORY.md`**  
 **Worktree:** `C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction`  
 **Deliverable:** `final_output/CEFR_Companion_Volume.md`
 
-This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures confirmed after re-extraction and merge on 7/3/2026. Paste this file into non-plan mode to begin implementation.
+This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures (attempt 2). For cross-session history of both attempts, read **`metadata/EXTRACTION_DEBUG_HISTORY.md`** first.
 
 ---
 
