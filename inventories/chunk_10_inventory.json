@@ -111,7 +111,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },

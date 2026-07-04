@@ -174,6 +174,8 @@ Language Services (Eaquals) (www.eaquals.org).
 <!-- page:28 -->
 *Page 28 3 CEFR –­ Companion volume*
 
+### 2.2. IMPLEMENTING THE ACTION-ORIENTED APPROACH
+
 the different levels, is intended to provide a common metalanguage for the language education profession in order to facilitate communication, networking, mobility and the recognition of courses taken and examinations passed. In relation to examinations, the Council of Europe’s Language Policy Division has published a manual for relating language examinations to the CEFR,23 now accompanied by a toolkit of accompanying material and a volume of case studies published by Cambridge University Press, together with a manual for language test development and examining.24 The Council of Europe’s ECML has also produced **Relating language examinations ** **to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – Highlights ** **from the Manual**25 and provides capacity building to member states through its RELANG initiative.26 However, it is important to underline once again that the CEFR is a tool to facilitate educational reform projects, not a standardisation tool. Equally, there is no body monitoring or even co-ordinating its use. The CEFR itself states right at the very beginning:
 
 One thing should be made clear right away. We have NOT set out to tell practitioners what to do, or how to do it. We are raising questions, not answering them. It is not the function of the Common European Framework to lay down the objectives that users should pursue or the methods they should employ. (CEFR 2001, Notes to the User)
@@ -184,8 +186,8 @@ The CEFR sets out to be comprehensive, in the sense that it is possible to find 
 
 Nevertheless, the CEFR takes an innovative stance in seeing learners as language users and social agents, and thus seeing language as a vehicle for communication rather than as a subject to study. In so doing, it proposes an analysis of learners’ needs and the use of “can do” descriptors and communicative tasks, on which there is a whole chapter: CEFR 2001 Chapter 7.
 
-<!-- db:id=scale_a_reminder_of_rfec_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
-### A reminder of CEFR 2001 chapters | scale_a_reminder_of_rfec_2001_chapters
+<!-- db:id=scale_a_reminder_of_cefr_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
+### A reminder of CEFR 2001 chapters | scale_a_reminder_of_cefr_2001_chapters
 
 | A reminder of CEFR 2001 chapters |
 | --- |
@@ -201,9 +203,13 @@ Nevertheless, the CEFR takes an innovative stance in seeing learners as language
 
 
 23.	 Council of Europe (2009), “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – A Manual”, Language Policy Division, Council of Europe, Strasbourg, available at https:// rm.coe.int/1680667a2d.
+
 24.	 ALTE (2011), “Manual for language test development and examining – For use with the CEFR”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2b.
+
 25.	 Noijons J., Bérešová J., Breton G. et al. (2011), **Relating language examinations to the Common European Framework of Reference for ** **Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual**, Council of Europe Publishing, Strasbourg, available at: www.ecml.at/tabid/277/PublicationID/67/Default.aspx.
+
 26.	 Relating language curricula, tests and examinations to the Common European Framework of Reference (RELANG): https://relang.ecml.at/.
+
 
 <!-- page:29 -->
 *Key aspects of the CEFR for teaching and learning  Page 29*
@@ -357,57 +363,49 @@ from distractors in task performance).
 <!-- page:31 -->
 *Key aspects of the CEFR for teaching and learning  Page 31*
 
-in order to complete a task (CEFR 2001 Chapter 7). Tasks often require some collaboration with others – hence
-the need for language. The example chosen in CEFR 2001 Chapter 2 to introduce this idea – moving – is one in
-which the use of language is only contingent on the task. In moving a wardrobe, some communication, preferably
-through language, is clearly advisable, but language is not the focus of the task. Similarly, tasks demanding
-greater sophistication of communication, such as agreeing on the preferred solution to an ethical problem, or
-holding a project meeting, focus on the task outcomes rather than the language used to achieve them.
+in order to complete a task (CEFR 2001 Chapter 7). Tasks often require some collaboration with others – hence the need for language. The example chosen in CEFR 2001 Chapter 2 to introduce this idea – moving – is one in which the use of language is only contingent on the task. In moving a wardrobe, some communication, preferably through language, is clearly advisable, but language is not the focus of the task. Similarly, tasks demanding greater sophistication of communication, such as agreeing on the preferred solution to an ethical problem, or holding a project meeting, focus on the task outcomes rather than the language used to achieve them.
+
 The overall approach of the CEFR is summarised in a single paragraph:
-Language use, embracing language learning, comprises the actions performed by persons who as individuals and as
-social agents develop a range of competences, both general and in particular communicative language competences.
-They draw on the competences at their disposal in various contexts under various conditions and under various
-constraints to engage in language activities involving language processes to produce and/or receive texts in relation
-to themes in specific domains, activating those strategies which seem most appropriate for carrying out the tasks
-to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification
-of their competences. (CEFR 2001 Section 2.1)
-Thus, in performing tasks, competences and strategies are mobilised in the performance and in turn further
-developed through that experience. In an “action-oriented approach”, which translates the CEFR descriptive
-scheme into practice, some collaborative tasks in the language classroom are therefore essential. This is why
-the CEFR 2001 includes a chapter on tasks. CEFR 2001 Chapter 7 discusses real-life tasks and pedagogic tasks,
-possibilities for compromise between the two, factors that make tasks simple or complex from a language point
-of view, conditions and constraints. The precise form that tasks in the classroom may take, and the dominance
-that they should have in the programme, is for users of the CEFR to decide. CEFR 2001 Chapter 6 surveys language
-teaching methodologies, pointing out that different approaches may be appropriate for different contexts. As
-a matter of fact, the CEFR scheme is highly compatible with several recent approaches to second language
-learning, including the task-based approach, the ecological approach and in general all approaches informed
-by sociocultural and socio-constructivist theories. Starting from a discussion of the place of plurilingualism in
-language education, CEFR 2001 Chapter 8 outlines alternative options for curriculum design, a process taken
-further in the **Guide for the development and implementation of curricula for plurilingual and intercultural education**
-(Beacco et al. 2016a). No matter what perspective is adopted, it is implicit that tasks in the language classroom
-should involve communicative language activities and strategies (CEFR 2001 Section 4.4) that also occur in the
-real world, like those listed in the CEFR descriptive scheme.
-Figure 1 – The structure of the CEFR descriptive scheme28
-Overall language
-proficiency
-Communicative
-General competences
-language competences
-Savoir Linguistic
-Savoir-faire Sociolinguistic
-Savoir-être Pragmatic
-Savoir apprendre
-Communicative Communicative
-language activities language strategies
-Reception Reception
-Production Production
-Interaction Interaction
-Mediation Mediation
+
+Language use, embracing language learning, comprises the actions performed by persons who as individuals and as social agents develop a range of competences, both general and in particular communicative language competences.
+
+They draw on the competences at their disposal in various contexts under various conditions and under various constraints to engage in language activities involving language processes to produce and/or receive texts in relation to themes in specific domains, activating those strategies which seem most appropriate for carrying out the tasks to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification of their competences. (CEFR 2001 Section 2.1) Thus, in performing tasks, competences and strategies are mobilised in the performance and in turn further developed through that experience. In an “action-oriented approach”, which translates the CEFR descriptive scheme into practice, some collaborative tasks in the language classroom are therefore essential. This is why the CEFR 2001 includes a chapter on tasks. CEFR 2001 Chapter 7 discusses real-life tasks and pedagogic tasks, possibilities for compromise between the two, factors that make tasks simple or complex from a language point of view, conditions and constraints. The precise form that tasks in the classroom may take, and the dominance that they should have in the programme, is for users of the CEFR to decide. CEFR 2001 Chapter 6 surveys language teaching methodologies, pointing out that different approaches may be appropriate for different contexts. As a matter of fact, the CEFR scheme is highly compatible with several recent approaches to second language learning, including the task-based approach, the ecological approach and in general all approaches informed by sociocultural and socio-constructivist theories. Starting from a discussion of the place of plurilingualism in language education, CEFR 2001 Chapter 8 outlines alternative options for curriculum design, a process taken further in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a). No matter what perspective is adopted, it is implicit that tasks in the language classroom should involve communicative language activities and strategies (CEFR 2001 Section 4.4) that also occur in the real world, like those listed in the CEFR descriptive scheme.
+
+### Figure 1 – The structure of the CEFR descriptive scheme
+
+28
+
+Overall language proficiency
+
+<!-- db:id=figure_01_structure_cefr_descriptive_scheme type=figure render_as=text_diagram product_tier=context pages=32 -->
+### Figure 1 – The structure of the CEFR descriptive scheme | figure_01_structure_cefr_descriptive_scheme
+
+```text
+Overall language proficiency
+├── General competences
+│   ├── Savoir
+│   ├── Savoir-faire
+│   ├── Savoir-être
+│   └── Savoir apprendre
+├── Communicative language competences
+│   ├── Linguistic
+│   ├── Sociolinguistic
+│   └── Pragmatic
+├── Communicative language activities
+│   ├── Reception
+│   ├── Production
+│   ├── Interaction
+│   └── Mediation
+└── Communicative language strategies
+    ├── Reception
+    ├── Production
+    ├── Interaction
+    └── Mediation
+```
+
 
 28.	 From the ECEP project publication: Piccardo E. et al. (2011), **Pathways through assessing, learning and teaching in the CEFR**, Council of Europe Publishing, Strasbourg, available at http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf.
 
-<!-- page:32 -->
-*Page 32 3 CEFR –­ Companion volume*
 
 28.	 From the ECEP project publication: Piccardo E. et al. (2011), **Pathways through assessing, learning and teaching in the CEFR**, Council of Europe Publishing, Strasbourg, available at http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf.
 
@@ -476,56 +474,30 @@ Key aspects of the CEFR for teaching and learning  Page 33
 
 29.	 North B. (1994) “Perspectives on language proficiency and aspects of competence: a reference paper defining categories and levels”, **CC-LANG** Vol. 94, No. 20, Council of Europe Publishing, Strasbourg.
 
+
 <!-- page:33 -->
 *Key aspects of the CEFR for teaching and learning  Page 33*
 
-One of the areas in which the CEFR has been most influential is in the recognition, in course aims and in the
-structure of oral examinations, of the fundamental distinction between production (= sustained monologue;
-long turns) and interaction (= conversational dialogue; short turns). When the CEFR 2001 was published, splitting
-writing in the same way by distinguishing between written production and written interaction did not meet
-with much public recognition. Indeed, the original version of CEFR Table 2 (self-assessment grid) was amended
-to merge written interaction and written production back into “writing”, giving rise to the widespread but false
-notion that the CEFR promotes a model of five skills.
-The development of e-mail, texting and social media since then shows that, as in many other areas, the CEFR was
-very forward-looking for its time. The fourth mode, mediation, was developed during the work of the original
-CEFR Authoring Group.30
-Figure 2, which appeared in the 1996 and 1998 provisional versions of the CEFR, shows the relationship between
-the four modes. Reception and production, divided into spoken and written, give the traditional four skills.
-Interaction involves both reception and production, but is more than the sum of those parts, and mediation
-involves both reception and production plus, frequently, interaction.
+One of the areas in which the CEFR has been most influential is in the recognition, in course aims and in the structure of oral examinations, of the fundamental distinction between production (= sustained monologue; long turns) and interaction (= conversational dialogue; short turns). When the CEFR 2001 was published, splitting writing in the same way by distinguishing between written production and written interaction did not meet with much public recognition. Indeed, the original version of CEFR Table 2 (self-assessment grid) was amended to merge written interaction and written production back into “writing”, giving rise to the widespread but false notion that the CEFR promotes a model of five skills.
+
+The development of e-mail, texting and social media since then shows that, as in many other areas, the CEFR was very forward-looking for its time. The fourth mode, mediation, was developed during the work of the original CEFR Authoring Group.30 Figure 2, which appeared in the 1996 and 1998 provisional versions of the CEFR, shows the relationship between the four modes. Reception and production, divided into spoken and written, give the traditional four skills.
+
+Interaction involves both reception and production, but is more than the sum of those parts, and mediation involves both reception and production plus, frequently, interaction.
+
 The CEFR introduces the concept of mediation as follows:
-In both the receptive and productive modes, the written and/or oral activities of **mediation** make communication
-possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation
-or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which
-this third party does not have direct access. Mediation language activities – (re)processing an existing text – occupy
-an important place in the normal linguistic functioning of our societies. (CEFR 2001 Section 2.1.3)
-Figure 2 – The relationship between reception, production, interaction and mediation
-RECEPTION
-INTERACTION
-MEDIATION
-PRODUCTION
-As with many other aspects mentioned in the CEFR, the concepts of interaction and mediation are not greatly
-developed in the text. This is one disadvantage of covering so much ground in 250 pages. In consequence, the
-interpretation of mediation in the CEFR has tended to be reduced to interpretation and translation. It is for this
-reason that the 2014-17 project to develop descriptors for mediation was set up. That project emphasised a
-wider view of mediation, as outlined in Appendix 6 and explained in detail in “Developing illustrative descriptors
-of aspects of mediation for the CEFR” (North and Piccardo 2016).
-The CEFR represents a departure from the traditional distinction made in applied linguistics between the
-Chomskyan concepts of (hidden) “competence” and (visible) “performance” – with “proficiency” normally defined as
-the glimpse of someone’s underlying competence derived from a specific performance. In the CEFR, “proficiency”
-encompasses the ability to perform communicative language activities (“can do …”) while drawing upon both
-general and communicative language competences (linguistic, sociolinguistic and pragmatic) and activating
-appropriate communicative strategies.
-The acquisition of proficiency is in fact seen as a circular process: by performing activities, the user/learner develops
-competences and acquires strategies. This approach embraces a view of competence as only existing when
-enacted in language use, reflecting both (a) the broader view of competence as action from applied psychology,
-particularly in relation to the world of work and professional training, and (b) the view taken nowadays in the
-sociocultural approach to learning. The CEFR “can do” descriptors epitomise this philosophy.
+
+In both the receptive and productive modes, the written and/or oral activities of **mediation** make communication possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which this third party does not have direct access. Mediation language activities – (re)processing an existing text – occupy an important place in the normal linguistic functioning of our societies. (CEFR 2001 Section 2.1.3)
+
+### Figure 2 – The relationship between reception, production, interaction and mediation
+
+RECEPTION INTERACTION MEDIATION PRODUCTION As with many other aspects mentioned in the CEFR, the concepts of interaction and mediation are not greatly
+
+<!-- db:id=figure_02_reception_production_interaction_mediation type=figure product_tier=context pages=34 -->
+### Figure 2 – The relationship between reception, production, interaction and mediation | figure_02_reception_production_interaction_mediation
+
 
 30.	 The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
 
-<!-- page:34 -->
-*Page 34 3 CEFR –­ Companion volume*
 
 30.	 The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
 
@@ -558,47 +530,27 @@ Table 4 – Communicative language strategies in the CEFR
 <!-- page:35 -->
 *Key aspects of the CEFR for teaching and learning  Page 35*
 
-Although the CEFR 2001 does not develop the concept of mediation to its full potential, it emphasises
-the two key notions of co-construction of meaning in interaction and constant movement between the
-individual and social level in language learning, mainly through its vision of the user/learner as a social
-agent. In addition, an emphasis on the mediator as an intermediary between interlocutors underlines
-the social vision of the CEFR. In this way, although it is not stated explicitly in the 2001 text, the CEFR
-descriptive scheme **de facto** gives mediation a key position in the action-oriented approach, similar
-to the role that a number of scholars now give it when they discuss the language learning process.
-The approach taken to mediation in the 2014-17 project to extend the CEFR illustrative descriptors is thus wider
-than considering only cross-linguistic mediation. In addition to cross-linguistic mediation, it also encompasses
-mediation related to communication and learning as well as social and cultural mediation. This wider approach
-has been taken because of its relevance in increasingly diverse classrooms, in relation to the spread of CLIL
-(Content and Language Integrated Learning), and because mediation is increasingly seen as a part of all learning,
-but especially of all language learning.
-The mediation descriptors are particularly relevant for the classroom in connection with small group, collaborative
-tasks. The tasks can be organised in such a way that learners have to share different inputs, explaining their information
-and working together in order to achieve a goal. They are even more relevant when this is undertaken in a CLIL context.
-2.6. THE CEFR COMMON REFERENCE LEVELS
-The CEFR has two axes: a horizontal axis of categories for describing different activities and aspects of competence,
-which were outlined above, and a vertical axis representing progress in proficiency in those categories. To
-facilitate the organisation of courses and to describe progress, the CEFR presents the six Common Reference
-Levels shown in Figure 3. This arrangement provides a roadmap that allows user/learners to engage with relevant
-aspects of the descriptive scheme in a progressive way. However, the six levels are not intended to be absolute.
-Firstly, they can be grouped into three broad categories: Basic user (A1 and A2), Independent user (B1 and B2)
-and Proficient user (C1 and C2). Secondly, the six reference levels, which represent very broad bands of language
-proficiency, are very often subdivided.
-Figure 3 – CEFR Common Reference Levels
-All categories in the humanities and liberal arts are in any case conventional, socially constructed concepts. Like
-the colours of the rainbow, language proficiency is actually a continuum. Yet, as with the rainbow, despite the
-fuzziness of the boundaries between colours, we tend to see some colours more than others, as in Figure 4. Yet,
-to communicate, we simplify and focus on six main colours, as in Figure 5.
-Figure 4 – A rainbow
-C2
-C1
-B2
-B1
-A2
-A1
-Figure 5 – The conventional six colours
+### 2.6. THE CEFR COMMON REFERENCE LEVELS
 
-<!-- page:36 -->
-*Page 36 3 CEFR –­ Companion volume*
+Although the CEFR 2001 does not develop the concept of mediation to its full potential, it emphasises the two key notions of co-construction of meaning in interaction and constant movement between the individual and social level in language learning, mainly through its vision of the user/learner as a social agent. In addition, an emphasis on the mediator as an intermediary between interlocutors underlines the social vision of the CEFR. In this way, although it is not stated explicitly in the 2001 text, the CEFR descriptive scheme **de facto** gives mediation a key position in the action-oriented approach, similar to the role that a number of scholars now give it when they discuss the language learning process.
+
+The approach taken to mediation in the 2014-17 project to extend the CEFR illustrative descriptors is thus wider than considering only cross-linguistic mediation. In addition to cross-linguistic mediation, it also encompasses mediation related to communication and learning as well as social and cultural mediation. This wider approach has been taken because of its relevance in increasingly diverse classrooms, in relation to the spread of CLIL (Content and Language Integrated Learning), and because mediation is increasingly seen as a part of all learning, but especially of all language learning.
+
+The mediation descriptors are particularly relevant for the classroom in connection with small group, collaborative tasks. The tasks can be organised in such a way that learners have to share different inputs, explaining their information and working together in order to achieve a goal. They are even more relevant when this is undertaken in a CLIL context.
+
+### 2.6. THE CEFR COMMON REFERENCE LEVELS
+
+The CEFR has two axes: a horizontal axis of categories for describing different activities and aspects of competence, which were outlined above, and a vertical axis representing progress in proficiency in those categories. To facilitate the organisation of courses and to describe progress, the CEFR presents the six Common Reference Levels shown in Figure 3. This arrangement provides a roadmap that allows user/learners to engage with relevant aspects of the descriptive scheme in a progressive way. However, the six levels are not intended to be absolute.
+
+Firstly, they can be grouped into three broad categories: Basic user (A1 and A2), Independent user (B1 and B2) and Proficient user (C1 and C2). Secondly, the six reference levels, which represent very broad bands of language proficiency, are very often subdivided.
+
+Figure 3 – CEFR Common Reference Levels All categories in the humanities and liberal arts are in any case conventional, socially constructed concepts. Like the colours of the rainbow, language proficiency is actually a continuum. Yet, as with the rainbow, despite the fuzziness of the boundaries between colours, we tend to see some colours more than others, as in Figure 4. Yet, to communicate, we simplify and focus on six main colours, as in Figure 5.
+
+Figure 4 – A rainbow Figure 5 – The conventional six colours
+
+<!-- db:id=figure_05_conventional_six_colours type=figure product_tier=context pages=36 -->
+### Figure 5 – The conventional six colours | figure_05_conventional_six_colours
+
 
 <!-- page:36 -->
 *Page 36 3 CEFR –­ Companion volume*
@@ -686,129 +638,47 @@ proficiency” without being bilingual from birth.
 <!-- page:37 -->
 *Key aspects of the CEFR for teaching and learning  Page 37*
 
-In the updated and extended set of descriptors in this document, the level referred to above has been labelled
-Pre-A1 and developed further on the basis of descriptors from the Swiss Lingualevel project and the Japanese
-CEFR-J project, both targeted at primary and lower secondary school.
-The CEFR stresses that the levels are reference levels and that, in any given context, users may well want to
-subdivide them, illustrating ways in which this might be done in different contexts (CEFR 2001 Section 3.5). In
-the same section, the CEFR introduced the idea of the plus levels.
-In the illustrative descriptors a distinction is made between the “criterion levels” (for example A2 or A2.1) and
-the “plus levels” (for example A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as
-in this example for “Overall oral comprehension”.
-Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly and
-slowly.
-A2
-Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic
-personal and family information, shopping, local geography, employment), provided people articulate
-clearly and slowly.
-Plus levels represent a very strong competence at a level that does not yet reach the minimum standard for the
-next criterion level. Generally, features of the level above are starting to appear. Descriptors from the “plus levels”
-are not included in the three tables that introduce the CEFR levels in CEFR 2001 Chapter 3 (CEFR Tables 1, 2 and 3).
-2.7. CEFR PROFILES
-Levels are a necessary simplification. We need levels in order to organise learning, track progress and answer questions
-like “How good is your French?” or “What proficiency should we require from candidates?” However, any simple answer like
-B2 – or even B2 receptive, B1 productive – hides a complex profile. The reason the CEFR includes so many descriptor scales
-is to encourage users to develop differentiated profiles. Descriptor scales can be used firstly to identify which language
-activities are relevant for a particular group of learners and, secondly, to establish which level those learners need to achieve
-in those activities in order to accomplish their goals. This can be illustrated with the two fictional examples of individual
-language profiles shown in Figures 6 and 7. In each case, the four shapes in Figures 6 and 7 show the desired profile for
-reception, interaction, production and mediation respectively. The labels around the edge of the circle are the descriptor
-scales that are considered to be relevant, and the proficiency level deemed to be desirable on each descriptor scale is
-indicated by the shading. Notice that the descriptor scales included in the two diagrams are not identical. Only those activities
-considered to be relevant would be included. Profiles like Figures 6 and 7 may be produced for individuals in the context
-of very intensive LSP training, but the technique is also very useful for analysing the needs of particular groups of learners.
-Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL
-Understanding conversation between other speakers
-Expressing a personal response to creative texts
-(including literature)
-Relaying speciﬁc information in writing
-Processing text in speech or sign
-Relaying speciﬁc information in speech or sign
-MEDIATION
-Collaborating to construct meaning
-Facilitating collaborative interaction with peers
-A2
-PRODUCTION
-B1
-B2
-Reports and essays
-Creative writing
-Sustained monologue: giving information
-Sustained monologue: describing experience
-Understanding audio or signed  media recordings
-Watching TV, ﬁlm and video
-Reading for information and argument
-Reading instructions
-RECEPTION Reading as a leisure activity
-A1 Understanding an interlocutor
-INTERACTION
-Conversation
-Informal discussion (with friends)
-Goal-oriented co-operation
-Information exchange
-Online conversation and discussion
-Goal-oriented online transactions and collaboration
+### 2.7. CEFR PROFILES
+
+In the updated and extended set of descriptors in this document, the level referred to above has been labelled Pre-A1 and developed further on the basis of descriptors from the Swiss Lingualevel project and the Japanese CEFR-J project, both targeted at primary and lower secondary school.
+
+The CEFR stresses that the levels are reference levels and that, in any given context, users may well want to subdivide them, illustrating ways in which this might be done in different contexts (CEFR 2001 Section 3.5). In the same section, the CEFR introduced the idea of the plus levels.
+
+In the illustrative descriptors a distinction is made between the “criterion levels” (for example A2 or A2.1) and the “plus levels” (for example A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as in this example for “Overall oral comprehension”.
+
+Plus levels represent a very strong competence at a level that does not yet reach the minimum standard for the next criterion level. Generally, features of the level above are starting to appear. Descriptors from the “plus levels” are not included in the three tables that introduce the CEFR levels in CEFR 2001 Chapter 3 (CEFR Tables 1, 2 and 3).
+
+### 2.7. CEFR PROFILES
+
+Levels are a necessary simplification. We need levels in order to organise learning, track progress and answer questions like “How good is your French?” or “What proficiency should we require from candidates?” However, any simple answer like B2 – or even B2 receptive, B1 productive – hides a complex profile. The reason the CEFR includes so many descriptor scales is to encourage users to develop differentiated profiles. Descriptor scales can be used firstly to identify which language activities are relevant for a particular group of learners and, secondly, to establish which level those learners need to achieve in those activities in order to accomplish their goals. This can be illustrated with the two fictional examples of individual language profiles shown in Figures 6 and 7. In each case, the four shapes in Figures 6 and 7 show the desired profile for reception, interaction, production and mediation respectively. The labels around the edge of the circle are the descriptor scales that are considered to be relevant, and the proficiency level deemed to be desirable on each descriptor scale is indicated by the shading. Notice that the descriptor scales included in the two diagrams are not identical. Only those activities considered to be relevant would be included. Profiles like Figures 6 and 7 may be produced for individuals in the context of very intensive LSP training, but the technique is also very useful for analysing the needs of particular groups of learners.
+
+Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL Understanding conversation between other speakers Understanding audio or signed  media recordings Expressing a personal response to creative texts Watching TV, ﬁlm and video (including literature) Reading for information and argument Relaying speciﬁc information in writing Reading instructions Processing text in speech or sign Reading as a leisure activity Relaying speciﬁc information in speech or sign RECEPTION MEDIATION Collaborating to construct meaning Understanding an interlocutor Facilitating collaborative interaction with peers INTERACTION PRODUCTION Conversation Informal discussion (with friends) Reports and essays Goal-oriented co-operation Creative writing Information exchange Sustained monologue: giving information Online conversation and discussion Sustained monologue: describing experience Goal-oriented online transactions and collaboration
+
+<!-- db:id=figure_06_fictional_profile_clil type=figure product_tier=context pages=38 -->
+### Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL | figure_06_fictional_profile_clil
+
 
 <!-- page:38 -->
 *Page 38 3 CEFR –­ Companion volume*
 
-<!-- page:38 -->
-*Page 38 3 CEFR –­ Companion volume*
+The profile shown in Figure 6 has “plus levels” between the Common Reference Levels. It sets a relatively high priority (B1) on reception – including reading as a leisure activity – on goal-oriented co-operation, facilitating collaborative interaction and oral production. The highest priority, though, is on understanding the interlocutor (B2), in this case CLIL, presumably the teacher. The profile shown in Figure 7 (postgraduate science student) also puts an emphasis on reception (C1) and on certain aspects of mediation: collaborating to construct meaning, explaining data and processing text. Profiles can be created for various groups, particularly in professional or in specialised educational areas. Stakeholders can be consulted in a two-step process: first to establish the relevant descriptor scales and secondly to determine realistic goals for each one.
 
-The profile shown in Figure 6 has “plus levels” between the Common Reference Levels. It sets a relatively high priority (B1)
-on reception – including reading as a leisure activity – on goal-oriented co-operation, facilitating collaborative interaction
-and oral production. The highest priority, though, is on understanding the interlocutor (B2), in this case CLIL, presumably
-the teacher. The profile shown in Figure 7 (postgraduate science student) also puts an emphasis on reception (C1) and
-on certain aspects of mediation: collaborating to construct meaning, explaining data and processing text. Profiles can be
-created for various groups, particularly in professional or in specialised educational areas. Stakeholders can be consulted in
-a two-step process: first to establish the relevant descriptor scales and secondly to determine realistic goals for each one.
-Graphic profiles such as those shown in Figures 6 and 7 can also be used to describe the current language
-proficiency of a user/learner. One can see the development of individual proficiency as a gain of space over
-time: a gain in relevant terrain.31 A realistic graphic profile of any individual’s proficiency would be more like the
-uneven Figures 6 and 7 than the more abstract perfection levels shown as concentric circles in Figure 3.
-Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional)
-Understanding conversation between other
-Processing text in writing
-Explaining data (graphs, diagrams, etc.)
-Encouraging conceptual talk
-Collaborating to construct meaning
-MEDIATION
-Facilitating collaborative interaction with peers
-A2 PRODUCTION
-Facilitating pluricultural space B1
-B2
-C1
-C2
-Reports and essays
-Addressing audiences
-Sustained monologue: putting a case
-Sustained monologue: giving information
-However, for a personal profile of proficiency, working with fewer categories is probably desirable in most
-circumstances. Figures 6 and 7 worked with the descriptor scales for different, detailed types of activities. A
-simpler alternative is to use only the seven overall scales (“Overall oral comprehension”,32 etc.). On the other
-hand, there is no reason why the profile should be confined to one language.
-One can take things a stage further and create graphic plurilingual profiles for individual user/learners. Figure 8
-shows a plurilingual profile inspired by a model developed in a Canadian project.33 Profiles for different languages
-are superimposed on each other in the same graphic. The figure shows a profile of “partial competences” not
-atypical of an adult user/learner: far stronger in reading in all languages.
-Such a profile can show the way in which the proficiency of any user/learner is almost always going to be uneven, partial.
-It will be influenced by home background, by the needs of the situation in which the person has found themselves,
-and by their experience, including transversal competences acquired in general education, in using other languages,
-in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical
-speakers
-Understanding as a member of a live audience
-Note-taking (lectures, seminars, meetings, etc.)
-Reading for orientation
-Reading for information and argument
-RECEPTION
-Understanding an interlocutor
-A1 INTERACTION
-Informal discussion (with friends)
-Formal discussion (meetings)
-Goal-oriented co-operation
-Information exchange
-Goal-oriented online transactions and
-collaboration
+Graphic profiles such as those shown in Figures 6 and 7 can also be used to describe the current language proficiency of a user/learner. One can see the development of individual proficiency as a gain of space over time: a gain in relevant terrain.31 A realistic graphic profile of any individual’s proficiency would be more like the uneven Figures 6 and 7 than the more abstract perfection levels shown as concentric circles in Figure 3.
+
+### Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional)
+
+Understanding conversation between other speakers Understanding as a member of a live audience Note-taking (lectures, seminars, meetings, etc.) Processing text in writing Reading for orientation Explaining data (graphs, diagrams, etc.) Reading for information and argument Encouraging conceptual talk RECEPTION Collaborating to construct meaning MEDIATION Understanding an interlocutor Facilitating collaborative interaction with peers INTERACTION PRODUCTION Informal discussion (with friends) Facilitating pluricultural space Formal discussion (meetings) Goal-oriented co-operation Reports and essays Information exchange Addressing audiences Goal-oriented online transactions and collaboration Sustained monologue: putting a case Sustained monologue: giving information
+
+<!-- db:id=figure_07_profile_postgraduate_sciences type=figure product_tier=context pages=39 -->
+### Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional) | figure_07_profile_postgraduate_sciences
+
+
+31.	 The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
+
+32.	 Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
+
+33.	 LINCDIRE: LINguistic & Cultural DIversity REinvented, available at www.lincdireproject.org/.
+
 
 31.	 The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
 32.	 Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
@@ -817,63 +687,19 @@ collaboration
 <!-- page:39 -->
 *Key aspects of the CEFR for teaching and learning  Page 39*
 
-31.	 The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
-32.	 Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
-33.	 LINCDIRE: LINguistic & Cultural DIversity REinvented, available at www.lincdireproject.org/.
+since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001 (Section 5.2) describes as their “general competences”.
 
-<!-- page:39 -->
-*Key aspects of the CEFR for teaching and learning  Page 39*
+Figure 8 – A plurilingual proficiency profile with fewer categories German French Spanish Italian Listening Written Reading production Written Oral interaction interaction Oral production In practice, there is a tendency to use more linear diagrams to profile an individual’s CEFR language proficiency.
 
-since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001
-(Section 5.2) describes as their “general competences”.
-Figure 8 – A plurilingual proficiency profile with fewer categories
-German French
-Written
-production
-C2
-C1
-B2
-B1
-A2
-Written
-interaction
-Oral production
-In practice, there is a tendency to use more linear diagrams to profile an individual’s CEFR language proficiency.
-Figure 9 shows proficiency in one language in relation to the CEFR “overall” descriptor scales, and Figure 10
-shows a profile across languages for oral comprehension. Graphics similar to these appear in versions of the ELP.
-Earlier ELPs profiled ability in one language after another (as in the example in Figure 9), while some later ones
-show the plurilingual profile for overall proficiency in each communicative language activity (as in Figure 10).
+Figure 9 shows proficiency in one language in relation to the CEFR “overall” descriptor scales, and Figure 10 shows a profile across languages for oral comprehension. Graphics similar to these appear in versions of the ELP.
+
+Earlier ELPs profiled ability in one language after another (as in the example in Figure 9), while some later ones show the plurilingual profile for overall proficiency in each communicative language activity (as in Figure 10).
+
 Figure 9 – A proficiency profile – overall proficiency in one language
-Spanish Pre-A1 A1
-Oral comprehension
-Reading comprehension
-Oral interaction
-Written interaction
-Oral production
-Written production
-Mediation
-Graphic profiles have been associated with the CEFR and the ELP since their earliest versions in the late 1990s.
-Nowadays, it is of course far easier to produce them from a spreadsheet (for example, Excel) and with the many
-web tools available. However, such graphic profiles only have meaning if one can assume a familiarity with the
-levels and categories concerned on the part of the reader. The CEFR illustrative descriptors can bring that familiarity.
-Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages
-Pre-A1 A1 A2 A2+ B1
-English
-German
-French
-Spanish
-Italian
-Spanish Italian
-Listening
-Reading
-A1
-Oral
-interaction
-A2 A2+ B1 B1+ B2 B2+ C1
-B1+ B2 B2+ C1 C2 Above C2
 
-<!-- page:40 -->
-*Page 40 3 CEFR –­ Companion volume*
+<!-- db:id=figure_10_plurilingual_oral_comprehension type=figure product_tier=context pages=40 -->
+### Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages | figure_10_plurilingual_oral_comprehension
+
 
 <!-- page:40 -->
 *Page 40 3 CEFR –­ Companion volume*
@@ -1060,10 +886,14 @@ In discussing the use of descriptors it is essential to make a distinction betwe
 <!-- page:43 -->
 *Key aspects of the CEFR for teaching and learning  Page 43*
 
+### 2.10. SOME USEFUL RESOURCES FOR CEFR IMPLEMENTATION
+
+#### 2.10.1. Web resources
+
 Table 5 – The different purposes of descriptors
 
-<!-- db:id=scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
-### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4
+<!-- db:id=scale_what_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
+### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_what_the_user_learner_can_do_cefr_2001_chapter_4
 
 |  | WHAT the user/learner can do (CEFR 2001 Chapter 4) | HOW WELL the user/ learner performs (CEFR 2001 Chapter 5) | Of relevance to |
 | --- | --- | --- | --- |
@@ -1098,9 +928,13 @@ A quality assurance matrix for CEFR use36 (CEFR QualiMatrix), available in Engli
 CEFTrain (Common European Framework of Reference for Languages in Teacher Training).37 34.	 Trim J. (ed.) (2001), “Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users”, Langauge Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680697848. 35.	 Piccardo E. (2014), “From communicative to action-oriented: a research pathway”. 36.	 Available at www.ecml.at/CEFRqualitymatrix. 37.	 www.helsinki.fi/project/ceftrain/index.php.35.html.
 
 34.	 Trim J. (ed.) (2001), “Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users”, Langauge Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680697848.
+
 35.	 Piccardo E. (2014), “From communicative to action-oriented: a research pathway”.
+
 36.	 Available at www.ecml.at/CEFRqualitymatrix.
+
 37.	 www.helsinki.fi/project/ceftrain/index.php.35.html.
+
 
 <!-- page:44 -->
 *Page 44 3 CEFR –­ Companion volume*
@@ -1137,58 +971,46 @@ Rosen É. and Reinhardt C. (eds) (2010), **Le point sur le Cadre européen commu
 
 <!-- page:46 -->
 
-Chapter 3
-THE CEFR ILLUSTRATIVE DESCRIPTOR
-SCALES: COMMUNICATIVE LANGUAGE
-ACTIVITIES AND STRATEGIES
-Figure 11 – Reception activities and strategies
-Reception activities
-Audio-visual
-Oral comprehension
-comprehension
-Overall oral Watching TV, film
-comprehension and video
-Understanding
-conversation between
-other people
-Understanding
-as a member of a
-live audience
-Understanding
-announcements
-and instructions
-Understanding audio
-(or signed) media
-and recordings
-3.1. RECEPTION
-Reception involves receiving and processing input: activating what are thought to be appropriate schemata in
-order to build up a representation of the meaning being expressed and a hypothesis as to the communicative
-intention behind it. Incoming co-textual and contextual cues are checked to see if they “fit” the activated
-schema – or suggest that an alternative hypothesis is necessary. In “oral reception”, the language user receives
-and processes live or recorded input produced by one or more other people. In “visual reception” (reading and
-watching) activities the user receives and processes as input written and signed texts produced by one or more
-people. In “audio-visual comprehension”, for which one scale (watching TV and film) is provided, the user watches
-TV, video or a film and uses multimedia, with or without subtitles, voiceovers or signing.
+### 3.1. RECEPTION
+
+Chapter 3 THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: COMMUNICATIVE LANGUAGE ACTIVITIES AND STRATEGIES
+
+### Figure 11 – Reception activities and strategies
+
+Reception Reception activities Reception strategies Audio-visual Reading Oral comprehension comprehension comprehension Watching TV, film Overall oral Overall reading Identifying cues and video comprehension comprehension and inferring Understanding Reading conversation between correspondence other people Understanding as a member of a Reading for orientation live audience Understanding
+
+<!-- db:id=figure_11_reception_activities_strategies type=figure render_as=text_diagram product_tier=context pages=47 -->
+### Figure 11 – Reception activities and strategies | figure_11_reception_activities_strategies
+
+```text
 Reception
-Reception strategies
-Reading
-comprehension
-Overall reading Identifying cues
-comprehension and inferring
-Reading
-correspondence
-Reading for orientation
-Reading for information
-and argument
-Reading instructions
-Reading as a
-leisure activity
+├── Reception activities
+│   ├── Oral comprehension
+│   │   ├── Overall oral comprehension
+│   │   ├── Understanding conversation between other people
+│   │   ├── Understanding as a member of a live audience
+│   │   ├── Understanding announcements and instructions
+│   │   └── Understanding audio (or signed) media and recordings
+│   ├── Audio-visual comprehension
+│   │   └── Watching TV, film and video
+│   └── Reading comprehension
+│       ├── Overall reading comprehension
+│       ├── Reading correspondence
+│       ├── Reading for orientation
+│       ├── Reading for information and argument
+│       ├── Reading instructions
+│       └── Reading as a leisure activity
+└── Reception strategies
+    └── Identifying cues and inferring
+```
+
 
 <!-- page:47 -->
 *Page 47*
 
-<!-- page:47 -->
-*Page 47*
+#### 3.1.1. Reception activities
+
+##### 3.1.1.1. Oral comprehension
 
 #### 3.1.1. Reception activities
 
@@ -1250,9 +1072,7 @@ This scale concerns two main situations: the first is when other participants in
 <!-- page:49 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 49*
 
-### Understanding as a member of a live audience
-
-This scale concerns understanding a speaker addressing an audience,** **for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
+Understanding as a member of a live audience This scale concerns understanding a speaker addressing an audience,** **for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
 
 - following a talk accompanying real artefacts (for example on a guided tour) and visual aids (for example
 
@@ -1264,7 +1084,7 @@ PowerPoint);
 
 - following a line of argument, distinguishing main points, etc.
 
-<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=assessment_action,detailed pages=50 -->
+<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=context pages=50-51 -->
 ### Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience
 
 |  | Understanding as a member of a live audience |
@@ -1277,7 +1097,8 @@ PowerPoint);
 |  | Can follow in outline straightforward short talks on familiar topics, provided these are delivered in clearly articulated standard language or a familiar variety. Can follow a straightforward conference presentation or demonstration with visual support (e.g. slides, handouts) on a topic or product within their field, understanding explanations given. Can understand the main points of what is said in a straightforward monologue (e.g. a guided tour), provided the delivery is clear and relatively slow. |
 | A2 | Can follow the general outline of a demonstration or presentation on a familiar or predictable topic, where the message is expressed slowly and clearly in simple language and there is visual support (e.g. slides, handouts). |
 |  | Can follow a very simple, well-structured presentation or demonstration, provided it is illustrated with slides, concrete examples or diagrams, it is delivered slowly and clearly with repetition, and the topic is familiar. Can understand the outline of simple information given in a predictable situation, such as on a guided tour (e.g. “This is where the President lives”). |
-
+| A1 | Can understand in outline very simple information being explained in a predictable situation like a guided tour, provided the delivery is very slow and clear and that there are long pauses from time to time. |
+| Pre-A1 | No descriptors available |
 
 <!-- page:50 -->
 *Page 50 3 CEFR –­ Companion volume*

@@ -719,7 +719,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -799,8 +800,15 @@
         },
         {
           "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 214
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -841,7 +849,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     }

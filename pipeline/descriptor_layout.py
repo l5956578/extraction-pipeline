@@ -160,11 +160,23 @@ def extract_prose_zone(
     page: fitz.Page,
     bbox: list[float],
     scale_title: str | None = None,
+    section_headers: list[str] | None = None,
 ) -> str:
     """Extract prose within an inventory-defined bounding box."""
     y_min, y_max = bbox[1], bbox[3]
     rows = _rows_in_zone(page, y_min, y_max)
-    return _format_rows(rows, scale_title)
+    body = _format_rows(rows, scale_title)
+    if not section_headers:
+        return body
+
+    header_parts: list[str] = []
+    for header in section_headers:
+        numbered = format_numbered_heading(header)
+        header_parts.append(numbered or f"### {header.strip()}")
+    prefix = "\n\n".join(header_parts)
+    if body:
+        return f"{prefix}\n\n{body}"
+    return prefix
 
 
 def extract_trailing_prose(page: fitz.Page, page_num: int, pdf_path) -> str:

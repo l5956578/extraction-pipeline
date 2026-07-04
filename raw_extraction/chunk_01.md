@@ -1063,10 +1063,8 @@ for reception are presented before those for production, although the latter app
 <!-- page:22 -->
 *Page 22 3 CEFR –­ Companion volume*
 
-Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions
-
 <!-- db:id=table_01_descriptive_scheme_updates type=table product_tier=context pages=23 -->
-### Table 1 – The RFEC descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
+### Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
 
 |  | In the 2001 descriptive scheme | In the 2001 descriptor scales | Descriptor scales updated in this publication | Descriptor scales added in this publication |
 | --- | --- | --- | --- | --- |
@@ -1109,6 +1107,8 @@ Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates an
 
 ### 1.1. SUMMARY OF CHANGES TO THE ILLUSTRATIVE DESCRIPTORS
 
+### 1.1. SUMMARY OF CHANGES TO THE ILLUSTRATIVE DESCRIPTORS
+
 Table 2 summarises the changes to the CEFR illustrative descriptors and also the rationale for these changes. A short description of the development project is given in Appendix 6, with a more complete version available in the paper by Brian North and Enrica Piccardo: “Developing illustrative descriptors of aspects of mediation for the CEFR”.19 Table 2 – Summary of changes to the illustrative descriptors
 
 <!-- db:id=table_02_summary_descriptor_changes type=table product_tier=context pages=24-25 -->
@@ -1136,10 +1136,13 @@ Table 2 summarises the changes to the CEFR illustrative descriptors and also the
 
 19.	 North B. and Piccardo E (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31.
 
+20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
+
+19.	 North B. and Piccardo E (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31.
+
+
 <!-- page:24 -->
 *Page 24 3 CEFR –­ Companion volume*
-
-20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
 
 <!-- page:25 -->
 *Introduction  Page 25*

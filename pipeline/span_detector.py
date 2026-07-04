@@ -71,7 +71,54 @@ def _has_table_caption(text: str) -> bool:
 def _slug_from_title(title: str) -> str:
     from pipeline.utils import slugify
 
-    return slugify(title, prefix="scale")
+    fixed = fix_rotated_title(title)
+    return slugify(fixed, prefix="scale")
+
+
+def _normalize_title(title: str | None) -> str | None:
+    if not title:
+        return None
+    return re.sub(r"\s+", " ", fix_rotated_title(title).strip()).lower()
+
+
+def _add_continuation(
+    groups: list[SpanGroup],
+    gid: str,
+    start_page: int,
+    end_page: int,
+    title: str,
+    doc: fitz.Document,
+) -> None:
+    if any(g.group_id == gid and g.start_page == start_page for g in groups):
+        return
+    pages = range(start_page - 1, end_page)
+    groups.append(
+        SpanGroup(
+            group_id=gid,
+            span_type="continuation",
+            start_page=start_page,
+            end_page=end_page,
+            title=fix_rotated_title(title),
+            rotated=any(_is_rotated(doc[p]) for p in pages),
+        )
+    )
+
+
+def _detect_adjacent_title_continuations(
+    pdf: pdfplumber.PDF,
+    doc: fitz.Document,
+    groups: list[SpanGroup],
+) -> None:
+    """Match continuation when page N and N+1 share the same first-table title."""
+    for i in range(len(pdf.pages) - 1):
+        t1 = _first_table_title(pdf.pages[i])
+        t2 = _first_table_title(pdf.pages[i + 1])
+        if not t1 or not t2:
+            continue
+        if _normalize_title(t1) != _normalize_title(t2):
+            continue
+        gid = _slug_from_title(t1)
+        _add_continuation(groups, gid, i + 1, i + 2, t1, doc)
 
 
 def detect_spans() -> list[SpanGroup]:
@@ -142,13 +189,31 @@ def detect_spans() -> list[SpanGroup]:
                     )
                 )
 
+        _detect_adjacent_title_continuations(pdf, doc, groups)
+
     # Explicit known continuations from analysis
     explicit = [
         ("scale_vocabulary_control", "continuation", 132, 133, "Vocabulary control"),
         ("table_02_summary_descriptor_changes", "continuation", 24, 25, "Table 2"),
+        (
+            "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+            "continuation",
+            106,
+            107,
+            "Expressing a personal response to creative texts (including literature)",
+        ),
+        (
+            "scale_setting_and_perspectives",
+            "continuation",
+            162,
+            163,
+            "Setting and perspectives",
+        ),
     ]
     for gid, stype, s, e, title in explicit:
-        if not any(g.group_id == gid and g.start_page == s for g in groups):
+        if stype == "continuation":
+            _add_continuation(groups, gid, s, e, title, doc)
+        elif not any(g.group_id == gid and g.start_page == s for g in groups):
             pages = range(s - 1, e)
             groups.append(
                 SpanGroup(

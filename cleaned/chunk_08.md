@@ -68,6 +68,17 @@
 <!-- page:177 -->
 *Page 177*
 
+<!-- db:id=table_self_assessment_grid type=section_block product_tier=base pages=178-179 -->
+### Self-Assessment Grid (Expanded with Online Interaction and Mediation) | table_self_assessment_grid
+
+| ro literary .works reviews fo professional summaries and I can produce signiifcant .points notice and remember helps the recipient logical structure that case with na effective articles that present a ,letters reports ro I can produce complex ni na appropriate .style smoothly lfowing text I can produce ,clear | reader I have ni .mind appropriate ot the kinds fo texts ni a style I can produce different salient .issues consider ot eb the underlining what I na essay ro a ,report complex subjects ni expositions fo I can produce detailed .length points fo view ta some ,text expressing ,clear derutcurts-llew I can express myself ni | point fo .view ro against a particular reasons ni support fo information ro giving ro ,report passing no I can produce na essay related ot ym .interests wide range fo subjects detailed text no a I can produce ,clear | ro fo personal .interest topics that are familiar connected text no straightforward I can produce | .”because“ like ,”and“ ”but“ and simple connectors sentences linked with fo simple phrases and I can produce a series | .sentences isolated phrases and I can produce simple | Written production |
+| --- | --- | --- | --- | --- | --- | --- |
+| signiifcant .points and remember the recipient notice structure that helps na effective logical context and with appropriate ot the argument ni a style description ro smoothly lfowing I can present a ,clear | .conclusion with na appropriate and rounding off particular points ,themes developing integrating -sub fo complex subjects detailed descriptions I can present ,clear | various .options disadvantages fo the advantages and topical issue giving viewpoint no a I can explain a ifeld fo .interest subjects related ot ym no a wide range fo detailed descriptions I can present ,clear | describe ym .reactions a book ro iflm and ro relate the plot fo I can narrate a story opinions and .plans explanations for reasons and I can brielfy give hopes and .ambitions ,events ym ,dreams experiences and order ot describe ni a simple way ni I can connect phrases | .job present ro most recent background and ym ym educational living ,conditions and other ,people terms ym family ot describe ni simple phrases and sentences I can use a series fo | .know I live and people I ot describe where phrases and sentences I can use simple | Oral production |
+| 2C | 1C | 2B | 1B | 2A | 1A | Production |
+| sa .appropriate lfexibly and sensitively language and tone ,reactions adjusting issues and emotional communication ,misunderstandings with possible and deal effectively I can anticipate .interaction virtually any type fo tone and style ni ni na appropriate I can express myself | .exemplifying yb clarifying and issues that arise problems and cultural with communication I can deal effectively lfexibly and .effectively language and register ,precision adapting ym myself with clarity and issues and can express ,complex abstract contributions no implications fo other the intentions and I can understand | .collaboration ideas and support ,experiences justify ,facts events and signiifcance fo I can highlight the .evitarepo-oc time and are generally ,language allow em avoid complex provided the others ro ,disagreements misunderstandings theirs and handling ym contributions ot several ,people linking I can interact with | complex .concepts ot clarify more statistics and graphs such sa ,images there are visual aids a ,project provided group working no I can interact with a .detail questions ni some ot comments and and can respond simple clariifcations I can ask for ro give .beforehand I can prepare ,feelings provided impressions and ,experiences ,events I can interact about | .interlocutor task with a supportive collaborate ni a shared instructions and can can follow simple sa ordering ,goods transactions such I can complete simple answers ot .questions ,thanks apology ro ot comments with and responding ro what I ,need ,feel what I ma doing expressing how I social ,interaction I can engage ni basic | personal .details iflling ni forms with simple ,purchase I can complete a very and .media other ,posts images I can react simply ot ni a very simple .way respond ot comments I liked ,ti and can what I did and how statements about simple greetings sa I can post ,short | Written online and interaction |
+| hardly aware fo .ti that other people are diiffculty os smoothly restructure around the I can backtrack and I od have a problem meaning .precisely fI ifner shades fo lfuently and convey I can express myself and .colloquialisms idiomatic expressions good familiarity with discussion and have a conversation ro effortlessly ni any I can take part | .others skilfully ot those fo ym contribution precision and relate and opinions with I can formulate ideas professional .purposes for social and lfexibly and effectively I can use language .expressions obvious searching for without much spontaneously myself lfuently and I can express | sustaining ym .views accounting for and ni familiar ,contexts part ni discussion I can take na active quite .possible fo the target language interaction with users that makes regular and spontaneity a degree fo lfuency I can interact with | and current .)events ,hobbies ,work travel life .g.e( ,family pertinent ot everyday fo personal interest ro topics that are ,familiar into conversation no I can enter unprepared language si .spoken ni na area where the arise while travelling situations likely ot I can deal with most | going .myself keep the conversation understand enough ot though I t’nac usually social ,exchanges even I can handle very short .activities familiar topics and fo information no direct exchange a simple and tasks requiring ni simple and routine I can communicate | familiar .topics need ro no very areas fo immediate simple questions ni I can ask and answer ma trying ot .express em formulate what I slower rate and help rephrase things ta a prepared ot repeat ro the other person si simple way provided I can interact ni a | Oral interaction |
+| 2C | 1C | 2B | 1B | 2A | 1A | Interaction |
+
 <!-- page:178 -->
 *Page 178 3 CEFR – Companion volume*
 
@@ -82,7 +93,7 @@
 
 <!-- page:182 -->
 
-<!-- db:id=scale_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-184 -->
+<!-- db:id=scale_phonology type=descriptor_scale product_tier=context pages=183-184 -->
 ### Phonology | scale_phonology
 
 | | endi |
@@ -159,50 +170,12 @@
 <!-- page:184 -->
 *Page 184 3 CEFR – Companion volume*
 
-| Uses | basic |
-| --- | --- |
-| patterns | with |
-| phrases, | groups |
-| few | words/signs |
-| formulae | in |
-| communicate | limited |
-| information | in |
-| everyday | situations. |
-| conversation | to |
-| their | accord. |
-| own | and |
-| affect | intelligibility, |
-| aANeWIEND | requiring |
-| from | interlocutors. |
-| | Nevertheless, |
-| pronunciation | of |
-| saunyeoy | words |
-| | yo |
-| | Uayods |
-| Has | basic |
-| abenBue] | repertoire |
-| signs | and |
-| related | to |
-| papuedxa) | details |
-| concrete | situations. |
-| words, | and |
-| communication. | is |
-| yam | repetition, |
-| | repair. |
-| «(ABojouoyd | reproduce |
-| Can | limited |
-| a | sounds |
-| simple, | as |
-| on | and |
-| | a0e |
-| | $81 |
-
 <!-- page:185 -->
 *Qualitative features of spoken language (expanded with phonology) Page 185*
 
 <!-- page:186 -->
 
-<!-- db:id=scale_argument type=descriptor_scale product_tier=assessment_action,context pages=187-188 -->
+<!-- db:id=scale_argument type=descriptor_scale product_tier=context pages=187-188 -->
 ### Argument | scale_argument
 
 | WRITTEN | ASSESSMENT |
@@ -288,31 +261,6 @@
 
 <!-- page:188 -->
 *Page 188 3 CEFR – Companion volume*
-
-| Can | write |
-| --- | --- |
-| simple | phrases |
-| sentences | linked |
-| simple | connectors |
-| like | “and”, |
-| “because”, | Longer |
-| contain | expressions |
-| and | may |
-| problems | that |
-| text | hard |
-| Can | write |
-| phrases | and |
-| Longer | texts |
-| expressions | and |
-| coherence | problems |
-| that | make |
-| hard | or |
-| | understand. |
-| | UUM |
-| | juowssasse |
-| | «pub |
-| | 2604 |
-| | 681 |
 
 <!-- page:189 -->
 *Written assessment grid Page 189*
@@ -703,71 +651,25 @@
 | assemble | piece |
 | furniture | a |
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Relaying | specific |
-| sojduexy | Can |
-| about | times |
-| (delivered | in |
-| Jo | programmes |
-| asn | work |
-| location | of |
-| JUaJOYIP | Ul |
-| Can | relay |
-| sUJEWOP | and |
-| repeated | very |
-| time | closes, |
-| 40 | toilets |
-| | s40Jd\|>SOP |
-| | a |
-| Can | relay |
-| Jo | numbers |
-| UIJUO | Language |
-| menus | including |
-| destination | and |
-| UOR>2e/23UI | information |
-| seating | availability, |
-| price, | etc. |
-| | pue |
-| | UoReIpaw |
-| | «Sanian2e |
-| | 262d |
-| | 10z |
+| timetables fo a school ,trip school destination and cost school ,supplies the fo a uniform ro ,school the cost the location fo a | not[ ]applicable | ,price .etc seating ,availability information ,schedule performance travel ,itineraries fo ,goods ,timetables fo a ,shop the prices the name and address | and main ingredients menus including prices ,restaurant restaurant phone number fo a the ,name address and | Language .)A numbers and )prices from ,short ,simple illustrated texts ni( Can relay ni( Language )B very basic information .g.e( | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| school trip meeting location for a school ,timetable the | time from na liam-e a meeting location and | toilets ,closes location fo when a store /opens sllaw/sdraob about notices no bulletin | time including date and dinner invitations restaurant ,reservations | repeated very slowly and .clearly and times given( ni Language ,)A provided these are Can relay ni( Language )B simple instructions about places | |
+| water fountains ,canteen toilets and the location fo the ro loohcs-retfa ,activity fo a school excursion the location and time | machines location fo ,toilets drink work ,hours ,breaks the information about time fo a ;meeting gnihsinfi/gnitrats the location and | travel itineraries ,ecnamrofrep/tneve starting time fo na the location and | programmes fo interest about upcoming announcements VT schedule | delivered( ni Language .)A about times and places given ni ,short simple statements Can relay ni( Language )B ,simple predictable information | 1A |
+| Educational | Occupational | cilbuP | Personal | Relaying speciifc information ni speech ro sign | |
+| Text and( discourse )environment | | | | | |
+| Mediating a text | | | | | |
 
-| | 26e4 |
-| --- | --- |
-| «707 | Mediating |
-| Text | (and |
-| ¥43D | Relaying |
-| | - |
-| | uojueduioy |
-| | ‘auinjon |
-| 1 | No |
-| Can | relay |
-| a | conference |
-| out | which |
-| relation | toa |
-| issue | project |
-| Can | relay |
-| contained | in |
-| B2+ | texts |
-| academic | and |
-| by | a |
-| university | professor |
-| Can | relay |
-| contained | in |
-| or | professional |
-| community | meeting |
-| Can | relay |
-| decisions | that |
-| were | a |
-| Can | relay |
-| contained | in |
-| for | member |
-| notice | or |
-| complaint | new |
-| sent | during |
+| sent during a project request for information na organisation ot a ,parents ni a reply from a school principal ot ni a circular sent yb | complaint new ;conditions ni a notice ro stating from a partner giving ,employees ni a letter ni a circular sent ot | for a trip ro service terms and conditions | member for a friend ro family ro insurance policy a rental agreement | contained ni formal correspondence ni( Language .)A Can relay ni writing ni( Language )B the signiifcant )s(tniop | 2B |
+| --- | --- | --- | --- | --- | --- |
+| representatives fo student from a meeting | meeting from a business | from a club | not[ ]applicable | decisions that were taken ni a meeting ni( Language .)A Can relay ni a written report ni( Language )B relevant | |
+| professor for a classmate ro a ,article book ro journal information from na | article from a ,report business | community meeting si the subject fo a particular issue that ni relation ot a | | ro professional .journal contained ni na article ni( Language )A from na academic Can relay ni writing ni( Language )B the relevant )s(tniop | +2B |
+| university professor delivered yb a ro a presentation taken from a ,lecture ,article ,website notes information from na | workplace policy ,report regulation ro from a business | yb a cilbup authority announcement made tax ,laws a notice ro such sa housing ro cilbup regulations | | academic and personal .interest texts ni( Language )A within their ifelds fo ,professional contained ni propositionally complex but derutcurts-llew Can relay ni writing ni( Language )B the relevant )s(tniop | |
+| project relation ot a particular web talk ,sites ni ,conference no various from na academic | ot a particular project ,conference ni relation a professional from a trade ,fair | issue relation ot a particular web talk ,sites ni ,conference no various from a press | | out which would eb worth detailed .consideration a conference given( ni Language )A were ,relevant pointing Can relay ni writing ni( Language )B which presentations ta | |
+| | | | | oN descriptors :available see +2B | 1C |
+| | | | | oN descriptors :available see +2B | 2C |
+| Educational | Occupational | cilbuP | Personal | Relaying speciifc information ni writing | |
+| Text and( discourse )environment | | | | | |
+| Mediating a text | | | | | |
 
 | Relaying | specific |
 | --- | --- |
@@ -809,41 +711,14 @@
 | or | other |
 | £07 | described |
 
-| | 26ed |
-| --- | --- |
-| ¥OZ | Mediating |
-| < | Text |
-| W43D | Relaying |
-| | - |
-| | uojueduioy |
-| Can | list |
-| simple | messages |
-| ‘auinjon | A), |
-| announcements | of |
-| personal | interest |
-| family | or |
-| Can | list |
-| in | simple |
-| immediate | interest |
-| travel | itineraries, |
-| timetables, | directions |
-| an | advertisement |
-| science | class, |
-| museum | visit |
-| school | trip |
-| Can | list |
-| simple | information |
-| Language | A), |
-| clear, | with |
-| meeting | point |
-| Can | list |
-| simple | information |
-| of | immediate |
-| language | and |
-| and | main |
-| information | schedule, |
-| seating | availability, |
-| price, | etc. |
+| timetables fo a school ,trip school destination and cost school ,supplies the fo a uniform ro ,school the cost the location fo a | not[ ]applicable | ,price .etc seating ,availability information ,schedule performance travel ,itineraries fo ,goods ,timetables fo a ,shop the prices the name and address | and main ingredients menus including prices ,restaurant restaurant phone number fo a the ,name address and | language and contain .illustrations fo immediate ,interest that are composed ni very simple simple information from texts ni( Language )A that are Can list ni( Language )B ,names ,numbers prices and very | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| meeting point ,timetable schedule ro about a change ot a telephone message a ,simple short | a colleague telephone message for a ,short simple | closes when a store /opens announcements about | products demonstrating repeatedly from a VT channel | ,clear with .repetition Language ,)A provided the articulation si very slow and simple information fo immediate interest ni oral texts ni( Can list ni( Language )B ,names ,numbers prices and very | 1A |
+| school trip museum visit ro other science ,class about a experiment ni a how ot od a simple homework ,assignment school ,task test ro ,readings about a ,textbooks class | na advertisement requirements posted ni safety ,procedures job ,equipment about how ot operate simple manual instructions no | ,timetables directions travel ,itineraries ,brochures ,lealfets ,prospectuses ,advertisements | prepare a meal instructions no how ot household ,manuals | immediate interest ro .need ni simple texts ni( Language )A no everyday subjects fo Can list ni( Language )B speciifc information contained | 2A |
+| assigned ,assignment homework sa part fo a group ,closings task roles schedules ro /openings school ,timetables | work procedures a ,colleague changes ot telephone message for | delay about a train ro lfight gate and ta what ,time train platform ro lfight get from X ot ,Y which directions no how ot | family ro friends personal interest for announcements fo ro ,housemates messages for family simple telephone | ,)A provided they are clearly and slowly .articulated simple messages and announcements given( ni Language Can list ni( Language )B the main points fo ,short ,clear | |
+| Educational | Occupational | cilbuP | Personal | Relaying speciifc information ni writing | |
+| Text and( discourse )environment | | | | | |
+| Mediating a text | | | | | |
 
 | Explaining | data |
 | --- | --- |
@@ -1122,37 +997,15 @@
 | familiar | and |
 | | LLZ |
 
-| | <ZLZ26ed |
-| --- | --- |
-| Mediating | a |
-| ee | Text |
-| WII | g |
-| | - |
-| | uoJueduioy |
-| Can | report |
-| information | contained |
-| texts | (in |
-| ‘auinjon | notices |
-| timetables, | graffiti, |
-| A2+ | programmes, |
-| Can | summarise |
-| topics. | short |
-| news | item, |
-| brochures, | simple |
-| guide | entries |
-| Can | (in |
-| in | clearly |
-| A), | supplementing |
-| (e.g. | drawings, |
-| means | languages) |
-| to | so. |
-| Can | convey |
-| information | given |
-| posters | and |
-| e.g. | whose |
-| cook/clean/wash | up |
-| times | of |
-| No | descriptors |
+| | | | | oN descriptors available | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| programme no events ni the social class ,lists information | schedules ,warnings notices with giving locations ro/dna signs and notices | times fo events announcing and giving programmes posters and giving ,directions signs and notices | hsaw/naelc/kooc pu .g.e whose turn ti si ot pinned ot the ,fridge ,doors information notes no ’teenagers | posters and programmes ni( Language .)A information given ni ,short very simple signs and ,notices Can convey ni( Language )B ,simple predictable | 1A |
+| picture stories fo ,places very simple illustrated descriptions weather ,reports short | not[ ]applicable | fo services ,transport availability times and costs fo information about | instructions simple assembly weather ,reports very | )languages ni order ot od .os means .g.e( ,gestures ,drawings sngis/sdrow from other ,)A supplementing their limited repertoire with other ni clearly ,structured ,short simple texts ni( Language Can convey ni( Language )B the main )s(tniop contained | 2A |
+| ro examinations descriptions fo courses and ,assignments details fo tasks | ifnancial performance reports fo annual | )police lealfets .g.e( ,hospital ,museums institutional information panels ni | guide entries ,brochures simple news ,item /website information ni a ,who“ ,when ”where | .topics short informational texts ni( Language )A no familiar Can summarise ni( Language )B the main )s(tniop ni ,simple | +2A |
+| information with tables fo text about a ,country simple informational na illustrated ,story a | schedule the details fo a work | ,programmes tickets ,timetables ,graiffti notices and ,posters information ni ro sport ,event options for a concert | item information ni a news ,who“ ,when ”where | texts ni( Language )A that have illustrations ro .tables information contained ni clearly ,structured ,short simple Can report ni simple sentences ni( Language )B the | |
+| Educational | Occupational | cilbuP | Personal | Processing text ni speech ro sign | |
+| Text and( )discourse | | | | | |
+| Mediating a text | | | | | |
 
 | Mediating | a |
 | --- | --- |
@@ -1229,42 +1082,15 @@
 | brochures, | short |
 | | articles |
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Processing | text |
-| sejdweXy | Can |
-| the | original |
-| advertisements, | notices, |
-| Jo | website |
-| asn | information |
-| changes | to |
-| yUaJ2yIp | UI |
-| | programmes |
-| Can | list |
-| sUTeEWop | relevant |
-| Language | A), |
-| A2+ | subjects |
-| 40} | guide |
-| s10}duDSap | Can |
-| short | sentences |
-| limited | competence |
-| Jo | Can |
-| BUI\|UO | main |
-| ‘on | familiar |
-| frequency | vocabulary; |
-| UOR2e293U! | comprehensible. |
-| Can | copy |
-| | format. |
-| pue | of |
-| UORe!PaUs | Can, |
-| the | meaning |
-| and | information |
-| Can | single |
-| <saRIAR2e | standard |
-| No | descriptors |
-| | a0e4 |
-| | $17 |
+| | | | | oN descriptors available | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| academic regulations simple ,narratives | their ifeld reports no subjects ni simple instructions and | information transportation cilbup ,notices | letters with news | standard printed .format Can copy out single words and short texts presented ni and everyday .themes the meaning fo simple phrases ni( Language )A no familiar ,Can with the help fo a ,dictionary convey ni( Language )B | 1A |
+| such sa for na exam academic regulations ,narratives general ,simple short | toner no a printer how ot change the instructions such sa simple work | guidebook entries cilbup ,notices | | .format Can copy out short texts ni printed ro clearly handwritten .comprehensible frequency ;vocabulary despite ,errors the text remains no familiar and everyday themes that contain the highest main )s(tniop contained ni very short texts ni( Language )A Can use simple language ot convey ni( Language )B the | 2A |
+| textbook extracts ro ,examinations descriptions fo courses and ,assignments details fo tasks | instructions for a task ,notices ,regulations | )police lealfets .g.e( ,hospital ,museums institutional information panels ni | guide entries ,descriptions simple ,item eruhcorb/etisbew information ni a news ,who“ ,when ”where | limited competence and .experience short sentences from a short text within the s’renrael Can pick out and reproduce key words and phrases ro subjects and contain only simple everyday .language Language ,)A provided the texts concern ,concrete familiar relevant information contained ni short simple texts ni( Can list sa a series fo bullet points ni( Language )B the | +2A |
+| articles ,summaries short ,entries ,websites news ,narratives textbook | letters ,reports business | event programmes changes ot ,services information about lealfets providing ,notices ,regulations cilbup statements and short oiffcial ,letters | website texts ,advertisements ,articles ,brochures personal ,letters short | the original text wording and .ordering Can paraphrase short passages ni a simple ,fashion using | 1B |
+| Educational | Occupational | cilbuP | Personal | Processing text ni writing | |
+| Text and( )discourse | | | | | |
+| Mediating a text | | | | | |
 
 | | 26e4 |
 | --- | --- |
@@ -1336,48 +1162,18 @@
 | educated | readership |
 | | £17 |
 
-| | BLZ26ed |
-| --- | --- |
-| Mediating | a |
-| < | Text |
-| | Y4ID |
-| | - |
-| | uoJueduioy |
-| Can | translate |
-| academic | and |
-| es | in |
-| ‘auinjon | and |
-| associated | with |
-| over-influenced | by |
-| | _ |
-| Can | produce |
-| B2+ | Ainto |
-| but | may |
-| punctuation | and |
-| Can | produce |
-| follow | the |
-| (in | Language |
-| text | accurately, |
-| source | awkwardly. |
-| Can | produce |
-| Ainto | Language |
-| “SF | are |
-| following | the |
-| errors | may |
-| Can | produce |
-| into | Language |
-| texts | written |
-| errors, | the |
-| Can | use |
-| translation | short |
-| on | and |
-| the | highest |
-| translation | remains |
-| | a |
-| Can, | with |
-| signs | and |
-| may | not |
-| No | descriptors |
+| | | | | oN descriptors available | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| academic regulations simple ,narratives | their ifeld reports no subjects ni simple instructions and | information transportation cilbup ,notices | letters with news | may not always select the appropriate .meaning signs and phrases from( Language A into Language ,)B but ,Can with the help fo a ,dictionary translate simple /words | 1A |
+| such sa for na exam academic regulations ,narratives general ,simple short | toner ni a printer how ot change the instructions such sa simple work | guidebook entries cilbup ,notices | | translation remains .comprehensible the highest frequency ;vocabulary despite ,errors the short texts no familiar and everyday themes that contain translation from( Language A into Language )B fo very Can use simple language ot provide na approximate | 2A |
+| regulations general academic | subjects ni their ifeld ,instructions reports no straightforward ,letters | opinion ,entries statements fo ,regulations guidebook describing general cilbup documents | interest articles fo general letters with ,news | ,errors the translation remains .comprehensible texts written ni ,uncomplicated standard ;language despite into Language )B fo information contained ni ,short factual Can produce approximate translations from( Language A | 1B |
+| academic regulations ,narratives general straightforward | | | | Language from( translations approximate produce Can that texts factual ,straightforward fo )B Language into A closely ,language standard ,uncomplicated ni written are linguistic although ;original the fo structure the following .comprehensible remains translation the ,occur may errors | +1B |
+| | subjects ni their ifeld ,instructions reports no straightforward ,letters | | | .awkwardly source text ,accurately though the translation may read text ni( Language ,)A conveying the main points fo the follow the sentence and paragraph structure fo the original Can produce translations into( Language )B that closely | 2B |
+| ,stories plays ,books ,novels short academic papers and | snoitacilbup professional articles and other ,reports ,regulations ifnancial ro project ,scientiifc ,technical | policy documents ,speeches ,sermons | colloquial writings ,newspaper some ni a magazine ro ,letters articles | Language from( translations organised clearly produce Can usage language normal relfect that )B Language into A ,paragraphing ,order the yb decneuflni-revo eb may but .original the fo formulations particular and noitautcnup | +2B |
+| ,books literary criticism academic papers and | | | stories ,newspaper short ni a magazine ro ,letters articles | decneuflni-revo yb the .original associated with ,them though some expression may eb and ,arguments including many fo the implications ni Language ,)A successfully conveying evaluative aspects academic and professional subjects ni their ifeld written( Can translate into( Language )B abstract texts no ,social | 1C |
+| Educational | Occupational | cilbuP | Personal | Translating written text ni writing | |
+| Text and( discourse )environment | | | | | |
+| Mediating a text | | | | | |
 
 | Mediating | a |
 | --- | --- |
@@ -1526,45 +1322,13 @@
 | them | use |
 | No | descriptors |
 
-| sajdweXy | Can |
-| --- | --- |
-| and | genres |
-| subtle | distinctions |
-| Jo | meaning. |
-| asn | finer |
-| Can | recognise |
-| jUaJayIP | UI |
-| abnormal | syntax, |
-| meanings | and |
-| Can | critically |
-| sUleEWop | language |
-| for | a |
-| concerning | their |
-| | 40} |
-| s40}dUDSap | Can |
-| linguistic | conventions |
-| Can | critically |
-| Jo | literary |
-| | BUI\|UO |
-| Can | evaluate |
-| conventions | of |
-| UOR2e293U! | Can |
-| engages | the |
-| | expectations). |
-| | pue |
-| UOVe!PaUs | Can |
-| and | scenes, |
-| explaining | the |
-| them. | just |
-| «SaRIARZe | sculptures |
-| Can | of |
-| the | thematic, |
-| referring | to |
-| a0ed | Can |
-| with | characters, |
-| | £77 |
-| Can | describe |
-| their | treatment |
+| ni class literary work studied short story ro other a ,novel ,poem ,play | not[ ]applicable | ro cultural institute organised yb a teacher reading circle a foreign language read sa a member fo novel ro short story a more straightforward | discussion with friends ni a museum – ni cultural artefacts sculptures ni a ,gallery just ,seen paintings ro musical ro other show just ,read a ,play ,iflm a novel ro short story | their treatment fo the same .theme Can describe the way ni which different works differ ni with ,characters giving .examples Can evaluate the way the work encourages identiifcation referring ot the opinions and arguments fo .others fo the ,thematic structural and formal features and Can give a reasoned opinion fo a ,work showing awareness .them explaining the relevance fo the connections between and ,scenes exploring similarities and contrasts and Can compare two ,works considering ,themes characters | 2B |
+| --- | --- | --- | --- | --- | --- |
+| course studied ni a literature contemporary work other classical ro ,play short story ro a ,novel ,poem | | institute ro club organised yb a cultural fo a cultural circle the journal ro blog ro s’tsitra life work for a ,novel ,iflm s’retirw ni writing a review fo | not[ ]applicable | .)expectations engages the audience .g.e( yb building pu and subverting Can describe and comment no ways ni which the work conventions fo its .genre Can evaluate the extent ot which a work follows the literary works fo different periods and .genres Can critically appraise a wide variety fo texts including | 1C |
+| | | | | linguistic conventions ni a piece fo .writing Can give a critical appreciation fo deliberate breaches fo concerning their appropriateness and .effectiveness for a particular esoprup and give a reasoned argument language and rhetorical devices are exploited ni a work Can critically evaluate the way ni which ,structure meanings and .connotations abnormal ,syntax ,)ambiguity interpreting and ”unpacking“ rhetorical effect and stylistic language use .g.e( ,metaphors Can recognise the ifner subtleties fo nuanced ,language .meaning subtle distinctions fo style and implicit sa well sa explicit and genres .g.e( ,novels poems and ,)plays appreciating Can give a critical appraisal fo work fo different periods | 2C |
+| Educational | Occupational | cilbuP | Personal | texts including( )literature Analysis and criticism fo creative | |
+| Text and( discourse )environment | | | | | |
+| Mediating a text | | | | | |
 
 | | 26% |
 | --- | --- |
@@ -2012,43 +1776,17 @@
 | (eg. | festivals, |
 | | demonstrations) |
 
-| Me | ing |
-| --- | --- |
-| ituation | (and |
-| sajdweXy, | Can, |
-| adapt | the |
-| procedures. | friends |
-| Jo | commercial |
-| asn | with |
-| JUa2yIp | UI |
-| conversation, | showing |
-| answering | simple |
-| and | understanding. |
-| ULeWOp | B1+ |
-| Can | in |
-| recognising | act |
-| 105 | members |
-| s1oydUuDsap | group. |
-| Can | support |
-| repertoire | to |
-| Jo | backgrounds |
-| aUI\|UO | awareness |
-| differently | in |
-| UOADeI9zU! | Can |
-| exchanging | information |
-| attitudes | to |
-| pue | Can |
-| UOHe!paU | words/signs |
-| clarification | of |
-| repertoire | to |
-| Can | facilitate |
-| <seRIAR2e | welcoming |
-| and | non-verbal |
-| and | by |
-| addressed | directly. |
-| | 260d |
-| No | descriptors |
-| | ££7 |
+| | | | | oN descriptors available | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| group person who joins the welcoming a new sa a student | workplace introduced into the when a newcomer si | restaurants and conversations ta ni simple exchanges | visitors sevitaler/sdneirf and conversation between ni a simple informal | addressed .directly and yb indicating whether they understand when and labrev-non ,signals yb inviting others ot ,contribute welcoming attitude and interest with simple sngis/sdrow Can facilitate na intercultural exchange yb showing a | 1A |
+| team into the s’loohcs sports welcoming students sa na instructor when | workplace newcomers into the when introducing | | | repertoire ot express ,agreement ot ,invite ot ,thank .etc clariifcation fo what they ,say while exploiting a limited sngis/sdrow ot ask people ot explain things and ot get Can contribute ot na intercultural ,exchange using simple | 2A |
+| | | | | attitudes ot language and .culture exchanging information ni a simple way about values and Can help develop a shared communication ,culture yb differently ni the cultures .concerned awareness that some questions may eb perceived backgrounds and ot ask and answer ,questions showing repertoire ot introduce people from different cultural Can support na intercultural exchange using a limited | 1B |
+| educational setting a multicultural ta a seminar ni | ,hours holidays simple ,tasks working colleagues about ni discussions with | community meeting during a multicultural | friends ro roommates shared activities with when organising | members fo the .group recognising the feelings and different worldviews fo other Can act ni a supportive manner ni intercultural ,encounters | +1B |
+| loohcs-fo-tuo activities with schoolmates ni | ro conversations telephone exchanges during detaler-krow between colleagues | locals during ,holidays with | backgrounds from different cultural friends and relatives conversations with ni everyday | and .understanding answering simple ,questions and expressing agreement ,conversation showing interest and empathy yb asking and Can support communication across cultures yb initiating | |
+| educational setting a multicultural ta a seminar ni | with colleagues commercial policies fo international the implementation when discussing | community meeting during a multicultural | friends ro roommates shared activities with when organising | .procedures adapt the way they work ni order ot create shared ,Can when collaborating with people from other ,cultures | 2B |
+| Educational | Occupational | cilbuP | Personal | Facilitating pluricultural space | |
+| Situation and( )roles | | | | | |
+| Mediating communication | | | | | |
 
 | | 26rd |
 | --- | --- |
@@ -2093,47 +1831,16 @@
 | of | important |
 | interlocutors | give |
 
-| Me | ing |
-| --- | --- |
-| Acting | intermediary |
-| as | \| |
-| situations | (with |
-| sajdweX, | Can |
-| is | said |
-| =F). | interest, |
-| Jo | and |
-| asn | beforehand |
-| everyday | language. |
-| JUa2yIp | UI |
-| Can | communicate |
-| what | is |
-| interest, | while |
-| uleWOp | ask |
-| clarification | and |
-| | things. |
-| 105 | Can |
-| s4oydusDsap | of |
-| following | basic |
-| essential | information, |
-| they | ask |
-| Jo | can |
-| aUI\|UO | A2+ |
-| telephone | relatives |
-| and | friends |
-| UOA2eIazU! | applying |
-| such | as |
-| | Utilities |
-| pue | Can |
-| UOHe!paUI | is |
-| conveying | back |
-| wants | and |
-| | formulation. |
-| | <seRIAR2e |
-| Can | details |
-| and | very |
-| Language | A), |
-| bed | No |
-| | 6£7 |
+| | | | | oN descriptors available | 1A-erP |
+| --- | --- | --- | --- | --- | --- |
+| origin from their country fo with a new student | client during a visit from a | sa a licensing oiffce offering ,services such ta a cilbup oiffce | friend circles tseug/rotisiv ot /family introduction fo a during the | Language ,)A provided other people help with .formulation details and very ,simple predictable information ni( Can communicate ni( Language )B other s’elpoep personal | 1A |
+| | | | | .formulation wants and ,needs provided other people help with conveying back and forth information about personal si said ni( Language )A ni predictable everyday ,situations Can communicate ni( Language )B the main point fo what | 2A |
+| | client during a visit from a party organise a leaving ta the workplace ot | sa a licensing oiffce offering ,services such ta a cilbup oiffce ,hobbies education about ,background ,guests conversing ta a restaurant with | utilities such sa the internet ro applying for a service and friends when telephone for relatives interpreting no the na outing make arrangements for relatives and visitors ot between /friends ni a conversation | they can ask for repetition and .clariifcation essential ,information provided ti si articulated clearly and following basic cultural conventions and conveying the fo what si said ni( Language )A ni everyday ,situations Can communicate ni( Language )B the overall sense | +2A |
+| performance a s’dlihc school meeting ot discuss a rehcaet–tnerap and ,outgoing ni exchange – incoming during a school | daily )events .g.e( no ,interests ,work /colleagues workmates conversations with ni everyday | )interests .g.e( no ,travel ,hobbies during a trip ro holiday with other travellers ni casual conversations | daily )events .g.e( no ,family ,work friends and relatives conversations with ni everyday | .things ask for clariifcation and pause ot plan how ot express provided the interlocutors articulate clearly and they can ,interest while following important politeness ,conventions what si said ni( Language )A no subjects fo personal Can communicate ni( Language )B the main sense fo | 1B |
+| | | | | everyday .language beforehand and the interlocutors articulate clearly ni and explicit cultural ,references provided they can prepare ,interest conveying straightforward factual information si said ni( Language )A no subjects within their ifelds fo Can communicate ni( Language )B the main sense fo what | +1B |
+| Educational | Occupational | cilbuP | Personal | situations with( friends and )colleagues Acting sa intermediary ni informal | |
+| Situation and( )roles | | | | | |
+| Mediating communication | | | | | |
 
 | | 262d |
 | --- | --- |
@@ -2223,6 +1930,9 @@
 <!-- page:191 -->
 *Page 191*
 
+<!-- db:id=scale_online_interaction type=descriptor_scale product_tier=context pages=192-193 -->
+### Online interaction | scale_online_interaction
+
 | | 26% |
 | --- | --- |
 | | Z61 |
@@ -2252,9 +1962,6 @@
 | or | asa |
 | an | online |
 | | meeting |
-
-<!-- page:192 -->
-*Page 192 3 CEFR – Companion volume*
 
 | ee | n |
 | --- | --- |
@@ -2299,218 +2006,26 @@
 | £61 | lexical |
 | inappropriate | formulation. |
 
+<!-- page:192 -->
+*Page 192 3 CEFR – Companion volume*
+
 <!-- page:193 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 193*
-
-| | 26ed |
-| --- | --- |
-| | HEL |
-| < | [Fesonst |
-| ¥4ID | Online |
-| | - |
-| | uoJUeduioy |
-| Can | introduce |
-| exchanges | online, |
-| and | exchanging |
-| ‘auinjon | topics, |
-| responses, | and |
-| ata | time. |
-| VES) | Can |
-| everyday | matters, |
-| simple | key |
-| Can | comment |
-| provided | they |
-| reacting | to |
-| surprise, | interest |
-| a | way. |
-| Can | engage |
-| a | simple |
-| sharing | news |
-| | meet). |
-| Can | make |
-| about | embedded |
-| basic | language, |
-| online | translation |
-| to | an |
-| Can | formulate |
-| online | postings |
-| about | hobbies, |
-| translation | tool. |
-| classroom | simulation |
-| Can | use |
-| simple | words/signs |
-| reactions | to |
-| links | and |
-| with | standard |
 
 <!-- page:194 -->
 *Page 194 3 CEFR – Companion volume*
 
-| post | simple |
-| --- | --- |
-| sejdweXy | Can |
-| expressions | and |
-| Can | post |
-| Jo | themselves |
-| asn | occupation), |
-| menu | and/or |
-| yUaJayIP | UI |
-| line | interaction |
-| sUeEWop | Goal-oriented |
-| and | collaboration |
-| 40} | Can |
-| s40}dUDSap | with |
-| project | organised |
-| Can | a |
-| of | group |
-| Jo | collaborative |
-| BUI\|UO | Can |
-| online, | formulating |
-| evaluating | proposals |
-| UOR2e293U! | providing |
-| shared | tasks. |
-| Can | deal |
-| pue | role |
-| UORe!paUs | adjusting |
-| negotiations. | advice |
-| or | Q&A |
-| Can | participate |
-| «SeRIAR2e | collaborative |
-| forms | of |
-| instructions | with |
-| Can | deal |
-| 20e4 | cultural |
-| transactional | exchange |
-| $61 | providing |
-
-| post | simple |
-| --- | --- |
-| sejdweXy | Can |
-| expressions | and |
-| Can | post |
-| Jo | themselves |
-| asn | occupation), |
-| menu | and/or |
-| yUaJayIP | UI |
-| line | interaction |
-| sUeEWop | Goal-oriented |
-| and | collaboration |
-| 40} | Can |
-| s40}dUDSap | with |
-| project | organised |
-| Can | a |
-| of | group |
-| Jo | collaborative |
-| BUI\|UO | Can |
-| online, | formulating |
-| evaluating | proposals |
-| UOR2e293U! | providing |
-| shared | tasks. |
-| Can | deal |
-| pue | role |
-| UORe!paUs | adjusting |
-| negotiations. | advice |
-| or | Q&A |
-| Can | participate |
-| «SeRIAR2e | collaborative |
-| forms | of |
-| instructions | with |
-| Can | deal |
-| 20e4 | cultural |
-| transactional | exchange |
-| $61 | providing |
-
 <!-- page:195 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 195*
-
-| | 26e4 |
-| --- | --- |
-| | «961 |
-| Goal-oriented | online |
-| ¥43D | and |
-| | - |
-| uoJUeduioy | Can |
-| their | area(s) |
-| reminding | it |
-| order | to |
-| ‘auinjon | Can |
-| exchanges | engage |
-| require | negotiation |
-| complicated | details |
-| Can | deal |
-| problems | that |
-| transactional | exchanges |
-| appropriately | in |
-| collection | issue) |
-| Can | collaborate |
-| project, | justifying |
-| a | playing |
-| tasks. | a |
-| non-governmental | work |
-| organisation) | goal |
-| Can | engage |
-| extended | exchange |
-| interlocutor(s) | avoid |
-| B1+ | to |
-| Can | interact |
-| project, | following |
-| clarification | and |
-| Can | engage |
-| exchanges | that |
-| explanation | of |
-| course, | tour |
-| Can | interact |
-| working | on |
-| such | as |
-| complex | concepts. |
-| | improvement |
-| Can | respond |
-| request | online. |
-| | task |
 
 <!-- page:196 -->
 *Page 196 3 CEFR – Companion volume*
 
-| Goal-oriented | online |
-| --- | --- |
-| and | collaboration |
-| Can | use |
-| sajdweXy, | problems |
-| availability | of |
-| | addresses). |
-| | Jo |
-| asn | Can |
-| a | simple |
-| JUa2yIp | UI |
-| are | visual |
-| clarify | the |
-| Can | make |
-| UleWOp | goods |
-| form | or |
-| and | confirming |
-| 105 | declining |
-| s4o}dUsDsap | a |
-| Can | ask |
-| product | feature. |
-| Can | respond |
-| Jo | questions |
-| aUI\|UO | with |
-| Can | complete |
-| UOA2eI9zU! | application, |
-| name, | e-mail |
-| and | illustrations |
-| | illustrations |
-| pue | Can |
-| UOHe!PaUI | colour) |
-| provided | there |
-| with | familiar |
-| and | illustrations |
-| | <SeRIAR2e |
-| | 2604 |
-| | £61 |
-
 <!-- page:197 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 197*
+
+<!-- db:id=scale_mediating_a_text type=descriptor_scale product_tier=context pages=198-199 -->
+### Mediating a text | scale_mediating_a_text
 
 | | 26e4 |
 | --- | --- |
@@ -2545,9 +2060,6 @@
 | or | procedures |
 | employment | or |
 | | care) |
-
-<!-- page:198 -->
-*Page 198 3 CEFR – Companion volume*
 
 | Mediating | a |
 | --- | --- |
@@ -2588,1074 +2100,89 @@
 | exchange | programme |
 | | 661 |
 
+<!-- page:198 -->
+*Page 198 3 CEFR – Companion volume*
+
 <!-- page:199 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 199*
-
-| | 26e4 |
-| --- | --- |
-| | 007 |
-| | < |
-| W439 | Relaying |
-| | - |
-| | uojueduioy |
-| | TV |
-| Can | relay |
-| announcement | (in |
-| ‘auinjon | everyday |
-| message | and |
-| circumstances | workplace |
-| upcoming | school |
-| | relay |
-| A2+ | Can |
-| contained | in |
-| Language | A) |
-| identifying | immediate |
-| public | hazards, |
-| itineraries, | of |
-| locations | club/ |
-| association | meetings, |
-| information | about |
-| sale | or |
-| Can | relay |
-| simple | messages, |
-| provided | these |
-| language | (in |
-| employment | or |
-| circumstances, | simple |
-| messages | left |
-| or | housemates |
-| meeting | times |
-| requests | to |
-| tasks | such |
-| out | the |
-| Can | relay |
-| simple | instructions, |
-| Language | A) |
-| assemble | piece |
-| furniture | a |
 
 <!-- page:200 -->
 *Page 200 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Relaying | specific |
-| sojduexy | Can |
-| about | times |
-| (delivered | in |
-| Jo | programmes |
-| asn | work |
-| location | of |
-| JUaJOYIP | Ul |
-| Can | relay |
-| sUJEWOP | and |
-| repeated | very |
-| time | closes, |
-| 40 | toilets |
-| | s40Jd\|>SOP |
-| | a |
-| Can | relay |
-| Jo | numbers |
-| UIJUO | Language |
-| menus | including |
-| destination | and |
-| UOR>2e/23UI | information |
-| seating | availability, |
-| price, | etc. |
-| | pue |
-| | UoReIpaw |
-| | «Sanian2e |
-| | 262d |
-| | 10z |
-
 <!-- page:201 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 201*
-
-| | 26e4 |
-| --- | --- |
-| «707 | Mediating |
-| Text | (and |
-| ¥43D | Relaying |
-| | - |
-| | uojueduioy |
-| | ‘auinjon |
-| 1 | No |
-| Can | relay |
-| a | conference |
-| out | which |
-| relation | toa |
-| issue | project |
-| Can | relay |
-| contained | in |
-| B2+ | texts |
-| academic | and |
-| by | a |
-| university | professor |
-| Can | relay |
-| contained | in |
-| or | professional |
-| community | meeting |
-| Can | relay |
-| decisions | that |
-| were | a |
-| Can | relay |
-| contained | in |
-| for | member |
-| notice | or |
-| complaint | new |
-| sent | during |
 
 <!-- page:202 -->
 *Page 202 3 CEFR – Companion volume*
 
-| Relaying | specific |
-| --- | --- |
-| sajdweXy | Can |
-| points | contained |
-| on | familiar |
-| Jo | instructions). |
-| asn | procedures, |
-| to | operate |
-| jUaJayIp | UI |
-| Can | relay |
-| information | contained |
-| sUleEWop | (in |
-| texts | on |
-| family | housemates |
-| 40} | in |
-| s40}dUDSap | sent |
-| about | when |
-| friend/family | steps |
-| to | member |
-| | Jo |
-| | BUI\|UO |
-| Can | relay |
-| given | in |
-| UON2e293U! | Language |
-| and | the |
-| task | such |
-| a | meal |
-| pue | the |
-| | UOVe!paUs |
-| Can | relay |
-| contained | in |
-| A), | provided |
-| «SaRIAR2e | and |
-| safety | procedures, |
-| A2+ | requirements |
-| an | advertisement |
-| a0e4 | about |
-| or | other |
-| £07 | described |
-
 <!-- page:203 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 203*
-
-| | 26ed |
-| --- | --- |
-| ¥OZ | Mediating |
-| < | Text |
-| W43D | Relaying |
-| | - |
-| | uojueduioy |
-| Can | list |
-| simple | messages |
-| ‘auinjon | A), |
-| announcements | of |
-| personal | interest |
-| family | or |
-| Can | list |
-| in | simple |
-| immediate | interest |
-| travel | itineraries, |
-| timetables, | directions |
-| an | advertisement |
-| science | class, |
-| museum | visit |
-| school | trip |
-| Can | list |
-| simple | information |
-| Language | A), |
-| clear, | with |
-| meeting | point |
-| Can | list |
-| simple | information |
-| of | immediate |
-| language | and |
-| and | main |
-| information | schedule, |
-| seating | availability, |
-| price, | etc. |
 
 <!-- page:204 -->
 *Page 204 3 CEFR – Companion volume*
 
-| Explaining | data |
-| --- | --- |
-| etc.) | in |
-| | of |
-| sejdweXy | Can |
-| Language | B) |
-| organised | information |
-| Jo | conceptually |
-| asn | professional |
-| for | family |
-| yUaJayIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-| SUeEWop | Can |
-| Language | B) |
-| in | complex |
-| 40} | 2} |
-| s40}duDSap | academic |
-| lecture | or |
-| | conference/round- |
-| table | event |
-| Jo | Can |
-| BUI\|UO | detailed |
-| charts | and |
-| in | Language |
-| UOR2e293U! | on |
-| Can | interpret |
-| information | in |
-| B1+ | text |
-| pue | hesitation |
-| | UOHVe!paUs |
-| Can | interpret |
-| shown | in |
-| text | in |
-| «san1AR2e | difficulty |
-| family | member |
-| basic | financial |
-| presented | during |
-| 20e4 | a |
-| meeting, | diagrammatic |
-| $07 | displays |
-| | museum |
-
 <!-- page:205 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 205*
-
-| | 2524 |
-| --- | --- |
-| | 907 |
-| < | ing |
-| | Y439D |
-| | - |
-| | uoJUedUIOD |
-| Can | interpret |
-| on | familiar |
-| (with | text |
-| ‘auunjoa | and |
-| features | of |
-| A2+ | device |
-| diagram, | identified |
-| toa | friend |
-| member | metro |
-| floor | plan |
-| or | shopping |
-| No | descriptors |
-| = | eee |
-| Explaining | data |
-| Can | interpret |
-| various | forms |
-| ‘A) | from |
-| professional | topics. |
-| from | research |
-| development | activities |
-| for | senior |
-
-| | 2524 |
-| --- | --- |
-| | 907 |
-| < | ing |
-| | Y439D |
-| | - |
-| | uoJUedUIOD |
-| Can | interpret |
-| on | familiar |
-| (with | text |
-| ‘auunjoa | and |
-| features | of |
-| A2+ | device |
-| diagram, | identified |
-| toa | friend |
-| member | metro |
-| floor | plan |
-| or | shopping |
-| No | descriptors |
-| = | eee |
-| Explaining | data |
-| Can | interpret |
-| various | forms |
-| ‘A) | from |
-| professional | topics. |
-| from | research |
-| development | activities |
-| for | senior |
 
 <!-- page:206 -->
 *Page 206 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Explaining | data |
-| diagrams, | etc.) |
-| sajdweXy | Can |
-| (in | Language |
-| complex | diagrams |
-| Jo | text |
-| asn | topics. |
-| c1 | for |
-| JUa2yIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-| | ULeWOp |
-| Can | interpret |
-| B) | detailed |
-| 105 | organised |
-| s4oydyuDsap | Language |
-| a | attachment |
-| graph, | bar |
-| a | numeric |
-| | Jo |
-| | aUI\|UO |
-| Can | interpret |
-| ‘overall | trends |
-| UOA2eI9zU! | B1+ |
-| points | in |
-| other | reference |
-| pue | Can |
-| UOe!paWI | facts |
-| map, | a |
-| accompanying | map |
-| discussion | forum |
-| | <SeRIAR2e |
-| No | descriptors |
-| 2624 | No |
-| £07 | No |
-
 <!-- page:207 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 207*
-
-| | 26e4 |
-| --- | --- |
-| 80z | Mediating |
-| < | Text |
-| W43D | ig |
-| | - |
-| | uojueduioy |
-| Can | explain |
-| implications | are |
-| point | out |
-| ‘auinjon | expression |
-| c | and |
-| specialised | articles |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
-| Can | summarise |
-| Language | A). |
-| ina | newspaper |
-| speeches, | sermons, |
-| opinions | and |
-| | documents |
-| Can | summarise |
-| A) | within |
-| on | matters |
-| competence, | of |
-| | most |
-| ‘Can | summarise |
-| Language | B) |
-| qc | Language |
-| ‘own, | although |
-| technical | concepts. |
-| regulation, | conference |
-| presentations | discussions, |
-| Can | explain |
-| presentation | of |
-| books, | newspaper |
-| articles, | commentaries |
-| and | editorials, |
-| specialised | articles, |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
 
 <!-- page:208 -->
 *Page 208 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| g | text |
-| sajdweXy, | Can |
-| text | (in |
-| glossing | with |
-| Jo | etc. |
-| asn | TV |
-| affairs | programmes, |
-| JUaayIp | UI |
-| c1 | |
-| Can | explain |
-| uleWOp | expressed |
-| topic, | supporting |
-| specific | passages |
-| 105 | TV |
-| s4oydysDsap | affairs |
-| talk | shows |
-| presentations, | conference |
-| Jo | Can |
-| aUI\|UO | Language |
-| complex | texts |
-| <y)___ | ‘elated |
-| UOA2eI9zU! | Can |
-| complex | discussions |
-| different | points |
-| | pue |
-| UOHe!paW | Can |
-| arguments | from |
-| TV | news |
-| documentaries, | articles |
-| «seRIAR2e | issue |
-| | a6ed |
-| | 607 |
-
 <!-- page:209 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 209*
-
-| | 262d |
-| --- | --- |
-| OLZ | Mediating |
-| < | Text |
-| ¥4ID | ig |
-| | - |
-| | uoJueduioy |
-| Can | summarise |
-| and | imaginative |
-| and | themes. |
-| ‘auinjon | specialised |
-| —_ | or |
-| Can | summarise |
-| in | longer, |
-| current | interest, |
-| | contracts |
-| Can | recognise |
-| Language | A) |
-| Language | B) |
-| author. | purpose, |
-| editorials | newspaper |
-| Can | summarise |
-| items, | interviews |
-| arguments | and |
-| Can | summarise |
-| events | in |
-| Can | summarise |
-| in | long |
-| expressions. | interest, |
-| documentaries, | talks |
-| programmes, | web |
-| | presentations |
-| Can | summarise |
-| talk, | discussion, |
-| B1+ | and |
-| articles | in |
-| ‘or | magazines |
-| Can | collate |
-| (in | Language |
-| sources | B) |
-| in | notes |
-| theatres, | programmes |
-| song | newspapers |
 
 <!-- page:210 -->
 *Page 210 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| g | text |
-| sojdwexg | Can |
-| clear, | well-structured |
-| that | are |
-| Jo | limitations |
-| asn | leaflets, |
-| summaries, | short |
-| JUaJYIp | Ul |
-| Can | summarise |
-| information | content |
-| sUJEWOP | A) |
-| magazine | article, |
-| e-mails, | newspaper |
-| 404 | news |
-| s4oJd\|>SaP | Can |
-| during | conversation |
-| personal | a |
-| clearly. | or |
-| Jo | wedding |
-| aUIJUO | project |
-| Can | summarise |
-| UOR>2e/23UI | long |
-| their | fields |
-| several | times. |
-| talks | or |
-| pue | programmes |
-| | UoReIpaU |
-| Can | summarise |
-| in | TV |
-| provided | they |
-| «Sanian2e | meeting |
-| _ | a |
-| Can | report |
-| Fe), | TVorradio |
-| 262d | sports, |
-| familiar | and |
-| | LLZ |
-
 <!-- page:211 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 211*
-
-| | <ZLZ26ed |
-| --- | --- |
-| Mediating | a |
-| ee | Text |
-| WII | g |
-| | - |
-| | uoJueduioy |
-| Can | report |
-| information | contained |
-| texts | (in |
-| ‘auinjon | notices |
-| timetables, | graffiti, |
-| A2+ | programmes, |
-| Can | summarise |
-| topics. | short |
-| news | item, |
-| brochures, | simple |
-| guide | entries |
-| Can | (in |
-| in | clearly |
-| A), | supplementing |
-| (e.g. | drawings, |
-| means | languages) |
-| to | so. |
-| Can | convey |
-| information | given |
-| posters | and |
-| e.g. | whose |
-| cook/clean/wash | up |
-| times | of |
-| No | descriptors |
 
 <!-- page:212 -->
 *Page 212 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Processing | text |
-| sejdweXy | Can |
-| and | arguments |
-| A), | particularly |
-| Jo | reported, |
-| asn | ¢ |
-| Gara | different |
-| jUaJ2yIp | UI |
-| reconstructing | arguments |
-| presentation | of |
-| sUleEWop | Can |
-| complex | texts |
-| appropriately, | provided |
-| 40} | precise |
-| s40}dUDSap | meeting, |
-| tract, | a |
-| | document |
-| Jo | Can |
-| BUI\|UO | Language |
-| political | analysis, |
-| report | extract |
-| UOR2e29;U! | audience, |
-| tract, | public |
-| document, | a |
-| opinion | a |
-| | pue |
-| | UORe!PaUs |
-| | <SRIARZe |
-| | a0ed |
-| | £17 |
-
 <!-- page:213 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 213*
-
-| | 26ed |
-| --- | --- |
-| HLT | Mediating |
-| < | Text |
-| Y4ID | Processing |
-| | - |
-| | uoJUeduioy |
-| Can | summarise |
-| content | of |
-| texts | (in |
-| ‘auinjon | professional, |
-| | shows |
-| Can | and |
-| Language | compare, |
-| B2+ | academic |
-| their | fields |
-| | reports |
-| Can | explain |
-| articulated | in |
-| inferences | they |
-| in | the |
-| short | stories, |
-| and | documents, |
-| Can | summarise |
-| content | of |
-| related | to |
-| Can | summarise |
-| and | arguments |
-| subjects | of |
-| B1+ | ‘or |
-| short | stories, |
-| and | documents, |
-| documents | articles |
-| Can | summarise |
-| made | in |
-| A) | on |
-| provided | oral |
-| reports | and |
-| brochures, | short |
-| | articles |
 
 <!-- page:214 -->
 *Page 214 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Processing | text |
-| sejdweXy | Can |
-| the | original |
-| advertisements, | notices, |
-| Jo | website |
-| asn | information |
-| changes | to |
-| yUaJ2yIp | UI |
-| | programmes |
-| Can | list |
-| sUTeEWop | relevant |
-| Language | A), |
-| A2+ | subjects |
-| 40} | guide |
-| s10}duDSap | Can |
-| short | sentences |
-| limited | competence |
-| Jo | Can |
-| BUI\|UO | main |
-| ‘on | familiar |
-| frequency | vocabulary; |
-| UOR2e293U! | comprehensible. |
-| Can | copy |
-| | format. |
-| pue | of |
-| UORe!PaUs | Can, |
-| the | meaning |
-| and | information |
-| Can | single |
-| <saRIAR2e | standard |
-| No | descriptors |
-| | a0e4 |
-| | $17 |
-
 <!-- page:215 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 215*
-
-| | 26e4 |
-| --- | --- |
-| «917 | Mediating |
-| Text | (and |
-| W4ID | Translating |
-| | - |
-| | uoJueduioy |
-| Can | provide |
-| abstract | texts |
-| subjects | of |
-| ‘auinjon | successfully |
-| including | the |
-| | them. |
-| Can | provide |
-| complex | written |
-| 2} | of |
-| range | most |
-| | nuances. |
-| Can | provide |
-| B2+ | texts |
-| arguments | on |
-| academic | and |
-| such | as |
-| Can | provide |
-| (written | in |
-| B1+ | arguments |
-| academic | and |
-| in | uncomplicated, |
-| Can | provide |
-| Language | B) |
-| (written | in |
-| of | personal |
-| difficulty | with |
-| Can | provide |
-| A2+ | Language |
-| entries, | notices, |
-| Language | A). |
 
 <!-- page:216 -->
 *Page 216 3 CEFR – Companion volume*
 
-| sejduiexg | Can |
-| --- | --- |
-| Language | B) |
-| subjects) | (written |
-| jo | essential |
-| | asn |
-| Can | provide |
-| juaseyp | Ul |
-| subjects | that |
-| (e.g. | personal |
-| instructions). | news, |
-| | sulewop |
-| Can | provide |
-| 10} | Language |
-| s1ojduasep | (written |
-| Notices, | posters, |
-| No | descriptors |
-| | Jo |
-| | 10 |
-| | @ |
-| | uoR2es=qU |
-| pue | ee |
-| uoRelpaw | Translating |
-| Can | translate |
-| <senianze | their |
-| provided | subject |
-| in | the |
-| or | other |
-| 96e4 | addressed |
-| educated | readership |
-| | £17 |
-
-| sejduiexg | Can |
-| --- | --- |
-| Language | B) |
-| subjects) | (written |
-| jo | essential |
-| | asn |
-| Can | provide |
-| juaseyp | Ul |
-| subjects | that |
-| (e.g. | personal |
-| instructions). | news, |
-| | sulewop |
-| Can | provide |
-| 10} | Language |
-| s1ojduasep | (written |
-| Notices, | posters, |
-| No | descriptors |
-| | Jo |
-| | 10 |
-| | @ |
-| | uoR2es=qU |
-| pue | ee |
-| uoRelpaw | Translating |
-| Can | translate |
-| <senianze | their |
-| provided | subject |
-| in | the |
-| or | other |
-| 96e4 | addressed |
-| educated | readership |
-| | £17 |
-
 <!-- page:217 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 217*
-
-| | BLZ26ed |
-| --- | --- |
-| Mediating | a |
-| < | Text |
-| | Y4ID |
-| | - |
-| | uoJueduioy |
-| Can | translate |
-| academic | and |
-| es | in |
-| ‘auinjon | and |
-| associated | with |
-| over-influenced | by |
-| | _ |
-| Can | produce |
-| B2+ | Ainto |
-| but | may |
-| punctuation | and |
-| Can | produce |
-| follow | the |
-| (in | Language |
-| text | accurately, |
-| source | awkwardly. |
-| Can | produce |
-| Ainto | Language |
-| “SF | are |
-| following | the |
-| errors | may |
-| Can | produce |
-| into | Language |
-| texts | written |
-| errors, | the |
-| Can | use |
-| translation | short |
-| on | and |
-| the | highest |
-| translation | remains |
-| | a |
-| Can, | with |
-| signs | and |
-| may | not |
-| No | descriptors |
 
 <!-- page:218 -->
 *Page 218 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Note-taking | (lectures, |
-| sajdweXy, | Can, |
-| seminar, | create |
-| are | not |
-| Jo | and/or |
-| asn | topic |
-| Is | of |
-| JUa2yIp | UI |
-| used. | can |
-| seminar | or |
-| Can | take |
-| uLeWOp | successfully |
-| between | ideas. |
-| 105 | Can |
-| s4oydysDsap | field |
-| and | closely |
-| useful | so |
-| | Jo |
-| aUI\|UO | Can |
-| to | omit |
-| a | unfamiliar |
-| UOADeI9zU! | during |
-| lecture | on |
-| | interest |
-| pue | Can |
-| UOHe!paW | ‘on |
-| (eg. | lectures, |
-| interviews), | provided |
-| | <seRIAR2e |
-| | a6ed |
-| | 612 |
-
 <!-- page:219 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 219*
-
-| | 26e4 |
-| --- | --- |
-| 0ZZ | Mediating |
-| < | Text |
-| W439 | Note-taking |
-| | - |
-| | uojueduioy |
-| Can | understand |
-| subject, | and |
-| important, | even |
-| ‘auinjon | actual |
-| Can | take |
-| matters | likely |
-| association | meeting, |
-| during | a |
-| topic | of |
-| Can | take |
-| for | within |
-| A) | field |
-| | structured. |
-| Can | take |
-| straightforward | lecture, |
-| the | lecture |
-| articulated | clearly. |
-| Can | note |
-| familiar | subject, |
-| language | and |
-| during | a |
-| topic | of |
-| Can | take |
-| where | the |
-| the | presenter |
-| | interest |
-| No | descriptors |
 
 <!-- page:220 -->
 *Page 220 3 CEFR – Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Expressing | personal |
-| a | response |
-| creative | texts |
-| | sojdwexy |
-| No | descriptors |
-| | Jo |
-| asn | Can |
-| outlining | their |
-| JUaJOYIp | Ul |
-| just | seen, |
-| sculptures | ina |
-| cultural | artefacts |
-| sUJEWOP | ina |
-| 1 | discussion |
-| artistic | artefact |
-| 404 | screening |
-| s0JdL>SEP | organised |
-| Can | outline |
-| work: | their |
-| their | actions |
-| Jo | discussion |
-| | UIJUO |
-| | of |
-| UO]>2e123UI | Can |
-| work, | developing |
-| examples | and |
-| Can | give |
-| pue | plot, |
-| UOReIpaU | a |
-| ina | museum |
-| Can | describe |
-| elaborate | on |
-| | «SanIAn2e |
-| Can | in |
-| expression, | express |
-| 262d | they |
-| | 127 |
-
 <!-- page:221 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 221*
-
-| | <ZZz26ed |
-| --- | --- |
-| Mediating | a |
-| Expressing | a |
-| | W4aD |
-| | - |
-| | uojueduioy |
-| Can | explain |
-| especially | interested |
-| ie | musical |
-| ‘auinjon | a |
-| ‘ | LenS |
-| Can | relate |
-| they | have |
-| Shakespeare) | studied |
-| Can | relate |
-| emotions | they |
-| Can | describe |
-| point | in |
-| became | a |
-| | a |
-| Can | explain |
-| provoked | in |
-| Can | describe |
-| for | them. |
-| Can | their |
-| feelings | express |
-| in | class |
-| | a |
-| Can | state |
-| especially | interested |
-| Can | state |
-| why | in |
-| Can | simple |
-| them | use |
-| No | descriptors |
 
 <!-- page:222 -->
 *Page 222 3 CEFR – Companion volume*
 
-| sajdweXy | Can |
-| --- | --- |
-| and | genres |
-| subtle | distinctions |
-| Jo | meaning. |
-| asn | finer |
-| Can | recognise |
-| jUaJayIP | UI |
-| abnormal | syntax, |
-| meanings | and |
-| Can | critically |
-| sUleEWop | language |
-| for | a |
-| concerning | their |
-| | 40} |
-| s40}dUDSap | Can |
-| linguistic | conventions |
-| Can | critically |
-| Jo | literary |
-| | BUI\|UO |
-| Can | evaluate |
-| conventions | of |
-| UOR2e293U! | Can |
-| engages | the |
-| | expectations). |
-| | pue |
-| UOVe!PaUs | Can |
-| and | scenes, |
-| explaining | the |
-| them. | just |
-| «SaRIARZe | sculptures |
-| Can | of |
-| the | thematic, |
-| referring | to |
-| a0ed | Can |
-| with | characters, |
-| | £77 |
-| Can | describe |
-| their | treatment |
-
 <!-- page:223 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 223*
 
-| | 26% |
-| --- | --- |
-| | «zz |
-| Text | (and |
-| | ysa> |
-| | - |
-| | uojueduioy |
-| Can | point |
-| clearly | structured |
-| a | explain |
-| ‘auinjon | between |
-| sculptures | seen, |
-| cultural | artefacts |
-| ina | in |
-| discussion | museum |
-| Can | describe |
-| narratives | involving |
-| high | frequency |
-| Can | identify |
-| language, | the |
-| narratives | involving |
-| high | frequency |
-| No | descriptors |
-
 <!-- page:224 -->
 *Page 224 3 CEFR – Companion volume*
+
+<!-- db:id=scale_mediating_stpecnoc type=descriptor_scale product_tier=context pages=225-226 -->
+### Mediating stpecnoc | scale_mediating_stpecnoc
 
 | Me | ing |
 | --- | --- |
@@ -3697,9 +2224,6 @@
 | a0e4 | others |
 | | $77 |
 
-<!-- page:225 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities Page 225*
-
 | | 26e4 |
 | --- | --- |
 | «977 | Me |
@@ -3729,345 +2253,38 @@
 | that | they |
 | No | descriptors |
 
+<!-- page:225 -->
+*Examples of use in different domains for descriptors of online interaction and mediation activities Page 225*
+
 <!-- page:226 -->
 *Page 226 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| Situation | (and |
-| \| | Personal |
-| Can | summarise, |
-| sajdweXy, | c |
-| forward. | members, |
-| met | in |
-| Jo | _<ifcumstances |
-| asn | Can |
-| Sparencnc | minicar |
-| JUa2yIp | UI |
-| itn | development |
-| Can | evaluate |
-| ULeWOP | C1 |
-| a | specific |
-| visual | support |
-| 105 | Can |
-| s4o}dyuDsap | others’ |
-| or | project |
-| | debate |
-| | Jo |
-| | aUI\|UO |
-| | UOADeI9zU! |
-| | pue |
-| | UOe!PaW |
-| | <SeRIANDe |
-| | 2604 |
-| | £27 |
 
 <!-- page:227 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 227*
 
-| | 26ed |
-| --- | --- |
-| 8Zz | Me |
-| | EEE |
-| < | Collaborating |
-| W43D | - |
-| | - |
-| uojueduioy | Can |
-| a | complex |
-| taken | into |
-| problem, | when |
-| ‘auinjon | planning |
-| event,eg.awedding | event |
-| or | anniversary |
-| >\| | a |
-| can | contribute |
-| problem | solving, |
-| explaining | details |
-| action. | family |
-| collaborative | workona |
-| Can | help |
-| what | others |
-| weighing | up |
-| Can | further |
-| family | or |
-| plana | themed |
-| staged | social |
-| such | as |
-| party | teacher |
-| Can | present |
-| invite | reactions |
-| strongly | differing |
-| about | holiday, |
-| on | during |
-| family | renovation |
-| green | areas |
-| of | amenities/services) |
-
 <!-- page:228 -->
 *Page 228 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| Collaborating | situation |
-| - | to |
-| Can | consider |
-| sajdweXy, | arguments |
-| compromise. | strongly |
-| about | holiday, |
-| Jo | on |
-| asn | family |
-| a | house |
-| JUaayIp | UI |
-| dispute | between |
-| | housemates |
-| uleWOp | Can |
-| task | by |
-| B1+ | the |
-| 105 | Can |
-| s4o}dUuDsap | to |
-| apartment, | how |
-| Can | ask |
-| views. | to |
-| | Jo |
-| aUI\|UO | Can |
-| mutual | understanding |
-| ideas | on |
-| | UOA2eI9zU! |
-| Can | ensure |
-| A2+ | understands |
-| questions. | ‘out, |
-| pue | party |
-| UOHe!PaW | Can |
-| to | indicate |
-| Can | make |
-| | <seRIAN2e |
-| Can | express |
-| very | simple |
-| prepare | in |
-| | bed |
-| No | descriptors |
-| | 677 |
 
 <!-- page:229 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 229*
 
-| | 26% |
-| --- | --- |
-| 0€7 | Me |
-| « | ee |
-| y43> | Managing |
-| | - |
-| | uojueduioy |
-| Can | take |
-| participants | and |
-| person, | mediator, |
-| ‘aumnjon | individualised |
-| ¢ | charity/association |
-| appropriate | steps |
-| family | members |
-| f | informal |
-| business, | at |
-| Can | organise |
-| and | individual |
-| group | between |
-| C1 | |
-| Can | intervene |
-| discussion, | prevent |
-| disruptive | behaviour. |
-| | project |
-
 <!-- page:230 -->
 *Page 230 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| ee | ituation |
-| Managing | interaction |
-| sojduexy | Can |
-| efficiently. | moderator |
-| community | meeting; |
-| Jo | ata |
-| asn | charity/association |
-| meeting | or |
-| JUaOYIP | UJ |
-| regional, | national, |
-| international | level |
-| institutions | a |
-| sUJEWOP | a |
-| | workshop |
-| Can | monitor |
-| 404 | intervening |
-| s40Jd\|>SaP | cy), |
-| | project |
-| Jo | Can |
-| aUIJUO | attention |
-| questions | and |
-| in | an |
-| UOR>2e/23UI | at |
-| development | sessions; |
-| during | work |
-| complex | collaborative |
-| pue | projects |
-| UoReIpaU | business, |
-| | institutions |
-| | «Sanian2e |
-| | 262d |
-| | Lez |
 
 <!-- page:231 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 231*
 
-| | 26rd |
-| --- | --- |
-| ZEZ | Me |
-| < | ituation |
-| W4aD | Managing |
-| | - |
-| | uoJueduioy |
-| Can | explain |
-| collaborative | work. |
-| ‘auinjon | community |
-| Emepbingrermlukschigeibertive | . |
-| in | small |
-| evaluation | of |
-| CIBER, | eduicationtperect/ |
-| regional, | national, |
-| international | level |
-| a | protest/opposition, |
-| a | school |
-| | workshop |
-| Can | intervene |
-| task | with |
-| participation. | community |
-| witha | specific, |
-| defined | goal; |
-| festival | working |
-| group, | with |
-| | goal |
-| Can | allocate |
-| B1+ | express |
-| upkeep, | etc. |
-| \| | on |
-| Can | give |
-| moderator | at |
-| Can | give |
-| given | some |
-| defined | goal; |
-| festival | working |
-| group, | with |
-| | goal |
-
 <!-- page:232 -->
 *Page 232 3 CEFR – Companion volume*
-
-| ee | Situation |
-| --- | --- |
-| Managing | interaction |
-| sejdweXy | No |
-| No | descriptors |
-| | Jo |
-| | asn |
-| yUaJayIp | UI |
-| | sUleEWop |
-| | 10} |
-| | s40}duDSap |
-| Encouraging | conceptual |
-| Jo | Can |
-| BUI\|UO | discussion |
-| and | topics, |
-| targeting | their |
-| UOR2e293U! | on |
-| Can | ask |
-| contributions | in |
-| pue | a |
-| UORe!PaUs | predicting). |
-| Can | encourage |
-| «SaRIARZe | elaborate |
-| Can | encourage |
-| pF | \| |
-| or | solution. |
-| a0e4 | lecturer/instructor |
-| conference | during |
-| ££7 | time |
-
-| ee | Situation |
-| --- | --- |
-| Managing | interaction |
-| sejdweXy | No |
-| No | descriptors |
-| | Jo |
-| | asn |
-| yUaJayIp | UI |
-| | sUleEWop |
-| | 10} |
-| | s40}duDSap |
-| Encouraging | conceptual |
-| Jo | Can |
-| BUI\|UO | discussion |
-| and | topics, |
-| targeting | their |
-| UOR2e293U! | on |
-| Can | ask |
-| contributions | in |
-| pue | a |
-| UORe!PaUs | predicting). |
-| Can | encourage |
-| «SaRIARZe | elaborate |
-| Can | encourage |
-| pF | \| |
-| or | solution. |
-| a0e4 | lecturer/instructor |
-| conference | during |
-| ££7 | time |
 
 <!-- page:233 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 233*
 
-| | a6ed |
-| --- | --- |
-| HET | Me |
-| < | ituation |
-| W4ID | Encouraging |
-| | - |
-| | uoJueduioy |
-| Can | formulate |
-| people | opinions. |
-| their | issues |
-| ‘auinjon | Can |
-| lines | of |
-| Can | ask |
-| topic | under |
-| | time |
-| Can | ask |
-| in | their |
-| of | entertainment |
-| friends/relatives | such |
-| planning | applications |
-| B1+ | or |
-| | events |
-| Can | ask |
-| that | have |
-| | concepts |
-| Can | ask |
-| reasoning. | social |
-| someone | thinks |
-| Can | ask |
-| something | would |
-| ‘or | community |
-| | events |
-| Can | ask |
-| options | with |
-| friends | or |
-| for | an |
-| when | organising |
-| | party |
-| Can | use |
-| signals | show |
-| | out |
-| No | descriptors |
-
 <!-- page:234 -->
 *Page 234 3 CEFR – Companion volume*
+
+<!-- db:id=scale_mediating_communication type=descriptor_scale product_tier=context pages=235-236 -->
+### Mediating communication | scale_mediating_communication
 
 | | communicati |
 | --- | --- |
@@ -4098,9 +2315,6 @@
 | | «SaRIAR2e |
 | | a0e4 |
 | | $£7 |
-
-<!-- page:235 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities Page 235*
 
 | | 26e4 |
 | --- | --- |
@@ -4142,228 +2356,23 @@
 | (eg. | festivals, |
 | | demonstrations) |
 
+<!-- page:235 -->
+*Examples of use in different domains for descriptors of online interaction and mediation activities Page 235*
+
 <!-- page:236 -->
 *Page 236 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| ituation | (and |
-| sajdweXy, | Can, |
-| adapt | the |
-| procedures. | friends |
-| Jo | commercial |
-| asn | with |
-| JUa2yIp | UI |
-| conversation, | showing |
-| answering | simple |
-| and | understanding. |
-| ULeWOp | B1+ |
-| Can | in |
-| recognising | act |
-| 105 | members |
-| s1oydUuDsap | group. |
-| Can | support |
-| repertoire | to |
-| Jo | backgrounds |
-| aUI\|UO | awareness |
-| differently | in |
-| UOADeI9zU! | Can |
-| exchanging | information |
-| attitudes | to |
-| pue | Can |
-| UOHe!paU | words/signs |
-| clarification | of |
-| repertoire | to |
-| Can | facilitate |
-| <seRIAR2e | welcoming |
-| and | non-verbal |
-| and | by |
-| addressed | directly. |
-| | 260d |
-| No | descriptors |
-| | ££7 |
 
 <!-- page:237 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 237*
 
-| | 26rd |
-| --- | --- |
-| 8Ez | Me |
-| « | Acting |
-| W4aD | as |
-| | - |
-| | uoJueduioy |
-| Can | communicate |
-| Language | B) |
-| wide | range |
-| ‘auinjon | appropriate |
-| c | meaning |
-| guests | visiting |
-| other | schools, |
-| webinars, | debates |
-| | discussions |
-| Can | communicate |
-| what | is |
-| personal, | academic |
-| C1 | significant |
-| explaining | cultural |
-| conversations, | or |
-| | discussions |
-| Can | mediate |
-| conveying | detailed |
-| both | sides |
-| B2+ | and |
-| cues, | or |
-| statements | as |
-| planning | resource |
-| Can | communicate |
-| is | said |
-| in | their |
-| appropriately | and |
-| necessary, | provided |
-| to | allow |
-| teachers | or |
-| Can | communicate |
-| (in | Language |
-| conveying | and |
-| of | important |
-| interlocutors | give |
-
 <!-- page:238 -->
 *Page 238 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| Acting | intermediary |
-| as | \| |
-| situations | (with |
-| sajdweX, | Can |
-| is | said |
-| =F). | interest, |
-| Jo | and |
-| asn | beforehand |
-| everyday | language. |
-| JUa2yIp | UI |
-| Can | communicate |
-| what | is |
-| interest, | while |
-| uleWOp | ask |
-| clarification | and |
-| | things. |
-| 105 | Can |
-| s4oydusDsap | of |
-| following | basic |
-| essential | information, |
-| they | ask |
-| Jo | can |
-| aUI\|UO | A2+ |
-| telephone | relatives |
-| and | friends |
-| UOA2eIazU! | applying |
-| such | as |
-| | Utilities |
-| pue | Can |
-| UOHe!paUI | is |
-| conveying | back |
-| wants | and |
-| | formulation. |
-| | <seRIAR2e |
-| Can | details |
-| and | very |
-| Language | A), |
-| bed | No |
-| | 6£7 |
 
 <!-- page:239 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 239*
 
-| | 262d |
-| --- | --- |
-| Oz | Me |
-| < | Facilitating |
-| W4ID | in |
-| | - |
-| | uoJUeduIoy |
-| Can | deal |
-| any | remarks |
-| cultural | perceptions. |
-| ‘auinjon | c |
-| Can | confidently |
-| . | issue |
-| of | others. |
-| Can | demonstrate |
-| repetition | and |
-| understanding | of |
-| agreement. | when |
-| relatives | decisions |
-| Can | formulate |
-| disagreement | to |
-| position, | and |
-| certain | circumstances. |
-| Can | use |
-| disagreement | shift |
-| solutions | on |
-| Can | elicit |
-| in | order |
-| open-ended, | neutral |
-| embarrassment | or |
-| Can | help |
-| B2+ | each |
-| i | learly |
-| z | concerning |
-| Can | formulate |
-| has | been |
-| (ess | landlords/tenants |
-| (e.g. | over |
-| Can, | by |
-| and | invite |
-| or | services |
-| transport, | banks |
-
 <!-- page:240 -->
 *Page 240 3 CEFR – Companion volume*
-
-| Me | ing |
-| --- | --- |
-| Facilitating | communication |
-| | in |
-| tuations | and |
-| sojdwexy | Can |
-| reasonable | precision |
-| parties | involved. |
-| Jo | when |
-| asn | relatives |
-| Can | summarise |
-| JUaJOYIP | Ul |
-| areas | to |
-| agreement. | elderly |
-| safety | and |
-| sUJEWOP | in |
-| | landlords/tenants |
-| (e.g. | over |
-| 404 | responsibility |
-| s40JdL>SEP | damage |
-| of | Can |
-| B1+ | view, |
-| Jo | provided |
-| aUIJUO | express |
-| home | improvements |
-| Can | demonstrate |
-| UoR>2e123UI | disagreement |
-| requests | for |
-| | a |
-| pue | Can |
-| UoReIpaws | occur |
-| to | seek |
-| responsibilities | station |
-| task | not |
-| | «Sanian2e |
-| Can | recognise |
-| has | a |
-| (e.g. | “I |
-| 262d | sympathy. |
-| | Lpz |
-| No | descriptors |
 
 <!-- page:241 -->
 *Examples of use in different domains for descriptors of online interaction and mediation activities Page 241*

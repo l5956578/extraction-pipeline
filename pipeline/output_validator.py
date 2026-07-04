@@ -152,34 +152,82 @@ def _validate_reading_order_elements(text: str, issues: list[dict]) -> None:
                 if el.get("extractor") == "rotated_table" or el.get("text_direction") == "ocr":
                     aid = el.get("artifact_id")
                     body = _artifact_body(text, aid) if aid else section
-                    if body and not re.search(
-                        r"\b(C2|C1|B2|B1|A2|A1|Pre-A1)\b", body, re.I
-                    ) and english_word_score(body) < 0.12:
+                    score = english_word_score(body) if body else 0.0
+                    words = re.findall(r"\b[a-zA-Z]{4,}\b", body or "")
+                    levels = len(
+                        re.findall(
+                            r"\b(C2|C1|B2|B1|A2|A1|Pre-A1)\b", body or "", re.I
+                        )
+                    )
+                    if body and (score < 0.15 or len(words) < 8 or levels < 1):
                         issues.append(
                             {
                                 "type": "rotated_table_unreadable",
                                 "page": page_num,
                                 "artifact_id": aid,
-                                "score": english_word_score(body),
+                                "score": score,
+                                "word_count": len(words),
                             }
                         )
 
-            if etype == "prose" and el.get("role") == "trailing":
-                expected = el.get("expected_chars", 0)
-                if expected > 40:
-                    after_table = section
-                    if "|" in section:
-                        after_table = section.rsplit("|", 1)[-1]
-                    chars = _measurable_chars(after_table)
-                    if chars < expected * 0.5:
+            if etype == "prose" and el.get("section_headers"):
+                for header in el["section_headers"]:
+                    norm = _normalize_header(header)
+                    if norm not in _normalize_header(section):
                         issues.append(
                             {
-                                "type": "missing_trailing_prose",
+                                "type": "reading_order_completeness",
                                 "page": page_num,
-                                "chars": chars,
-                                "expected_chars": expected,
+                                "header": header,
                             }
                         )
+
+            if etype in ("prose", "footnote_zone") and el.get("role") in (
+                "trailing",
+                None,
+            ):
+                if etype == "footnote_zone" or el.get("role") == "trailing":
+                    expected = el.get("expected_chars", 0)
+                    if etype == "footnote_zone":
+                        expected = max(expected, 30)
+                    if expected > 30:
+                        after_table = section
+                        if "|" in section:
+                            after_table = section.rsplit("|", 1)[-1]
+                        chars = _measurable_chars(after_table)
+                        if chars < expected * 0.5:
+                            issues.append(
+                                {
+                                    "type": "missing_trailing_prose",
+                                    "page": page_num,
+                                    "chars": chars,
+                                    "expected_chars": expected,
+                                    "element": etype,
+                                }
+                            )
+
+            if etype == "artifact" and el.get("span") and el.get("span", {}).get("role") == "start":
+                has_trailing = any(
+                    e.get("type") == "footnote_zone"
+                    or (e.get("type") == "prose" and e.get("role") == "trailing")
+                    for e in reading_order
+                )
+                zones_fn = 0
+                if fitz and PDF_PATH.exists():
+                    doc = fitz.open(PDF_PATH)
+                    page = doc[page_num - 1]
+                    from pipeline.page_layout import classify_page_zones
+
+                    zones_fn = len(classify_page_zones(page).get("footnotes") or [])
+                    doc.close()
+                if zones_fn and not has_trailing:
+                    issues.append(
+                        {
+                            "type": "missing_trailing_prose",
+                            "page": page_num,
+                            "detail": "span-start page has footnotes but no footnote/trailing element",
+                        }
+                    )
 
             if etype == "prose" and el.get("extractor") == "prose_zone":
                 expected = el.get("expected_chars", 0)

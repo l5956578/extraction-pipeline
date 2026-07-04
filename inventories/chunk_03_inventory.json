@@ -170,77 +170,43 @@
   "pages": [
     {
       "page_number": 51,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 50,
+        "end_page": 51
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3205,
-      "min_output_chars": 384,
+      "min_output_chars": 256,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 68,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
-          "display_title": "Understanding as a member of a live audience",
-          "y0": 70.65785,
-          "y1": 156.52370000000002,
-          "bbox": [
-            70.65726086956522,
-            70.65785,
-            527.1072499999999,
-            156.52370000000002
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              50,
+              51
+            ],
+            "emit_body_on": 50
+          }
         },
         {
           "seq": 1,
-          "type": "prose",
-          "role": "interstitial",
-          "y0": 160.52370000000002,
-          "y1": 307.79594999999995,
-          "bbox": [
-            0,
-            160.52370000000002,
-            595.2760009765625,
-            307.79594999999995
-          ],
-          "extractor": "prose_zone",
-          "expected_chars": 525
-        },
-        {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_understanding_announcements_and_instructions",
-          "display_title": "Understanding announcements and instructions",
-          "y0": 311.79594999999995,
-          "y1": 771.23275,
-          "bbox": [
-            70.65726086956522,
-            311.79594999999995,
-            527.1072499999999,
-            771.23275
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
-          "seq": 2,
-          "table_index": 1
-        },
-        {
-          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -307,7 +273,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -356,7 +323,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -453,7 +421,8 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -535,7 +504,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -602,7 +572,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -649,7 +620,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -711,7 +683,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -760,7 +733,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -827,7 +801,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -855,12 +830,32 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_12_production_activities_strategies"
+          "type": "prose",
+          "role": "body",
+          "y0": 68.13771057128906,
+          "y1": 505.08233642578125,
+          "bbox": [
+            0,
+            68.13771057128906,
+            595.2760009765625,
+            513.0823364257812
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 819,
+          "section_headers": [
+            "3.2.1. Production activities",
+            "3.2.1.1. Oral production"
+          ]
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_12_production_activities_strategies",
+          "display_title": "Figure 12 \u2013 Production activities and strategies"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -959,7 +954,8 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1041,7 +1037,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1102,8 +1099,15 @@
         },
         {
           "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 124
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -1185,7 +1189,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1268,8 +1273,15 @@
         },
         {
           "seq": 3,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 503
+        },
+        {
+          "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -1331,7 +1343,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1398,7 +1411,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1495,7 +1509,8 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1562,7 +1577,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1590,12 +1606,32 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_13_interaction_activities_strategies"
+          "type": "prose",
+          "role": "body",
+          "y0": 67.52871704101562,
+          "y1": 533.2073974609375,
+          "bbox": [
+            0,
+            67.52871704101562,
+            595.2760009765625,
+            521.9718090820312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 465,
+          "section_headers": [
+            "3.3.1. Interaction activities",
+            "3.3.1.1. Oral interaction"
+          ]
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_13_interaction_activities_strategies",
+          "display_title": "Figure 13 \u2013 Interaction activities and strategies"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1659,7 +1695,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1741,7 +1778,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1788,7 +1826,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1835,7 +1874,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     }

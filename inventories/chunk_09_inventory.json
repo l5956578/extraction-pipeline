@@ -162,12 +162,34 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_18_young_learner_project_design"
+          "type": "prose",
+          "role": "body",
+          "y0": 68.13771057128906,
+          "y1": 530.7571411132812,
+          "bbox": [
+            0,
+            68.13771057128906,
+            595.2760009765625,
+            521.9718090820312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2250
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_18_young_learner_project_design",
+          "display_title": "Figure 18 \u2013 Development design of Young Learner Project"
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 140
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -310,8 +332,15 @@
         },
         {
           "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 37
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -476,12 +505,34 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_20_sign_language_project_phases"
+          "type": "prose",
+          "role": "body",
+          "y0": 67.76771545410156,
+          "y1": 530.831787109375,
+          "bbox": [
+            0,
+            67.76771545410156,
+            595.2760009765625,
+            521.9718090820312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1406
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_20_sign_language_project_phases",
+          "display_title": "Figure 20 \u2013 The phases of the sign language project"
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 849
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -592,7 +643,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -674,7 +726,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -775,7 +828,8 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -896,7 +950,8 @@
         {
           "seq": 5,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1057,7 +1112,8 @@
         {
           "seq": 7,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1183,7 +1239,8 @@
         {
           "seq": 5,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1309,7 +1366,8 @@
         {
           "seq": 5,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1385,7 +1443,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1466,7 +1525,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     }

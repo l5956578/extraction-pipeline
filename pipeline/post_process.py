@@ -339,7 +339,7 @@ def _ensure_heading_body_spacing(lines: list[str]) -> list[str]:
                 j += 1
             if j < len(lines):
                 nxt = lines[j].strip()
-                if not _HEADING.match(nxt):
+                if not _HEADING.match(nxt) and not _is_page_comment(nxt):
                     if _CHAPTER_HEADING.match(stripped) and _is_caps_title_line(nxt):
                         pass
                     elif out and out[-1] != "":
@@ -406,6 +406,50 @@ def _dedupe_consecutive_lines(lines: list[str]) -> list[str]:
         if out and line == out[-1] and line.strip():
             continue
         out.append(line)
+    return out
+
+
+def _dedupe_page_comments(lines: list[str]) -> list[str]:
+    """Remove consecutive duplicate <!-- page:N --> markers."""
+    out: list[str] = []
+    for line in lines:
+        if (
+            out
+            and _is_page_comment(line.strip())
+            and _is_page_comment(out[-1].strip())
+            and line.strip().lower() == out[-1].strip().lower()
+        ):
+            continue
+        out.append(line)
+    return out
+
+
+def _normalize_section_boundaries(lines: list[str]) -> list[str]:
+    """Move section headings that appear before a page marker to after it."""
+    out: list[str] = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        stripped = line.strip()
+        if (
+            re.match(r"^###\s+\d+\.\d+\.", stripped)
+            and i + 1 < len(lines)
+            and _is_page_comment(lines[i + 1].strip())
+        ):
+            page_line = lines[i + 1]
+            j = i + 2
+            while j < len(lines) and not lines[j].strip():
+                j += 1
+            if j < len(lines) and re.match(r"^#{4,6}\s+\d+\.\d+\.\d+", lines[j].strip()):
+                out.append(page_line)
+                if out and out[-1] != "":
+                    out.append("")
+                out.append(line)
+                out.append("")
+                i = j
+                continue
+        out.append(line)
+        i += 1
     return out
 
 
@@ -564,6 +608,7 @@ def format_structured_markdown(text: str) -> str:
     text = fix_ocr_typos(text)
     lines = text.splitlines()
     lines = _dedupe_consecutive_lines(lines)
+    lines = _dedupe_page_comments(lines)
     lines = _join_wrapped_lines(lines)
     lines = _convert_bullet_lines(lines)
     lines = _demote_footnote_headings(lines)
@@ -571,6 +616,7 @@ def format_structured_markdown(text: str) -> str:
     lines = _normalize_toc_region(lines)
     lines = _promote_section_headings(lines)
     lines = _normalize_page_markers(lines)
+    lines = _normalize_section_boundaries(lines)
     lines = _ensure_paragraph_spacing(lines)
     lines = _format_page_blocks(lines)
     lines = _format_chapter_openings(lines)

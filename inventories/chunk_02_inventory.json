@@ -134,11 +134,6 @@
       "id": "scale_understanding_conversation_between_other_people",
       "page": 49,
       "type": "artifact"
-    },
-    {
-      "id": "scale_understanding_as_a_member_of_a_live_audience",
-      "page": 50,
-      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -306,8 +301,15 @@
         },
         {
           "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 941
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -400,12 +402,34 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_01_structure_cefr_descriptive_scheme"
+          "type": "prose",
+          "role": "body",
+          "y0": 68.13771057128906,
+          "y1": 498.438720703125,
+          "bbox": [
+            0,
+            68.13771057128906,
+            595.2760009765625,
+            506.438720703125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2739
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_01_structure_cefr_descriptive_scheme",
+          "display_title": "Figure 1 \u2013 The structure of the CEFR descriptive scheme"
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 262
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -482,8 +506,15 @@
         },
         {
           "seq": 3,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 207
+        },
+        {
+          "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -508,12 +539,34 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_02_reception_production_interaction_mediation"
+          "type": "prose",
+          "role": "body",
+          "y0": 68.13771057128906,
+          "y1": 522.9598693847656,
+          "bbox": [
+            0,
+            68.13771057128906,
+            595.2760009765625,
+            521.9718090820312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1864
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_02_reception_production_interaction_mediation",
+          "display_title": "Figure 2 \u2013 The relationship between reception, production, interaction and mediation"
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 98
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -598,7 +651,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -625,12 +679,31 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_05_conventional_six_colours"
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 652.1234086301,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            652.1234086301
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2582,
+          "section_headers": [
+            "2.6. THE CEFR COMMON REFERENCE LEVELS"
+          ]
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_05_conventional_six_colours",
+          "display_title": "Figure 5 \u2013 The conventional six colours"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -691,12 +764,46 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_06_fictional_profile_clil"
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 195.79215,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            195.79215
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 720,
+          "section_headers": [
+            "2.7. CEFR PROFILES"
+          ]
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 269.96950000000004,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            269.96950000000004,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2386
+        },
+        {
+          "seq": 2,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_06_fictional_profile_clil",
+          "display_title": "Figure 6 \u2013 A fictional profile of needs in an additional language \u2013 lower secondary CLIL"
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -723,12 +830,34 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_07_profile_postgraduate_sciences"
+          "type": "prose",
+          "role": "body",
+          "y0": 68.13771057128906,
+          "y1": 501.4464111328125,
+          "bbox": [
+            0,
+            68.13771057128906,
+            595.2760009765625,
+            509.4464111328125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1830
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_07_profile_postgraduate_sciences",
+          "display_title": "Figure 7 \u2013 A profile of needs in an additional language \u2013 postgraduate natural sciences (fictional)"
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 630
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -755,12 +884,28 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_10_plurilingual_oral_comprehension"
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 507.3352,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            507.3352
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 842
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_10_plurilingual_oral_comprehension",
+          "display_title": "Figure 10 \u2013 A plurilingual proficiency profile \u2013 Oral comprehension across languages"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -944,8 +1089,15 @@
         },
         {
           "seq": 3,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 424
+        },
+        {
+          "seq": 4,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -1022,12 +1174,31 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_11_reception_activities_strategies"
+          "type": "prose",
+          "role": "body",
+          "y0": 110.41331481933594,
+          "y1": 529.846435546875,
+          "bbox": [
+            0,
+            110.41331481933594,
+            595.2760009765625,
+            521.9718090820312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 430,
+          "section_headers": [
+            "3.1. RECEPTION"
+          ]
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_11_reception_activities_strategies",
+          "display_title": "Figure 11 \u2013 Reception activities and strategies"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1098,7 +1269,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1160,7 +1332,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1168,7 +1341,13 @@
       "page_number": 50,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 50,
+        "end_page": 51
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 3800,
@@ -1177,12 +1356,6 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 46,
-      "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
-      "section_title": "Understanding as a member of a live audience",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -1215,14 +1388,24 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              50,
+              51
+            ],
+            "emit_body_on": 50
+          },
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     }

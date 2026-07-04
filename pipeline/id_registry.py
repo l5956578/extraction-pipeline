@@ -198,6 +198,24 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
             page_end=133,
             group_id="scale_vocabulary_control",
         ),
+        ArtifactMeta(
+            id="scale_expressing_a_personal_response_to_creative_texts_including_literature",
+            display_name="Expressing a personal response to creative texts (including literature)",
+            artifact_type="descriptor_scale",
+            product_tiers=["assessment_action", "detailed"],
+            page_start=106,
+            page_end=107,
+            group_id="scale_expressing_a_personal_response_to_creative_texts_including_literature",
+        ),
+        ArtifactMeta(
+            id="scale_setting_and_perspectives",
+            display_name="Setting and perspectives",
+            artifact_type="descriptor_scale",
+            product_tiers=["context"],
+            page_start=162,
+            page_end=163,
+            group_id="scale_setting_and_perspectives",
+        ),
     ]
     for art in explicit_artifacts:
         if art.id not in seen_ids:

@@ -10,11 +10,13 @@ import fitz
 
 from pipeline.config import (
     KNOWN_TABLES_FIGURES,
+    METADATA_DIR,
     MULTIPAGE_ARTIFACTS,
     PDF_PATH,
     RAW_DIR,
     INVENTORIES_DIR,
 )
+from pipeline.figures_catalog import FIGURE_CONTENT, figure_block
 from pipeline.descriptor_layout import extract_prose_zone
 from pipeline.extractors.multipage import (
     merge_pdfplumber_tables,
@@ -73,9 +75,30 @@ def _emit_artifact_from_element(el: dict, body: str, ctx: _ExtractContext) -> st
     return f"{header}\n{body}\n"
 
 
-def _emit_page_footer(page: fitz.Page, page_num: int) -> str:
+def _emit_page_footer(page: fitz.Page, page_num: int, skip_footnotes: bool = False) -> str:
     zones = classify_page_zones(page)
+    if skip_footnotes:
+        zones = {**zones, "footnotes": []}
     return format_page_footer(page_num, zones)
+
+
+def _emit_footnote_zone(page: fitz.Page) -> str | None:
+    zones = classify_page_zones(page)
+    footnotes = zones.get("footnotes") or []
+    if not footnotes:
+        return None
+    return "\n\n".join(footnotes) + "\n"
+
+
+def _emit_figure_ref(el: dict, ctx: _ExtractContext) -> str:
+    aid = el.get("artifact_id") or "unknown"
+    if aid in FIGURE_CONTENT:
+        return figure_block(aid) + "\n"
+    art = ctx.art_by_id.get(aid)
+    display = fix_rotated_title(el.get("display_title") or (art.display_name if art else aid))
+    tiers = art.product_tiers if art else ["context"]
+    page = str(art.page_start) if art else "?"
+    return artifact_header(aid, display, "figure", tiers, page) + "\n"
 
 
 def _table_title(table: list[list]) -> str | None:
@@ -130,9 +153,21 @@ def _extract_span_body(
         return merge_section_block(doc, page_nums, PDF_PATH)
 
     if el.get("text_direction") == "ocr" or el.get("extractor") == "rotated_table":
-        return merge_rotated_pages(doc, page_nums, PDF_PATH, rotation=el.get("rotation", 90))
+        body = merge_rotated_pages(doc, page_nums, PDF_PATH, rotation=el.get("rotation", 90))
+    else:
+        body = _merge_multipage_body(gid, page_nums, art, PDF_PATH)
 
-    return _merge_multipage_body(gid, page_nums, art, PDF_PATH)
+    footnote_parts: list[str] = []
+    seen_footnotes: set[str] = set()
+    for pn in page_nums:
+        zones = classify_page_zones(doc[pn - 1])
+        for foot in zones.get("footnotes") or []:
+            if foot not in seen_footnotes:
+                footnote_parts.append(foot)
+                seen_footnotes.add(foot)
+    if footnote_parts:
+        body = body.rstrip() + "\n\n" + "\n\n".join(footnote_parts)
+    return body
 
 
 def _extract_single_table(
@@ -191,11 +226,18 @@ def _extract_element(
     if etype == "span_continuation_skip":
         return None
 
+    if etype == "footnote_zone":
+        block = _emit_footnote_zone(page)
+        return (block + "\n") if block else None
+
     if etype == "footer":
-        return _emit_page_footer(page, page_num) + "\n"
+        return _emit_page_footer(page, page_num, skip_footnotes=el.get("skip_footnotes", False)) + "\n"
 
     if etype == "figure_page":
         return extract_rich_page(page, page_num) + "\n"
+
+    if etype == "figure":
+        return _emit_figure_ref(el, ctx)
 
     if etype == "prose":
         if el.get("extractor") == "rich_page":
@@ -204,7 +246,12 @@ def _extract_element(
         bbox = el.get("bbox")
         if not bbox:
             return None
-        text = extract_prose_zone(page, bbox, scale_title=scale_title)
+        text = extract_prose_zone(
+            page,
+            bbox,
+            scale_title=scale_title,
+            section_headers=el.get("section_headers"),
+        )
         if text and scale_title:
             text = re.sub(
                 rf"\n###\s*{re.escape(scale_title)}\s*$",
@@ -248,6 +295,7 @@ def extract_chunk(chunk_id: str) -> str:
 
     doc = fitz.open(PDF_PATH)
     parts: list[str] = []
+    emit_log: list[dict] = []
     parts.append(f"# {chunk_id} (pages {inventory['start_page']}-{inventory['end_page']})\n")
 
     for page_info in inventory["pages"]:
@@ -255,19 +303,46 @@ def extract_chunk(chunk_id: str) -> str:
         page = doc[page_num - 1]
         art = art_by_page.get(page_num)
         reading_order = page_info.get("reading_order") or []
+        page_emitted: list[str] = []
 
         for el in reading_order:
             block = _extract_element(el, page, page_num, page_info, art, doc, ctx)
+            etype = el.get("type", "?")
             if block:
                 parts.append(block)
+                page_emitted.append(etype)
+            elif etype not in ("span_continuation_skip",):
+                page_emitted.append(f"{etype}:skipped")
+
+        emit_log.append(
+            {
+                "page": page_num,
+                "reading_order_types": [e.get("type") for e in reading_order],
+                "emitted": page_emitted,
+            }
+        )
 
     doc.close()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     out = RAW_DIR / f"{chunk_id}.md"
     content = "\n".join(parts)
     out.write_text(content, encoding="utf-8")
+    _append_emit_log(chunk_id, emit_log)
     print(f"Extracted {out.name} ({len(content)} chars)")
     return str(out)
+
+
+def _append_emit_log(chunk_id: str, page_entries: list[dict]) -> None:
+    METADATA_DIR.mkdir(parents=True, exist_ok=True)
+    log_path = METADATA_DIR / "extraction_emit_log.json"
+    payload: dict = {}
+    if log_path.exists():
+        try:
+            payload = json.loads(log_path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            payload = {}
+    payload[chunk_id] = page_entries
+    log_path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
 
 
 _CACHED_SPANS = None
@@ -296,4 +371,13 @@ def extract_all_chunks(skip_existing: bool = False) -> list[str]:
 
 
 if __name__ == "__main__":
-    extract_all_chunks()
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Extract markdown chunks from PDF")
+    parser.add_argument("chunk_id", nargs="?", help="Single chunk id (e.g. chunk_01)")
+    parser.add_argument("--all", action="store_true", help="Extract all chunks")
+    args = parser.parse_args()
+    if args.chunk_id:
+        extract_chunk(args.chunk_id)
+    else:
+        extract_all_chunks()

@@ -36,11 +36,6 @@
       "type": "artifact"
     },
     {
-      "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
-      "page": 106,
-      "type": "artifact"
-    },
-    {
       "id": "scale_analysis_and_criticism_of_creative_texts_including_literature",
       "page": 108,
       "type": "artifact"
@@ -48,11 +43,6 @@
     {
       "id": "scale_leading_group_work",
       "page": 113,
-      "type": "artifact"
-    },
-    {
-      "id": "scale_facilitating_pluricultural_space",
-      "page": 114,
       "type": "artifact"
     },
     {
@@ -100,42 +90,43 @@
   "pages": [
     {
       "page_number": 101,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_processing_text",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 100,
+        "end_page": 101
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3316,
-      "min_output_chars": 397,
+      "min_output_chars": 265,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 53,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_processing_text",
-          "display_title": "Processing text",
-          "y0": 69.87920000000003,
-          "y1": 771.2322916666667,
-          "bbox": [
-            70.6577,
-            69.87920000000003,
-            529.1555999999999,
-            771.2322916666667
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_processing_text",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              100,
+              101
+            ],
+            "emit_body_on": 100
+          }
         },
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -218,7 +209,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -259,7 +251,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -321,7 +314,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -329,7 +323,13 @@
       "page_number": 106,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 106,
+        "end_page": 107
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 3341,
@@ -338,12 +338,6 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 24,
-      "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
-      "section_title": "Expressing a personal response to creative texts (including literature)",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -376,90 +370,66 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              106,
+              107
+            ],
+            "emit_body_on": 106
+          },
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
     {
       "page_number": 107,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 106,
+        "end_page": 107
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3709,
-      "min_output_chars": 445,
+      "min_output_chars": 296,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 49,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
-          "display_title": "Expressing a personal response to creative texts (including literature)",
-          "y0": 70.65785,
-          "y1": 351.2243,
-          "bbox": [
-            70.65725,
-            70.65785,
-            527.10725,
-            351.2243
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              106,
+              107
+            ],
+            "emit_body_on": 106
+          }
         },
         {
           "seq": 1,
-          "type": "prose",
-          "role": "interstitial",
-          "y0": 355.2243,
-          "y1": 573.0201999999999,
-          "bbox": [
-            0,
-            355.2243,
-            595.2760009765625,
-            573.0201999999999
-          ],
-          "extractor": "prose_zone",
-          "expected_chars": 1160
-        },
-        {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_analysis_and_criticism_of_creative_texts_including_literature",
-          "display_title": "Analysis and criticism of creative texts (including literature)",
-          "y0": 577.0201999999999,
-          "y1": 771.2323,
-          "bbox": [
-            70.65725,
-            577.0201999999999,
-            527.10725,
-            771.2323
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
-          "seq": 2,
-          "table_index": 1
-        },
-        {
-          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -543,7 +513,8 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -626,7 +597,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -667,7 +639,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -741,7 +714,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -749,7 +723,13 @@
       "page_number": 114,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_facilitating_pluricultural_space",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 114,
+        "end_page": 115
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 4575,
@@ -760,12 +740,6 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 19,
-      "artifact_id": "scale_facilitating_pluricultural_space",
-      "section_title": "Facilitating pluricultural space",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -801,55 +775,66 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_facilitating_pluricultural_space",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              114,
+              115
+            ],
+            "emit_body_on": 114
+          },
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
     {
       "page_number": 115,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_facilitating_pluricultural_space",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 114,
+        "end_page": 115
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3904,
-      "min_output_chars": 468,
+      "min_output_chars": 312,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 43,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_facilitating_pluricultural_space",
-          "display_title": "Facilitating pluricultural space",
-          "y0": 70.65785,
-          "y1": 549.0133000000001,
-          "bbox": [
-            70.65728571428572,
-            70.65785,
-            527.10725,
-            549.0133000000001
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_facilitating_pluricultural_space",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              114,
+              115
+            ],
+            "emit_body_on": 114
+          }
         },
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -896,7 +881,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -963,7 +949,8 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1048,7 +1035,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1089,7 +1077,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -1165,7 +1154,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     },
@@ -1190,12 +1180,28 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_15_plurilingual_pluricultural_competence"
+          "type": "prose",
+          "role": "body",
+          "y0": 154.87693786621094,
+          "y1": 476.6190185546875,
+          "bbox": [
+            0,
+            154.87693786621094,
+            595.2760009765625,
+            484.6190185546875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1199
         },
         {
           "seq": 1,
+          "type": "figure",
+          "extractor": "figure_ref",
+          "artifact_id": "figure_15_plurilingual_pluricultural_competence",
+          "display_title": "Figure 15 \u2013 Plurilingual and pluricultural competence"
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1271,7 +1277,8 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": false
         }
       ]
     }

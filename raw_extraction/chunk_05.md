@@ -1,45 +1,5 @@
 # chunk_05 (pages 101-125)
 
-| ajqoyionv | s1oydyiosap |
-| --- | --- |
-|  | Page |
-| payujid | paquasaid |
-| "JUNO | psepues |
-| “sawiauy | AepAsana |
-| ajduuis | jo |
-| AJea]> | payulid |
-| "JEUOJ | UaMpuey |
-| “ajqisuayasdwiod | sujewiad |
-| ay} | UIeJUOD |
-| \| | pauyeyuod |
-|  | language |
-| “s91do} | (ty |
-| ‘ajdwuis | (s)julod |
-| Jeuonewosur | yoys |
-|  | saiqey |
-| “aouayadxe | pue |
-| UoYs | e |
-| -abenbue] | AepAsana |
-| UJa2U02 | $}xa} |
-| UOHEUUOJU! | JURAIIaJ |
-| “sawn | Jesanas |
-| pue | sawues6oud |
-| “sau | [e1aAaS |
-| malAso | uaysi |
-| Aijeso | pasanijap |
-| “Aueald | payejnoye |
-| ajdoad | papiaoid |
-| uonesianuod | e |
-| suZzebew | CEFR |
-| “Buyapio | “6ra) |
-| Bulpsom | }eulByo |
-| 3x@} | ayy |
-| “payejnaiye | Ayzeal> |
-| yuan | Jo |
-| ‘plemuopyblenys | ul |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
-
 <!-- page:101 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 101*
 
@@ -103,59 +63,21 @@ by specifying the languages concerned
 <!-- db:id=scale_translating_a_nettirw_text type=descriptor_scale product_tier=context pages=103-104 -->
 ### Translating a nettirw text | scale_translating_a_nettirw_text
 
-|  | 103 |
-| --- | --- |
-| “sou | ye |
-| “a\|qisuayaidiuo> | sujewad |
-| puepueys | ‘paye>i\|duiooun |
-| Jo | (g |
-|  | and |
-| “ajqisuayasdwio> | sujewias |
-| sioua | 2nsinBul] |
-| plepurys | ‘payesijdwiooun |
-| (ga | a6en6ue] |
-|  | language |
-| “Ajpaemyme | Aew |
-| squiod | Bulfaauod |
-| uyew | ayy |
-| pue | aduaquas |
-| “JeuIBU0 | ayy |
-| 4apso | ayy |
-| (a | a6en6ue] |
-|  | Descriptor |
-| “Jeu!6110 | ayy |
-| ‘way | YM |
-| aanenjend | Bulkanuod |
-| Jeuo\|ssajoid | pue |
-| suo}e>1\|dw | CEFR |
-| ys\|je!ads | Aq |
-| Adeundde | Da!qns |
-| paypayp | s! |
-| JO | play |
-| IM | Ul |
-| 7x9} | Ud}}UM |
-
-| s10}d | ssoydyiosap |
-| --- | --- |
-| 2/QDIIDAD | 1952p |
-| “ra | ‘s]ayeay |
-| “Bulueaw | ayeyidoidde |
-| wou) | saseayd |
-| \|eUOsiad | ‘6'a) |
-| Jo | Sadjjou |
-| saduajuas | abenbue7 |
-| -ajqisuayasdwio> | aulnod |
-| sujewia | uoNe\|sueN |
-| yey] | sowayy |
-| abenbue7 | Woy) |
-|  | volume |
-| “(y | aben6ue] |
-| (s}}ew-a | Jo |
-| ‘ajduiis | “Woys |
-| IM | Ul |
-|  | 104» |
-| 7x9} | Ud}}UM |
-|  | Page |
+| .elbisneherpmoc sniamer noitalsnart the ,srorre etipsed ;egaugnal dradnats ,detacilpmocnu ni nettirw stxet lautcaf ,trohs ni deniatnoc information fo )B Language into A Language morf( snoitalsnart etamixorppa ecudorp Can | .semit ta noitalumrof with ytlucffiid esuac snoitatimil lacixel hguohtla ,tseretni lanosrep fo ro railimaf era that stcejbus no )A Language ni nettirw( stxet lanoitamrofni derutcurts -llew ,raelc fo )B Language otni( noitalsnart oral etamixorppa na edivorp Can | 1B |
+| --- | --- | --- |
+| .elbisneherpmoc sniamer noitalsnart the ,rucco yam srorre citsiugnil hguohtla ;lanigiro the fo erutcurts the gniwollof ylesolc ,egaugnal dradnats ,detacilpmocnu ni nettirw era that stxet lautcaf ,drawrofthgiarts fo )B Language into A Language morf( snoitalsnart etamixorppa ecudorp Can | .egaugnal dradnats ,detacilpmocnu ni nettirw era yeht dedivorp ,tseretni lanosrep and cimedaca ,lanoisseforp fo sdlefi their nihtiw stcejbus no stnemugra and information gniniatnoc )A Language ni nettirw( stxet fo )B Language otni( noitalsnart oral edivorp Can |  |
+| .yldrawkwa daer yam noitalsnart the hguoht ,yletarucca text ecruos the fo stniop niam the gniyevnoc ,)A Language ni( text lanigiro the fo erutcurts hpargarap and ecnetnes the wollof ylesolc that )B Language otni( snoitalsnart ecudorp Can |  | 2B |
+| .lanigiro the fo snoitalumrof ralucitrap and noitautcnup ,gnihpargarap ,redro the yb decneuflni-revo eb yam tub egasu language lamron tcefler that )B Language into A Language morf( snoitalsnart desinagro ylraelc ecudorp Can | .tseretni lanosrep and cimedaca ,lanoisseforp fo sdlefi their nihtiw stcejbus no stnemugra and information gniniatnoc )A Language ni nettirw( stxet xelpmoc fo )B Language otni( noitalsnart oral edivorp Can |  |
+| .lanigiro the yb decneuflni-revo eb yam noisserpxe emos hguoht ,meht with detaicossa snoitacilpmi the fo ynam including ,stnemugra and stcepsa evitaulave gniyevnoc yllufsseccus ,)A Language ni nettirw( dlefi their ni stcejbus lanoisseforp and cimedaca ,laicos no stxet tcartsba )B Language otni( etalsnart Can | .secnaun tsom gnirutpac ,scipot desilaiceps and lareneg fo range ediw a no )A Language ni nettirw( stxet xelpmoc fo )B Language otni( noitalsnart oral lfuent edivorp Can | 1C |
+| .denrecnoc dlefi the ni tsilaiceps a yb dekcehc si accuracy rettam tcejbus dedivorp ,)A Language ni nettirw( noitasilaiceps fo dlefi their edistuo lairetam lacinhcet )B Language otni( etalsnart Can | .meht with detaicossa snoitacilpmi and secnaun the including ,stnemugra and stcepsa evitaulave gniyevnoc yllufsseccus ,tseretni lanoisseforp and cimedaca ,lanosrep fo stcejbus fo range ediw a no )A Language ni nettirw( stxet tcartsba fo )B Language otni( noitalsnart oral lfuent edivorp Can | 2C |
+| Translating a nettirw text ni writing | Translating a nettirw text ni hceeps ro ngis |  |
+| Translating a nettirw text |  |  |
+| elbaliava descriptors oN | elbaliava descriptors oN | 1A-erP |
+| .gninaem etairporppa the tceles syawla ton yam tub ,)B Language into A Language morf( sesarhp and sngis/sdrow simple etalsnart ,yranoitcid a fo pleh the with ,naC | .cte ,steflael ,semmargorp ,sretsop ,seciton and sngis no deretnuocne era that )A Language ni nettirw( sesarhp and sngis/sdrow yadyreve simple fo )B Language otni( noitalsnart oral hguor ,elpmis a edivorp Can | 1A |
+| .elbisneherpmoc sniamer noitalsnart the ,srorre etipsed ;yralubacov ycneuqerf tsehgih the niatnoc that semeht yadyreve and railimaf no stxet trohs yrev fo )B Language into A Language morf( noitalsnart etamixorppa na edivorp ot language simple esu Can | .)snoitcurtsni ro seciton ,snoitcerid ,sevitarran trohs ,swen lanosrep .g.e( )A Language ni( secnetnes simple ni nettirw si that stcejbus yadyreve railimaf no information enituor fo )B Language otni( noitalsnart oral hguor ,elpmis a edivorp Can .tniop laitnesse tsom the gnirutpac ,)A Language ni nettirw( )stcejbus railimaf no seciton .g.e( stxet simple ,trohs fo )B Language otni( noitalsnart oral hguor ,elpmis a edivorp Can | 2A |
+|  | .)A Language ni nettirw( )sliam-e ro srettel ,snoitcurtsni ,seciton ,seirtne eruhcorb .g.e( stxet yadyreve ,elpmis ,trohs fo )B Language otni( noitalsnart oral etamixorppa na edivorp Can |  |
+| Translating a nettirw text ni writing | Translating a nettirw text ni hceeps ro ngis |  |
+| Translating a nettirw text |  |  |
 
 <!-- page:103 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 103*
@@ -221,9 +143,7 @@ the work, etc.
 
 There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.
 
-### Expressing a personal response to creative texts (including literature)
-
-This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
+Expressing a personal response to creative texts (including literature) This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
 
 - explaining what they liked, what interested them about the work;
 
@@ -237,7 +157,7 @@ This first scale reflects the approach taken in school sectors and in adult read
 
 Progression up the scale is characterised as follows: at the lower levels the user/learner can say whether they liked the work, say how it made them feel, discuss characters and relate aspects of the work to their own experience, with increased detail at B1. At B2 they can give more elaborate explanations, comment on the form of expression and style and give their interpretation of the development of a plot, the characters and the themes in a story, novel, film or play. At the C levels, they can give broader and deeper interpretations, supporting them with details and examples.
 
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
+<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=context pages=106-107 -->
 ### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
 
 |  | Expressing a personal response to creative texts (including literature) |
@@ -245,40 +165,13 @@ Progression up the scale is characterised as follows: at the lower levels the us
 | C2 | No descriptors available |
 | C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. |
 | B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments. Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. Can describe their emotional response to a work and elaborate on the way in which it has evoked this response. Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. |
-
-
-<!-- page:106 -->
-*Page 106 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
-### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
-
-|  | Expressing a personal response to creative texts (including literature) |
-| --- | --- |
 | B1 | Can explain why certain parts or aspects of a work especially interested them. Can explain in some detail which character they most identified with and why. Can relate events in a story, film or play to similar events they have experienced or heard about. Can relate the emotions experienced by a character to emotions they have experienced. Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why. Can explain briefly the feelings and opinions that a work provoked in them. Can describe the personality of a character. Can describe a character’s feelings and explain the reasons for them. |
 | A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language. Can state in simple language which aspects of a work especially interested them. Can state whether they liked a work or not and explain why in simple language. |
 | A1 | Can use simple words/signs to state how a work made them feel. |
 | Pre-A1 | No descriptors available |
 
-
-Analysis and criticism of creative texts (including literature) This scale represents an approach more common at an upper secondary and university level. It concerns more formal, intellectual reactions. Aspects analysed include the significance of events in a novel, the treatment of the same themes in different works and other links between them, the extent to which a work follows conventions, and more global evaluation of the work as a whole. Key concepts operationalised in the scale include:
-
-- comparing different works;
-
-- giving a reasoned opinion of a work;
-
-- critically evaluating features of a work, including the effectiveness of its techniques.
-
-Progression up the scale is characterised as follows: there are no descriptors for A1 and A2. Until B2, the focus is on description rather than evaluation. At B2, the user/learner can analyse similarities and differences between works, giving a reasoned opinion and referring to the views of others. At C1, analysis becomes more subtle, concerned with the way the work engages the audience, the extent to which it is conventional, or whether it employs irony. At C2, the user/learner can recognise finer linguistic and stylistic subtleties, unpack connotations and give more critical appraisals of the way in which structure, language and rhetorical devices are exploited in a work of literature for a particular purpose.
-
-<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=108 -->
-### Analysis and criticism of creative texts (including literature) | scale_analysis_and_criticism_of_creative_texts_including_literature
-
-|  | Analysis and criticism of creative texts (including literature) |
-| --- | --- |
-| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning. Can recognise the finer subtleties of nuanced language, rhetorical effect and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations. Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness. Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. |
-| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres. Can evaluate the extent to which a work follows the conventions of its genre. Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |
-
+<!-- page:106 -->
+*Page 106 3 CEFR –­ Companion volume*
 
 <!-- page:107 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 107*
@@ -349,68 +242,21 @@ guiding discussion effectively to a consensus at C2.
 <!-- db:id=scale_collaborating_ni_a_group type=descriptor_scale product_tier=context pages=110-111 -->
 ### Collaborating ni a group | scale_collaborating_ni_a_group
 
-| -as\|Wosdwio> | 40 |
-| --- | --- |
-| pue | ‘ysure6e |
-| “paacoid | 0} |
-| “sannpadsiad | siaquiaw |
-| WO | SUO!}>eaJ |
-| -suouido | pue |
-| “mala | Jo |
-| ‘ples | aaey |
-|  | “yore |
-| inyny | 10y |
-| Bulssaidxa | ‘Bulnjos |
-| “yuo | De |
-| au) | pur |
-| Bulk} | ssaD01d |
-| aGual/ey | ‘Hupjury} |
-| 84} | U! |
-| “puemioy | Kem |
-| UL | UoIssndsip |
-| “mal | jo |
-| dn | Bury6iem |
-| ‘dnos6 | 10 |
-|  | volume |
-| “puemioy | Aem |
-| 12}1]12e | 0} |
-| CEFR | - |
-|  | » |
-|  | 110 |
-| dnos6 | e |
-|  | Page |
-
-|  | 111 |
-| --- | --- |
-|  | Page |
-| ajqoyionv | s1oydyiosap |
-|  | strategies» |
-|  | ‘pueysiapun |
-| -eouenpe | ul |
-| pue | subis/spiom |
-| ‘fem | ajduiis |
-| “BuImo}}oy | uonnadai |
-| Kay} | SUO\|sanb |
-| ‘aye | JeY} |
-|  | communicative |
-|  | “suonsa66ns |
-| “suonsanb | ayeudoidde |
-| Aq | ueaw |
-|  | Scales: |
-| JUaWIdojanap | daay |
-| 6ulpueysiapun | "9S4NOD |
-| pue | jenynuy |
-| (s)uoseas | ani6 |
-| “smata | 4194} |
-|  | trative |
-| ‘aouayiadxa | pue |
-| 4184} | 81NGUIUOD |
-| “uolssnosip | “suonsanb |
-| 2 | JO |
-|  | The |
-| “panjosad | aq |
-| wre | ay |
-| dnos6 | e |
+| .esimorpmoc ro noitulos a esoporp and ,tsniaga and for stnemugra gnivig ,eussi na fo sedis different owt redisnoc Can .sevitcepsrep ’srebmem group other from snoitcaer etivni that snoitseuq esop and group a ni saedi their present Can .snoinipo and saedi s’elpoep other poleved rehtruf Can | .deecorp ot woh and ,txen redisnoc ot tahw gnitseggus yb discussion a sucofer Can .meht eveihca ot woh for snoitpo erapmoc and teamwork for slaog enfied pleh Can .krow evitaroballoc esinagro ot woh no discussion etalumits ot snoitseuq ksa Can | 2B |
+| --- | --- | --- |
+| .weiv fo stniop different pu gnihgiew and elaborating ,gnisirammus ,dias have srehto tahw gnitroper yb group a ni discussion the esinagro pleh Can .noitca erutuf for snoitseggus gnikam and sliated gninialpxe ,saedi gnipoleved-oc and gnisserpxe ,gnivlos melborp and gnikam noisiced evitaroballoc ot etubirtnoc Can .tnuocca into nekat eb ot deen that stcepsa important the and ksat xelpmoc a ni devloser eb ot sdeen that eussi niam the thgilhgih Can | .yranelp a ni )s(weiv s’puorg the fo yrammus a gnivig retal and group the with eseht gnissucsid ,snoisiced and saedi gniton ,noissucsid group a ni ruetroppar sa tca Can .noitcaretni group a ni enevretni ro/dna snoitseuq etalumrof yeht yaw the tsujda ,snoitcaer s’elpoep no desab ,naC |  |
+| .susnesnoc a hcaer ot gniyrt fo ssecorp the ni saedi ’srehto egnellahc and ,gnikniht ni seicnetsisnocni thgilhgih Can .drawrof yaw the no ediced ot redro ni discussion evitaroballoc a ni slasoporp and segnellahc ,smelborp etaulave Can .weiv fo stniop elpitlum pu gnihgiew and elaborating ,gnisirammus ,dias have srehto tahw no gnitroper ,puorg ro rentrap a with action fo esruoc a no ediced ot discussion a emarf Can | .noisulcnoc a sdrawot ti reets pleh ylluftcat and interaction the poleved Can .ecneffo yna esiminim ro diova ot sa yaw a hcus ni smsicitirc ro stnemeergasid ,snoitavreser yna gnitalumrof and snoitubirtnoc gnigdelwonkca ,puorg a nihtiw perspectives different ot ytivitisnes wohs Can | 1C |
+| .drawrof yaw a ro noitulos a no agreement etatilicaf ot redro ni snoitubirtnoc suoirav the knil and etaulave ,esirammus Can | elbaliava descriptors oN | 2C |
+| Collaborating ot tcurtsnoc gninaem | Facilitating evitaroballoc interaction with sreep |  |
+| Collaborating ni a group |  |  |
+| elbaliava descriptors oN | elbaliava descriptors oN | 1A-erP |
+| .ecnavda ni eraperp can yeht dedivorp ,sesarhp and sngis/sdrow simple yrev using ,kniht srehto tahw ksa and aedi na sserpxe Can | .dnatsrednu srehto rehtehw ksa and understand yeht that etacidni Can .ecnavda ni deraperp sesarhp simple ,trohs using sksat simple yrev ot snoitubirtnoc ’srehto etivni Can | 1A |
+| .yaw simple a ni snoitseggus ekam Can .gniwollof era yeht that etacidni ot snoitseuq lanoisacco esop and skramer simple ekam Can | .emit ot emit from noitalumrofer ro noititeper for ksa can yeht dedivorp ,sesnopser understanding and snoitseggus gnikam ,kniht srehto tahw gniksa ,sksat lacitcarp ,elpmis ni etaroballoc Can | 2A |
+| .snoitseuq etairporppa gniksa yb naem yeht tahw sdnatsrednu gnisserdda era yeht nosrep the that erusne Can | .snoitseggus their sserpxe and etubirtnoc meht pleh people erom ro eno and ylwols etalucitra stnapicitrap other dedivorp ,sksat derahs ,elpmis ni etaroballoc Can |  |
+| .esruoc no saedi fo development the peek pleh and understanding lautum mrfinoc ot dias sah enoemos tahw fo trap taeper Can .sweiv their for )s(nosaer the evig ot rebmem group a ksa Can | .sweiv their etubirtnoc ot group a ni people other etivni Can | 1B |
+| .noissucsid a fo sucof the niatniam ot snoitalumrofer simple and stnemmoc ,snoitseuq esu Can .devloser eb ot sdeen that eussi niam the rennam simple a ni gninialpxe and mia the gnitats yb ksat evitaroballoc drawrofthgiarts a ni work the esinagro Can | .ecneirepxe and esitrepxe their etubirtnoc ot srehto ksa and discussion a ni smret cisab ni ksat the enfied Can .snoitseuq drawrofthgiarts gnirewsna and gniksa yb group a ni laog nommoc a sdrawot work and sksat derahs ,elpmis ni etaroballoc Can .sehcaorppa evitanretla gnisoporp and ,eerga people rehtehw gniksa ,snoitseggus ot responding and gnitalumrof .g.e ,ksat derahs a no etaroballoc Can |  |
+| Collaborating ot tcurtsnoc gninaem | Facilitating evitaroballoc interaction with sreep |  |
+| Collaborating ni a group |  |  |
 
 <!-- page:110 -->
 *Page 110 3 CEFR –­ Companion volume*
@@ -457,48 +303,52 @@ ideas and the construction of coherent lines of thinking.
 <!-- page:112 -->
 *Page 112 3 CEFR –­ Companion volume*
 
-| 2/QDIIDAD | s10}d |
+| Leading | group |
 | --- | --- |
-|  | Page |
-| ajdwiis | “eap! |
-| Ue | u |
-| “Auessadau | UayM |
-| “Rap! | UlezJ89 |
-| om | and |
-| Pinom | Buiyjewos |
-| “Bujuoseas | sayy |
-| ‘paure\|dxa | acti |
-| uaaq | aney |
-| “uoneue\|dxa | ay} |
-| \|ely!ul | 4843 |
-| -uonediaqued | uana |
-| Jo | SuoaNasu! |
-| “uo\|ssnosip | sepun |
-| WaLy | »uI] |
-| “Bupjuitp | Jo |
-| “suoluido | 4Jayy |
-| 4Jay} | Uo |
-| “suonsa66ns | 6uninul |
-| ay | jo |
-| “uoNN\|Os | 10 |
-| pue | uoReUUOJU! |
-| “Bupyurya | 424} |
-| “ano\|Aeyaq | aandnusip |
-| uosiad | auo |
-| 6urAysn/ | *(Bun2ipaid |
-| pue | ‘Buséjeue |
-| 0} | 4aPJ0 |
-|  | The |
-| apin6 | sdays |
-| ay} | 0} |
-| “Bujuoseas | sayy |
-| 0} | siayjo |
-| pesqe | xa\|dwiod |
-| ‘yje3 | jenyde2u0> |
-| ysom | dnosb |
+| Encouraging | conceptual |
+|  | of |
+| Can | take |
+| requirements | of |
+| fe) | N |
+| Can | recognise |
+| direction | of |
+|  | SUL |
+| HAD | Can |
+| work, | ensuring |
+| BARENSHIII | a |
+| dominating | intervene |
+|  | or |
+| Can | organise |
+| 103d1959q | of |
+| Can | monitor |
+| back | on |
+| Can | intervene |
+| :sa]e2g | task |
+| Can | explain |
+| anrye>junuo> | clear |
+| Can | explain |
+| problem | solving |
+| Can | ask |
+| Can | intervene |
+| aBenbue] | to |
+| Can | allocate |
+| Can | ask |
+| g2e | explained. |
+| Can | ask |
+|  | sa} |
+| pue | Can |
+|  | work. |
+| <sai6a,ens | of |
+| Can | give |
+| formulation | when |
+| Can | use |
+| 2604 | No |
+| ELL | No |
 
 <!-- page:113 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 113*
+
+##### 3.4.1.3. Mediating communication
 
 ##### 3.4.1.3. Mediating communication
 
@@ -510,9 +360,7 @@ Even if one thinks of mediation in terms of rendering a text comprehensible, the
 
 The descriptors for mediating communication will therefore have direct relevance to teachers, trainers, students and professionals who wish to develop their awareness and competence in this area, in order to achieve better outcomes in their communicative encounters in a particular language or languages, particularly when there is an intercultural element involved.
 
-### Facilitating pluricultural space
-
-This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
+Facilitating pluricultural space This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
 
 - using questions and showing interest to promote understanding of cultural norms and perspectives
 
@@ -528,23 +376,13 @@ differences.
 
 Progression up the scale is characterised as follows: at B1 the emphasis is on introducing people and showing interest and empathy by asking and answering questions. By B2+, appreciation of different perspectives and flexibility are central: the ability to belong to a group yet maintain balance and distance, express oneself sensitively, clarify misunderstandings and explain how things were meant. This aspect is developed further in the C levels, where the user/learner can control their actions and expression according to context, making subtle adjustments in order to prevent and/or repair misunderstandings and cultural incidents. By C2, they can mediate effectively and naturally, taking account of sociocultural and sociolinguistic differences.
 
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
+<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=context pages=114-115 -->
 ### Facilitating pluricultural space | scale_facilitating_pluricultural_space
 
 |  | Facilitating pluricultural space |
 | --- | --- |
 | C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences. Can guide a sensitive discussion effectively, identifying nuances and undercurrents. |
 | C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings. Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. |
-
-
-<!-- page:114 -->
-*Page 114 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
-### Facilitating pluricultural space | scale_facilitating_pluricultural_space
-
-|  | Facilitating pluricultural space |
-| --- | --- |
 | B2 | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. |
 |  | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. |
 | B1 | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. |
@@ -553,6 +391,8 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 | A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/ signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. |
 | Pre-A1 | No descriptors available |
 
+<!-- page:114 -->
+*Page 114 3 CEFR –­ Companion volume*
 
 <!-- page:115 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 115*
@@ -576,6 +416,8 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 
 <!-- page:116 -->
 *Page 116 3 CEFR –­ Companion volume*
+
+#### 3.4.2. Mediation strategies
 
 Progression up the scale is characterised as follows: at the A levels, the user/learner can recognise when disagreements occur. At B1, they can obtain explanations, demonstrate understanding of the issues and seek clarifications where necessary. At B2, they can outline the main issues and the positions of the parties concerned, identify common ground, highlight possible solutions and summarise what is agreed on. These skills are deepened at B2+, with the user/learner showing detailed awareness of the issues and eliciting possible solutions. At the C levels, they have the diplomatic and persuasive language to do this more effectively, guiding a delicate discussion sensitively.
 
@@ -646,63 +488,20 @@ user/learner can explain the relationship of parts to the whole and encourage di
 <!-- db:id=scale_strategies_ot_nialpxe_a_wen_concept type=descriptor_scale product_tier=context pages=119-120 -->
 ### Strategies ot nialpxe a wen concept | scale_strategies_ot_nialpxe_a_wen_concept
 
-|  | 119 |
-| --- | --- |
-|  | Page |
-| “YUM | Jeyjuey |
-| aye | ajdoad |
-| ‘Aq | ainpazoid |
-| -abenbue\| | 1ajduiis |
-| ul | Bulseaydesed |
-| *sdajs | Ja]]ews |
-| pueysiapun | 0} |
-| -aBen6ue\| | sajduis |
-| Aq | $184} |
-| oNeWOyUl | Jo |
-| *Ajayeredas: | “abpa\|mouy |
-| quawunBie | ayy |
-| puejsiapun | 0} |
-| “abpa\|mouy | ysijei2ads |
-| abenBue\| | aaey |
-| 2 | 10) |
-| Je21uy>a} | pue |
-| "V1 | YAM |
-| >1doy | ys}Je19ads |
-| “sKeM | JUasayIp |
-| spadse | Aay |
-| pue | ‘waxed |
-| ‘syuiod | ujew |
-| ‘anss\| | xajdwod |
-|  | CEFR |
-| “pausaauo> | aouaipne |
-| “y | Bulyreordde |
-| pue | ajoym |
-| Aq | anss\| |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-| 3da2u0) | Mau |
-
-| 2IQDIIDAD | s10}d19Sap |
-| --- | --- |
-| 2IQDIIDAD | s10}d19Sap |
-| "YJ | pueysiapun |
-| djay | 0} |
-| 2IQDIIDAD | s10}d19Sap |
-| “Bulpueysuapun | ajeq!2e5 |
-| 0} | siseyduia |
-| Je | SUBIS/spiom |
-| pue}siapun | 0} |
-|  | volume |
-| “S494}O | 40} |
-| “syujod | ayeiedas |
-| Jo | si] |
-| JeUOHeWOsUI | Jo |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-|  | » |
-|  | 120 |
-| 3da2u0) | Mau |
-|  | Page |
+| .spets rellams fo seires a into nwod ti gnikaerb yb understand ot reisae ssecorp detacilpmoc a ekam Can | .egaugnal relpmis ni gnisarhparap yb )noitatneserp a ,noissucsid murof a ,yasse na .g.e( tseretni fo tcejbus a no text a fo stnetnoc niam the srehto for elbissecca ekam Can | .htiw railimaf ydaerla era people that eno ot ti gnitsartnoc and gnirapmoc yb erudecorp ro concept wen a nialpxe Can .secneirepxe and egdelwonk suoiverp ot snoitcennoc ekam ot people egaruocne ot kcabdeef evig and snoitseuq etalumrof Can | 2B |
+| --- | --- | --- | --- |
+| .yletarapes argument the fo stnenopmoc the gnitneserp yb understand ot reisae eussi detacilpmoc a ekam Can | .egaugnal relpmis ni ti gnisarhparap yb srehto for ticilpxe erom and reraelc dlefi their ni information fo eceip xelpmoc ,cfiiceps a ekam Can .egdelwonk tsilaiceps have ton seod ohw recipient a for language lacinhcet-non ylbatius using ,dlefi their nihtiw scipot lacinhcet nialpxe Can | .)s(tnapicitrap the fo secneirepxe and stseretni lanoisseforp ro lanosrep the and noisses the fo slaog the neewteb snoitcennoc the nialpxe ylraelc Can |  |
+| .syaw different ni stcepsa yek the gnitaeper yb egassem the gnicrofnier and ,nrettap detcennoc yllacigol a ni meht gnitneserp ,stniop niam the gnisirogetac and gnithgilhgih yb eussi xelpmoc a fo understanding etatilicaf Can | .egdelwonk tsilaiceps have ton seod ohw recipient a for language lacinhcet-non ylbatius using ,stxet lacinhcet ,xelpmoc terpretni and esarhparap Can .ti with railimaf ton era ohw stneipicer ot elbissecca cipot tsilaiceps xelpmoc a ekam ot redro ni )nograj ,yticitamoidi ,xatnys .g.e( language their tpada Can .noitasilaiceps fo dlefi nwo their nihtiw srettam about strepxe-non with gnitacinummoc when stpecnoc tlucffiid and terminology lacinhcet nialpxe Can | .denialpxe eb ot gniog si tahw ot knil a hsilbatse meht pleh ot and eussi tcartsba na fo egdelwonk roirp their about kniht ot people egaruocne ot snoitseuq fo seires a esop ylsuoenatnops Can | 1C |
+| .ti gnihcaorppa fo syaw different egaruocne and elohw the ot strap fo pihsnoitaler the gninialpxe yb eussi xelpmoc a fo understanding etatilicaf Can | .denrecnoc ecneidua the ot etairporppa liated and noitacitsihpos fo eerged and retsiger a ni content niam the present ot redro ni stxet fo range ediw yrev a fo language the tpada Can | .demussa eb can that egdelwonk suoiverp no ward that snoitanalpxe and snoitinfied dednetxe providing yb )snoiton cfiitneics .g.e( stpecnoc xelpmoc ecudortni Can | 2C |
+| Breaking nwod detacilpmoc information | Adapting language | Linking ot suoiverp egdelwonk |  |
+| Strategies ot nialpxe a wen concept |  |  |  |
+| elbaliava descriptors oN | elbaliava descriptors oN | elbaliava descriptors oN | 1A-erP |
+| elbaliava descriptors oN | elbaliava descriptors oN | elbaliava descriptors oN | 1A |
+| elbaliava descriptors oN | .ti understand esle enoemos pleh ot noitalumrof different using ,tcejbus yadyreve na no egassem simple a fo point niam the taeper Can | elbaliava descriptors oN | 2A |
+| .gnidnatsrednu etatilicaf ot sisahpme labrev-non and labrev gniyolpme ,emit a ta sngis/sdrow wef a ,ylwols meht gnitaeper yb understand ot reisae snoitcurtsni fo tes a ekam Can | .txet the fo redro lanigiro the using ,noihsaf simple a ni segassap trohs esarhparap Can | .snoitseuq simple gniksa yb with railimaf era people tahw ot detaler si information wen woh wohs Can | 1B |
+| .stniop etarapes fo tsil a sa ti gnitneserp yb understand ot reisae text lanoitamrofni ro lanoitcurtsni trohs a ekam Can | .srehto for elbissecca stnetnoc the ekam ot )sweivretni ,selcitra enizagam trohs .g.e( stcejbus railimaf no stxet drawrofthgiarts ,trohs ni edam stniop niam the ylpmis erom esarhparap Can | .secneirepxe yadyreve s’elpoep no ward that examples providing yb skrow gnihtemos woh nialpxe Can |  |
+| Breaking nwod detacilpmoc information | Adapting language | Linking ot suoiverp egdelwonk |  |
+| Strategies ot nialpxe a wen concept |  |  |  |
 
 <!-- page:119 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 119*
@@ -740,87 +539,41 @@ text for a particular audience.
 <!-- page:121 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 121*
 
-| s10}d | s10}d119Sap |
-| --- | --- |
-| 2/QDIIDAD | 1952p |
-| s10}d | s10}d119Sap |
-| 2/QDIIDAD | 1952p |
-| “yx@} | Aephiana |
-| Yoys | e |
-| “sajduiexa | ajduuis |
-| -asja | BuCaWOS |
-| 0} | Uo |
-| UJ | VOReWOJU! |
-| “lasea\|> | abessaw |
-| abi | pue |
-| “wiay} | 10 |
-| BJOW | JUBJUOD |
-| eY} | UO}JELUOJU! |
-|  | “syuaOD |
-| -aoualpne | papuaul |
-| pue | uonewuoju} |
-|  | s4aqsi6ar |
-| pue | aj/is |
-| Y} | 0} |
-| 32612) | jndjay |
-| sjujod | adualpne |
-| YSOW | Jo |
-|  | Companion |
-| ‘asodind | s}1 |
-| JO | Moy |
-| CEFR | - |
-| 3x9} | e |
-|  | » |
-|  | 122 |
-| 3x9} | e |
-|  | Page |
+| elbaliava descriptors oN | elbaliava descriptors oN | 1A-erP |
+| --- | --- | --- |
+| elbaliava descriptors oN | elbaliava descriptors oN | 1A |
+| .txet yadyreve trohs a ni secnetnes yek the )thgilhgih ,enilrednu .g.e( kram and yfitnedi Can | elbaliava descriptors oN | 2A |
+| .esle enoemos ot no information this ssap ot redro ni ,txet lanoitamrofni ,drawrofthgiarts a ni information laitnesse the )thgilhgih ,enilrednu .g.e( kram and yfitnedi Can | .selpmaxe simple providing yb reraelc cipot yadyreve na fo tcepsa na ekam Can | 1B |
+|  | .yaw rehtona ni information niam the gniyevnoc yb ticilpxe erom and reraelc cipot yadyreve na fo tcepsa na ekam Can |  |
+| .reraelc egassem laitnesse the ekam ot redro ni ti egrem and text a fo strap different ni information detaeper ro detaler yfitnedi Can .meht for elbissecca erom content signiifcant the ekam ot redro ni ecneidua nevig a for relevant si that information wen dda ton od that strap the gniteled yb text ecruos a tide Can | .snoitartsulli adding and noititeper using yb elbissecca erom information wen ekam Can .stniop niam the gnitaeper and pets yb pets gnitalutipacer ,selpmaxe etercnoc gnivig yb elbissecca erom tseretni fo sdlefi their ni stcejbus no stpecnoc ekam Can | 2B |
+| .ecneidua dednetni the noitaredisnoc into gnikat and information evititeper ro tnaveler-non excluding yb text ecruos a yfilpmis Can | .stnemmoc yrotanalpxe and gninosaer ,selpmaxe adding yb ecneidua tegrat a ot elbissecca erom tseretni fo sdlefi their ni tcejbus a no text a fo content the ekam Can |  |
+| .ecneidua tegrat the ot ecnaveler tsom fo stniop the no sucof ot redro ni text ecruos xelpmoc a esinagroer Can | .retsiger and elyts gniyfidom and ,gninialpxe ,ycnadnuder adding yb ecneidua tegrat the ot elbissecca erom text xelpmoc a ni deniatnoc stniop niam the ekam Can .liated lufpleh adding and ylticilpxe erom stcepsa tlucffiid gninialpxe yb elbissecca erom content gnignellahc ,xelpmoc ekam Can | 1C |
+| .esoprup sti for yrassecennu snoitces gnivomer elihw ,tnemugra na fo wofl the and noisehoc ,ecnerehoc gnivorpmi ,txet ecruos xelpmoc a tfarder Can | .selpmaxe providing and elaborating yb scipot lanoisseforp ro cimedaca xelpmoc no stxet ni nevig information the etadicule Can | 2C |
+| Streamlining a text | Amplifying a esned text |  |
+| Strategies ot yfilpmis a text |  |  |
 
 <!-- page:122 -->
 *Page 122 3 CEFR –­ Companion volume*
 
-Chapter 4
-THE CEFR ILLUSTRATIVE DESCRIPTOR
-SCALES: PLURILINGUAL AND
-PLURICULTURAL COMPETENCE
-The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were
-the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR
-gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as
-“social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate
-in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn,
-further developing their linguistic and cultural repertoire. As the CEFR 2001 states:
-the plurilingual approach emphasises the fact that as an individual person’s experience of language in its cultural
-contexts expands, from the language of the home to that of society at large and then to the languages of other peoples
-(whether learnt at school or college, or by direct experience), he or she does not keep these languages and cultures in
-strictly separated mental compartments, but rather builds up a communicative competence to which all knowledge
-and experience of language contributes and in which languages interrelate and interact. (CEFR 2001 Section 1.3)
-Figure 15 – Plurilingual and pluricultural competence
-Plurilingual and pluricultural
-competence
-Building
-Building
-Plurilingual
-on pluricultural
-on plurilingual
-comprehension
-repertoire
-repertoire
-The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation
-to language education, considering that:
-the aim of language education is profoundly modified. It is no longer seen as simply to achieve “mastery” of one or
-two, or even three languages, each taken in isolation, with the “ideal native speaker” as the ultimate model. Instead,
-the aim is to develop a linguistic repertory, in which all linguistic abilities have a place. (CEFR 2001 Section 1.3)
-In the development of descriptors, the following points mentioned specifically in the CEFR 2001 were given
-particular attention:
-f languages are interrelated and interconnected, especially at the level of the individual;
-f languages and cultures are not kept in separated mental compartments;
-f all knowledge and experience of languages contribute to building up communicative competence;
-f balanced mastery of different languages is not the goal, but rather the ability (and willingness) to modulate
-their usage according to the social and communicative situation;
-f barriers between languages can be overcome in communication, and different languages can be used
-purposefully for conveying messages in the same situation.
+Chapter 4 THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: PLURILINGUAL AND PLURICULTURAL COMPETENCE The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states: the plurilingual approach emphasises the fact that as an individual person’s experience of language in its cultural contexts expands, from the language of the home to that of society at large and then to the languages of other peoples (whether learnt at school or college, or by direct experience), he or she does not keep these languages and cultures in strictly separated mental compartments, but rather builds up a communicative competence to which all knowledge and experience of language contributes and in which languages interrelate and interact. (CEFR 2001 Section 1.3)
 
-<!-- page:123 -->
-*Page 123*
+### Figure 15 – Plurilingual and pluricultural competence
+
+Plurilingual and pluricultural competence
+
+<!-- db:id=figure_15_plurilingual_pluricultural_competence type=figure product_tier=context pages=123 -->
+### Figure 15 – Plurilingual and pluricultural competence | figure_15_plurilingual_pluricultural_competence
+
+<!-- db:id=figure_15_plurilingual_pluricultural_competence type=figure render_as=text_diagram product_tier=context pages=123 -->
+### Figure 15 – Plurilingual and pluricultural competence | figure_15_plurilingual_pluricultural_competence
+
+```text
+Plurilingual and pluricultural competence
+├── Building on pluricultural repertoire
+├── Plurilingual comprehension
+└── Building on plurilingual repertoire
+```
+
 
 <!-- page:123 -->
 *Page 123*

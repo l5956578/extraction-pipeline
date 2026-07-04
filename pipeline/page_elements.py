@@ -10,7 +10,7 @@ import pdfplumber
 
 from pipeline.config import KNOWN_TABLES_FIGURES, PDF_PATH, SECTION_BLOCKS, TOC_PAGE_RANGE
 from pipeline.descriptor_layout import section_headers_from_page
-from pipeline.page_layout import _classify_line, _span_text
+from pipeline.page_layout import _classify_line, _span_text, classify_page_zones
 from pipeline.title_fix import fix_rotated_title
 from pipeline.utils import slugify
 
@@ -222,6 +222,68 @@ def _artifact_element(
     return el
 
 
+def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
+    zones = classify_page_zones(page)
+    footnotes = zones.get("footnotes") or []
+    if not footnotes:
+        return None
+    return {
+        "seq": seq,
+        "type": "footnote_zone",
+        "extractor": "footnote_zone",
+        "expected_chars": sum(len(f) for f in footnotes),
+    }
+
+
+def _figure_mixed_order(
+    page_num: int,
+    page: fitz.Page,
+    pdf_path,
+    art: Any,
+    headers: list[str],
+) -> list[dict[str, Any]]:
+    """Prose + figure reference on pages registered as figures but with body text."""
+    bboxes = table_bboxes(pdf_path, page_num - 1)
+    prose_segs = prose_segments(page, bboxes)
+    elements: list[dict[str, Any]] = []
+    seq = 0
+
+    for seg in prose_segs:
+        el: dict[str, Any] = {
+            "seq": seq,
+            "type": "prose",
+            "role": seg["role"],
+            "y0": seg["y0"],
+            "y1": seg["y1"],
+            "bbox": seg["bbox"],
+            "extractor": "prose_zone",
+            "expected_chars": expected_chars(page, seg["bbox"]),
+        }
+        if headers and not any(e.get("section_headers") for e in elements):
+            el["section_headers"] = headers
+        elements.append(el)
+        seq += 1
+
+    elements.append(
+        {
+            "seq": seq,
+            "type": "figure",
+            "extractor": "figure_ref",
+            "artifact_id": art.id,
+            "display_title": fix_rotated_title(art.display_name),
+        }
+    )
+    seq += 1
+
+    foot_el = _footnote_zone_element(seq, page)
+    if foot_el:
+        elements.append(foot_el)
+        seq += 1
+
+    elements.append({"seq": seq, "type": "footer", "extractor": "page_footer"})
+    return elements
+
+
 def build_reading_order(
     page_num: int,
     page: fitz.Page,
@@ -261,7 +323,10 @@ def build_reading_order(
             {"seq": 1, "type": "footer", "extractor": "page_footer"},
         ]
 
+    headers = section_headers_from_page(page)
     if art and art.artifact_type == "figure":
+        if headers or len(page.get_text("text").strip()) > 200:
+            return _figure_mixed_order(page_num, page, pdf_path, art, headers)
         return [
             {"seq": 0, "type": "figure_page", "extractor": "rich_page", "artifact_id": art.id},
             {"seq": 1, "type": "footer", "extractor": "page_footer"},
@@ -280,12 +345,18 @@ def build_reading_order(
     ):
         return [
             {"seq": 0, "type": "span_continuation_skip", "span": _span_dict(span_info)},
-            {"seq": 1, "type": "footer", "extractor": "page_footer"},
+            {
+                "seq": 1,
+                "type": "footer",
+                "extractor": "page_footer",
+                "skip_footnotes": True,
+            },
         ]
 
     bboxes = table_bboxes(pdf_path, page_num - 1)
     prose_segs = prose_segments(page, bboxes)
-    headers = section_headers_from_page(page)
+    if not headers:
+        headers = section_headers_from_page(page)
 
     elements: list[dict[str, Any]] = []
     seq = 0
@@ -332,7 +403,7 @@ def build_reading_order(
             seq += 1
             table_idx += 1
             if span_start:
-                break
+                table_idx = len(bboxes)
         else:
             break
 
@@ -354,5 +425,22 @@ def build_reading_order(
             seq += 1
         prose_idx += 1
 
-    elements.append({"seq": seq, "type": "footer", "extractor": "page_footer"})
+    has_span_artifact = any(e.get("type") == "artifact" and e.get("span") for e in elements)
+    foot_el = None if has_span_artifact else _footnote_zone_element(seq, page)
+    skip_footnotes = False
+    if foot_el and any(e.get("type") == "artifact" for e in elements):
+        elements.append(foot_el)
+        seq += 1
+        skip_footnotes = True
+    elif has_span_artifact:
+        skip_footnotes = True
+
+    elements.append(
+        {
+            "seq": seq,
+            "type": "footer",
+            "extractor": "page_footer",
+            "skip_footnotes": skip_footnotes,
+        }
+    )
     return elements
