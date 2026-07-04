@@ -36,14 +36,20 @@ def _prose_zones(
 
 def section_headers_from_page(page: fitz.Page) -> list[str]:
     """Numbered section headings present on this PDF page (for inventory/validation)."""
-    headers: list[str] = []
+    return [text for text, _ in section_headers_with_y(page)]
+
+
+def section_headers_with_y(page: fitz.Page) -> list[tuple[str, float]]:
+    """Numbered section headings with y-position on this PDF page."""
+    headers: list[tuple[str, float]] = []
     for block in page.get_text("dict").get("blocks", []):
         if block.get("type") != 0:
             continue
         for line in block.get("lines", []):
             text = "".join(sp.get("text", "") for sp in line.get("spans", [])).strip()
             if _SECTION_LINE.match(text):
-                headers.append(text)
+                headers.append((text, line["bbox"][1]))
+    headers.sort(key=lambda item: item[1])
     return headers
 
 

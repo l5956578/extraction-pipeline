@@ -820,12 +820,55 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_12_production_activities_strategies"
+          "type": "prose",
+          "role": "intro",
+          "y0": 0.0,
+          "y1": 160.7022247314453,
+          "bbox": [
+            0.0,
+            0.0,
+            595.2760009765625,
+            160.7022247314453
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 509
         },
         {
           "seq": 1,
+          "type": "figure",
+          "artifact_id": "figure_12_production_activities_strategies",
+          "display_title": "Figure 12 \u2013 Production activities and strategies",
+          "y0": 164.7022247314453,
+          "y1": 624.7276000976562,
+          "bbox": [
+            0.0,
+            164.7022247314453,
+            595.2760009765625,
+            624.7276000976562
+          ],
+          "extractor": "figure_ref"
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "body",
+          "y0": 624.7276000976562,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0.0,
+            624.7276000976562,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 714,
+          "section_headers": [
+            "3.2.1. Production activities",
+            "3.2.1.1. Oral production"
+          ]
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1555,12 +1598,40 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_13_interaction_activities_strategies"
+          "type": "figure",
+          "artifact_id": "figure_13_interaction_activities_strategies",
+          "display_title": "Figure 13 \u2013 Interaction activities and strategies",
+          "y0": 67.52871704101562,
+          "y1": 582.4635620117188,
+          "bbox": [
+            0.0,
+            67.52871704101562,
+            595.2760009765625,
+            582.4635620117188
+          ],
+          "extractor": "figure_ref"
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "body",
+          "y0": 582.4635620117188,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0.0,
+            582.4635620117188,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 962,
+          "section_headers": [
+            "3.3.1. Interaction activities",
+            "3.3.1.1. Oral interaction"
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }

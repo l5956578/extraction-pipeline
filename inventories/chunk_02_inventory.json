@@ -1017,12 +1017,54 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "figure_page",
-          "extractor": "rich_page",
-          "artifact_id": "figure_11_reception_activities_strategies"
+          "type": "prose",
+          "role": "intro",
+          "y0": 0.0,
+          "y1": 197.27084350585938,
+          "bbox": [
+            0.0,
+            0.0,
+            595.2760009765625,
+            197.27084350585938
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 81
         },
         {
           "seq": 1,
+          "type": "figure",
+          "artifact_id": "figure_11_reception_activities_strategies",
+          "display_title": "Figure 11 \u2013 Reception activities and strategies",
+          "y0": 201.27084350585938,
+          "y1": 651.3606567382812,
+          "bbox": [
+            0.0,
+            201.27084350585938,
+            595.2760009765625,
+            651.3606567382812
+          ],
+          "extractor": "figure_ref"
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "body",
+          "y0": 651.3606567382812,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0.0,
+            651.3606567382812,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 744,
+          "section_headers": [
+            "3.1. RECEPTION"
+          ]
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }

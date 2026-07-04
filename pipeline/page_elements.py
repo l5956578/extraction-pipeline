@@ -8,8 +8,14 @@ from typing import Any
 import fitz
 import pdfplumber
 
-from pipeline.config import KNOWN_TABLES_FIGURES, PDF_PATH, SECTION_BLOCKS, TOC_PAGE_RANGE
-from pipeline.descriptor_layout import section_headers_from_page
+from pipeline.config import (
+    KNOWN_TABLES_FIGURES,
+    PDF_PATH,
+    SECTION_BLOCKS,
+    TOC_PAGE_RANGE,
+    load_figures_registry,
+)
+from pipeline.descriptor_layout import section_headers_from_page, section_headers_with_y
 from pipeline.page_layout import _classify_line, _span_text, classify_page_zones
 from pipeline.title_fix import fix_rotated_title
 from pipeline.utils import slugify
@@ -222,6 +228,138 @@ def _artifact_element(
     return el
 
 
+def _normalize_caption_text(text: str) -> str:
+    s = re.sub(r"\s+", " ", text.strip()).lower()
+    for dash in ("–", "—", "−"):
+        s = s.replace(dash, "-")
+    return s
+
+
+def _caption_line_matches(line_text: str, caption: str) -> bool:
+    norm_line = _normalize_caption_text(line_text)
+    norm_cap = _normalize_caption_text(caption)
+    if norm_line == norm_cap:
+        return True
+    if norm_line.startswith(norm_cap):
+        return True
+    fig = re.match(r"figure\s+(\d+)", norm_cap)
+    if fig and norm_line.startswith(f"figure {fig.group(1)}"):
+        return True
+    return False
+
+
+def _figure_caption_y(page: fitz.Page, art: Any | None) -> float | None:
+    """Find figure caption y by matching registry/display title in page text."""
+    if not art:
+        return None
+
+    candidates: list[str] = []
+    if art.display_name:
+        candidates.append(art.display_name)
+    registry = {f["id"]: f["title"] for f in load_figures_registry()}
+    reg_title = registry.get(art.id)
+    if reg_title and reg_title not in candidates:
+        candidates.append(reg_title)
+
+    for cand in candidates:
+        m = re.match(r"(Figure\s+\d+)", cand, re.I)
+        if m and m.group(1) not in candidates:
+            candidates.append(m.group(1))
+
+    for block in page.get_text("dict").get("blocks", []):
+        if block.get("type") != 0:
+            continue
+        for line in block.get("lines", []):
+            text = _span_text(line.get("spans", [])).strip()
+            if not text:
+                continue
+            if any(_caption_line_matches(text, cand) for cand in candidates):
+                return line["bbox"][1]
+    return None
+
+
+def _section_header_y_below(page: fitz.Page, caption_y: float) -> float | None:
+    headers = section_headers_with_y(page)
+    below = [y for _, y in headers if y > caption_y + 1]
+    return min(below) if below else None
+
+
+def _figure_mixed_order(
+    page_num: int,
+    page: fitz.Page,
+    art: Any,
+) -> list[dict[str, Any]] | None:
+    """Split figure pages with intro prose, diagram, and body prose zones."""
+    caption_y = _figure_caption_y(page, art)
+    if caption_y is None:
+        return None
+
+    section_y = _section_header_y_below(page, caption_y)
+    if section_y is None:
+        return None
+
+    page_h = page.rect.height
+    page_w = page.rect.width
+    footer_y = page_h - 28
+
+    intro_bbox = [0.0, 0.0, page_w, caption_y - 4]
+    figure_bbox = [0.0, caption_y, page_w, section_y - 4]
+    body_bbox = [0.0, section_y - 4, page_w, footer_y]
+
+    body_headers = [text for text, y in section_headers_with_y(page) if y >= section_y - 4]
+
+    elements: list[dict[str, Any]] = []
+    seq = 0
+
+    intro_chars = expected_chars(page, intro_bbox)
+    if intro_chars > 0:
+        elements.append(
+            {
+                "seq": seq,
+                "type": "prose",
+                "role": "intro",
+                "y0": 0.0,
+                "y1": caption_y - 4,
+                "bbox": intro_bbox,
+                "extractor": "prose_zone",
+                "expected_chars": intro_chars,
+            }
+        )
+        seq += 1
+
+    elements.append(
+        {
+            "seq": seq,
+            "type": "figure",
+            "artifact_id": art.id,
+            "display_title": art.display_name,
+            "y0": caption_y,
+            "y1": section_y - 4,
+            "bbox": figure_bbox,
+            "extractor": "figure_ref",
+        }
+    )
+    seq += 1
+
+    body_el: dict[str, Any] = {
+        "seq": seq,
+        "type": "prose",
+        "role": "body",
+        "y0": section_y - 4,
+        "y1": footer_y,
+        "bbox": body_bbox,
+        "extractor": "prose_zone",
+        "expected_chars": expected_chars(page, body_bbox),
+    }
+    if body_headers:
+        body_el["section_headers"] = body_headers
+    elements.append(body_el)
+    seq += 1
+
+    elements.append({"seq": seq, "type": "footer", "extractor": "page_footer"})
+    return elements
+
+
 def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
     zones = classify_page_zones(page)
     footnotes = zones.get("footnotes") or []
@@ -328,6 +466,9 @@ def build_reading_order(
         ]
 
     if art and art.artifact_type == "figure":
+        mixed = _figure_mixed_order(page_num, page, art)
+        if mixed:
+            return mixed
         return [
             {"seq": 0, "type": "figure_page", "extractor": "rich_page", "artifact_id": art.id},
             {"seq": 1, "type": "footer", "extractor": "page_footer"},
