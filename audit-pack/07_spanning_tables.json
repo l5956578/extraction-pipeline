@@ -1,0 +1,122 @@
+[
+  {
+    "group_id": "table_02_summary_descriptor_changes",
+    "span_type": "continuation",
+    "start_page": 24,
+    "end_page": 25,
+    "title": "Table 2",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_noitamrofni_cfiiceps_gniyaler",
+    "span_type": "continuation",
+    "start_page": 94,
+    "end_page": 95,
+    "title": "noitamrofni cfiiceps gniyaleR",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_txet_nettirw_a_gnitalsnart",
+    "span_type": "continuation",
+    "start_page": 103,
+    "end_page": 104,
+    "title": "txet nettirw a gnitalsnarT",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_puorg_a_ni_gnitaroballoc",
+    "span_type": "continuation",
+    "start_page": 110,
+    "end_page": 111,
+    "title": "puorg a ni gnitaroballoC",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_tpecnoc_wen_a_nialpxe_ot_seigetarts",
+    "span_type": "continuation",
+    "start_page": 119,
+    "end_page": 120,
+    "title": "tpecnoc wen a nialpxe ot seigetartS",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_vocabulary_control",
+    "span_type": "continuation",
+    "start_page": 132,
+    "end_page": 133,
+    "title": "Vocabulary control",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_eriotreper_egaugnal_ngis",
+    "span_type": "continuation",
+    "start_page": 146,
+    "end_page": 147,
+    "title": "eriotreper egaugnal ngiS",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_eriotreper_larutluc_dna_ssenetairporppa_citsiugniloicos",
+    "span_type": "continuation",
+    "start_page": 154,
+    "end_page": 155,
+    "title": "eriotreper larutluc dna ssenetairporppa citsiugniloicoS",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_sevitcepsrep_dna_gnittes",
+    "span_type": "continuation",
+    "start_page": 162,
+    "end_page": 163,
+    "title": "sevitcepsrep dna gnitteS",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_2c",
+    "span_type": "continuation",
+    "start_page": 177,
+    "end_page": 178,
+    "title": "2C",
+    "rotated": true
+  },
+  {
+    "group_id": "table_self_assessment_grid",
+    "span_type": "section_block",
+    "start_page": 177,
+    "end_page": 181,
+    "title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_ygolonohp",
+    "span_type": "continuation",
+    "start_page": 183,
+    "end_page": 184,
+    "title": "ygolonohP",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_tnemugra",
+    "span_type": "continuation",
+    "start_page": 187,
+    "end_page": 188,
+    "title": "tnemugrA",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_noitcaretni_enilno",
+    "span_type": "continuation",
+    "start_page": 191,
+    "end_page": 192,
+    "title": "noitcaretni enilnO",
+    "rotated": true
+  },
+  {
+    "group_id": "appendix_5_domain_examples",
+    "span_type": "series",
+    "start_page": 191,
+    "end_page": 241,
+    "title": "Examples of use in different domains",
+    "rotated": true
+  }
+]

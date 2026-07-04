@@ -1,0 +1,1474 @@
+{
+  "chunk_id": "chunk_09",
+  "start_page": 242,
+  "end_page": 266,
+  "expected_page_markers": [
+    242,
+    243,
+    244,
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251,
+    252,
+    253,
+    254,
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266
+  ],
+  "required_artifacts": [
+    {
+      "id": "figure_18_young_learner_project_design",
+      "page": 244,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_the_rasch_model",
+      "page": 248,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_19_multimethod_research_design",
+      "page": 249,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_20_sign_language_project_phases",
+      "page": 254,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_listening_oral_comprehension",
+      "page": 257,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_interpreting",
+      "page": 259,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_a2",
+      "page": 260,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_b2",
+      "page": 263,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_amplifying_a_dense_text",
+      "page": 264,
+      "type": "artifact"
+    }
+  ],
+  "expected_tables": [
+    [
+      "table_01_descriptive_scheme_updates",
+      "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+      "table"
+    ],
+    [
+      "table_02_summary_descriptor_changes",
+      "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ]
+  ],
+  "expected_multipage": [
+    "table_02_summary_descriptor_changes",
+    "scale_vocabulary_control"
+  ],
+  "pages": [
+    {
+      "page_number": 242,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 243,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4235,
+      "min_output_chars": 508,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 2,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 244,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3728,
+      "min_output_chars": 447,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 44,
+      "artifact_id": "figure_18_young_learner_project_design",
+      "section_title": "Figure 18 \u2013 Development design of Young Learner Project",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_18_young_learner_project_design"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 245,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4376,
+      "min_output_chars": 525,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 246,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4686,
+      "min_output_chars": 562,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 247,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5494,
+      "min_output_chars": 659,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 248,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2684,
+      "min_output_chars": 322,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 8,
+      "artifact_id": "scale_the_rasch_model",
+      "section_title": "The Rasch Model",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_the_rasch_model",
+          "display_title": "The Rasch Model",
+          "y0": 58.81899999999996,
+          "y1": 341.512,
+          "bbox": [
+            70.157,
+            58.81899999999996,
+            525.118,
+            341.512
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 345.512,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            345.512,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 914
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 249,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 131,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "artifact_id": "figure_19_multimethod_research_design",
+      "section_title": "Figure 19 \u2013 Multimethod developmental research design",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_19_multimethod_research_design"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 250,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4752,
+      "min_output_chars": 570,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 251,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5095,
+      "min_output_chars": 611,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 252,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5412,
+      "min_output_chars": 649,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 253,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4023,
+      "min_output_chars": 482,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 2,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 254,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3618,
+      "min_output_chars": 434,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 32,
+      "artifact_id": "figure_20_sign_language_project_phases",
+      "section_title": "Figure 20 \u2013 The phases of the sign language project",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_20_sign_language_project_phases"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 255,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1192,
+      "min_output_chars": 143,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 256,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 257,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3764,
+      "min_output_chars": 451,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 165,
+      "artifact_id": "scale_overall_listening_oral_comprehension",
+      "section_title": "Overall listening oral comprehension",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 124.92118835449219,
+          "y1": 199.74239999999998,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            199.74239999999998
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 59
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_listening_oral_comprehension",
+          "display_title": "Overall listening oral comprehension",
+          "y0": 203.74239999999998,
+          "y1": 771.4825,
+          "bbox": [
+            70.4075,
+            203.74239999999998,
+            526.8575,
+            771.4825
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 258,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 259,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3190,
+      "min_output_chars": 382,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 32,
+      "artifact_id": "scale_interpreting",
+      "section_title": "Interpreting",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 168.08250427246094,
+          "y1": 322.41549999999995,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            322.41549999999995
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 441
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_interpreting",
+          "display_title": "Interpreting",
+          "y0": 326.41549999999995,
+          "y1": 768.6478,
+          "bbox": [
+            70.4075,
+            326.41549999999995,
+            526.8575,
+            768.6478
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 260,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2950,
+      "min_output_chars": 354,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 84,
+      "artifact_id": "scale_a2",
+      "section_title": "A2",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_a2",
+          "display_title": "A2",
+          "y0": 70.40769999999998,
+          "y1": 228.68920000000003,
+          "bbox": [
+            70.345,
+            70.40769999999998,
+            526.795,
+            228.68920000000003
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_a2",
+          "display_title": "A2",
+          "y0": 255.19409999999993,
+          "y1": 403.9835,
+          "bbox": [
+            70.345,
+            255.19409999999993,
+            526.795,
+            403.9835
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 407.9835,
+          "y1": 440.5367,
+          "bbox": [
+            0,
+            407.9835,
+            595.2760009765625,
+            440.5367
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 18
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_a2",
+          "display_title": "A2",
+          "y0": 444.5367,
+          "y1": 771.6076,
+          "bbox": [
+            70.345,
+            444.5367,
+            526.795,
+            771.6076
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 2
+        },
+        {
+          "seq": 4,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 261,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3361,
+      "min_output_chars": 403,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 81,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_goal_oriented_online_transactions_and_collaboration",
+          "display_title": "Goal-oriented online transactions and collaboration",
+          "y0": 70.40769999999998,
+          "y1": 161.68129999999996,
+          "bbox": [
+            70.4075,
+            70.40769999999998,
+            526.8575,
+            161.68129999999996
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_establishing_a_positive_atmosphere",
+          "display_title": "Establishing a positive atmosphere",
+          "y0": 173.606,
+          "y1": 316.2182,
+          "bbox": [
+            70.4075,
+            173.606,
+            526.8575,
+            316.2182
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_processing_text_in_speech_or_sign",
+          "display_title": "Processing text in speech or sign",
+          "y0": 328.14300000000003,
+          "y1": 436.16659999999996,
+          "bbox": [
+            70.4075,
+            328.14300000000003,
+            526.8575,
+            436.16659999999996
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 2
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_processing_text_in_writing",
+          "display_title": "Processing text in writing",
+          "y0": 448.0913,
+          "y1": 531.2764,
+          "bbox": [
+            70.4075,
+            448.0913,
+            526.8575,
+            531.2764
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 3
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_visually_representing_information",
+          "display_title": "Visually representing information",
+          "y0": 543.2011,
+          "y1": 771.4826,
+          "bbox": [
+            70.4075,
+            543.2011,
+            526.8575,
+            771.4826
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 4,
+          "table_index": 4
+        },
+        {
+          "seq": 5,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 262,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2325,
+      "min_output_chars": 279,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 107,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
+          "y0": 70.40769999999998,
+          "y1": 141.68129999999996,
+          "bbox": [
+            70.4075,
+            70.40769999999998,
+            526.8575,
+            141.68129999999996
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_analysis_and_criticism_of_creative_texts_including_literature",
+          "display_title": "Analysis and criticism of creative texts (including literature)",
+          "y0": 154.8329,
+          "y1": 236.10649999999998,
+          "bbox": [
+            70.4075,
+            154.8329,
+            526.8575,
+            236.10649999999998
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_facilitating_collaborative_interaction",
+          "display_title": "Facilitating collaborative interaction",
+          "y0": 249.2581,
+          "y1": 364.2896,
+          "bbox": [
+            70.4075,
+            249.2581,
+            526.8575,
+            364.2896
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 2
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_collaborating_to_construct_meaning",
+          "display_title": "Collaborating to construct meaning",
+          "y0": 377.4412,
+          "y1": 424.957,
+          "bbox": [
+            70.4075,
+            377.4412,
+            526.8575,
+            424.957
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 3
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_managing_interaction",
+          "display_title": "Managing interaction",
+          "y0": 438.1085,
+          "y1": 519.3822,
+          "bbox": [
+            70.4075,
+            438.1085,
+            526.8575,
+            519.3822
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 4,
+          "table_index": 4
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_encouraging_conceptual_talk",
+          "display_title": "Encouraging conceptual talk",
+          "y0": 532.5337,
+          "y1": 655.146,
+          "bbox": [
+            70.4075,
+            532.5337,
+            526.8575,
+            655.146
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 5,
+          "table_index": 5
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_facilitating_pluricultural_space",
+          "display_title": "Facilitating pluricultural space",
+          "y0": 668.2975,
+          "y1": 771.4826,
+          "bbox": [
+            70.4075,
+            668.2975,
+            526.8575,
+            771.4826
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 6,
+          "table_index": 6
+        },
+        {
+          "seq": 7,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 263,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3071,
+      "min_output_chars": 368,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 72,
+      "artifact_id": "scale_b2",
+      "section_title": "B2+",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2+",
+          "y0": 70.40769999999998,
+          "y1": 199.26199999999994,
+          "bbox": [
+            70.4075,
+            70.40769999999998,
+            526.8575,
+            199.26199999999994
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2+",
+          "y0": 210.97910000000002,
+          "y1": 454.9299,
+          "bbox": [
+            70.4075,
+            210.97910000000002,
+            526.8575,
+            454.9299
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2+",
+          "y0": 466.64689999999996,
+          "y1": 539.8318999999999,
+          "bbox": [
+            70.4075,
+            466.64689999999996,
+            526.8575,
+            539.8318999999999
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 2
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2+",
+          "y0": 551.5489,
+          "y1": 609.0647,
+          "bbox": [
+            70.4075,
+            551.5489,
+            526.8575,
+            609.0647
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 3
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2+",
+          "y0": 620.7817,
+          "y1": 771.4825,
+          "bbox": [
+            70.4075,
+            620.7817,
+            526.8575,
+            771.4825
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 4,
+          "table_index": 4
+        },
+        {
+          "seq": 5,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 264,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3058,
+      "min_output_chars": 366,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 90,
+      "artifact_id": "scale_amplifying_a_dense_text",
+      "section_title": "Amplifying a dense text",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_amplifying_a_dense_text",
+          "display_title": "Amplifying a dense text",
+          "y0": 70.40769999999998,
+          "y1": 127.92340000000002,
+          "bbox": [
+            70.4075,
+            70.40769999999998,
+            526.8575,
+            127.92340000000002
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_amplifying_a_dense_text",
+          "display_title": "Amplifying a dense text",
+          "y0": 138.23939999999993,
+          "y1": 270.8515,
+          "bbox": [
+            70.4075,
+            138.23939999999993,
+            526.8575,
+            270.8515
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_amplifying_a_dense_text",
+          "display_title": "Amplifying a dense text",
+          "y0": 281.1675,
+          "y1": 602.0612,
+          "bbox": [
+            70.4075,
+            281.1675,
+            526.8575,
+            602.0612
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 2
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_amplifying_a_dense_text",
+          "display_title": "Amplifying a dense text",
+          "y0": 612.3772,
+          "y1": 669.893,
+          "bbox": [
+            70.4075,
+            612.3772,
+            526.8575,
+            669.893
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 3
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_amplifying_a_dense_text",
+          "display_title": "Amplifying a dense text",
+          "y0": 680.209,
+          "y1": 771.4826,
+          "bbox": [
+            70.4075,
+            680.209,
+            526.8575,
+            771.4826
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 4,
+          "table_index": 4
+        },
+        {
+          "seq": 5,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 265,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2915,
+      "min_output_chars": 349,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 77,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_b2",
+          "display_title": "B2",
+          "y0": 70.40769999999998,
+          "y1": 250.6006,
+          "bbox": [
+            70.40741666666666,
+            70.40769999999998,
+            526.8574166666666,
+            250.6006
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 254.6006,
+          "y1": 303.21090000000004,
+          "bbox": [
+            0,
+            254.6006,
+            595.2760009765625,
+            303.21090000000004
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 21
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sign_language_repertoire",
+          "display_title": "Sign language repertoire",
+          "y0": 307.21090000000004,
+          "y1": 771.4825,
+          "bbox": [
+            70.40741666666666,
+            307.21090000000004,
+            526.8574166666666,
+            771.4825
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 266,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2465,
+      "min_output_chars": 295,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 83,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_diagrammatical_accuracy",
+          "display_title": "Diagrammatical accuracy",
+          "y0": 70.40769999999998,
+          "y1": 212.95489999999995,
+          "bbox": [
+            70.4075,
+            70.40769999999998,
+            526.8575,
+            212.95489999999995
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+          "display_title": "Sociolinguistic appropriateness and cultural repertoire",
+          "y0": 234.41359999999997,
+          "y1": 497.2187,
+          "bbox": [
+            70.4075,
+            234.41359999999997,
+            526.8575,
+            497.2187
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 1
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sign_text_structure",
+          "display_title": "Sign text structure",
+          "y0": 518.6774,
+          "y1": 771.4826,
+          "bbox": [
+            70.4075,
+            518.6774,
+            526.8575,
+            771.4826
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 2
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    }
+  ]
+}

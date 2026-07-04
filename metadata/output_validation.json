@@ -1,0 +1,662 @@
+{
+  "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\final_output\\CEFR_Companion_Volume.md",
+  "valid": false,
+  "issues": [
+    {
+      "type": "empty_page_section",
+      "page": 1,
+      "text_length_pdf": 106
+    },
+    {
+      "type": "empty_page_section",
+      "page": 3,
+      "text_length_pdf": 308
+    },
+    {
+      "type": "empty_page_section",
+      "page": 4,
+      "text_length_pdf": 2013
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 11,
+      "chars": 55,
+      "min_chars": 262,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 14,
+      "chars": 27,
+      "min_chars": 550,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 15,
+      "chars": 343,
+      "min_chars": 416,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 16,
+      "chars": 161,
+      "min_chars": 396,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 17,
+      "chars": 0,
+      "min_chars": 345,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 18,
+      "chars": 0,
+      "min_chars": 344,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 19,
+      "chars": 0,
+      "min_chars": 315,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 20,
+      "chars": 0,
+      "min_chars": 294,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 21,
+      "chars": 165,
+      "min_chars": 312,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 27,
+      "chars": 259,
+      "min_chars": 457,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 28,
+      "chars": 97,
+      "min_chars": 570,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 28,
+      "header": "2.1. AIMS OF THE CEFR"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 30,
+      "chars": 0,
+      "min_chars": 548,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 30,
+      "header": "2.3. PLURILINGUAL AND PLURICULTURAL COMPETENCE"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 31,
+      "chars": 71,
+      "min_chars": 559,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 31,
+      "header": "2.4. THE CEFR DESCRIPTIVE SCHEME"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 32,
+      "chars": 234,
+      "min_chars": 464,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 34,
+      "chars": 82,
+      "min_chars": 481,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 35,
+      "header": "2.5. MEDIATION"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 36,
+      "chars": 0,
+      "min_chars": 375,
+      "content_type": "mixed"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 36,
+      "header": "2.6. THE CEFR COMMON REFERENCE LEVELS"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 37,
+      "chars": 0,
+      "min_chars": 639,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 38,
+      "chars": 0,
+      "min_chars": 488,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 38,
+      "header": "2.7. CEFR PROFILES"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 40,
+      "chars": 0,
+      "min_chars": 222,
+      "content_type": "mixed"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 41,
+      "chars": 0,
+      "min_chars": 670,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 41,
+      "header": "2.8. THE CEFR ILLUSTRATIVE DESCRIPTORS"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 42,
+      "chars": 0,
+      "min_chars": 611,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 42,
+      "header": "2.9. USING THE CEFR ILLUSTRATIVE DESCRIPTORS"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 45,
+      "header": "2.10.2. Books"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 47,
+      "chars": 0,
+      "min_chars": 194,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 47,
+      "header": "3.1. RECEPTION"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 52,
+      "header": "3.1.1.2. Audio-visual comprehension"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 53,
+      "header": "3.1.1.3. Reading comprehension"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 59,
+      "header": "3.1.2. Reception strategies"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 60,
+      "header": "3.2. PRODUCTION"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 61,
+      "chars": 0,
+      "min_chars": 228,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 61,
+      "header": "3.2.1. Production activities"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 61,
+      "header": "3.2.1.1. Oral production"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 68,
+      "header": "3.2.2. Production strategies"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 70,
+      "header": "3.3. INTERACTION"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 71,
+      "chars": 0,
+      "min_chars": 214,
+      "content_type": "mixed"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 71,
+      "header": "3.3.1. Interaction activities"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 71,
+      "header": "3.3.1.1. Oral interaction"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 81,
+      "header": "3.3.1.2. Written interaction"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 87,
+      "header": "3.3.2. Interaction strategies"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 90,
+      "chars": 0,
+      "min_chars": 240,
+      "content_type": "mixed"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 90,
+      "header": "3.4. MEDIATION"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 92,
+      "header": "3.4.1.1. Mediating a text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 93,
+      "chars": 0,
+      "min_chars": 291,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 96,
+      "chars": 0,
+      "min_chars": 232,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 98,
+      "chars": 0,
+      "min_chars": 363,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 99,
+      "artifact_id": "scale_processing_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 102,
+      "chars": 31,
+      "min_chars": 529,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 109,
+      "chars": 0,
+      "min_chars": 310,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 112,
+      "chars": 0,
+      "min_chars": 361,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 113,
+      "artifact_id": "scale_leading_group_work"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 117,
+      "header": "3.4.2. Mediation strategies"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 118,
+      "chars": 0,
+      "min_chars": 387,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 118,
+      "header": "3.4.2.1. Strategies to explain a new concept"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 121,
+      "chars": 0,
+      "min_chars": 233,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 121,
+      "header": "3.4.2.2. Strategies to simplify a text"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 122,
+      "artifact_id": "scale_strategies_ot_yfilpmis_a_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 123,
+      "chars": 0,
+      "min_chars": 336,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 124,
+      "chars": 0,
+      "min_chars": 540,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 129,
+      "chars": 0,
+      "min_chars": 191,
+      "content_type": "mixed"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 134,
+      "artifact_id": "scale_phonological_control"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 136,
+      "header": "5.2. SOCIOLINGUISTIC COMPETENCE"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 137,
+      "header": "5.3. PRAGMATIC COMPETENCE"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 143,
+      "chars": 0,
+      "min_chars": 383,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 144,
+      "chars": 0,
+      "min_chars": 343,
+      "content_type": "mixed"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 144,
+      "header": "6.1. LINGUISTIC COMPETENCE"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 145,
+      "chars": 0,
+      "min_chars": 214,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 149,
+      "chars": 0,
+      "min_chars": 358,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 150,
+      "artifact_id": "scale_diagrammatical_accuracy"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 153,
+      "chars": 0,
+      "min_chars": 356,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 153,
+      "header": "6.2. SOCIOLINGUISTIC COMPETENCE"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 157,
+      "chars": 0,
+      "min_chars": 566,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_section_header",
+      "page": 157,
+      "header": "6.3. PRAGMATIC COMPETENCE"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 158,
+      "artifact_id": "scale_sign_text_erutcurts"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 161,
+      "chars": 0,
+      "min_chars": 348,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 173,
+      "chars": 0,
+      "min_chars": 543,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 174,
+      "chars": 0,
+      "min_chars": 729,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "missing_page_artifact",
+      "page": 175,
+      "artifact_id": "scale_proifcient_resu"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 243,
+      "chars": 0,
+      "min_chars": 508,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 244,
+      "chars": 132,
+      "min_chars": 447,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 245,
+      "chars": 0,
+      "min_chars": 525,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 246,
+      "chars": 0,
+      "min_chars": 562,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 247,
+      "chars": 0,
+      "min_chars": 659,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 249,
+      "chars": 0,
+      "min_chars": 80,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 250,
+      "chars": 0,
+      "min_chars": 570,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 251,
+      "chars": 0,
+      "min_chars": 611,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 252,
+      "chars": 223,
+      "min_chars": 649,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 255,
+      "chars": 0,
+      "min_chars": 143,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 269,
+      "chars": 0,
+      "min_chars": 413,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 270,
+      "chars": 0,
+      "min_chars": 535,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 271,
+      "chars": 193,
+      "min_chars": 574,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 272,
+      "chars": 299,
+      "min_chars": 480,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 273,
+      "chars": 0,
+      "min_chars": 438,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 274,
+      "chars": 0,
+      "min_chars": 548,
+      "content_type": "pure_text"
+    },
+    {
+      "type": "empty_page_section",
+      "page": 275,
+      "text_length_pdf": 3631
+    },
+    {
+      "type": "empty_page_section",
+      "page": 278,
+      "text_length_pdf": 1975
+    }
+  ],
+  "issue_counts": {
+    "empty_page_section": 5,
+    "page_under_extracted": 61,
+    "missing_section_header": 32,
+    "missing_page_artifact": 7
+  },
+  "page_markers": 278,
+  "required_count": 24,
+  "missing_pages": []
+}

@@ -1,0 +1,1230 @@
+{
+  "chunk_id": "chunk_02",
+  "start_page": 26,
+  "end_page": 50,
+  "expected_page_markers": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "required_artifacts": [
+    {
+      "id": "scale_background_to_the_cefr",
+      "page": 27,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_priorities_of_the_cefr",
+      "page": 28,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_a_reminder_of_cefr_2001_chapters",
+      "page": 29,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_the_linked_concepts_of_plurilingualism_pluriculturalism_and_partial_competences_were_introduced_to_language_education_for_the_first_time_in_the_second_provisional_version_of_the_cefr_in_1996",
+      "page": 30,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_by_a_curious_coincidence_1996_was_also_the_year_in_which_the_term_translanguaging_was_first_recorded_in_relation_to_bilingual_teaching_in_wales_translanguaging_is_an_action_undertaken_by_plurilingual_persons_where_more_than_one_language_may_be_involved_a_host_of_similar_expressions_now_exist_but_all_are_encompassed_by_the_term_plurilingualism",
+      "page": 31,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_01_structure_cefr_descriptive_scheme",
+      "page": 32,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reception",
+      "page": 33,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_02_reception_production_interaction_mediation",
+      "page": 34,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_can_do_descriptors_as_competence",
+      "page": 35,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_05_conventional_six_colours",
+      "page": 36,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_background_to_the_cefr_levels",
+      "page": 37,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_06_fictional_profile_clil",
+      "page": 38,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_07_profile_postgraduate_sciences",
+      "page": 39,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_10_plurilingual_oral_comprehension",
+      "page": 40,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_cefr_descriptor_research_project",
+      "page": 41,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_defining_curriculum_aims_from_a_needs_profile",
+      "page": 42,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_an_alternative_approach_is_to",
+      "page": 43,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_what_the_user_learner_can_do_cefr_2001_chapter_4",
+      "page": 44,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_11_reception_activities_strategies",
+      "page": 47,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_oral_comprehension",
+      "page": 48,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_understanding_conversation_between_other_people",
+      "page": 49,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_understanding_as_a_member_of_a_live_audience",
+      "page": 50,
+      "type": "artifact"
+    }
+  ],
+  "expected_tables": [
+    [
+      "table_01_descriptive_scheme_updates",
+      "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+      "table"
+    ],
+    [
+      "table_02_summary_descriptor_changes",
+      "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ]
+  ],
+  "expected_multipage": [
+    "table_02_summary_descriptor_changes",
+    "scale_vocabulary_control"
+  ],
+  "pages": [
+    {
+      "page_number": 26,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 27,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3810,
+      "min_output_chars": 457,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 7,
+      "artifact_id": "scale_background_to_the_cefr",
+      "section_title": "Background to the CEFR",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 28,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4752,
+      "min_output_chars": 570,
+      "section_headers": [
+        "2.1. AIMS OF THE CEFR"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 5,
+      "artifact_id": "scale_priorities_of_the_cefr",
+      "section_title": "Priorities of the CEFR",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 29,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4823,
+      "min_output_chars": 578,
+      "section_headers": [
+        "2.2. IMPLEMENTING THE ACTION-ORIENTED APPROACH"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 12,
+      "artifact_id": "scale_a_reminder_of_cefr_2001_chapters",
+      "section_title": "A reminder of CEFR 2001 chapters",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 393.413,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            393.413
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1966,
+          "section_headers": [
+            "2.2. IMPLEMENTING THE ACTION-ORIENTED APPROACH"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_a_reminder_of_cefr_2001_chapters",
+          "display_title": "A reminder of CEFR 2001 chapters",
+          "y0": 397.413,
+          "y1": 661.5550000000001,
+          "bbox": [
+            307.559,
+            397.413,
+            525.118,
+            661.5550000000001
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 30,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4574,
+      "min_output_chars": 548,
+      "section_headers": [
+        "2.3. PLURILINGUAL AND PLURICULTURAL COMPETENCE"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 4,
+      "artifact_id": "scale_the_linked_concepts_of_plurilingualism_pluriculturalism_and_partial_competences_were_introduced_to_language_education_for_the_first_time_in_the_second_provisional_version_of_the_cefr_in_1996",
+      "section_title": "The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced to language education for the first time in the second provisional version of the CEFR in 1996.",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 31,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4664,
+      "min_output_chars": 559,
+      "section_headers": [
+        "2.4. THE CEFR DESCRIPTIVE SCHEME"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 4,
+      "artifact_id": "scale_by_a_curious_coincidence_1996_was_also_the_year_in_which_the_term_translanguaging_was_first_recorded_in_relation_to_bilingual_teaching_in_wales_translanguaging_is_an_action_undertaken_by_plurilingual_persons_where_more_than_one_language_may_be_involved_a_host_of_similar_expressions_now_exist_but_all_are_encompassed_by_the_term_plurilingualism",
+      "section_title": "By a curious coincidence, 1996 was also the year in which the term \u201ctranslanguaging\u201d was first recorded (in relation to bilingual teaching in Wales). Translanguaging is an action undertaken by plurilingual persons, where more than one language may be involved. A host of similar expressions now exist, but all are encompassed by the term plurilingualism.",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 32,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3871,
+      "min_output_chars": 464,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 27,
+      "artifact_id": "figure_01_structure_cefr_descriptive_scheme",
+      "section_title": "Figure 1 \u2013 The structure of the CEFR descriptive scheme",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_01_structure_cefr_descriptive_scheme"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 33,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4167,
+      "min_output_chars": 500,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_reception",
+      "section_title": "Reception",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 211.66974999999996,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            211.66974999999996
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 827
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_reception",
+          "display_title": "Reception",
+          "y0": 215.66974999999996,
+          "y1": 375.9436,
+          "bbox": [
+            70.65725,
+            215.66974999999996,
+            524.61805,
+            375.9436
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 379.9436,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            379.9436,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2141
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 34,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4009,
+      "min_output_chars": 481,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 12,
+      "artifact_id": "figure_02_reception_production_interaction_mediation",
+      "section_title": "Figure 2 \u2013 The relationship between reception, production, interaction and mediation",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_02_reception_production_interaction_mediation"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 35,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3630,
+      "min_output_chars": 435,
+      "section_headers": [
+        "2.5. MEDIATION"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 55,
+      "artifact_id": "scale_can_do_descriptors_as_competence",
+      "section_title": "\u201cCan do\u201d descriptors as competence",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_can_do_descriptors_as_competence",
+          "display_title": "\u201cCan do\u201d descriptors as competence",
+          "y0": 64.48799999999994,
+          "y1": 361.166,
+          "bbox": [
+            70.42990909090908,
+            64.48799999999994,
+            287.716,
+            361.166
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 365.166,
+          "y1": 385.2139,
+          "bbox": [
+            0,
+            365.166,
+            595.2760009765625,
+            385.2139
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 46
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_can_do_descriptors_as_competence",
+          "display_title": "\u201cCan do\u201d descriptors as competence",
+          "y0": 389.2139,
+          "y1": 538.7377,
+          "bbox": [
+            70.42990909090908,
+            389.2139,
+            524.74305,
+            538.7377
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 36,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3130,
+      "min_output_chars": 375,
+      "section_headers": [
+        "2.6. THE CEFR COMMON REFERENCE LEVELS"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 12,
+      "artifact_id": "figure_05_conventional_six_colours",
+      "section_title": "Figure 5 \u2013 The conventional six colours",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_05_conventional_six_colours"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 37,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5330,
+      "min_output_chars": 639,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 4,
+      "artifact_id": "scale_background_to_the_cefr_levels",
+      "section_title": "Background to the CEFR levels",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 38,
+      "content_type": "pure_text",
+      "table_orientation": "rotated_270",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4073,
+      "min_output_chars": 488,
+      "section_headers": [
+        "2.7. CEFR PROFILES"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 15,
+      "artifact_id": "figure_06_fictional_profile_clil",
+      "section_title": "Figure 6 \u2013 A fictional profile of needs in an additional language \u2013 lower secondary CLIL",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_06_fictional_profile_clil"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 39,
+      "content_type": "pure_text",
+      "table_orientation": "rotated_270",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4215,
+      "min_output_chars": 505,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 4,
+      "artifact_id": "figure_07_profile_postgraduate_sciences",
+      "section_title": "Figure 7 \u2013 A profile of needs in an additional language \u2013 postgraduate natural sciences (fictional)",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_07_profile_postgraduate_sciences"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 40,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1851,
+      "min_output_chars": 222,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 354,
+      "artifact_id": "figure_10_plurilingual_oral_comprehension",
+      "section_title": "Figure 10 \u2013 A plurilingual proficiency profile \u2013 Oral comprehension across languages",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_10_plurilingual_oral_comprehension"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 41,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5586,
+      "min_output_chars": 670,
+      "section_headers": [
+        "2.8. THE CEFR ILLUSTRATIVE DESCRIPTORS"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 6,
+      "artifact_id": "scale_cefr_descriptor_research_project",
+      "section_title": "CEFR descriptor research project",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 42,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5094,
+      "min_output_chars": 611,
+      "section_headers": [
+        "2.9. USING THE CEFR ILLUSTRATIVE DESCRIPTORS"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 5,
+      "artifact_id": "scale_defining_curriculum_aims_from_a_needs_profile",
+      "section_title": "Defining curriculum aims from a needs profile",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 43,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 5291,
+      "min_output_chars": 634,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 5,
+      "artifact_id": "scale_an_alternative_approach_is_to",
+      "section_title": "An alternative approach is to:",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 44,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3915,
+      "min_output_chars": 469,
+      "section_headers": [
+        "2.10. SOME USEFUL RESOURCES FOR CEFR IMPLEMENTATION",
+        "2.10.1. Web resources"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 33,
+      "artifact_id": "scale_what_the_user_learner_can_do_cefr_2001_chapter_4",
+      "section_title": "WHAT the user/learner can do (CEFR 2001 Chapter 4)",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.76771545410156,
+          "y1": 86.91879999999998,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            86.91879999999998
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 39,
+          "section_headers": [
+            "2.10. SOME USEFUL RESOURCES FOR CEFR IMPLEMENTATION",
+            "2.10.1. Web resources"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_what_the_user_learner_can_do_cefr_2001_chapter_4",
+          "display_title": "WHAT the user/learner can do (CEFR 2001 Chapter 4)",
+          "y0": 90.91879999999998,
+          "y1": 210.35385000000002,
+          "bbox": [
+            70.65724999999999,
+            90.91879999999998,
+            524.9072500000001,
+            210.35385000000002
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 214.35385000000002,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            214.35385000000002,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2863
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 45,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1821,
+      "min_output_chars": 218,
+      "section_headers": [
+        "2.10.2. Books"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 2,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 46,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 47,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1622,
+      "min_output_chars": 194,
+      "section_headers": [
+        "3.1. RECEPTION"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 28,
+      "artifact_id": "figure_11_reception_activities_strategies",
+      "section_title": "Figure 11 \u2013 Reception activities and strategies",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_11_reception_activities_strategies"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 48,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4122,
+      "min_output_chars": 494,
+      "section_headers": [
+        "3.1.1. Reception activities",
+        "3.1.1.1. Oral comprehension"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_overall_oral_comprehension",
+      "section_title": "Overall oral comprehension",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 59.49442672729492,
+          "y1": 271.99615,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            271.99615
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1018,
+          "section_headers": [
+            "3.1.1. Reception activities",
+            "3.1.1.1. Oral comprehension"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_oral_comprehension",
+          "display_title": "Overall oral comprehension",
+          "y0": 275.99615,
+          "y1": 771.2327499999999,
+          "bbox": [
+            70.6572894736842,
+            275.99615,
+            525.6180499999999,
+            771.2327499999999
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 49,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3313,
+      "min_output_chars": 397,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_understanding_conversation_between_other_people",
+      "section_title": "Understanding conversation between other people",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 275.0259,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            275.0259
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 975
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_understanding_conversation_between_other_people",
+          "display_title": "Understanding conversation between other people",
+          "y0": 279.0259,
+          "y1": 771.23225,
+          "bbox": [
+            70.6572894736842,
+            279.0259,
+            525.61805,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 50,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3800,
+      "min_output_chars": 456,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 46,
+      "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
+      "section_title": "Understanding as a member of a live audience",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 257.79594999999995,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            257.79594999999995
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1011
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
+          "display_title": "Understanding as a member of a live audience",
+          "y0": 261.79594999999995,
+          "y1": 771.23225,
+          "bbox": [
+            70.6573,
+            261.79594999999995,
+            527.1072499999999,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    }
+  ]
+}

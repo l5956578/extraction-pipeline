@@ -1,0 +1,38 @@
+{
+  "figure_id": "figure_06_fictional_profile_clil",
+  "context": "lower secondary CLIL fictional needs profile",
+  "reading_notes": "Each axis is a descriptor scale. The blue shaded polygon edge marks the target CEFR level on that scale (filled dot on the outer ring). Levels read left-to-right around each quadrant.",
+  "quadrants": {
+    "reception": [
+      {"scale": "Understanding conversation between other speakers", "level": "B1"},
+      {"scale": "Understanding audio or signed media recordings", "level": "A2"},
+      {"scale": "Watching TV, film and video", "level": "B1"},
+      {"scale": "Reading for information and argument", "level": "B1"},
+      {"scale": "Reading instructions", "level": "B1"},
+      {"scale": "Reading as a leisure activity", "level": "B1"}
+    ],
+    "interaction": [
+      {"scale": "Understanding an interlocutor", "level": "A2"},
+      {"scale": "Conversation", "level": "A2"},
+      {"scale": "Informal discussion (with friends)", "level": "B1"},
+      {"scale": "Goal-oriented co-operation", "level": "A2"},
+      {"scale": "Information exchange", "level": "A2"},
+      {"scale": "Online conversation and discussion", "level": "A2"},
+      {"scale": "Goal-oriented online transactions and collaboration", "level": "A2"}
+    ],
+    "production": [
+      {"scale": "Sustained monologue: giving information", "level": "A2"},
+      {"scale": "Sustained monologue: describing experience", "level": "A2"},
+      {"scale": "Creative writing", "level": "A2"},
+      {"scale": "Reports and essays", "level": "B1"}
+    ],
+    "mediation": [
+      {"scale": "Expressing a personal response to creative texts", "level": "A2"},
+      {"scale": "Relaying specific information in writing", "level": "A2"},
+      {"scale": "Processing text in speech or sign", "level": "A2"},
+      {"scale": "Relaying specific information in speech or sign", "level": "A2"},
+      {"scale": "Collaborating to construct meaning", "level": "A2"},
+      {"scale": "Facilitating collaborative interaction with peers", "level": "A2"}
+    ]
+  }
+}

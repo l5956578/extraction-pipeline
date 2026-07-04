@@ -1,0 +1,66 @@
+{
+  "title": "CEFR Companion Volume",
+  "page_count": 278,
+  "navigation": [
+    {
+      "id": "foreword",
+      "title": "Foreword",
+      "page": 11
+    },
+    {
+      "id": "chapter-1",
+      "title": "Chapter 1: The CEFR in the light of its update",
+      "page": 13
+    },
+    {
+      "id": "chapter-2",
+      "title": "Chapter 2: Key aspects of the CEFR",
+      "page": 27
+    },
+    {
+      "id": "chapter-3",
+      "title": "Chapter 3: Communicative language activities and strategies",
+      "page": 47
+    },
+    {
+      "id": "chapter-4",
+      "title": "Chapter 4: Plurilingual and pluricultural competence",
+      "page": 123
+    },
+    {
+      "id": "chapter-5",
+      "title": "Chapter 5: Communicative language competences",
+      "page": 129
+    },
+    {
+      "id": "chapter-6",
+      "title": "Chapter 6: Signing competences",
+      "page": 143
+    },
+    {
+      "id": "appendices",
+      "title": "Appendices",
+      "page": 171
+    }
+  ],
+  "products": {
+    "self_assessment_base": {
+      "artifact_id": "table_self_assessment_grid",
+      "display_name": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "pages": [
+        177,
+        181
+      ],
+      "product_tier": "base"
+    },
+    "assessment_action_plan": {
+      "description": "Descriptor scales for assessment with action planning",
+      "product_tier": "assessment_action"
+    },
+    "detailed_assessment": {
+      "description": "Individual illustrative descriptor scales (\u00e0 la carte)",
+      "product_tier": "detailed"
+    }
+  },
+  "artifact_count": 120
+}

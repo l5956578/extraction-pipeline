@@ -1,0 +1,684 @@
+{
+  "chunk_id": "chunk_03",
+  "start_page": 51,
+  "end_page": 75,
+  "expected_page_markers": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74,
+    75
+  ],
+  "required_artifacts": [
+    {
+      "id": "scale_understanding_audio_or_signed_media_and_recordings",
+      "page": 52,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_watching_tv_film_and_video",
+      "page": 53,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_reading_comprehension",
+      "page": 54,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reading_correspondence",
+      "page": 55,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reading_for_orientation",
+      "page": 56,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reading_for_information_and_argument",
+      "page": 57,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reading_instructions",
+      "page": 58,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reading_as_a_leisure_activity",
+      "page": 59,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_identifying_cues_and_inferring_spoken_signed_and_written",
+      "page": 60,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_12_production_activities_strategies",
+      "page": 61,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_oral_production",
+      "page": 62,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sustained_monologue_describing_experience",
+      "page": 63,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sustained_monologue_putting_a_case_e_g_in_a_debate",
+      "page": 64,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_public_announcements",
+      "page": 65,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_addressing_audiences",
+      "page": 66,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_creative_writing",
+      "page": 67,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_reports_and_essays",
+      "page": 68,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_planning",
+      "page": 69,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_monitoring_and_repair",
+      "page": 70,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_13_interaction_activities_strategies",
+      "page": 71,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_oral_interaction",
+      "page": 72,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_understanding_an_interlocutor",
+      "page": 73,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_conversation",
+      "page": 74,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_informal_discussion_with_friends",
+      "page": 75,
+      "type": "artifact"
+    }
+  ],
+  "expected_tables": [
+    [
+      "table_01_descriptive_scheme_updates",
+      "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+      "table"
+    ],
+    [
+      "table_02_summary_descriptor_changes",
+      "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ]
+  ],
+  "expected_multipage": [
+    "table_02_summary_descriptor_changes",
+    "scale_vocabulary_control"
+  ],
+  "pages": [
+    {
+      "page_number": 51,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3205,
+      "min_output_chars": 384,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 68
+    },
+    {
+      "page_number": 52,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3221,
+      "min_output_chars": 386,
+      "section_headers": [
+        "3.1.1.2. Audio-visual comprehension"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_understanding_audio_or_signed_media_and_recordings",
+      "section_title": "Understanding audio (or signed) media and recordings",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 53,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3693,
+      "min_output_chars": 443,
+      "section_headers": [
+        "3.1.1.3. Reading comprehension"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_watching_tv_film_and_video",
+      "section_title": "Watching TV, film and video",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 54,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2952,
+      "min_output_chars": 354,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 72,
+      "artifact_id": "scale_overall_reading_comprehension",
+      "section_title": "Overall reading comprehension",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 55,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2867,
+      "min_output_chars": 344,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 66,
+      "artifact_id": "scale_reading_correspondence",
+      "section_title": "Reading correspondence",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 56,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3450,
+      "min_output_chars": 414,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_reading_for_orientation",
+      "section_title": "Reading for orientation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 57,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3380,
+      "min_output_chars": 405,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 47,
+      "artifact_id": "scale_reading_for_information_and_argument",
+      "section_title": "Reading for information and argument",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 58,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3457,
+      "min_output_chars": 414,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_reading_instructions",
+      "section_title": "Reading instructions",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 59,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3615,
+      "min_output_chars": 433,
+      "section_headers": [
+        "3.1.2. Reception strategies"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 53,
+      "artifact_id": "scale_reading_as_a_leisure_activity",
+      "section_title": "Reading as a leisure activity",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 60,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3252,
+      "min_output_chars": 390,
+      "section_headers": [
+        "3.2. PRODUCTION"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_identifying_cues_and_inferring_spoken_signed_and_written",
+      "section_title": "Identifying cues and inferring (spoken, signed and written)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 61,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1907,
+      "min_output_chars": 228,
+      "section_headers": [
+        "3.2.1. Production activities",
+        "3.2.1.1. Oral production"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 25,
+      "artifact_id": "figure_12_production_activities_strategies",
+      "section_title": "Figure 12 \u2013 Production activities and strategies",
+      "product_tier": [
+        "context"
+      ]
+    },
+    {
+      "page_number": 62,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3645,
+      "min_output_chars": 437,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 81,
+      "artifact_id": "scale_overall_oral_production",
+      "section_title": "Overall oral production",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 63,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3551,
+      "min_output_chars": 426,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 81,
+      "artifact_id": "scale_sustained_monologue_describing_experience",
+      "section_title": "Sustained monologue: describing experience",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 64,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3313,
+      "min_output_chars": 397,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_sustained_monologue_putting_a_case_e_g_in_a_debate",
+      "section_title": "Sustained monologue: putting a case (e.g. in a debate)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 65,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3567,
+      "min_output_chars": 428,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 73,
+      "artifact_id": "scale_public_announcements",
+      "section_title": "Public announcements",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 66,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3591,
+      "min_output_chars": 430,
+      "section_headers": [
+        "3.2.1.2. Written production"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 82,
+      "artifact_id": "scale_addressing_audiences",
+      "section_title": "Addressing audiences",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 67,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3675,
+      "min_output_chars": 441,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_creative_writing",
+      "section_title": "Creative writing",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 68,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3629,
+      "min_output_chars": 435,
+      "section_headers": [
+        "3.2.2. Production strategies"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_reports_and_essays",
+      "section_title": "Reports and essays",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 69,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3024,
+      "min_output_chars": 362,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 109,
+      "artifact_id": "scale_planning",
+      "section_title": "Planning",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 70,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2892,
+      "min_output_chars": 347,
+      "section_headers": [
+        "3.3. INTERACTION"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_monitoring_and_repair",
+      "section_title": "Monitoring and repair",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 71,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1785,
+      "min_output_chars": 214,
+      "section_headers": [
+        "3.3.1. Interaction activities",
+        "3.3.1.1. Oral interaction"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 32,
+      "artifact_id": "figure_13_interaction_activities_strategies",
+      "section_title": "Figure 13 \u2013 Interaction activities and strategies",
+      "product_tier": [
+        "context"
+      ]
+    },
+    {
+      "page_number": 72,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3889,
+      "min_output_chars": 466,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_overall_oral_interaction",
+      "section_title": "Overall oral interaction",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 73,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3831,
+      "min_output_chars": 459,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 77,
+      "artifact_id": "scale_understanding_an_interlocutor",
+      "section_title": "Understanding an interlocutor",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 74,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3390,
+      "min_output_chars": 406,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 37,
+      "artifact_id": "scale_conversation",
+      "section_title": "Conversation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    },
+    {
+      "page_number": 75,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3524,
+      "min_output_chars": 422,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_informal_discussion_with_friends",
+      "section_title": "Informal discussion (with friends)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ]
+    }
+  ]
+}

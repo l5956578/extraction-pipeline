@@ -1,0 +1,1424 @@
+{
+  "chunk_id": "chunk_06",
+  "start_page": 126,
+  "end_page": 150,
+  "expected_page_markers": [
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150
+  ],
+  "required_artifacts": [
+    {
+      "id": "scale_plurilingual_comprehension",
+      "page": 126,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_building_on_plurilingual_repertoire",
+      "page": 128,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_16_communicative_language_competences",
+      "page": 129,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_general_linguistic_range",
+      "page": 130,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_vocabulary_control",
+      "page": 132,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_vocabulary_control",
+      "page": 133,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_phonological_control",
+      "page": 134,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_orthographic_control",
+      "page": 136,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sociolinguistic_appropriateness",
+      "page": 137,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_flexibility",
+      "page": 138,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_thematic_development",
+      "page": 140,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_coherence_and_cohesion",
+      "page": 141,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_propositional_precision",
+      "page": 142,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_17_signing_competences",
+      "page": 144,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_diagrammatical_accuracy",
+      "page": 150,
+      "type": "artifact"
+    }
+  ],
+  "expected_tables": [
+    [
+      "table_01_descriptive_scheme_updates",
+      "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+      "table"
+    ],
+    [
+      "table_02_summary_descriptor_changes",
+      "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ]
+  ],
+  "expected_multipage": [
+    "table_02_summary_descriptor_changes",
+    "scale_vocabulary_control"
+  ],
+  "pages": [
+    {
+      "page_number": 126,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3171,
+      "min_output_chars": 380,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 41,
+      "artifact_id": "scale_plurilingual_comprehension",
+      "section_title": "Plurilingual comprehension",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 495.5048,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            495.5048
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1544
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_plurilingual_comprehension",
+          "display_title": "Plurilingual comprehension",
+          "y0": 499.5048,
+          "y1": 771.23225,
+          "bbox": [
+            70.65725,
+            499.5048,
+            527.1072499999999,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 127,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3500,
+      "min_output_chars": 420,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 30,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_plurilingual_comprehension",
+          "display_title": "Plurilingual comprehension",
+          "y0": 70.65785,
+          "y1": 284.45480000000003,
+          "bbox": [
+            70.65725,
+            70.65785,
+            527.10725,
+            284.45480000000003
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 288.45480000000003,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            288.45480000000003,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2121
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 128,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3666,
+      "min_output_chars": 439,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 67,
+      "artifact_id": "scale_building_on_plurilingual_repertoire",
+      "section_title": "Building on plurilingual repertoire",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_building_on_plurilingual_repertoire",
+          "display_title": "Building on plurilingual repertoire",
+          "y0": 70.65785,
+          "y1": 673.34415,
+          "bbox": [
+            70.65725,
+            70.65785,
+            527.10725,
+            673.34415
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 129,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1599,
+      "min_output_chars": 191,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 23,
+      "artifact_id": "figure_16_communicative_language_competences",
+      "section_title": "Figure 16 \u2013 Communicative language competences",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_16_communicative_language_competences"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 130,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4386,
+      "min_output_chars": 526,
+      "section_headers": [
+        "5.1. LINGUISTIC COMPETENCE"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 46,
+      "artifact_id": "scale_general_linguistic_range",
+      "section_title": "General linguistic range",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 427.166,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            427.166
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1891,
+          "section_headers": [
+            "5.1. LINGUISTIC COMPETENCE"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_general_linguistic_range",
+          "display_title": "General linguistic range",
+          "y0": 431.166,
+          "y1": 771.2325,
+          "bbox": [
+            70.6573,
+            431.166,
+            527.1072499999999,
+            771.2325
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 131,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3035,
+      "min_output_chars": 364,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 72,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_general_linguistic_range",
+          "display_title": "General linguistic range",
+          "y0": 70.65785,
+          "y1": 151.60459999999995,
+          "bbox": [
+            70.65727083333333,
+            70.65785,
+            527.1076346153847,
+            151.60459999999995
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 155.60459999999995,
+          "y1": 309.70715,
+          "bbox": [
+            0,
+            155.60459999999995,
+            595.2760009765625,
+            309.70715
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 513
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_vocabulary_range",
+          "display_title": "Vocabulary range",
+          "y0": 313.70715,
+          "y1": 771.23275,
+          "bbox": [
+            70.65727083333333,
+            313.70715,
+            527.1076346153847,
+            771.23275
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 132,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": {
+        "group_id": "scale_vocabulary_control",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 132,
+        "end_page": 133
+      },
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3148,
+      "min_output_chars": 377,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 76,
+      "artifact_id": "scale_vocabulary_control",
+      "section_title": "Vocabulary control",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 233.24274999999994,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            233.24274999999994
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 754
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_vocabulary_control",
+          "display_title": "Vocabulary control",
+          "y0": 237.24274999999994,
+          "y1": 551.79385,
+          "bbox": [
+            70.65726923076923,
+            237.24274999999994,
+            527.1072499999999,
+            551.79385
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": {
+            "group_id": "scale_vocabulary_control",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              132,
+              133
+            ],
+            "emit_body_on": 132
+          },
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 133,
+      "content_type": "multi_page_table",
+      "table_orientation": "normal",
+      "spanning_info": {
+        "group_id": "scale_vocabulary_control",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 132,
+        "end_page": 133
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 4110,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": true,
+      "drawings": 31,
+      "artifact_id": "scale_vocabulary_control",
+      "section_title": "Vocabulary control",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_vocabulary_control",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              132,
+              133
+            ],
+            "emit_body_on": 132
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 134,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2870,
+      "min_output_chars": 344,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 58,
+      "artifact_id": "scale_phonological_control",
+      "section_title": "Phonological control",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_phonological_control",
+          "display_title": "Phonological control",
+          "y0": 69.87174999999996,
+          "y1": 771.2327272727272,
+          "bbox": [
+            70.65733333333333,
+            69.87174999999996,
+            485.72815,
+            771.2327272727272
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 135,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2010,
+      "min_output_chars": 241,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 41,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_phonological_control",
+          "display_title": "Phonological control",
+          "y0": 69.87174999999996,
+          "y1": 771.2327142857142,
+          "bbox": [
+            70.65733333333333,
+            69.87174999999996,
+            326.874,
+            771.2327142857142
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 136,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2715,
+      "min_output_chars": 325,
+      "section_headers": [
+        "5.2. SOCIOLINGUISTIC COMPETENCE"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 44,
+      "artifact_id": "scale_orthographic_control",
+      "section_title": "Orthographic control",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 169.81904999999995,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            169.81904999999995
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 247,
+          "section_headers": [
+            "5.2. SOCIOLINGUISTIC COMPETENCE"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_orthographic_control",
+          "display_title": "Orthographic control",
+          "y0": 173.81904999999995,
+          "y1": 516.99415,
+          "bbox": [
+            70.65725,
+            173.81904999999995,
+            527.10725,
+            516.99415
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 137,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4072,
+      "min_output_chars": 488,
+      "section_headers": [
+        "5.3. PRAGMATIC COMPETENCE"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 53,
+      "artifact_id": "scale_sociolinguistic_appropriateness",
+      "section_title": "Sociolinguistic appropriateness",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sociolinguistic_appropriateness",
+          "display_title": "Sociolinguistic appropriateness",
+          "y0": 70.65785,
+          "y1": 627.90965,
+          "bbox": [
+            70.65727777777778,
+            70.65785,
+            527.1072499999999,
+            627.90965
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 138,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3764,
+      "min_output_chars": 451,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 48,
+      "artifact_id": "scale_flexibility",
+      "section_title": "Flexibility",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 430.47305,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            430.47305
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2066
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_flexibility",
+          "display_title": "Flexibility",
+          "y0": 434.47305,
+          "y1": 771.23275,
+          "bbox": [
+            70.65726470588234,
+            434.47305,
+            527.1072499999999,
+            771.23275
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 139,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2351,
+      "min_output_chars": 282,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 53,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 201.31115,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            201.31115
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 507
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_turntaking",
+          "display_title": "Turntaking",
+          "y0": 205.31115,
+          "y1": 654.0333499999999,
+          "bbox": [
+            70.65727777777778,
+            205.31115,
+            527.1072499999999,
+            654.0333499999999
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 140,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2765,
+      "min_output_chars": 331,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_thematic_development",
+      "section_title": "Thematic development",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_thematic_development",
+          "display_title": "Thematic development",
+          "y0": 70.65785,
+          "y1": 637.63005,
+          "bbox": [
+            70.6572894736842,
+            70.65785,
+            527.1072499999999,
+            637.63005
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 141,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3067,
+      "min_output_chars": 368,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 81,
+      "artifact_id": "scale_coherence_and_cohesion",
+      "section_title": "Coherence and cohesion",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_coherence_and_cohesion",
+          "display_title": "Coherence and cohesion",
+          "y0": 70.65785,
+          "y1": 474.93295,
+          "bbox": [
+            70.65742592592592,
+            70.65785,
+            527.1073833333334,
+            474.93295
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 478.93295,
+          "y1": 607.6089499999999,
+          "bbox": [
+            0,
+            478.93295,
+            595.2760009765625,
+            607.6089499999999
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 544
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_coherence_and_cohesion",
+          "display_title": "Coherence and cohesion",
+          "y0": 611.6089499999999,
+          "y1": 771.23275,
+          "bbox": [
+            70.65742592592592,
+            611.6089499999999,
+            527.1073833333334,
+            771.23275
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 142,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3216,
+      "min_output_chars": 385,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 89,
+      "artifact_id": "scale_propositional_precision",
+      "section_title": "Propositional precision",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_propositional_precision",
+          "display_title": "Propositional precision",
+          "y0": 70.65785,
+          "y1": 226.61995000000002,
+          "bbox": [
+            70.65728333333333,
+            70.65785,
+            527.10725,
+            226.61995000000002
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 230.61995000000002,
+          "y1": 365.63585,
+          "bbox": [
+            0,
+            230.61995000000002,
+            595.2760009765625,
+            365.63585
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 582
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_propositional_precision",
+          "display_title": "Propositional precision",
+          "y0": 369.63585,
+          "y1": 761.2338500000001,
+          "bbox": [
+            70.65728333333333,
+            369.63585,
+            527.10725,
+            761.2338500000001
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 143,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3198,
+      "min_output_chars": 383,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 2,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 144,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2866,
+      "min_output_chars": 343,
+      "section_headers": [
+        "6.1. LINGUISTIC COMPETENCE"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 17,
+      "artifact_id": "figure_17_signing_competences",
+      "section_title": "Figure 17 \u2013 Signing competences",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_17_signing_competences"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 145,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1787,
+      "min_output_chars": 214,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 146,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "scale_sign_language_repertoire",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 146,
+        "end_page": 147
+      },
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3114,
+      "min_output_chars": 373,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 46,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sign_language_repertoire",
+          "display_title": "Sign language repertoire",
+          "y0": 69.87920000000003,
+          "y1": 771.2327272727272,
+          "bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            498.93910000000005,
+            771.2327272727272
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": {
+            "group_id": "scale_sign_language_repertoire",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              146,
+              147
+            ],
+            "emit_body_on": 146
+          },
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 147,
+      "content_type": "multi_page_table",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "scale_sign_language_repertoire",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 146,
+        "end_page": 147
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 3269,
+      "min_output_chars": 261,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 32,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_sign_language_repertoire",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              146,
+              147
+            ],
+            "emit_body_on": 146
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 148,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2326,
+      "min_output_chars": 279,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 25,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_sign_language_repertoire",
+          "display_title": "Sign language repertoire",
+          "y0": 69.87920000000003,
+          "y1": 771.23275,
+          "bbox": [
+            70.6577,
+            69.87920000000003,
+            397.70415,
+            771.23275
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 149,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2991,
+      "min_output_chars": 358,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 150,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2545,
+      "min_output_chars": 305,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 45,
+      "artifact_id": "scale_diagrammatical_accuracy",
+      "section_title": "Diagrammatical accuracy",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_diagrammatical_accuracy",
+          "display_title": "Diagrammatical accuracy",
+          "y0": 69.87920000000003,
+          "y1": 771.2326999999999,
+          "bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            502.39695,
+            771.2326999999999
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    }
+  ]
+}

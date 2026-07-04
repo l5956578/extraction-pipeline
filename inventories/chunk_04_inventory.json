@@ -1,0 +1,1485 @@
+{
+  "chunk_id": "chunk_04",
+  "start_page": 76,
+  "end_page": 100,
+  "expected_page_markers": [
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+  ],
+  "required_artifacts": [
+    {
+      "id": "scale_formal_discussion_meetings",
+      "page": 76,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_goal_oriented_co_operation_cooking_together_discussing_a_document_organising_an_event_etc",
+      "page": 77,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_obtaining_goods_and_services",
+      "page": 78,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_information_exchange",
+      "page": 79,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_interviewing_and_being_interviewed",
+      "page": 80,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_using_telecommunications",
+      "page": 81,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_written_interaction",
+      "page": 82,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_correspondence",
+      "page": 83,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_notes_messages_and_forms",
+      "page": 84,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_conversation_and_discussion",
+      "page": 85,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_goal_oriented_online_transactions_and_collaboration",
+      "page": 87,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_turntaking",
+      "page": 88,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_co_operating",
+      "page": 89,
+      "type": "artifact"
+    },
+    {
+      "id": "figure_14_mediation_activities_strategies",
+      "page": 90,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_mediation",
+      "page": 91,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_cte_smargaid_shparg_ni_atad_explaining",
+      "page": 97,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_processing_text",
+      "page": 99,
+      "type": "artifact"
+    }
+  ],
+  "expected_tables": [
+    [
+      "table_01_descriptive_scheme_updates",
+      "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+      "table"
+    ],
+    [
+      "table_02_summary_descriptor_changes",
+      "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ]
+  ],
+  "expected_multipage": [
+    "table_02_summary_descriptor_changes",
+    "scale_vocabulary_control"
+  ],
+  "pages": [
+    {
+      "page_number": 76,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3580,
+      "min_output_chars": 429,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_formal_discussion_meetings",
+      "section_title": "Formal discussion (meetings)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_formal_discussion_meetings",
+          "display_title": "Formal discussion (meetings)",
+          "y0": 70.65785,
+          "y1": 652.25585,
+          "bbox": [
+            70.6572894736842,
+            70.65785,
+            527.1072499999999,
+            652.25585
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 77,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2897,
+      "min_output_chars": 347,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 53,
+      "artifact_id": "scale_goal_oriented_co_operation_cooking_together_discussing_a_document_organising_an_event_etc",
+      "section_title": "Goal-oriented co-operation (cooking together, discussing a document, organising an event, etc.)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_goal_oriented_co_operation_cooking_together_discussing_a_document_organising_an_event_etc",
+          "display_title": "Goal-oriented co-operation (cooking together, discussing a document, organising an event, etc.)",
+          "y0": 70.65785,
+          "y1": 624.3721,
+          "bbox": [
+            70.65727777777778,
+            70.65785,
+            527.1072499999999,
+            624.3721
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 78,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3389,
+      "min_output_chars": 406,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_obtaining_goods_and_services",
+      "section_title": "Obtaining goods and services",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_obtaining_goods_and_services",
+          "display_title": "Obtaining goods and services",
+          "y0": 70.65785,
+          "y1": 639.68295,
+          "bbox": [
+            70.65727777777778,
+            70.65785,
+            527.1072499999999,
+            639.68295
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 79,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3039,
+      "min_output_chars": 364,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 57,
+      "artifact_id": "scale_information_exchange",
+      "section_title": "Information exchange",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_information_exchange",
+          "display_title": "Information exchange",
+          "y0": 70.65785,
+          "y1": 767.45625,
+          "bbox": [
+            70.6572894736842,
+            70.65785,
+            527.1072499999999,
+            767.45625
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 80,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3351,
+      "min_output_chars": 402,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_interviewing_and_being_interviewed",
+      "section_title": "Interviewing and being interviewed",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 66.58110046386719,
+          "y1": 239.04180000000002,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            239.04180000000002
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 784
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_interviewing_and_being_interviewed",
+          "display_title": "Interviewing and being interviewed",
+          "y0": 243.04180000000002,
+          "y1": 771.23225,
+          "bbox": [
+            70.6572894736842,
+            243.04180000000002,
+            527.1072499999999,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 81,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3331,
+      "min_output_chars": 399,
+      "section_headers": [
+        "3.3.1.2. Written interaction"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 54,
+      "artifact_id": "scale_using_telecommunications",
+      "section_title": "Using telecommunications",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 187.49779999999998,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            187.49779999999998
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 487,
+          "section_headers": [
+            "3.3.1.2. Written interaction"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_using_telecommunications",
+          "display_title": "Using telecommunications",
+          "y0": 191.49779999999998,
+          "y1": 618.76915,
+          "bbox": [
+            70.65727777777778,
+            191.49779999999998,
+            527.1072499999999,
+            618.76915
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 82,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3197,
+      "min_output_chars": 383,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 72,
+      "artifact_id": "scale_overall_written_interaction",
+      "section_title": "Overall written interaction",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 176.10784999999998,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            176.10784999999998
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 410
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_written_interaction",
+          "display_title": "Overall written interaction",
+          "y0": 180.10784999999998,
+          "y1": 396.1667,
+          "bbox": [
+            70.65726,
+            180.10784999999998,
+            527.1072499999999,
+            396.1667
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 400.1667,
+          "y1": 524.9318499999999,
+          "bbox": [
+            0,
+            400.1667,
+            595.2760009765625,
+            524.9318499999999
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 455
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_written_interaction",
+          "display_title": "Overall written interaction",
+          "y0": 528.9318499999999,
+          "y1": 771.2327,
+          "bbox": [
+            70.65726,
+            528.9318499999999,
+            527.1072499999999,
+            771.2327
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 1
+        },
+        {
+          "seq": 4,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 83,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3252,
+      "min_output_chars": 390,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 43,
+      "artifact_id": "scale_correspondence",
+      "section_title": "Correspondence",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_correspondence",
+          "display_title": "Correspondence",
+          "y0": 70.65785,
+          "y1": 638.11005,
+          "bbox": [
+            70.65728571428572,
+            70.65785,
+            527.10725,
+            638.11005
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 84,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3338,
+      "min_output_chars": 400,
+      "section_headers": [
+        "3.3.1.3. Online interaction"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "artifact_id": "scale_notes_messages_and_forms",
+      "section_title": "Notes, messages and forms",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_notes_messages_and_forms",
+          "display_title": "Notes, messages and forms",
+          "y0": 70.65785,
+          "y1": 416.1864,
+          "bbox": [
+            70.65727777777778,
+            70.65785,
+            527.1072499999999,
+            416.1864
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 420.1864,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            420.1864,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1513
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 85,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4809,
+      "min_output_chars": 577,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 43,
+      "artifact_id": "scale_online_conversation_and_discussion",
+      "section_title": "Online conversation and discussion",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 68.13771057128906,
+          "y1": 249.90015,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            249.90015
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1241
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_online_conversation_and_discussion",
+          "display_title": "Online conversation and discussion",
+          "y0": 253.90015,
+          "y1": 771.23225,
+          "bbox": [
+            70.65728571428572,
+            253.90015,
+            527.10725,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 86,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4186,
+      "min_output_chars": 502,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 43,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_online_conversation_and_discussion",
+          "display_title": "Online conversation and discussion",
+          "y0": 70.65785,
+          "y1": 260.2812,
+          "bbox": [
+            70.65725,
+            70.65785,
+            527.1072499999999,
+            260.2812
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 264.2812,
+          "y1": 546.42195,
+          "bbox": [
+            0,
+            264.2812,
+            595.2760009765625,
+            546.42195
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1548
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_goal_oriented_online_transactions_and_collaboration",
+          "display_title": "Goal-oriented online transactions and collaboration",
+          "y0": 550.42195,
+          "y1": 771.2327499999999,
+          "bbox": [
+            70.65725,
+            550.42195,
+            527.1072499999999,
+            771.2327499999999
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 87,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4101,
+      "min_output_chars": 492,
+      "section_headers": [
+        "3.3.2. Interaction strategies"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 47,
+      "artifact_id": "scale_goal_oriented_online_transactions_and_collaboration",
+      "section_title": "Goal-oriented online transactions and collaboration",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_goal_oriented_online_transactions_and_collaboration",
+          "display_title": "Goal-oriented online transactions and collaboration",
+          "y0": 70.65785,
+          "y1": 607.1021000000001,
+          "bbox": [
+            70.6573,
+            70.65785,
+            527.1072499999999,
+            607.1021000000001
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 88,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2718,
+      "min_output_chars": 326,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 76,
+      "artifact_id": "scale_turntaking",
+      "section_title": "Turntaking",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 179.36609999999996,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            179.36609999999996
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 404
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_turntaking",
+          "display_title": "Turntaking",
+          "y0": 183.36609999999996,
+          "y1": 479.44079999999997,
+          "bbox": [
+            70.65726923076923,
+            183.36609999999996,
+            527.1072499999999,
+            479.44079999999997
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 483.44079999999997,
+          "y1": 638.1972499999999,
+          "bbox": [
+            0,
+            483.44079999999997,
+            595.2760009765625,
+            638.1972499999999
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 496
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_turntaking",
+          "display_title": "Turntaking",
+          "y0": 642.1972499999999,
+          "y1": 771.23275,
+          "bbox": [
+            70.65726923076923,
+            642.1972499999999,
+            527.1072499999999,
+            771.23275
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 3,
+          "table_index": 1
+        },
+        {
+          "seq": 4,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 89,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2407,
+      "min_output_chars": 288,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 95,
+      "artifact_id": "scale_co_operating",
+      "section_title": "Co-operating",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_co_operating",
+          "display_title": "Co-operating",
+          "y0": 70.65785,
+          "y1": 290.05895,
+          "bbox": [
+            70.65728125,
+            70.65785,
+            527.1072499999999,
+            290.05895
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 294.05895,
+          "y1": 409.9651,
+          "bbox": [
+            0,
+            294.05895,
+            595.2760009765625,
+            409.9651
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 360
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_co_operating",
+          "display_title": "Co-operating",
+          "y0": 413.9651,
+          "y1": 771.23275,
+          "bbox": [
+            70.65728125,
+            413.9651,
+            527.1072499999999,
+            771.23275
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 2,
+          "table_index": 1
+        },
+        {
+          "seq": 3,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 90,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2006,
+      "min_output_chars": 240,
+      "section_headers": [
+        "3.4. MEDIATION"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 41,
+      "artifact_id": "figure_14_mediation_activities_strategies",
+      "section_title": "Figure 14 \u2013 Mediation activities and strategies",
+      "product_tier": [
+        "context"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_14_mediation_activities_strategies"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 91,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4571,
+      "min_output_chars": 548,
+      "section_headers": [
+        "3.4.1. Mediation activities"
+      ],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 20,
+      "artifact_id": "scale_overall_mediation",
+      "section_title": "Overall mediation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 588.201,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            588.201
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2853,
+          "section_headers": [
+            "3.4.1. Mediation activities"
+          ]
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_mediation",
+          "display_title": "Overall mediation",
+          "y0": 592.201,
+          "y1": 771.23225,
+          "bbox": [
+            70.65724999999999,
+            592.201,
+            524.2572,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 92,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 4106,
+      "min_output_chars": 492,
+      "section_headers": [
+        "3.4.1.1. Mediating a text"
+      ],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 46,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_overall_mediation",
+          "display_title": "Overall mediation",
+          "y0": 70.65785,
+          "y1": 596.2521,
+          "bbox": [
+            70.6573,
+            70.65785,
+            524.2572,
+            596.2521
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 93,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2430,
+      "min_output_chars": 291,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 1,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 94,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "scale_relaying_cfiiceps_information",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 94,
+        "end_page": 95
+      },
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2496,
+      "min_output_chars": 299,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 52,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_relaying_cfiiceps_information",
+          "display_title": "Relaying cfiiceps information",
+          "y0": 70.07919999999996,
+          "y1": 771.2327083333333,
+          "bbox": [
+            70.65729999999999,
+            70.07919999999996,
+            526.9290500000001,
+            771.2327083333333
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": {
+            "group_id": "scale_relaying_cfiiceps_information",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              94,
+              95
+            ],
+            "emit_body_on": 94
+          },
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 95,
+      "content_type": "multi_page_table",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "scale_relaying_cfiiceps_information",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 94,
+        "end_page": 95
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 2279,
+      "min_output_chars": 182,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 46,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_relaying_cfiiceps_information",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              94,
+              95
+            ],
+            "emit_body_on": 94
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 96,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1940,
+      "min_output_chars": 232,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 97,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 2747,
+      "min_output_chars": 329,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 79,
+      "artifact_id": "scale_cte_smargaid_shparg_ni_atad_explaining",
+      "section_title": ").cte ,smargaid ,shparg ni( atad Explaining",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_cte_smargaid_shparg_ni_atad_explaining",
+          "display_title": ").cte ,smargaid ,shparg ni( atad Explaining",
+          "y0": 69.72920952380952,
+          "y1": 771.2327105263158,
+          "bbox": [
+            70.6577,
+            69.72920952380952,
+            527.35615,
+            771.2327105263158
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 98,
+      "content_type": "pure_text",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3033,
+      "min_output_chars": 363,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "body",
+          "extractor": "rich_page"
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 99,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3285,
+      "min_output_chars": 394,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 40,
+      "artifact_id": "scale_processing_text",
+      "section_title": "Processing text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_processing_text",
+          "display_title": "Processing text",
+          "y0": 69.87920000000003,
+          "y1": 771.2327222222222,
+          "bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            521.48195,
+            771.2327222222222
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 100,
+      "content_type": "mixed",
+      "table_orientation": "rotated_90",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 1781,
+      "min_output_chars": 213,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 32,
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_processing_text",
+          "display_title": "Processing text",
+          "y0": 69.87920000000003,
+          "y1": 771.2327142857142,
+          "bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            508.59005,
+            771.2327142857142
+          ],
+          "extractor": "rotated_table",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    }
+  ]
+}

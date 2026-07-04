@@ -1,0 +1,180 @@
+"""Detect multi-page table continuations and section blocks."""
+
+from __future__ import annotations
+
+import json
+import re
+from dataclasses import dataclass, asdict
+
+import fitz
+import pdfplumber
+
+from pipeline.config import PDF_PATH, METADATA_DIR, SECTION_BLOCKS
+from pipeline.title_fix import fix_rotated_title
+
+
+@dataclass
+class SpanGroup:
+    group_id: str
+    span_type: str  # continuation | series | section_block
+    start_page: int
+    end_page: int
+    title: str
+    rotated: bool = False
+
+
+def _is_table_page(page: fitz.Page) -> bool:
+    drawings = page.get_drawings()
+    h = sum(
+        1
+        for d in drawings
+        if abs(d["rect"].width) > abs(d["rect"].height) * 3 and d["rect"].width > 50
+    )
+    v = sum(
+        1
+        for d in drawings
+        if abs(d["rect"].height) > abs(d["rect"].width) * 3 and d["rect"].height > 50
+    )
+    return h > 10 and v > 5
+
+
+def _is_rotated(page: fitz.Page) -> bool:
+    blocks = page.get_text("dict")["blocks"]
+    for block in blocks:
+        if block.get("type") != 0:
+            continue
+        for line in block.get("lines", []):
+            d = line.get("dir", (1, 0))
+            if abs(d[1]) > 0.3:
+                return True
+    return False
+
+
+def _first_table_title(plumber_page) -> str | None:
+    tables = plumber_page.extract_tables() or []
+    if not tables or not tables[0]:
+        return None
+    row0 = tables[0][0]
+    if not row0:
+        return None
+    for cell in row0:
+        if cell and str(cell).strip():
+            raw = re.sub(r"\s+", " ", str(cell).strip())
+            return fix_rotated_title(raw)
+    return None
+
+
+def _has_table_caption(text: str) -> bool:
+    return bool(re.search(r"\bTable\s+\d+\b", text, re.I))
+
+
+def _slug_from_title(title: str) -> str:
+    from pipeline.utils import slugify
+
+    return slugify(title, prefix="scale")
+
+
+def detect_spans() -> list[SpanGroup]:
+    doc = fitz.open(PDF_PATH)
+    groups: list[SpanGroup] = []
+
+    # Hard-coded section blocks from plan/TOC
+    for block in SECTION_BLOCKS:
+        pages = range(block["page_start"] - 1, block["page_end"])
+        groups.append(
+            SpanGroup(
+                group_id=block["id"],
+                span_type="section_block",
+                start_page=block["page_start"],
+                end_page=block["page_end"],
+                title=block["display_name"],
+                rotated=any(_is_rotated(doc[p]) for p in pages),
+            )
+        )
+
+    with pdfplumber.open(PDF_PATH) as pdf:
+        i = 0
+        while i < doc.page_count:
+            if not _is_table_page(doc[i]):
+                i += 1
+                continue
+
+            start = i
+            titles: list[str | None] = []
+            while i < doc.page_count and _is_table_page(doc[i]):
+                titles.append(_first_table_title(pdf.pages[i]))
+                i += 1
+
+            if i - start < 2:
+                continue
+
+            # Check if this is a continuation chain (same title across pages)
+            first_title = titles[0]
+            if first_title:
+                j = start + 1
+                while j < i:
+                    if titles[j - start] == first_title:
+                        # continuation from start..j
+                        gid = _slug_from_title(first_title)
+                        if not any(g.group_id == gid for g in groups):
+                            groups.append(
+                                SpanGroup(
+                                    group_id=gid,
+                                    span_type="continuation",
+                                    start_page=start + 1,
+                                    end_page=j + 1,
+                                    title=first_title,
+                                    rotated=any(_is_rotated(doc[p]) for p in range(start, j + 1)),
+                                )
+                            )
+                    j += 1
+
+            # Long rotated runs only (Appendix 5) — do not group consecutive descriptor-scale pages.
+            if i - start >= 10 and all(_is_rotated(doc[p]) for p in range(start, i)):
+                groups.append(
+                    SpanGroup(
+                        group_id="appendix_5_domain_examples",
+                        span_type="series",
+                        start_page=start + 1,
+                        end_page=i,
+                        title="Examples of use in different domains",
+                        rotated=True,
+                    )
+                )
+
+    # Explicit known continuations from analysis
+    explicit = [
+        ("scale_vocabulary_control", "continuation", 132, 133, "Vocabulary control"),
+        ("table_02_summary_descriptor_changes", "continuation", 24, 25, "Table 2"),
+    ]
+    for gid, stype, s, e, title in explicit:
+        if not any(g.group_id == gid and g.start_page == s for g in groups):
+            pages = range(s - 1, e)
+            groups.append(
+                SpanGroup(
+                    group_id=gid,
+                    span_type=stype,
+                    start_page=s,
+                    end_page=e,
+                    title=title,
+                    rotated=any(_is_rotated(doc[p]) for p in pages),
+                )
+            )
+
+    doc.close()
+    groups.sort(key=lambda g: (g.start_page, g.end_page))
+    return groups
+
+
+def save_spans(groups: list[SpanGroup]) -> str:
+    METADATA_DIR.mkdir(parents=True, exist_ok=True)
+    path = METADATA_DIR / "spanning_tables.json"
+    payload = [asdict(g) for g in groups]
+    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+    return str(path)
+
+
+if __name__ == "__main__":
+    spans = detect_spans()
+    out = save_spans(spans)
+    print(f"Wrote {len(spans)} span groups to {out}")
