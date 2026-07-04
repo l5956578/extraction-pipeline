@@ -98,7 +98,7 @@ def classify_page(page_num: int, page: fitz.Page, spans_by_page: dict) -> dict:
     spanning_info = None
     if span:
         role = "start" if page_num == span["start_page"] else (
-            "end" if page_num == span["end_page"] else "continuation"
+            "end" if page_num == span["end_page"] else "middle"
         )
         spanning_info = {
             "group_id": span["group_id"],
@@ -145,8 +145,11 @@ def build_inventories() -> list[dict]:
     spans_by_page: dict[int, dict] = {}
     for s in spans:
         d = s.__dict__
+        span_len = s.end_page - s.start_page
         for p in range(s.start_page, s.end_page + 1):
-            spans_by_page[p] = d
+            existing = spans_by_page.get(p)
+            if existing is None or span_len > existing["end_page"] - existing["start_page"]:
+                spans_by_page[p] = d
 
     artifacts = build_registry(spans)
     art_by_page = registry_by_page(artifacts)

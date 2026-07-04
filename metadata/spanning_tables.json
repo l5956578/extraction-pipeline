@@ -1,5 +1,13 @@
 [
   {
+    "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+    "span_type": "continuation",
+    "start_page": 24,
+    "end_page": 25,
+    "title": "What is addressed in this noitacilbup",
+    "rotated": false
+  },
+  {
     "group_id": "table_02_summary_descriptor_changes",
     "span_type": "continuation",
     "start_page": 24,
@@ -8,36 +16,100 @@
     "rotated": false
   },
   {
-    "group_id": "scale_noitamrofni_cfiiceps_gniyaler",
+    "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+    "span_type": "continuation",
+    "start_page": 50,
+    "end_page": 51,
+    "title": "Understanding as a member of a live audience",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_online_conversation_and_discussion",
+    "span_type": "continuation",
+    "start_page": 85,
+    "end_page": 86,
+    "title": "Online conversation and discussion",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_overall_mediation",
+    "span_type": "continuation",
+    "start_page": 91,
+    "end_page": 92,
+    "title": "Overall mediation",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_relaying_cfiiceps_information",
     "span_type": "continuation",
     "start_page": 94,
     "end_page": 95,
-    "title": "noitamrofni cfiiceps gniyaleR",
+    "title": "Relaying cfiiceps information",
     "rotated": true
   },
   {
-    "group_id": "scale_txet_nettirw_a_gnitalsnart",
+    "group_id": "scale_processing_text",
+    "span_type": "continuation",
+    "start_page": 99,
+    "end_page": 101,
+    "title": "Processing text",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_translating_a_nettirw_text",
     "span_type": "continuation",
     "start_page": 103,
     "end_page": 104,
-    "title": "txet nettirw a gnitalsnarT",
+    "title": "Translating a nettirw text",
     "rotated": true
   },
   {
-    "group_id": "scale_puorg_a_ni_gnitaroballoc",
+    "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+    "span_type": "continuation",
+    "start_page": 106,
+    "end_page": 107,
+    "title": "Expressing a personal response to creative texts (including literature)",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_collaborating_ni_a_group",
     "span_type": "continuation",
     "start_page": 110,
     "end_page": 111,
-    "title": "puorg a ni gnitaroballoC",
+    "title": "Collaborating ni a group",
     "rotated": true
   },
   {
-    "group_id": "scale_tpecnoc_wen_a_nialpxe_ot_seigetarts",
+    "group_id": "scale_facilitating_pluricultural_space",
+    "span_type": "continuation",
+    "start_page": 114,
+    "end_page": 115,
+    "title": "Facilitating pluricultural space",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
     "span_type": "continuation",
     "start_page": 119,
     "end_page": 120,
-    "title": "tpecnoc wen a nialpxe ot seigetartS",
+    "title": "Strategies ot nialpxe a wen concept",
     "rotated": true
+  },
+  {
+    "group_id": "scale_plurilingual_comprehension",
+    "span_type": "continuation",
+    "start_page": 126,
+    "end_page": 127,
+    "title": "Plurilingual comprehension",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_general_linguistic_range",
+    "span_type": "continuation",
+    "start_page": 130,
+    "end_page": 131,
+    "title": "General linguistic range",
+    "rotated": false
   },
   {
     "group_id": "scale_vocabulary_control",
@@ -48,36 +120,68 @@
     "rotated": false
   },
   {
-    "group_id": "scale_eriotreper_egaugnal_ngis",
+    "group_id": "scale_phonological_control",
+    "span_type": "continuation",
+    "start_page": 134,
+    "end_page": 135,
+    "title": "Phonological control",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_sign_language_repertoire",
     "span_type": "continuation",
     "start_page": 146,
-    "end_page": 147,
-    "title": "eriotreper egaugnal ngiS",
+    "end_page": 148,
+    "title": "Sign language repertoire",
     "rotated": true
   },
   {
-    "group_id": "scale_eriotreper_larutluc_dna_ssenetairporppa_citsiugniloicos",
+    "group_id": "scale_diagrammatical_accuracy",
+    "span_type": "continuation",
+    "start_page": 150,
+    "end_page": 152,
+    "title": "Diagrammatical accuracy",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
     "span_type": "continuation",
     "start_page": 154,
-    "end_page": 155,
-    "title": "eriotreper larutluc dna ssenetairporppa citsiugniloicoS",
+    "end_page": 156,
+    "title": "Sociolinguistic ssenetairporppa and larutluc repertoire",
     "rotated": true
   },
   {
-    "group_id": "scale_sevitcepsrep_dna_gnittes",
+    "group_id": "scale_sign_text_erutcurts",
+    "span_type": "continuation",
+    "start_page": 158,
+    "end_page": 160,
+    "title": "Sign text erutcurts",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_setting_and_perspectives",
     "span_type": "continuation",
     "start_page": 162,
     "end_page": 163,
-    "title": "sevitcepsrep dna gnitteS",
+    "title": "Setting and perspectives",
     "rotated": true
   },
   {
-    "group_id": "scale_2c",
+    "group_id": "scale_language_awareness_and_interpretation",
     "span_type": "continuation",
-    "start_page": 177,
-    "end_page": 178,
-    "title": "2C",
-    "rotated": true
+    "start_page": 164,
+    "end_page": 165,
+    "title": "Language awareness and interpretation",
+    "rotated": false
+  },
+  {
+    "group_id": "scale_presence_and_effect",
+    "span_type": "continuation",
+    "start_page": 166,
+    "end_page": 167,
+    "title": "Presence and effect",
+    "rotated": false
   },
   {
     "group_id": "table_self_assessment_grid",
@@ -88,27 +192,35 @@
     "rotated": true
   },
   {
-    "group_id": "scale_ygolonohp",
+    "group_id": "scale_2c",
+    "span_type": "continuation",
+    "start_page": 177,
+    "end_page": 181,
+    "title": "2C",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_phonology",
     "span_type": "continuation",
     "start_page": 183,
-    "end_page": 184,
-    "title": "ygolonohP",
+    "end_page": 185,
+    "title": "Phonology",
     "rotated": true
   },
   {
-    "group_id": "scale_tnemugra",
+    "group_id": "scale_argument",
     "span_type": "continuation",
     "start_page": 187,
-    "end_page": 188,
-    "title": "tnemugrA",
+    "end_page": 189,
+    "title": "Argument",
     "rotated": true
   },
   {
-    "group_id": "scale_noitcaretni_enilno",
+    "group_id": "scale_online_interaction",
     "span_type": "continuation",
     "start_page": 191,
-    "end_page": 192,
-    "title": "noitcaretni enilnO",
+    "end_page": 197,
+    "title": "Online interaction",
     "rotated": true
   },
   {
@@ -117,6 +229,30 @@
     "start_page": 191,
     "end_page": 241,
     "title": "Examples of use in different domains",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_mediating_a_text",
+    "span_type": "continuation",
+    "start_page": 198,
+    "end_page": 224,
+    "title": "Mediating a text",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_mediating_stpecnoc",
+    "span_type": "continuation",
+    "start_page": 225,
+    "end_page": 234,
+    "title": "Mediating stpecnoc",
+    "rotated": true
+  },
+  {
+    "group_id": "scale_mediating_communication",
+    "span_type": "continuation",
+    "start_page": 235,
+    "end_page": 241,
+    "title": "Mediating communication",
     "rotated": true
   }
 ]
