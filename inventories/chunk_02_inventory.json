@@ -134,11 +134,6 @@
       "id": "scale_understanding_conversation_between_other_people",
       "page": 49,
       "type": "artifact"
-    },
-    {
-      "id": "scale_understanding_as_a_member_of_a_live_audience",
-      "page": 50,
-      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -1168,7 +1163,13 @@
       "page_number": 50,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 50,
+        "end_page": 51
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 3800,
@@ -1177,12 +1178,6 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 46,
-      "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
-      "section_title": "Understanding as a member of a live audience",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -1215,7 +1210,16 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              50,
+              51
+            ],
+            "emit_body_on": 50
+          },
           "seq": 1,
           "table_index": 0
         },

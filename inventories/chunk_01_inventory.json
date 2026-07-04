@@ -728,7 +728,7 @@
       "content_type": "mixed",
       "table_orientation": "normal",
       "spanning_info": {
-        "group_id": "table_02_summary_descriptor_changes",
+        "group_id": "scale_what_is_addressed_in_this_noitacilbup",
         "span_type": "continuation",
         "role": "start",
         "start_page": 24,
@@ -785,7 +785,7 @@
           "rotation": 0,
           "text_direction": "normal",
           "span": {
-            "group_id": "table_02_summary_descriptor_changes",
+            "group_id": "scale_what_is_addressed_in_this_noitacilbup",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -809,7 +809,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "normal",
       "spanning_info": {
-        "group_id": "table_02_summary_descriptor_changes",
+        "group_id": "scale_what_is_addressed_in_this_noitacilbup",
         "span_type": "continuation",
         "role": "end",
         "start_page": 24,
@@ -828,7 +828,7 @@
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "table_02_summary_descriptor_changes",
+            "group_id": "scale_what_is_addressed_in_this_noitacilbup",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -840,8 +840,30 @@
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 500.64,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            500.64,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1021
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 203
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     }

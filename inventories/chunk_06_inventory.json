@@ -31,11 +31,6 @@
   ],
   "required_artifacts": [
     {
-      "id": "scale_plurilingual_comprehension",
-      "page": 126,
-      "type": "artifact"
-    },
-    {
       "id": "scale_building_on_plurilingual_repertoire",
       "page": 128,
       "type": "artifact"
@@ -46,11 +41,6 @@
       "type": "artifact"
     },
     {
-      "id": "scale_general_linguistic_range",
-      "page": 130,
-      "type": "artifact"
-    },
-    {
       "id": "scale_vocabulary_control",
       "page": 132,
       "type": "artifact"
@@ -58,11 +48,6 @@
     {
       "id": "scale_vocabulary_control",
       "page": 133,
-      "type": "artifact"
-    },
-    {
-      "id": "scale_phonological_control",
-      "page": 134,
       "type": "artifact"
     },
     {
@@ -99,11 +84,6 @@
       "id": "figure_17_signing_competences",
       "page": 144,
       "type": "artifact"
-    },
-    {
-      "id": "scale_diagrammatical_accuracy",
-      "page": 150,
-      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -127,7 +107,13 @@
       "page_number": 126,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_plurilingual_comprehension",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 126,
+        "end_page": 127
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 3171,
@@ -136,12 +122,6 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 41,
-      "artifact_id": "scale_plurilingual_comprehension",
-      "section_title": "Plurilingual comprehension",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -174,7 +154,16 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_plurilingual_comprehension",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              126,
+              127
+            ],
+            "emit_body_on": 126
+          },
           "seq": 1,
           "table_index": 0
         },
@@ -187,37 +176,37 @@
     },
     {
       "page_number": 127,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_plurilingual_comprehension",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 126,
+        "end_page": 127
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3500,
-      "min_output_chars": 420,
+      "min_output_chars": 280,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 30,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_plurilingual_comprehension",
-          "display_title": "Plurilingual comprehension",
-          "y0": 70.65785,
-          "y1": 284.45480000000003,
-          "bbox": [
-            70.65725,
-            70.65785,
-            527.10725,
-            284.45480000000003
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_plurilingual_comprehension",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              126,
+              127
+            ],
+            "emit_body_on": 126
+          }
         },
         {
           "seq": 1,
@@ -324,7 +313,13 @@
       "page_number": 130,
       "content_type": "mixed",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_general_linguistic_range",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 130,
+        "end_page": 131
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 4386,
@@ -335,12 +330,6 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 46,
-      "artifact_id": "scale_general_linguistic_range",
-      "section_title": "General linguistic range",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "seq": 0,
@@ -376,7 +365,16 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
-          "span": null,
+          "span": {
+            "group_id": "scale_general_linguistic_range",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              130,
+              131
+            ],
+            "emit_body_on": 130
+          },
           "seq": 1,
           "table_index": 0
         },
@@ -389,75 +387,40 @@
     },
     {
       "page_number": 131,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_general_linguistic_range",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 130,
+        "end_page": 131
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3035,
-      "min_output_chars": 364,
+      "min_output_chars": 242,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 72,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_general_linguistic_range",
-          "display_title": "General linguistic range",
-          "y0": 70.65785,
-          "y1": 151.60459999999995,
-          "bbox": [
-            70.65727083333333,
-            70.65785,
-            527.1076346153847,
-            151.60459999999995
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_general_linguistic_range",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              130,
+              131
+            ],
+            "emit_body_on": 130
+          }
         },
         {
           "seq": 1,
-          "type": "prose",
-          "role": "interstitial",
-          "y0": 155.60459999999995,
-          "y1": 309.70715,
-          "bbox": [
-            0,
-            155.60459999999995,
-            595.2760009765625,
-            309.70715
-          ],
-          "extractor": "prose_zone",
-          "expected_chars": 513
-        },
-        {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_vocabulary_range",
-          "display_title": "Vocabulary range",
-          "y0": 313.70715,
-          "y1": 771.23275,
-          "bbox": [
-            70.65727083333333,
-            313.70715,
-            527.1076346153847,
-            771.23275
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
-          "seq": 2,
-          "table_index": 1
-        },
-        {
-          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -582,8 +545,30 @@
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 203.27370000000002,
+          "y1": 813.8900146484375,
+          "bbox": [
+            0,
+            203.27370000000002,
+            595.2760009765625,
+            813.8900146484375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 3077
+        },
+        {
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "footnote_zone",
+          "expected_chars": 161
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -591,7 +576,13 @@
       "page_number": 134,
       "content_type": "mixed",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_phonological_control",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 134,
+        "end_page": 135
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 2870,
@@ -600,12 +591,6 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 58,
-      "artifact_id": "scale_phonological_control",
-      "section_title": "Phonological control",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -623,7 +608,16 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
-          "span": null,
+          "span": {
+            "group_id": "scale_phonological_control",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              134,
+              135
+            ],
+            "emit_body_on": 134
+          },
           "seq": 0,
           "table_index": 0
         },
@@ -636,37 +630,37 @@
     },
     {
       "page_number": 135,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_phonological_control",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 134,
+        "end_page": 135
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 2010,
-      "min_output_chars": 241,
+      "min_output_chars": 160,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 41,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_phonological_control",
-          "display_title": "Phonological control",
-          "y0": 69.87174999999996,
-          "y1": 771.2327142857142,
-          "bbox": [
-            70.65733333333333,
-            69.87174999999996,
-            326.874,
-            771.2327142857142
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_phonological_control",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              134,
+              135
+            ],
+            "emit_body_on": 134
+          }
         },
         {
           "seq": 1,
@@ -1217,7 +1211,7 @@
         "span_type": "continuation",
         "role": "start",
         "start_page": 146,
-        "end_page": 147
+        "end_page": 148
       },
       "figures": [],
       "prose_blocks": true,
@@ -1250,7 +1244,8 @@
             "role": "start",
             "pages": [
               146,
-              147
+              147,
+              148
             ],
             "emit_body_on": 146
           },
@@ -1271,9 +1266,9 @@
       "spanning_info": {
         "group_id": "scale_sign_language_repertoire",
         "span_type": "continuation",
-        "role": "end",
+        "role": "middle",
         "start_page": 146,
-        "end_page": 147
+        "end_page": 148
       },
       "figures": [],
       "prose_blocks": false,
@@ -1290,10 +1285,11 @@
           "span": {
             "group_id": "scale_sign_language_repertoire",
             "span_type": "continuation",
-            "role": "end",
+            "role": "middle",
             "pages": [
               146,
-              147
+              147,
+              148
             ],
             "emit_body_on": 146
           }
@@ -1307,37 +1303,38 @@
     },
     {
       "page_number": 148,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_sign_language_repertoire",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 146,
+        "end_page": 148
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 2326,
-      "min_output_chars": 279,
+      "min_output_chars": 186,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 25,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sign_language_repertoire",
-          "display_title": "Sign language repertoire",
-          "y0": 69.87920000000003,
-          "y1": 771.23275,
-          "bbox": [
-            70.6577,
-            69.87920000000003,
-            397.70415,
-            771.23275
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_sign_language_repertoire",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              146,
+              147,
+              148
+            ],
+            "emit_body_on": 146
+          }
         },
         {
           "seq": 1,
@@ -1377,7 +1374,13 @@
       "page_number": 150,
       "content_type": "mixed",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_diagrammatical_accuracy",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 150,
+        "end_page": 152
+      },
       "figures": [],
       "prose_blocks": true,
       "text_length": 2545,
@@ -1386,12 +1389,6 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 45,
-      "artifact_id": "scale_diagrammatical_accuracy",
-      "section_title": "Diagrammatical accuracy",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -1409,7 +1406,17 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
-          "span": null,
+          "span": {
+            "group_id": "scale_diagrammatical_accuracy",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              150,
+              151,
+              152
+            ],
+            "emit_body_on": 150
+          },
           "seq": 0,
           "table_index": 0
         },

@@ -95,21 +95,6 @@
       "id": "table_self_assessment_grid",
       "page": 181,
       "type": "artifact"
-    },
-    {
-      "id": "scale_mediating_a_text",
-      "page": 198,
-      "type": "artifact"
-    },
-    {
-      "id": "scale_mediating_stpecnoc",
-      "page": 225,
-      "type": "artifact"
-    },
-    {
-      "id": "scale_mediating_communication",
-      "page": 235,
-      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -212,7 +197,7 @@
       "spanning_info": {
         "group_id": "table_self_assessment_grid",
         "span_type": "section_block",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 177,
         "end_page": 181
       },
@@ -236,7 +221,7 @@
           "span": {
             "group_id": "table_self_assessment_grid",
             "span_type": "section_block",
-            "role": "continuation",
+            "role": "middle",
             "pages": [
               177,
               178,
@@ -261,7 +246,7 @@
       "spanning_info": {
         "group_id": "table_self_assessment_grid",
         "span_type": "section_block",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 177,
         "end_page": 181
       },
@@ -285,7 +270,7 @@
           "span": {
             "group_id": "table_self_assessment_grid",
             "span_type": "section_block",
-            "role": "continuation",
+            "role": "middle",
             "pages": [
               177,
               178,
@@ -310,7 +295,7 @@
       "spanning_info": {
         "group_id": "table_self_assessment_grid",
         "span_type": "section_block",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 177,
         "end_page": 181
       },
@@ -334,7 +319,7 @@
           "span": {
             "group_id": "table_self_assessment_grid",
             "span_type": "section_block",
-            "role": "continuation",
+            "role": "middle",
             "pages": [
               177,
               178,
@@ -431,7 +416,7 @@
         "span_type": "continuation",
         "role": "start",
         "start_page": 183,
-        "end_page": 184
+        "end_page": 185
       },
       "figures": [],
       "prose_blocks": true,
@@ -464,7 +449,8 @@
             "role": "start",
             "pages": [
               183,
-              184
+              184,
+              185
             ],
             "emit_body_on": 183
           },
@@ -485,9 +471,9 @@
       "spanning_info": {
         "group_id": "scale_phonology",
         "span_type": "continuation",
-        "role": "end",
+        "role": "middle",
         "start_page": 183,
-        "end_page": 184
+        "end_page": 185
       },
       "figures": [],
       "prose_blocks": false,
@@ -504,10 +490,11 @@
           "span": {
             "group_id": "scale_phonology",
             "span_type": "continuation",
-            "role": "end",
+            "role": "middle",
             "pages": [
               183,
-              184
+              184,
+              185
             ],
             "emit_body_on": 183
           }
@@ -521,37 +508,38 @@
     },
     {
       "page_number": 185,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_phonology",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 183,
+        "end_page": 185
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 2191,
-      "min_output_chars": 262,
+      "min_output_chars": 175,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 55,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_phonology",
-          "display_title": "Phonology",
-          "y0": 70.47394999999995,
-          "y1": 771.23275,
-          "bbox": [
-            70.65775,
-            70.47394999999995,
-            521.5627999999999,
-            771.23275
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_phonology",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              183,
+              184,
+              185
+            ],
+            "emit_body_on": 183
+          }
         },
         {
           "seq": 1,
@@ -590,7 +578,7 @@
         "span_type": "continuation",
         "role": "start",
         "start_page": 187,
-        "end_page": 188
+        "end_page": 189
       },
       "figures": [],
       "prose_blocks": true,
@@ -623,7 +611,8 @@
             "role": "start",
             "pages": [
               187,
-              188
+              188,
+              189
             ],
             "emit_body_on": 187
           },
@@ -644,9 +633,9 @@
       "spanning_info": {
         "group_id": "scale_argument",
         "span_type": "continuation",
-        "role": "end",
+        "role": "middle",
         "start_page": 187,
-        "end_page": 188
+        "end_page": 189
       },
       "figures": [],
       "prose_blocks": false,
@@ -663,10 +652,11 @@
           "span": {
             "group_id": "scale_argument",
             "span_type": "continuation",
-            "role": "end",
+            "role": "middle",
             "pages": [
               187,
-              188
+              188,
+              189
             ],
             "emit_body_on": 187
           }
@@ -680,37 +670,38 @@
     },
     {
       "page_number": 189,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_argument",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 187,
+        "end_page": 189
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 1559,
-      "min_output_chars": 187,
+      "min_output_chars": 124,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 55,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_argument",
-          "display_title": "Argument",
-          "y0": 70.47394999999995,
-          "y1": 771.23225,
-          "bbox": [
-            70.65725,
-            70.47394999999995,
-            306.52309999999994,
-            771.23225
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_argument",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              187,
+              188,
+              189
+            ],
+            "emit_body_on": 187
+          }
         },
         {
           "seq": 1,
@@ -852,7 +843,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -899,7 +890,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -946,7 +937,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -993,7 +984,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1060,7 +1051,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1107,7 +1098,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1154,7 +1145,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1166,17 +1157,11 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 90,
-      "artifact_id": "scale_mediating_a_text",
-      "section_title": "Mediating a text",
-      "product_tier": [
-        "detailed",
-        "context"
-      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_mediating_a_text",
+          "artifact_id": "appendix_5_domain_examples",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2327083333333,
@@ -1207,7 +1192,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1254,7 +1239,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1301,7 +1286,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1348,7 +1333,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1395,7 +1380,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1442,7 +1427,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1489,7 +1474,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1536,7 +1521,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1603,7 +1588,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1650,7 +1635,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1697,7 +1682,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1744,7 +1729,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1791,7 +1776,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1838,7 +1823,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1885,7 +1870,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1932,7 +1917,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -1979,7 +1964,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2026,7 +2011,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2073,7 +2058,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2140,7 +2125,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2187,7 +2172,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2234,7 +2219,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2281,7 +2266,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2328,7 +2313,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2375,7 +2360,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2422,7 +2407,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2469,7 +2454,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2481,17 +2466,11 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 114,
-      "artifact_id": "scale_mediating_stpecnoc",
-      "section_title": "Mediating stpecnoc",
-      "product_tier": [
-        "detailed",
-        "context"
-      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_mediating_stpecnoc",
+          "artifact_id": "appendix_5_domain_examples",
           "display_title": "Mediating stpecnoc",
           "y0": 70.44482352941175,
           "y1": 771.2323124999999,
@@ -2522,7 +2501,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2569,7 +2548,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2616,7 +2595,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2663,7 +2642,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2710,7 +2689,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2757,7 +2736,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2804,7 +2783,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2851,7 +2830,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2918,7 +2897,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2965,7 +2944,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -2977,17 +2956,11 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 73,
-      "artifact_id": "scale_mediating_communication",
-      "section_title": "Mediating communication",
-      "product_tier": [
-        "detailed",
-        "context"
-      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_mediating_communication",
+          "artifact_id": "appendix_5_domain_examples",
           "display_title": "Mediating communication",
           "y0": 70.44483636363634,
           "y1": 771.2323333333333,
@@ -3018,7 +2991,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -3065,7 +3038,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -3112,7 +3085,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -3159,7 +3132,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },
@@ -3206,7 +3179,7 @@
       "spanning_info": {
         "group_id": "appendix_5_domain_examples",
         "span_type": "series",
-        "role": "continuation",
+        "role": "middle",
         "start_page": 191,
         "end_page": 241
       },

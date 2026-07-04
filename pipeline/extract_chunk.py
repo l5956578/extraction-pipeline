@@ -73,9 +73,19 @@ def _emit_artifact_from_element(el: dict, body: str, ctx: _ExtractContext) -> st
     return f"{header}\n{body}\n"
 
 
-def _emit_page_footer(page: fitz.Page, page_num: int) -> str:
+def _emit_page_footer(page: fitz.Page, page_num: int, skip_footnotes: bool = False) -> str:
     zones = classify_page_zones(page)
+    if skip_footnotes:
+        zones = {**zones, "footnotes": []}
     return format_page_footer(page_num, zones)
+
+
+def _emit_footnote_zone(page: fitz.Page) -> str | None:
+    zones = classify_page_zones(page)
+    footnotes = zones.get("footnotes") or []
+    if not footnotes:
+        return None
+    return "\n\n".join(footnotes) + "\n"
 
 
 def _table_title(table: list[list]) -> str | None:
@@ -191,8 +201,14 @@ def _extract_element(
     if etype == "span_continuation_skip":
         return None
 
+    if etype == "footnote_zone":
+        block = _emit_footnote_zone(page)
+        return (block + "\n") if block else None
+
     if etype == "footer":
-        return _emit_page_footer(page, page_num) + "\n"
+        return _emit_page_footer(
+            page, page_num, skip_footnotes=el.get("skip_footnotes", False)
+        ) + "\n"
 
     if etype == "figure_page":
         return extract_rich_page(page, page_num) + "\n"

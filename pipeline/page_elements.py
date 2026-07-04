@@ -10,7 +10,7 @@ import pdfplumber
 
 from pipeline.config import KNOWN_TABLES_FIGURES, PDF_PATH, SECTION_BLOCKS, TOC_PAGE_RANGE
 from pipeline.descriptor_layout import section_headers_from_page
-from pipeline.page_layout import _classify_line, _span_text
+from pipeline.page_layout import _classify_line, _span_text, classify_page_zones
 from pipeline.title_fix import fix_rotated_title
 from pipeline.utils import slugify
 
@@ -222,6 +222,72 @@ def _artifact_element(
     return el
 
 
+def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
+    zones = classify_page_zones(page)
+    footnotes = zones.get("footnotes") or []
+    if not footnotes:
+        return None
+    return {
+        "seq": seq,
+        "type": "footnote_zone",
+        "extractor": "footnote_zone",
+        "expected_chars": sum(len(f) for f in footnotes),
+    }
+
+
+def _span_continuation_order(
+    page_num: int,
+    page: fitz.Page,
+    pdf_path,
+    span_info: dict,
+) -> list[dict[str, Any]]:
+    """Span continuation pages: skip table re-emit, still schedule trailing prose and footnotes."""
+    elements: list[dict[str, Any]] = []
+    seq = 0
+
+    elements.append(
+        {
+            "seq": seq,
+            "type": "span_continuation_skip",
+            "span": _span_dict(span_info),
+        }
+    )
+    seq += 1
+
+    bboxes = table_bboxes(pdf_path, page_num - 1)
+    prose_segs = prose_segments(page, bboxes)
+    trailing = next((s for s in prose_segs if s["role"] == "trailing"), None)
+    if trailing:
+        elements.append(
+            {
+                "seq": seq,
+                "type": "prose",
+                "role": "trailing",
+                "y0": trailing["y0"],
+                "y1": trailing["y1"],
+                "bbox": trailing["bbox"],
+                "extractor": "prose_zone",
+                "expected_chars": expected_chars(page, trailing["bbox"]),
+            }
+        )
+        seq += 1
+
+    foot_el = _footnote_zone_element(seq, page)
+    if foot_el:
+        elements.append(foot_el)
+        seq += 1
+
+    footer: dict[str, Any] = {
+        "seq": seq,
+        "type": "footer",
+        "extractor": "page_footer",
+    }
+    if foot_el:
+        footer["skip_footnotes"] = True
+    elements.append(footer)
+    return elements
+
+
 def build_reading_order(
     page_num: int,
     page: fitz.Page,
@@ -278,10 +344,7 @@ def build_reading_order(
         and span_info.get("span_type") == "continuation"
         and page_num > span_info["start_page"]
     ):
-        return [
-            {"seq": 0, "type": "span_continuation_skip", "span": _span_dict(span_info)},
-            {"seq": 1, "type": "footer", "extractor": "page_footer"},
-        ]
+        return _span_continuation_order(page_num, page, pdf_path, span_info)
 
     bboxes = table_bboxes(pdf_path, page_num - 1)
     prose_segs = prose_segments(page, bboxes)

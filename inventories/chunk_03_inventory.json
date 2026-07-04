@@ -170,75 +170,40 @@
   "pages": [
     {
       "page_number": 51,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "normal",
-      "spanning_info": null,
+      "spanning_info": {
+        "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 50,
+        "end_page": 51
+      },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 3205,
-      "min_output_chars": 384,
+      "min_output_chars": 256,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 68,
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_understanding_as_a_member_of_a_live_audience",
-          "display_title": "Understanding as a member of a live audience",
-          "y0": 70.65785,
-          "y1": 156.52370000000002,
-          "bbox": [
-            70.65726086956522,
-            70.65785,
-            527.1072499999999,
-            156.52370000000002
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
           "seq": 0,
-          "table_index": 0
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_understanding_as_a_member_of_a_live_audience",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              50,
+              51
+            ],
+            "emit_body_on": 50
+          }
         },
         {
           "seq": 1,
-          "type": "prose",
-          "role": "interstitial",
-          "y0": 160.52370000000002,
-          "y1": 307.79594999999995,
-          "bbox": [
-            0,
-            160.52370000000002,
-            595.2760009765625,
-            307.79594999999995
-          ],
-          "extractor": "prose_zone",
-          "expected_chars": 525
-        },
-        {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_understanding_announcements_and_instructions",
-          "display_title": "Understanding announcements and instructions",
-          "y0": 311.79594999999995,
-          "y1": 771.23275,
-          "bbox": [
-            70.65726086956522,
-            311.79594999999995,
-            527.1072499999999,
-            771.23275
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
-          "seq": 2,
-          "table_index": 1
-        },
-        {
-          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
