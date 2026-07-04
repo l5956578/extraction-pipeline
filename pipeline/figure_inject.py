@@ -22,8 +22,12 @@ def _normalize_caption(line: str) -> str:
 
 def _caption_matches(line: str, header: str) -> bool:
     s = line.strip()
-    if s.startswith("### ") or s.startswith("<!--"):
+    if s.startswith("<!--"):
         return False
+    if s.startswith("### "):
+        norm_header = _normalize_caption(header)
+        norm_line = _normalize_caption(s.removeprefix("### ").split(" | ", 1)[0])
+        return norm_line == norm_header or norm_line.startswith("figure ")
     if is_toc_listing_line(s):
         return False
     norm_header = _normalize_caption(header)

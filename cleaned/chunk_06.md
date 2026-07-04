@@ -1,8 +1,6 @@
 # chunk_06 (pages 126-150)
 
-### Plurilingual comprehension
-
-The main notion represented by this scale is capacity to use knowledge of and proficiency (even partial) in one or more languages as leverage for approaching texts in other languages, in order to achieve a communication goal. Key concepts operationalised in the scale include the following:
+Plurilingual comprehension The main notion represented by this scale is capacity to use knowledge of and proficiency (even partial) in one or more languages as leverage for approaching texts in other languages, in order to achieve a communication goal. Key concepts operationalised in the scale include the following:
 
 - openness and flexibility to work with different elements from different languages;
 
@@ -26,7 +24,7 @@ Can deduce the message of a text by exploiting what they have understood from te
 
 Can deduce the message of a text in German by exploiting what they have understood from texts on the same theme in French and English (e.g. news in brief, museum brochures, online reviews).
 
-<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=126 -->
+<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=context pages=126-127 -->
 ### Plurilingual comprehension | scale_plurilingual_comprehension
 
 | | Plurilingual comprehension |
@@ -35,20 +33,12 @@ Can deduce the message of a text in German by exploiting what they have understo
 | C1 | No descriptors available, see B2 |
 | B2 | Can use their knowledge of contrasting genre conventions and textual patterns in languages in their plurilingual repertoire in order to support comprehension. |
 | B1 | Can use what they have understood in one language to understand the topic and main message of a text in another language (e.g. when reading short newspaper articles in different languages on the same theme). Can use parallel translations of texts (e.g. magazine articles, stories, passages from novels) to develop comprehension in different languages. Can deduce the message of a text by exploiting what they have understood from texts on the same theme in different languages (e.g. news in brief, museum brochures, online reviews). Can extract information from documents in different languages in their field (e.g. to include in a presentation). Can recognise similarities and contrasts between the way concepts are expressed in different languages, in order to distinguish between identical uses of the same word/sign and “false friends”. Can use their knowledge of contrasting grammatical structures and functional expressions of languages in their plurilingual repertoire in order to support comprehension. |
-
-
-<!-- page:126 -->
-*Page 126 3 CEFR – Companion volume*
-
-<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=126 -->
-### Plurilingual comprehension | scale_plurilingual_comprehension
-
-| | Plurilingual comprehension |
-| --- | --- |
 | A2 | Can understand short, clearly articulated announcements by piecing together what they understand from the available versions in different languages. Can understand short, clearly expressed messages and instructions by piecing together what they understand from the versions in different languages. Can use simple warnings, instructions and product information given in parallel in different languages to find relevant information. |
 | A1 | Can recognise internationalisms and words/signs common to different languages (e.g. haus/hus/house) to: - deduce the meaning of simple signs and notices; - identify the probable message of a short, simple text; - follow in outline short, simple social exchanges conducted very slowly and clearly in their presence; - deduce what people are trying to say directly to them, provided the articulation is very slow and clear, with repetition if necessary. |
 | Pre-A1 | No descriptors available |
 
+<!-- page:126 -->
+*Page 126 3 CEFR – Companion volume*
 
 Building on plurilingual repertoire In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
 
@@ -153,7 +143,7 @@ Key concepts operationalised in the scale include the following:
 
 to restrict what they want to say.
 
-<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=assessment_action,detailed pages=130 -->
+<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=context pages=130-131 -->
 ### General linguistic range | scale_general_linguistic_range
 
 | | General linguistic range |
@@ -166,43 +156,11 @@ to restrict what they want to say.
 | | Has enough language to get by, with sufficient vocabulary to express themselves with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel and current events, but lexical limitations cause repetition and even difficulty with formulation at times. |
 | A2 | Has a repertoire of basic language which enables them to deal with everyday situations with predictable content, though they will generally have to compromise the message and search for words/signs. |
 | | Can produce brief, everyday expressions in order to satisfy simple needs of a concrete type (e.g. personal details, daily routines, wants and needs, requests for information). Can use basic sentence patterns and communicate with memorised phrases, groups of a few words/signs and formulae about themselves and other people, what they do, places, possessions, etc. Has a limited repertoire of short, memorised phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations. |
-
-
-<!-- page:130 -->
-*Page 130 3 CEFR – Companion volume*
-
-<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=assessment_action,detailed pages=130 -->
-### General linguistic range | scale_general_linguistic_range
-
-| | General linguistic range |
-| --- | --- |
 | A1 | Has a very basic range of simple expressions about personal details and needs of a concrete type. Can use some basic structures in one-clause sentences with some omission or reduction of elements. |
 | Pre-A1 | Can use isolated words/signs and basic expressions in order to give simple information about themselves. |
 
-
-Vocabulary range This scale concerns the breadth and variety of expressions used. It is generally acquired through reading widely.
-
-Key concepts operationalised in the scale include the following:
-
-- range of settings – from A1 to B2, then unrestricted;
-
-- type of language: from a basic repertoire of words/signs and phrases to a very broad lexical repertoire
-
-including idiomatic expressions and colloquialisms.
-
-Note: Vocabulary range is taken to apply to both reception and production. For sign languages, established and productive vocabulary is implied from A2+ to C2, with established vocabulary at A1 and A2.
-
-| | Vocabulary range |
-| --- | --- |
-| C2 | Has a good command of a very broad lexical repertoire including idiomatic expressions and colloquialisms; shows awareness of connotative levels of meaning. |
-| C1 | Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions; little obvious searching for expressions or avoidance strategies. Can select from several vocabulary options in almost all situations by exploiting synonyms of even words/ signs less commonly encountered. Has a good command of common idiomatic expressions and colloquialisms; can play with words/signs fairly well. Can understand and use appropriately the range of technical vocabulary and idiomatic expressions common to their area of specialisation. |
-| B2 | Can understand and use the main technical terminology of their field, when discussing their area of specialisation with other specialists. |
-| | Has a good range of vocabulary for matters connected to their field and most general topics. Can vary formulation to avoid frequent repetition, but lexical gaps can still cause hesitation and circumlocution. Can produce appropriate collocations of many words/signs in most contexts fairly systematically. Can understand and use much of the specialist vocabulary of their field but has problems with specialist terminology outside it. |
-| B1 | Has a good range of vocabulary related to familiar topics and everyday situations. Has sufficient vocabulary to express themselves with some circumlocutions on most topics pertinent to their everyday life such as family, hobbies and interests, work, travel and current events. |
-| A2 | Has sufficient vocabulary to conduct routine everyday transactions involving familiar situations and topics. |
-| | Has sufficient vocabulary for the expression of basic communicative needs. Has sufficient vocabulary for coping with simple survival needs. |
-| A1 | Has a basic vocabulary repertoire of words/signs and phrases related to particular concrete situations. |
-| Pre-A1 | No descriptors available |
+<!-- page:130 -->
+*Page 130 3 CEFR – Companion volume*
 
 <!-- page:131 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 131*
@@ -242,10 +200,62 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 <!-- page:132 -->
 *Page 132 3 CEFR – Companion volume*
 
+Phonological control The 2001 scale has been replaced in this publication. The description of phonology in CEFR 2001 Section 5.2.1.4 is clear, thorough and sufficiently broad to encompass more recent reflections on aspects of phonology in second/foreign language education. However, the 2001 scale did not capture this conceptual apparatus and the progression appeared unrealistic, particularly in moving from B1 (“Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur”) to B2 (“Has a clear, natural, pronunciation and intonation”). In fact, the phonology scale was the least successful of those calibrated in the original research behind the descriptors published in 2001.
+
+In language teaching, the phonological control of an idealised native speaker has traditionally been seen as the target, with accent being seen as a marker of poor phonological control. The focus on accent and on accuracy instead of on intelligibility has been detrimental to the development of the teaching of pronunciation. Idealised models that ignore the retention of accent lack consideration for context, sociolinguistic aspects and learners’ needs. The 2001 scale seemed to reinforce such views and for this reason, the scale was redeveloped from scratch.
+
+A process report45 on the sub-project is available on the CEFR website. From an extensive review of the literature and consultation with experts, the following core areas were identified to inform work on descriptor production:
+
+- articulation, including pronunciation of sounds/phonemes;
+
+- prosody, including intonation, rhythm and stress – both word stress and sentence stress – and speech
+
+rate/chunking;
+
+- accentedness, accent and deviation from a “norm”;
+
+- intelligibility, accessibility of meaning for interlocutors, covering also the interlocutors’ perceived difficulty
+
+in understanding (normally referred to as “comprehensibility”).
+
+However, because of a certain overlapping between sub-categories the scale operationalises the above-mentioned concepts into three categories:
+
+- overall phonological control (replacing the existing scale);
+
+- sound articulation;
+
+- prosodic features (intonation, stress and rhythm).
+
+Intelligibility has been a key factor in discriminating between levels. The focus is on how much effort is required from the interlocutor to decode the speaker’s message. Descriptors from the two more detailed scales are summarised in more global statements, and explicit mention of accent has been used at all levels. Key concepts operationalised in the scale include the following:
+
+- intelligibility: how much effort is required from the interlocutor to decode the speaker’s message;
+
+- the extent of influence from other languages spoken;
+
+- control of sounds;
+
+- control of prosodic features.
+
+The focus is on familiarity and confidence with the target language sounds (the range of sounds a speaker can articulate and with what degree of precision). The key concept operationalised in the scale is the degree of clarity and precision in the articulation of sounds.
+
+The focus is on the ability to effectively use prosodic features to convey meaning in an increasingly precise manner. Key concepts operationalised in the scale include the following:
+
+- control of stress, intonation and/or rhythm;
+
+- ability to exploit and/or vary stress and intonation to highlight their particular message.
+
 45.	 Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https:// rm.coe.int/168073fff9.
+
+The CEFR Illustrative Descriptor Scales: Communicative language competences Page 133
+
+45.	 Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https:// rm.coe.int/168073fff9.
+
 
 <!-- page:133 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 133*
+
+<!-- db:id=scale_phonological_control type=descriptor_scale product_tier=context pages=134-135 -->
+### Phonological control | scale_phonological_control
 
 | | 2624 |
 | --- | --- |
@@ -283,9 +293,6 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 | understanding | of |
 | influenced | by |
 
-<!-- page:134 -->
-*Page 134 3 CEFR – Companion volume*
-
 | Phonological | control |
 | --- | --- |
 | Overall | phonological |
@@ -312,6 +319,9 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 | | «sa2Uajaduo> |
 | | a0e4 |
 | | SEL |
+
+<!-- page:134 -->
+*Page 134 3 CEFR – Companion volume*
 
 <!-- page:135 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 135*
@@ -559,55 +569,15 @@ between the descriptors for signing competences and those for other areas.
 <!-- page:143 -->
 *Page 143*
 
-Figure 17 – Signing competences
-Signing competences
-Linguistic Sociolinguistic
-Sign language repertoire Sociolinguistic
-(receptive/productive) appropriateness and
-cultural repertoire
-(receptive/productive)
-Diagrammatical accuracy
-(receptive/productive
-6.1. LINGUISTIC COMPETENCE
-Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction
-reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect
-to grammar and vocabulary.
-Sign language repertoire
-These two scales incorporate language resources that are accessed in both sign language comprehension and
-production, for example in the combination of non-manual features with classifier handshapes to indicate
-reference and possibly hand motion and orientation to express other aspects of the intended meaning.
-Sign languages draw extensively on productive sign formation. As for spoken languages, the sign language lexicon
-consists of two sets of entries: established lexical items and productive elements used in the formation of (new)
-signs or forms respectively. Established signs have a fixed citation form, which is typically cited in dictionaries
-of sign languages. Elements of the productive lexicon combine in productive relationships between a narrow
-set of handshapes that operate in signing space to generate new, dynamic descriptions of events. The threedimensional spatial nature of many expressions allows for variable, yet precise formulations. Learners progress
-in the use of these competences according to the multifaceted needs of expression by acquiring combinatory
-restrictions as well as principles for stylistic/aesthetic purposes.
-Because of the high proportion of productive elements in sign languages, reception demands a high degree
-of processing of the simultaneously provided morpho-phonological and morpho-syntactic sub-structures, as
-well as bearing in mind the given contexts for spatial reference. In short, productive sign creation combines
-meaning-bearing elements that, in the respective combinations, cannot be found in the sign language lexicon,
-and comprehension demands a re-analysis of such signs. To meet particular communication needs – which
-encompass more than just a global understanding of what a message is about – learners have to reapply
-grammatical rules for productive signing, reapply combinatory restrictions, keep track of spatial assignments,
-and consider the applicability of principles for stylistic-aesthetic purposes. Such sign language comprehension
-Pragmatic
-Sign text structure
-(receptive/productive)
-Setting and perspectives
-(receptive/productive)
-Language awareness
-and interpretation
-(receptive)
-Presence and effect
-(productive)
-Processing speed
-(receptive)
-Signing fluency
-(productive)
+### 6.1. LINGUISTIC COMPETENCE
 
-<!-- page:144 -->
-*Page 144 3 CEFR – Companion volume*
+Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary.
+
+Sign language repertoire These two scales incorporate language resources that are accessed in both sign language comprehension and production, for example in the combination of non-manual features with classifier handshapes to indicate reference and possibly hand motion and orientation to express other aspects of the intended meaning.
+
+Sign languages draw extensively on productive sign formation. As for spoken languages, the sign language lexicon consists of two sets of entries: established lexical items and productive elements used in the formation of (new) signs or forms respectively. Established signs have a fixed citation form, which is typically cited in dictionaries of sign languages. Elements of the productive lexicon combine in productive relationships between a narrow set of handshapes that operate in signing space to generate new, dynamic descriptions of events. The threedimensional spatial nature of many expressions allows for variable, yet precise formulations. Learners progress in the use of these competences according to the multifaceted needs of expression by acquiring combinatory restrictions as well as principles for stylistic/aesthetic purposes.
+
+Because of the high proportion of productive elements in sign languages, reception demands a high degree of processing of the simultaneously provided morpho-phonological and morpho-syntactic sub-structures, as well as bearing in mind the given contexts for spatial reference. In short, productive sign creation combines meaning-bearing elements that, in the respective combinations, cannot be found in the sign language lexicon, and comprehension demands a re-analysis of such signs. To meet particular communication needs – which encompass more than just a global understanding of what a message is about – learners have to reapply grammatical rules for productive signing, reapply combinatory restrictions, keep track of spatial assignments, and consider the applicability of principles for stylistic-aesthetic purposes. Such sign language comprehension
 
 <!-- page:144 -->
 *Page 144 3 CEFR – Companion volume*
@@ -638,7 +608,7 @@ interpret or produce metaphors or irony;
 <!-- page:145 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 145*
 
-<!-- db:id=scale_sign_language_repertoire type=descriptor_scale product_tier=assessment_action,detailed pages=146-147 -->
+<!-- db:id=scale_sign_language_repertoire type=descriptor_scale product_tier=context pages=146-148 -->
 ### Sign language repertoire | scale_sign_language_repertoire
 
 | & | F |
@@ -727,14 +697,6 @@ interpret or produce metaphors or irony;
 | Can | signing |
 | | LL |
 
-46.	 This is also known as “body partitioning”. ideas or opinions in them. persons and institutions. sentence. about. B2 C1 C2
-
-<!-- page:146 -->
-*Page 146 3 CEFR – Companion volume*
-
-<!-- page:147 -->
-*The CEFR Illustrative Descriptor Scales: Signing competences Page 147*
-
 | | \| |
 | --- | --- |
 | a6ed | \| |
@@ -762,6 +724,14 @@ interpret or produce metaphors or irony;
 | | signs. |
 | Can | recognise |
 | | rejection). |
+
+46.	 This is also known as “body partitioning”. ideas or opinions in them. persons and institutions. sentence. about. B2 C1 C2
+
+<!-- page:146 -->
+*Page 146 3 CEFR – Companion volume*
+
+<!-- page:147 -->
+*The CEFR Illustrative Descriptor Scales: Signing competences Page 147*
 
 <!-- page:148 -->
 *Page 148 3 CEFR – Companion volume*
@@ -807,6 +777,9 @@ classifier constructions, etc.);
 <!-- page:149 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 149*
 
+<!-- db:id=scale_diagrammatical_accuracy type=descriptor_scale product_tier=context pages=150-152 -->
+### Diagrammatical accuracy | scale_diagrammatical_accuracy
+
 | | 26e4 |
 | --- | --- |
 | «OSL | jagrammatical |
@@ -845,6 +818,83 @@ classifier constructions, etc.);
 | events | in |
 | Can | exploit |
 | to | highlight |
+
+| jagrammatical | accuracy |
+| --- | --- |
+| Can | infer |
+| Can | understand |
+| Can | express |
+| | two |
+| Can | link |
+| Can | indicate |
+| question | and |
+| Can | establish |
+| Can | focus |
+| locate | on |
+| an | event |
+| Can | make |
+| use | of |
+| | PUL |
+| | HII |
+| Can | correctly |
+| BAReASNIII | understand |
+| Can | statements |
+| Can | use |
+| questions, | or |
+| 103dU>s9q | Can |
+| Can | correctly |
+| properly | introduced |
+| Can | identify |
+| :s9]e25 | of |
+| speed | of |
+| Can | employ |
+| Bulubls | Can |
+| moving, | number |
+| <senuayeduio> | Can |
+| Can | referencing |
+| (e.g. | support |
+| distant | to |
+| a5e4 | Can |
+| | LSL |
+
+| | <ZSLa6ed |
+| --- | --- |
+| jagrammatical | accuracy |
+| | WII |
+| - | Can |
+| | uoJueduioy |
+| Can | understand |
+| consequence | (<then>) |
+| | ‘auinjon |
+| Can | understand |
+| | expressed. |
+| Can | understand |
+| out | by |
+| Can | identify |
+| (statements, | questions, |
+| Can | use |
+| Can | correctly |
+| are | clearly |
+| Can | correctly |
+| Can | lists |
+| Can | understand |
+| stuck | in |
+| Can | recognise |
+| Can | understand |
+| distinguish | between |
+| Can | ways |
+| Can | understand |
+| | accordingly. |
+| Can | construct |
+| Can | identify |
+| the | objects. |
+| Can | understand |
+| numbers | by |
+| or | Can |
+| Can | understand |
+| <3-years-ago>, | etc.), |
+| Can | understand |
+| them | down |
 
 <!-- page:150 -->
 *Page 150 3 CEFR – Companion volume*

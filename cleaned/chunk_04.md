@@ -253,7 +253,7 @@ draft and/or consult aids;
 
 Progression up the scale is characterised as follows: the move from lower to higher levels is accompanied by a shift from simple social exchanges and personal news towards a broader range of competences encompassing professional and educational discursive interaction at the C levels, with the introduction of real-time interaction and group interaction from B1+. B2 is characterised by the ability to participate actively in discussion and argument, linking a contribution effectively to others in the thread, and repairing misunderstandings appropriately. By C1, the user/learner can modulate their register and give critical evaluations diplomatically. At C2, they can anticipate and deal effectively with possible misunderstandings (including cultural ones), communication issues and emotional reactions. Progression can also be seen as the process of adding virtual “spaces” in which the user/learner can interact such as a “café”, “classroom” or “meeting room”. A user/learner will struggle to interact successfully in an online meeting until they reach the B levels, will be able to interact in a virtual “classroom” at A2 only if carefully guided, and maybe can communicate only very superficially at A1 when posting and chatting in the “café”. At the C levels, on the other hand, the user/learner can adapt their register and interaction style according to the virtual space they are in, adjusting their language appropriately to make communication more effective.
 
-<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=assessment_action,detailed pages=85 -->
+<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=context pages=85-86 -->
 ### Online conversation and discussion | scale_online_conversation_and_discussion
 
 | | Online conversation and discussion |
@@ -265,41 +265,12 @@ Progression up the scale is characterised as follows: the move from lower to hig
 | B1 | Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation. Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings. |
 | | Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy. Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation. |
 | A2+ | Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time. Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details. Can comment on other people’s online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way. |
-
-
-<!-- page:85 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 85*
-
-<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=assessment_action,detailed pages=85 -->
-### Online conversation and discussion | scale_online_conversation_and_discussion
-
-| | Online conversation and discussion |
-| --- | --- |
 | A2 | Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet). Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources. |
 | A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. |
 | Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons. Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. |
 
-
-Goal-oriented online transactions and collaboration This scale focuses on the potentially collaborative nature of online interaction and transactions that have specific goals, as a regular feature of contemporary life. A rigid separation between written and oral does not really apply to online transactions, where multimodality is increasingly a key feature and resource, and the descriptors therefore assume the exploitation of different online media and tools according to context. Key concepts operationalised in the scale include the following:
-
-- purchasing goods and services online;
-
-- engaging in transactions requiring negotiation of conditions, in a service as well as client role;
-
-- participation in collaborative project work;
-
-- dealing with communication problems.
-
-Progression up the scale is characterised as follows: the move towards higher levels expands from basic transactions and information exchange at the A levels towards more sophisticated collaborative project work that is goal-oriented. This can be seen as a progression from filling in predictable online forms at Pre-A1, to solving various problems in order for the transaction to take place at the B levels, through to being able to participate in, and ultimately co-ordinate, group project work online at the C levels. One can also see such competences as progressing from reactive to proactive participation, and from simple to complex. Simple collaborative tasks appear at A2+, with a co-operative interlocutor, with small group project work from B1 and the ability to take a lead role in collaborative work from B2+. By C1, the user/learner can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks.
-
-<!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=87 -->
-### Goal-oriented online transactions and collaboration | scale_goal_oriented_online_transactions_and_collaboration
-
-| | Goal-oriented online transactions and collaboration |
-| --- | --- |
-| C2 | Can resolve misunderstandings and deal effectively with frictions that arise during the collaborative process. Can provide guidance and add precision to the work of a group at the redrafting and editing stages of collaborative work. |
-| C1 | Can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks. Can deal with complex online transactions in a service role (e.g. applications with complicated requirements), adjusting language flexibly to manage discussions and negotiations. Can participate in complex projects requiring collaborative writing and redrafting as well as other forms of online collaboration, following and relaying instructions with precision in order to reach the goal. Can deal effectively with communication problems and cultural issues that arise in an online collaborative or transactional exchange by reformulating, clarifying and providing examples through media (visual, audio, graphic). |
-
+<!-- page:85 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 85*
 
 <!-- page:86 -->
 *Page 86 3 CEFR – Companion volume*
@@ -486,23 +457,15 @@ There are many different aspects of mediation, but all share certain characteris
 
 The scales for mediation are presented in three groups, reflecting the way in which mediation tends to occur. “Mediating a text” involves passing on to another person the content of a text to which they do not have access, often because of linguistic, cultural, semantic or technical barriers. This is the main sense in which the 2001 CEFR text uses the term mediation. The first set of descriptor scales offered are for this, usually cross-linguistic, interpretation, which is increasingly being incorporated into language curricula (for example in Switzerland, Germany, Austria, Italy, Greece and Spain). However, the notion has been further developed to include mediating a text for oneself (for example in taking notes during a lecture) or in expressing reactions to texts, particularly creative and literary ones. “Mediating concepts” refers to the process of facilitating access to knowledge and concepts for others, particularly if they may be unable to access this directly on their own. This is a fundamental aspect of parenting, mentoring, teaching and training, but also of collaborative learning and work. Mediating concepts involves two complementary aspects: on the one hand constructing and elaborating meaning and on the other hand facilitating and stimulating conditions that are conducive to such conceptual exchange and development. “Mediating communication” aims to facilitate understanding and shape successful communication between users/learners who may have individual, sociocultural, sociolinguistic or intellectual differences in standpoint. The mediator tries to have a positive influence on aspects of the dynamic relationship between all the participants, including the relationship with themselves. Often, the context of the mediation will be an activity in which participants have shared communicative objectives, but this need not necessarily be the case. The skills involved are relevant to diplomacy, negotiation, pedagogy and dispute resolution, but also to everyday social and/or workplace interactions. Mediating communication is thus primarily concerned with personal encounters. This is not a closed list – users may well be able to think of other types of mediation activities not included here.
 
-<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=assessment_action,detailed pages=91 -->
+Overall mediation
+
+<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=context pages=91-92 -->
 ### Overall mediation | scale_overall_mediation
 
 | | Overall mediation |
 | --- | --- |
 | C2 | Can mediate effectively and naturally, taking on different roles according to the needs of the people and situation involved, identifying nuances and undercurrents and guiding a sensitive or delicate discussion. Can explain in clear, fluent, well-structured language the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm). |
 | C1 | Can act effectively as a mediator, helping to maintain positive interaction by interpreting different perspectives, managing ambiguity, anticipating misunderstandings and intervening diplomatically in order to redirect the conversation. Can build on different contributions to a discussion, stimulating reasoning with a series of questions. Can convey clearly and fluently in well-structured language the significant ideas in long, complex texts, whether or not they relate to their own fields of interest, including evaluative aspects and most nuances. |
-
-
-<!-- page:91 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 91*
-
-<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=assessment_action,detailed pages=91 -->
-### Overall mediation | scale_overall_mediation
-
-| | Overall mediation |
-| --- | --- |
 | B2 | Can establish a supportive environment for sharing ideas and facilitate discussion of delicate issues, showing appreciation of different perspectives, encouraging people to explore issues and adjusting sensitively the way they express things. Can build on others’ ideas, making suggestions for ways forward. Can convey the main content of well-structured but long and propositionally complex texts on subjects within their fields of professional, academic and personal interest, clarifying the opinions and purposes of speakers/signers. |
 | | Can work collaboratively with people from different backgrounds, creating a positive atmosphere by providing support, asking questions to identify common goals, comparing options for how to achieve them and explaining suggestions for what to do next. Can further develop others’ ideas, pose questions that invite reactions from different perspectives and propose a solution or next steps. Can convey detailed information and arguments reliably, e.g. the significant point(s) contained in complex but well-structured texts within their fields of professional, academic and personal interest. |
 | B1 | Can collaborate with people from other backgrounds, showing interest and empathy by asking and answering simple questions, formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches. Can convey the main points made in long texts expressed in uncomplicated language on topics of personal interest, provided they can check the meaning of certain expressions. |
@@ -512,6 +475,8 @@ The scales for mediation are presented in three groups, reflecting the way in wh
 | A1 | Can use simple words/signs and non-verbal signals to show interest in an idea. Can convey simple, predictable information of immediate interest given in short, simple signs and notices, posters and programmes. |
 | Pre-A1 | No descriptors available |
 
+<!-- page:91 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 91*
 
 <!-- page:92 -->
 *Page 92 3 CEFR – Companion volume*
@@ -549,75 +514,67 @@ varieties/modalities concerned; in the latter case, users should simply remove t
 <!-- db:id=scale_relaying_cfiiceps_information type=descriptor_scale product_tier=context pages=94-95 -->
 ### Relaying cfiiceps information | scale_relaying_cfiiceps_information
 
-| ‘ueap> | pue |
+| | 25C4 |
 | --- | --- |
-| Ak\|I!WeJ | B4e |
-| puemuoyBreays | e |
-| -spalqns | se |
-| ul | paureyuo> |
-| ‘suon2euIp | 10 |
-| | *(suononaysul |
-| pue | sjuawaunouue |
-| 5}x9} | Ul |
-| *(y | aBen6ue} |
-| JeWUOy | U |
-| "ysasaqUl | Jo |
-| -(y | abenbue] |
-| 2 | U! |
-| “Jeusnof | jeuorssajoid |
-| uu) | (sjjujod |
-| apmue | ue |
-| "ysasaqu! | \|euosiad |
-| 2194) | UBM |
-| UJ | pauleyuod |
-| -asodund | aypads |
-| Bujuiod | “uonesap\|suo> |
-| uanib) | payleyep |
-| aduarajuod | e |
-| 2 | “(v |
-| 7g | aa |
-| | Companion |
-| 7g | aa |
-| HEWUOJUI | DyIDads |
-| | 94» |
-| uonewuojul | syI2ads |
-| | Page |
+| | «HG |
+| | YIID |
+| - | Relaying |
+| | UoJUedWIOD |
+| c2 | No |
+| | ‘auINjon |
+| Cc | Can |
+| particular | section |
+| Can | relay |
+| conference, | or |
+| a | specific |
+| Can | relay |
+| propositionally | complex |
+| fields | of |
+| Can | relay |
+| Language | A) |
+| an | or |
+| Can | relay |
+| and/or | reports |
+| fields | of |
+| Can | relay |
+| correspondence | (in |
+| Can | relay |
+| delivered | clearly |
+| | instructions). |
+| Can | relay |
+| provided | these |
+| Can | relay |
+| informational | texts |
+| Language | A). |
+| and | the |
 
-| ry | a |
+| Relaying | specific |
 | --- | --- |
-| ea | z |
-| | rs |
-| | 2 |
-| 2 | Fy |
-| | iy |
-| 3 | 2 |
-| | s |
-| “(vy | aBenbue] |
-| (sa2ud | ‘6'a) |
-| *suo}ye)sSN]]! | UyeyUO> |
-| Aan | ul |
-| woy | UoReUUOJU! |
-| | communicative |
-| “uonnaday | Yeap |
-| Auan | papiaod |
-| si | uone\|noque |
-| Jo | uonewuoyu! |
-| | Scales: |
-| “paau | JO |
-| abenbuey | ul) |
-| abenbue7 | a6en6ue] |
-| Aymo}s | Auea]> |
-| sabessaw | pue |
-| pue | 49/2 |
-| | “spafqns |
-| seyj1wej | uo |
-| ajdwiis | ‘Yoys |
-| | The |
-| -aBenBue\| | AepAuana |
-| ARI\|]WLey | 9}942U0D |
-| ajduuis | y0Ys |
-| jONeWOJUI | IYyIDads |
-| uonewuojul | syI2ads |
+| Can | relay |
+| A) | concerning |
+| OUL | message |
+| W4ID | Can |
+| ‘texts, | labels |
+| | aANeNSNII\| |
+| Can | relay |
+| instructions | and |
+| 40}du>seq | in |
+| Can | relay |
+| provided | the |
+| | :saje2§ |
+| junwiulod | Can |
+| given | in |
+| slow | and |
+| < | 3 |
+| Fy | 3 |
+| 3 | < |
+| r- | 5 |
+| id | Fy |
+| a | texts |
+| s: | pue |
+| | «saiGaxens |
+| | 060, |
+| | $6 |
 
 <!-- page:94 -->
 *Page 94 3 CEFR – Companion volume*
@@ -653,39 +610,36 @@ concerned; in the latter case, users should simply remove the parts in brackets.
 <!-- page:96 -->
 *Page 96 3 CEFR – Companion volume*
 
-| sioyduiosap | s10}d195ap |
+| EA | eet |
 | --- | --- |
-| ajqoj}0a0 | on |
-| | strategies» |
-| sioyduiosap | s10}d195ap |
-| ajqoj}0a0 | on |
-| | s10}d195ap |
-| 2/QDIIDAD | ON |
+| Can | interpret |
+| N | empirical |
+| conceptually | complex |
+| | OUL |
+| W4ID | Can |
+| points | and |
+| aANeNSNII\| | information |
+| Can | interpret |
+| 40}du>seq | in |
+| Language | A) |
+| :saje2§ | Can |
+| their | fields |
+| junwiulod | cause |
+| | materials. |
+| aan | Can |
+| diagrams | (e.g. |
+| aBenbue] | limitations |
+| Can | and |
+| pe | weather |
+| false | map, |
+| starts | may |
 | | s |
-| uapine | Ain |
-| ‘sasned | yBnoy} |
-| ajqoj}0a0 | sioyduiosap |
-| | language |
-| “Sauuty | Je |
-| “(y | aBen6ueq |
-| sjensia | ul |
-| | “sjeuayew |
-| @2UAlaJaJ | 484} |
-| ay | Bujurejdxa |
-| ul | UMOYs |
-| | Descriptor |
-| -(y | aben6ueq |
-| ul | 3x0} |
-| uoleWuojul | payleyap |
-| “s1doy | jeucyssajoud |
-| yep | pasjueBio |
-| ‘qualjes | ayy |
-| | The |
-| “soidoy | jeuoissayoud |
-| Jo | 2]Wapere |
-| Jeouidusa | jo |
-| uBis | 10 |
-| (:238 | ‘suesBe! |
+| pue | No |
+| | «591603e435 |
+| No | descriptors |
+| | 202, |
+| No | descriptors |
+| | £6 |
 
 <!-- page:97 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 97*
@@ -727,78 +681,126 @@ concerned; in the latter case, users should simply remove the parts in brackets.
 <!-- page:98 -->
 *Page 98 3 CEFR – Companion volume*
 
-| | 99 |
+<!-- db:id=scale_processing_text type=descriptor_scale product_tier=context pages=99-101 -->
+### Processing text | scale_processing_text
+
+| Processing | text |
 | --- | --- |
-| *yeuBu0 | ay} |
-| dyads | 0} |
-| xa\|duuod | eu! |
-| \|eDads | jo |
-| abenbue7 | suonediqnd |
-| ul) | a6en6ue7 |
-| uonewojul | ayy |
-| "sai]u! | \|euosiad |
-| JO | spjay |
-| 4Ng | peinyon4js-\|jam |
-| | language |
-| “yeulBu0 | ayy |
-| yam | ayew |
-| x9} | 8240s |
-| “aja | ‘uojuldo |
-| 41ay) | Bulppe |
-| 0} | (y |
-| -(y | aben6ueq |
-| pue | s}>ej |
-| ‘JeuIG}10 | Jo |
-| Bun2adsau | ‘souaipne |
-| Axesay1] | ‘20a |
-| ue | ‘6'a) |
-| 1x9} | pue |
-| “swua} | }e>]UY2a} |
-| aU} | AYP |
-| “(y | aBen6ue] |
-| | CEFR |
-| “ynsai | \|]249A0 |
-| pue | sjuawinBie |
-| | Auoll |
-| Huymesp | “wiseoues |
-| “WS\|DIUD | UOIJSOd |
-| SI | sjuauinbue |
-| aye | pue |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
+| speech | text |
+| or | sign |
+| Can | explain |
+| explicit | (in |
+| expression | (e.g. |
+| C | irony |
+| SUL | sarcasm. |
+| Can | summarise |
+| HAI | accounts |
+| | ANeASHIII |
+| Can | summarise |
+| academic | professional |
+| U2S9q | points |
+| academic | article, |
+| 103d | Can |
+| made | in |
+| :s9]e25 | ‘own, |
+| c1 | Can |
+| anye>junwiwiod | arguments |
+| Can | exploit |
+| discuss | a |
+| opinion, | etc. |
+| Can | explain |
+| abenBue] | (in |
+| reference | to |
+| | pe |
+| Can | summarise |
+| and | arguments |
+| 8 | subjects |
+| Hi | g |
+| a | B2+ |
+| Fs | up |
+| & | & |
+| & | Can |
+| 7 | text |
+| 8 | information |
+| 8 | S |
+| | 8 |
+
+| | 26e4 |
+| --- | --- |
+| O01 | Processing |
+| < | speech |
+| ¥43D | or |
+| | - |
+| | uoJueduioy |
+| Can | synthesise |
+| number | of |
+| sources | Language |
+| ‘auinjon | Can |
+| Language | A), |
+| main | themes. |
+| Can | summarise |
+| texts | (in |
+| | interest. |
+| Can | recognise |
+| interest | and |
+| | author. |
+| Can | summarise |
+| documentaries | containing |
+| Can | summarise |
+| Language | A). |
+| Can | (in |
+| A) | summarise |
+| on | topics |
+| certain | expressions. |
+| Can | summarise |
+| B1+ | interview |
+| details. | or |
+| Can | collate |
+| summarise | them |
+
+| Processing | text |
+| --- | --- |
+| speech | text |
+| or | sign |
+| Can | summarise |
+| texts | (in |
+| lexical | limitations |
+| Can | summarise |
+| SUL | straightforward |
+| HAD | interview, |
+| BARENSHIII | Can |
+| (in | Language |
+| articulated | clearly. |
+| Can | summarise |
+| 103d1959q | (in |
+| several | times. |
+| Can | summarise |
+| video | clips |
+| | :sa]e2g |
+| | TV |
+| Can | report |
+| anrye>junuo> | items |
+| concerned | are |
+| Can | report |
+| clearly | structured, |
+| | tables. |
+| aBenbue] | Can |
+| texts | (in |
+| | on |
+| g2e | Can |
+| simple | texts |
+| sar | means |
+| pue | 50. |
+| copy | or |
+| «sai6ayeN3s | of |
+| Can | convey |
+| simple | signs |
+| Can | copy |
+| | 26eq |
+| LOL | No |
 
 <!-- page:99 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 99*
-
-| -asja | Apoqawios |
-| --- | --- |
-| pue | (y |
-| suonsanb | aben6ue7 |
-| ynoge | sayuny |
-| ‘uossnosip | 4/2} |
-| “suo\|ssesdxe | uleys9> |
-| -ysa/aqul | \|euosiad |
-| sjuawnBue | pue |
-| “(y | abenbuey |
-| ul) | Aejd |
-| “(y | a6en6ue] |
-| J | Sma\|AJaqUl |
-| | syoyyne |
-| ‘ayp | jo |
-| Jo | 2!do} |
-| jo | Jo |
-| Jepads | spjay |
-| xa\|duiod | 4a6uo] |
-| syujod | BunsesUo> |
-| yp | pue |
-| Uu)) | }xa) |
-| “uonesijeisads | pue |
-| Ul) | 53x} |
-| CEFR | - |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
-| | 100 |
-| | Page |
 
 <!-- page:100 -->
 *Page 100 3 CEFR – Companion volume*

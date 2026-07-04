@@ -3,6 +3,96 @@
   "valid": false,
   "issues": [
     {
+      "type": "missing_artifact",
+      "id": "figure_01_structure_cefr_descriptive_scheme",
+      "title": "figure_01_structure_cefr_descriptive_scheme"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_02_reception_production_interaction_mediation",
+      "title": "figure_02_reception_production_interaction_mediation"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_03_cefr_common_reference_levels",
+      "title": "figure_03_cefr_common_reference_levels"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_04_rainbow",
+      "title": "figure_04_rainbow"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_05_conventional_six_colours",
+      "title": "figure_05_conventional_six_colours"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_06_fictional_profile_clil",
+      "title": "figure_06_fictional_profile_clil"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_07_profile_postgraduate_sciences",
+      "title": "figure_07_profile_postgraduate_sciences"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_08_plurilingual_proficiency_fewer_categories",
+      "title": "figure_08_plurilingual_proficiency_fewer_categories"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_09_overall_proficiency_one_language",
+      "title": "figure_09_overall_proficiency_one_language"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_10_plurilingual_oral_comprehension",
+      "title": "figure_10_plurilingual_oral_comprehension"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_12_production_activities_strategies",
+      "title": "figure_12_production_activities_strategies"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_13_interaction_activities_strategies",
+      "title": "figure_13_interaction_activities_strategies"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_14_mediation_activities_strategies",
+      "title": "figure_14_mediation_activities_strategies"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_15_plurilingual_pluricultural_competence",
+      "title": "figure_15_plurilingual_pluricultural_competence"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_16_communicative_language_competences",
+      "title": "figure_16_communicative_language_competences"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_17_signing_competences",
+      "title": "figure_17_signing_competences"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_18_young_learner_project_design",
+      "title": "figure_18_young_learner_project_design"
+    },
+    {
+      "type": "missing_artifact",
+      "id": "figure_19_multimethod_research_design",
+      "title": "figure_19_multimethod_research_design"
+    },
+    {
       "type": "empty_page_section",
       "page": 1,
       "text_length_pdf": 106
@@ -210,18 +300,6 @@
       "header": "2.10.2. Books"
     },
     {
-      "type": "page_under_extracted",
-      "page": 47,
-      "chars": 0,
-      "min_chars": 194,
-      "content_type": "pure_text"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 47,
-      "header": "3.1. RECEPTION"
-    },
-    {
       "type": "missing_section_header",
       "page": 52,
       "header": "3.1.1.2. Audio-visual comprehension"
@@ -242,23 +320,6 @@
       "header": "3.2. PRODUCTION"
     },
     {
-      "type": "page_under_extracted",
-      "page": 61,
-      "chars": 0,
-      "min_chars": 228,
-      "content_type": "pure_text"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 61,
-      "header": "3.2.1. Production activities"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 61,
-      "header": "3.2.1.1. Oral production"
-    },
-    {
       "type": "missing_section_header",
       "page": 68,
       "header": "3.2.2. Production strategies"
@@ -267,23 +328,6 @@
       "type": "missing_section_header",
       "page": 70,
       "header": "3.3. INTERACTION"
-    },
-    {
-      "type": "page_under_extracted",
-      "page": 71,
-      "chars": 0,
-      "min_chars": 214,
-      "content_type": "mixed"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 71,
-      "header": "3.3.1. Interaction activities"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 71,
-      "header": "3.3.1.1. Oral interaction"
     },
     {
       "type": "missing_section_header",
@@ -308,11 +352,6 @@
       "header": "3.4. MEDIATION"
     },
     {
-      "type": "missing_section_header",
-      "page": 92,
-      "header": "3.4.1.1. Mediating a text"
-    },
-    {
       "type": "page_under_extracted",
       "page": 93,
       "chars": 0,
@@ -332,11 +371,6 @@
       "chars": 0,
       "min_chars": 363,
       "content_type": "pure_text"
-    },
-    {
-      "type": "missing_page_artifact",
-      "page": 99,
-      "artifact_id": "scale_processing_text"
     },
     {
       "type": "page_under_extracted",
@@ -420,11 +454,6 @@
       "content_type": "mixed"
     },
     {
-      "type": "missing_page_artifact",
-      "page": 134,
-      "artifact_id": "scale_phonological_control"
-    },
-    {
       "type": "missing_section_header",
       "page": 136,
       "header": "5.2. SOCIOLINGUISTIC COMPETENCE"
@@ -443,18 +472,6 @@
     },
     {
       "type": "page_under_extracted",
-      "page": 144,
-      "chars": 0,
-      "min_chars": 343,
-      "content_type": "mixed"
-    },
-    {
-      "type": "missing_section_header",
-      "page": 144,
-      "header": "6.1. LINGUISTIC COMPETENCE"
-    },
-    {
-      "type": "page_under_extracted",
       "page": 145,
       "chars": 0,
       "min_chars": 214,
@@ -466,11 +483,6 @@
       "chars": 0,
       "min_chars": 358,
       "content_type": "pure_text"
-    },
-    {
-      "type": "missing_page_artifact",
-      "page": 150,
-      "artifact_id": "scale_diagrammatical_accuracy"
     },
     {
       "type": "page_under_extracted",
@@ -495,11 +507,6 @@
       "type": "missing_section_header",
       "page": 157,
       "header": "6.3. PRAGMATIC COMPETENCE"
-    },
-    {
-      "type": "missing_page_artifact",
-      "page": 158,
-      "artifact_id": "scale_sign_text_erutcurts"
     },
     {
       "type": "page_under_extracted",
@@ -651,10 +658,11 @@
     }
   ],
   "issue_counts": {
+    "missing_artifact": 18,
     "empty_page_section": 5,
-    "page_under_extracted": 61,
-    "missing_section_header": 32,
-    "missing_page_artifact": 7
+    "page_under_extracted": 57,
+    "missing_section_header": 25,
+    "missing_page_artifact": 3
   },
   "page_markers": 278,
   "required_count": 24,

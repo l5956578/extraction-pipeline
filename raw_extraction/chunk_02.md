@@ -184,8 +184,8 @@ The CEFR sets out to be comprehensive, in the sense that it is possible to find 
 
 Nevertheless, the CEFR takes an innovative stance in seeing learners as language users and social agents, and thus seeing language as a vehicle for communication rather than as a subject to study. In so doing, it proposes an analysis of learners’ needs and the use of “can do” descriptors and communicative tasks, on which there is a whole chapter: CEFR 2001 Chapter 7.
 
-<!-- db:id=scale_a_reminder_of_rfec_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
-### A reminder of CEFR 2001 chapters | scale_a_reminder_of_rfec_2001_chapters
+<!-- db:id=scale_a_reminder_of_cefr_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
+### A reminder of CEFR 2001 chapters | scale_a_reminder_of_cefr_2001_chapters
 
 | A reminder of CEFR 2001 chapters |
 | --- |
@@ -1062,8 +1062,8 @@ In discussing the use of descriptors it is essential to make a distinction betwe
 
 Table 5 – The different purposes of descriptors
 
-<!-- db:id=scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
-### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4
+<!-- db:id=scale_what_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
+### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_what_the_user_learner_can_do_cefr_2001_chapter_4
 
 |  | WHAT the user/learner can do (CEFR 2001 Chapter 4) | HOW WELL the user/ learner performs (CEFR 2001 Chapter 5) | Of relevance to |
 | --- | --- | --- | --- |
@@ -1137,55 +1137,37 @@ Rosen É. and Reinhardt C. (eds) (2010), **Le point sur le Cadre européen commu
 
 <!-- page:46 -->
 
-Chapter 3
-THE CEFR ILLUSTRATIVE DESCRIPTOR
-SCALES: COMMUNICATIVE LANGUAGE
-ACTIVITIES AND STRATEGIES
-Figure 11 – Reception activities and strategies
-Reception activities
-Audio-visual
-Oral comprehension
-comprehension
-Overall oral Watching TV, film
-comprehension and video
-Understanding
-conversation between
-other people
-Understanding
-as a member of a
-live audience
-Understanding
-announcements
-and instructions
-Understanding audio
-(or signed) media
-and recordings
-3.1. RECEPTION
-Reception involves receiving and processing input: activating what are thought to be appropriate schemata in
-order to build up a representation of the meaning being expressed and a hypothesis as to the communicative
-intention behind it. Incoming co-textual and contextual cues are checked to see if they “fit” the activated
-schema – or suggest that an alternative hypothesis is necessary. In “oral reception”, the language user receives
-and processes live or recorded input produced by one or more other people. In “visual reception” (reading and
-watching) activities the user receives and processes as input written and signed texts produced by one or more
-people. In “audio-visual comprehension”, for which one scale (watching TV and film) is provided, the user watches
-TV, video or a film and uses multimedia, with or without subtitles, voiceovers or signing.
-Reception
-Reception strategies
-Reading
-comprehension
-Overall reading Identifying cues
-comprehension and inferring
-Reading
-correspondence
-Reading for orientation
-Reading for information
-and argument
-Reading instructions
-Reading as a
-leisure activity
+Chapter 3 THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: COMMUNICATIVE LANGUAGE ACTIVITIES AND STRATEGIES
 
-<!-- page:47 -->
-*Page 47*
+<!-- db:id=figure_11_reception_activities_strategies type=figure render_as=text_diagram product_tier=context pages=47 -->
+### Figure 11 – Reception activities and strategies | figure_11_reception_activities_strategies
+
+```text
+Reception
+├── Reception activities
+│   ├── Oral comprehension
+│   │   ├── Overall oral comprehension
+│   │   ├── Understanding conversation between other people
+│   │   ├── Understanding as a member of a live audience
+│   │   ├── Understanding announcements and instructions
+│   │   └── Understanding audio (or signed) media and recordings
+│   ├── Audio-visual comprehension
+│   │   └── Watching TV, film and video
+│   └── Reading comprehension
+│       ├── Overall reading comprehension
+│       ├── Reading correspondence
+│       ├── Reading for orientation
+│       ├── Reading for information and argument
+│       ├── Reading instructions
+│       └── Reading as a leisure activity
+└── Reception strategies
+    └── Identifying cues and inferring
+```
+
+
+### 3.1. RECEPTION
+
+Reception involves receiving and processing input: activating what are thought to be appropriate schemata in order to build up a representation of the meaning being expressed and a hypothesis as to the communicative intention behind it. Incoming co-textual and contextual cues are checked to see if they “fit” the activated schema – or suggest that an alternative hypothesis is necessary. In “oral reception”, the language user receives and processes live or recorded input produced by one or more other people. In “visual reception” (reading and watching) activities the user receives and processes as input written and signed texts produced by one or more people. In “audio-visual comprehension”, for which one scale (watching TV and film) is provided, the user watches TV, video or a film and uses multimedia, with or without subtitles, voiceovers or signing.
 
 <!-- page:47 -->
 *Page 47*
@@ -1250,9 +1232,7 @@ This scale concerns two main situations: the first is when other participants in
 <!-- page:49 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 49*
 
-### Understanding as a member of a live audience
-
-This scale concerns understanding a speaker addressing an audience,** **for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
+Understanding as a member of a live audience This scale concerns understanding a speaker addressing an audience,** **for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
 
 - following a talk accompanying real artefacts (for example on a guided tour) and visual aids (for example
 
@@ -1264,7 +1244,7 @@ PowerPoint);
 
 - following a line of argument, distinguishing main points, etc.
 
-<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=assessment_action,detailed pages=50 -->
+<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=context pages=50-51 -->
 ### Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience
 
 |  | Understanding as a member of a live audience |
@@ -1277,7 +1257,8 @@ PowerPoint);
 |  | Can follow in outline straightforward short talks on familiar topics, provided these are delivered in clearly articulated standard language or a familiar variety. Can follow a straightforward conference presentation or demonstration with visual support (e.g. slides, handouts) on a topic or product within their field, understanding explanations given. Can understand the main points of what is said in a straightforward monologue (e.g. a guided tour), provided the delivery is clear and relatively slow. |
 | A2 | Can follow the general outline of a demonstration or presentation on a familiar or predictable topic, where the message is expressed slowly and clearly in simple language and there is visual support (e.g. slides, handouts). |
 |  | Can follow a very simple, well-structured presentation or demonstration, provided it is illustrated with slides, concrete examples or diagrams, it is delivered slowly and clearly with repetition, and the topic is familiar. Can understand the outline of simple information given in a predictable situation, such as on a guided tour (e.g. “This is where the President lives”). |
-
+| A1 | Can understand in outline very simple information being explained in a predictable situation like a guided tour, provided the delivery is very slow and clear and that there are long pauses from time to time. |
+| Pre-A1 | No descriptors available |
 
 <!-- page:50 -->
 *Page 50 3 CEFR –­ Companion volume*

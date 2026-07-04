@@ -1055,10 +1055,8 @@ for reception are presented before those for production, although the latter app
 <!-- page:22 -->
 *Page 22 3 CEFR – Companion volume*
 
-Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions
-
 <!-- db:id=table_01_descriptive_scheme_updates type=table product_tier=context pages=23 -->
-### Table 1 – The RFEC descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
+### Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
 
 | | In the 2001 descriptive scheme | In the 2001 descriptor scales | Descriptor scales updated in this publication | Descriptor scales added in this publication |
 | --- | --- | --- | --- | --- |
@@ -1131,7 +1129,14 @@ Table 2 summarises the changes to the CEFR illustrative descriptors and also the
 <!-- page:24 -->
 *Page 24 3 CEFR – Companion volume*
 
+In addition to Chapter 2 “Key aspects of the CEFR for teaching and learning”, and the extended illustrative descriptors included in this publication, users may wish to consult the following two fundamental policy documents related to plurilingual, intercultural and inclusive education:  f **Guide for the development and implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chapter 8 on language diversification and the curriculum;   f **Reference framework of competences for democratic culture** (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation included in this publication.
+
+Users concerned with school education may also wish to consult the paper “Education, mobility, otherness – The mediation functions of schools”,20 which helped the conceptualisation of mediation in the descriptor development project. 20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
+
+Introduction Page 25
+
 20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
+
 
 <!-- page:25 -->
 *Introduction Page 25*

@@ -407,21 +407,6 @@
     "anchor": "#scale_understanding_conversation_between_other_people"
   },
   {
-    "id": "scale_understanding_as_a_member_of_a_live_audience",
-    "display_caption": "Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 50,
-    "page_end": 50,
-    "merged_from_pages": [
-      50
-    ],
-    "anchor": "#scale_understanding_as_a_member_of_a_live_audience"
-  },
-  {
     "id": "scale_understanding_audio_or_signed_media_and_recordings",
     "display_caption": "Understanding audio (or signed) media and recordings | scale_understanding_audio_or_signed_media_and_recordings",
     "type": "descriptor_scale",
@@ -917,21 +902,6 @@
     "anchor": "#scale_notes_messages_and_forms"
   },
   {
-    "id": "scale_online_conversation_and_discussion",
-    "display_caption": "Online conversation and discussion | scale_online_conversation_and_discussion",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 85,
-    "page_end": 85,
-    "merged_from_pages": [
-      85
-    ],
-    "anchor": "#scale_online_conversation_and_discussion"
-  },
-  {
     "id": "scale_goal_oriented_online_transactions_and_collaboration",
     "display_caption": "Goal-oriented online transactions and collaboration | scale_goal_oriented_online_transactions_and_collaboration",
     "type": "descriptor_scale",
@@ -992,21 +962,6 @@
     "render_as": "text_diagram"
   },
   {
-    "id": "scale_overall_mediation",
-    "display_caption": "Overall mediation | scale_overall_mediation",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 91,
-    "page_end": 91,
-    "merged_from_pages": [
-      91
-    ],
-    "anchor": "#scale_overall_mediation"
-  },
-  {
     "id": "scale_cte_smargaid_shparg_ni_atad_explaining",
     "display_caption": ").cte ,smargaid ,shparg ni( atad Explaining | scale_cte_smargaid_shparg_ni_atad_explaining",
     "type": "descriptor_scale",
@@ -1022,21 +977,6 @@
     "anchor": "#scale_cte_smargaid_shparg_ni_atad_explaining"
   },
   {
-    "id": "scale_processing_text",
-    "display_caption": "Processing text | scale_processing_text",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 99,
-    "page_end": 99,
-    "merged_from_pages": [
-      99
-    ],
-    "anchor": "#scale_processing_text"
-  },
-  {
     "id": "scale_note_taking_lectures_seminars_meetings_etc",
     "display_caption": "Note-taking (lectures, seminars, meetings, etc.) | scale_note_taking_lectures_seminars_meetings_etc",
     "type": "descriptor_scale",
@@ -1050,21 +990,6 @@
       105
     ],
     "anchor": "#scale_note_taking_lectures_seminars_meetings_etc"
-  },
-  {
-    "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
-    "display_caption": "Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 106,
-    "page_end": 106,
-    "merged_from_pages": [
-      106
-    ],
-    "anchor": "#scale_expressing_a_personal_response_to_creative_texts_including_literature"
   },
   {
     "id": "scale_analysis_and_criticism_of_creative_texts_including_literature",
@@ -1095,21 +1020,6 @@
       113
     ],
     "anchor": "#scale_leading_group_work"
-  },
-  {
-    "id": "scale_facilitating_pluricultural_space",
-    "display_caption": "Facilitating pluricultural space | scale_facilitating_pluricultural_space",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 114,
-    "page_end": 114,
-    "merged_from_pages": [
-      114
-    ],
-    "anchor": "#scale_facilitating_pluricultural_space"
   },
   {
     "id": "scale_acting_as_an_intermediary_in_informal_situations_with_friends_and_colleagues",
@@ -1187,21 +1097,6 @@
     "anchor": "#scale_building_on_pluricultural_repertoire"
   },
   {
-    "id": "scale_plurilingual_comprehension",
-    "display_caption": "Plurilingual comprehension | scale_plurilingual_comprehension",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 126,
-    "page_end": 126,
-    "merged_from_pages": [
-      126
-    ],
-    "anchor": "#scale_plurilingual_comprehension"
-  },
-  {
     "id": "scale_building_on_plurilingual_repertoire",
     "display_caption": "Building on plurilingual repertoire | scale_building_on_plurilingual_repertoire",
     "type": "descriptor_scale",
@@ -1232,21 +1127,6 @@
     "render_as": "text_diagram"
   },
   {
-    "id": "scale_general_linguistic_range",
-    "display_caption": "General linguistic range | scale_general_linguistic_range",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 130,
-    "page_end": 130,
-    "merged_from_pages": [
-      130
-    ],
-    "anchor": "#scale_general_linguistic_range"
-  },
-  {
     "id": "scale_vocabulary_control",
     "display_caption": "Vocabulary control | scale_vocabulary_control",
     "type": "descriptor_scale",
@@ -1261,21 +1141,6 @@
       133
     ],
     "anchor": "#scale_vocabulary_control"
-  },
-  {
-    "id": "scale_phonological_control",
-    "display_caption": "Phonological control | scale_phonological_control",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 134,
-    "page_end": 134,
-    "merged_from_pages": [
-      134
-    ],
-    "anchor": "#scale_phonological_control"
   },
   {
     "id": "scale_orthographic_control",
@@ -1383,92 +1248,6 @@
     "render_as": "text_diagram"
   },
   {
-    "id": "scale_sign_language_repertoire",
-    "display_caption": "Sign language repertoire | scale_sign_language_repertoire",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 148,
-    "page_end": 147,
-    "merged_from_pages": [],
-    "anchor": "#scale_sign_language_repertoire"
-  },
-  {
-    "id": "scale_diagrammatical_accuracy",
-    "display_caption": "Diagrammatical accuracy | scale_diagrammatical_accuracy",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 150,
-    "page_end": 150,
-    "merged_from_pages": [
-      150
-    ],
-    "anchor": "#scale_diagrammatical_accuracy"
-  },
-  {
-    "id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
-    "display_caption": "Sociolinguistic ssenetairporppa and larutluc repertoire | scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 156,
-    "page_end": 155,
-    "merged_from_pages": [],
-    "anchor": "#scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire"
-  },
-  {
-    "id": "scale_sign_text_erutcurts",
-    "display_caption": "Sign text erutcurts | scale_sign_text_erutcurts",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 158,
-    "page_end": 158,
-    "merged_from_pages": [
-      158
-    ],
-    "anchor": "#scale_sign_text_erutcurts"
-  },
-  {
-    "id": "scale_language_awareness_and_interpretation",
-    "display_caption": "Language awareness and interpretation | scale_language_awareness_and_interpretation",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 164,
-    "page_end": 164,
-    "merged_from_pages": [
-      164
-    ],
-    "anchor": "#scale_language_awareness_and_interpretation"
-  },
-  {
-    "id": "scale_presence_and_effect",
-    "display_caption": "Presence and effect | scale_presence_and_effect",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "detailed"
-    ],
-    "page_start": 166,
-    "page_end": 166,
-    "merged_from_pages": [
-      166
-    ],
-    "anchor": "#scale_presence_and_effect"
-  },
-  {
     "id": "scale_processing_speed",
     "display_caption": "Processing speed | scale_processing_speed",
     "type": "descriptor_scale",
@@ -1530,90 +1309,6 @@
       181
     ],
     "anchor": "#table_self_assessment_grid"
-  },
-  {
-    "id": "scale_phonology",
-    "display_caption": "Phonology | scale_phonology",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "context"
-    ],
-    "page_start": 185,
-    "page_end": 184,
-    "merged_from_pages": [],
-    "anchor": "#scale_phonology"
-  },
-  {
-    "id": "scale_argument",
-    "display_caption": "Argument | scale_argument",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "assessment_action",
-      "context"
-    ],
-    "page_start": 189,
-    "page_end": 188,
-    "merged_from_pages": [],
-    "anchor": "#scale_argument"
-  },
-  {
-    "id": "scale_online_interaction",
-    "display_caption": "Online interaction | scale_online_interaction",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "detailed",
-      "context"
-    ],
-    "page_start": 193,
-    "page_end": 192,
-    "merged_from_pages": [],
-    "anchor": "#scale_online_interaction"
-  },
-  {
-    "id": "scale_mediating_a_text",
-    "display_caption": "Mediating a text | scale_mediating_a_text",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "detailed",
-      "context"
-    ],
-    "page_start": 198,
-    "page_end": 198,
-    "merged_from_pages": [
-      198
-    ],
-    "anchor": "#scale_mediating_a_text"
-  },
-  {
-    "id": "scale_mediating_stpecnoc",
-    "display_caption": "Mediating stpecnoc | scale_mediating_stpecnoc",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "detailed",
-      "context"
-    ],
-    "page_start": 225,
-    "page_end": 225,
-    "merged_from_pages": [
-      225
-    ],
-    "anchor": "#scale_mediating_stpecnoc"
-  },
-  {
-    "id": "scale_mediating_communication",
-    "display_caption": "Mediating communication | scale_mediating_communication",
-    "type": "descriptor_scale",
-    "product_tiers": [
-      "detailed",
-      "context"
-    ],
-    "page_start": 235,
-    "page_end": 235,
-    "merged_from_pages": [
-      235
-    ],
-    "anchor": "#scale_mediating_communication"
   },
   {
     "id": "figure_18_young_learner_project_design",
@@ -1717,6 +1412,18 @@
     "anchor": "#scale_a2"
   },
   {
+    "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+    "display_caption": "Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature",
+    "type": "descriptor_scale",
+    "product_tiers": [
+      "context"
+    ],
+    "page_start": 262,
+    "page_end": 107,
+    "merged_from_pages": [],
+    "anchor": "#scale_expressing_a_personal_response_to_creative_texts_including_literature"
+  },
+  {
     "id": "scale_b2",
     "display_caption": "B2+ | scale_b2",
     "type": "descriptor_scale",
@@ -1743,6 +1450,18 @@
       264
     ],
     "anchor": "#scale_amplifying_a_dense_text"
+  },
+  {
+    "id": "scale_diagrammatical_accuracy",
+    "display_caption": "Diagrammatical accuracy | scale_diagrammatical_accuracy",
+    "type": "descriptor_scale",
+    "product_tiers": [
+      "context"
+    ],
+    "page_start": 266,
+    "page_end": 152,
+    "merged_from_pages": [],
+    "anchor": "#scale_diagrammatical_accuracy"
   },
   {
     "id": "scale_setting_and_perspectives",

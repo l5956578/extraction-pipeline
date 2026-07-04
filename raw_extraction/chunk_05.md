@@ -1,45 +1,5 @@
 # chunk_05 (pages 101-125)
 
-| ajqoyionv | s1oydyiosap |
-| --- | --- |
-|  | Page |
-| payujid | paquasaid |
-| "JUNO | psepues |
-| “sawiauy | AepAsana |
-| ajduuis | jo |
-| AJea]> | payulid |
-| "JEUOJ | UaMpuey |
-| “ajqisuayasdwiod | sujewiad |
-| ay} | UIeJUOD |
-| \| | pauyeyuod |
-|  | language |
-| “s91do} | (ty |
-| ‘ajdwuis | (s)julod |
-| Jeuonewosur | yoys |
-|  | saiqey |
-| “aouayadxe | pue |
-| UoYs | e |
-| -abenbue] | AepAsana |
-| UJa2U02 | $}xa} |
-| UOHEUUOJU! | JURAIIaJ |
-| “sawn | Jesanas |
-| pue | sawues6oud |
-| “sau | [e1aAaS |
-| malAso | uaysi |
-| Aijeso | pasanijap |
-| “Aueald | payejnoye |
-| ajdoad | papiaoid |
-| uonesianuod | e |
-| suZzebew | CEFR |
-| “Buyapio | “6ra) |
-| Bulpsom | }eulByo |
-| 3x@} | ayy |
-| “payejnaiye | Ayzeal> |
-| yuan | Jo |
-| ‘plemuopyblenys | ul |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
-
 <!-- page:101 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 101*
 
@@ -103,59 +63,58 @@ by specifying the languages concerned
 <!-- db:id=scale_translating_a_nettirw_text type=descriptor_scale product_tier=context pages=103-104 -->
 ### Translating a nettirw text | scale_translating_a_nettirw_text
 
-|  | 103 |
+| Can | provide |
 | --- | --- |
-| “sou | ye |
-| “a\|qisuayaidiuo> | sujewad |
-| puepueys | ‘paye>i\|duiooun |
-| Jo | (g |
-|  | and |
-| “ajqisuayasdwio> | sujewias |
-| sioua | 2nsinBul] |
-| plepurys | ‘payesijdwiooun |
-| (ga | a6en6ue] |
-|  | language |
-| “Ajpaemyme | Aew |
-| squiod | Bulfaauod |
-| uyew | ayy |
-| pue | aduaquas |
-| “JeuIBU0 | ayy |
-| 4apso | ayy |
-| (a | a6en6ue] |
-|  | Descriptor |
-| “Jeu!6110 | ayy |
-| ‘way | YM |
-| aanenjend | Bulkanuod |
-| Jeuo\|ssajoid | pue |
-| suo}e>1\|dw | CEFR |
-| ys\|je!ads | Aq |
-| Adeundde | Da!qns |
-| paypayp | s! |
-| JO | play |
-| IM | Ul |
-| 7x9} | Ud}}UM |
+| Language | A) |
+| SYL | interest, |
+| YIID | and |
+|  | nuances |
+|  | aAReASHIII |
+| Can | provide |
+| Language | A) |
+| 103du959q | nuances. |
+| though | some |
+|  | :sajers |
+| Can | provide |
+| Language | A) |
+| aaneriunwwor | of |
+| Can | produce |
+| paragraph | structure |
+| abenbue] | of |
+| ye | Can |
+| A) | containing |
+| sai | professional, |
+| pue | uncomplicated, |
+|  | <sa1Bayens |
+|  | A |
+| Can | provide |
+| structured | informational |
+| a6ey | or |
+| at | times. |
+|  | £01 |
 
-| s10}d | ssoydyiosap |
+|  | 252d |
 | --- | --- |
-| 2/QDIIDAD | 1952p |
-| “ra | ‘s]ayeay |
-| “Bulueaw | ayeyidoidde |
-| wou) | saseayd |
-| \|eUOsiad | ‘6'a) |
-| Jo | Sadjjou |
-| saduajuas | abenbue7 |
-| -ajqisuayasdwio> | aulnod |
-| sujewia | uoNe\|sueN |
-| yey] | sowayy |
-| abenbue7 | Woy) |
-|  | volume |
-| “(y | aben6ue] |
-| (s}}ew-a | Jo |
-| ‘ajduiis | “Woys |
-| IM | Ul |
-|  | 104» |
-| 7x9} | Ud}}UM |
-|  | Page |
+| POL | Translating |
+|  | < |
+|  | Y439D |
+| - | Translating |
+|  | UoJURdUIOD |
+| Can | provide |
+| everyday | texts |
+| ‘auINjoa | (written |
+| Can | provide |
+| texts | (e.g. |
+| essential | point. |
+| Can | provide |
+| information | on |
+| (in | Language |
+|  | instructions). |
+|  | a |
+| Can | provide |
+| words/signs | and |
+| and | notices, |
+| No | descriptors |
 
 <!-- page:103 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 103*
@@ -221,9 +180,7 @@ the work, etc.
 
 There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.
 
-### Expressing a personal response to creative texts (including literature)
-
-This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
+Expressing a personal response to creative texts (including literature) This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
 
 - explaining what they liked, what interested them about the work;
 
@@ -237,7 +194,7 @@ This first scale reflects the approach taken in school sectors and in adult read
 
 Progression up the scale is characterised as follows: at the lower levels the user/learner can say whether they liked the work, say how it made them feel, discuss characters and relate aspects of the work to their own experience, with increased detail at B1. At B2 they can give more elaborate explanations, comment on the form of expression and style and give their interpretation of the development of a plot, the characters and the themes in a story, novel, film or play. At the C levels, they can give broader and deeper interpretations, supporting them with details and examples.
 
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
+<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=context pages=106-107 -->
 ### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
 
 |  | Expressing a personal response to creative texts (including literature) |
@@ -245,40 +202,13 @@ Progression up the scale is characterised as follows: at the lower levels the us
 | C2 | No descriptors available |
 | C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. |
 | B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments. Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. Can describe their emotional response to a work and elaborate on the way in which it has evoked this response. Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. |
-
-
-<!-- page:106 -->
-*Page 106 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
-### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
-
-|  | Expressing a personal response to creative texts (including literature) |
-| --- | --- |
 | B1 | Can explain why certain parts or aspects of a work especially interested them. Can explain in some detail which character they most identified with and why. Can relate events in a story, film or play to similar events they have experienced or heard about. Can relate the emotions experienced by a character to emotions they have experienced. Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why. Can explain briefly the feelings and opinions that a work provoked in them. Can describe the personality of a character. Can describe a character’s feelings and explain the reasons for them. |
 | A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language. Can state in simple language which aspects of a work especially interested them. Can state whether they liked a work or not and explain why in simple language. |
 | A1 | Can use simple words/signs to state how a work made them feel. |
 | Pre-A1 | No descriptors available |
 
-
-Analysis and criticism of creative texts (including literature) This scale represents an approach more common at an upper secondary and university level. It concerns more formal, intellectual reactions. Aspects analysed include the significance of events in a novel, the treatment of the same themes in different works and other links between them, the extent to which a work follows conventions, and more global evaluation of the work as a whole. Key concepts operationalised in the scale include:
-
-- comparing different works;
-
-- giving a reasoned opinion of a work;
-
-- critically evaluating features of a work, including the effectiveness of its techniques.
-
-Progression up the scale is characterised as follows: there are no descriptors for A1 and A2. Until B2, the focus is on description rather than evaluation. At B2, the user/learner can analyse similarities and differences between works, giving a reasoned opinion and referring to the views of others. At C1, analysis becomes more subtle, concerned with the way the work engages the audience, the extent to which it is conventional, or whether it employs irony. At C2, the user/learner can recognise finer linguistic and stylistic subtleties, unpack connotations and give more critical appraisals of the way in which structure, language and rhetorical devices are exploited in a work of literature for a particular purpose.
-
-<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=108 -->
-### Analysis and criticism of creative texts (including literature) | scale_analysis_and_criticism_of_creative_texts_including_literature
-
-|  | Analysis and criticism of creative texts (including literature) |
-| --- | --- |
-| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning. Can recognise the finer subtleties of nuanced language, rhetorical effect and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations. Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness. Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. |
-| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres. Can evaluate the extent to which a work follows the conventions of its genre. Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |
-
+<!-- page:106 -->
+*Page 106 3 CEFR –­ Companion volume*
 
 <!-- page:107 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 107*
@@ -349,68 +279,71 @@ guiding discussion effectively to a consensus at C2.
 <!-- db:id=scale_collaborating_ni_a_group type=descriptor_scale product_tier=context pages=110-111 -->
 ### Collaborating ni a group | scale_collaborating_ni_a_group
 
-| -as\|Wosdwio> | 40 |
+|  | 26ed |
 | --- | --- |
-| pue | ‘ysure6e |
-| “paacoid | 0} |
-| “sannpadsiad | siaquiaw |
-| WO | SUO!}>eaJ |
-| -suouido | pue |
-| “mala | Jo |
-| ‘ples | aaey |
-|  | “yore |
-| inyny | 10y |
-| Bulssaidxa | ‘Bulnjos |
-| “yuo | De |
-| au) | pur |
-| Bulk} | ssaD01d |
-| aGual/ey | ‘Hupjury} |
-| 84} | U! |
-| “puemioy | Kem |
-| UL | UoIssndsip |
-| “mal | jo |
-| dn | Bury6iem |
-| ‘dnos6 | 10 |
-|  | volume |
-| “puemioy | Aem |
-| 12}1]12e | 0} |
-| CEFR | - |
-|  | » |
-|  | 110 |
-| dnos6 | e |
-|  | Page |
+| OLL | Collaborating |
+|  | < |
+|  | H43D |
+| - | Facilitating |
+|  | uoJueduioy |
+| Can | summarise, |
+| C | No |
+|  | ‘auinjon |
+| a | of |
+| Can | show |
+| contributions | and |
+| a | way |
+| c1 | Can |
+| order | to |
+| Can | highlight |
+| of | trying |
+| process | to |
+| Can, | based |
+| intervene | in |
+| Can | act |
+| these | with |
+|  | action. |
+| Can | help |
+| summarising, | elaborating |
+| Can | ask |
+| Can | help |
+| other | group |
+| Can | refocus |
+| Can | consider |
+| propose | a |
 
-|  | 111 |
+| Collaborating | agroup |
 | --- | --- |
-|  | Page |
-| ajqoyionv | s1oydyiosap |
-|  | strategies» |
-|  | ‘pueysiapun |
-| -eouenpe | ul |
-| pue | subis/spiom |
-| ‘fem | ajduiis |
-| “BuImo}}oy | uonnadai |
-| Kay} | SUO\|sanb |
-| ‘aye | JeY} |
-|  | communicative |
-|  | “suonsa66ns |
-| “suonsanb | ayeudoidde |
-| Aq | ueaw |
-|  | Scales: |
-| JUaWIdojanap | daay |
-| 6ulpueysiapun | "9S4NOD |
-| pue | jenynuy |
-| (s)uoseas | ani6 |
-| “smata | 4194} |
-|  | trative |
-| ‘aouayiadxa | pue |
-| 4184} | 81NGUIUOD |
-| “uolssnosip | “suonsanb |
-| 2 | JO |
-|  | The |
-| “panjosad | aq |
-| wre | ay |
-| dnos6 | e |
+| Facilitating | collaborative |
+| Can | collaborate |
+| asking | whether |
+|  | SYL |
+| YIID | Can |
+| group | by |
+|  | aAReASHIII |
+| Can | define |
+| expertise | and |
+|  | 103du959q |
+| Can | invite |
+| a | group |
+| Can | repeat |
+| :sajers | help |
+|  | aaneriunwwor |
+| Can | collaborate |
+| slowly | and |
+|  | suggestions. |
+|  | abenbue] |
+| Can | collaborate |
+| suggestions | and |
+| reformulation | from |
+| ye | Can |
+|  | sar |
+|  | pue |
+| Can | invite |
+| «sai6axe.)s | prepared |
+|  | understand. |
+| 260 | No |
+|  | LLL |
 
 <!-- page:110 -->
 *Page 110 3 CEFR –­ Companion volume*
@@ -457,45 +390,47 @@ ideas and the construction of coherent lines of thinking.
 <!-- page:112 -->
 *Page 112 3 CEFR –­ Companion volume*
 
-| 2/QDIIDAD | s10}d |
+| Leading | group |
 | --- | --- |
-|  | Page |
-| ajdwiis | “eap! |
-| Ue | u |
-| “Auessadau | UayM |
-| “Rap! | UlezJ89 |
-| om | and |
-| Pinom | Buiyjewos |
-| “Bujuoseas | sayy |
-| ‘paure\|dxa | acti |
-| uaaq | aney |
-| “uoneue\|dxa | ay} |
-| \|ely!ul | 4843 |
-| -uonediaqued | uana |
-| Jo | SuoaNasu! |
-| “uo\|ssnosip | sepun |
-| WaLy | »uI] |
-| “Bupjuitp | Jo |
-| “suoluido | 4Jayy |
-| 4Jay} | Uo |
-| “suonsa66ns | 6uninul |
-| ay | jo |
-| “uoNN\|Os | 10 |
-| pue | uoReUUOJU! |
-| “Bupyurya | 424} |
-| “ano\|Aeyaq | aandnusip |
-| uosiad | auo |
-| 6urAysn/ | *(Bun2ipaid |
-| pue | ‘Buséjeue |
-| 0} | 4aPJ0 |
-|  | The |
-| apin6 | sdays |
-| ay} | 0} |
-| “Bujuoseas | sayy |
-| 0} | siayjo |
-| pesqe | xa\|dwiod |
-| ‘yje3 | jenyde2u0> |
-| ysom | dnosb |
+| Encouraging | conceptual |
+|  | of |
+| Can | take |
+| requirements | of |
+| fe) | N |
+| Can | recognise |
+| direction | of |
+|  | SUL |
+| HAD | Can |
+| work, | ensuring |
+| BARENSHIII | a |
+| dominating | intervene |
+|  | or |
+| Can | organise |
+| 103d1959q | of |
+| Can | monitor |
+| back | on |
+| Can | intervene |
+| :sa]e2g | task |
+| Can | explain |
+| anrye>junuo> | clear |
+| Can | explain |
+| problem | solving |
+| Can | ask |
+| Can | intervene |
+| aBenbue] | to |
+| Can | allocate |
+| Can | ask |
+| g2e | explained. |
+| Can | ask |
+|  | sa} |
+| pue | Can |
+|  | work. |
+| <sai6a,ens | of |
+| Can | give |
+| formulation | when |
+| Can | use |
+| 2604 | No |
+| ELL | No |
 
 <!-- page:113 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 113*
@@ -510,9 +445,7 @@ Even if one thinks of mediation in terms of rendering a text comprehensible, the
 
 The descriptors for mediating communication will therefore have direct relevance to teachers, trainers, students and professionals who wish to develop their awareness and competence in this area, in order to achieve better outcomes in their communicative encounters in a particular language or languages, particularly when there is an intercultural element involved.
 
-### Facilitating pluricultural space
-
-This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
+Facilitating pluricultural space This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
 
 - using questions and showing interest to promote understanding of cultural norms and perspectives
 
@@ -528,23 +461,13 @@ differences.
 
 Progression up the scale is characterised as follows: at B1 the emphasis is on introducing people and showing interest and empathy by asking and answering questions. By B2+, appreciation of different perspectives and flexibility are central: the ability to belong to a group yet maintain balance and distance, express oneself sensitively, clarify misunderstandings and explain how things were meant. This aspect is developed further in the C levels, where the user/learner can control their actions and expression according to context, making subtle adjustments in order to prevent and/or repair misunderstandings and cultural incidents. By C2, they can mediate effectively and naturally, taking account of sociocultural and sociolinguistic differences.
 
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
+<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=context pages=114-115 -->
 ### Facilitating pluricultural space | scale_facilitating_pluricultural_space
 
 |  | Facilitating pluricultural space |
 | --- | --- |
 | C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences. Can guide a sensitive discussion effectively, identifying nuances and undercurrents. |
 | C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings. Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. |
-
-
-<!-- page:114 -->
-*Page 114 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
-### Facilitating pluricultural space | scale_facilitating_pluricultural_space
-
-|  | Facilitating pluricultural space |
-| --- | --- |
 | B2 | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. |
 |  | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. |
 | B1 | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. |
@@ -553,6 +476,8 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 | A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/ signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. |
 | Pre-A1 | No descriptors available |
 
+<!-- page:114 -->
+*Page 114 3 CEFR –­ Companion volume*
 
 <!-- page:115 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 115*
@@ -646,63 +571,65 @@ user/learner can explain the relationship of parts to the whole and encourage di
 <!-- db:id=scale_strategies_ot_nialpxe_a_wen_concept type=descriptor_scale product_tier=context pages=119-120 -->
 ### Strategies ot nialpxe a wen concept | scale_strategies_ot_nialpxe_a_wen_concept
 
-|  | 119 |
+| Strategies | to |
 | --- | --- |
-|  | Page |
-| “YUM | Jeyjuey |
-| aye | ajdoad |
-| ‘Aq | ainpazoid |
-| -abenbue\| | 1ajduiis |
-| ul | Bulseaydesed |
-| *sdajs | Ja]]ews |
-| pueysiapun | 0} |
-| -aBen6ue\| | sajduis |
-| Aq | $184} |
-| oNeWOyUl | Jo |
-| *Ajayeredas: | “abpa\|mouy |
-| quawunBie | ayy |
-| puejsiapun | 0} |
-| “abpa\|mouy | ysijei2ads |
-| abenBue\| | aaey |
-| 2 | 10) |
-| Je21uy>a} | pue |
-| "V1 | YAM |
-| >1doy | ys}Je19ads |
-| “sKeM | JUasayIp |
-| spadse | Aay |
-| pue | ‘waxed |
-| ‘syuiod | ujew |
-| ‘anss\| | xajdwod |
-|  | CEFR |
-| “pausaauo> | aouaipne |
-| “y | Bulyreordde |
-| pue | ajoym |
-| Aq | anss\| |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-| 3da2u0) | Mau |
+| Linking | to |
+| Can | introduce |
+| notions) | by |
+| explanations | that |
+| SYL | be |
+| YIID | can |
+|  | aAReASHIII |
+| Can | spontaneously |
+| to | encourage |
+| knowledge | of |
+| 103du959q | establish |
+| Can | adapt |
+| 1 | jargon) |
+| accessible | to |
+| :sajers | Can |
+| using | suitably |
+| texts, | recipient |
+| aaneriunwwor | not |
+| Can | clearly |
+| goals | of |
+| abenbue] | interests |
+| Can | make |
+| their | field |
+| in | paraphrasing |
+| ye | it |
+|  | sal |
+| pue | Can |
+| encourage | people |
+| <se16a,eNs | knowledge |
+| simpler | language. |
+| Can | explain |
+| already | comparing |
+| 2624 | with. |
+|  | GLL |
 
-| 2IQDIIDAD | s10}d19Sap |
+|  | 26e4 |
 | --- | --- |
-| 2IQDIIDAD | s10}d19Sap |
-| "YJ | pueysiapun |
-| djay | 0} |
-| 2IQDIIDAD | s10}d19Sap |
-| “Bulpueysuapun | ajeq!2e5 |
-| 0} | siseyduia |
-| Je | SUBIS/spiom |
-| pue}siapun | 0} |
-|  | volume |
-| “S494}O | 40} |
-| “syujod | ayeiedas |
-| Jo | si] |
-| JeUOHeWOsUI | Jo |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-|  | » |
-|  | 120 |
-| 3da2u0) | Mau |
-|  | Page |
+| «OZ | Strategies |
+| y4a> | ig |
+|  | - |
+|  | uojueduio9 |
+| Can | explain |
+| examples | that |
+| on | in |
+| ‘aumnjon | experiences. |
+|  | contents |
+| Can | show |
+| people | are |
+| time, | employing |
+| facilitate | understanding. |
+|  | a |
+| No | descriptors |
+| everyday | subject, |
+| someone | else |
+| No | descriptors |
+| descriptors | available |
+| No | No |
 
 <!-- page:119 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 119*
@@ -740,40 +667,38 @@ text for a particular audience.
 <!-- page:121 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 121*
 
-| s10}d | s10}d119Sap |
+|  | 262d |
 | --- | --- |
-| 2/QDIIDAD | 1952p |
-| s10}d | s10}d119Sap |
-| 2/QDIIDAD | 1952p |
-| “yx@} | Aephiana |
-| Yoys | e |
-| “sajduiexa | ajduuis |
-| -asja | BuCaWOS |
-| 0} | Uo |
-| UJ | VOReWOJU! |
-| “lasea\|> | abessaw |
-| abi | pue |
-| “wiay} | 10 |
-| BJOW | JUBJUOD |
-| eY} | UO}JELUOJU! |
-|  | “syuaOD |
-| -aoualpne | papuaul |
-| pue | uonewuoju} |
-|  | s4aqsi6ar |
-| pue | aj/is |
-| Y} | 0} |
-| 32612) | jndjay |
-| sjujod | adualpne |
-| YSOW | Jo |
-|  | Companion |
-| ‘asodind | s}1 |
-| JO | Moy |
-| CEFR | - |
-| 3x9} | e |
-|  | » |
-|  | 122 |
-| 3x9} | e |
-|  | Page |
+| <ZZL | Strategies |
+| WII | Amplifying |
+|  | - |
+|  | uoJueduioy |
+| fe) | N |
+| topics | by |
+| ‘auinjon | Can |
+| explicitly | and |
+| aspects | more |
+| fa) | Can |
+| target | audience |
+|  | register: |
+|  | a |
+| Can | make |
+| accessible | to |
+|  | comments. |
+| Can | make |
+| concrete | examples, |
+| Can | make |
+| illustrations. | Can |
+| it | in |
+| Can | make |
+| the | main |
+| someone | else. |
+|  | of |
+| Can | make |
+| No | descriptors |
+| everyday | text. |
+| No | descriptors |
+| No | descriptors |
 
 <!-- page:122 -->
 *Page 122 3 CEFR –­ Companion volume*

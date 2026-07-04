@@ -1,87 +1,7 @@
 # chunk_07 (pages 151-175)
 
-|  | 151 |
-| --- | --- |
-|  | Page |
-| -(Gujyyawos | 10) |
-| “(ew | competences |
-| pasoddo | YsiInbursip |
-| aye | Jey} |
-| saunjeay | jenuewW-UOU |
-| -epeds | BuluB\|s |
-| +(skep | ‘Bulnow |
-| suosiad | “6'a) |
-| jo | Jaquinu |
-| “Bujueat | AaAuod |
-| *(Sdayissepp | JO |
-| vadeys | e |
-| “(smoagaa | ‘>1uuIU |
-| saddn | ‘6'a) |
-| uaaq | aney |
-| -(sanneiadu | ‘suonsanb |
-| -aidoad | 10 |
-| Ajsnoinaud | 07 |
-| “(<""" | 0} |
-| “sunouoid | ym |
-| Buluasaya | 4a}e] |
-|  | The |
-| “uawanow | puey |
-| yBno1yy | ‘6:9 |
-| JUasaid | ‘ysed |
-| [esOdUUa} | “@W\|} |
-| 0} | JapsO |
-| “asay} | asnai |
-|  | uoRsanb |
-| asned | qyBI\s |
-| ay} | UBamjaq |
-| *<ayldsap> | pue |
-| “(<** | 0] |
-| “smosgaka | “su6)s |
-| ayy | isn{ |
-| Adeand>e | jereuuesbeig |
-
 <!-- page:151 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 151*
-
-| “way} | sa2e\|d |
-| --- | --- |
-| skej/syas | saub\|s |
-| “paye!pul | AjJea]9 |
-| ‘<Appiaysak-a1ojaq-Aop>) | S10ye>\|pul |
-| +(sbulueaw | <uay) |
-| uaquunu | e |
-| Aq | jeinjd |
-| “suBs | [e>1xa] |
-| “su6is | annonpod |
-| ue | Jo |
-| “susayyed | AOS |
-| *Ajy28.409 | sunouoid |
-| asn | ueD |
-| ‘uoneBau | Bulssaidxa |
-| “(28 | ‘uo>afa1 |
-| “sedeyspuey | asiuBo2a1 |
-| pay!pow | pueysiapun |
-| “saduaquas | ajduuis |
-| -(<snjd““~ | saduanbas |
-| puo> | pue |
-| “sapuaquas | <uay) |
-| ‘paubls | Aeay |
-| “sa0uaqUas | UI |
-| “syuaWaja | JUeLOdUU] |
-| *(s4apio | ‘suojsanb |
-| -(su61s | Bun2idap |
-| “06 | ajdoad |
-| “a | e |
-| palue> | are |
-| -passaidxa | volume |
-| ale | <woy-jualayip> |
-| (<"" | oy) |
-| 4<"* | Jx@u> |
-| “aduepsoduod | Gujuleyujew |
-| *(<uay} | ** |
-|  | 152» |
-| Adeand>e | jereuuesbeig |
-|  | Page |
 
 <!-- page:152 -->
 *Page 152 3 CEFR –­ Companion volume*
@@ -127,117 +47,115 @@ f applying knowledge of the world relevant to communication (e.g. abbreviations,
 <!-- page:153 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 153*
 
-<!-- db:id=scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire type=descriptor_scale product_tier=assessment_action,detailed pages=154-155 -->
+<!-- db:id=scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire type=descriptor_scale product_tier=context pages=154-156 -->
 ### Sociolinguistic ssenetairporppa and larutluc repertoire | scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire
 
-| AuJUNOD | UMO |
+|  | 26ed |
 | --- | --- |
-| suosiad | ‘sjUaAa |
-| Uy | suoANIASU! |
-| *s]Xa} | U! |
-| “Kem | ayeuidoidde |
-| -(ssaubls | ayy |
-| snjeys | sayBy |
-| ay | UI |
-| paodas | “Buijs |
-| Ja}s!Ha1 | ayeLJdosdde |
-| 4} | WO |
-| “AyuNwWod | yeap |
-| -yx@} | a4) |
-| -UoU | puke |
-| “YW | pueysiapun |
-| “SaIUNWWOD | Jeap |
-| “51a | 51681 |
-| “Aaessarau | Ajyoyjdxa |
-| ujejdxa | II\|Gnd |
-| ue> | pue |
-| “Bunuiod | s\| |
-| Xapul | ayy |
-| Jo} | aUBIs |
-| “(Gulubis | jenuew |
-| JPY} | ssappe |
-| “seWiad | J19Y} |
-| “saduayiadxa | yeap |
-| “sueaw | jenuew |
-| -uou | pue |
-| “Hoya | ynoyyM |
-| Ja}s!6a1 | }depe |
-| *pausadu0 | adualpne |
-| *(sooqe} | ‘snje}s |
-| SUL} | ‘4a}s/621 |
-| ‘sajyoid | ajyoid |
-| DASINBUI] | A10Js |
-| UMO | sayy |
-| *(sya{qns | ooge} |
-| 1D | 205 |
-| eAndaday | 154» |
-|  | Page |
+| «HSL | ic |
+|  | Receptive |
+|  | ¥4ID |
+| - | Can |
+| uoJUeduioy | register, |
+| Can | recognise |
+| profile | and |
+| ‘auinjon | Can |
+| used. | of |
+| Can | recognise |
+| a | an |
+| versa. | Can |
+| Can | judge |
+| text. | manual |
+| Can | infer |
+| from | their |
+| Can | indicate |
+| person | (by |
+| the | signer, |
+| Can | understand |
+| example, | employs |
+| finger | so |
+| Can | deduce |
+| occupation). | a |
+| age, | necessary. |
+| Can | recognise |
+| Can | recognise |
+| audience | with |
+| Can | recognise |
+| manual | references |
+| Can | understand |
+| in | community. |
+| Can | attribute |
+| formal | or |
+| Can | assign |
+| manual | features |
+| Can | judge |
+| culturally | appropriate |
+| Can | recognise |
+| Can | draw |
+| their | on |
+|  | own |
 
-| UoRdara! | UOHINpoid |
+| ic | appropriateness |
 | --- | --- |
-| -yx9] | 1184) |
-|  | Page |
-|  | competences» |
-| “(a1ger | ayy |
-| queyodui! | are |
-| “adualpne | ay} |
-|  | “Ayjenuew-uou |
-| -uosiad | jeap |
-| “way | awieu |
-| pue | yeap |
-| ‘pury | e |
-| “puewap | Jo |
-| “Buyubls | afa |
-| aj] | Ym |
-|  | “saJUNWIWO> |
-| aben6ue\| | ubis |
-| “(uoIsIA | CEFR |
-| JO | Uo] |
-|  | The |
-| -(saweu | adejd |
-| ‘ajdoad | umouy-\|jam |
-| uj6y0 | ayy |
-| *Ajayetdosdde | ajdoad |
-| jeap | 0} |
-| “pausaru0d | A1jUNOD |
-| spadse | pue |
-|  | ajdoad |
-| “sanss} | eunyn> |
-| i | (@2UeIeadde |
-| 2yqnd | ayy |
-| >11Gnd | “sane\|d |
-| adh} | Bulpsooze |
-| ay} | 0} |
-|  | eAndaday |
+|  | Receptive |
+| Can | understand |
+| such | as |
+| Can | present |
+| concerned | (e.g. |
+| Can | sensitise |
+| Can, | in |
+| typical | of |
+| Can | judge |
+| type | of |
+| Can | use |
+| of | certain |
+| institutions | and |
+| PUL | Can |
+| HII | vision). |
+| BAReASHIII | Can |
+|  | communities. |
+| Can | recognise |
+| 10}d14>S9q | addressing |
+| strangers | are |
+| Can | recognise |
+| tapping | a |
+| :s2]e25 | hearing |
+| Can | recognise |
+| BulUBIs | non-manually. |
+| Can | adapt |
+| Can | recognise |
+| «sa2uayeduso> | etc. |
+|  | a0e4 |
+| SSL | 47. |
+| to | a |
+
+|  | 26ed |
+| --- | --- |
+| 951 | tic |
+| « | Receptive |
+|  | y4a> |
+| - | Can |
+|  | uojueduio9 |
+| Can | employ |
+| for | communication |
+| tapping | on |
+| ‘aumnjon | Can |
+| gain | attract |
+| to | eye |
+| Can | maintain |
+| Can | use |
+| Can | give |
+|  | mouthings. |
+| Can | give |
+| expressions | and |
+| Can | respond |
+| formulaic | <welcome> |
 
 <!-- page:154 -->
 *Page 154 3 CEFR –­ Companion volume*
 
 <!-- page:155 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 155*
-
-|  | “<nok |
-| --- | --- |
-| Burfjdai | ‘6'a |
-| e | yum |
-| “(@4eys | Jo |
-| Je!pey | Bulsn |
-|  | “sBulyynow |
-| pue | saseiyd |
-| un220 | swajqoid |
-| “10YNDO[9JU! | J9Y} |
-| “Gapjnoys | a4} |
-| Buaem | Jo |
-| puey | e |
-| -(6uny6] | uo |
-| ‘puey | JO |
-| Auessadau | 32eU09 |
-| “Ajayeudoudde | uosiad |
-| jeap | e |
-| \dasay | » |
-|  | 156 |
-| 9410}4ada4 | je1n}jn> |
-|  | Page |
 
 <!-- page:156 -->
 *Page 156 3 CEFR –­ Companion volume*
@@ -300,129 +218,132 @@ f referring backwards and forward in the text.
 <!-- page:157 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 157*
 
-| “(squawnfue | Juasayip |
+<!-- db:id=scale_sign_text_erutcurts type=descriptor_scale product_tier=context pages=158-160 -->
+### Sign text erutcurts | scale_sign_text_erutcurts
+
+|  | 26e4 |
 | --- | --- |
-| “paanjonays | s} |
-| *Ayje2eway) | sadaid |
-| uo!eWUOU! | Jo |
-| “ples | si |
-| uonewuoyul | Asessa2au |
-| “sajdpuud | Bulpin6 |
-| “UO!}INPO.AU! | BY} |
-| ayeLdosdde | asJuBODa! |
-| “}X9} | e |
-| 2y!Dads | jesaUahH |
-| “sjlejap | 0} |
-| 3x9} | ay |
-| yeusau! | ay} |
-| "yx@} | a4} |
-| @njsayoo | aanonpoud |
-| “hjareuidoidde | -yx9} |
-| uo | ype |
-|  | i) |
-| -(yydap | ul |
-| payleyap | Buiai6 |
-| 3x9} | A1oyeue\|dxe |
-| “Aem | ajqisuas |
-| “210 | xajdwod |
-| (uo\|snfpu0> | “evap |
-| ‘uoedyI]dwiaxa | ‘uo}e>yysNf |
-| e | ued, |
-|  | Buissiw |
-| Jo | sadA} |
-| 4ajUl | PUR |
-| -(suonesiue6i0 | volume |
-| “uonnquyuos | pue |
-| ajay | dojaaap |
-| “Ajesnewbeid | e240 |
-| pue | Ajjesow |
-| “peaiyy | ‘uayyOue |
-| ajay | Bulso] |
-| CEFR | - |
-| aandaray | » |
-|  | 158 |
-| 34n}2N4J3s | 3x9} |
-|  | Page |
+| «BSL | ign |
+|  | Receptive |
+|  | ¥43D |
+| - | to |
+| uoJueduioy | Can |
+| parts | of |
+| Can | distinguish |
+| controvert | text |
+| ‘suinjon | philosophical |
+| Can | identify |
+|  | organisations). |
+| Can | identify |
+| missing | parts |
+|  | content. |
+| Can | reproduce |
+| Can, | after |
+| watching | a |
+| Can | recognise |
+| their | function |
+| turns). | Can |
+| Can | use |
+| the | content |
+| c1 | Can |
+| examples, | conclusions) |
+| in | a |
+| Can | predict |
+| utterance, | and |
+| Can | adapt |
+| structure | of |
+| Can | construct |
+| message | a |
+| Can | recognise |
+|  | of |
+| Can | recognise, |
+| what | opinion |
+| Can | identify |
+| B2+ | text |
+| Can | identify |
+| query. | group |
+| Can | recognise |
+| or | not |
+
+| ign | text |
+| --- | --- |
+|  | Receptive |
+| Can | understand |
+| and | then |
+| Can | grasp |
+| Can | recognise |
+| text | and |
+| text | concerned. |
+| Can | assess |
+| Can | recognise |
+| a | text. |
+| Can | appropriate |
+|  | create |
+|  | text. |
+| Can | highlight |
+|  | principles |
+| UL | Can |
+| WAI | details. |
+| Can | employ |
+|  | BANEAASNIII |
+| Can | indicate |
+| Can | briefly |
+|  | 10yd9s9q |
+| Can | recognise |
+|  | an |
+| :s2]e25 | space. |
+| Can | understand |
+| Can | identify |
+| Bulubls | referred |
+| to | text. |
+| Can | understand |
+| <se2uayadwio> | of |
+| Can | recognise |
+| signed | text. |
+| Can | deduce |
+| devices | are |
+|  | a6eg |
+|  | 6S |
+
+|  | a6e4 |
+| --- | --- |
+| «O91 | ign |
+|  | Receptive |
+|  | ¥43D |
+| - | of |
+| uoJueduioy | Can |
+| comments | on |
+| Can | introduce |
+| ‘auinjon | Can |
+|  | importance. |
+| Can | employ |
+| the | topic). |
+| Can | the |
+| use | to |
+| Can | summarise |
+| “who', | what’, |
+| Can | give |
+| Can | conclude |
+| Can | introduce |
+| Can | differentiate |
+| Can | formulate |
+| Can | produce |
+|  | of |
+| Can | find |
+| Can | identify |
+| using | buoys |
+| Can | understand |
+| Can | infer |
+|  | a |
+| Can | the |
+| grasp | a |
+| Can | recognise |
 
 <!-- page:158 -->
 *Page 158 3 CEFR –­ Companion volume*
 
-|  | 159 |
-| --- | --- |
-|  | Page |
-| BulYyyaWos | aduaLadxe |
-| 7X9} | 84} |
-| “wayy | 0} |
-| “yx@} | paubis |
-| ‘ualpea | ples |
-| “Ajas[Duod | pue |
-| +38} | paubls |
-| “way | Oo} |
-| aouasajad | W>!}dxe |
-| are | asayy |
-| “suoldas | 2HeWAYy |
-| ‘daPsO | a/qisuas |
-| Buyubls | Jo |
-| “uo\|sn\|2UO> | pue |
-|  | Illustrative |
-| “Auessanau | S\| |
-| “Hoda: | e |
-| “sileqap | 0} |
-|  | “syeyap |
-| Bunuasaid | 0} |
-| ‘21d0} | e |
-| ayeLdoidde | “poy |
-| ip | Jo |
-| “sBuiyy | Bulop |
-| ut | Apioiidxa |
-| yayi260} | yy |
-| ad} | paydadxa |
-| Jo | ay} |
-| juauidojanap | 1ea)2 |
-| “AYNIYJIP | INOYIM |
-| “Burxapul | y6noiy) |
-| ‘eds | Bujubls |
-|  | aandaray |
-| 34n}2N4J3s | 3x9} |
-
 <!-- page:159 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 159*
-
-| “spuey | padse\|> |
-| --- | --- |
-| s10}dLDSap | sjuiod |
-| 2/QDIIDAD | ON |
-| PauBs | aAI}Ia{qo/UONUAzU! |
-| “UO!INPO.AU! | BY} |
-| -aoeds | Bulubis |
-| -aoeds | Bujubls |
-| Aq | “6'a) |
-| “suolsanb | ,oyM, |
-| ‘uoldDsap | ay} |
-| -soido} | ajduiis |
-| “suonsanb | Jo |
-| “ysl | E |
-| “Ajayenbape | 210} |
-| *(124}260) | spuey) |
-| “suojuido | 41943 |
-|  | , |
-| “suonsanb | ,Aym, |
-| (2194, | ,UIYM,, |
-| asino>sip | JeIN>IUWed |
-| “won | ngujuo> |
-| “1do} | ayy |
-| uo | sjuawiwo> |
-| sanueyoduiy | volume |
-| 21do} | sy2adse |
-| 4J24} | JO |
-| "Jua}UO> | JUeAa\|aJ |
-| ‘YAP | \|e>160] |
-| “von | onponut |
-| CEFR | - |
-| aandaray | » |
-|  | 160 |
-| 34n}2N4J3s | 3x9} |
-|  | Page |
 
 <!-- page:160 -->
 *Page 160 3 CEFR –­ Companion volume*
@@ -468,78 +389,76 @@ f use of non-manual means such as facial expression, posture or eye gaze to indi
 <!-- db:id=scale_setting_and_perspectives type=descriptor_scale product_tier=context pages=162-163 -->
 ### Setting and perspectives | scale_setting_and_perspectives
 
-|  | JO |
+|  | a6ed |
 | --- | --- |
-| ainjsod | Apog |
-| 84} | 10/pue |
-| “sBuljaay | a}e13suOWAp |
-| ‘Ayq\|suayasdusod | uosiad |
-| ‘uonaidap | pue |
-| ayy | Woy |
-| “passaippe | aq |
-| mau | e |
-| aAIIadsiad | a\|duus |
-| ‘UOJEMEU/ASAJaSGO | UR |
-| juediomued | e |
-| “YlYs | ajou |
-| “(Yauulp | Ajjuiey |
-| aJOW | UaaMjaq |
-| 2 | *(GulyyAuana |
-| Jo | anndadsiad |
-| “aanpedsiad | sjuosiad |
-| Aes | Kayy |
-| “payrew | Apeap |
-| Aayy | paplaoid |
-| -apeds | 6ulubIs |
-| (Gums | e) |
-| “squan | Bun2idap |
-| Auuiey | ‘adeospue\| |
-| -uonow | ut |
-| “AYNIYyIP | NOY |
-| “sanqpadsiad | yuaiayip |
-| “2104 | pue |
-| -uoj2e | ue |
-| “sannpadsiad | yuasayip |
-| 6undope | pue |
-| eAndaray | » |
-|  | 162 |
-| saanoedsied | pue |
-|  | Page |
+| <Z91 | Setting |
+|  | Receptive |
+|  | ¥43D |
+| - | Can |
+| uoJueduioy | even |
+| Can | follow |
+| Can | easily |
+|  | ‘auinjon |
+| Can | memorise |
+| situation) | and |
+| Can | create |
+| Can | fully |
+| relations, | situation), |
+| Can | recognise |
+| in | signing |
+| Can | distinguish |
+| are | clearly |
+| Can | recognise |
+| from | another |
+| Can, | in |
+| participant | in |
+| Can | understand |
+| clearly | and |
+| Can | correctly |
+| Can | present |
+| Can | present |
+| Can | grasp |
+| topic | or |
+| Can | recognise |
+| perspective | of |
+| Can | present |
+| Can | depict |
+| Can | depict |
+| direction | of |
 
-|  | 163 |
+| Setting | and |
 | --- | --- |
-|  | Page |
-| ajqojionv | s1oyduosap |
-| “(eueueg | e |
-| uaym | :6'9) |
-|  | Signing |
-| -uon2e | payanasuo> |
-| “paquosap | Scales: |
-| Bulag | Dafgo |
-| “(Ajaayradsa, | Ya] |
-| 24} | 0} |
-| Aq | ‘6'a) |
-|  | Illustrative |
-| “uonzidap | Buisn |
-| “aaneueU | e |
-| -aoeds | Bulubls |
-| “Big | sdew |
-| 0} | \|jewWs |
-| “heeds | seap! |
-|  | jo |
-| “aoeds | BulubIs |
-| ul | ade>spue\| |
-| s}a/qo | ‘suoNdlsap |
-| “payero\| | aye |
-| ‘yayjoue | suo |
-| “ainysod | Apoq |
-| saddn | uy |
-| “payer\|pul | AjJea]> |
-| ‘yaY{O | Yea |
-| “daUURWW | 399109 |
-| ‘Kies | ‘aderspue\| |
-|  | eAndaray |
-| saanoedsied | pue |
+|  | Receptive |
+| Can | correctly |
+| the | basis |
+| Can | use |
+| subsequent | references |
+| Can | demonstrate |
+| Can | identify |
+| relationships | with |
+| Can, | in |
+| Can | imagine |
+| descriptions | of |
+| Can, | by |
+| PUL | persons |
+| HII | a |
+| Can | create |
+| BAASHIII | Can |
+| expressions | appropriate |
+| Can | refer |
+|  | 103d14289q |
+| No | descriptors |
+| contrasting | arguments |
+| left | respectively). |
+|  | :sa]e25 |
+| Can | adopt |
+|  | described. |
+| BulUBIs | Can |
+| «saruayeduso> | Can |
+| role. | peeling |
+| No | descriptors |
+|  | a0ey |
+|  | £91 |
 
 <!-- page:162 -->
 *Page 162 3 CEFR –­ Companion volume*
@@ -547,9 +466,7 @@ f use of non-manual means such as facial expression, posture or eye gaze to indi
 <!-- page:163 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 163*
 
-### Language awareness and interpretation
-
-This scale includes descriptors for competences that enable a correct interpretation of perceived acts of communication as well as of their functions. These competences allow the identification of the respective functions of texts (convincing, amusing, persuading, affecting, etc.) to establish expectations of a text, to understand and evaluate the presence of the signer, and to distinguish different levels of communication. The competences also include the comprehension and assessment of stylistic means, connotative meanings and conscious prosodic signals.
+Language awareness and interpretation This scale includes descriptors for competences that enable a correct interpretation of perceived acts of communication as well as of their functions. These competences allow the identification of the respective functions of texts (convincing, amusing, persuading, affecting, etc.) to establish expectations of a text, to understand and evaluate the presence of the signer, and to distinguish different levels of communication. The competences also include the comprehension and assessment of stylistic means, connotative meanings and conscious prosodic signals.
 
 Metalinguistic competences allow for evaluative attributions of specific signs and expressions perceived,for example as an aesthetic contribution or a rhetorical reply. They are applied in the interpretation of a signer’s productions as, for example, in a text making an appeal or request, or in a formal text, and they are applied in reflections on signing.
 
@@ -581,25 +498,13 @@ gestures (or not), as elements of constructed action and constructed dialogue;
 
 - correct interpretation of the rhetorical or structural function of pauses, metaphors, irony, etc.
 
-<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=assessment_action,detailed pages=164 -->
+<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=context pages=164-165 -->
 ### Language awareness and interpretation | scale_language_awareness_and_interpretation
 
 |  | Language awareness and interpretation |
 | --- | --- |
 | C2 | Can work out the main points of emphasis in sophisticated texts. Can understand aesthetic signing in the context of use, even if they are not familiar with it. Can interpret abstract poetic signs. Can recognise rhetorical and stylistic devices in a signed text and understand their functions (e.g., repetition, rhyme, metaphor, irony). Can understand signing in which the signer combines different stylistic devices simultaneously (e.g., non-dominant hand indicates a context, whereas dominant hand indicates an action from a different perspective, either being combined with non-manual expressions).48 Can recognise a variation in the word order and describe its rhetorical effect (e.g., emphasis). Can recognise when a signer employs the sustained hold of a sign as a prosodic or rhetorical device. |
 | C1 | Can extract key information on an unfamiliar subject from a lengthy signed text. Can decide whether or not a statement made about a text takes account of an implied meaning. Can correctly interpret metalinguistic references within a signed text. Can grasp unknown concepts by exploiting analogies explained in a text Can distinguish between the use of body posture as a means of structuring the text (e.g., to separate arguments for and against) or as a grammatical device (e.g., for relative clauses). Can understand complicated emotional states that the signer expresses non-manually and by constructed action. Can identify and outline content which is expressed in creative images. Can explain creative language games in which the signer uses, e.g. the handshape, as an aesthetic element. |
-
-
-48.	 This is an instance of “body partitioning”.
-
-<!-- page:164 -->
-*Page 164 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=assessment_action,detailed pages=164 -->
-### Language awareness and interpretation | scale_language_awareness_and_interpretation
-
-|  | Language awareness and interpretation |
-| --- | --- |
 | B2 | Can understand conveyed information that is implied, but not explicitly stated in a text (e.g., he went skiing, and I’ll visit him in hospital). Can follow the main points of a text even when the signer also makes digressions. Can recognise whether a signer is delivering a complex text in a relaxed or a tense way. Can recognise whether the signer produces a text in a specific rhythm and describe the effect of various rhythms. Can give reasons why the signer inserts pauses in a text, e.g., because they make sense as a structural element or because the signer has to reflect. Can understand who has what opinion and how these opinions relate to each other. Can recognise when a signer’s personal experiences influence the argumentation and when they do not. |
 |  | Can determine whether the signing style used is in keeping with the content. Can decide on the basis of the interlocutor’s signs and non-manual cues how certain the signer is about what they are saying (e.g., <undecided> / <uncertain> / <probable>). Can distinguish productive signs with classifier constructions from imitative, iconic signs. Can follow the signs made by an interlocutor even when less use is made of non-manual means. Can describe the effect that the sign speed of a text has on them. Can judge whether a person presents themselves in a way that is in keeping with the context and the type of text concerned (clothing, aura, well-groomed appearance). Can deduce the meaning of unfamiliar signs using comparisons and analogies. |
 | B1 | Can understand the sequence of events from the sequence of statements made. Can understand simple “for” and “against” arguments on a particular issue. Can understand what advantages and disadvantages a text mentions on a subject. Can understand the key aspects of conclusions. Can recognise and correctly interpret important elements on the basis of non-manual components used for emphasis (e.g., facial expression, size of movement). Can infer from the classifiers used what general term is being talked about (e.g., “murder” from the handling of a murder weapon). Can distinguish between important and unimportant content in a text. |
@@ -608,13 +513,15 @@ gestures (or not), as elements of constructed action and constructed dialogue;
 |  | Can recognise whether or not they are addressed as the recipient. Can understand the main points of signed texts on everyday topics Can grasp and indicate the differences between things. Can identify identical references even if these are expressed in different linguistic ways, e.g., by a lexical sign or by constructed action. Can recognise unfamiliar signs in the continuous flow and ask what they mean. |
 | A1 | Can distinguish between positive and negative attitudes on the basis of non-manual cues (e.g., eyebrows together v. high eyebrows). Can understand the direct acceptance or rejection of requests/demands. |
 
+48.	 This is an instance of “body partitioning”.
+
+<!-- page:164 -->
+*Page 164 3 CEFR –­ Companion volume*
 
 <!-- page:165 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 165*
 
-### Presence and effect
-
-The extent of the effect on addressees of one’s signing (perlocutionary effects of convincing, amusing, persuading, affecting, etc.) and the specific signs at the user/learner’s disposal are the main focus of this scale. There is a focus on the vocabulary and range of structures, including both manual and non-manual elements, and the way the user can exploit them stylistically in order to produce a catchy text. Whether the user wants to demonstrate sophistication, boast or explain, the signer must be aware of their presence.
+Presence and effect The extent of the effect on addressees of one’s signing (perlocutionary effects of convincing, amusing, persuading, affecting, etc.) and the specific signs at the user/learner’s disposal are the main focus of this scale. There is a focus on the vocabulary and range of structures, including both manual and non-manual elements, and the way the user can exploit them stylistically in order to produce a catchy text. Whether the user wants to demonstrate sophistication, boast or explain, the signer must be aware of their presence.
 
 This includes different ways of presenting a signed statement, such as variation in tempo and style. In contrast to a written text, the author remains visible in sign texts: videoed texts in a sign language are not typically detached from their authors, and neither are the conveyed meanings. Producing a formal sign text, for example, requires an appropriate formal appearance on the part of the signer. Therefore, there is an additional competence in producing signed texts, namely the “competence of appearance” that must be learnt and that includes various aspects of how to successfully produce an appropriate sign text for specific purposes.
 
@@ -634,7 +541,7 @@ and effective;
 
 - behaviour and appearance of the signer (taking account of the visible environment, accessories, etc.).
 
-<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=assessment_action,detailed pages=166 -->
+<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=context pages=166-167 -->
 ### Presence and effect | scale_presence_and_effect
 
 |  | Presence and effect |
@@ -644,52 +551,13 @@ and effective;
 | B2 | Can contribute unconventional and original reflections on the topic concerned in a linguistically skilful manner. Can express their imagination and concepts creatively. Can choose from a broad variety of non-manual means to build up suspense and excitement. Can cause an audience to experience strong emotions (e.g. laughing, crying). |
 |  | Can describe an event in an exciting way. Can express complicated emotional states through constructed action and gesture. Can make relevant comparisons that help the recipient better grasp the information concerned. Can stimulate/awaken curiosity on the part of the recipient with regard to the ending to a text. |
 | B1+ | Can convey a new point of view in a way that makes the recipients think. Can express the feelings of a person who is close to them. Can use body language and facial expression to convey meaning. Can emphasise what is important by using non-manual means and the extent of movements. |
-
-
-<!-- page:166 -->
-*Page 166 3 CEFR –­ Companion volume*
-
-<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=assessment_action,detailed pages=166 -->
-### Presence and effect | scale_presence_and_effect
-
-|  | Presence and effect |
-| --- | --- |
 | B1 | Can hold the attention of the recipients by employing various means (e.g. rhetorical questions). Can tell a story in a credible way. Can express personal traits of a character. |
 | A2 | Can present themselves in a polite and appropriate way. Can state facts in a neutral manner, excluding emotional affectedness. Can convey and stimulate feelings (e.g. joy, sadness). |
 |  | Can convey emotions through facial expression. Can employ depiction appropriately to express negative and positive feelings (e.g. eyebrows together: negative; eyebrows raised: positive). |
 | A1 | Can position themselves so that the signing is easily visible to the recipients. Can express emotional states through depiction only (without the need for lexical signs). |
 
-
-Processing speed This scale includes competences that describe the ease or effort in comprehending a sign language. The processing speed may depend on familiar versus unfamiliar signs, on the degree of grammatical complexity or on the familiarity with fingerspelling, to give examples. The scale therefore captures how different competences of other scales can be used, how automatised competences already are and how many resources must be allocated in interpretation or are available for further processing of messages. The individual’s experience of challenging communication, depending on the language used, relates to this. Processing speed indicates the level of training of a recipient and how well they can grasp and understand conveyed information.
-
-Key concepts operationalised in the scale include the following:
-
-- strain of comprehending texts and expressions of differing length, explicitness and complexity;
-
-- ability to assess the signing speed, regularity and rhythm of others and to monitor oneself;
-
-- ability to capture actions that are produced with different articulators simultaneously;
-
-- ability to follow actions with several characters and complex settings;
-
-- ability to follow messages or texts even if the transitions between the different parts of the text are
-
-smoothly signed;
-
-- ability to understand fluently produced fingerspelling;
-
-- ability to follow the content despite assimilations, interruptions, gaps, pauses, production errors or unclear
-
-signing.
-
-<!-- db:id=scale_processing_speed type=descriptor_scale product_tier=assessment_action,detailed pages=168 -->
-### Processing speed | scale_processing_speed
-
-|  | Processing speed |
-| --- | --- |
-| C2 | Can follow texts that are enacted in parallel (e.g., with two signers). Can keep track of who is to take the next turn when several signers are involved, for example, in a panel discussion, by monitoring requests for a turn. Can list the various aspects mentioned in a text even if the signer mentions them quickly one after the other. Can easily understand fluently fingerspelled signs, even if they do not see every letter but perhaps only ergonomic word shapes. |
-| C1 | Can follow a long fluidly signed text. Can follow complicated reports without difficulty. Can easily understand complex actions and relationships between objects/persons/places that are described using various classifier constructions. Can follow how people react to one another’s communication behaviour even when several signers are involved, for example in a panel discussion. Can understand a signed text even if the signer uses only one hand. Can follow a text even when it contains several unknown signs. Can understand a text even when certain signs or sentences are incomplete or not visible. Can spot signing errors and correct them for themselves without query. |
-
+<!-- page:166 -->
+*Page 166 3 CEFR –­ Companion volume*
 
 <!-- page:167 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences  Page 167*
@@ -878,53 +746,59 @@ The Common Reference Levels can be presented and exploited in a number of differ
 
 The Common Reference Levels are summarised in the following table:
 
-|  | e |
+| Level | C2 |
 | --- | --- |
-| 0} | soy |
-| S\| | puewwod |
-| papuayu! | jo |
-| ydaads | jo |
-| ‘syewoy | [210 |
-| sapeys | poob |
-| SI | ay} |
-| Jey | e |
-| sayidA} | Jauy |
-| “e2Ua}adWOD | WOY |
-| A8uod, | as1uB0>a1 |
-| yey} | Jo |
-| sjara] | JAI |
-| aBenbue] | :apn\|IU! |
-| UO!}eIYIpow | aAI}eJOUUOD |
-| Jayeads-aaljyeu | a>UA/aJ91 |
-| e | 2312} |
-| ay} | aay |
-| ym | payo\|dxe |
-| asea | payesq\|\|e> |
-| jo | Jo |
-| Jed | abued |
-| pue | Ajuany |
-| JO | S10}dIJ9saq |
-| ssauayeldoudde | pajyuasaid |
-| Jayeads-anlyeU | UI |
-| e | ‘ADeINDIe |
-| A\|YyJOOUS | paxy |
-| ‘ssaUsea\| | SUUS!\|eINboO\|\|O> |
-| aq | Jo |
-| UeD | e |
-| AjduU! | ‘uolsidadd |
-| \|NJssarons | Os |
-| AYINDYJIP | e |
-| 0} | puke |
-| papuazU! | Jo |
-| aasHap | A\|YyBly |
-| ‘Hulsn | PuNoJe |
-|  | [!2}aP |
-| JOU | ay} |
-|  | Aq |
-| SI | avey |
-| Z>D | asiay2e4ey> |
-| [aAF] | OYM |
-| ay, | ay]. |
+| characterise | the |
+| who | have |
+| precisely | by |
+| idiomatic | expressions |
+| a | awareness |
+| restructure | around |
+| The | Common |
+| can | a |
+| degrees | of |
+| tool | for |
+| The | Common |
+| Can | understand |
+| written | sources, |
+| 5 | C2 |
+| a | even |
+|  | s |
+| s | € |
+|  | cl |
+| . | é |
+| express | themselves |
+| a | Can |
+| produce | clear, |
+| organisational | patterns, |
+| Can | understand |
+| technical | discussions |
+| spontaneity | that |
+| 5 | -B2 |
+| g | s |
+| 2 | c |
+| 3s | Cy |
+| e | Fy |
+| a | of |
+| ss | a |
+| £ | encountered |
+| B1 | travelling |
+| which | are |
+| ambitions | and |
+| Can | understand |
+| relevance | (e.g. |
+| A2 | employment). |
+| exchange | of |
+| a | their |
+|  | s |
+|  | 2 |
+| rf | LJ |
+| a | Can |
+| satisfaction | of |
+| Al | answer |
+| things | they |
+| and | is |
+| Salient | features |
 
 <!-- page:175 -->
 *Salient features of the CEFR levels  Page 175*

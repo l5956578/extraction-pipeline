@@ -589,10 +589,8 @@ The relationship between the CEFR descriptive scheme, the illustrative descripto
 <!-- page:22 -->
 *Page 22 3 CEFR – Companion volume*
 
-Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions
-
 <!-- db:id=table_01_descriptive_scheme_updates type=table product_tier=context pages=23 -->
-### Table 1 – The RFEC descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
+### Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
 
 | | In the 2001 descriptive scheme | In the 2001 descriptor scales | Descriptor scales updated in this publication | Descriptor scales added in this publication |
 | --- | --- | --- | --- | --- |
@@ -663,6 +661,13 @@ Table 2 summarises the changes to the CEFR illustrative descriptors and also the
 
 <!-- page:24 -->
 *Page 24 3 CEFR – Companion volume*
+
+In addition to Chapter 2 “Key aspects of the CEFR for teaching and learning”, and the extended illustrative descriptors included in this publication, users may wish to consult the following two fundamental policy documents related to plurilingual, intercultural and inclusive education:  f **Guide for the development and implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chapter 8 on language diversification and the curriculum;   f **Reference framework of competences for democratic culture** (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation included in this publication.
+
+Users concerned with school education may also wish to consult the paper “Education, mobility, otherness – The mediation functions of schools”,20 which helped the conceptualisation of mediation in the descriptor development project. 20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
+
+Introduction
+<!-- Page 25 -->
 
 20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
 
@@ -748,8 +753,8 @@ The CEFR sets out to be comprehensive, in the sense that it is possible to find 
 
 Nevertheless, the CEFR takes an innovative stance in seeing learners as language users and social agents, and thus seeing language as a vehicle for communication rather than as a subject to study. In so doing, it proposes an analysis of learners’ needs and the use of “can do” descriptors and communicative tasks, on which there is a whole chapter: CEFR 2001 Chapter 7.
 
-<!-- db:id=scale_a_reminder_of_rfec_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
-### A reminder of CEFR 2001 chapters | scale_a_reminder_of_rfec_2001_chapters
+<!-- db:id=scale_a_reminder_of_cefr_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
+### A reminder of CEFR 2001 chapters | scale_a_reminder_of_cefr_2001_chapters
 
 | A reminder of CEFR 2001 chapters |
 | --- |
@@ -859,30 +864,68 @@ They draw on the competences at their disposal in various contexts under various
 
 Thus, in performing tasks, competences and strategies are mobilised in the performance and in turn further developed through that experience. In an “action-oriented approach”, which translates the CEFR descriptive scheme into practice, some collaborative tasks in the language classroom are therefore essential. This is why the CEFR 2001 includes a chapter on tasks. CEFR 2001 Chapter 7 discusses real-life tasks and pedagogic tasks, possibilities for compromise between the two, factors that make tasks simple or complex from a language point of view, conditions and constraints. The precise form that tasks in the classroom may take, and the dominance that they should have in the programme, is for users of the CEFR to decide. CEFR 2001 Chapter 6 surveys language teaching methodologies, pointing out that different approaches may be appropriate for different contexts. As a matter of fact, the CEFR scheme is highly compatible with several recent approaches to second language learning, including the task-based approach, the ecological approach and in general all approaches informed by sociocultural and socio-constructivist theories. Starting from a discussion of the place of plurilingualism in language education, CEFR 2001 Chapter 8 outlines alternative options for curriculum design, a process taken further in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a). No matter what perspective is adopted, it is implicit that tasks in the language classroom should involve communicative language activities and strategies (CEFR 2001 Section 4.4) that also occur in the real world, like those listed in the CEFR descriptive scheme.
 <!-- db:id=figure_01_structure_cefr_descriptive_scheme type=figure render_as=text_diagram product_tier=context pages=32 -->
-### Figure 1 – The structure of the CEFR descriptive scheme | figure_01_structure_cefr_descriptive_scheme
+<!-- db:id=figure_02_reception_production_interaction_mediation type=figure render_as=png product_tier=context pages=34 -->
+<!-- db:id=figure_03_cefr_common_reference_levels type=figure render_as=png product_tier=context pages=36 -->
+<!-- db:id=figure_04_rainbow type=figure render_as=png product_tier=context pages=36 -->
+<!-- db:id=figure_05_conventional_six_colours type=figure render_as=png product_tier=context pages=36 -->
+<!-- db:id=figure_06_fictional_profile_clil type=figure render_as=png product_tier=context pages=38 -->
+<!-- db:id=figure_07_profile_postgraduate_sciences type=figure render_as=png product_tier=context pages=39 -->
+<!-- db:id=figure_08_plurilingual_proficiency_fewer_categories type=figure render_as=png product_tier=context pages=40 -->
+<!-- db:id=figure_09_overall_proficiency_one_language type=figure render_as=png product_tier=context pages=40 -->
+<!-- db:id=figure_10_plurilingual_oral_comprehension type=figure render_as=png product_tier=context pages=40 -->
+<!-- db:id=figure_12_production_activities_strategies type=figure render_as=text_diagram product_tier=context pages=61 -->
+<!-- db:id=figure_13_interaction_activities_strategies type=figure render_as=text_diagram product_tier=context pages=71 -->
+<!-- db:id=figure_14_mediation_activities_strategies type=figure render_as=text_diagram product_tier=context pages=90 -->
+<!-- db:id=figure_15_plurilingual_pluricultural_competence type=figure render_as=text_diagram product_tier=context pages=123 -->
+<!-- db:id=figure_16_communicative_language_competences type=figure render_as=text_diagram product_tier=context pages=129 -->
+<!-- db:id=figure_17_signing_competences type=figure render_as=text_diagram product_tier=context pages=144 -->
+<!-- db:id=figure_18_young_learner_project_design type=figure render_as=mermaid product_tier=context pages=244 -->
+<!-- db:id=figure_19_multimethod_research_design type=figure render_as=mermaid product_tier=context pages=249 -->
+<!-- db:id=figure_20_sign_language_project_phases type=figure render_as=mermaid product_tier=context pages=254 -->
+### Figure 20 – The phases of the sign language project | figure_20_sign_language_project_phases
 
-```text
-Overall language proficiency
-├── General competences
-│   ├── Savoir
-│   ├── Savoir-faire
-│   ├── Savoir-être
-│   └── Savoir apprendre
-├── Communicative language competences
-│   ├── Linguistic
-│   ├── Sociolinguistic
-│   └── Pragmatic
-├── Communicative language activities
-│   ├── Reception
-│   ├── Production
-│   ├── Interaction
-│   └── Mediation
-└── Communicative language strategies
-    ├── Reception
-    ├── Production
-    ├── Interaction
-    └── Mediation
+```mermaid
+flowchart LR
+    PW[Preparatory work] --> IT[Identifying text types]
+    IT --> IE[Identifying experts for text types]
+    IE --> FS[Filming expert signers]
+    DEV[Development] --> FD[Formulating descriptors]
+    FD --> VD[Validating descriptors with signers]
+    VAL[Validating] --> CC[Checking categories]
+    CC --> CAL[Calibrating to CEFR levels]
+    CAL --> OUT[Sign language descriptors]
+    PW --> DEV --> VAL
 ```
+
+PW[Preparatory work] --> IC[Initial collation of validated ELP and assessment descriptors]
+
+DEV --> JC[Judgement of correspondences to 2001 illustrative descriptors]
+
+SCR --> AD[Addition of extended set descriptors with judgements of relevance]
+
+QV --> SRD[Separate reference documents for each age group]
+
+FU --> OUT[A new collation of descriptors for young learners]
+
+│   │   ├── Expressing a personal response to creative texts │   │   └── Analysis and criticism of creative texts │   │   │   ├── Facilitating collaborative interaction with peers │       └── Facilitating communication in delicate situations and disagreements
+
+![Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages](assets/figures/figure_10_plurilingual_oral_comprehension.png)
+
+![Figure 9 – A proficiency profile – overall proficiency in one language](assets/figures/figure_09_overall_proficiency_one_language.png)
+
+![Figure 8 – A plurilingual proficiency profile with fewer categories](assets/figures/figure_08_plurilingual_proficiency_fewer_categories.png)
+
+![Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional)](assets/figures/figure_07_profile_postgraduate_sciences.png)
+
+![Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL](assets/figures/figure_06_fictional_profile_clil.png)
+
+![Figure 5 – The conventional six colours](assets/figures/figure_05_conventional_six_colours.png)
+
+![Figure 4 – A rainbow](assets/figures/figure_04_rainbow.png)
+
+![Figure 3 – CEFR Common Reference Levels](assets/figures/figure_03_cefr_common_reference_levels.png)
+
+![Figure 2 – The relationship between reception, production, interaction and mediation](assets/figures/figure_02_reception_production_interaction_mediation.png)
 
 28.	 From the ECEP project publication: Piccardo E. et al. (2011), **Pathways through assessing, learning and teaching in the CEFR**, Council of Europe Publishing, Strasbourg, available at http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf.
 
@@ -968,14 +1011,12 @@ Interaction involves both reception and production, but is more than the sum of 
 The CEFR introduces the concept of mediation as follows:
 
 In both the receptive and productive modes, the written and/or oral activities of **mediation** make communication possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which this third party does not have direct access. Mediation language activities – (re)processing an existing text – occupy an important place in the normal linguistic functioning of our societies. (CEFR 2001 Section 2.1.3)
-<!-- db:id=figure_02_reception_production_interaction_mediation type=figure render_as=png product_tier=context pages=34 -->
-### Figure 2 – The relationship between reception, production, interaction and mediation | figure_02_reception_production_interaction_mediation
-
-![Figure 2 – The relationship between reception, production, interaction and mediation](assets/figures/figure_02_reception_production_interaction_mediation.png)
 
 As with many other aspects mentioned in the CEFR, the concepts of interaction and mediation are not greatly developed in the text. This is one disadvantage of covering so much ground in 250 pages. In consequence, the interpretation of mediation in the CEFR has tended to be reduced to interpretation and translation. It is for this reason that the 2014-17 project to develop descriptors for mediation was set up. That project emphasised a wider view of mediation, as outlined in Appendix 6 and explained in detail in “Developing illustrative descriptors of aspects of mediation for the CEFR” (North and Piccardo 2016).
 
-The CEFR represents a departure from the traditional distinction made in applied linguistics between the Chomskyan concepts of (hidden) “competence” and (visible) “performance” – with “proficiency” normally defined as the glimpse of someone’s underlying competence derived from a specific performance. In the CEFR, “proficiency” encompasses the ability to perform communicative language activities (“can do …”) while drawing upon both general and communicative language competences (linguistic, sociolinguistic and pragmatic) and activating The acquisition of proficiency is in fact seen as a circular process: by performing activities, the user/learner develops competences and acquires strategies. This approach embraces a view of competence as only existing when enacted in language use, reflecting both (a) the broader view of competence as action from applied psychology, particularly in relation to the world of work and professional training, and (b) the view taken nowadays in the sociocultural approach to learning. The CEFR “can do” descriptors epitomise this philosophy.
+The CEFR represents a departure from the traditional distinction made in applied linguistics between the Chomskyan concepts of (hidden) “competence” and (visible) “performance” – with “proficiency” normally defined as the glimpse of someone’s underlying competence derived from a specific performance. In the CEFR, “proficiency” encompasses the ability to perform communicative language activities (“can do …”) while drawing upon both general and communicative language competences (linguistic, sociolinguistic and pragmatic) and activating appropriate communicative strategies.
+
+The acquisition of proficiency is in fact seen as a circular process: by performing activities, the user/learner develops competences and acquires strategies. This approach embraces a view of competence as only existing when enacted in language use, reflecting both (a) the broader view of competence as action from applied psychology, particularly in relation to the world of work and professional training, and (b) the view taken nowadays in the sociocultural approach to learning. The CEFR “can do” descriptors epitomise this philosophy.
 
 30.	 The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
 
@@ -1021,21 +1062,8 @@ The mediation descriptors are particularly relevant for the classroom in connect
 The CEFR has two axes: a horizontal axis of categories for describing different activities and aspects of competence, which were outlined above, and a vertical axis representing progress in proficiency in those categories. To facilitate the organisation of courses and to describe progress, the CEFR presents the six Common Reference Levels shown in Figure 3. This arrangement provides a roadmap that allows user/learners to engage with relevant aspects of the descriptive scheme in a progressive way. However, the six levels are not intended to be absolute.
 
 Firstly, they can be grouped into three broad categories: Basic user (A1 and A2), Independent user (B1 and B2) and Proficient user (C1 and C2). Secondly, the six reference levels, which represent very broad bands of language proficiency, are very often subdivided.
-<!-- db:id=figure_03_cefr_common_reference_levels type=figure render_as=png product_tier=context pages=36 -->
-### Figure 3 – CEFR Common Reference Levels | figure_03_cefr_common_reference_levels
-
-![Figure 3 – CEFR Common Reference Levels](assets/figures/figure_03_cefr_common_reference_levels.png)
 
 All categories in the humanities and liberal arts are in any case conventional, socially constructed concepts. Like the colours of the rainbow, language proficiency is actually a continuum. Yet, as with the rainbow, despite the fuzziness of the boundaries between colours, we tend to see some colours more than others, as in Figure 4. Yet, to communicate, we simplify and focus on six main colours, as in Figure 5.
-<!-- db:id=figure_04_rainbow type=figure render_as=png product_tier=context pages=36 -->
-### Figure 4 – A rainbow | figure_04_rainbow
-
-![Figure 4 – A rainbow](assets/figures/figure_04_rainbow.png)
-
-<!-- db:id=figure_05_conventional_six_colours type=figure render_as=png product_tier=context pages=36 -->
-### Figure 5 – The conventional six colours | figure_05_conventional_six_colours
-
-![Figure 5 – The conventional six colours](assets/figures/figure_05_conventional_six_colours.png)
 
 <!-- page:36 -->
 *Page 36 3 CEFR – Companion volume*
@@ -1089,10 +1117,6 @@ Plus levels represent a very strong competence at a level that does not yet reac
 ### 2.7. CEFR PROFILES
 
 Levels are a necessary simplification. We need levels in order to organise learning, track progress and answer questions like “How good is your French?” or “What proficiency should we require from candidates?” However, any simple answer like B2 – or even B2 receptive, B1 productive – hides a complex profile. The reason the CEFR includes so many descriptor scales is to encourage users to develop differentiated profiles. Descriptor scales can be used firstly to identify which language activities are relevant for a particular group of learners and, secondly, to establish which level those learners need to achieve in those activities in order to accomplish their goals. This can be illustrated with the two fictional examples of individual language profiles shown in Figures 6 and 7. In each case, the four shapes in Figures 6 and 7 show the desired profile for reception, interaction, production and mediation respectively. The labels around the edge of the circle are the descriptor scales that are considered to be relevant, and the proficiency level deemed to be desirable on each descriptor scale is indicated by the shading. Notice that the descriptor scales included in the two diagrams are not identical. Only those activities considered to be relevant would be included. Profiles like Figures 6 and 7 may be produced for individuals in the context of very intensive LSP training, but the technique is also very useful for analysing the needs of particular groups of learners.
-<!-- db:id=figure_06_fictional_profile_clil type=figure render_as=png product_tier=context pages=38 -->
-### Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL | figure_06_fictional_profile_clil
-
-![Figure 6 – A fictional profile of needs in an additional language – lower secondary CLIL](assets/figures/figure_06_fictional_profile_clil.png)
 
 <!-- page:38 -->
 *Page 38 3 CEFR – Companion volume*
@@ -1103,10 +1127,6 @@ Levels are a necessary simplification. We need levels in order to organise learn
 The profile shown in Figure 6 has “plus levels” between the Common Reference Levels. It sets a relatively high priority (B1) on reception – including reading as a leisure activity – on goal-oriented co-operation, facilitating collaborative interaction and oral production. The highest priority, though, is on understanding the interlocutor (B2), in this case CLIL, presumably the teacher. The profile shown in Figure 7 (postgraduate science student) also puts an emphasis on reception (C1) and on certain aspects of mediation: collaborating to construct meaning, explaining data and processing text. Profiles can be created for various groups, particularly in professional or in specialised educational areas. Stakeholders can be consulted in a two-step process: first to establish the relevant descriptor scales and secondly to determine realistic goals for each one.
 
 Graphic profiles such as those shown in Figures 6 and 7 can also be used to describe the current language proficiency of a user/learner. One can see the development of individual proficiency as a gain of space over time: a gain in relevant terrain.31 A realistic graphic profile of any individual’s proficiency would be more like the uneven Figures 6 and 7 than the more abstract perfection levels shown as concentric circles in Figure 3.
-<!-- db:id=figure_07_profile_postgraduate_sciences type=figure render_as=png product_tier=context pages=39 -->
-### Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional) | figure_07_profile_postgraduate_sciences
-
-![Figure 7 – A profile of needs in an additional language – postgraduate natural sciences (fictional)](assets/figures/figure_07_profile_postgraduate_sciences.png)
 
 However, for a personal profile of proficiency, working with fewer categories is probably desirable in most circumstances. Figures 6 and 7 worked with the descriptor scales for different, detailed types of activities. A simpler alternative is to use only the seven overall scales (“Overall oral comprehension”,32 etc.). On the other hand, there is no reason why the profile should be confined to one language.
 
@@ -1114,7 +1134,11 @@ One can take things a stage further and create graphic plurilingual profiles for
 
 Such a profile can show the way in which the proficiency of any user/learner is almost always going to be uneven, partial.
 
-It will be influenced by home background, by the needs of the situation in which the person has found themselves, and by their experience, including transversal competences acquired in general education, in using other languages, in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical
+It will be influenced by home background, by the needs of the situation in which the person has found themselves, and by their experience, including transversal competences acquired in general education, in using other languages, in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical speakers Understanding as a member of a live audience Note-taking (lectures, seminars, meetings, etc.)
+
+Reading for orientation Reading for information and argument RECEPTION Understanding an interlocutor A1 INTERACTION Informal discussion (with friends) Formal discussion (meetings)
+
+Goal-oriented co-operation Information exchange Goal-oriented online transactions and collaboration
 
 31.	 The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
 32.	 Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
@@ -1131,28 +1155,16 @@ It will be influenced by home background, by the needs of the situation in which
 *Key aspects of the CEFR for teaching and learning Page 39*
 
 since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001 (Section 5.2) describes as their “general competences”.
-<!-- db:id=figure_08_plurilingual_proficiency_fewer_categories type=figure render_as=png product_tier=context pages=40 -->
-### Figure 8 – A plurilingual proficiency profile with fewer categories | figure_08_plurilingual_proficiency_fewer_categories
-
-![Figure 8 – A plurilingual proficiency profile with fewer categories](assets/figures/figure_08_plurilingual_proficiency_fewer_categories.png)
 
 In practice, there is a tendency to use more linear diagrams to profile an individual’s CEFR language proficiency.
 Figure 9 shows proficiency in one language in relation to the CEFR “overall” descriptor scales, and Figure 10
 shows a profile across languages for oral comprehension. Graphics similar to these appear in versions of the ELP.
 
 Earlier ELPs profiled ability in one language after another (as in the example in Figure 9), while some later ones show the plurilingual profile for overall proficiency in each communicative language activity (as in Figure 10).
-<!-- db:id=figure_09_overall_proficiency_one_language type=figure render_as=png product_tier=context pages=40 -->
-### Figure 9 – A proficiency profile – overall proficiency in one language | figure_09_overall_proficiency_one_language
-
-![Figure 9 – A proficiency profile – overall proficiency in one language](assets/figures/figure_09_overall_proficiency_one_language.png)
 
 Graphic profiles have been associated with the CEFR and the ELP since their earliest versions in the late 1990s.
 
 Nowadays, it is of course far easier to produce them from a spreadsheet (for example, Excel) and with the many web tools available. However, such graphic profiles only have meaning if one can assume a familiarity with the levels and categories concerned on the part of the reader. The CEFR illustrative descriptors can bring that familiarity.
-<!-- db:id=figure_10_plurilingual_oral_comprehension type=figure render_as=png product_tier=context pages=40 -->
-### Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages | figure_10_plurilingual_oral_comprehension
-
-![Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages](assets/figures/figure_10_plurilingual_oral_comprehension.png)
 
 <!-- page:40 -->
 *Page 40 3 CEFR – Companion volume*
@@ -1280,8 +1292,8 @@ In discussing the use of descriptors it is essential to make a distinction betwe
 
 Table 5 – The different purposes of descriptors
 
-<!-- db:id=scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
-### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_tahw_the_user_learner_can_do_cefr_2001_chapter_4
+<!-- db:id=scale_what_the_user_learner_can_do_cefr_2001_chapter_4 type=descriptor_scale product_tier=context pages=44 -->
+### WHAT the user/learner can do (CEFR 2001 Chapter 4) | scale_what_the_user_learner_can_do_cefr_2001_chapter_4
 
 | | WHAT the user/learner can do (CEFR 2001 Chapter 4) | HOW WELL the user/ learner performs (CEFR 2001 Chapter 5) | Of relevance to |
 | --- | --- | --- | --- |
@@ -1361,36 +1373,32 @@ Rosen É. and Reinhardt C. (eds) (2010), **Le point sur le Cadre européen commu
 THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: COMMUNICATIVE LANGUAGE ACTIVITIES AND STRATEGIES
 
 <!-- db:id=figure_11_reception_activities_strategies type=figure render_as=text_diagram product_tier=context pages=47 -->
-### Figure 11 – Reception activities and strategies | figure_11_reception_activities_strategies
 
 ```text
 Reception
 ├── Reception activities
-│   ├── Oral comprehension
-│   │   ├── Overall oral comprehension
-│   │   ├── Understanding conversation between other people
-│   │   ├── Understanding as a member of a live audience
-│   │   ├── Understanding announcements and instructions
-│   │   └── Understanding audio (or signed) media and recordings
-│   ├── Audio-visual comprehension
-│   │   └── Watching TV, film and video
-│   └── Reading comprehension
-│       ├── Overall reading comprehension
-│       ├── Reading correspondence
-│       ├── Reading for orientation
-│       ├── Reading for information and argument
-│       ├── Reading instructions
-│       └── Reading as a leisure activity
+│  ├── Oral comprehension
+│  │  ├── Overall oral comprehension
+│  │  ├── Understanding conversation between other people
+│  │  ├── Understanding as a member of a live audience
+│  │  ├── Understanding announcements and instructions
+│  │  └── Understanding audio (or signed) media and recordings
+│  ├── Audio-visual comprehension
+│  │  └── Watching TV, film and video
+│  └── Reading comprehension
+│    ├── Overall reading comprehension
+│    ├── Reading correspondence
+│    ├── Reading for orientation
+│    ├── Reading for information and argument
+│    ├── Reading instructions
+│    └── Reading as a leisure activity
 └── Reception strategies
-    └── Identifying cues and inferring
+  └── Identifying cues and inferring
 ```
 
 ### 3.1. RECEPTION
 
 Reception involves receiving and processing input: activating what are thought to be appropriate schemata in order to build up a representation of the meaning being expressed and a hypothesis as to the communicative intention behind it. Incoming co-textual and contextual cues are checked to see if they “fit” the activated schema – or suggest that an alternative hypothesis is necessary. In “oral reception”, the language user receives and processes live or recorded input produced by one or more other people. In “visual reception” (reading and watching) activities the user receives and processes as input written and signed texts produced by one or more people. In “audio-visual comprehension”, for which one scale (watching TV and film) is provided, the user watches TV, video or a film and uses multimedia, with or without subtitles, voiceovers or signing.
-
-<!-- page:47 -->
-*Page 47*
 
 <!-- page:47 -->
 *Page 47*
@@ -1453,9 +1461,7 @@ This scale concerns two main situations: the first is when other participants in
 <!-- page:49 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 49*
 
-### Understanding as a member of a live audience
-
-This scale concerns understanding a speaker addressing an audience,for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
+Understanding as a member of a live audience This scale concerns understanding a speaker addressing an audience,for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
 
 - following a talk accompanying real artefacts (for example on a guided tour) and visual aids (for example
 
@@ -1467,7 +1473,7 @@ PowerPoint);
 
 - following a line of argument, distinguishing main points, etc.
 
-<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=assessment_action,detailed pages=50 -->
+<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=context pages=50-51 -->
 ### Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience
 
 | | Understanding as a member of a live audience |
@@ -1480,38 +1486,13 @@ PowerPoint);
 | | Can follow in outline straightforward short talks on familiar topics, provided these are delivered in clearly articulated standard language or a familiar variety. Can follow a straightforward conference presentation or demonstration with visual support (e.g. slides, handouts) on a topic or product within their field, understanding explanations given. Can understand the main points of what is said in a straightforward monologue (e.g. a guided tour), provided the delivery is clear and relatively slow. |
 | A2 | Can follow the general outline of a demonstration or presentation on a familiar or predictable topic, where the message is expressed slowly and clearly in simple language and there is visual support (e.g. slides, handouts). |
 | | Can follow a very simple, well-structured presentation or demonstration, provided it is illustrated with slides, concrete examples or diagrams, it is delivered slowly and clearly with repetition, and the topic is familiar. Can understand the outline of simple information given in a predictable situation, such as on a guided tour (e.g. “This is where the President lives”). |
+| A1 | Can understand in outline very simple information being explained in a predictable situation like a guided tour, provided the delivery is very slow and clear and that there are long pauses from time to time. |
+| Pre-A1 | No descriptors available |
 
 <!-- page:50 -->
 *Page 50 3 CEFR – Companion volume*
 
 ---
-
-<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=assessment_action,detailed pages=50 -->
-### Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience
-
-| | Understanding as a member of a live audience |
-| --- | --- |
-| A1 | Can understand in outline very simple information being explained in a predictable situation like a guided tour, provided the delivery is very slow and clear and that there are long pauses from time to time. |
-| Pre-A1 | No descriptors available |
-
-Understanding announcements and instructions This scale involves a different type of extremely focused comprehension in which the aim is to catch specific information. The situation is complicated by the fact that the announcement or instructions may well be delivered by a (possibly faulty) public address system, or called out/signed some considerable distance away. Key concepts operationalised in the scale include the following:
-
-- understanding directions and detailed instructions;
-
-- catching the main point of announcements;
-
-- degree of clarity, from slow and clear to normal speed with audio and/or visual distortion.
-
-| | Understanding announcements and instructions |
-| --- | --- |
-| C2 | No descriptors available; see C1 |
-| C1 | Can extract specific information from poor quality, [audibly and/or visually] distorted public announcements, e.g. in a station or sports stadium, or on an old recording. Can understand complex technical information, such as operating instructions or specifications for familiar products and services. |
-| B2 | Can understand announcements and messages on concrete and abstract topics delivered in standard language or a familiar variety at normal speed. Can understand detailed instructions well enough to be able to follow them successfully. |
-| B1 | Can understand simple technical information, such as operating instructions for everyday equipment. Can follow detailed directions. Can understand public announcements at airports, stations and on planes, buses and trains, provided these are clearly articulated with minimum interference from [auditory/visual] background noise. |
-| A2 | Can understand and follow a series of instructions for familiar everyday activities such as sports, cooking, etc., provided they are delivered slowly and clearly. Can understand straightforward announcements (e.g. of a cinema programme or sports event, that a train has been delayed), provided the delivery is slow and clear. |
-| | Can catch the main point in short, clear, simple messages and announcements. Can understand simple directions on how to get from X to Y, by foot or public transport. Can understand basic instructions on times, dates and numbers, etc., and on routine tasks and assignments to be carried out. |
-| A1 | Can understand instructions addressed carefully and slowly to them and follow short, simple directions. Can understand when someone tells them slowly and clearly where something is, provided the object is in the immediate environment. Can understand figures, prices and times given slowly and clearly in an announcement by loudspeaker, e.g. at a railway station or in a shop. |
-| Pre-A1 | Can understand short, simple instructions for actions such as “Stop”, “Close the door”, etc., provided they are delivered slowly face-to-face, accompanied by pictures or manual gestures and repeated if necessary. |
 
 <!-- page:51 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 51*
@@ -1748,37 +1729,15 @@ Key concepts operationalised in the scale include the following:
 *Page 60 3 CEFR – Companion volume*
 
 fluency and articulateness of expression in real time, especially when addressing an audience. Ability in this more formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It involves learning the expectations and conventions of the genre concerned. Production strategies are employed to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated processes in natural language production.
-<!-- db:id=figure_12_production_activities_strategies type=figure render_as=text_diagram product_tier=context pages=61 -->
-### Figure 12 – Production activities and strategies | figure_12_production_activities_strategies
 
-```text
-Production
-├── Production activities
-│   ├── Oral production
-│   │   ├── Overall oral production
-│   │   ├── Sustained monologue: describing experience
-│   │   ├── Sustained monologue: giving information
-│   │   ├── Sustained monologue: putting a case
-│   │   ├── Public announcements
-│   │   └── Addressing audiences
-│   └── Written production
-│       ├── Overall written production
-│       ├── Creative writing
-│       └── Reports and essays
-└── Production strategies
-    ├── Planning
-    ├── Compensating
-    └── Monitoring and repair
-```
-
-Sustained monologue:
 #### 3.2.1. Production activities
+
 ##### 3.2.1.1. Oral production
 
-The categories for oral production are organised in terms of three macro-functions (interpersonal, transactional, evaluative), with two more specialised genres: “Addressing audiences” and “Public announcements”. “Sustained monologue: describing experience” focuses mainly on descriptions and narratives while “Sustained monologue: putting a case (e.g. in a debate)” describes the ability to sustain an argument, which may well be made in a long turn in the context of normal conversation and discussion. “Sustained monologue: giving information” is a new 2018 scale, created by transferring certain descriptors from the scale for “Information exchange” that implied
+The categories for oral production are organised in terms of three macro-functions (interpersonal, transactional, evaluative), with two more specialised genres: “Addressing audiences” and “Public announcements”. “Sustained monologue: describing experience” focuses mainly on descriptions and narratives while “Sustained monologue: putting a case (e.g. in a debate)” describes the ability to sustain an argument, which may well be made in a long turn in the context of normal conversation and discussion. “Sustained monologue: giving information” is a new 2018 scale, created by transferring certain descriptors from the scale for “Information exchange” that implied monologue rather than dialogue.
 
-<!-- page:61 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 61*
+The CEFR Illustrative Descriptor Scales: communicative language activities and strategies
+<!-- Page 61 -->
 
 <!-- page:61 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 61*
@@ -2110,48 +2069,24 @@ This scale covers both (a) the spontaneous realisation that one has made a slip 
 <!-- page:70 -->
 *Page 70 3 CEFR – Companion volume*
 
-<!-- db:id=figure_13_interaction_activities_strategies type=figure render_as=text_diagram product_tier=context pages=71 -->
-### Figure 13 – Interaction activities and strategies | figure_13_interaction_activities_strategies
-
-```text
-Interaction
-├── Interaction activities
-│   ├── Oral interaction
-│   │   ├── Overall oral interaction
-│   │   ├── Understanding an interlocutor
-│   │   ├── Conversation
-│   │   ├── Informal discussion
-│   │   ├── Formal discussion
-│   │   ├── Goal-oriented co-operation
-│   │   ├── Obtaining goods and services
-│   │   ├── Information exchange
-│   │   ├── Interviewing and being interviewed
-│   │   └── Using telecommunications
-│   ├── Written interaction
-│   │   ├── Overall written interaction
-│   │   ├── Correspondence
-│   │   └── Notes, messages and forms
-│   └── Online interaction
-│       ├── Online conversation and discussion
-│       └── Goal-oriented online transactions and collaboration
-└── Interaction strategies
-    ├── Turntaking
-    ├── Co-operating
-    └── Asking for clarification
-```
-
 #### 3.3.1. Interaction activities
+
 ##### 3.3.1.1. Oral interaction
 
 Oral interaction is understood to include both spoken interaction and live, face-to-face signing. The scales are once again organised by the three macro-functions “interpersonal”, “transactional” and “evaluative”, with certain specialised genres added on. The scales begin with “Understanding an interlocutor”. “Interlocutor” is a somewhat technical term that means the person with whom one is conversing directly in a dialogue. As mentioned before, the metaphor behind the scales for oral comprehension is that of a series of concentric circles. Here we are at the centre of those circles: the user/learner is actively involved in an interaction with the interlocutor.
 
 The other scales then follow:
+
 - interpersonal: “Conversation”;
+
 - evaluative: “Informal discussion (with friends)”; “Formal discussion (meetings)”, “Goal-oriented collaboration”;
+
 - transactional: “Information exchange”, “Obtaining goods and services”, “Interviewing and being interviewed”,
 
-<!-- page:71 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 71*
+and “Using telecommunications”.
+
+The CEFR Illustrative Descriptor Scales: communicative language activities and strategies
+<!-- Page 71 -->
 
 <!-- page:71 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 71*
@@ -2493,7 +2428,7 @@ draft and/or consult aids;
 
 Progression up the scale is characterised as follows: the move from lower to higher levels is accompanied by a shift from simple social exchanges and personal news towards a broader range of competences encompassing professional and educational discursive interaction at the C levels, with the introduction of real-time interaction and group interaction from B1+. B2 is characterised by the ability to participate actively in discussion and argument, linking a contribution effectively to others in the thread, and repairing misunderstandings appropriately. By C1, the user/learner can modulate their register and give critical evaluations diplomatically. At C2, they can anticipate and deal effectively with possible misunderstandings (including cultural ones), communication issues and emotional reactions. Progression can also be seen as the process of adding virtual “spaces” in which the user/learner can interact such as a “café”, “classroom” or “meeting room”. A user/learner will struggle to interact successfully in an online meeting until they reach the B levels, will be able to interact in a virtual “classroom” at A2 only if carefully guided, and maybe can communicate only very superficially at A1 when posting and chatting in the “café”. At the C levels, on the other hand, the user/learner can adapt their register and interaction style according to the virtual space they are in, adjusting their language appropriately to make communication more effective.
 
-<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=assessment_action,detailed pages=85 -->
+<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=context pages=85-86 -->
 ### Online conversation and discussion | scale_online_conversation_and_discussion
 
 | | Online conversation and discussion |
@@ -2505,38 +2440,12 @@ Progression up the scale is characterised as follows: the move from lower to hig
 | B1 | Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation. Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings. |
 | | Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy. Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation. |
 | A2+ | Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time. Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details. Can comment on other people’s online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way. |
-
-<!-- page:85 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 85*
-
-<!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=assessment_action,detailed pages=85 -->
-### Online conversation and discussion | scale_online_conversation_and_discussion
-
-| | Online conversation and discussion |
-| --- | --- |
 | A2 | Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet). Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources. |
 | A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. |
 | Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons. Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. |
 
-Goal-oriented online transactions and collaboration This scale focuses on the potentially collaborative nature of online interaction and transactions that have specific goals, as a regular feature of contemporary life. A rigid separation between written and oral does not really apply to online transactions, where multimodality is increasingly a key feature and resource, and the descriptors therefore assume the exploitation of different online media and tools according to context. Key concepts operationalised in the scale include the following:
-
-- purchasing goods and services online;
-
-- engaging in transactions requiring negotiation of conditions, in a service as well as client role;
-
-- participation in collaborative project work;
-
-- dealing with communication problems.
-
-Progression up the scale is characterised as follows: the move towards higher levels expands from basic transactions and information exchange at the A levels towards more sophisticated collaborative project work that is goal-oriented. This can be seen as a progression from filling in predictable online forms at Pre-A1, to solving various problems in order for the transaction to take place at the B levels, through to being able to participate in, and ultimately co-ordinate, group project work online at the C levels. One can also see such competences as progressing from reactive to proactive participation, and from simple to complex. Simple collaborative tasks appear at A2+, with a co-operative interlocutor, with small group project work from B1 and the ability to take a lead role in collaborative work from B2+. By C1, the user/learner can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks.
-
-<!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=87 -->
-### Goal-oriented online transactions and collaboration | scale_goal_oriented_online_transactions_and_collaboration
-
-| | Goal-oriented online transactions and collaboration |
-| --- | --- |
-| C2 | Can resolve misunderstandings and deal effectively with frictions that arise during the collaborative process. Can provide guidance and add precision to the work of a group at the redrafting and editing stages of collaborative work. |
-| C1 | Can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks. Can deal with complex online transactions in a service role (e.g. applications with complicated requirements), adjusting language flexibly to manage discussions and negotiations. Can participate in complex projects requiring collaborative writing and redrafting as well as other forms of online collaboration, following and relaying instructions with precision in order to reach the goal. Can deal effectively with communication problems and cultural issues that arise in an online collaborative or transactional exchange by reformulating, clarifying and providing examples through media (visual, audio, graphic). |
+<!-- page:85 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 85*
 
 <!-- page:86 -->
 *Page 86 3 CEFR – Companion volume*
@@ -2648,40 +2557,6 @@ Asking for clarification This scale concerns intervening in an interaction to in
 The development and validation of the scales for mediation is described in “Developing illustrative descriptors of aspects of mediation for the CEFR” (North and Piccardo 2016). The aim was to provide CEFR descriptors for a broader view of mediation, as presented in the paper “Education, mobility, otherness – The mediation functions of schools” (Coste and Cavalli 2015).
 
 In mediation, the user/learner acts as a social agent who creates bridges and helps to construct or convey meaning, sometimes within the same language, sometimes across modalities (e.g. from spoken to signed or vice versa, in cross-modal communication) and sometimes from one language to another (cross-linguistic mediation). The focus is on the role of language in processes like creating the space and conditions for communicating and/or learning, collaborating to construct new meaning, encouraging others to construct or understand new meaning, and passing on new information in an appropriate form. The context can be social, pedagogic, cultural, linguistic or professional.
-<!-- db:id=figure_14_mediation_activities_strategies type=figure render_as=text_diagram product_tier=context pages=90 -->
-### Figure 14 – Mediation activities and strategies | figure_14_mediation_activities_strategies
-
-```text
-Mediation
-├── Mediation activities
-│   ├── Mediating a text
-│   │   ├── Relaying specific information
-│   │   ├── Explaining data
-│   │   ├── Processing text
-│   │   ├── Translating a written text
-│   │   ├── Note-taking
-│   │   ├── Expressing a personal response to creative texts
-│   │   └── Analysis and criticism of creative texts
-│   ├── Mediating concepts
-│   │   ├── Collaborating in a group
-│   │   │   ├── Facilitating collaborative interaction with peers
-│   │   │   └── Collaborating to construct meaning
-│   │   └── Leading group work
-│   │       ├── Managing interaction
-│   │       └── Encouraging conceptual talk
-│   └── Mediating communication
-│       ├── Facilitating pluricultural space
-│       ├── Acting as an intermediary
-│       └── Facilitating communication in delicate situations and disagreements
-└── Mediation strategies
-    ├── Strategies to explain a new concept
-    │   ├── Linking to previous knowledge
-    │   ├── Adapting language
-    │   └── Breaking down complicated information
-    └── Strategies to simplify a text
-        ├── Amplifying a dense text
-        └── Streamlining a text
-```
 
 <!-- page:90 -->
 *Page 90 3 CEFR – Companion volume*
@@ -2695,22 +2570,15 @@ There are many different aspects of mediation, but all share certain characteris
 
 The scales for mediation are presented in three groups, reflecting the way in which mediation tends to occur. “Mediating a text” involves passing on to another person the content of a text to which they do not have access, often because of linguistic, cultural, semantic or technical barriers. This is the main sense in which the 2001 CEFR text uses the term mediation. The first set of descriptor scales offered are for this, usually cross-linguistic, interpretation, which is increasingly being incorporated into language curricula (for example in Switzerland, Germany, Austria, Italy, Greece and Spain). However, the notion has been further developed to include mediating a text for oneself (for example in taking notes during a lecture) or in expressing reactions to texts, particularly creative and literary ones. “Mediating concepts” refers to the process of facilitating access to knowledge and concepts for others, particularly if they may be unable to access this directly on their own. This is a fundamental aspect of parenting, mentoring, teaching and training, but also of collaborative learning and work. Mediating concepts involves two complementary aspects: on the one hand constructing and elaborating meaning and on the other hand facilitating and stimulating conditions that are conducive to such conceptual exchange and development. “Mediating communication” aims to facilitate understanding and shape successful communication between users/learners who may have individual, sociocultural, sociolinguistic or intellectual differences in standpoint. The mediator tries to have a positive influence on aspects of the dynamic relationship between all the participants, including the relationship with themselves. Often, the context of the mediation will be an activity in which participants have shared communicative objectives, but this need not necessarily be the case. The skills involved are relevant to diplomacy, negotiation, pedagogy and dispute resolution, but also to everyday social and/or workplace interactions. Mediating communication is thus primarily concerned with personal encounters. This is not a closed list – users may well be able to think of other types of mediation activities not included here.
 
-<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=assessment_action,detailed pages=91 -->
+Overall mediation
+
+<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=context pages=91-92 -->
 ### Overall mediation | scale_overall_mediation
 
 | | Overall mediation |
 | --- | --- |
 | C2 | Can mediate effectively and naturally, taking on different roles according to the needs of the people and situation involved, identifying nuances and undercurrents and guiding a sensitive or delicate discussion. Can explain in clear, fluent, well-structured language the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm). |
 | C1 | Can act effectively as a mediator, helping to maintain positive interaction by interpreting different perspectives, managing ambiguity, anticipating misunderstandings and intervening diplomatically in order to redirect the conversation. Can build on different contributions to a discussion, stimulating reasoning with a series of questions. Can convey clearly and fluently in well-structured language the significant ideas in long, complex texts, whether or not they relate to their own fields of interest, including evaluative aspects and most nuances. |
-
-<!-- page:91 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 91*
-
-<!-- db:id=scale_overall_mediation type=descriptor_scale product_tier=assessment_action,detailed pages=91 -->
-### Overall mediation | scale_overall_mediation
-
-| | Overall mediation |
-| --- | --- |
 | B2 | Can establish a supportive environment for sharing ideas and facilitate discussion of delicate issues, showing appreciation of different perspectives, encouraging people to explore issues and adjusting sensitively the way they express things. Can build on others’ ideas, making suggestions for ways forward. Can convey the main content of well-structured but long and propositionally complex texts on subjects within their fields of professional, academic and personal interest, clarifying the opinions and purposes of speakers/signers. |
 | | Can work collaboratively with people from different backgrounds, creating a positive atmosphere by providing support, asking questions to identify common goals, comparing options for how to achieve them and explaining suggestions for what to do next. Can further develop others’ ideas, pose questions that invite reactions from different perspectives and propose a solution or next steps. Can convey detailed information and arguments reliably, e.g. the significant point(s) contained in complex but well-structured texts within their fields of professional, academic and personal interest. |
 | B1 | Can collaborate with people from other backgrounds, showing interest and empathy by asking and answering simple questions, formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches. Can convey the main points made in long texts expressed in uncomplicated language on topics of personal interest, provided they can check the meaning of certain expressions. |
@@ -2719,6 +2587,9 @@ The scales for mediation are presented in three groups, reflecting the way in wh
 | | Can use simple words/signs to ask someone to explain something. Can recognise when difficulties occur and indicate in simple language the apparent nature of a problem. Can convey the main point(s) involved in short, simple conversations or texts on everyday subjects of immediate interest, provided these are expressed clearly in simple language. |
 | A1 | Can use simple words/signs and non-verbal signals to show interest in an idea. Can convey simple, predictable information of immediate interest given in short, simple signs and notices, posters and programmes. |
 | Pre-A1 | No descriptors available |
+
+<!-- page:91 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 91*
 
 <!-- page:92 -->
 *Page 92 3 CEFR – Companion volume*
@@ -2742,75 +2613,67 @@ In the two scales, Language A and Language B may be different languages, varieti
 <!-- db:id=scale_relaying_cfiiceps_information type=descriptor_scale product_tier=context pages=94-95 -->
 ### Relaying cfiiceps information | scale_relaying_cfiiceps_information
 
-| ‘ueap> | pue |
+| | 25C4 |
 | --- | --- |
-| Ak\|I!WeJ | B4e |
-| puemuoyBreays | e |
-| -spalqns | se |
-| ul | paureyuo> |
-| ‘suon2euIp | 10 |
-| | *(suononaysul |
-| pue | sjuawaunouue |
-| 5}x9} | Ul |
-| *(y | aBen6ue} |
-| JeWUOy | U |
-| "ysasaqUl | Jo |
-| -(y | abenbue] |
-| 2 | U! |
-| “Jeusnof | jeuorssajoid |
-| uu) | (sjjujod |
-| apmue | ue |
-| "ysasaqu! | \|euosiad |
-| 2194) | UBM |
-| UJ | pauleyuod |
-| -asodund | aypads |
-| Bujuiod | “uonesap\|suo> |
-| uanib) | payleyep |
-| aduarajuod | e |
-| 2 | “(v |
-| 7g | aa |
-| | Companion |
-| 7g | aa |
-| HEWUOJUI | DyIDads |
-| | 94» |
-| uonewuojul | syI2ads |
-| | Page |
+| | «HG |
+| | YIID |
+| - | Relaying |
+| | UoJUedWIOD |
+| c2 | No |
+| | ‘auINjon |
+| Cc | Can |
+| particular | section |
+| Can | relay |
+| conference, | or |
+| a | specific |
+| Can | relay |
+| propositionally | complex |
+| fields | of |
+| Can | relay |
+| Language | A) |
+| an | or |
+| Can | relay |
+| and/or | reports |
+| fields | of |
+| Can | relay |
+| correspondence | (in |
+| Can | relay |
+| delivered | clearly |
+| | instructions). |
+| Can | relay |
+| provided | these |
+| Can | relay |
+| informational | texts |
+| Language | A). |
+| and | the |
 
-| ry | a |
+| Relaying | specific |
 | --- | --- |
-| ea | z |
-| | rs |
-| | 2 |
-| 2 | Fy |
-| | iy |
-| 3 | 2 |
-| | s |
-| “(vy | aBenbue] |
-| (sa2ud | ‘6'a) |
-| *suo}ye)sSN]]! | UyeyUO> |
-| Aan | ul |
-| woy | UoReUUOJU! |
-| | communicative |
-| “uonnaday | Yeap |
-| Auan | papiaod |
-| si | uone\|noque |
-| Jo | uonewuoyu! |
-| | Scales: |
-| “paau | JO |
-| abenbuey | ul) |
-| abenbue7 | a6en6ue] |
-| Aymo}s | Auea]> |
-| sabessaw | pue |
-| pue | 49/2 |
-| | “spafqns |
-| seyj1wej | uo |
-| ajdwiis | ‘Yoys |
-| | The |
-| -aBenBue\| | AepAuana |
-| ARI\|]WLey | 9}942U0D |
-| ajduuis | y0Ys |
-| jONeWOJUI | IYyIDads |
-| uonewuojul | syI2ads |
+| Can | relay |
+| A) | concerning |
+| OUL | message |
+| W4ID | Can |
+| ‘texts, | labels |
+| | aANeNSNII\| |
+| Can | relay |
+| instructions | and |
+| 40}du>seq | in |
+| Can | relay |
+| provided | the |
+| | :saje2§ |
+| junwiulod | Can |
+| given | in |
+| slow | and |
+| < | 3 |
+| Fy | 3 |
+| 3 | < |
+| r- | 5 |
+| id | Fy |
+| a | texts |
+| s: | pue |
+| | «saiGaxens |
+| | 060, |
+| | $6 |
 
 <!-- page:94 -->
 *Page 94 3 CEFR – Companion volume*
@@ -2837,39 +2700,36 @@ However, they may also be identical. In the former case, users should specify th
 <!-- page:96 -->
 *Page 96 3 CEFR – Companion volume*
 
-| sioyduiosap | s10}d195ap |
+| EA | eet |
 | --- | --- |
-| ajqoj}0a0 | on |
-| | strategies» |
-| sioyduiosap | s10}d195ap |
-| ajqoj}0a0 | on |
-| | s10}d195ap |
-| 2/QDIIDAD | ON |
+| Can | interpret |
+| N | empirical |
+| conceptually | complex |
+| | OUL |
+| W4ID | Can |
+| points | and |
+| aANeNSNII\| | information |
+| Can | interpret |
+| 40}du>seq | in |
+| Language | A) |
+| :saje2§ | Can |
+| their | fields |
+| junwiulod | cause |
+| | materials. |
+| aan | Can |
+| diagrams | (e.g. |
+| aBenbue] | limitations |
+| Can | and |
+| pe | weather |
+| false | map, |
+| starts | may |
 | | s |
-| uapine | Ain |
-| ‘sasned | yBnoy} |
-| ajqoj}0a0 | sioyduiosap |
-| | language |
-| “Sauuty | Je |
-| “(y | aBen6ueq |
-| sjensia | ul |
-| | “sjeuayew |
-| @2UAlaJaJ | 484} |
-| ay | Bujurejdxa |
-| ul | UMOYs |
-| | Descriptor |
-| -(y | aben6ueq |
-| ul | 3x0} |
-| uoleWuojul | payleyap |
-| “s1doy | jeucyssajoud |
-| yep | pasjueBio |
-| ‘qualjes | ayy |
-| | The |
-| “soidoy | jeuoissayoud |
-| Jo | 2]Wapere |
-| Jeouidusa | jo |
-| uBis | 10 |
-| (:238 | ‘suesBe! |
+| pue | No |
+| | «591603e435 |
+| No | descriptors |
+| | 202, |
+| No | descriptors |
+| | £6 |
 
 <!-- page:97 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 97*
@@ -2892,123 +2752,131 @@ However, they may also be identical. In the former case, users should specify th
 <!-- page:98 -->
 *Page 98 3 CEFR – Companion volume*
 
-| | 99 |
+<!-- db:id=scale_processing_text type=descriptor_scale product_tier=context pages=99-101 -->
+### Processing text | scale_processing_text
+
+| Processing | text |
 | --- | --- |
-| *yeuBu0 | ay} |
-| dyads | 0} |
-| xa\|duuod | eu! |
-| \|eDads | jo |
-| abenbue7 | suonediqnd |
-| ul) | a6en6ue7 |
-| uonewojul | ayy |
-| "sai]u! | \|euosiad |
-| JO | spjay |
-| 4Ng | peinyon4js-\|jam |
-| | language |
-| “yeulBu0 | ayy |
-| yam | ayew |
-| x9} | 8240s |
-| “aja | ‘uojuldo |
-| 41ay) | Bulppe |
-| 0} | (y |
-| -(y | aben6ueq |
-| pue | s}>ej |
-| ‘JeuIG}10 | Jo |
-| Bun2adsau | ‘souaipne |
-| Axesay1] | ‘20a |
-| ue | ‘6'a) |
-| 1x9} | pue |
-| “swua} | }e>]UY2a} |
-| aU} | AYP |
-| “(y | aBen6ue] |
-| | CEFR |
-| “ynsai | \|]249A0 |
-| pue | sjuawinBie |
-| | Auoll |
-| Huymesp | “wiseoues |
-| “WS\|DIUD | UOIJSOd |
-| SI | sjuauinbue |
-| aye | pue |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
+| speech | text |
+| or | sign |
+| Can | explain |
+| explicit | (in |
+| expression | (e.g. |
+| C | irony |
+| SUL | sarcasm. |
+| Can | summarise |
+| HAI | accounts |
+| | ANeASHIII |
+| Can | summarise |
+| academic | professional |
+| U2S9q | points |
+| academic | article, |
+| 103d | Can |
+| made | in |
+| :s9]e25 | ‘own, |
+| c1 | Can |
+| anye>junwiwiod | arguments |
+| Can | exploit |
+| discuss | a |
+| opinion, | etc. |
+| Can | explain |
+| abenBue] | (in |
+| reference | to |
+| | pe |
+| Can | summarise |
+| and | arguments |
+| 8 | subjects |
+| Hi | g |
+| a | B2+ |
+| Fs | up |
+| & | & |
+| & | Can |
+| 7 | text |
+| 8 | information |
+| 8 | S |
+| | 8 |
+
+| | 26e4 |
+| --- | --- |
+| O01 | Processing |
+| < | speech |
+| ¥43D | or |
+| | - |
+| | uoJueduioy |
+| Can | synthesise |
+| number | of |
+| sources | Language |
+| ‘auinjon | Can |
+| Language | A), |
+| main | themes. |
+| Can | summarise |
+| texts | (in |
+| | interest. |
+| Can | recognise |
+| interest | and |
+| | author. |
+| Can | summarise |
+| documentaries | containing |
+| Can | summarise |
+| Language | A). |
+| Can | (in |
+| A) | summarise |
+| on | topics |
+| certain | expressions. |
+| Can | summarise |
+| B1+ | interview |
+| details. | or |
+| Can | collate |
+| summarise | them |
+
+| Processing | text |
+| --- | --- |
+| speech | text |
+| or | sign |
+| Can | summarise |
+| texts | (in |
+| lexical | limitations |
+| Can | summarise |
+| SUL | straightforward |
+| HAD | interview, |
+| BARENSHIII | Can |
+| (in | Language |
+| articulated | clearly. |
+| Can | summarise |
+| 103d1959q | (in |
+| several | times. |
+| Can | summarise |
+| video | clips |
+| | :sa]e2g |
+| | TV |
+| Can | report |
+| anrye>junuo> | items |
+| concerned | are |
+| Can | report |
+| clearly | structured, |
+| | tables. |
+| aBenbue] | Can |
+| texts | (in |
+| | on |
+| g2e | Can |
+| simple | texts |
+| sar | means |
+| pue | 50. |
+| copy | or |
+| «sai6ayeN3s | of |
+| Can | convey |
+| simple | signs |
+| Can | copy |
+| | 26eq |
+| LOL | No |
 
 <!-- page:99 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 99*
-
-| -asja | Apoqawios |
-| --- | --- |
-| pue | (y |
-| suonsanb | aben6ue7 |
-| ynoge | sayuny |
-| ‘uossnosip | 4/2} |
-| “suo\|ssesdxe | uleys9> |
-| -ysa/aqul | \|euosiad |
-| sjuawnBue | pue |
-| “(y | abenbuey |
-| ul) | Aejd |
-| “(y | a6en6ue] |
-| J | Sma\|AJaqUl |
-| | syoyyne |
-| ‘ayp | jo |
-| Jo | 2!do} |
-| jo | Jo |
-| Jepads | spjay |
-| xa\|duiod | 4a6uo] |
-| syujod | BunsesUo> |
-| yp | pue |
-| Uu)) | }xa) |
-| “uonesijeisads | pue |
-| Ul) | 53x} |
-| CEFR | - |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
-| | 100 |
-| | Page |
 
 <!-- page:100 -->
 *Page 100 3 CEFR – Companion volume*
 
 ---
-
-| ajqoyionv | s1oydyiosap |
-| --- | --- |
-| | Page |
-| payujid | paquasaid |
-| "JUNO | psepues |
-| “sawiauy | AepAsana |
-| ajduuis | jo |
-| AJea]> | payulid |
-| "JEUOJ | UaMpuey |
-| “ajqisuayasdwiod | sujewiad |
-| ay} | UIeJUOD |
-| \| | pauyeyuod |
-| | language |
-| “s91do} | (ty |
-| ‘ajdwuis | (s)julod |
-| Jeuonewosur | yoys |
-| | saiqey |
-| “aouayadxe | pue |
-| UoYs | e |
-| -abenbue] | AepAsana |
-| UJa2U02 | $}xa} |
-| UOHEUUOJU! | JURAIIaJ |
-| “sawn | Jesanas |
-| pue | sawues6oud |
-| “sau | [e1aAaS |
-| malAso | uaysi |
-| Aijeso | pasanijap |
-| “Aueald | payejnoye |
-| ajdoad | papiaoid |
-| uonesianuod | e |
-| suZzebew | CEFR |
-| “Buyapio | “6ra) |
-| Bulpsom | }eulByo |
-| 3x@} | ayy |
-| “payejnaiye | Ayzeal> |
-| yuan | Jo |
-| ‘plemuopyblenys | ul |
-| 6uij14M | Bulssa201g |
-| ul | 3x9} |
 
 <!-- page:101 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 101*
@@ -3045,59 +2913,58 @@ Note: As in any case in which mediation across languages is involved, users may 
 <!-- db:id=scale_translating_a_nettirw_text type=descriptor_scale product_tier=context pages=103-104 -->
 ### Translating a nettirw text | scale_translating_a_nettirw_text
 
-| | 103 |
+| Can | provide |
 | --- | --- |
-| “sou | ye |
-| “a\|qisuayaidiuo> | sujewad |
-| puepueys | ‘paye>i\|duiooun |
-| Jo | (g |
-| | and |
-| “ajqisuayasdwio> | sujewias |
-| sioua | 2nsinBul] |
-| plepurys | ‘payesijdwiooun |
-| (ga | a6en6ue] |
-| | language |
-| “Ajpaemyme | Aew |
-| squiod | Bulfaauod |
-| uyew | ayy |
-| pue | aduaquas |
-| “JeuIBU0 | ayy |
-| 4apso | ayy |
-| (a | a6en6ue] |
-| | Descriptor |
-| “Jeu!6110 | ayy |
-| ‘way | YM |
-| aanenjend | Bulkanuod |
-| Jeuo\|ssajoid | pue |
-| suo}e>1\|dw | CEFR |
-| ys\|je!ads | Aq |
-| Adeundde | Da!qns |
-| paypayp | s! |
-| JO | play |
-| IM | Ul |
-| 7x9} | Ud}}UM |
+| Language | A) |
+| SYL | interest, |
+| YIID | and |
+| | nuances |
+| | aAReASHIII |
+| Can | provide |
+| Language | A) |
+| 103du959q | nuances. |
+| though | some |
+| | :sajers |
+| Can | provide |
+| Language | A) |
+| aaneriunwwor | of |
+| Can | produce |
+| paragraph | structure |
+| abenbue] | of |
+| ye | Can |
+| A) | containing |
+| sai | professional, |
+| pue | uncomplicated, |
+| | <sa1Bayens |
+| | A |
+| Can | provide |
+| structured | informational |
+| a6ey | or |
+| at | times. |
+| | £01 |
 
-| s10}d | ssoydyiosap |
+| | 252d |
 | --- | --- |
-| 2/QDIIDAD | 1952p |
-| “ra | ‘s]ayeay |
-| “Bulueaw | ayeyidoidde |
-| wou) | saseayd |
-| \|eUOsiad | ‘6'a) |
-| Jo | Sadjjou |
-| saduajuas | abenbue7 |
-| -ajqisuayasdwio> | aulnod |
-| sujewia | uoNe\|sueN |
-| yey] | sowayy |
-| abenbue7 | Woy) |
-| | volume |
-| “(y | aben6ue] |
-| (s}}ew-a | Jo |
-| ‘ajduiis | “Woys |
-| IM | Ul |
-| | 104» |
-| 7x9} | Ud}}UM |
-| | Page |
+| POL | Translating |
+| | < |
+| | Y439D |
+| - | Translating |
+| | UoJURdUIOD |
+| Can | provide |
+| everyday | texts |
+| ‘auINjoa | (written |
+| Can | provide |
+| texts | (e.g. |
+| essential | point. |
+| Can | provide |
+| information | on |
+| (in | Language |
+| | instructions). |
+| | a |
+| Can | provide |
+| words/signs | and |
+| and | notices, |
+| No | descriptors |
 
 <!-- page:103 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 103*
@@ -3162,9 +3029,7 @@ the work, etc.
 
 There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.
 
-### Expressing a personal response to creative texts (including literature)
-
-This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
+Expressing a personal response to creative texts (including literature) This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
 
 - explaining what they liked, what interested them about the work;
 
@@ -3178,7 +3043,7 @@ This first scale reflects the approach taken in school sectors and in adult read
 
 Progression up the scale is characterised as follows: at the lower levels the user/learner can say whether they liked the work, say how it made them feel, discuss characters and relate aspects of the work to their own experience, with increased detail at B1. At B2 they can give more elaborate explanations, comment on the form of expression and style and give their interpretation of the development of a plot, the characters and the themes in a story, novel, film or play. At the C levels, they can give broader and deeper interpretations, supporting them with details and examples.
 
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
+<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=context pages=106-107 -->
 ### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
 
 | | Expressing a personal response to creative texts (including literature) |
@@ -3186,37 +3051,13 @@ Progression up the scale is characterised as follows: at the lower levels the us
 | C2 | No descriptors available |
 | C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. |
 | B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments. Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. Can describe their emotional response to a work and elaborate on the way in which it has evoked this response. Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. |
-
-<!-- page:106 -->
-*Page 106 3 CEFR – Companion volume*
-
-<!-- db:id=scale_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=106 -->
-### Expressing a personal response to creative texts (including literature) | scale_expressing_a_personal_response_to_creative_texts_including_literature
-
-| | Expressing a personal response to creative texts (including literature) |
-| --- | --- |
 | B1 | Can explain why certain parts or aspects of a work especially interested them. Can explain in some detail which character they most identified with and why. Can relate events in a story, film or play to similar events they have experienced or heard about. Can relate the emotions experienced by a character to emotions they have experienced. Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why. Can explain briefly the feelings and opinions that a work provoked in them. Can describe the personality of a character. Can describe a character’s feelings and explain the reasons for them. |
 | A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language. Can state in simple language which aspects of a work especially interested them. Can state whether they liked a work or not and explain why in simple language. |
 | A1 | Can use simple words/signs to state how a work made them feel. |
 | Pre-A1 | No descriptors available |
 
-Analysis and criticism of creative texts (including literature) This scale represents an approach more common at an upper secondary and university level. It concerns more formal, intellectual reactions. Aspects analysed include the significance of events in a novel, the treatment of the same themes in different works and other links between them, the extent to which a work follows conventions, and more global evaluation of the work as a whole. Key concepts operationalised in the scale include:
-
-- comparing different works;
-
-- giving a reasoned opinion of a work;
-
-- critically evaluating features of a work, including the effectiveness of its techniques.
-
-Progression up the scale is characterised as follows: there are no descriptors for A1 and A2. Until B2, the focus is on description rather than evaluation. At B2, the user/learner can analyse similarities and differences between works, giving a reasoned opinion and referring to the views of others. At C1, analysis becomes more subtle, concerned with the way the work engages the audience, the extent to which it is conventional, or whether it employs irony. At C2, the user/learner can recognise finer linguistic and stylistic subtleties, unpack connotations and give more critical appraisals of the way in which structure, language and rhetorical devices are exploited in a work of literature for a particular purpose.
-
-<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=108 -->
-### Analysis and criticism of creative texts (including literature) | scale_analysis_and_criticism_of_creative_texts_including_literature
-
-| | Analysis and criticism of creative texts (including literature) |
-| --- | --- |
-| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning. Can recognise the finer subtleties of nuanced language, rhetorical effect and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations. Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness. Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. |
-| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres. Can evaluate the extent to which a work follows the conventions of its genre. Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |
+<!-- page:106 -->
+*Page 106 3 CEFR – Companion volume*
 
 <!-- page:107 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 107*
@@ -3275,68 +3116,71 @@ Progression up the scale is characterised as follows: the scale moves from simpl
 <!-- db:id=scale_collaborating_ni_a_group type=descriptor_scale product_tier=context pages=110-111 -->
 ### Collaborating ni a group | scale_collaborating_ni_a_group
 
-| -as\|Wosdwio> | 40 |
+| | 26ed |
 | --- | --- |
-| pue | ‘ysure6e |
-| “paacoid | 0} |
-| “sannpadsiad | siaquiaw |
-| WO | SUO!}>eaJ |
-| -suouido | pue |
-| “mala | Jo |
-| ‘ples | aaey |
-| | “yore |
-| inyny | 10y |
-| Bulssaidxa | ‘Bulnjos |
-| “yuo | De |
-| au) | pur |
-| Bulk} | ssaD01d |
-| aGual/ey | ‘Hupjury} |
-| 84} | U! |
-| “puemioy | Kem |
-| UL | UoIssndsip |
-| “mal | jo |
-| dn | Bury6iem |
-| ‘dnos6 | 10 |
-| | volume |
-| “puemioy | Aem |
-| 12}1]12e | 0} |
-| CEFR | - |
-| | » |
-| | 110 |
-| dnos6 | e |
-| | Page |
+| OLL | Collaborating |
+| | < |
+| | H43D |
+| - | Facilitating |
+| | uoJueduioy |
+| Can | summarise, |
+| C | No |
+| | ‘auinjon |
+| a | of |
+| Can | show |
+| contributions | and |
+| a | way |
+| c1 | Can |
+| order | to |
+| Can | highlight |
+| of | trying |
+| process | to |
+| Can, | based |
+| intervene | in |
+| Can | act |
+| these | with |
+| | action. |
+| Can | help |
+| summarising, | elaborating |
+| Can | ask |
+| Can | help |
+| other | group |
+| Can | refocus |
+| Can | consider |
+| propose | a |
 
-| | 111 |
+| Collaborating | agroup |
 | --- | --- |
-| | Page |
-| ajqoyionv | s1oydyiosap |
-| | strategies» |
-| | ‘pueysiapun |
-| -eouenpe | ul |
-| pue | subis/spiom |
-| ‘fem | ajduiis |
-| “BuImo}}oy | uonnadai |
-| Kay} | SUO\|sanb |
-| ‘aye | JeY} |
-| | communicative |
-| | “suonsa66ns |
-| “suonsanb | ayeudoidde |
-| Aq | ueaw |
-| | Scales: |
-| JUaWIdojanap | daay |
-| 6ulpueysiapun | "9S4NOD |
-| pue | jenynuy |
-| (s)uoseas | ani6 |
-| “smata | 4194} |
-| | trative |
-| ‘aouayiadxa | pue |
-| 4184} | 81NGUIUOD |
-| “uolssnosip | “suonsanb |
-| 2 | JO |
-| | The |
-| “panjosad | aq |
-| wre | ay |
-| dnos6 | e |
+| Facilitating | collaborative |
+| Can | collaborate |
+| asking | whether |
+| | SYL |
+| YIID | Can |
+| group | by |
+| | aAReASHIII |
+| Can | define |
+| expertise | and |
+| | 103du959q |
+| Can | invite |
+| a | group |
+| Can | repeat |
+| :sajers | help |
+| | aaneriunwwor |
+| Can | collaborate |
+| slowly | and |
+| | suggestions. |
+| | abenbue] |
+| Can | collaborate |
+| suggestions | and |
+| reformulation | from |
+| ye | Can |
+| | sar |
+| | pue |
+| Can | invite |
+| «sai6axe.)s | prepared |
+| | understand. |
+| 260 | No |
+| | LLL |
 
 <!-- page:110 -->
 *Page 110 3 CEFR – Companion volume*
@@ -3366,45 +3210,47 @@ Progression up the scale is characterised as follows: the scale moves from showi
 <!-- page:112 -->
 *Page 112 3 CEFR – Companion volume*
 
-| 2/QDIIDAD | s10}d |
+| Leading | group |
 | --- | --- |
-| | Page |
-| ajdwiis | “eap! |
-| Ue | u |
-| “Auessadau | UayM |
-| “Rap! | UlezJ89 |
-| om | and |
-| Pinom | Buiyjewos |
-| “Bujuoseas | sayy |
-| ‘paure\|dxa | acti |
-| uaaq | aney |
-| “uoneue\|dxa | ay} |
-| \|ely!ul | 4843 |
-| -uonediaqued | uana |
-| Jo | SuoaNasu! |
-| “uo\|ssnosip | sepun |
-| WaLy | »uI] |
-| “Bupjuitp | Jo |
-| “suoluido | 4Jayy |
-| 4Jay} | Uo |
-| “suonsa66ns | 6uninul |
-| ay | jo |
-| “uoNN\|Os | 10 |
-| pue | uoReUUOJU! |
-| “Bupyurya | 424} |
-| “ano\|Aeyaq | aandnusip |
-| uosiad | auo |
-| 6urAysn/ | *(Bun2ipaid |
-| pue | ‘Buséjeue |
-| 0} | 4aPJ0 |
-| | The |
-| apin6 | sdays |
-| ay} | 0} |
-| “Bujuoseas | sayy |
-| 0} | siayjo |
-| pesqe | xa\|dwiod |
-| ‘yje3 | jenyde2u0> |
-| ysom | dnosb |
+| Encouraging | conceptual |
+| | of |
+| Can | take |
+| requirements | of |
+| fe) | N |
+| Can | recognise |
+| direction | of |
+| | SUL |
+| HAD | Can |
+| work, | ensuring |
+| BARENSHIII | a |
+| dominating | intervene |
+| | or |
+| Can | organise |
+| 103d1959q | of |
+| Can | monitor |
+| back | on |
+| Can | intervene |
+| :sa]e2g | task |
+| Can | explain |
+| anrye>junuo> | clear |
+| Can | explain |
+| problem | solving |
+| Can | ask |
+| Can | intervene |
+| aBenbue] | to |
+| Can | allocate |
+| Can | ask |
+| g2e | explained. |
+| Can | ask |
+| | sa} |
+| pue | Can |
+| | work. |
+| <sai6a,ens | of |
+| Can | give |
+| formulation | when |
+| Can | use |
+| 2604 | No |
+| ELL | No |
 
 <!-- page:113 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 113*
@@ -3419,9 +3265,7 @@ Even if one thinks of mediation in terms of rendering a text comprehensible, the
 
 The descriptors for mediating communication will therefore have direct relevance to teachers, trainers, students and professionals who wish to develop their awareness and competence in this area, in order to achieve better outcomes in their communicative encounters in a particular language or languages, particularly when there is an intercultural element involved.
 
-### Facilitating pluricultural space
-
-This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
+Facilitating pluricultural space This scale reflects the notion of creating a shared space between linguistically and culturally different interlocutors (that is, the capacity to deal with “otherness”, to identify similarities and differences, to build on known and unknown cultural features, and so on) in order to enable communication and collaboration. The user/learner aims to facilitate a positive interactive environment for successful communication between participants of different cultural backgrounds, including in multicultural contexts. Rather than simply building on their pluricultural repertoire to gain acceptance and to enhance their own mission or message (see “Building on pluricultural repertoire”), they are engaged as a cultural mediator: creating a neutral, trusted, shared “space” in order to enhance communication between others. They aim to expand and deepen intercultural understanding between participants in order to avoid and/or overcome any potential communication difficulties arising from contrasting cultural viewpoints. Naturally, the mediator themselves needs a continually developing awareness of sociocultural and sociolinguistic differences affecting cross-cultural communication. Key concepts operationalised in the scale include the following:
 
 - using questions and showing interest to promote understanding of cultural norms and perspectives
 
@@ -3437,22 +3281,13 @@ differences.
 
 Progression up the scale is characterised as follows: at B1 the emphasis is on introducing people and showing interest and empathy by asking and answering questions. By B2+, appreciation of different perspectives and flexibility are central: the ability to belong to a group yet maintain balance and distance, express oneself sensitively, clarify misunderstandings and explain how things were meant. This aspect is developed further in the C levels, where the user/learner can control their actions and expression according to context, making subtle adjustments in order to prevent and/or repair misunderstandings and cultural incidents. By C2, they can mediate effectively and naturally, taking account of sociocultural and sociolinguistic differences.
 
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
+<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=context pages=114-115 -->
 ### Facilitating pluricultural space | scale_facilitating_pluricultural_space
 
 | | Facilitating pluricultural space |
 | --- | --- |
 | C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences. Can guide a sensitive discussion effectively, identifying nuances and undercurrents. |
 | C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings. Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. |
-
-<!-- page:114 -->
-*Page 114 3 CEFR – Companion volume*
-
-<!-- db:id=scale_facilitating_pluricultural_space type=descriptor_scale product_tier=assessment_action,detailed pages=114 -->
-### Facilitating pluricultural space | scale_facilitating_pluricultural_space
-
-| | Facilitating pluricultural space |
-| --- | --- |
 | B2 | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. |
 | | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. |
 | B1 | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. |
@@ -3460,6 +3295,9 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 | A2 | Can contribute to an intercultural exchange, using simple words/signs to ask people to explain things and to get clarification of what they say, while exploiting a limited repertoire to express agreement, to invite, to thank, etc. |
 | A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/ signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. |
 | Pre-A1 | No descriptors available |
+
+<!-- page:114 -->
+*Page 114 3 CEFR – Companion volume*
 
 <!-- page:115 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 115*
@@ -3533,63 +3371,65 @@ Progression up the scale is characterised as follows: at B1 the user/learner can
 <!-- db:id=scale_strategies_ot_nialpxe_a_wen_concept type=descriptor_scale product_tier=context pages=119-120 -->
 ### Strategies ot nialpxe a wen concept | scale_strategies_ot_nialpxe_a_wen_concept
 
-| | 119 |
+| Strategies | to |
 | --- | --- |
-| | Page |
-| “YUM | Jeyjuey |
-| aye | ajdoad |
-| ‘Aq | ainpazoid |
-| -abenbue\| | 1ajduiis |
-| ul | Bulseaydesed |
-| *sdajs | Ja]]ews |
-| pueysiapun | 0} |
-| -aBen6ue\| | sajduis |
-| Aq | $184} |
-| oNeWOyUl | Jo |
-| *Ajayeredas: | “abpa\|mouy |
-| quawunBie | ayy |
-| puejsiapun | 0} |
-| “abpa\|mouy | ysijei2ads |
-| abenBue\| | aaey |
-| 2 | 10) |
-| Je21uy>a} | pue |
-| "V1 | YAM |
-| >1doy | ys}Je19ads |
-| “sKeM | JUasayIp |
-| spadse | Aay |
-| pue | ‘waxed |
-| ‘syuiod | ujew |
-| ‘anss\| | xajdwod |
-| | CEFR |
-| “pausaauo> | aouaipne |
-| “y | Bulyreordde |
-| pue | ajoym |
-| Aq | anss\| |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-| 3da2u0) | Mau |
+| Linking | to |
+| Can | introduce |
+| notions) | by |
+| explanations | that |
+| SYL | be |
+| YIID | can |
+| | aAReASHIII |
+| Can | spontaneously |
+| to | encourage |
+| knowledge | of |
+| 103du959q | establish |
+| Can | adapt |
+| 1 | jargon) |
+| accessible | to |
+| :sajers | Can |
+| using | suitably |
+| texts, | recipient |
+| aaneriunwwor | not |
+| Can | clearly |
+| goals | of |
+| abenbue] | interests |
+| Can | make |
+| their | field |
+| in | paraphrasing |
+| ye | it |
+| | sal |
+| pue | Can |
+| encourage | people |
+| <se16a,eNs | knowledge |
+| simpler | language. |
+| Can | explain |
+| already | comparing |
+| 2624 | with. |
+| | GLL |
 
-| 2IQDIIDAD | s10}d19Sap |
+| | 26e4 |
 | --- | --- |
-| 2IQDIIDAD | s10}d19Sap |
-| "YJ | pueysiapun |
-| djay | 0} |
-| 2IQDIIDAD | s10}d19Sap |
-| “Bulpueysuapun | ajeq!2e5 |
-| 0} | siseyduia |
-| Je | SUBIS/spiom |
-| pue}siapun | 0} |
-| | volume |
-| “S494}O | 40} |
-| “syujod | ayeiedas |
-| Jo | si] |
-| JeUOHeWOsUI | Jo |
-| peze>1\|]dWI0> | Burjeeig |
-| uoReUOsU! | UMop |
-| | » |
-| | 120 |
-| 3da2u0) | Mau |
-| | Page |
+| «OZ | Strategies |
+| y4a> | ig |
+| | - |
+| | uojueduio9 |
+| Can | explain |
+| examples | that |
+| on | in |
+| ‘aumnjon | experiences. |
+| | contents |
+| Can | show |
+| people | are |
+| time, | employing |
+| facilitate | understanding. |
+| | a |
+| No | descriptors |
+| everyday | subject, |
+| someone | else |
+| No | descriptors |
+| descriptors | available |
+| No | No |
 
 <!-- page:119 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 119*
@@ -3619,40 +3459,37 @@ Progression up the scale is characterised as follows: highlighting may be simply
 <!-- page:121 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies Page 121*
 
-| s10}d | s10}d119Sap |
+| | 262d |
 | --- | --- |
-| 2/QDIIDAD | 1952p |
-| s10}d | s10}d119Sap |
-| 2/QDIIDAD | 1952p |
-| “yx@} | Aephiana |
-| Yoys | e |
-| “sajduiexa | ajduuis |
-| -asja | BuCaWOS |
-| 0} | Uo |
-| UJ | VOReWOJU! |
-| “lasea\|> | abessaw |
-| abi | pue |
-| “wiay} | 10 |
-| BJOW | JUBJUOD |
-| eY} | UO}JELUOJU! |
-| | “syuaOD |
-| -aoualpne | papuaul |
-| pue | uonewuoju} |
-| | s4aqsi6ar |
-| pue | aj/is |
-| Y} | 0} |
-| 32612) | jndjay |
-| sjujod | adualpne |
-| YSOW | Jo |
-| | Companion |
-| ‘asodind | s}1 |
-| JO | Moy |
-| CEFR | - |
-| 3x9} | e |
-| | » |
-| | 122 |
-| 3x9} | e |
-| | Page |
+| <ZZL | Strategies |
+| WII | Amplifying |
+| | - |
+| | uoJueduioy |
+| fe) | N |
+| topics | by |
+| ‘auinjon | Can |
+| explicitly | and |
+| aspects | more |
+| fa) | Can |
+| target | audience |
+| | register: |
+| | a |
+| Can | make |
+| accessible | to |
+| | comments. |
+| Can | make |
+| concrete | examples, |
+| Can | make |
+| illustrations. | Can |
+| it | in |
+| Can | make |
+| the | main |
+| someone | else. |
+| | of |
+| Can | make |
+| No | descriptors |
+| everyday | text. |
+| No | descriptors |
 
 <!-- page:122 -->
 *Page 122 3 CEFR – Companion volume*
@@ -3661,25 +3498,17 @@ Progression up the scale is characterised as follows: highlighting may be simply
 THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: PLURILINGUAL AND PLURICULTURAL COMPETENCE
 
 The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states: the plurilingual approach emphasises the fact that as an individual person’s experience of language in its cultural contexts expands, from the language of the home to that of society at large and then to the languages of other peoples (whether learnt at school or college, or by direct experience), he or she does not keep these languages and cultures in strictly separated mental compartments, but rather builds up a communicative competence to which all knowledge and experience of language contributes and in which languages interrelate and interact. (CEFR 2001 Section 1.3)
-<!-- db:id=figure_15_plurilingual_pluricultural_competence type=figure render_as=text_diagram product_tier=context pages=123 -->
-### Figure 15 – Plurilingual and pluricultural competence | figure_15_plurilingual_pluricultural_competence
 
-```text
-Plurilingual and pluricultural competence
-├── Building on pluricultural repertoire
-├── Plurilingual comprehension
-└── Building on plurilingual repertoire
-```
+The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation to language education, considering that: the aim of language education is profoundly modified. It is no longer seen as simply to achieve “mastery” of one or two, or even three languages, each taken in isolation, with the “ideal native speaker” as the ultimate model. Instead, the aim is to develop a linguistic repertory, in which all linguistic abilities have a place. (CEFR 2001 Section 1.3)
 
-The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation the aim of language education is profoundly modified. It is no longer seen as simply to achieve “mastery” of one or two, or even three languages, each taken in isolation, with the “ideal native speaker” as the ultimate model. Instead, the aim is to develop a linguistic repertory, in which all linguistic abilities have a place. (CEFR 2001 Section 1.3)
-
-In the development of descriptors, the following points mentioned specifically in the CEFR 2001 were given
+In the development of descriptors, the following points mentioned specifically in the CEFR 2001 were given particular attention:
 - languages are interrelated and interconnected, especially at the level of the individual;
 - languages and cultures are not kept in separated mental compartments;
 - all knowledge and experience of languages contribute to building up communicative competence;
 - balanced mastery of different languages is not the goal, but rather the ability (and willingness) to modulate
 their usage according to the social and communicative situation;
 - barriers between languages can be overcome in communication, and different languages can be used
+purposefully for conveying messages in the same situation.
 
 <!-- page:123 -->
 *Page 123*
@@ -3744,9 +3573,7 @@ Progression up the scale is characterised as follows: at the A levels the user/l
 
 ---
 
-### Plurilingual comprehension
-
-The main notion represented by this scale is capacity to use knowledge of and proficiency (even partial) in one or more languages as leverage for approaching texts in other languages, in order to achieve a communication goal. Key concepts operationalised in the scale include the following:
+Plurilingual comprehension The main notion represented by this scale is capacity to use knowledge of and proficiency (even partial) in one or more languages as leverage for approaching texts in other languages, in order to achieve a communication goal. Key concepts operationalised in the scale include the following:
 
 - openness and flexibility to work with different elements from different languages;
 
@@ -3770,7 +3597,7 @@ Can deduce the message of a text by exploiting what they have understood from te
 
 Can deduce the message of a text in German by exploiting what they have understood from texts on the same theme in French and English (e.g. news in brief, museum brochures, online reviews).
 
-<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=126 -->
+<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=context pages=126-127 -->
 ### Plurilingual comprehension | scale_plurilingual_comprehension
 
 | | Plurilingual comprehension |
@@ -3779,18 +3606,12 @@ Can deduce the message of a text in German by exploiting what they have understo
 | C1 | No descriptors available, see B2 |
 | B2 | Can use their knowledge of contrasting genre conventions and textual patterns in languages in their plurilingual repertoire in order to support comprehension. |
 | B1 | Can use what they have understood in one language to understand the topic and main message of a text in another language (e.g. when reading short newspaper articles in different languages on the same theme). Can use parallel translations of texts (e.g. magazine articles, stories, passages from novels) to develop comprehension in different languages. Can deduce the message of a text by exploiting what they have understood from texts on the same theme in different languages (e.g. news in brief, museum brochures, online reviews). Can extract information from documents in different languages in their field (e.g. to include in a presentation). Can recognise similarities and contrasts between the way concepts are expressed in different languages, in order to distinguish between identical uses of the same word/sign and “false friends”. Can use their knowledge of contrasting grammatical structures and functional expressions of languages in their plurilingual repertoire in order to support comprehension. |
-
-<!-- page:126 -->
-*Page 126 3 CEFR – Companion volume*
-
-<!-- db:id=scale_plurilingual_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=126 -->
-### Plurilingual comprehension | scale_plurilingual_comprehension
-
-| | Plurilingual comprehension |
-| --- | --- |
 | A2 | Can understand short, clearly articulated announcements by piecing together what they understand from the available versions in different languages. Can understand short, clearly expressed messages and instructions by piecing together what they understand from the versions in different languages. Can use simple warnings, instructions and product information given in parallel in different languages to find relevant information. |
 | A1 | Can recognise internationalisms and words/signs common to different languages (e.g. haus/hus/house) to: - deduce the meaning of simple signs and notices; - identify the probable message of a short, simple text; - follow in outline short, simple social exchanges conducted very slowly and clearly in their presence; - deduce what people are trying to say directly to them, provided the articulation is very slow and clear, with repetition if necessary. |
 | Pre-A1 | No descriptors available |
+
+<!-- page:126 -->
+*Page 126 3 CEFR – Companion volume*
 
 Building on plurilingual repertoire In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
 
@@ -3842,28 +3663,6 @@ THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: COMMUNICATIVE LANGUAGE COMPETENCES
 As stated in the first chapter when discussing the CEFR descriptive scheme, the view of competence in the CEFR does not come solely from applied linguistics but also from applied psychology and sociopolitical approaches.
 
 However, the different competence models developed in applied linguistics from the early 1980s on did influence the CEFR. Although they organised them in different ways, in general these models shared four main aspects: strategic competence; linguistic competence; pragmatic competence (comprising both discourse and functional/actional competence) and sociocultural competence (including sociolinguistic competence). Since strategic competence is dealt with in relation to activities, the CEFR presents descriptor scales for aspects of communicative language competence in CEFR 2001 Section 5.2 under three headings: “Linguistic competence”, “Pragmatic competence” and “Sociolinguistic competence”. These aspects, or parameters of description, are always intertwined in any language use; they are not separate “components” and cannot be isolated from each other.
-<!-- db:id=figure_16_communicative_language_competences type=figure render_as=text_diagram product_tier=context pages=129 -->
-### Figure 16 – Communicative language competences | figure_16_communicative_language_competences
-
-```text
-Communicative language competences
-├── Linguistic competence
-│   ├── General linguistic range
-│   ├── Vocabulary range
-│   ├── Grammatical accuracy
-│   ├── Vocabulary control
-│   ├── Phonological control
-│   └── Orthographic control
-├── Sociolinguistic competence
-│   └── Sociolinguistic appropriateness
-└── Pragmatic competence
-    ├── Flexibility
-    ├── Turntaking
-    ├── Thematic development
-    ├── Coherence and cohesion
-    ├── Propositional precision
-    └── Fluency
-```
 
 <!-- page:129 -->
 *Page 129*
@@ -3889,7 +3688,7 @@ Key concepts operationalised in the scale include the following:
 
 to restrict what they want to say.
 
-<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=assessment_action,detailed pages=130 -->
+<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=context pages=130-131 -->
 ### General linguistic range | scale_general_linguistic_range
 
 | | General linguistic range |
@@ -3902,41 +3701,11 @@ to restrict what they want to say.
 | | Has enough language to get by, with sufficient vocabulary to express themselves with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel and current events, but lexical limitations cause repetition and even difficulty with formulation at times. |
 | A2 | Has a repertoire of basic language which enables them to deal with everyday situations with predictable content, though they will generally have to compromise the message and search for words/signs. |
 | | Can produce brief, everyday expressions in order to satisfy simple needs of a concrete type (e.g. personal details, daily routines, wants and needs, requests for information). Can use basic sentence patterns and communicate with memorised phrases, groups of a few words/signs and formulae about themselves and other people, what they do, places, possessions, etc. Has a limited repertoire of short, memorised phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations. |
-
-<!-- page:130 -->
-*Page 130 3 CEFR – Companion volume*
-
-<!-- db:id=scale_general_linguistic_range type=descriptor_scale product_tier=assessment_action,detailed pages=130 -->
-### General linguistic range | scale_general_linguistic_range
-
-| | General linguistic range |
-| --- | --- |
 | A1 | Has a very basic range of simple expressions about personal details and needs of a concrete type. Can use some basic structures in one-clause sentences with some omission or reduction of elements. |
 | Pre-A1 | Can use isolated words/signs and basic expressions in order to give simple information about themselves. |
 
-Vocabulary range This scale concerns the breadth and variety of expressions used. It is generally acquired through reading widely.
-
-Key concepts operationalised in the scale include the following:
-
-- range of settings – from A1 to B2, then unrestricted;
-
-- type of language: from a basic repertoire of words/signs and phrases to a very broad lexical repertoire
-
-including idiomatic expressions and colloquialisms.
-
-Note: Vocabulary range is taken to apply to both reception and production. For sign languages, established and productive vocabulary is implied from A2+ to C2, with established vocabulary at A1 and A2.
-
-| | Vocabulary range |
-| --- | --- |
-| C2 | Has a good command of a very broad lexical repertoire including idiomatic expressions and colloquialisms; shows awareness of connotative levels of meaning. |
-| C1 | Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions; little obvious searching for expressions or avoidance strategies. Can select from several vocabulary options in almost all situations by exploiting synonyms of even words/ signs less commonly encountered. Has a good command of common idiomatic expressions and colloquialisms; can play with words/signs fairly well. Can understand and use appropriately the range of technical vocabulary and idiomatic expressions common to their area of specialisation. |
-| B2 | Can understand and use the main technical terminology of their field, when discussing their area of specialisation with other specialists. |
-| | Has a good range of vocabulary for matters connected to their field and most general topics. Can vary formulation to avoid frequent repetition, but lexical gaps can still cause hesitation and circumlocution. Can produce appropriate collocations of many words/signs in most contexts fairly systematically. Can understand and use much of the specialist vocabulary of their field but has problems with specialist terminology outside it. |
-| B1 | Has a good range of vocabulary related to familiar topics and everyday situations. Has sufficient vocabulary to express themselves with some circumlocutions on most topics pertinent to their everyday life such as family, hobbies and interests, work, travel and current events. |
-| A2 | Has sufficient vocabulary to conduct routine everyday transactions involving familiar situations and topics. |
-| | Has sufficient vocabulary for the expression of basic communicative needs. Has sufficient vocabulary for coping with simple survival needs. |
-| A1 | Has a basic vocabulary repertoire of words/signs and phrases related to particular concrete situations. |
-| Pre-A1 | No descriptors available |
+<!-- page:130 -->
+*Page 130 3 CEFR – Companion volume*
 
 <!-- page:131 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 131*
@@ -3976,10 +3745,62 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 <!-- page:132 -->
 *Page 132 3 CEFR – Companion volume*
 
+Phonological control The 2001 scale has been replaced in this publication. The description of phonology in CEFR 2001 Section 5.2.1.4 is clear, thorough and sufficiently broad to encompass more recent reflections on aspects of phonology in second/foreign language education. However, the 2001 scale did not capture this conceptual apparatus and the progression appeared unrealistic, particularly in moving from B1 (“Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur”) to B2 (“Has a clear, natural, pronunciation and intonation”). In fact, the phonology scale was the least successful of those calibrated in the original research behind the descriptors published in 2001.
+
+In language teaching, the phonological control of an idealised native speaker has traditionally been seen as the target, with accent being seen as a marker of poor phonological control. The focus on accent and on accuracy instead of on intelligibility has been detrimental to the development of the teaching of pronunciation. Idealised models that ignore the retention of accent lack consideration for context, sociolinguistic aspects and learners’ needs. The 2001 scale seemed to reinforce such views and for this reason, the scale was redeveloped from scratch.
+
+A process report45 on the sub-project is available on the CEFR website. From an extensive review of the literature and consultation with experts, the following core areas were identified to inform work on descriptor production:
+
+- articulation, including pronunciation of sounds/phonemes;
+
+- prosody, including intonation, rhythm and stress – both word stress and sentence stress – and speech
+
+rate/chunking;
+
+- accentedness, accent and deviation from a “norm”;
+
+- intelligibility, accessibility of meaning for interlocutors, covering also the interlocutors’ perceived difficulty
+
+in understanding (normally referred to as “comprehensibility”).
+
+However, because of a certain overlapping between sub-categories the scale operationalises the above-mentioned concepts into three categories:
+
+- overall phonological control (replacing the existing scale);
+
+- sound articulation;
+
+- prosodic features (intonation, stress and rhythm).
+
+Intelligibility has been a key factor in discriminating between levels. The focus is on how much effort is required from the interlocutor to decode the speaker’s message. Descriptors from the two more detailed scales are summarised in more global statements, and explicit mention of accent has been used at all levels. Key concepts operationalised in the scale include the following:
+
+- intelligibility: how much effort is required from the interlocutor to decode the speaker’s message;
+
+- the extent of influence from other languages spoken;
+
+- control of sounds;
+
+- control of prosodic features.
+
+The focus is on familiarity and confidence with the target language sounds (the range of sounds a speaker can articulate and with what degree of precision). The key concept operationalised in the scale is the degree of clarity and precision in the articulation of sounds.
+
+The focus is on the ability to effectively use prosodic features to convey meaning in an increasingly precise manner. Key concepts operationalised in the scale include the following:
+
+- control of stress, intonation and/or rhythm;
+
+- ability to exploit and/or vary stress and intonation to highlight their particular message.
+
+45.	 Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https:// rm.coe.int/168073fff9.
+
+The CEFR Illustrative Descriptor Scales: Communicative language competences
+<!-- Page 133 -->
+
 45.	 Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https:// rm.coe.int/168073fff9.
 
 <!-- page:133 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 133*
+
+<!-- db:id=scale_phonological_control type=descriptor_scale product_tier=context pages=134-135 -->
+### Phonological control | scale_phonological_control
 
 | | 2624 |
 | --- | --- |
@@ -4017,9 +3838,6 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 | understanding | of |
 | influenced | by |
 
-<!-- page:134 -->
-*Page 134 3 CEFR – Companion volume*
-
 | Phonological | control |
 | --- | --- |
 | Overall | phonological |
@@ -4046,6 +3864,9 @@ Grammatical accuracy This scale concerns both the user/learner’s ability to re
 | | «sa2Uajaduo> |
 | | a0e4 |
 | | SEL |
+
+<!-- page:134 -->
+*Page 134 3 CEFR – Companion volume*
 
 <!-- page:135 -->
 *The CEFR Illustrative Descriptor Scales: Communicative language competences Page 135*
@@ -4270,35 +4091,15 @@ A few of the descriptors calibrated for signing competences are of a more global
 <!-- page:143 -->
 *Page 143*
 
-<!-- db:id=figure_17_signing_competences type=figure render_as=text_diagram product_tier=context pages=144 -->
-### Figure 17 – Signing competences | figure_17_signing_competences
-
-```text
-Signing competences
-├── Linguistic
-│   ├── Sign language repertoire (receptive/productive)
-│   └── Diagrammatical accuracy (receptive/productive)
-├── Sociolinguistic
-│   └── Sociolinguistic appropriateness and cultural repertoire (receptive/productive)
-└── Pragmatic
-    ├── Sign text structure (receptive/productive)
-    ├── Setting and perspectives (receptive/productive)
-    ├── Language awareness and interpretation (receptive)
-    ├── Presence and effect (productive)
-    ├── Processing speed (receptive)
-    └── Signing fluency (productive)
-```
-
 ### 6.1. LINGUISTIC COMPETENCE
 
-Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect These two scales incorporate language resources that are accessed in both sign language comprehension and production, for example in the combination of non-manual features with classifier handshapes to indicate reference and possibly hand motion and orientation to express other aspects of the intended meaning.
+Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary.
+
+Sign language repertoire These two scales incorporate language resources that are accessed in both sign language comprehension and production, for example in the combination of non-manual features with classifier handshapes to indicate reference and possibly hand motion and orientation to express other aspects of the intended meaning.
 
 Sign languages draw extensively on productive sign formation. As for spoken languages, the sign language lexicon consists of two sets of entries: established lexical items and productive elements used in the formation of (new) signs or forms respectively. Established signs have a fixed citation form, which is typically cited in dictionaries of sign languages. Elements of the productive lexicon combine in productive relationships between a narrow set of handshapes that operate in signing space to generate new, dynamic descriptions of events. The threedimensional spatial nature of many expressions allows for variable, yet precise formulations. Learners progress in the use of these competences according to the multifaceted needs of expression by acquiring combinatory restrictions as well as principles for stylistic/aesthetic purposes.
 
 Because of the high proportion of productive elements in sign languages, reception demands a high degree of processing of the simultaneously provided morpho-phonological and morpho-syntactic sub-structures, as well as bearing in mind the given contexts for spatial reference. In short, productive sign creation combines meaning-bearing elements that, in the respective combinations, cannot be found in the sign language lexicon, and comprehension demands a re-analysis of such signs. To meet particular communication needs – which encompass more than just a global understanding of what a message is about – learners have to reapply grammatical rules for productive signing, reapply combinatory restrictions, keep track of spatial assignments, and consider the applicability of principles for stylistic-aesthetic purposes. Such sign language comprehension
-
-<!-- page:144 -->
-*Page 144 3 CEFR – Companion volume*
 
 <!-- page:144 -->
 *Page 144 3 CEFR – Companion volume*
@@ -4327,7 +4128,7 @@ interpret or produce metaphors or irony;
 <!-- page:145 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 145*
 
-<!-- db:id=scale_sign_language_repertoire type=descriptor_scale product_tier=assessment_action,detailed pages=146-147 -->
+<!-- db:id=scale_sign_language_repertoire type=descriptor_scale product_tier=context pages=146-148 -->
 ### Sign language repertoire | scale_sign_language_repertoire
 
 | & | F |
@@ -4416,14 +4217,6 @@ interpret or produce metaphors or irony;
 | Can | signing |
 | | LL |
 
-46.	 This is also known as “body partitioning”. ideas or opinions in them. persons and institutions. sentence. about. B2 C1 C2
-
-<!-- page:146 -->
-*Page 146 3 CEFR – Companion volume*
-
-<!-- page:147 -->
-*The CEFR Illustrative Descriptor Scales: Signing competences Page 147*
-
 | | \| |
 | --- | --- |
 | a6ed | \| |
@@ -4451,6 +4244,14 @@ interpret or produce metaphors or irony;
 | | signs. |
 | Can | recognise |
 | | rejection). |
+
+46.	 This is also known as “body partitioning”. ideas or opinions in them. persons and institutions. sentence. about. B2 C1 C2
+
+<!-- page:146 -->
+*Page 146 3 CEFR – Companion volume*
+
+<!-- page:147 -->
+*The CEFR Illustrative Descriptor Scales: Signing competences Page 147*
 
 <!-- page:148 -->
 *Page 148 3 CEFR – Companion volume*
@@ -4492,6 +4293,9 @@ classifier constructions, etc.);
 <!-- page:149 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 149*
 
+<!-- db:id=scale_diagrammatical_accuracy type=descriptor_scale product_tier=context pages=150-152 -->
+### Diagrammatical accuracy | scale_diagrammatical_accuracy
+
 | | 26e4 |
 | --- | --- |
 | «OSL | jagrammatical |
@@ -4531,93 +4335,90 @@ classifier constructions, etc.);
 | Can | exploit |
 | to | highlight |
 
+| jagrammatical | accuracy |
+| --- | --- |
+| Can | infer |
+| Can | understand |
+| Can | express |
+| | two |
+| Can | link |
+| Can | indicate |
+| question | and |
+| Can | establish |
+| Can | focus |
+| locate | on |
+| an | event |
+| Can | make |
+| use | of |
+| | PUL |
+| | HII |
+| Can | correctly |
+| BAReASNIII | understand |
+| Can | statements |
+| Can | use |
+| questions, | or |
+| 103dU>s9q | Can |
+| Can | correctly |
+| properly | introduced |
+| Can | identify |
+| :s9]e25 | of |
+| speed | of |
+| Can | employ |
+| Bulubls | Can |
+| moving, | number |
+| <senuayeduio> | Can |
+| Can | referencing |
+| (e.g. | support |
+| distant | to |
+| a5e4 | Can |
+| | LSL |
+
+| | <ZSLa6ed |
+| --- | --- |
+| jagrammatical | accuracy |
+| | WII |
+| - | Can |
+| | uoJueduioy |
+| Can | understand |
+| consequence | (<then>) |
+| | ‘auinjon |
+| Can | understand |
+| | expressed. |
+| Can | understand |
+| out | by |
+| Can | identify |
+| (statements, | questions, |
+| Can | use |
+| Can | correctly |
+| are | clearly |
+| Can | correctly |
+| Can | lists |
+| Can | understand |
+| stuck | in |
+| Can | recognise |
+| Can | understand |
+| distinguish | between |
+| Can | ways |
+| Can | understand |
+| | accordingly. |
+| Can | construct |
+| Can | identify |
+| the | objects. |
+| Can | understand |
+| numbers | by |
+| or | Can |
+| Can | understand |
+| <3-years-ago>, | etc.), |
+| Can | understand |
+| them | down |
+
 <!-- page:150 -->
 *Page 150 3 CEFR – Companion volume*
 
 ---
 
-| | 151 |
-| --- | --- |
-| | Page |
-| -(Gujyyawos | 10) |
-| “(ew | competences |
-| pasoddo | YsiInbursip |
-| aye | Jey} |
-| saunjeay | jenuewW-UOU |
-| -epeds | BuluB\|s |
-| +(skep | ‘Bulnow |
-| suosiad | “6'a) |
-| jo | Jaquinu |
-| “Bujueat | AaAuod |
-| *(Sdayissepp | JO |
-| vadeys | e |
-| “(smoagaa | ‘>1uuIU |
-| saddn | ‘6'a) |
-| uaaq | aney |
-| -(sanneiadu | ‘suonsanb |
-| -aidoad | 10 |
-| Ajsnoinaud | 07 |
-| “(<""" | 0} |
-| “sunouoid | ym |
-| Buluasaya | 4a}e] |
-| | The |
-| “uawanow | puey |
-| yBno1yy | ‘6:9 |
-| JUasaid | ‘ysed |
-| [esOdUUa} | “@W\|} |
-| 0} | JapsO |
-| “asay} | asnai |
-| | uoRsanb |
-| asned | qyBI\s |
-| ay} | UBamjaq |
-| *<ayldsap> | pue |
-| “(< ** | 0] |
-| “smosgaka | “su6)s |
-| ayy | isn{ |
-| Adeand>e | jereuuesbeig |
-
 <!-- page:151 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 151*
-
-| “way} | sa2e\|d |
-| --- | --- |
-| skej/syas | saub\|s |
-| “paye!pul | AjJea]9 |
-| ‘<Appiaysak-a1ojaq-Aop>) | S10ye>\|pul |
-| +(sbulueaw | <uay) |
-| uaquunu | e |
-| Aq | jeinjd |
-| “suBs | [e>1xa] |
-| “su6is | annonpod |
-| ue | Jo |
-| “susayyed | AOS |
-| *Ajy28.409 | sunouoid |
-| asn | ueD |
-| ‘uoneBau | Bulssaidxa |
-| “(28 | ‘uo>afa1 |
-| “sedeyspuey | asiuBo2a1 |
-| pay!pow | pueysiapun |
-| “saduaquas | ajduuis |
-| -(<snjd““~ | saduanbas |
-| puo> | pue |
-| “sapuaquas | <uay) |
-| ‘paubls | Aeay |
-| “sa0uaqUas | UI |
-| “syuaWaja | JUeLOdUU] |
-| *(s4apio | ‘suojsanb |
-| -(su61s | Bun2idap |
-| “06 | ajdoad |
-| “a | e |
-| palue> | are |
-| -passaidxa | volume |
-| ale | <woy-jualayip> |
-| (<"" | oy) |
-| 4<"* | Jx@u> |
-| “aduepsoduod | Gujuleyujew |
-| *(<uay} | ** |
-| | 152» |
-| Adeand>e | jereuuesbeig |
-| | Page |
 
 <!-- page:152 -->
 *Page 152 3 CEFR – Companion volume*
@@ -4657,117 +4458,114 @@ Key concepts operationalised in the productive scale include the following:
 <!-- page:153 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 153*
 
-<!-- db:id=scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire type=descriptor_scale product_tier=assessment_action,detailed pages=154-155 -->
+<!-- db:id=scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire type=descriptor_scale product_tier=context pages=154-156 -->
 ### Sociolinguistic ssenetairporppa and larutluc repertoire | scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire
 
-| AuJUNOD | UMO |
+| | 26ed |
 | --- | --- |
-| suosiad | ‘sjUaAa |
-| Uy | suoANIASU! |
-| *s]Xa} | U! |
-| “Kem | ayeuidoidde |
-| -(ssaubls | ayy |
-| snjeys | sayBy |
-| ay | UI |
-| paodas | “Buijs |
-| Ja}s!Ha1 | ayeLJdosdde |
-| 4} | WO |
-| “AyuNwWod | yeap |
-| -yx@} | a4) |
-| -UoU | puke |
-| “YW | pueysiapun |
-| “SaIUNWWOD | Jeap |
-| “51a | 51681 |
-| “Aaessarau | Ajyoyjdxa |
-| ujejdxa | II\|Gnd |
-| ue> | pue |
-| “Bunuiod | s\| |
-| Xapul | ayy |
-| Jo} | aUBIs |
-| “(Gulubis | jenuew |
-| JPY} | ssappe |
-| “seWiad | J19Y} |
-| “saduayiadxa | yeap |
-| “sueaw | jenuew |
-| -uou | pue |
-| “Hoya | ynoyyM |
-| Ja}s!6a1 | }depe |
-| *pausadu0 | adualpne |
-| *(sooqe} | ‘snje}s |
-| SUL} | ‘4a}s/621 |
-| ‘sajyoid | ajyoid |
-| DASINBUI] | A10Js |
-| UMO | sayy |
-| *(sya{qns | ooge} |
-| 1D | 205 |
-| eAndaday | 154» |
-| | Page |
+| «HSL | ic |
+| | Receptive |
+| | ¥4ID |
+| - | Can |
+| uoJUeduioy | register, |
+| Can | recognise |
+| profile | and |
+| ‘auinjon | Can |
+| used. | of |
+| Can | recognise |
+| a | an |
+| versa. | Can |
+| Can | judge |
+| text. | manual |
+| Can | infer |
+| from | their |
+| Can | indicate |
+| person | (by |
+| the | signer, |
+| Can | understand |
+| example, | employs |
+| finger | so |
+| Can | deduce |
+| occupation). | a |
+| age, | necessary. |
+| Can | recognise |
+| audience | with |
+| Can | recognise |
+| manual | references |
+| Can | understand |
+| in | community. |
+| Can | attribute |
+| formal | or |
+| Can | assign |
+| manual | features |
+| Can | judge |
+| culturally | appropriate |
+| Can | recognise |
+| Can | draw |
+| their | on |
+| | own |
 
-| UoRdara! | UOHINpoid |
+| ic | appropriateness |
 | --- | --- |
-| -yx9] | 1184) |
-| | Page |
-| | competences» |
-| “(a1ger | ayy |
-| queyodui! | are |
-| “adualpne | ay} |
-| | “Ayjenuew-uou |
-| -uosiad | jeap |
-| “way | awieu |
-| pue | yeap |
-| ‘pury | e |
-| “puewap | Jo |
-| “Buyubls | afa |
-| aj] | Ym |
-| | “saJUNWIWO> |
-| aben6ue\| | ubis |
-| “(uoIsIA | CEFR |
-| JO | Uo] |
-| | The |
-| -(saweu | adejd |
-| ‘ajdoad | umouy-\|jam |
-| uj6y0 | ayy |
-| *Ajayetdosdde | ajdoad |
-| jeap | 0} |
-| “pausaru0d | A1jUNOD |
-| spadse | pue |
-| | ajdoad |
-| “sanss} | eunyn> |
-| i | (@2UeIeadde |
-| 2yqnd | ayy |
-| >11Gnd | “sane\|d |
-| adh} | Bulpsooze |
-| ay} | 0} |
-| | eAndaday |
+| | Receptive |
+| Can | understand |
+| such | as |
+| Can | present |
+| concerned | (e.g. |
+| Can | sensitise |
+| Can, | in |
+| typical | of |
+| Can | judge |
+| type | of |
+| Can | use |
+| of | certain |
+| institutions | and |
+| PUL | Can |
+| HII | vision). |
+| BAReASHIII | Can |
+| | communities. |
+| Can | recognise |
+| 10}d14>S9q | addressing |
+| strangers | are |
+| Can | recognise |
+| tapping | a |
+| :s2]e25 | hearing |
+| Can | recognise |
+| BulUBIs | non-manually. |
+| Can | adapt |
+| Can | recognise |
+| «sa2uayeduso> | etc. |
+| | a0e4 |
+| SSL | 47. |
+| to | a |
+
+| | 26ed |
+| --- | --- |
+| 951 | tic |
+| « | Receptive |
+| | y4a> |
+| - | Can |
+| | uojueduio9 |
+| Can | employ |
+| for | communication |
+| tapping | on |
+| ‘aumnjon | Can |
+| gain | attract |
+| to | eye |
+| Can | maintain |
+| Can | use |
+| Can | give |
+| | mouthings. |
+| Can | give |
+| expressions | and |
+| Can | respond |
+| formulaic | <welcome> |
 
 <!-- page:154 -->
 *Page 154 3 CEFR – Companion volume*
 
 <!-- page:155 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 155*
-
-| | “<nok |
-| --- | --- |
-| Burfjdai | ‘6'a |
-| e | yum |
-| “(@4eys | Jo |
-| Je!pey | Bulsn |
-| | “sBulyynow |
-| pue | saseiyd |
-| un220 | swajqoid |
-| “10YNDO[9JU! | J9Y} |
-| “Gapjnoys | a4} |
-| Buaem | Jo |
-| puey | e |
-| -(6uny6] | uo |
-| ‘puey | JO |
-| Auessadau | 32eU09 |
-| “Ajayeudoudde | uosiad |
-| jeap | e |
-| \dasay | » |
-| | 156 |
-| 9410}4ada4 | je1n}jn> |
-| | Page |
 
 <!-- page:156 -->
 *Page 156 3 CEFR – Companion volume*
@@ -4810,129 +4608,132 @@ text type;
 <!-- page:157 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 157*
 
-| “(squawnfue | Juasayip |
+<!-- db:id=scale_sign_text_erutcurts type=descriptor_scale product_tier=context pages=158-160 -->
+### Sign text erutcurts | scale_sign_text_erutcurts
+
+| | 26e4 |
 | --- | --- |
-| “paanjonays | s} |
-| *Ayje2eway) | sadaid |
-| uo!eWUOU! | Jo |
-| “ples | si |
-| uonewuoyul | Asessa2au |
-| “sajdpuud | Bulpin6 |
-| “UO!}INPO.AU! | BY} |
-| ayeLdosdde | asJuBODa! |
-| “}X9} | e |
-| 2y!Dads | jesaUahH |
-| “sjlejap | 0} |
-| 3x9} | ay |
-| yeusau! | ay} |
-| "yx@} | a4} |
-| @njsayoo | aanonpoud |
-| “hjareuidoidde | -yx9} |
-| uo | ype |
-| | i) |
-| -(yydap | ul |
-| payleyap | Buiai6 |
-| 3x9} | A1oyeue\|dxe |
-| “Aem | ajqisuas |
-| “210 | xajdwod |
-| (uo\|snfpu0> | “evap |
-| ‘uoedyI]dwiaxa | ‘uo}e>yysNf |
-| e | ued, |
-| | Buissiw |
-| Jo | sadA} |
-| 4ajUl | PUR |
-| -(suonesiue6i0 | volume |
-| “uonnquyuos | pue |
-| ajay | dojaaap |
-| “Ajesnewbeid | e240 |
-| pue | Ajjesow |
-| “peaiyy | ‘uayyOue |
-| ajay | Bulso] |
-| CEFR | - |
-| aandaray | » |
-| | 158 |
-| 34n}2N4J3s | 3x9} |
-| | Page |
+| «BSL | ign |
+| | Receptive |
+| | ¥43D |
+| - | to |
+| uoJueduioy | Can |
+| parts | of |
+| Can | distinguish |
+| controvert | text |
+| ‘suinjon | philosophical |
+| Can | identify |
+| | organisations). |
+| Can | identify |
+| missing | parts |
+| | content. |
+| Can | reproduce |
+| Can, | after |
+| watching | a |
+| Can | recognise |
+| their | function |
+| turns). | Can |
+| Can | use |
+| the | content |
+| c1 | Can |
+| examples, | conclusions) |
+| in | a |
+| Can | predict |
+| utterance, | and |
+| Can | adapt |
+| structure | of |
+| Can | construct |
+| message | a |
+| Can | recognise |
+| | of |
+| Can | recognise, |
+| what | opinion |
+| Can | identify |
+| B2+ | text |
+| Can | identify |
+| query. | group |
+| Can | recognise |
+| or | not |
+
+| ign | text |
+| --- | --- |
+| | Receptive |
+| Can | understand |
+| and | then |
+| Can | grasp |
+| Can | recognise |
+| text | and |
+| text | concerned. |
+| Can | assess |
+| Can | recognise |
+| a | text. |
+| Can | appropriate |
+| | create |
+| | text. |
+| Can | highlight |
+| | principles |
+| UL | Can |
+| WAI | details. |
+| Can | employ |
+| | BANEAASNIII |
+| Can | indicate |
+| Can | briefly |
+| | 10yd9s9q |
+| Can | recognise |
+| | an |
+| :s2]e25 | space. |
+| Can | understand |
+| Can | identify |
+| Bulubls | referred |
+| to | text. |
+| Can | understand |
+| <se2uayadwio> | of |
+| Can | recognise |
+| signed | text. |
+| Can | deduce |
+| devices | are |
+| | a6eg |
+| | 6S |
+
+| | a6e4 |
+| --- | --- |
+| «O91 | ign |
+| | Receptive |
+| | ¥43D |
+| - | of |
+| uoJueduioy | Can |
+| comments | on |
+| Can | introduce |
+| ‘auinjon | Can |
+| | importance. |
+| Can | employ |
+| the | topic). |
+| Can | the |
+| use | to |
+| Can | summarise |
+| “who', | what’, |
+| Can | give |
+| Can | conclude |
+| Can | introduce |
+| Can | differentiate |
+| Can | formulate |
+| Can | produce |
+| | of |
+| Can | find |
+| Can | identify |
+| using | buoys |
+| Can | understand |
+| Can | infer |
+| | a |
+| Can | the |
+| grasp | a |
+| Can | recognise |
 
 <!-- page:158 -->
 *Page 158 3 CEFR – Companion volume*
 
-| | 159 |
-| --- | --- |
-| | Page |
-| BulYyyaWos | aduaLadxe |
-| 7X9} | 84} |
-| “wayy | 0} |
-| “yx@} | paubis |
-| ‘ualpea | ples |
-| “Ajas[Duod | pue |
-| +38} | paubls |
-| “way | Oo} |
-| aouasajad | W>!}dxe |
-| are | asayy |
-| “suoldas | 2HeWAYy |
-| ‘daPsO | a/qisuas |
-| Buyubls | Jo |
-| “uo\|sn\|2UO> | pue |
-| | Illustrative |
-| “Auessanau | S\| |
-| “Hoda: | e |
-| “sileqap | 0} |
-| | “syeyap |
-| Bunuasaid | 0} |
-| ‘21d0} | e |
-| ayeLdoidde | “poy |
-| ip | Jo |
-| “sBuiyy | Bulop |
-| ut | Apioiidxa |
-| yayi260} | yy |
-| ad} | paydadxa |
-| Jo | ay} |
-| juauidojanap | 1ea)2 |
-| “AYNIYJIP | INOYIM |
-| “Burxapul | y6noiy) |
-| ‘eds | Bujubls |
-| | aandaray |
-| 34n}2N4J3s | 3x9} |
-
 <!-- page:159 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 159*
-
-| “spuey | padse\|> |
-| --- | --- |
-| s10}dLDSap | sjuiod |
-| 2/QDIIDAD | ON |
-| PauBs | aAI}Ia{qo/UONUAzU! |
-| “UO!INPO.AU! | BY} |
-| -aoeds | Bulubis |
-| -aoeds | Bujubls |
-| Aq | “6'a) |
-| “suolsanb | ,oyM, |
-| ‘uoldDsap | ay} |
-| -soido} | ajduiis |
-| “suonsanb | Jo |
-| “ysl | E |
-| “Ajayenbape | 210} |
-| *(124}260) | spuey) |
-| “suojuido | 41943 |
-| | , |
-| “suonsanb | ,Aym, |
-| (2194, | ,UIYM,, |
-| asino>sip | JeIN>IUWed |
-| “won | ngujuo> |
-| “1do} | ayy |
-| uo | sjuawiwo> |
-| sanueyoduiy | volume |
-| 21do} | sy2adse |
-| 4J24} | JO |
-| "Jua}UO> | JUeAa\|aJ |
-| ‘YAP | \|e>160] |
-| “von | onponut |
-| CEFR | - |
-| aandaray | » |
-| | 160 |
-| 34n}2N4J3s | 3x9} |
-| | Page |
 
 <!-- page:160 -->
 *Page 160 3 CEFR – Companion volume*
@@ -4967,78 +4768,74 @@ Key concepts operationalised in the productive scale include the following:
 <!-- db:id=scale_setting_and_perspectives type=descriptor_scale product_tier=context pages=162-163 -->
 ### Setting and perspectives | scale_setting_and_perspectives
 
-| | JO |
+| | a6ed |
 | --- | --- |
-| ainjsod | Apog |
-| 84} | 10/pue |
-| “sBuljaay | a}e13suOWAp |
-| ‘Ayq\|suayasdusod | uosiad |
-| ‘uonaidap | pue |
-| ayy | Woy |
-| “passaippe | aq |
-| mau | e |
-| aAIIadsiad | a\|duus |
-| ‘UOJEMEU/ASAJaSGO | UR |
-| juediomued | e |
-| “YlYs | ajou |
-| “(Yauulp | Ajjuiey |
-| aJOW | UaaMjaq |
-| 2 | *(GulyyAuana |
-| Jo | anndadsiad |
-| “aanpedsiad | sjuosiad |
-| Aes | Kayy |
-| “payrew | Apeap |
-| Aayy | paplaoid |
-| -apeds | 6ulubIs |
-| (Gums | e) |
-| “squan | Bun2idap |
-| Auuiey | ‘adeospue\| |
-| -uonow | ut |
-| “AYNIYyIP | NOY |
-| “sanqpadsiad | yuaiayip |
-| “2104 | pue |
-| -uoj2e | ue |
-| “sannpadsiad | yuasayip |
-| 6undope | pue |
-| eAndaray | » |
-| | 162 |
-| saanoedsied | pue |
-| | Page |
+| <Z91 | Setting |
+| | Receptive |
+| | ¥43D |
+| - | Can |
+| uoJueduioy | even |
+| Can | follow |
+| Can | easily |
+| | ‘auinjon |
+| Can | memorise |
+| situation) | and |
+| Can | create |
+| Can | fully |
+| relations, | situation), |
+| Can | recognise |
+| in | signing |
+| Can | distinguish |
+| are | clearly |
+| Can | recognise |
+| from | another |
+| Can, | in |
+| participant | in |
+| Can | understand |
+| clearly | and |
+| Can | correctly |
+| Can | present |
+| Can | grasp |
+| topic | or |
+| Can | recognise |
+| perspective | of |
+| Can | present |
+| Can | depict |
+| direction | of |
 
-| | 163 |
+| Setting | and |
 | --- | --- |
-| | Page |
-| ajqojionv | s1oyduosap |
-| “(eueueg | e |
-| uaym | :6'9) |
-| | Signing |
-| -uon2e | payanasuo> |
-| “paquosap | Scales: |
-| Bulag | Dafgo |
-| “(Ajaayradsa, | Ya] |
-| 24} | 0} |
-| Aq | ‘6'a) |
-| | Illustrative |
-| “uonzidap | Buisn |
-| “aaneueU | e |
-| -aoeds | Bulubls |
-| “Big | sdew |
-| 0} | \|jewWs |
-| “heeds | seap! |
-| | jo |
-| “aoeds | BulubIs |
-| ul | ade>spue\| |
-| s}a/qo | ‘suoNdlsap |
-| “payero\| | aye |
-| ‘yayjoue | suo |
-| “ainysod | Apoq |
-| saddn | uy |
-| “payer\|pul | AjJea]> |
-| ‘yaY{O | Yea |
-| “daUURWW | 399109 |
-| ‘Kies | ‘aderspue\| |
-| | eAndaray |
-| saanoedsied | pue |
+| | Receptive |
+| Can | correctly |
+| the | basis |
+| Can | use |
+| subsequent | references |
+| Can | demonstrate |
+| Can | identify |
+| relationships | with |
+| Can, | in |
+| Can | imagine |
+| descriptions | of |
+| Can, | by |
+| PUL | persons |
+| HII | a |
+| Can | create |
+| BAASHIII | Can |
+| expressions | appropriate |
+| Can | refer |
+| | 103d14289q |
+| No | descriptors |
+| contrasting | arguments |
+| left | respectively). |
+| | :sa]e25 |
+| Can | adopt |
+| | described. |
+| BulUBIs | Can |
+| «saruayeduso> | Can |
+| role. | peeling |
+| No | descriptors |
+| | a0ey |
+| | £91 |
 
 <!-- page:162 -->
 *Page 162 3 CEFR – Companion volume*
@@ -5046,9 +4843,7 @@ Key concepts operationalised in the productive scale include the following:
 <!-- page:163 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 163*
 
-### Language awareness and interpretation
-
-This scale includes descriptors for competences that enable a correct interpretation of perceived acts of communication as well as of their functions. These competences allow the identification of the respective functions of texts (convincing, amusing, persuading, affecting, etc.) to establish expectations of a text, to understand and evaluate the presence of the signer, and to distinguish different levels of communication. The competences also include the comprehension and assessment of stylistic means, connotative meanings and conscious prosodic signals.
+Language awareness and interpretation This scale includes descriptors for competences that enable a correct interpretation of perceived acts of communication as well as of their functions. These competences allow the identification of the respective functions of texts (convincing, amusing, persuading, affecting, etc.) to establish expectations of a text, to understand and evaluate the presence of the signer, and to distinguish different levels of communication. The competences also include the comprehension and assessment of stylistic means, connotative meanings and conscious prosodic signals.
 
 Metalinguistic competences allow for evaluative attributions of specific signs and expressions perceived,for example as an aesthetic contribution or a rhetorical reply. They are applied in the interpretation of a signer’s productions as, for example, in a text making an appeal or request, or in a formal text, and they are applied in reflections on signing.
 
@@ -5078,24 +4873,13 @@ gestures (or not), as elements of constructed action and constructed dialogue;
 
 - correct interpretation of the rhetorical or structural function of pauses, metaphors, irony, etc.
 
-<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=assessment_action,detailed pages=164 -->
+<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=context pages=164-165 -->
 ### Language awareness and interpretation | scale_language_awareness_and_interpretation
 
 | | Language awareness and interpretation |
 | --- | --- |
 | C2 | Can work out the main points of emphasis in sophisticated texts. Can understand aesthetic signing in the context of use, even if they are not familiar with it. Can interpret abstract poetic signs. Can recognise rhetorical and stylistic devices in a signed text and understand their functions (e.g., repetition, rhyme, metaphor, irony). Can understand signing in which the signer combines different stylistic devices simultaneously (e.g., non-dominant hand indicates a context, whereas dominant hand indicates an action from a different perspective, either being combined with non-manual expressions).48 Can recognise a variation in the word order and describe its rhetorical effect (e.g., emphasis). Can recognise when a signer employs the sustained hold of a sign as a prosodic or rhetorical device. |
 | C1 | Can extract key information on an unfamiliar subject from a lengthy signed text. Can decide whether or not a statement made about a text takes account of an implied meaning. Can correctly interpret metalinguistic references within a signed text. Can grasp unknown concepts by exploiting analogies explained in a text Can distinguish between the use of body posture as a means of structuring the text (e.g., to separate arguments for and against) or as a grammatical device (e.g., for relative clauses). Can understand complicated emotional states that the signer expresses non-manually and by constructed action. Can identify and outline content which is expressed in creative images. Can explain creative language games in which the signer uses, e.g. the handshape, as an aesthetic element. |
-
-48.	 This is an instance of “body partitioning”.
-
-<!-- page:164 -->
-*Page 164 3 CEFR – Companion volume*
-
-<!-- db:id=scale_language_awareness_and_interpretation type=descriptor_scale product_tier=assessment_action,detailed pages=164 -->
-### Language awareness and interpretation | scale_language_awareness_and_interpretation
-
-| | Language awareness and interpretation |
-| --- | --- |
 | B2 | Can understand conveyed information that is implied, but not explicitly stated in a text (e.g., he went skiing, and I’ll visit him in hospital). Can follow the main points of a text even when the signer also makes digressions. Can recognise whether a signer is delivering a complex text in a relaxed or a tense way. Can recognise whether the signer produces a text in a specific rhythm and describe the effect of various rhythms. Can give reasons why the signer inserts pauses in a text, e.g., because they make sense as a structural element or because the signer has to reflect. Can understand who has what opinion and how these opinions relate to each other. Can recognise when a signer’s personal experiences influence the argumentation and when they do not. |
 | | Can determine whether the signing style used is in keeping with the content. Can decide on the basis of the interlocutor’s signs and non-manual cues how certain the signer is about what they are saying (e.g., <undecided> / <uncertain> / <probable>). Can distinguish productive signs with classifier constructions from imitative, iconic signs. Can follow the signs made by an interlocutor even when less use is made of non-manual means. Can describe the effect that the sign speed of a text has on them. Can judge whether a person presents themselves in a way that is in keeping with the context and the type of text concerned (clothing, aura, well-groomed appearance). Can deduce the meaning of unfamiliar signs using comparisons and analogies. |
 | B1 | Can understand the sequence of events from the sequence of statements made. Can understand simple “for” and “against” arguments on a particular issue. Can understand what advantages and disadvantages a text mentions on a subject. Can understand the key aspects of conclusions. Can recognise and correctly interpret important elements on the basis of non-manual components used for emphasis (e.g., facial expression, size of movement). Can infer from the classifiers used what general term is being talked about (e.g., “murder” from the handling of a murder weapon). Can distinguish between important and unimportant content in a text. |
@@ -5104,12 +4888,15 @@ gestures (or not), as elements of constructed action and constructed dialogue;
 | | Can recognise whether or not they are addressed as the recipient. Can understand the main points of signed texts on everyday topics Can grasp and indicate the differences between things. Can identify identical references even if these are expressed in different linguistic ways, e.g., by a lexical sign or by constructed action. Can recognise unfamiliar signs in the continuous flow and ask what they mean. |
 | A1 | Can distinguish between positive and negative attitudes on the basis of non-manual cues (e.g., eyebrows together v. high eyebrows). Can understand the direct acceptance or rejection of requests/demands. |
 
+48.	 This is an instance of “body partitioning”.
+
+<!-- page:164 -->
+*Page 164 3 CEFR – Companion volume*
+
 <!-- page:165 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 165*
 
-### Presence and effect
-
-The extent of the effect on addressees of one’s signing (perlocutionary effects of convincing, amusing, persuading, affecting, etc.) and the specific signs at the user/learner’s disposal are the main focus of this scale. There is a focus on the vocabulary and range of structures, including both manual and non-manual elements, and the way the user can exploit them stylistically in order to produce a catchy text. Whether the user wants to demonstrate sophistication, boast or explain, the signer must be aware of their presence.
+Presence and effect The extent of the effect on addressees of one’s signing (perlocutionary effects of convincing, amusing, persuading, affecting, etc.) and the specific signs at the user/learner’s disposal are the main focus of this scale. There is a focus on the vocabulary and range of structures, including both manual and non-manual elements, and the way the user can exploit them stylistically in order to produce a catchy text. Whether the user wants to demonstrate sophistication, boast or explain, the signer must be aware of their presence.
 
 This includes different ways of presenting a signed statement, such as variation in tempo and style. In contrast to a written text, the author remains visible in sign texts: videoed texts in a sign language are not typically detached from their authors, and neither are the conveyed meanings. Producing a formal sign text, for example, requires an appropriate formal appearance on the part of the signer. Therefore, there is an additional competence in producing signed texts, namely the “competence of appearance” that must be learnt and that includes various aspects of how to successfully produce an appropriate sign text for specific purposes.
 
@@ -5129,7 +4916,7 @@ and effective;
 
 - behaviour and appearance of the signer (taking account of the visible environment, accessories, etc.).
 
-<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=assessment_action,detailed pages=166 -->
+<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=context pages=166-167 -->
 ### Presence and effect | scale_presence_and_effect
 
 | | Presence and effect |
@@ -5139,49 +4926,13 @@ and effective;
 | B2 | Can contribute unconventional and original reflections on the topic concerned in a linguistically skilful manner. Can express their imagination and concepts creatively. Can choose from a broad variety of non-manual means to build up suspense and excitement. Can cause an audience to experience strong emotions (e.g. laughing, crying). |
 | | Can describe an event in an exciting way. Can express complicated emotional states through constructed action and gesture. Can make relevant comparisons that help the recipient better grasp the information concerned. Can stimulate/awaken curiosity on the part of the recipient with regard to the ending to a text. |
 | B1+ | Can convey a new point of view in a way that makes the recipients think. Can express the feelings of a person who is close to them. Can use body language and facial expression to convey meaning. Can emphasise what is important by using non-manual means and the extent of movements. |
-
-<!-- page:166 -->
-*Page 166 3 CEFR – Companion volume*
-
-<!-- db:id=scale_presence_and_effect type=descriptor_scale product_tier=assessment_action,detailed pages=166 -->
-### Presence and effect | scale_presence_and_effect
-
-| | Presence and effect |
-| --- | --- |
 | B1 | Can hold the attention of the recipients by employing various means (e.g. rhetorical questions). Can tell a story in a credible way. Can express personal traits of a character. |
 | A2 | Can present themselves in a polite and appropriate way. Can state facts in a neutral manner, excluding emotional affectedness. Can convey and stimulate feelings (e.g. joy, sadness). |
 | | Can convey emotions through facial expression. Can employ depiction appropriately to express negative and positive feelings (e.g. eyebrows together: negative; eyebrows raised: positive). |
 | A1 | Can position themselves so that the signing is easily visible to the recipients. Can express emotional states through depiction only (without the need for lexical signs). |
 
-Processing speed This scale includes competences that describe the ease or effort in comprehending a sign language. The processing speed may depend on familiar versus unfamiliar signs, on the degree of grammatical complexity or on the familiarity with fingerspelling, to give examples. The scale therefore captures how different competences of other scales can be used, how automatised competences already are and how many resources must be allocated in interpretation or are available for further processing of messages. The individual’s experience of challenging communication, depending on the language used, relates to this. Processing speed indicates the level of training of a recipient and how well they can grasp and understand conveyed information.
-
-Key concepts operationalised in the scale include the following:
-
-- strain of comprehending texts and expressions of differing length, explicitness and complexity;
-
-- ability to assess the signing speed, regularity and rhythm of others and to monitor oneself;
-
-- ability to capture actions that are produced with different articulators simultaneously;
-
-- ability to follow actions with several characters and complex settings;
-
-- ability to follow messages or texts even if the transitions between the different parts of the text are
-
-smoothly signed;
-
-- ability to understand fluently produced fingerspelling;
-
-- ability to follow the content despite assimilations, interruptions, gaps, pauses, production errors or unclear
-
-signing.
-
-<!-- db:id=scale_processing_speed type=descriptor_scale product_tier=assessment_action,detailed pages=168 -->
-### Processing speed | scale_processing_speed
-
-| | Processing speed |
-| --- | --- |
-| C2 | Can follow texts that are enacted in parallel (e.g., with two signers). Can keep track of who is to take the next turn when several signers are involved, for example, in a panel discussion, by monitoring requests for a turn. Can list the various aspects mentioned in a text even if the signer mentions them quickly one after the other. Can easily understand fluently fingerspelled signs, even if they do not see every letter but perhaps only ergonomic word shapes. |
-| C1 | Can follow a long fluidly signed text. Can follow complicated reports without difficulty. Can easily understand complex actions and relationships between objects/persons/places that are described using various classifier constructions. Can follow how people react to one another’s communication behaviour even when several signers are involved, for example in a panel discussion. Can understand a signed text even if the signer uses only one hand. Can follow a text even when it contains several unknown signs. Can understand a text even when certain signs or sentences are incomplete or not visible. Can spot signing errors and correct them for themselves without query. |
+<!-- page:166 -->
+*Page 166 3 CEFR – Companion volume*
 
 <!-- page:167 -->
 *The CEFR Illustrative Descriptor Scales: Signing competences Page 167*
@@ -5284,53 +5035,59 @@ The Common Reference Levels can be presented and exploited in a number of differ
 
 The Common Reference Levels are summarised in the following table:
 
-| | e |
+| Level | C2 |
 | --- | --- |
-| 0} | soy |
-| S\| | puewwod |
-| papuayu! | jo |
-| ydaads | jo |
-| ‘syewoy | [210 |
-| sapeys | poob |
-| SI | ay} |
-| Jey | e |
-| sayidA} | Jauy |
-| “e2Ua}adWOD | WOY |
-| A8uod, | as1uB0>a1 |
-| yey} | Jo |
-| sjara] | JAI |
-| aBenbue] | :apn\|IU! |
-| UO!}eIYIpow | aAI}eJOUUOD |
-| Jayeads-aaljyeu | a>UA/aJ91 |
-| e | 2312} |
-| ay} | aay |
-| ym | payo\|dxe |
-| asea | payesq\|\|e> |
-| jo | Jo |
-| Jed | abued |
-| pue | Ajuany |
-| JO | S10}dIJ9saq |
-| ssauayeldoudde | pajyuasaid |
-| Jayeads-anlyeU | UI |
-| e | ‘ADeINDIe |
-| A\|YyJOOUS | paxy |
-| ‘ssaUsea\| | SUUS!\|eINboO\|\|O> |
-| aq | Jo |
-| UeD | e |
-| AjduU! | ‘uolsidadd |
-| \|NJssarons | Os |
-| AYINDYJIP | e |
-| 0} | puke |
-| papuazU! | Jo |
-| aasHap | A\|YyBly |
-| ‘Hulsn | PuNoJe |
-| | [!2}aP |
-| JOU | ay} |
-| | Aq |
-| SI | avey |
-| Z>D | asiay2e4ey> |
-| [aAF] | OYM |
-| ay, | ay]. |
+| characterise | the |
+| who | have |
+| precisely | by |
+| idiomatic | expressions |
+| a | awareness |
+| restructure | around |
+| The | Common |
+| can | a |
+| degrees | of |
+| tool | for |
+| The | Common |
+| Can | understand |
+| written | sources, |
+| 5 | C2 |
+| a | even |
+| | s |
+| s | € |
+| | cl |
+| . | é |
+| express | themselves |
+| a | Can |
+| produce | clear, |
+| organisational | patterns, |
+| Can | understand |
+| technical | discussions |
+| spontaneity | that |
+| 5 | -B2 |
+| g | s |
+| 2 | c |
+| 3s | Cy |
+| e | Fy |
+| a | of |
+| ss | a |
+| £ | encountered |
+| B1 | travelling |
+| which | are |
+| ambitions | and |
+| Can | understand |
+| relevance | (e.g. |
+| A2 | employment). |
+| exchange | of |
+| a | their |
+| | s |
+| | 2 |
+| rf | LJ |
+| a | Can |
+| satisfaction | of |
+| Al | answer |
+| things | they |
+| and | is |
+| Salient | features |
 
 <!-- page:175 -->
 *Salient features of the CEFR levels Page 175*
@@ -9736,27 +9493,6 @@ Though not fully comprehensive, the project brings together a representative sel
 In addition, the extended illustrative descriptors were included in the document for educators to consider for relevance to young learner programmes. Guidance judgments were added as to the proposed relevance of each of the extended CEFR illustrative descriptors to each of the two age groups. These judgments were also ratified by the Sounding Board through peer review, and in a separate consultative workshop.
 
 The descriptors51 are presented in two documents, one for each age group. The documents have an identical structure, presenting the descriptors by level, starting with Pre-A1, and filtering out non-relevant CEFR illustrative descriptors that have been evaluated as clearly beyond the typical cognitive, social or experiential capacity of the age group (mainly at the higher levels). The documents thus show what CEFR descriptor the young learner descriptor is related to along with an indication of the relevance of a CEFR descriptor to the age group if no young learner descriptor examples are yet available. Additionally, an archive document retains all the mapped descriptors together for both age groups, organised by scale.
-<!-- db:id=figure_18_young_learner_project_design type=figure render_as=mermaid product_tier=context pages=244 -->
-### Figure 18 – Development design of Young Learner Project | figure_18_young_learner_project_design
-
-```mermaid
-flowchart TD
-    PW[Preparatory work] --> IC[Initial collation of validated ELP and assessment descriptors]
-    IC --> CS[Categorisation of sources]
-    CS --> EC1[Expert consultation]
-    PW --> DEV[Development]
-    DEV --> JC[Judgement of correspondences to 2001 illustrative descriptors]
-    JC --> SCR[Steering committee review of collation format]
-    SCR --> AD[Addition of extended set descriptors with judgements of relevance]
-    DEV --> QV[Qualitative validation]
-    QV --> EC2[Expert consultation - peer review]
-    EC2 --> RW[Rework / expert workshop]
-    QV --> SRD[Separate reference documents for each age group]
-    SRD --> FU[Final updates]
-    QV --> FIN[Finalisation]
-    FIN --> FU
-    FU --> OUT[A new collation of descriptors for young learners]
-```
 
 51.	 Bank of supplementary descriptors, www.coe.int/en/web/common-european-framework-reference-languages/bank-ofsupplementary-descriptors.
 
@@ -9884,41 +9620,6 @@ FURTHER VALIDATION OF PLURILINGUAL AND PLURICULTURAL COMPETENCE Finally, an extr
 <!-- page:248 -->
 *Page 248 3 CEFR – Companion volume*
 
-<!-- db:id=figure_19_multimethod_research_design type=figure render_as=mermaid product_tier=context pages=249 -->
-### Figure 19 – Multimethod developmental research design | figure_19_multimethod_research_design
-
-```mermaid
-flowchart TB
-    subgraph prep [Preparatory work]
-        IC[Initial collection]
-        CM[Consultative meeting]
-        RV1[Revision]
-        EM[Expert meeting]
-    end
-    subgraph dev [Development]
-        MED[Mediation track]
-        PLU[Plurilingual track]
-        PHO[Phonology track]
-    end
-    subgraph qual [Qualitative validation]
-        WS1[Workshops - 140 workshops, 999 participants]
-        RV2[Revision - 60 descriptors dropped]
-        OS1[Online survey - 250 responses]
-    end
-    subgraph quant [Quantitative validation]
-        WS2[Workshops - 189 workshops, 1294 responses]
-        OS2[Online survey - 3503 responses]
-        DA[Data analysis - Rasch scaling and standard-setting]
-    end
-    subgraph consult [Consultation and Piloting]
-        PC[Pre-consultation]
-        FC[Formal consultation]
-        PIL[Piloting]
-        DIS[Dissemination]
-    end
-    prep --> dev --> qual --> quant --> consult
-```
-
 <!-- page:249 -->
 *Development and validation of the extended illustrative descriptors Page 249*
 
@@ -10043,22 +9744,6 @@ Sociolinguistic appropriateness and cultural repertoire (receptive/productive).
 <!-- page:253 -->
 *Development and validation of the extended illustrative descriptors Page 253*
 
-<!-- db:id=figure_20_sign_language_project_phases type=figure render_as=mermaid product_tier=context pages=254 -->
-### Figure 20 – The phases of the sign language project | figure_20_sign_language_project_phases
-
-```mermaid
-flowchart LR
-    PW[Preparatory work] --> IT[Identifying text types]
-    IT --> IE[Identifying experts for text types]
-    IE --> FS[Filming expert signers]
-    DEV[Development] --> FD[Formulating descriptors]
-    FD --> VD[Validating descriptors with signers]
-    VAL[Validating] --> CC[Checking categories]
-    CC --> CAL[Calibrating to CEFR levels]
-    CAL --> OUT[Sign language descriptors]
-    PW --> DEV --> VAL
-```
-
 The final step was calibration to CEFR levels. To create a scale of descriptors, the Rasch Model was used, as in the mediation and phonology projects and the original CEFR descriptor project. However, this time it was videos of the descriptors being signed that provided the data. Videos were provided for this purpose in both Swiss-German Sign Language and International Sign (IS). The latter is a contact lingua franca, used in this case for signers from different European countries who took part. Following a successful trial of the rating scale by the project group, respondents to online surveys were asked to rate the degree of difficulty that a descriptor represented on a 4-point rating scale from 1 (not difficult) to 4 (very difficult).
 
 The entire dataset (N = 223) was checked for cases with very few or no evaluations, which were then removed.
@@ -10069,7 +9754,7 @@ In the European group, N = 37, with all participants evaluating a subset of al
 
 As mentioned above while briefly describing the Rasch Model, descriptors will be more accurately placed at the right level if persons and items for whom the data does not fit the model (because they are improbable) are removed from the data. This step was followed in this project as in the main project.
 
-The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting
+The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting method based on expert judgment was used.58 Identifying Filming expert experts for signers text types Validating descriptors with signers Calibrating to Sign language CEFR levels descriptors
 
 57.	 While small, these values meet the minimum ** a priori ** requirements for 95% confidence intervals on difficulty parameters to within +/− 1 logit: see Linacre J. (1994), “Sample size and item calibration stability”, ** Rasch Measurement Transactions ** Vol. 7, No. 4, p. 328. The Standard Error of Measurement for the sign language descriptors is greater than for the other descriptors, but calibration on the scale is intuitively sensible. In a few cases, descriptors within the margin of error to the next proficiency band have been moved to that adjacent band on the basis of collective expert judgment.
 58.	 The method used was a variant of the “Bookmark Method” explained in “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (Council of Europe 2009).

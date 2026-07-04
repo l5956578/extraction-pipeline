@@ -37,6 +37,8 @@ def apply_figures_to_markdown(md_path: Path) -> dict:
     text = strip_toc_figure_artifacts(text)
     text = re.sub(r"!\[[^\]]*\]\(assets/figures/figure_\d+[^)]+\)\n?", "", text)
     for fid in FIGURE_CONTENT:
+        if re.search(rf"<!-- db:id={re.escape(fid)}[^>]*-->", text):
+            continue
         text = re.sub(
             rf"<!-- db:id={re.escape(fid)}[^>]*-->\s*###[^\n]+\n(?:```[\s\S]*?```\s*)?",
             "",
@@ -59,6 +61,8 @@ def apply_figures_to_markdown(md_path: Path) -> dict:
             if asset:
                 text = inject_png_figure(text, header, fid, asset, page, render_as, bounds)
         elif render_as in ("text_diagram", "mermaid") and fid in FIGURE_CONTENT:
+            if re.search(rf"<!-- db:id={re.escape(fid)}[^>]*-->", text):
+                continue
             block = figure_block(fid)
             text = inject_text_diagram(text, header, block, bounds)
 

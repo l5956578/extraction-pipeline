@@ -1,33 +1,5 @@
 # chunk_03 (pages 51-75)
 
-<!-- db:id=scale_understanding_as_a_member_of_a_live_audience type=descriptor_scale product_tier=assessment_action,detailed pages=50 -->
-### Understanding as a member of a live audience | scale_understanding_as_a_member_of_a_live_audience
-
-|  | Understanding as a member of a live audience |
-| --- | --- |
-| A1 | Can understand in outline very simple information being explained in a predictable situation like a guided tour, provided the delivery is very slow and clear and that there are long pauses from time to time. |
-| Pre-A1 | No descriptors available |
-
-
-Understanding announcements and instructions This scale involves a different type of extremely focused comprehension in which the aim is to catch specific information. The situation is complicated by the fact that the announcement or instructions may well be delivered by a (possibly faulty) public address system, or called out/signed some considerable distance away. Key concepts operationalised in the scale include the following:
-
-- understanding directions and detailed instructions;
-
-- catching the main point of announcements;
-
-- degree of clarity, from slow and clear to normal speed with audio and/or visual distortion.
-
-|  | Understanding announcements and instructions |
-| --- | --- |
-| C2 | No descriptors available; see C1 |
-| C1 | Can extract specific information from poor quality, [audibly and/or visually] distorted public announcements, e.g. in a station or sports stadium, or on an old recording. Can understand complex technical information, such as operating instructions or specifications for familiar products and services. |
-| B2 | Can understand announcements and messages on concrete and abstract topics delivered in standard language or a familiar variety at normal speed. Can understand detailed instructions well enough to be able to follow them successfully. |
-| B1 | Can understand simple technical information, such as operating instructions for everyday equipment. Can follow detailed directions. Can understand public announcements at airports, stations and on planes, buses and trains, provided these are clearly articulated with minimum interference from [auditory/visual] background noise. |
-| A2 | Can understand and follow a series of instructions for familiar everyday activities such as sports, cooking, etc., provided they are delivered slowly and clearly. Can understand straightforward announcements (e.g. of a cinema programme or sports event, that a train has been delayed), provided the delivery is slow and clear. |
-|  | Can catch the main point in short, clear, simple messages and announcements. Can understand simple directions on how to get from X to Y, by foot or public transport. Can understand basic instructions on times, dates and numbers, etc., and on routine tasks and assignments to be carried out. |
-| A1 | Can understand instructions addressed carefully and slowly to them and follow short, simple directions. Can understand when someone tells them slowly and clearly where something is, provided the object is in the immediate environment. Can understand figures, prices and times given slowly and clearly in an announcement by loudspeaker, e.g. at a railway station or in a shop. |
-| Pre-A1 | Can understand short, simple instructions for actions such as “Stop”, “Close the door”, etc., provided they are delivered slowly face-to-face, accompanied by pictures or manual gestures and repeated if necessary. |
-
 <!-- page:51 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 51*
 
@@ -276,46 +248,15 @@ tions and complex instructions on something unfamiliar, possibly outside their a
 <!-- page:60 -->
 *Page 60 3 CEFR –­ Companion volume*
 
-fluency and articulateness of expression in real time, especially when addressing an audience. Ability in this more
-formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It
-involves learning the expectations and conventions of the genre concerned. Production strategies are employed
-to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal
-genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated
-processes in natural language production.
-Figure 12 – Production activities and strategies
-Production activities
-Oral Written
-production production
-Overall oral Overall written
-production production
-Sustained monologue:
-Creative writing
-describing experience
-Sustained monologue:
-Reports and essays
-giving information
-Sustained monologue:
-putting a case
-Public announcements
-Addressing audiences
-3.2.1. Production activities
-3.2.1.1. Oral production
-The categories for oral production are organised in terms of three macro-functions (interpersonal, transactional,
-evaluative), with two more specialised genres: “Addressing audiences” and “Public announcements”. “Sustained
-monologue: describing experience” focuses mainly on descriptions and narratives while “Sustained monologue:
-putting a case (e.g. in a debate)” describes the ability to sustain an argument, which may well be made in a long
-turn in the context of normal conversation and discussion. “Sustained monologue: giving information” is a new
-2018 scale, created by transferring certain descriptors from the scale for “Information exchange” that implied
-monologue rather than dialogue.
-Production
-Production strategies
-Planning
-Compensating
-Monitoring
-and repair
+fluency and articulateness of expression in real time, especially when addressing an audience. Ability in this more formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It involves learning the expectations and conventions of the genre concerned. Production strategies are employed to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated processes in natural language production.
 
-<!-- page:61 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 61*
+#### 3.2.1. Production activities
+
+##### 3.2.1.1. Oral production
+
+The categories for oral production are organised in terms of three macro-functions (interpersonal, transactional, evaluative), with two more specialised genres: “Addressing audiences” and “Public announcements”. “Sustained monologue: describing experience” focuses mainly on descriptions and narratives while “Sustained monologue: putting a case (e.g. in a debate)” describes the ability to sustain an argument, which may well be made in a long turn in the context of normal conversation and discussion. “Sustained monologue: giving information” is a new 2018 scale, created by transferring certain descriptors from the scale for “Information exchange” that implied monologue rather than dialogue.
+
+The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 61
 
 <!-- page:61 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 61*
@@ -666,58 +607,23 @@ This scale covers both (a) the spontaneous realisation that one has made a slip 
 <!-- page:70 -->
 *Page 70 3 CEFR –­ Companion volume*
 
-Figure 13 – Interaction activities and strategies
-Interaction
-activities
-Oral Written
-interaction interaction
-Overall oral Overall written
-interaction interaction
-Understanding
-Correspondence
-an interlocutor
-Notes, messages
-Conversation
-and forms
-Informal discussion
-Formal discussion
-Goal-oriented
-co-operation
-Obtaining goods
-and services
-Information exchange
-Interviewing and
-being interviewed
-Using
-telecommunications
-3.3.1. Interaction activities
-3.3.1.1. Oral interaction
-Oral interaction is understood to include both spoken interaction and live, face-to-face signing. The scales are
-once again organised by the three macro-functions “interpersonal”, “transactional” and “evaluative”, with certain
-specialised genres added on. The scales begin with “Understanding an interlocutor”. “Interlocutor” is a somewhat
-technical term that means the person with whom one is conversing directly in a dialogue. As mentioned before,
-the metaphor behind the scales for oral comprehension is that of a series of concentric circles. Here we are at
-the centre of those circles: the user/learner is actively involved in an interaction with the interlocutor.
-The other scales then follow:
-f interpersonal: “Conversation”;
-f evaluative: “Informal discussion (with friends)”; “Formal discussion (meetings)”, “Goal-oriented collaboration”;
-f transactional: “Information exchange”, “Obtaining goods and services”, “Interviewing and being interviewed”,
-and “Using telecommunications”.
-Interaction
-Interaction
-strategies
-Online
-interaction
-Online conversation
-Turntaking
-and discussion
-Goal-oriented online
-transactions and Co-operating
-collaboration
-Asking for clarification
+#### 3.3.1. Interaction activities
 
-<!-- page:71 -->
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 71*
+##### 3.3.1.1. Oral interaction
+
+Oral interaction is understood to include both spoken interaction and live, face-to-face signing. The scales are once again organised by the three macro-functions “interpersonal”, “transactional” and “evaluative”, with certain specialised genres added on. The scales begin with “Understanding an interlocutor”. “Interlocutor” is a somewhat technical term that means the person with whom one is conversing directly in a dialogue. As mentioned before, the metaphor behind the scales for oral comprehension is that of a series of concentric circles. Here we are at the centre of those circles: the user/learner is actively involved in an interaction with the interlocutor.
+
+The other scales then follow:
+
+- interpersonal: “Conversation”;
+
+- evaluative: “Informal discussion (with friends)”; “Formal discussion (meetings)”, “Goal-oriented collaboration”;
+
+- transactional: “Information exchange”, “Obtaining goods and services”, “Interviewing and being interviewed”,
+
+and “Using telecommunications”.
+
+The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 71
 
 <!-- page:71 -->
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies  Page 71*

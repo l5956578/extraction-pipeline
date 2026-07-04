@@ -29,6 +29,7 @@ from pipeline.id_registry import ArtifactMeta, build_registry, registry_by_page
 from pipeline.page_layout import classify_page_zones, format_page_footer
 from pipeline.toc_layout import extract_toc_page
 from pipeline.span_detector import detect_spans
+from pipeline.figures_catalog import FIGURE_CONTENT, figure_block
 from pipeline.utils import artifact_header, slugify, table_to_markdown
 from pipeline.title_fix import fix_rotated_title
 
@@ -213,6 +214,19 @@ def _extract_element(
     if etype == "figure_page":
         return extract_rich_page(page, page_num) + "\n"
 
+    if etype == "figure":
+        aid = el.get("artifact_id") or ""
+        if aid in FIGURE_CONTENT:
+            return figure_block(aid) + "\n"
+        art = ctx.art_by_id.get(aid)
+        display = fix_rotated_title(
+            el.get("display_title") or (art.display_name if art else aid or "Figure")
+        )
+        tiers = art.product_tiers if art else ["context"]
+        atype = art.artifact_type if art else "figure"
+        header = artifact_header(aid or "unknown", display, atype, tiers, str(page_num))
+        return f"{header}\n"
+
     if etype == "prose":
         if el.get("extractor") == "rich_page":
             return extract_rich_page(page, page_num) + "\n"
@@ -312,4 +326,27 @@ def extract_all_chunks(skip_existing: bool = False) -> list[str]:
 
 
 if __name__ == "__main__":
-    extract_all_chunks()
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Extract markdown for one or all chunks")
+    parser.add_argument(
+        "chunk_id",
+        nargs="?",
+        help="Chunk id to extract (e.g. chunk_01). Omit to extract all chunks.",
+    )
+    parser.add_argument(
+        "--all",
+        action="store_true",
+        help="Extract all chunks (default when chunk_id is omitted)",
+    )
+    parser.add_argument(
+        "--skip-existing",
+        action="store_true",
+        help="Skip chunks whose raw output already exists and is non-trivial",
+    )
+    args = parser.parse_args()
+
+    if args.chunk_id:
+        extract_chunk(args.chunk_id)
+    else:
+        extract_all_chunks(skip_existing=args.skip_existing)
