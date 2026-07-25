@@ -154,7 +154,7 @@ def extract_toc_page(page: fitz.Page, page_num: int) -> str:
     if formatted:
         parts.append("\n".join(formatted))
     if markers:
-        parts.append(f"<!-- page:{page_num} -->\n*{markers[-1]}*")
+        parts.append(f"*{markers[-1]}*\n\n<!-- page:{page_num} -->")
     else:
-        parts.append(f"<!-- page:{page_num} -->")
+        parts.append(f"Page **{page_num}**\n\n<!-- page:{page_num} -->")
     return "\n\n".join(parts)

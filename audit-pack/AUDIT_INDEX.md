@@ -4,6 +4,9 @@
 **Project:** extraction-pipeline  
 **PDF:** 278 pages → single Markdown deliverable
 
+> **Current project status (2026-07+):** see repo root **`../STATUS.md`**.  
+> This audit pack is a **point-in-time snapshot** for external review; some files are superseded.
+
 ## How to use this pack
 
 Read files in numbered order: design → rules → proof → sample output.

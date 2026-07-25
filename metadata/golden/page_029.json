@@ -1,0 +1,13 @@
+{
+  "page": 29,
+  "source": "user debug/log 04.md #3",
+  "must_have": [
+    "A reminder of CEFR 2001 chapters",
+    "2.2. IMPLEMENTING THE ACTION-ORIENTED APPROACH"
+  ],
+  "must_not_have": [],
+  "max_title_count": {
+    "A reminder of CEFR 2001 chapters": 1
+  },
+  "notes": "Callout title once (bold only)"
+}

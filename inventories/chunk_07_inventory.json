@@ -1,10 +1,8 @@
 {
   "chunk_id": "chunk_07",
-  "start_page": 151,
-  "end_page": 175,
+  "start_page": 153,
+  "end_page": 181,
   "expected_page_markers": [
-    151,
-    152,
     153,
     154,
     155,
@@ -27,9 +25,75 @@
     172,
     173,
     174,
-    175
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181
   ],
   "required_artifacts": [
+    {
+      "id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "page": 154,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "page": 155,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "page": 156,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sign_text_structure",
+      "page": 158,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sign_text_structure",
+      "page": 159,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_sign_text_structure",
+      "page": 160,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_setting_and_perspectives",
+      "page": 162,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_setting_and_perspectives",
+      "page": 163,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_language_awareness_and_interpretation",
+      "page": 164,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_language_awareness_and_interpretation",
+      "page": 165,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_presence_and_effect",
+      "page": 166,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_presence_and_effect",
+      "page": 167,
+      "type": "artifact"
+    },
     {
       "id": "scale_processing_speed",
       "page": 168,
@@ -44,6 +108,31 @@
       "id": "scale_proifcient_resu",
       "page": 175,
       "type": "artifact"
+    },
+    {
+      "id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "page": 177,
+      "type": "artifact"
+    },
+    {
+      "id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "page": 178,
+      "type": "artifact"
+    },
+    {
+      "id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "page": 179,
+      "type": "artifact"
+    },
+    {
+      "id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "page": 180,
+      "type": "artifact"
+    },
+    {
+      "id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "page": 181,
+      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -56,6 +145,11 @@
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
+      "table"
     ]
   ],
   "expected_multipage": [
@@ -63,90 +157,6 @@
     "scale_vocabulary_control"
   ],
   "pages": [
-    {
-      "page_number": 151,
-      "content_type": "multi_page_table",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "scale_diagrammatical_accuracy",
-        "span_type": "continuation",
-        "role": "middle",
-        "start_page": 150,
-        "end_page": 152
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 2505,
-      "min_output_chars": 200,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 32,
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "scale_diagrammatical_accuracy",
-            "span_type": "continuation",
-            "role": "middle",
-            "pages": [
-              150,
-              151,
-              152
-            ],
-            "emit_body_on": 150
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 152,
-      "content_type": "multi_page_table",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "scale_diagrammatical_accuracy",
-        "span_type": "continuation",
-        "role": "end",
-        "start_page": 150,
-        "end_page": 152
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 2693,
-      "min_output_chars": 215,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 38,
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "scale_diagrammatical_accuracy",
-            "span_type": "continuation",
-            "role": "end",
-            "pages": [
-              150,
-              151,
-              152
-            ],
-            "emit_body_on": 150
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
     {
       "page_number": 153,
       "content_type": "pure_text",
@@ -181,7 +191,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+        "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
         "span_type": "continuation",
         "role": "start",
         "start_page": 154,
@@ -195,12 +205,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 45,
+      "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "section_title": "Sociolinguistic appropriateness and cultural repertoire",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
-          "display_title": "Sociolinguistic ssenetairporppa and larutluc repertoire",
+          "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+          "display_title": "Sociolinguistic appropriateness and cultural repertoire",
           "y0": 69.87920000000003,
           "y1": 771.2326999999999,
           "bbox": [
@@ -212,8 +228,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+            "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -228,8 +250,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            530.89695,
+            771.2326999999999
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -238,7 +272,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+        "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
         "span_type": "continuation",
         "role": "middle",
         "start_page": 154,
@@ -252,12 +286,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 46,
+      "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "section_title": "Sociolinguistic appropriateness and cultural repertoire",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+            "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
             "span_type": "continuation",
             "role": "middle",
             "pages": [
@@ -280,7 +320,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+        "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
         "span_type": "continuation",
         "role": "end",
         "start_page": 154,
@@ -294,12 +334,18 @@
       "expects_table": false,
       "skip_validation": true,
       "drawings": 25,
+      "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
+      "section_title": "Sociolinguistic appropriateness and cultural repertoire",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+            "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -351,7 +397,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sign_text_erutcurts",
+        "group_id": "scale_sign_text_structure",
         "span_type": "continuation",
         "role": "start",
         "start_page": 158,
@@ -365,12 +411,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 39,
+      "artifact_id": "scale_sign_text_structure",
+      "section_title": "Sign text structure",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sign_text_erutcurts",
-          "display_title": "Sign text erutcurts",
+          "artifact_id": "scale_sign_text_structure",
+          "display_title": "Sign text structure",
           "y0": 69.92919999999998,
           "y1": 771.2327222222222,
           "bbox": [
@@ -382,8 +434,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_sign_text_erutcurts",
+            "group_id": "scale_sign_text_structure",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -398,8 +456,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            69.92919999999998,
+            532.4931499999999,
+            771.2327222222222
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -408,7 +478,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sign_text_erutcurts",
+        "group_id": "scale_sign_text_structure",
         "span_type": "continuation",
         "role": "middle",
         "start_page": 158,
@@ -422,12 +492,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 33,
+      "artifact_id": "scale_sign_text_structure",
+      "section_title": "Sign text structure",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_sign_text_erutcurts",
+            "group_id": "scale_sign_text_structure",
             "span_type": "continuation",
             "role": "middle",
             "pages": [
@@ -450,7 +526,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_sign_text_erutcurts",
+        "group_id": "scale_sign_text_structure",
         "span_type": "continuation",
         "role": "end",
         "start_page": 158,
@@ -464,12 +540,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 45,
+      "artifact_id": "scale_sign_text_structure",
+      "section_title": "Sign text structure",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_sign_text_erutcurts",
+            "group_id": "scale_sign_text_structure",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -533,6 +615,8 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 45,
+      "artifact_id": "scale_setting_and_perspectives",
+      "section_title": "setting and perspectives",
       "reading_order": [
         {
           "type": "artifact",
@@ -550,6 +634,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
             "group_id": "scale_setting_and_perspectives",
             "span_type": "continuation",
@@ -565,8 +655,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            510.58195,
+            771.2326999999999
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -589,6 +691,8 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 52,
+      "artifact_id": "scale_setting_and_perspectives",
+      "section_title": "setting and perspectives",
       "reading_order": [
         {
           "seq": 0,
@@ -630,6 +734,12 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 20,
+      "artifact_id": "scale_language_awareness_and_interpretation",
+      "section_title": "Language awareness and interpretation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -644,7 +754,7 @@
             454.68115
           ],
           "extractor": "prose_zone",
-          "expected_chars": 2163
+          "expected_chars": 2172
         },
         {
           "type": "artifact",
@@ -662,6 +772,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_language_awareness_and_interpretation",
             "span_type": "continuation",
@@ -701,6 +813,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 42,
+      "artifact_id": "scale_language_awareness_and_interpretation",
+      "section_title": "Language awareness and interpretation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -742,6 +860,12 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 33,
+      "artifact_id": "scale_presence_and_effect",
+      "section_title": "Presence and effect",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -756,7 +880,7 @@
             367.416
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1524
+          "expected_chars": 1532
         },
         {
           "type": "artifact",
@@ -774,6 +898,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_presence_and_effect",
             "span_type": "continuation",
@@ -813,6 +939,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 48,
+      "artifact_id": "scale_presence_and_effect",
+      "section_title": "Presence and effect",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -871,6 +1003,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -888,7 +1022,7 @@
             527.2481
           ],
           "extractor": "prose_zone",
-          "expected_chars": 538
+          "expected_chars": 545
         },
         {
           "type": "artifact",
@@ -906,6 +1040,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -953,6 +1089,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1114,7 +1252,7 @@
             206.49615000000003
           ],
           "extractor": "prose_zone",
-          "expected_chars": 820
+          "expected_chars": 823
         },
         {
           "type": "artifact",
@@ -1132,12 +1270,290 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 176,
+      "content_type": "blank",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 0,
+      "min_output_chars": 80,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 0,
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 177,
+      "content_type": "section_block",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+        "span_type": "section_block",
+        "role": "start",
+        "start_page": 177,
+        "end_page": 181
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 2808,
+      "min_output_chars": 224,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "product_tier": [
+        "base"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "artifact",
+          "artifact_type": "section_block",
+          "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+          "display_title": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+          "extractor": "section_block_merge",
+          "rotation": 90,
+          "text_direction": "ocr",
+          "span": {
+            "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+            "span_type": "section_block",
+            "role": "start",
+            "pages": [
+              177,
+              178,
+              179,
+              180,
+              181
+            ],
+            "emit_body_on": 177
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 178,
+      "content_type": "section_block",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+        "span_type": "section_block",
+        "role": "middle",
+        "start_page": 177,
+        "end_page": 181
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 2429,
+      "min_output_chars": 194,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 54,
+      "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "product_tier": [
+        "base"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+            "span_type": "section_block",
+            "role": "middle",
+            "pages": [
+              177,
+              178,
+              179,
+              180,
+              181
+            ],
+            "emit_body_on": 177
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 179,
+      "content_type": "section_block",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+        "span_type": "section_block",
+        "role": "middle",
+        "start_page": 177,
+        "end_page": 181
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 3869,
+      "min_output_chars": 309,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 55,
+      "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "product_tier": [
+        "base"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+            "span_type": "section_block",
+            "role": "middle",
+            "pages": [
+              177,
+              178,
+              179,
+              180,
+              181
+            ],
+            "emit_body_on": 177
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 180,
+      "content_type": "section_block",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+        "span_type": "section_block",
+        "role": "middle",
+        "start_page": 177,
+        "end_page": 181
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 3196,
+      "min_output_chars": 255,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 54,
+      "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "product_tier": [
+        "base"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+            "span_type": "section_block",
+            "role": "middle",
+            "pages": [
+              177,
+              178,
+              179,
+              180,
+              181
+            ],
+            "emit_body_on": 177
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 181,
+      "content_type": "section_block",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+        "span_type": "section_block",
+        "role": "end",
+        "start_page": 177,
+        "end_page": 181
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 2154,
+      "min_output_chars": 172,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 40,
+      "artifact_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+      "product_tier": [
+        "base"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "table_self_assessment_grid_expanded_with_online_interaction_and_mediation",
+            "span_type": "section_block",
+            "role": "end",
+            "pages": [
+              177,
+              178,
+              179,
+              180,
+              181
+            ],
+            "emit_body_on": 177
+          }
+        },
+        {
+          "seq": 1,
           "type": "footer",
           "extractor": "page_footer"
         }

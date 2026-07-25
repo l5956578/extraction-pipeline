@@ -1,0 +1,6 @@
+| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |

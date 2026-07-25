@@ -66,6 +66,11 @@
       "type": "artifact"
     },
     {
+      "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "page": 262,
+      "type": "artifact"
+    },
+    {
       "id": "scale_b2",
       "page": 263,
       "type": "artifact"
@@ -73,6 +78,11 @@
     {
       "id": "scale_amplifying_a_dense_text",
       "page": 264,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_diagrammatical_accuracy",
+      "page": 266,
       "type": "artifact"
     }
   ],
@@ -85,6 +95,11 @@
     [
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
       "table"
     ]
   ],
@@ -146,7 +161,14 @@
       "content_type": "pure_text",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_18_young_learner_project_design",
+          "title": "Figure 18 \u2013 Development design of Young Learner Project",
+          "num": 18,
+          "render_as": "mermaid"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 3728,
       "min_output_chars": 447,
@@ -164,7 +186,17 @@
           "seq": 0,
           "type": "figure_page",
           "extractor": "rich_page",
-          "artifact_id": "figure_18_young_learner_project_design"
+          "artifact_id": "figure_18_young_learner_project_design",
+          "figure_ids": [
+            "figure_18_young_learner_project_design"
+          ],
+          "figures": [
+            {
+              "id": "figure_18_young_learner_project_design",
+              "title": "Figure 18 \u2013 Development design of Young Learner Project",
+              "num": 18
+            }
+          ]
         },
         {
           "seq": 1,
@@ -289,6 +321,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -298,15 +332,15 @@
           "type": "prose",
           "role": "trailing",
           "y0": 345.512,
-          "y1": 813.8900146484375,
+          "y1": 489.6653137207031,
           "bbox": [
             0,
             345.512,
             595.2760009765625,
-            813.8900146484375
+            489.6653137207031
           ],
           "extractor": "prose_zone",
-          "expected_chars": 914
+          "expected_chars": 856
         },
         {
           "seq": 2,
@@ -320,7 +354,14 @@
       "content_type": "pure_text",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_19_multimethod_research_design",
+          "title": "Figure 19 \u2013 Multimethod developmental research design",
+          "num": 19,
+          "render_as": "mermaid"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 131,
       "min_output_chars": 80,
@@ -338,7 +379,17 @@
           "seq": 0,
           "type": "figure_page",
           "extractor": "rich_page",
-          "artifact_id": "figure_19_multimethod_research_design"
+          "artifact_id": "figure_19_multimethod_research_design",
+          "figure_ids": [
+            "figure_19_multimethod_research_design"
+          ],
+          "figures": [
+            {
+              "id": "figure_19_multimethod_research_design",
+              "title": "Figure 19 \u2013 Multimethod developmental research design",
+              "num": 19
+            }
+          ]
         },
         {
           "seq": 1,
@@ -460,7 +511,14 @@
       "content_type": "pure_text",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_20_sign_language_project_phases",
+          "title": "Figure 20 \u2013 The phases of the sign language project",
+          "num": 20,
+          "render_as": "mermaid"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 3618,
       "min_output_chars": 434,
@@ -478,7 +536,17 @@
           "seq": 0,
           "type": "figure_page",
           "extractor": "rich_page",
-          "artifact_id": "figure_20_sign_language_project_phases"
+          "artifact_id": "figure_20_sign_language_project_phases",
+          "figure_ids": [
+            "figure_20_sign_language_project_phases"
+          ],
+          "figures": [
+            {
+              "id": "figure_20_sign_language_project_phases",
+              "title": "Figure 20 \u2013 The phases of the sign language project",
+              "num": 20
+            }
+          ]
         },
         {
           "seq": 1,
@@ -567,7 +635,7 @@
             199.74239999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 59
+          "expected_chars": 67
         },
         {
           "type": "artifact",
@@ -585,6 +653,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -649,7 +719,7 @@
             322.41549999999995
           ],
           "extractor": "prose_zone",
-          "expected_chars": 441
+          "expected_chars": 447
         },
         {
           "type": "artifact",
@@ -667,6 +737,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -713,6 +785,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -733,6 +807,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -750,7 +826,7 @@
             440.5367
           ],
           "extractor": "prose_zone",
-          "expected_chars": 18
+          "expected_chars": 22
         },
         {
           "type": "artifact",
@@ -768,6 +844,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 2
@@ -809,6 +887,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -829,6 +909,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -849,6 +931,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 2
@@ -869,6 +953,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 3
@@ -889,6 +975,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 4,
           "table_index": 4
@@ -913,6 +1001,11 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 107,
+      "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "section_title": "Expressing a personal response to creative texts (including literature)",
+      "product_tier": [
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -930,6 +1023,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -937,8 +1032,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_analysis_and_criticism_of_creative_texts_including_literature",
-          "display_title": "Analysis and criticism of creative texts (including literature)",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 154.8329,
           "y1": 236.10649999999998,
           "bbox": [
@@ -950,6 +1045,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -957,8 +1054,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_facilitating_collaborative_interaction",
-          "display_title": "Facilitating collaborative interaction",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 249.2581,
           "y1": 364.2896,
           "bbox": [
@@ -970,6 +1067,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 2
@@ -977,8 +1076,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_collaborating_to_construct_meaning",
-          "display_title": "Collaborating to construct meaning",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 377.4412,
           "y1": 424.957,
           "bbox": [
@@ -990,6 +1089,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 3
@@ -997,8 +1098,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_managing_interaction",
-          "display_title": "Managing interaction",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 438.1085,
           "y1": 519.3822,
           "bbox": [
@@ -1010,6 +1111,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 4,
           "table_index": 4
@@ -1017,8 +1120,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_encouraging_conceptual_talk",
-          "display_title": "Encouraging conceptual talk",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 532.5337,
           "y1": 655.146,
           "bbox": [
@@ -1030,6 +1133,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 5,
           "table_index": 5
@@ -1037,8 +1142,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_facilitating_pluricultural_space",
-          "display_title": "Facilitating pluricultural space",
+          "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+          "display_title": "Expressing a personal response to creative texts (including literature)",
           "y0": 668.2975,
           "y1": 771.4826,
           "bbox": [
@@ -1050,6 +1155,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 6,
           "table_index": 6
@@ -1096,6 +1203,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1116,6 +1225,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -1136,6 +1247,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 2
@@ -1156,6 +1269,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 3
@@ -1176,6 +1291,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 4,
           "table_index": 4
@@ -1222,6 +1339,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1242,6 +1361,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -1262,6 +1383,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 2
@@ -1282,6 +1405,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 3
@@ -1302,6 +1427,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 4,
           "table_index": 4
@@ -1343,6 +1470,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1360,7 +1489,7 @@
             303.21090000000004
           ],
           "extractor": "prose_zone",
-          "expected_chars": 21
+          "expected_chars": 24
         },
         {
           "type": "artifact",
@@ -1378,6 +1507,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -1402,6 +1533,11 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 83,
+      "artifact_id": "scale_diagrammatical_accuracy",
+      "section_title": "Diagrammatical accuracy",
+      "product_tier": [
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -1419,6 +1555,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1426,8 +1564,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
-          "display_title": "Sociolinguistic appropriateness and cultural repertoire",
+          "artifact_id": "scale_diagrammatical_accuracy",
+          "display_title": "Diagrammatical accuracy",
           "y0": 234.41359999999997,
           "y1": 497.2187,
           "bbox": [
@@ -1439,6 +1577,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 1
@@ -1446,8 +1586,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sign_text_structure",
-          "display_title": "Sign text structure",
+          "artifact_id": "scale_diagrammatical_accuracy",
+          "display_title": "Diagrammatical accuracy",
           "y0": 518.6774,
           "y1": 771.4826,
           "bbox": [
@@ -1459,6 +1599,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 2

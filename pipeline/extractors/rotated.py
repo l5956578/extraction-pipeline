@@ -157,7 +157,11 @@ def extract_rotated_tables(
         md = "\n\n".join(table_to_markdown(t) for t in fixed)
         if _table_readable(sample) and not is_gibberish(sample):
             return md
+        # Geometry fallback for agent-vision gaps: do NOT OCR entire spans
+        # (Appendix 5 is 50+ pages). Prefer imperfect reverse over multi-minute OCR.
+        return md
 
+    # No tables found — only then try OCR (single page).
     return _ocr_with_best_angle(page, rotation)
 
 
@@ -180,7 +184,9 @@ def extract_rotated_element(
     el: dict,
 ) -> str:
     rotation = el.get("rotation") or 90
-    force_ocr = el.get("text_direction") == "ocr"
+    # Do not force OCR solely because inventory marks text_direction=ocr
+    # (that flag is historical; agent vision is preferred, pdfplumber next).
+    force_ocr = bool(el.get("force_ocr"))
     return extract_rotated_tables(
         page_idx, page, pdf_path, rotation=rotation, force_ocr=force_ocr
     )

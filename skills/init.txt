@@ -1,0 +1,133 @@
+Below is a conversation between me and Grok on the web to help me inform you that I want to build a skill. I'm in plan mode so that you can assist.
+
+After you develop a plan, and once I approve do NOT immediately begin the work. I think the below says for you to present a list of files and constraints, just put whatever it mentions in the plan.md. Thanks.
+
+---
+
+**Yes — this is a strong, common pattern in agentic coding (coder + vision critic loop).** It directly attacks the fatigue you’re describing.
+
+### Quick assessment + improvements / safeguards
+
+**What’s already good**
+- Clear separation of concerns: coding agent proposes, Vision QA only *describes* mismatches against the ground-truth PNG + rules. No prescribing fixes.
+- Explicit escalation after 4 attempts.
+- Post-fix reporting protocol.
+- Intention to put the comprehensive rules in a file the QA agent can always see.
+
+**Improvements I recommend baking in**
+1. **Single source of truth rules file**  
+   Create (or extend) something like `references/extraction-invariants.md` (or whatever your existing rules file is called). Every layout rule, callout placement heuristic, prose purity rule, table rendering requirement, ID cleanliness rule, “no trash soup after figures”, blank-row-for-MD-tables, etc. lives there. Both the coding agent and the QA agent load it.
+
+2. **Structured QA output contract**  
+   Force the Vision agent to return:
+   ```yaml
+   status: pass | fail
+   failures:
+     - page: 41
+       element: callout / prose-block / table / figure-caption / ...
+       severity: critical | major | minor
+       visual_observation: "..."
+       md_observation: "..."
+       rule_violated: "callout-placement-exception-when-adjacent-prose-is-full-width"
+   ```
+   This makes the loop machine-readable and prevents vague “looks wrong” comments.
+
+3. **Snapshot discipline**  
+   The skill must define *exactly* how the coding agent produces the full-page PNG the QA agent sees (PDF page render at known DPI + the corresponding Markdown rendered to HTML → PNG, or side-by-side). Without a deterministic snapshot method the loop becomes non-reproducible.
+
+4. **Hard non-interference rule**  
+   The QA skill must explicitly say: “You are a pure observer. Never suggest code changes, never rewrite Markdown, never propose architecture. Describe only.”
+
+5. **Scope guardrail**  
+   The skill should only be invoked for *deterministic extraction defects* (placement, merging, soup, IDs, formatting loss, missing blank rows, etc.). Design decisions stay with you.
+
+6. **Integration with existing pipeline**  
+   The skill must not invent a new extraction path. It must sit on top of whatever 3-pass / inventory / cleanup architecture you already have documented in `agents.md` / `context.md` / pipeline docs.
+
+
+These keep the system from drifting and make the skill safe to leave running autonomously.
+
+---
+
+### Prompt you can dump into Grok Build
+
+```
+# Task: Create a new skill — extraction-qa-vision (Grok Vision agent-in-the-loop)
+
+## Critical first step — DO NOT SKIP
+Before writing a single line of the new skill:
+
+1. Thoroughly explore the entire Grok Build worktree documentation.
+2. Read and internalize:
+   - agents.md
+   - context.md
+   - any architecture / pipeline / extraction / 3-pass / vision inventory documents
+   - existing rules, invariants, or layout heuristics files
+   - how page PNGs are currently produced or rendered
+   - how Markdown artifacts, callouts, tables, figures, and prose blocks are currently represented
+3. Explicitly list the files you read and the key constraints you extracted that the new skill MUST NOT violate.
+4. Only after that inventory is complete may you proceed to design the skill.
+
+The goal of this skill is to lower user QA fatigue by inserting a deterministic Grok Vision critic into the coding loop for PDF → Markdown extraction defects. It must integrate cleanly with the existing system, not create a parallel architecture.
+
+## Purpose of the skill
+Implement a closed coding → Vision-QA → fix loop for extraction bugs of the kind shown in the recent issue log (odd pages losing text, callout placement exceptions, prose block merging, trash soup after figures, lost callout formatting, systemic table ID corruption, missing blank rows that break MD table rendering, etc.).
+
+The Vision QA agent:
+- Receives the full-page PNG of the source PDF page (never crops).
+- Receives the current Markdown output for that page.
+- Receives the complete set of extraction invariants / rules (loaded from the single source-of-truth file).
+- Compares visual layout + content against the Markdown.
+- Returns ONLY a structured pass/fail report. It never suggests code, never rewrites Markdown, never makes design decisions.
+- Is invoked by the coding agent after every meaningful change related to the reported issue.
+- The coding agent continues iterating until the QA agent returns `status: pass` or 4 attempts have been exhausted (then escalate to user with full context).
+
+## Required skill structure
+Create the skill using the official skill-creator process in `/home/workdir/.grok/skills/`.
+
+Name: `extraction-qa-vision`
+
+It must contain at minimum:
+- SKILL.md (clear triggers, when to load, how the coding agent invokes the Vision critic)
+- references/extraction-invariants.md  ← single source of truth for every layout and extraction rule
+- references/qa-output-contract.md     ← exact structured YAML/JSON the Vision agent must return
+- (optional) scripts/ that help produce or manage deterministic page snapshots if needed
+
+## Key behavioral rules the skill must enforce
+1. QA agent is a pure observer/describer. Zero code prescriptions.
+2. Coding agent must not stop for partial status updates while inside the loop.
+3. After resolution (or after 4 failures) the coding agent produces a short structured report:
+   - issue description
+   - page + element
+   - number of attempts
+   - how it was finally resolved (or why it needs user input)
+4. Snapshot rules (non-negotiable):
+   - Always use full-page PNGs. Never crop or discard portions of the page.
+   - Only generate a PNG for a page that has an open bug report.
+   - Store the PNG and reuse the exact same file on subsequent loop iterations for that page. Do not regenerate.
+5. The skill must load and respect every existing pipeline constraint discovered in step 1. Do not invent new element types or change the inventory/cleanup passes.
+
+## Efficiency notes (optional improvements only)
+Any additional efficiency measures beyond the hard rules above (caching strategy details, when to skip QA, etc.) should be placed in a clearly marked section called "Optional Efficiency Improvements" and must never compromise correctness or the full-page requirement.
+
+## Concrete examples from the issue log that the invariants file and QA agent must be able to catch
+- Callout placement exception: when the callout is NOT in the top-left and the elements immediately before/after are full-width prose → place inline, not at bottom.
+- Callout at top that spans full width → leave at top, do not force inline.
+- Prose blocks must remain pure; never merge adjacent prose into one block.
+- No “trash soup” (orphaned headings, scale names, etc.) after figures.
+- Table artifact IDs and headers must be clean (no leftover garbage like “cfiiceps”).
+- Markdown tables require a blank row after the element/id comment block so renderers produce actual columns.
+- Lost formatting inside callouts.
+- Missing leading sentences when elements are moved.
+
+## Final acceptance criteria for the skill itself
+- Grok Build can load the skill and correctly invoke the Vision critic on a page that currently has known defects.
+- The QA agent returns structured failures that match the real visual problems.
+- The coding agent can run the loop without breaking any existing extraction pipeline behavior.
+- After the skill exists, I will immediately ask it to drive fixes for the open issues in log 07 and all other currently open deterministic extraction defects.
+
+Do the documentation inventory first. Show me the list of files you read and the constraints you extracted. Then create the skill.
+```
+
+---
+

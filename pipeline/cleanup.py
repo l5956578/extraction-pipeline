@@ -73,12 +73,56 @@ def cleanup_text(text: str) -> tuple[str, list[str]]:
         deduped.append(line)
     text = "\n".join(deduped)
 
+    text_pages, page_fix = _dedupe_page_markers(text)
+    if page_fix:
+        fixes.append(page_fix)
+        text = text_pages
+
     text3, prose_fixes = normalize_prose(text)
     if text3 != text:
         fixes.extend(prose_fixes)
         text = text3
 
     return text, fixes
+
+
+_PAGE_COMMENT = re.compile(r"^<!-- page:(\d+) -->\s*$")
+_PAGE_ITALIC = re.compile(r"^\*.*\b[Pp]age\b.*\*$")
+
+
+def _dedupe_page_markers(text: str) -> tuple[str, str | None]:
+    """Collapse consecutive duplicate <!-- page:N --> blocks (and optional italic caption)."""
+    lines = text.splitlines()
+    out: list[str] = []
+    i = 0
+    removed = 0
+    last_page: str | None = None
+    while i < len(lines):
+        m = _PAGE_COMMENT.match(lines[i].strip())
+        if not m:
+            out.append(lines[i])
+            i += 1
+            continue
+        page = m.group(1)
+        block = [lines[i]]
+        j = i + 1
+        while j < len(lines) and not lines[j].strip():
+            j += 1
+        if j < len(lines) and (
+            _PAGE_ITALIC.match(lines[j].strip()) or lines[j].strip().startswith("*")
+        ):
+            block.append(lines[j])
+            j += 1
+        if page == last_page:
+            removed += 1
+            i = j
+            continue
+        last_page = page
+        out.extend(block)
+        i = j
+    if not removed:
+        return text, None
+    return "\n".join(out), f"removed {removed} duplicate page marker(s)"
 
 
 def cleanup_file(src: Path, dest: Path) -> dict:

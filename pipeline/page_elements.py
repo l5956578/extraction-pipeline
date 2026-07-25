@@ -9,6 +9,7 @@ import fitz
 import pdfplumber
 
 from pipeline.config import (
+    KNOWN_TABLES_BY_INDEX,
     KNOWN_TABLES_FIGURES,
     PDF_PATH,
     SECTION_BLOCKS,
@@ -16,8 +17,17 @@ from pipeline.config import (
     load_figures_registry,
 )
 from pipeline.descriptor_layout import section_headers_from_page, section_headers_with_y
-from pipeline.page_layout import _classify_line, _span_text, classify_page_zones
-from pipeline.title_fix import fix_rotated_title
+from pipeline.page_layout import (
+    _classify_line,
+    _span_text,
+    classify_page_zones,
+    first_footer_band_y,
+)
+from pipeline.title_fix import (
+    artifact_id_from_title,
+    clean_artifact_id,
+    fix_rotated_title,
+)
 from pipeline.utils import slugify
 
 _LEVEL_ONLY = re.compile(r"^(C2|C1|B2\+?|B1\+?|A2\+?|A1\+?|Pre-A1|Pre A1)$", re.I)
@@ -45,8 +55,13 @@ def table_bboxes(pdf_path, page_idx: int) -> list[tuple[float, float, float, flo
         return sorted([t.bbox for t in tables], key=lambda b: b[1])
 
 
-def collect_body_lines(page: fitz.Page) -> list[tuple[float, float, str]]:
+def collect_body_lines(
+    page: fitz.Page,
+    *,
+    y_max: float | None = None,
+) -> list[tuple[float, float, str]]:
     page_height = page.rect.height
+    cut = y_max if y_max is not None else page_height * _FOOTER_BODY_CUTOFF
     entries: list[tuple[float, float, str]] = []
     for block in page.get_text("dict").get("blocks", []):
         if block.get("type") != 0:
@@ -58,7 +73,7 @@ def collect_body_lines(page: fitz.Page) -> list[tuple[float, float, str]]:
             y0 = line["bbox"][1]
             x0 = line["bbox"][0]
             kind = _classify_line(text, y0, page_height)
-            if kind == "body" and y0 < page_height * _FOOTER_BODY_CUTOFF:
+            if kind == "body" and y0 < cut:
                 entries.append((y0, x0, text))
     return entries
 
@@ -71,13 +86,30 @@ def _lines_in_bbox(
     return [(y, x, t) for y, x, t in lines if y0 <= y < y1]
 
 
+def _lines_in_rect(
+    lines: list[tuple[float, float, str]],
+    x0: float,
+    y0: float,
+    x1: float,
+    y1: float,
+) -> list[tuple[float, float, str]]:
+    """Lines whose baseline y and left x fall inside the rect (generous x)."""
+    out: list[tuple[float, float, str]] = []
+    for y, x, t in lines:
+        if y0 <= y < y1 and x0 - 2 <= x < x1:
+            out.append((y, x, t))
+    return out
+
+
 def prose_segments(
     page: fitz.Page,
     table_bboxes_list: list[tuple[float, float, float, float]],
 ) -> list[dict[str, Any]]:
-    lines = collect_body_lines(page)
     page_h = page.rect.height
     page_w = page.rect.width
+    foot_y = first_footer_band_y(page)
+    # Body lines up to first real footnote/page-marker (not a fixed 62% cut).
+    lines = collect_body_lines(page, y_max=foot_y)
 
     if not table_bboxes_list:
         if not lines:
@@ -89,7 +121,7 @@ def prose_segments(
                 "role": "body",
                 "y0": y0,
                 "y1": y1,
-                "bbox": [0, y0, page_w, min(y1 + 8, page_h * _FOOTER_BODY_CUTOFF)],
+                "bbox": [0, y0, page_w, min(y1 + 8, foot_y - 2)],
             }
         ]
 
@@ -107,6 +139,55 @@ def prose_segments(
                 }
             )
 
+    # Side-column prose beside partial-width tables (e.g. p.29 methodological
+    # message left of "A reminder of CEFR 2001 chapters" box).
+    for i, tb in enumerate(table_bboxes_list):
+        tx0, ty0, tx1, ty1 = tb
+        band_y0 = ty0 - 2
+        band_y1 = min(ty1 + 6, foot_y - 2)
+        if band_y1 <= band_y0:
+            continue
+        # Table on the right → left column prose
+        if tx0 > page_w * 0.28:
+            left_x1 = tx0 - 6
+            side_lines = _lines_in_rect(lines, 0, band_y0, left_x1, band_y1)
+            if side_lines and sum(len(t) for _, _, t in side_lines) > 40:
+                segments.append(
+                    {
+                        "role": "side",
+                        "y0": min(y for y, _, _ in side_lines),
+                        "y1": max(y for y, _, _ in side_lines) + 12,
+                        "bbox": [
+                            0.0,
+                            min(y for y, _, _ in side_lines) - 2,
+                            left_x1,
+                            min(max(y for y, _, _ in side_lines) + 14, band_y1),
+                        ],
+                        "parallel_table_index": i,
+                        "x0": 0.0,
+                    }
+                )
+        # Table on the left → right column prose
+        if tx1 < page_w * 0.72:
+            right_x0 = tx1 + 6
+            side_lines = _lines_in_rect(lines, right_x0, band_y0, page_w, band_y1)
+            if side_lines and sum(len(t) for _, _, t in side_lines) > 40:
+                segments.append(
+                    {
+                        "role": "side",
+                        "y0": min(y for y, _, _ in side_lines),
+                        "y1": max(y for y, _, _ in side_lines) + 12,
+                        "bbox": [
+                            right_x0,
+                            min(y for y, _, _ in side_lines) - 2,
+                            page_w,
+                            min(max(y for y, _, _ in side_lines) + 14, band_y1),
+                        ],
+                        "parallel_table_index": i,
+                        "x0": right_x0,
+                    }
+                )
+
     for i in range(len(table_bboxes_list) - 1):
         y0 = table_bboxes_list[i][3] + 4
         y1 = table_bboxes_list[i + 1][1] - 4
@@ -122,18 +203,24 @@ def prose_segments(
                 }
             )
 
+    # Trailing prose: below last table, above first footnote / page footer.
     y0 = table_bboxes_list[-1][3] + 4
-    y1 = page_h - 28
-    seg_lines = _lines_in_bbox(lines, y0, y1)
-    if seg_lines:
-        segments.append(
-            {
-                "role": "trailing",
-                "y0": y0,
-                "y1": y1,
-                "bbox": [0, y0, page_w, y1],
-            }
-        )
+    y1 = foot_y - 4
+    if y1 > y0:
+        seg_lines = _lines_in_bbox(lines, y0, y1)
+        if seg_lines:
+            y1 = min(max(y for y, _, _ in seg_lines) + 14, foot_y - 2)
+            segments.append(
+                {
+                    "role": "trailing",
+                    "y0": y0,
+                    "y1": y1,
+                    "bbox": [0, y0, page_w, y1],
+                }
+            )
+
+    # Stable reading order: top-to-bottom, then left-to-right for side bands.
+    segments.sort(key=lambda s: (round(s["y0"], 1), float(s.get("x0", s["bbox"][0]))))
     return segments
 
 
@@ -151,11 +238,12 @@ def expected_chars(page: fitz.Page, bbox: list[float]) -> int:
     return max(0, int(chars * 0.85))
 
 
-def _span_dict(span_info: dict | None) -> dict[str, Any] | None:
+def _span_dict(span_info: dict | None, display_title: str | None = None) -> dict[str, Any] | None:
     if not span_info:
         return None
+    gid = clean_artifact_id(span_info.get("group_id"), display_title)
     return {
-        "group_id": span_info["group_id"],
+        "group_id": gid,
         "span_type": span_info["span_type"],
         "role": span_info["role"],
         "pages": list(range(span_info["start_page"], span_info["end_page"] + 1)),
@@ -193,24 +281,60 @@ def _artifact_element(
     artifact_type = "descriptor_scale"
     if art:
         display_title = fix_rotated_title(art.display_name)
-        artifact_id = art.id
+        artifact_id = clean_artifact_id(art.id, display_title)
         artifact_type = art.artifact_type
-    if span_info and span_info.get("group_id"):
-        artifact_id = artifact_id or span_info["group_id"]
+    if span_info and span_info.get("group_id") and not artifact_id:
+        # Prefer clean id; re-slug garbled span group_ids from title
+        artifact_id = clean_artifact_id(span_info["group_id"], display_title)
 
-    if page_num in KNOWN_TABLES_FIGURES:
+    # Prefer per-(page, table_index) known map (Table 4 etc.) over page-level sole map.
+    known_idx = KNOWN_TABLES_BY_INDEX.get((page_num, table_index))
+    if known_idx:
+        artifact_id, display_title, artifact_type = known_idx
+    elif page_num in KNOWN_TABLES_FIGURES and table_index == 0:
         artifact_id, display_title, artifact_type = KNOWN_TABLES_FIGURES[page_num]
 
     if not display_title:
         display_title = _table_title_at(pdf_path, page_num - 1, table_index)
+    if display_title:
+        display_title = fix_rotated_title(display_title)
     if not artifact_id and display_title:
-        artifact_id = slugify(display_title, prefix="scale")
+        artifact_id = artifact_id_from_title(display_title, prefix="scale")
+    elif artifact_id and display_title:
+        artifact_id = clean_artifact_id(artifact_id, display_title)
+
+    # Narrative callouts / sidebars are not descriptor scales (CONTRACTS §2–3).
+    callout_titles = (
+        "a reminder of cefr 2001 chapters",
+        "can do” descriptors as competence",
+        'can do" descriptors as competence',
+        "can do descriptors as competence",
+    )
+    dt_l = (display_title or "").lower().replace("“", '"').replace("”", '"')
+    if any(t in dt_l for t in callout_titles) or (
+        display_title
+        and artifact_id
+        and "reminder_of_cefr" in (artifact_id or "")
+    ):
+        artifact_type = "callout"
+        if artifact_id and artifact_id.startswith("scale_"):
+            artifact_id = "callout_" + artifact_id.removeprefix("scale_")
 
     extractor = "pdfplumber_table"
     text_direction = "normal"
+    rotated_extraction_method = "normal"
+    extraction_passes: list[str] = []
     if orientation.startswith("rotated"):
         extractor = "rotated_table"
         text_direction = "ocr"
+        # Default: agent vision handoff (prepare PNG → write .md → finalize).
+        # Geometry/OCR remain fallbacks via rotated_extraction_method override.
+        rotated_extraction_method = "grok_vision"
+        extraction_passes = [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble",
+        ]
 
     el: dict[str, Any] = {
         "type": "artifact",
@@ -223,7 +347,9 @@ def _artifact_element(
         "extractor": extractor,
         "rotation": rotation,
         "text_direction": text_direction,
-        "span": _span_dict(span_info) if attach_span else None,
+        "rotated_extraction_method": rotated_extraction_method,
+        "extraction_passes": extraction_passes,
+        "span": _span_dict(span_info, display_title) if attach_span else None,
     }
     return el
 
@@ -360,6 +486,238 @@ def _figure_mixed_order(
     return elements
 
 
+def _is_top_left_callout(
+    bbox: tuple[float, float, float, float], page: fitz.Page
+) -> bool:
+    """log 04 placement: top-left feature box → first in reading order.
+
+    Heuristic: upper third of page and predominantly left half (not a right sidebar).
+    """
+    page_w = float(page.rect.width)
+    page_h = float(page.rect.height)
+    x0, y0, x1, y1 = bbox
+    mid_x = (x0 + x1) / 2.0
+    # Top band + center of box on left half + not full-width
+    return (
+        y0 < page_h * 0.38
+        and mid_x < page_w * 0.48
+        and (x1 - x0) < page_w * 0.62
+    )
+
+
+def _is_top_fullwidth_callout(
+    bbox: tuple[float, float, float, float], page: fitz.Page
+) -> bool:
+    """log 07 p.43: full-width box already at top → stay first; do not force end_body/inline."""
+    page_w = float(page.rect.width)
+    page_h = float(page.rect.height)
+    x0, y0, x1, y1 = bbox
+    return y0 < page_h * 0.42 and (x1 - x0) >= page_w * 0.55
+
+
+def _callout_element(
+    page_num: int,
+    idx: int,
+    bbox: tuple[float, float, float, float],
+    seq: int,
+) -> dict[str, Any]:
+    return {
+        "seq": seq,
+        "type": "artifact",
+        "artifact_type": "callout",
+        "artifact_id": f"callout_p{page_num:03d}_{idx}",
+        "display_title": None,
+        "y0": bbox[1],
+        "y1": bbox[3],
+        "bbox": list(bbox),
+        "extractor": "callout_bbox",
+        "table_index": idx,
+        "placement": "end_body",
+    }
+
+
+def _callout_mixed_order(
+    page_num: int,
+    page: fitz.Page,
+    pdf_path,
+    blue_boxes: list[tuple[float, float, float, float]],
+    include_tables: bool = False,
+) -> list[dict[str, Any]] | None:
+    """Build RO with exclusive callout regions + log 04/07 placement policy.
+
+    Placement:
+    - top-left (partial width) → **first**
+    - top full-width → **first** (log 07 p.43 — stay top, not end_body)
+    - mid-page full-width neighbors (no side-column prose) → **inline by y**
+      (log 07 p.41 — not forced to bottom)
+    - else (multi-col / sidebar layout) → **end of body**, before footnotes
+
+    Tables still interleave with prose by y/LTR. Callout text is exclusive via
+    obstacle bboxes in prose_segments.
+    """
+    tboxes = table_bboxes(pdf_path, page_num - 1) if include_tables else []
+
+    # Obstacles for prose exclusive zones: all callouts + tables
+    obstacle_bboxes = list(tboxes) + list(blue_boxes)
+    prose_segs = prose_segments(page, obstacle_bboxes)
+    seen_side: set[tuple] = set()
+    deduped: list[dict[str, Any]] = []
+    for seg in prose_segs:
+        key = (seg["role"], tuple(round(x, 1) for x in seg["bbox"]))
+        if key in seen_side:
+            continue
+        seen_side.add(key)
+        deduped.append(seg)
+    prose_segs = deduped
+    has_side = any(s.get("role") == "side" for s in prose_segs)
+    page_w = float(page.rect.width)
+
+    # Classify callouts for placement
+    top_first: list[tuple[int, tuple[float, float, float, float], str]] = []
+    inline_mid: list[tuple[int, tuple[float, float, float, float]]] = []
+    end_body: list[tuple[int, tuple[float, float, float, float]]] = []
+    for i, bb in enumerate(blue_boxes):
+        x0, y0, x1, y1 = bb
+        width = x1 - x0
+        if _is_top_left_callout(bb, page):
+            top_first.append((i, bb, "top_left"))
+        elif _is_top_fullwidth_callout(bb, page):
+            top_first.append((i, bb, "top_fullwidth"))
+        elif (
+            not has_side
+            and width >= page_w * 0.50
+            and not _is_top_fullwidth_callout(bb, page)
+        ):
+            # Full-width-ish mid-page, full-width prose neighbors → inline by y
+            inline_mid.append((i, bb))
+        else:
+            end_body.append((i, bb))
+    top_first.sort(key=lambda t: (t[1][1], t[1][0]))
+    inline_mid.sort(key=lambda t: (t[1][1], t[1][0]))
+    end_body.sort(key=lambda t: (t[1][1], t[1][0]))
+
+    headers = section_headers_from_page(page)
+    elements: list[dict[str, Any]] = []
+    seq = 0
+
+    def _append_prose(seg: dict[str, Any]) -> None:
+        nonlocal seq
+        el: dict[str, Any] = {
+            "seq": seq,
+            "type": "prose",
+            "role": seg["role"],
+            "y0": seg["y0"],
+            "y1": seg["y1"],
+            "bbox": seg["bbox"],
+            "extractor": "prose_zone",
+            "expected_chars": expected_chars(page, seg["bbox"]),
+        }
+        if seg["role"] == "intro" and headers:
+            el["section_headers"] = headers
+        elements.append(el)
+        seq += 1
+
+    def _append_callout(
+        idx: int, bbox: tuple[float, float, float, float], placement: str
+    ) -> None:
+        nonlocal seq
+        el = _callout_element(page_num, idx, bbox, seq)
+        el["placement"] = placement
+        elements.append(el)
+        seq += 1
+
+    def _append_table(idx: int, bbox: tuple[float, float, float, float]) -> None:
+        nonlocal seq
+        orientation, rotation = page_rotation(page)
+        art_el = _artifact_element(
+            page_num,
+            bbox,
+            orientation,
+            rotation,
+            None,
+            None,
+            table_index=idx,
+            pdf_path=pdf_path,
+            attach_span=False,
+        )
+        art_el["seq"] = seq
+        art_el["table_index"] = idx
+        elements.append(art_el)
+        seq += 1
+
+    # 1) Top-left / top-fullwidth callouts first (log 04 + log 07 p.43)
+    for idx, bb, place in top_first:
+        _append_callout(idx, bb, place)
+
+    # 2) Body: tables + prose + inline callouts interleaved by y
+    body_items: list[tuple[float, float, str, Any]] = []
+    for seg in prose_segs:
+        body_items.append((seg["y0"], seg["bbox"][0], "prose", seg))
+    for i, tb in enumerate(tboxes):
+        body_items.append((tb[1], tb[0], "table", (i, tb)))
+    for idx, bb in inline_mid:
+        body_items.append((bb[1], bb[0], "callout", (idx, bb)))
+    body_items.sort(key=lambda t: (t[0], t[1]))
+
+    for _y, _x, kind, payload in body_items:
+        if kind == "prose":
+            _append_prose(payload)
+        elif kind == "table":
+            _append_table(payload[0], payload[1])
+        else:
+            _append_callout(payload[0], payload[1], "inline")
+
+    # 3) Sidebar/multi-col residual callouts at end of body, before footnotes
+    for idx, bb in end_body:
+        _append_callout(idx, bb, "end_body")
+
+    foot_el = _footnote_zone_element(seq, page)
+    if foot_el:
+        elements.append(foot_el)
+        seq += 1
+    footer: dict[str, Any] = {"seq": seq, "type": "footer", "extractor": "page_footer"}
+    if foot_el:
+        footer["skip_footnotes"] = True
+    elements.append(footer)
+    return elements if any(e.get("artifact_type") == "callout" for e in elements) else None
+
+
+def _multi_figure_reading_order(
+    page_num: int,
+    page: fitz.Page,
+    reg_figs: list[dict],
+) -> list[dict[str, Any]] | None:
+    """Emit auditable multi-element RO for registry figure pages (CONTRACTS §2/§4).
+
+    Prefer explicit ``figure`` elements for every registry figure. When caption Y
+    positions are available, interleave intro/body prose zones; otherwise emit a
+    single ``figure_page`` so extract can compose without dropping prose.
+    """
+    if not reg_figs:
+        return None
+    # Always record multi-fig as figure_page sugar with primary id = first by num,
+    # plus explicit figure siblings for inventory audit. Extract figure_page path
+    # uses figures_for_page; explicit figure elements alone would re-order poorly
+    # without reliable caption Y for all. For multi-fig, use figure_page compose
+    # but store all figure ids on the element for validation.
+    figs_sorted = sorted(reg_figs, key=lambda f: (f.get("num") or 0))
+    primary = figs_sorted[0]
+    return [
+        {
+            "seq": 0,
+            "type": "figure_page",
+            "extractor": "rich_page",
+            "artifact_id": primary["id"],
+            "figure_ids": [f["id"] for f in figs_sorted],
+            "figures": [
+                {"id": f["id"], "title": f.get("title"), "num": f.get("num")}
+                for f in figs_sorted
+            ],
+        },
+        {"seq": 1, "type": "footer", "extractor": "page_footer"},
+    ]
+
+
 def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
     zones = classify_page_zones(page)
     footnotes = zones.get("footnotes") or []
@@ -465,6 +823,20 @@ def build_reading_order(
             {"seq": 1, "type": "footer", "extractor": "page_footer"},
         ]
 
+    # Registry figures take precedence over single art id (multi-fig pages).
+    reg_figs = [f for f in load_figures_registry() if f.get("page") == page_num]
+    if reg_figs:
+        multi = _multi_figure_reading_order(page_num, page, reg_figs)
+        if multi:
+            return multi
+        # Fallback: single figure_page sugar (extract expands via figures_for_page).
+        primary = sorted(reg_figs, key=lambda f: f.get("num") or 0)[0]
+        aid = (art.id if art and art.artifact_type == "figure" else None) or primary["id"]
+        return [
+            {"seq": 0, "type": "figure_page", "extractor": "rich_page", "artifact_id": aid},
+            {"seq": 1, "type": "footer", "extractor": "page_footer"},
+        ]
+
     if art and art.artifact_type == "figure":
         mixed = _figure_mixed_order(page_num, page, art)
         if mixed:
@@ -473,6 +845,48 @@ def build_reading_order(
             {"seq": 0, "type": "figure_page", "extractor": "rich_page", "artifact_id": art.id},
             {"seq": 1, "type": "footer", "extractor": "page_footer"},
         ]
+
+    # Blue feature boxes (often not pdfplumber tables) — same layout class as
+    # partial-width tables (p.30–31 ≡ p.35). CONTRACTS §2 / UV-07.
+    # Only take this path for pure_text / when tables do not already model the box
+    # (avoids double emit: pdfplumber table + callout_bbox for the same rect).
+    from pipeline.callout_detect import detect_blue_callout_bboxes
+
+    blue_boxes = detect_blue_callout_bboxes(page)
+    if blue_boxes and content_type in ("pure_text", "mixed", "single_table"):
+        tboxes = table_bboxes(pdf_path, page_num - 1) if content_type != "pure_text" else []
+        # Drop blues that heavily overlap an existing table (table path owns them).
+        def _overlap_frac(a, b) -> float:
+            ax0, ay0, ax1, ay1 = a
+            bx0, by0, bx1, by1 = b
+            ix0, iy0 = max(ax0, bx0), max(ay0, by0)
+            ix1, iy1 = min(ax1, bx1), min(ay1, by1)
+            if ix1 <= ix0 or iy1 <= iy0:
+                return 0.0
+            inter = (ix1 - ix0) * (iy1 - iy0)
+            area = max(1.0, (ax1 - ax0) * (ay1 - ay0))
+            return inter / area
+
+        if content_type == "pure_text":
+            # pdfplumber may still "see" a table; prefer drawing geometry for pure_text
+            # pages so RO is stable (p.30–31).
+            mixed_callouts = _callout_mixed_order(
+                page_num, page, pdf_path, blue_boxes, include_tables=False
+            )
+            if mixed_callouts:
+                return mixed_callouts
+        else:
+            orphan_blues = [
+                bb
+                for bb in blue_boxes
+                if not any(_overlap_frac(bb, tb) > 0.4 for tb in tboxes)
+            ]
+            if orphan_blues:
+                mixed_callouts = _callout_mixed_order(
+                    page_num, page, pdf_path, orphan_blues, include_tables=True
+                )
+                if mixed_callouts:
+                    return mixed_callouts
 
     if content_type == "pure_text":
         return [
@@ -501,7 +915,21 @@ def build_reading_order(
         next_prose = prose_segs[prose_idx] if prose_idx < len(prose_segs) else None
         next_table = bboxes[table_idx] if table_idx < len(bboxes) else None
 
-        if next_prose and (not next_table or next_prose["y0"] < next_table[1]):
+        # Prefer prose before table when: above it, or side-column to the left (LTR).
+        prose_first = False
+        if next_prose and not next_table:
+            prose_first = True
+        elif next_prose and next_table:
+            if next_prose["y0"] < next_table[1] - 3:
+                prose_first = True
+            elif (
+                next_prose.get("role") == "side"
+                and next_prose["y0"] < next_table[3]
+                and next_prose["bbox"][0] < next_table[0]
+            ):
+                prose_first = True
+
+        if prose_first and next_prose:
             expected = expected_chars(page, next_prose["bbox"])
             el: dict[str, Any] = {
                 "seq": seq,
@@ -542,7 +970,7 @@ def build_reading_order(
 
     while prose_idx < len(prose_segs):
         seg = prose_segs[prose_idx]
-        if seg["role"] in ("interstitial", "trailing"):
+        if seg["role"] in ("interstitial", "trailing", "side"):
             elements.append(
                 {
                     "seq": seq,
@@ -558,5 +986,20 @@ def build_reading_order(
             seq += 1
         prose_idx += 1
 
-    elements.append({"seq": seq, "type": "footer", "extractor": "page_footer"})
+    # Footnote 46 etc.: geometry surgical path on rotated start pages — not Grok vision.
+    if span_start and orientation.startswith("rotated") and bboxes:
+        elements.append(
+            {
+                "seq": seq,
+                "type": "footnote_zone",
+                "extractor": "rotated_footnote_zone",
+                "table_bbox": list(bboxes[0]),
+            }
+        )
+        seq += 1
+
+    footer: dict[str, Any] = {"seq": seq, "type": "footer", "extractor": "page_footer"}
+    if span_start and orientation.startswith("rotated"):
+        footer["skip_footnotes"] = True
+    elements.append(footer)
     return elements

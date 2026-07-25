@@ -1,0 +1,14 @@
+{
+  "page": 38,
+  "source": "user debug/log 04.md #8",
+  "must_have": [
+    "figure_06_fictional_profile_clil",
+    "assets/figures/figure_06_fictional_profile_clil.png"
+  ],
+  "must_not_have_after_image": [
+    "Understanding conversation between other speakers",
+    "Expressing a personal response to creative texts",
+    "Relaying specific information"
+  ],
+  "notes": "No radar axis soup under Figure 6 PNG; real prose before figure kept"
+}

@@ -1,10 +1,10 @@
 [
   {
-    "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+    "group_id": "scale_what_is_addressed_in_this_publication",
     "span_type": "continuation",
     "start_page": 24,
     "end_page": 25,
-    "title": "What is addressed in this noitacilbup",
+    "title": "What is addressed in this publication",
     "rotated": false
   },
   {
@@ -40,11 +40,11 @@
     "rotated": false
   },
   {
-    "group_id": "scale_relaying_cfiiceps_information",
+    "group_id": "scale_relaying_specific_information",
     "span_type": "continuation",
     "start_page": 94,
     "end_page": 95,
-    "title": "Relaying cfiiceps information",
+    "title": "Relaying specific information",
     "rotated": true
   },
   {
@@ -56,11 +56,11 @@
     "rotated": true
   },
   {
-    "group_id": "scale_translating_a_nettirw_text",
+    "group_id": "scale_translating_a_written_text",
     "span_type": "continuation",
     "start_page": 103,
     "end_page": 104,
-    "title": "Translating a nettirw text",
+    "title": "Translating a written text",
     "rotated": true
   },
   {
@@ -72,11 +72,11 @@
     "rotated": false
   },
   {
-    "group_id": "scale_collaborating_ni_a_group",
+    "group_id": "scale_collaborating_in_a_group",
     "span_type": "continuation",
     "start_page": 110,
     "end_page": 111,
-    "title": "Collaborating ni a group",
+    "title": "Collaborating in a group",
     "rotated": true
   },
   {
@@ -88,11 +88,11 @@
     "rotated": false
   },
   {
-    "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+    "group_id": "scale_strategies_to_explain_a_new_concept",
     "span_type": "continuation",
     "start_page": 119,
     "end_page": 120,
-    "title": "Strategies ot nialpxe a wen concept",
+    "title": "Strategies to explain a new concept",
     "rotated": true
   },
   {
@@ -144,19 +144,19 @@
     "rotated": true
   },
   {
-    "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+    "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
     "span_type": "continuation",
     "start_page": 154,
     "end_page": 156,
-    "title": "Sociolinguistic ssenetairporppa and larutluc repertoire",
+    "title": "Sociolinguistic appropriateness and cultural repertoire",
     "rotated": true
   },
   {
-    "group_id": "scale_sign_text_erutcurts",
+    "group_id": "scale_sign_text_structure",
     "span_type": "continuation",
     "start_page": 158,
     "end_page": 160,
-    "title": "Sign text erutcurts",
+    "title": "Sign text structure",
     "rotated": true
   },
   {
@@ -240,11 +240,11 @@
     "rotated": true
   },
   {
-    "group_id": "scale_mediating_stpecnoc",
+    "group_id": "scale_mediating_concepts",
     "span_type": "continuation",
     "start_page": 225,
     "end_page": 234,
-    "title": "Mediating stpecnoc",
+    "title": "Mediating concepts",
     "rotated": true
   },
   {

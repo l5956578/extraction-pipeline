@@ -1,20 +1,21 @@
-# Post-processing (integrated into merge)
+# Post-processing CLI (thin wrapper)
 
-Formatting logic lives in `pipeline/post_process.py` and runs automatically at the
-end of `run_pipeline.py --step merge`. There is **one deliverable**:
+Formatting logic lives in:
 
-`final_output/CEFR_Companion_Volume.md`
+- `pipeline/post_process.py`
+- `pipeline/prose_format.py`
 
-## Re-run formatting only
+It runs automatically after merge and via:
 
 ```bash
-python post-processing/format_markdown.py
+python iterate_format.py
 # or
 python run_pipeline.py --step postprocess
+# or
+python post-processing/format_markdown.py
 ```
 
-Run log: `metadata/last_format_run.txt`
+**Do not** maintain a separate post-processing tree of rules.  
+Historical standalone snapshot: `docs/archive/CEFR_Companion_Volume_structured.legacy.md`.
 
-## Do not edit here
-
-Change `pipeline/post_process.py` or `pipeline/prose_format.py` for formatting rules.
+Project status: [`STATUS.md`](../STATUS.md).

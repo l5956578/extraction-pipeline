@@ -1,0 +1,12 @@
+Page: 193
+Span: scale_online_interaction (pages 193)
+Title: Online interaction
+Role: start
+Rotation: 90
+Slug: page_193_appendix_5_domain_examples
+PNG: metadata/rotated_for_grok/page_193_appendix_5_domain_examples.png
+Write markdown: metadata/rotated_from_grok/page_193_appendix_5_domain_examples.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

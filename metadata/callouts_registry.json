@@ -1,0 +1,34 @@
+{
+  "description": "Agent-authored callout/sidebar/feature boxes when geometry cannot detect them as tables. See docs/CONTRACTS.md §2–3.",
+  "callouts": [
+    {
+      "id": "callout_p029_cefr_2001_chapters",
+      "page": 29,
+      "title": "A reminder of CEFR 2001 chapters",
+      "kind": "chapter_reminder",
+      "notes": "Right-column sidebar; often detected as pdfplumber table — type as callout not scale"
+    },
+    {
+      "id": "callout_p030_plurilingual_partial",
+      "page": 30,
+      "title": null,
+      "kind": "narrative_box",
+      "lead_phrase": "The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced",
+      "notes": "Blue box; often 0 tables — extract must split lead from list and emit blockquote"
+    },
+    {
+      "id": "callout_p031_top_left",
+      "page": 31,
+      "title": null,
+      "kind": "narrative_box",
+      "notes": "Top-left callout + multi-column body; same layout class as p.35 — must not pure_text-only RO"
+    },
+    {
+      "id": "callout_p035_can_do",
+      "page": 35,
+      "title": "“Can do” descriptors as competence",
+      "kind": "narrative_box",
+      "notes": "Left column box; table_index 0 on mixed page"
+    }
+  ]
+}

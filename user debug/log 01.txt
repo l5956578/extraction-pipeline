@@ -1,0 +1,678 @@
+---
+
+current line 76, page 28
+
+---
+
+promote and facilitate co-operation among educational institutions in different countries; f provide a sound basis for the mutual recognition of language qualifications; f assist learners, teachers, course designers, examining bodies and educational administrators to situate and co-ordinate their efforts.
+
+---
+
+should be
+
+---
+
+- promote and facilitate co-operation among educational institutions in different countries;
+- provide a sound basis for the mutual recognition of language qualifications;
+- assist learners, teachers, course designers, examining bodies and educational administrators to situate and co-ordinate their efforts.
+
+---
+
+between lines 794 and 796
+
+---
+
+The CEFR sets out to be comprehensive, in the sense that it is possible to find the main approaches to language education in it, and neutral, in the sense that it raises questions rather than answering them and does not prescribe any particular pedagogic approach. There is, for example, no suggestion that one should stop teaching grammar or literature. There is no “right answer” given to the question of how best to assess a learner’s progress. Nevertheless, the CEFR takes an innovative stance in seeing learners as language users and social agents, and thus seeing language as a vehicle for communication rather than as a subject to study. In so doing, it proposes an analysis of learners’ needs and the use of “can do” descriptors and communicative tasks, on which there is a whole chapter: CEFR 2001 Chapter 7.
+
+<!-- db:id=scale_a_reminder_of_cefr_2001_chapters type=descriptor_scale product_tier=context pages=29 -->
+
+---
+
+is missing this section of prose
+
+---
+
+The methodological message of the CEFR is that language learning should be directed towards enabling learners to act in real-life situations, expressing themselves and accomplishing tasks of different natures. Thus, the criterion suggested for assessment is communicative ability in real life, in relation to a continuum of ability (Levels A1-C2). This is the original and fundamental meaning of “criterion” in the expression “criterion-referenced assessment”. Descriptors from CEFR 2001 Chapters 4 and 5 provide a basis for the transparent definition of curriculum aims and of standards and criteria for assessment, with Chapter 4 focusing on activities (“the what”) and Chapter 5 focusing on competences (“the how”). This is not educationally neutral. It implies that the teaching and learning process is driven by action, that it is action- oriented. It also clearly suggests planning backwards from learners’ real-life communicative needs, with consequent alignment between curriculum, teaching and assessment.
+
+---
+
+line 836, page 30
+
+---
+
+- exploit paralinguistics (mime, gesture, facial expression, etc.). The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced to language education for the first time in the second provisional version of the CEFR in 1996.
+
+---
+
+should be
+
+---
+
+- exploit paralinguistics (mime, gesture, facial expression, etc.). 
+
+The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced to language education for the first time in the second provisional version of the CEFR in 1996.
+
+---
+
+line 842, page 30
+
+---
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence”.
+
+---
+
+is there any way to detect when a hyperlink exists in the text (without existing in a footnote)? I mean, often when there is an explicit footnote, the URL is given which is sufficient. But even in those cases the prose also has the hyperlink embdedded. I want to be clear, in these cases where the footnote has the URL explicitly written I've never wanted the hyperlink in the prose. However, in this case, the above text "Plurilingual and pluricultural competence" is actually a hyperlink that does NOT have a footnote, but DOES have a hyperlink to https://rm.coe.int/168069d29b
+
+So perhaps the output be like this:
+
+---
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence” (https://rm.coe.int/168069d29b).
+
+---
+
+between lines 848 - 850, page 31
+
+---
+
+By a curious coincidence, 1996 was also the year in which the term “translanguaging” was first recorded (in relation to bilingual teaching in Wales). Translanguaging is an action undertaken by plurilingual persons, where more than one language may be involved. A host of similar expressions now exist, but all are encompassed by the term plurilingualism.
+
+Plurilingualism can in fact be considered from various perspectives: as a sociological or historical fact, as a personal characteristic or ambition, as an educational philosophy or approach, or – fundamentally – as the sociopolitical aim of preserving linguistic diversity. All these perspectives are increasingly common across Europe.
+
+---
+
+misplaced on lines 870 - 872 (double-check the line numbers), should be
+
+---
+
+...diversity. All these perspectives are increasingly common across Europe.
+
+Mediation between individuals with no common language is one of the activities in the list above. Because of the plurilingual nature of such mediation, descriptors were also developed and validated for the other points in the above list during the 2014-17 project to develop descriptors for mediation. This was successful except in respect of the last point (paralinguistics): unfortunately, informants could not agree on its relevance or interpret descriptors consistently.
+
+At the time that the CEFR 2001 was published, the concepts discussed in this section, especially the idea of a holistic, interrelated plurilingual repertoire, were innovative. However, that idea has since been supported by psycholinguistic and neurolinguistic research in relation to both people who learn an additional language early in life and those who learn later, with stronger integration for the former. Plurilingualism has also been shown to result in a number of cognitive advantages, due to an enhanced executive control system in the brain (that is the ability to divert attention from distractors in task performance).
+
+Most of the references to plu...
+
+---
+
+page 31
+
+---
+
+The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the Guide for the development and implementation of curricula for plurilingual and intercultural education (Beacco et al. 2016a).
+
+---
+
+as before, there's a hyperlink that does not appear to be in a footnote, can you verify? If not already provided in a footnote, this is another instance where a hyperlink is embedded in the prose without a definite footnote
+
+hyperlinked text: Guide for the development and implementation of curricula for plurilingual and intercultural education
+
+if it's possible to "know" (something in the PDF info somewhere...) about these prose hyperlinks (I don't think it can be consistently detected visually by looking because some hyperlinked prose is italicized, but not all unfortunately)
+
+maybe something like:
+
+---
+
+The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621) (Beacco et al. 2016a).
+
+---
+
+page 31
+
+---
+
+Neither pluriculturalism nor the notion of intercultural competence – referred to briefly in CEFR 2001 Sections
+
+5.1.1.3 and 5.1.2.2 – is highly developed in the CEFR book. The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the **Guide for the development and  implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a). In addition, a detailed taxonomy of aspects of plurilingual and pluricultural competence relevant to pluralistic approaches is available in the ECML’s Framework of reference for pluralistic approaches to languages and cultures (FREPA/CARAP).27
+
+---
+
+should not be split into two separate blocks
+
+---
+
+Neither pluriculturalism nor the notion of intercultural competence – referred to briefly in CEFR 2001 Sections 5.1.1.3 and 5.1.2.2 – is highly developed in the CEFR book. The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the **Guide for the development and  implementation of curricula for plurilingual and intercultural education** (Beacco et al. 2016a). In addition, a detailed taxonomy of aspects of plurilingual and pluricultural competence relevant to pluralistic approaches is available in the ECML’s Framework of reference for pluralistic approaches to languages and cultures (FREPA/CARAP).27
+
+---
+
+line 884 - 886 split, page 32
+
+---
+
+Language use, embracing language learning, comprises the actions performed by persons who as individuals and as social agents develop a range of **competences**, both **general** and in particular **communicative language competences**. They draw on the competences at their disposal in various contexts under various **conditions** and under various
+
+**constraints** to engage in **language activities** involving **language processes** to produce and/or receive **texts** in relation to **themes** in specific **domains**, activating those **strategies** which seem most appropriate for carrying out the **tasks** to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification of their competences. (CEFR 2001 Section 2.1)
+
+---
+
+should be
+
+---
+
+Language use, embracing language learning, comprises the actions performed by persons who as individuals and as social agents develop a range of **competences**, both **general** and in particular **communicative language competences**. They draw on the competences at their disposal in various contexts under various **conditions** and under various **constraints** to engage in **language activities** involving **language processes** to produce and/or receive **texts** in relation to **themes** in specific **domains**, activating those **strategies** which seem most appropriate for carrying out the **tasks** to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification of their competences. (CEFR 2001 Section 2.1)
+
+---
+
+figure 1 on page 32 is a mess; this was working before
+
+---
+
+**Figure 1 – The structure of the CEFR descriptive scheme28 Overall language  proficiency Communicative General competences language competences**
+
+Savoir Linguistic
+
+Savoir-faire Sociolinguistic
+
+Savoir-être Pragmatic
+
+Savoir apprendre
+
+**Communicative  Communicative language activities language strategies**
+
+Reception Reception
+
+Production Production
+
+Interaction Interaction
+
+Mediation Mediation
+
+---
+
+should be
+
+---
+
+<!-- db:id=figure_01_structure_cefr_descriptive_scheme type=figure render_as=text_diagram product_tier=context pages=32 -->
+### Figure 1 – The structure of the CEFR descriptive scheme | figure_01_structure_cefr_descriptive_scheme
+
+```text
+Overall language proficiency
+├── General competences
+│   ├── Savoir
+│   ├── Savoir-faire
+│   ├── Savoir-être
+│   └── Savoir apprendre
+├── Communicative language competences
+│   ├── Linguistic
+│   ├── Sociolinguistic
+│   └── Pragmatic
+├── Communicative language activities
+│   ├── Reception
+│   ├── Production
+│   ├── Interaction
+│   └── Mediation
+└── Communicative language strategies
+    ├── Reception
+    ├── Production
+    ├── Interaction
+    └── Mediation
+```
+
+---
+
+line 888, page 32
+
+---
+
+process taken further in the Guide for the development and implementation of curricula for plurilingual and intercultural education (Beacco et al. 2016a).
+
+---
+
+embedded hyperlink for text: Guide for the development and implementation of curricula for plurilingual and intercultural education
+
+is this hyperlink URL already in a footnote elsewhere? Maybe that's why it's not a footnote here, it already exists???? Please check. I need an overall solution, not piecemeal, if possible.
+
+again, if possible, embedded hyperlink not in footnote, can it be retrieved from the document, then should be like:
+
+or if my theory about footnote exists, therefore only embed hyperlink in text, then sub (footnote nn) for:
+
+---
+
+Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621) (Beacco et al. 2016a).
+
+---
+
+page 33
+
+---
+
+**Table 3 – Macro-functional basis of CEFR categories for communicative language activities**
+
+<!-- db:id=scale_reception type=descriptor_scale product_tier=context pages=33 -->
+### Reception | scale_reception
+
+
+---
+
+the ### name is wrong, it takes the first column header and treats it as if that should be the name. 
+
+Here it seems to break with other table ID names and formatting
+
+ex:
+
+**Table 2 – Summary of changes to the illustrative descriptors**
+
+<!-- db:id=table_02_summary_descriptor_changes type=table product_tier=context pages=24-25 -->
+### Table 2 – Summary of changes to the illustrative descriptors | table_02_summary_descriptor_changes
+
+not really sure the fix, almost seems like the context needs to be understood? it's missing the table id as well, like in the table 2, we know it's table 2 by the db:id and in the ### name...
+
+Think on this to find a good repeatable solution that would work
+
+---
+
+not sure how it "should be"
+
+---
+
+page 34
+
+---
+
+all figures are kinda botched (based on my sampling, not just figure 2) where they are extracted as text. Initially it was supposed to reference the image / png of the figure. To be honest the prior screenshot it was taking to produce the png was not very good, it would often get partial screenshots of the figure (like chopped in half) which was unusable. Think of a solution to get the images correctly, usable.
+
+the naming slug given to the figure ought to be useful
+
+the finalized MD (after all your bug fixes) will be placed in a /lang-platform/resources directory with the png of figures being referenced in a new directory called /lang-platform/resources/assets/figures with other resources (not just this one pdf) so make the slug identifiable, and under 
+
+**Figure 2 – The relationship between reception, production, interaction and mediation**
+
+ <--- here
+
+---
+
+put a md link to that png that works in Obsidian markdown notes (using wiki links option) but that may not work in other contexts like if/when we port this to a website. it may require standard linking markdown from which to convert to html links. say so if you agree and I'll turn OFF wiki style links for starndard markdown which i believe must have the path specified (not held in memory and auto-updated by obsidian which is nice but likely unavailable in all contexts outside of obsidian, rendering it unhelpful).
+
+[end of this issue]
+
+---
+
+page 35
+
+---
+
+<!-- db:id=scale_can_do_descriptors_as_competence type=descriptor_scale product_tier=context pages=35 -->
+### “Can do” descriptors as competence | scale_can_do_descriptors_as_competence
+
+| “Can do” descriptors as competence |
+| --- |
+| |
+| The idea of scientifically calibrating “can do” descriptors to a scale of levels comes originally from the field of professional training for nurses. Tests were not very helpful in assessing a trainee nurse’s competence; what was needed was a systematic, informed observation by an expert nurse, guided by short descriptions of typical nursing competence at different levels of achievement. |
+| |
+| This “can do” approach was transferred to language teaching and learning in the work of the Council of Europe in the late 1970s. This happened through three channels: (a) needs-based language training for the world of work; (b) an interest in teacher assessment based on defined, communicative criteria, and (c) experimentation with self-assessment using “can do” descriptors as a way of increasing learner reflection and motivation. Nowadays “can do” descriptors are applied to more and more disciplines in many countries in what is often referred to as a competence-based approach. |
+
+---
+
+is not a scale, it's just prose set in a 'block' (not sure what to call it)
+
+[end of issue]
+
+---
+
+page 35, text is missing before table 4, should be this
+
+---
+
+Communicative language strategies are thus seen in the CEFR as a kind of hinge between communicative language competences and communicative language activities and are attached to the latter in CEFR 2001 Section 4.4. The development of the descriptors for strategic competence was influenced by the model: plan, execute, monitor and repair. However, as can be seen from Table 4, descriptor scales were not developed for all categories. The categories in italics were also considered at the time of developing the CEFR descriptors published in 2001, but no descriptors were produced. For mediation, in the 2014-17 project, a decision was taken to develop descriptors only for execution strategies.
+
+[end of issue]
+
+---
+
+page 35 table 4 is fine with regard to extraction but has 5 lines in the Mediation / Execution cell (also see: Interaction / Evaluation and Repair cell)
+
+note I realize this is likely the case in many other table cells. not sure how to resolve, so I want you to noodle on it. ensure the fix is where it ought to be in the overall pipeline.
+
+---
+
+Linking to previous knowledge Adapting language Breaking down complicated information Amplifying a dense text Streamlining a text
+
+[also see]
+
+Asking for clarification Communication repair
+
+---
+
+should be
+
+---
+
+Linking to previous knowledge 
+Adapting language 
+Breaking down complicated information 
+Amplifying a dense text 
+Streamlining a text
+
+[also]
+
+Asking for clarification 
+Communication repair
+
+---
+
+page 36, while likely covered by earlier issue above with figures, this is different enough to mention
+
+---
+
+**Figure 3 – CEFR Common Reference Levels**
+
+All categories in the humanities and liberal arts are in any case conventional, socially constructed concepts. Like the colours of the rainbow, language proficiency is actually a continuum. Yet, as with the rainbow, despite the fuzziness of the boundaries between colours, we tend to see some colours more than others, as in Figure 4. Yet, to communicate, we simplify and focus on six main colours, as in Figure 5.
+
+**Figure 4 – A rainbow	 C2 C1 B2 B1 A2 A1 Figure 5 – The conventional six colours**
+
+---
+
+ought to be
+
+---
+
+
+**Figure 3 – CEFR Common Reference Levels**
+
+(figure png ref here)
+
+All categories in the humanities and liberal arts are in any case conventional, socially constructed concepts. Like the colours of the rainbow, language proficiency is actually a continuum. Yet, as with the rainbow, despite the fuzziness of the boundaries between colours, we tend to see some colours more than others, as in Figure 4. Yet, to communicate, we simplify and focus on six main colours, as in Figure 5.
+
+**Figure 4 – A rainbow**	 
+
+(figure png ref here)
+
+Figure 5 – The conventional six colours**
+
+(figure png ref here)
+
+---
+
+page 37 this was supposedly fixed by another reported issue a day or so ago but here we are...
+
+---
+
+- CEFR Table 1: a global scale, with one short, summary paragraph per level, is provided in Appendix 1; f CEFR Table 2: a self-assessment grid, which summarises in a simplified form CEFR descriptors for communicative language activities in CEFR 2001 Chapter 4. Table 2 is also used in the Language Passport of the many versions of the ELP and in the EU’s Europass. An expanded version including “Written and online interaction” and “Mediation” is provided in Appendix 2 of this publication; f CEFR Table 3: a selective summary of the CEFR descriptors for aspects of communicative language competence in CEFR 2001 Chapter 5. An expanded version including “Phonology” is given in this publication in Appendix 3.
+
+---
+
+should be
+
+---
+
+- CEFR Table 1: a global scale, with one short, summary paragraph per level, is provided in Appendix 1; f 
+- CEFR Table 2: a self-assessment grid, which summarises in a simplified form CEFR descriptors for communicative language activities in CEFR 2001 Chapter 4. Table 2 is also used in the Language Passport of the many versions of the ELP and in the EU’s Europass. An expanded version including “Written and online interaction” and “Mediation” is provided in Appendix 2 of this publication; 
+- CEFR Table 3: a selective summary of the CEFR descriptors for aspects of communicative language competence in CEFR 2001 Chapter 5. An expanded version including “Phonology” is given in this publication in Appendix 3.
+
+---
+
+same as above issue, page 37
+
+- can make simple purchases where pointing or other gesture can support the verbal reference; - can ask and tell day, time of day and date; - can use some basic greetings; - can say yes, no, excuse me, please, thank you, sorry; - can fill in uncomplicated forms with personal details, name, address, nationality, marital status; - can write a short, simple postcard (CEFR 2001 Section 3.5). **Background to the CEFR levels** The six-level scheme is labelled upwards from A to C precisely because C2 is not the highest imaginable level for proficiency in an additional language. In fact, a scheme including a seventh level had been proposed by David Wilkins at an intergovernmental symposium held in 1977 to discuss a possible European unit credit scheme. The CEFR Working Party adopted Wilkins’ first six levels because Wilkins’ seventh level is beyond the scope of mainstream education.
+
+---
+
+should be
+
+---
+
+7 items, not just 1 run on
+
+---
+
+page 37, here it lopped off the top I guess?, not sure why
+
+---
+
+In the SNSF research project that empirically confirmed the levels and developed the CEFR illustrative descriptors published in 2001, the existence of this seventh level was confirmed. There were user/ learners studying interpretation and translation at the University of Lausanne who were clearly above C2. Indeed, simultaneous interpreters at European institutions and professional translators operate at a level well above C2. For instance, C2 is the third of five levels for literary translation recently produced in the PETRA project. In addition many plurilingual writers display Wilkins’ seventh level of “ambilingual proficiency” without being bilingual from birth.
+
+---
+
+should be 
+
+---
+
+Background to the CEFR levels 
+
+The six-level scheme is labelled upwards from A to C precisely because C2 is not the highest imaginable level for proficiency in an additional language. In fact, a scheme including a seventh level had been proposed by David Wilkins at an intergovernmental symposium held in 1977 to discuss a possible European unit credit scheme. The CEFR Working Party adopted Wilkins’ first six levels because Wilkins’ seventh level is beyond the scope of mainstream education.
+
+In the SNSF research project that empirically confirmed the levels and developed the CEFR illustrative descriptors published in 2001, the existence of this seventh level was confirmed. There were user/ learners studying interpretation and translation at the University of Lausanne who were clearly above C2. Indeed, simultaneous interpreters at European institutions and professional translators operate at a level well above C2. For instance, C2 is the third of five levels for literary translation recently produced in the PETRA project. In addition many plurilingual writers display Wilkins’ seventh level of “ambilingual proficiency” without being bilingual from birth.
+
+---
+
+page 38 is a table example of A2 level, captured wrongly as prose
+
+---
+
+Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly and slowly.
+
+**A2** Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment), provided people articulate clearly and slowly.
+
+(end of issue)
+
+---
+
+page 38 figure 6 is a mess, as reported earlier
+
+(end of issue)
+
+---
+
+page 39
+
+---
+
+figure 7 is a mess, some of it follows the **Figure 7..  ** line but part of it was misplaced at the end of the prose "...general education, in using other languages, in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical"
+
+i.e. the page prose ends there, but in the outoput it is followed by:
+
+"speakers Understanding as a member of a live audience Note-taking (lectures, seminars, meetings, etc.)
+
+Reading for orientation
+
+Reading for information and argument
+
+**RECEPTION**
+
+Understanding an interlocutor
+
+**A1 INTERACTION** Informal discussion (with friends)
+
+Formal discussion (meetings)
+
+Goal-oriented co-operation
+
+Information exchange Goal-oriented online transactions and collaboration"
+
+---
+
+if the image were captured as png then this should resolve to me.
+
+(end of issue)
+
+---
+
+page 40
+
+---
+
+Figure 8 is a mess. should be png.
+Figure 9, same but also the **Figure 9...** text that it attempts to create is all wrong
+Figure 10, same but also the **Figure 9...** text that it attempts to create is all wrong
+
+(end of issue)
+
+---
+
+page 41
+
+---
+
+
+**Qualitative phase**: 32 face-to-face workshops with groups of 4 to 12 teachers, focusing on (a) sorting descriptors into the categories they purported to describe; (b) evaluating the clarity, accuracy and relevance of the descriptors; and (c) sorting descriptors into bands of proficiency. **Quantitative phase**: Rasch scaling analysis of the way 250 teachers interpreted the difficulty of the descriptors when each teacher assessed 10 learners, forming a structured sample of two of their classes at the end of the school year. These evaluations with descriptors took place when the (approximately 80% secondary school) teachers were awarding grades for the school year.
+
+---
+
+should be
+
+---
+
+**Qualitative phase**: 32 face-to-face workshops with groups of 4 to 12 teachers, focusing on (a) sorting descriptors into the categories they purported to describe; (b) evaluating the clarity, accuracy and relevance of the descriptors; and (c) sorting descriptors into bands of proficiency. 
+
+**Quantitative phase**: Rasch scaling analysis of the way 250 teachers interpreted the difficulty of the descriptors when each teacher assessed 10 learners, forming a structured sample of two of their classes at the end of the school year. These evaluations with descriptors took place when the (approximately 80% secondary school) teachers were awarding grades for the school year.
+
+---
+
+page 41
+
+---
+
+The illustrative descriptors are one source for the development of standards appropriate to the context concerned; they are not in themselves offered as standards. They are a basis for reflection, discussion and further action. The aim is to open new possibilities, not to pre-empt decisions. The CEFR itself makes this point very clearly, stating that the descriptors are presented as recommendations and are not in any way mandatory. As a user, you are invited to use the scaling system and associated descriptors critically. The Modern Languages Section of the Council of Europe will be glad to receive a report of your experience in putting them into use. Please note also that scales are provided not only for a global proficiency, but for many of the parameters of language proficiency detailed in Chapters 4 and 5. This makes it possible to specify differentiated profiles for particular learners or groups of learners (CEFR 2001, Notes for the user: xiii-xiv).
+
+---
+
+should be 
+
+---
+
+The illustrative descriptors are one source for the development of standards appropriate to the context concerned; they are not in themselves offered as standards. They are a basis for reflection, discussion and further action. The aim is to open new possibilities, not to pre-empt decisions. The CEFR itself makes this point very clearly, stating that the descriptors are presented as recommendations and are not in any way mandatory. 
+
+As a user, you are invited to use the scaling system and associated descriptors critically. The Modern Languages Section of the Council of Europe will be glad to receive a report of your experience in putting them into use. Please note also that scales are provided not only for a global proficiency, but for many of the parameters of language proficiency detailed in Chapters 4 and 5. This makes it possible to specify differentiated profiles for particular learners or groups of learners (CEFR 2001, Notes for the user: xiii-xiv).
+
+---
+
+page 42, list on one line
+
+---
+
+- draw, in their formulation, on the experience of many institutions active in the field of defining levels of proficiency; f have been developed in tandem with the descriptive scheme presented in CEFR 2001 Chapters 4 and 5 through an interaction between (a) the theoretical work of the Authoring Group; (b) the analysis of existing scales of proficiency; and (c) the practical workshops with teachers; f have been matched to the set of Common Reference Levels A1, A2, B1, B2, C1 and C2; f meet the criteria outlined in CEFR 2001 Appendix A for effective descriptors in that each is brief (up to 25 words), clear and transparent, positively formulated, describes something definite, and has independent, stand-alone integrity, not relying on the formulation of other descriptors for its interpretation; f have been found transparent, useful and relevant by groups of non-native and native-speaker teachers from a variety of educational sectors with very different profiles in terms of linguistic training and teaching experience; f are relevant to the description of actual learner achievement in lower and upper secondary, vocational and adult education, and could thus represent realistic objectives; f have been “objectively calibrated” to a common scale. This means that the position of the vast majority of the descriptors on the scale is the product of how they have been interpreted to assess the achievement of learners, rather than just the opinion of the authors; f provide a bank of criterion statements about the continuum of foreign language proficiency that can be exploited flexibly for the development of criterion-referenced assessment. They can be matched to existing local systems, elaborated by local experience and/or used to develop new sets of objectives.
+
+(end of issue)
+
+---
+
+page 42, similar to above but different enough to warrant separate issue
+
+---
+
+- relating learning aims to real-world language use, thus providing a framework for action-oriented learning; f providing transparent “signposting” to learners, parents or sponsors; f offering a “menu” to negotiate priorities with adult learners in a process of ongoing needs analysis; f suggesting classroom tasks to teachers that will involve activities described in several descriptors; f introducing criterion-referenced assessment with criteria relating to an external framework (here the CEFR). **Defining curriculum aims from a needs profile Step 1**: Select the descriptor scales that are relevant to the needs of the group of learners concerned (see Figures 6 and 7). Clearly this is best undertaken in consultation with stakeholders, including teachers and, in the case of adult learners, the learners themselves. Stakeholders can also be asked what other communicative activities are relevant.
+
+**Step 2**: Determine with the stakeholders, for each relevant descriptor scale, the level that the learners should reach.
+
+**Step 3**: Collate the descriptors for the target level(s) from all the relevant scales into a list. This provides the very first draft of a set of communicative aims.
+
+**Step 4**: Refine the list, possibly in discussion with the stakeholders.
+
+---
+
+should be
+
+---
+
+- relating learning aims to real-world language use, thus providing a framework for action-oriented learning; f providing transparent “signposting” to learners, parents or sponsors; f offering a “menu” to negotiate priorities with adult learners in a process of ongoing needs analysis; f suggesting classroom tasks to teachers that will involve activities described in several descriptors; f introducing criterion-referenced assessment with criteria relating to an external framework (here the CEFR). 
+
+(list above broken into correct number of items (5)
+
+**Defining curriculum aims from a needs profile**
+
+**Step 1**: Select the descriptor scales that are relevant to the needs of the group of learners concerned (see Figures 6 and 7). Clearly this is best undertaken in consultation with stakeholders, including teachers and, in the case of adult learners, the learners themselves. Stakeholders can also be asked what other communicative activities are relevant.
+
+**Step 2**: Determine with the stakeholders, for each relevant descriptor scale, the level that the learners should reach.
+
+**Step 3**: Collate the descriptors for the target level(s) from all the relevant scales into a list. This provides the very first draft of a set of communicative aims.
+
+**Step 4**: Refine the list, possibly in discussion with the stakeholders.
+
+---
+
+page 43, captured correctly as prose but through it all on one line which was wrong, and odd....
+
+---
+
+**An alternative approach is to: Step 1**: Determine a global target level for the course. **Step 2**: Collate all the descriptors for that level. **Step 3**: Identify the descriptors that are relevant, in consultation with stakeholders, and delete the rest.
+
+---
+
+should be
+
+---
+
+**An alternative approach is to:**
+
+**Step 1**: Determine a global target level for the course. 
+
+**Step 2**: Collate all the descriptors for that level. 
+
+**Step 3**: Identify the descriptors that are relevant, in consultation with stakeholders, and delete the rest.
+
+---
+
+page 43, again and again with this damn issue! list on one line...
+
+---
+
+- Can follow the plot of stories, simple novels and comics with a clear linear storyline and high frequency everyday language, given regular use of a dictionary (Reading as a leisure activity). f Can explain briefly the feelings and opinions that a work provoked in them (Expressing a personal response to creative texts (including literature)). f Can discuss in simple terms the way in which things that may look “strange” to them in another sociocultural context may well be “normal” for the other people concerned (Building on pluricultural repertoire).
+
+(end of issue)
+
+---
+
+page 43 here is wrong, why?
+
+---
+
+
+2.	 Descriptors of aspects of proficiency related to particular competences, which are located in Chapter 5. The former are very suitable for teacher or self-assessment with regard to real-world tasks. Such teacher or self-assessments are made on the basis of a detailed picture of the learner’s language ability built up during the course concerned. They are attractive because they can help to focus both learners and teachers on an action-oriented approach. (CEFR 2001 Section 9.2.2) The latter, descriptors of aspects of competences (CEFR 2001 Chapter 5), can be a useful source for developing assessment criteria for how well user/learners are able to perform a particular task: to assess the quality of their production. This is opposed to “the what”: the communicative activities they “can do” (CEFR 2001 Chapter 4). The relationship between the two types of illustrative descriptors is shown in Table 5. Each type (what; how) can take two forms: simpler, for “outsiders”, and more elaborated, for “insiders” (usually teachers). Simple forms of descriptors about what the learner can do are often used to report results to the user/learners themselves and other stakeholders (user-oriented); more elaborated, “insider” forms help teachers or testers to construct a programme and specific tasks in it (constructor-oriented). Simpler versions of descriptors for how a learner performs in a language are used in assessment grids, which usually restrict themselves to four or five assessment criteria; in a spirit of transparency these can be shared with user/learners (assessor-oriented). More elaborated, “insider” forms, usually for a longer list of aspects of quality, can be used as a checklist to diagnose strengths and weaknesses (diagnostic-oriented). Users may wish to follow up on this point in CEFR 2001 Sections 3.8 and 9.2.2, which explain these different orientations.
+
+---
+
+should be
+
+---
+
+
+2.	 Descriptors of aspects of proficiency related to particular competences, which are located in Chapter 5. 
+
+The former are very suitable for teacher or self-assessment with regard to real-world tasks. Such teacher or self-assessments are made on the basis of a detailed picture of the learner’s language ability built up during the course concerned. They are attractive because they can help to focus both learners and teachers on an action-oriented approach. (CEFR 2001 Section 9.2.2) 
+
+The latter, descriptors of aspects of competences (CEFR 2001 Chapter 5), can be a useful source for developing assessment criteria for how well user/learners are able to perform a particular task: to assess the quality of their production. This is opposed to “the what”: the communicative activities they “can do” (CEFR 2001 Chapter 4). The relationship between the two types of illustrative descriptors is shown in Table 5. Each type (what; how) can take two forms: simpler, for “outsiders”, and more elaborated, for “insiders” (usually teachers). Simple forms of descriptors about what the learner can do are often used to report results to the user/learners themselves and other stakeholders (user-oriented); more elaborated, “insider” forms help teachers or testers to construct a programme and specific tasks in it (constructor-oriented). Simpler versions of descriptors for how a learner performs in a language are used in assessment grids, which usually restrict themselves to four or five assessment criteria; in a spirit of transparency these can be shared with user/learners (assessor-oriented). More elaborated, “insider” forms, usually for a longer list of aspects of quality, can be used as a checklist to diagnose strengths and weaknesses (diagnostic-oriented). Users may wish to follow up on this point in CEFR 2001 Sections 3.8 and 9.2.2, which explain these different orientations.
+
+---
+
+page 44, table is right but as earlier some <br> would be nice if doable...
+
+---
+
+
+|                          | WHAT the user/learner can do (CEFR 2001 Chapter 4)         | HOW WELL the user/ learner performs (CEFR 2001 Chapter 5) | Of relevance to                  |
+| ------------------------ | ---------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
+| More complex descriptors | Constructor-oriented curriculum descriptors                | Diagnostic-oriented assessment descriptors                | Curriculum designers Teachers    |
+| Simpler descriptors      | User-oriented learning aims and “can do” learning outcomes | Self-assessment-oriented assessment descriptors           | Learners Parents/employers, etc. |
+
+Curriculum designers Teachers
+Learners Parents/employers, etc.
+
+---
+
+should be
+
+---
+
+Curriculum designers 
+Teachers
+
+and
+
+Learners 
+Parents/employers, etc.
+
+---
+
+page 47, Figure 11 is a total mess and part of it is even misplaced after prose "voiceovers or signing"...then figure 11 stuff
+
+---
+
+while this is a figure, it should be a text diagram (not a PNG), factor this in to earlier Figure-related work (not all are png, this example)
+
+note this worked before, not sure when this got dropped
+
+(end of issue)
+
+---

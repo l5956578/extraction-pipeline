@@ -4,13 +4,15 @@
 
 | `render_as` | Figures | Notes |
 |---|---|---|
-| `png` | 2–10 | Diagrams, photos, radar/profile charts — must be cropped to `assets/figures/` |
+| `png` | 2–10 | Diagrams, photos, radar/profile charts — multipass agent crop to `assets/figures/` |
 | `text_diagram` | 1, 11–17 | Hierarchical trees; authoritative bodies in `figures_catalog.py`. Each tree is one continuous `` ```text `` block (no blank lines between root and branches). |
 | `mermaid` | 18–20 | Process flowcharts in appendices |
 
 **Figure 2** is a crossing-arrow diagram — never approximate with Mermaid.
 
-**Figures 6–7** are radar profiles. PNG is canonical; structured levels for future UI live in `metadata/figure_06_profile_data.json` (and figure_07 when verified). Each axis level is the blue polygon edge / filled dot on the outer ring, read per quadrant left-to-right.
+**Figures 6–7** are radar profiles. PNG is canonical; structured levels for future UI live in `metadata/figure_06_profile_data.json` (and figure_07 when verified).
+
+**C2-F3 crop policy (binding):** single-pass fractional crops are insufficient. Use drawing/image geometry + **multi-pass visual re-read** of each PNG (`pipeline/figure_multipass_crop.py` + agent). Do not mark C2-F3 resolved without visual PDF match.
 
 ## Text extraction
 

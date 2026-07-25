@@ -1,0 +1,12 @@
+Page: 162
+Span: scale_setting_and_perspectives (pages 162-163)
+Title: Setting and perspectives
+Role: start
+Rotation: 90
+Slug: page_162_scale_setting_and_perspectives
+PNG: metadata/rotated_for_grok/page_162_scale_setting_and_perspectives.png
+Write markdown: metadata/rotated_from_grok/page_162_scale_setting_and_perspectives.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

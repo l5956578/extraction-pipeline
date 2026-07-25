@@ -21,7 +21,7 @@ from pipeline.id_registry import build_registry, registry_by_page
 from pipeline.descriptor_layout import section_headers_from_page
 from pipeline.page_elements import build_reading_order
 from pipeline.span_detector import detect_spans
-from pipeline.title_fix import fix_rotated_title
+from pipeline.title_fix import clean_artifact_id, fix_rotated_title
 
 
 def _page_drawings_count(page: fitz.Page) -> tuple[int, int, int]:
@@ -100,8 +100,10 @@ def classify_page(page_num: int, page: fitz.Page, spans_by_page: dict) -> dict:
         role = "start" if page_num == span["start_page"] else (
             "end" if page_num == span["end_page"] else "middle"
         )
+        # Root L07-ID: never persist garbled reversed tokens in group_id
+        clean_gid = clean_artifact_id(span.get("group_id"), span.get("title"))
         spanning_info = {
-            "group_id": span["group_id"],
+            "group_id": clean_gid,
             "span_type": span["span_type"],
             "role": role,
             "start_page": span["start_page"],
@@ -168,11 +170,36 @@ def build_inventories() -> list[dict]:
             entry = classify_page(page_num, page, spans_by_page)
             art = art_by_page.get(page_num)
             if art:
-                entry["artifact_id"] = art.id
-                entry["section_title"] = fix_rotated_title(art.display_name)
+                section_title = fix_rotated_title(art.display_name)
+                entry["artifact_id"] = clean_artifact_id(art.id, section_title)
+                entry["section_title"] = section_title
                 entry["product_tier"] = art.product_tiers
                 if art.artifact_type == "figure":
                     entry["expects_table"] = False
+            # Continuation spans: ensure clean group_id is also page artifact_id
+            # when registry missed the scale (rotated multi-page titles).
+            si = entry.get("spanning_info") or {}
+            if si.get("group_id") and not entry.get("artifact_id"):
+                entry["artifact_id"] = clean_artifact_id(si["group_id"])
+                if not entry.get("section_title"):
+                    # Prefer human title from reading_order later; seed from id
+                    entry["section_title"] = (
+                        si["group_id"].removeprefix("scale_").replace("_", " ")
+                    )
+            # CONTRACTS §2: always record registry figures for this page
+            from pipeline.extractors.figures import figures_for_page
+
+            page_figs = figures_for_page(page_num)
+            entry["figures"] = [
+                {"id": f["id"], "title": f.get("title"), "num": f.get("num"), "render_as": f.get("render_as")}
+                for f in page_figs
+            ]
+            # Prefer figure primary id when multi-fig (first by num), not last-wins alone
+            if page_figs:
+                primary = sorted(page_figs, key=lambda f: f.get("num") or 0)[0]
+                entry["artifact_id"] = primary["id"]
+                entry["section_title"] = primary.get("title") or primary["id"]
+                entry["expects_table"] = False
             entry["reading_order"] = build_reading_order(
                 page_num,
                 page,

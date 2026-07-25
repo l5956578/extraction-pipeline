@@ -60,12 +60,17 @@ def merge_rotated_pages(
     page_nums: list[int],
     pdf_path,
     rotation: int = 90,
+    force_ocr: bool = False,
 ) -> str:
+    """Merge rotated table pages. Prefer pdfplumber; OCR only if force_ocr or unreadable.
+
+    force_ocr=True is expensive (Tesseract per page) — avoid for large spans / fallbacks.
+    """
     parts = []
     for page_num in page_nums:
         page = doc[page_num - 1]
         content = extract_rotated_tables(
-            page_num - 1, page, pdf_path, rotation=rotation, force_ocr=True
+            page_num - 1, page, pdf_path, rotation=rotation, force_ocr=force_ocr
         )
         parts.append(content)
     return "\n\n".join(parts)

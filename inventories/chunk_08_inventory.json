@@ -1,14 +1,8 @@
 {
   "chunk_id": "chunk_08",
-  "start_page": 176,
+  "start_page": 182,
   "end_page": 241,
   "expected_page_markers": [
-    176,
-    177,
-    178,
-    179,
-    180,
-    181,
     182,
     183,
     184,
@@ -72,28 +66,288 @@
   ],
   "required_artifacts": [
     {
-      "id": "table_self_assessment_grid",
-      "page": 177,
+      "id": "scale_phonology",
+      "page": 183,
       "type": "artifact"
     },
     {
-      "id": "table_self_assessment_grid",
-      "page": 178,
+      "id": "scale_phonology",
+      "page": 184,
       "type": "artifact"
     },
     {
-      "id": "table_self_assessment_grid",
-      "page": 179,
+      "id": "scale_phonology",
+      "page": 185,
       "type": "artifact"
     },
     {
-      "id": "table_self_assessment_grid",
-      "page": 180,
+      "id": "scale_argument",
+      "page": 187,
       "type": "artifact"
     },
     {
-      "id": "table_self_assessment_grid",
-      "page": 181,
+      "id": "scale_argument",
+      "page": 188,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_argument",
+      "page": 189,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 191,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 192,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 193,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 194,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 195,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 196,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_interaction",
+      "page": 197,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 198,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 199,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 200,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 201,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 202,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 203,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 204,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 205,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 206,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 207,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 208,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 209,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 210,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 211,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 212,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 213,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 214,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 215,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 216,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 217,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 218,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 219,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 220,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 221,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 222,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 223,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_a_text",
+      "page": 224,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 225,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 226,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 227,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 228,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 229,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 230,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 231,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 232,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 233,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_concepts",
+      "page": 234,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 235,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 236,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 237,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 238,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 239,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 240,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_mediating_communication",
+      "page": 241,
       "type": "artifact"
     }
   ],
@@ -107,6 +361,11 @@
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
+      "table"
     ]
   ],
   "expected_multipage": [
@@ -114,278 +373,6 @@
     "scale_vocabulary_control"
   ],
   "pages": [
-    {
-      "page_number": 176,
-      "content_type": "blank",
-      "table_orientation": "normal",
-      "spanning_info": null,
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 0,
-      "min_output_chars": 80,
-      "section_headers": [],
-      "expects_table": false,
-      "skip_validation": false,
-      "drawings": 0,
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 177,
-      "content_type": "section_block",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "table_self_assessment_grid",
-        "span_type": "section_block",
-        "role": "start",
-        "start_page": 177,
-        "end_page": 181
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 2808,
-      "min_output_chars": 224,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": false,
-      "drawings": 56,
-      "artifact_id": "table_self_assessment_grid",
-      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-      "product_tier": [
-        "base"
-      ],
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "artifact",
-          "artifact_type": "section_block",
-          "artifact_id": "table_self_assessment_grid",
-          "display_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-          "extractor": "section_block_merge",
-          "rotation": 90,
-          "text_direction": "ocr",
-          "span": {
-            "group_id": "table_self_assessment_grid",
-            "span_type": "section_block",
-            "role": "start",
-            "pages": [
-              177,
-              178,
-              179,
-              180,
-              181
-            ],
-            "emit_body_on": 177
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 178,
-      "content_type": "section_block",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "table_self_assessment_grid",
-        "span_type": "section_block",
-        "role": "middle",
-        "start_page": 177,
-        "end_page": 181
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 2429,
-      "min_output_chars": 194,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 54,
-      "artifact_id": "table_self_assessment_grid",
-      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-      "product_tier": [
-        "base"
-      ],
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "table_self_assessment_grid",
-            "span_type": "section_block",
-            "role": "middle",
-            "pages": [
-              177,
-              178,
-              179,
-              180,
-              181
-            ],
-            "emit_body_on": 177
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 179,
-      "content_type": "section_block",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "table_self_assessment_grid",
-        "span_type": "section_block",
-        "role": "middle",
-        "start_page": 177,
-        "end_page": 181
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 3869,
-      "min_output_chars": 309,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 55,
-      "artifact_id": "table_self_assessment_grid",
-      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-      "product_tier": [
-        "base"
-      ],
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "table_self_assessment_grid",
-            "span_type": "section_block",
-            "role": "middle",
-            "pages": [
-              177,
-              178,
-              179,
-              180,
-              181
-            ],
-            "emit_body_on": 177
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 180,
-      "content_type": "section_block",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "table_self_assessment_grid",
-        "span_type": "section_block",
-        "role": "middle",
-        "start_page": 177,
-        "end_page": 181
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 3196,
-      "min_output_chars": 255,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 54,
-      "artifact_id": "table_self_assessment_grid",
-      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-      "product_tier": [
-        "base"
-      ],
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "table_self_assessment_grid",
-            "span_type": "section_block",
-            "role": "middle",
-            "pages": [
-              177,
-              178,
-              179,
-              180,
-              181
-            ],
-            "emit_body_on": 177
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
-    {
-      "page_number": 181,
-      "content_type": "section_block",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "table_self_assessment_grid",
-        "span_type": "section_block",
-        "role": "end",
-        "start_page": 177,
-        "end_page": 181
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 2154,
-      "min_output_chars": 172,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 40,
-      "artifact_id": "table_self_assessment_grid",
-      "section_title": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-      "product_tier": [
-        "base"
-      ],
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "table_self_assessment_grid",
-            "span_type": "section_block",
-            "role": "end",
-            "pages": [
-              177,
-              178,
-              179,
-              180,
-              181
-            ],
-            "emit_body_on": 177
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
     {
       "page_number": 182,
       "content_type": "blank",
@@ -426,6 +413,12 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 56,
+      "artifact_id": "scale_phonology",
+      "section_title": "Phonology",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -443,6 +436,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
             "group_id": "scale_phonology",
             "span_type": "continuation",
@@ -459,8 +458,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            150.2482,
+            70.47394999999995,
+            533.1220500000001,
+            771.23275
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -483,6 +494,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 99,
+      "artifact_id": "scale_phonology",
+      "section_title": "Phonology",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -525,6 +542,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 55,
+      "artifact_id": "scale_phonology",
+      "section_title": "Phonology",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -588,6 +611,12 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 57,
+      "artifact_id": "scale_argument",
+      "section_title": "Argument",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -605,6 +634,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
             "group_id": "scale_argument",
             "span_type": "continuation",
@@ -621,8 +656,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            144.73675,
+            70.47394999999995,
+            486.27175,
+            771.23275
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -645,6 +692,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 54,
+      "artifact_id": "scale_argument",
+      "section_title": "Argument",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -687,6 +740,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 55,
+      "artifact_id": "scale_argument",
+      "section_title": "Argument",
+      "product_tier": [
+        "assessment_action",
+        "context"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -750,11 +809,32 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 76,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "side",
+          "y0": 70.18682098388672,
+          "y1": 649.9351806640625,
+          "bbox": [
+            0.0,
+            68.18682098388672,
+            212.655925,
+            651.9351806640625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1803
+        },
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44484999999997,
           "y1": 771.2326666666665,
@@ -767,6 +847,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
             "group_id": "appendix_5_domain_examples",
             "span_type": "series",
@@ -826,13 +912,25 @@
             ],
             "emit_body_on": 191
           },
-          "seq": 0,
+          "seq": 1,
           "table_index": 0
         },
         {
-          "seq": 1,
+          "seq": 2,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            218.655925,
+            70.44484999999997,
+            524.6183,
+            771.2326666666665
+          ]
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -855,11 +953,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 76,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44484999999997,
           "y1": 771.2326666666665,
@@ -872,6 +976,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -902,11 +1012,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 119,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44481249999998,
           "y1": 771.2326428571429,
@@ -919,6 +1035,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -949,11 +1071,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 84,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44483846153844,
           "y1": 771.2326818181817,
@@ -966,6 +1094,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -996,11 +1130,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 135,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44445714285712,
           "y1": 771.2322125,
@@ -1013,14 +1153,50 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
+          "seq": 1,
+          "type": "prose",
+          "role": "side",
+          "y0": 77.4741439819336,
+          "y1": 755.9071044921875,
+          "bbox": [
+            210.7736,
+            75.4741439819336,
+            595.2760009765625,
+            757.9071044921875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2231
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "side",
+          "y0": 90.29027557373047,
+          "y1": 746.5030517578125,
+          "bbox": [
+            0.0,
+            88.29027557373047,
+            206.60784999999998,
+            748.5030517578125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2119
+        },
+        {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44445714285712,
           "y1": 771.2322125,
@@ -1033,12 +1209,18 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
-          "seq": 1,
+          "seq": 3,
           "table_index": 1
         },
         {
-          "seq": 2,
+          "seq": 4,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1063,11 +1245,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 105,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.44483124999998,
           "y1": 771.2326785714286,
@@ -1080,6 +1268,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1110,11 +1304,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 115,
+      "artifact_id": "scale_online_interaction",
+      "section_title": "Online interaction",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_online_interaction",
           "display_title": "Online interaction",
           "y0": 70.4448333333333,
           "y1": 771.2323333333333,
@@ -1127,6 +1327,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1157,11 +1363,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 90,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2327083333333,
@@ -1174,6 +1386,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1204,11 +1422,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 76,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323749999999,
@@ -1221,6 +1445,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1251,11 +1481,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 88,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326499999999,
@@ -1268,6 +1504,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1298,11 +1540,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 77,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323333333333,
@@ -1315,6 +1563,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1345,11 +1599,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 123,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326666666667,
@@ -1362,6 +1622,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1392,11 +1658,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 89,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.23235,
@@ -1409,6 +1681,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1439,11 +1717,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 89,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326818181817,
@@ -1456,6 +1740,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1486,11 +1776,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 97,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44483999999997,
           "y1": 771.2322857142857,
@@ -1503,6 +1799,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1533,11 +1835,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 141,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326944444444,
@@ -1550,14 +1858,50 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
+          "seq": 1,
+          "type": "prose",
+          "role": "side",
+          "y0": 78.08663177490234,
+          "y1": 755.8932495117188,
+          "bbox": [
+            337.71605,
+            76.08663177490234,
+            595.2760009765625,
+            757.8932495117188
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1512
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "side",
+          "y0": 81.3626937866211,
+          "y1": 755.6025390625,
+          "bbox": [
+            0.0,
+            79.3626937866211,
+            371.86215,
+            757.6025390625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1491
+        },
+        {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326944444444,
@@ -1570,12 +1914,18 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
-          "seq": 1,
+          "seq": 3,
           "table_index": 1
         },
         {
-          "seq": 2,
+          "seq": 4,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1600,11 +1950,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 130,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2322777777777,
@@ -1617,6 +1973,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1647,11 +2009,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 100,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326363636363,
@@ -1664,6 +2032,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1694,11 +2068,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 97,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44483999999997,
           "y1": 771.2323333333334,
@@ -1711,6 +2091,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1741,11 +2127,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 135,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326071428571,
@@ -1758,6 +2150,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1788,11 +2186,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 112,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323749999999,
@@ -1805,6 +2209,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1835,11 +2245,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 102,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326923076923,
@@ -1852,6 +2268,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1882,11 +2304,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 75,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323333333333,
@@ -1899,6 +2327,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1929,11 +2363,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 110,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484117647056,
           "y1": 771.2326785714286,
@@ -1946,6 +2386,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1976,11 +2422,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 103,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2322857142857,
@@ -1993,6 +2445,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2023,11 +2481,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 106,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44481999999998,
           "y1": 771.23271875,
@@ -2040,6 +2504,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2070,11 +2540,32 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 141,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "side",
+          "y0": 79.31954193115234,
+          "y1": 755.6024169921875,
+          "bbox": [
+            0.0,
+            77.31954193115234,
+            361.897225,
+            757.6024169921875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1664
+        },
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323235294117,
@@ -2087,14 +2578,35 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
-          "seq": 0,
+          "seq": 1,
           "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "side",
+          "y0": 96.42303466796875,
+          "y1": 755.9031372070312,
+          "bbox": [
+            337.71605,
+            94.42303466796875,
+            595.2760009765625,
+            757.9031372070312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1629
         },
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323235294117,
@@ -2107,12 +2619,18 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
-          "seq": 1,
+          "seq": 3,
           "table_index": 1
         },
         {
-          "seq": 2,
+          "seq": 4,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -2137,11 +2655,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 133,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484285714283,
           "y1": 771.232725,
@@ -2154,6 +2678,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2184,11 +2714,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 97,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2323636363636,
@@ -2201,6 +2737,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2231,11 +2773,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 135,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44484999999997,
           "y1": 771.2326944444444,
@@ -2248,6 +2796,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2278,11 +2832,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 97,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44482857142854,
           "y1": 771.2326666666667,
@@ -2295,6 +2855,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2325,11 +2891,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 86,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44483846153844,
           "y1": 771.2327083333333,
@@ -2342,6 +2914,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2372,11 +2950,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 73,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44483636363634,
           "y1": 771.2322999999999,
@@ -2389,6 +2973,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2419,11 +3009,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 97,
+      "artifact_id": "scale_mediating_a_text",
+      "section_title": "Mediating a text",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_a_text",
           "display_title": "Mediating a text",
           "y0": 70.44483999999997,
           "y1": 771.2326923076923,
@@ -2436,6 +3032,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2466,12 +3068,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 114,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44482352941175,
           "y1": 771.2323124999999,
           "bbox": [
@@ -2483,6 +3091,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2513,12 +3127,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 95,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44482857142854,
           "y1": 771.2327142857142,
           "bbox": [
@@ -2530,6 +3150,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2560,12 +3186,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 79,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44482499999998,
           "y1": 771.2326499999999,
           "bbox": [
@@ -2577,6 +3209,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2607,12 +3245,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 92,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44482857142854,
           "y1": 771.2326363636363,
           "bbox": [
@@ -2624,6 +3268,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2654,12 +3304,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 118,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44482352941175,
           "y1": 771.2322777777777,
           "bbox": [
@@ -2671,6 +3327,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2701,12 +3363,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 79,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44480909090908,
           "y1": 771.2326499999999,
           "bbox": [
@@ -2718,6 +3386,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2748,12 +3422,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 70,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44481999999998,
           "y1": 771.2323749999999,
           "bbox": [
@@ -2765,6 +3445,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2795,12 +3481,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 93,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44481538461537,
           "y1": 771.2323076923077,
           "bbox": [
@@ -2812,6 +3504,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2842,12 +3540,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 135,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44484285714283,
           "y1": 771.2326944444444,
           "bbox": [
@@ -2859,15 +3563,51 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
+          "seq": 1,
+          "type": "prose",
+          "role": "side",
+          "y0": 77.0418930053711,
+          "y1": 755.9081420898438,
+          "bbox": [
+            190.2007,
+            75.0418930053711,
+            595.2760009765625,
+            757.9081420898438
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1110
+        },
+        {
+          "seq": 2,
+          "type": "prose",
+          "role": "side",
+          "y0": 96.427978515625,
+          "y1": 755.5980834960938,
+          "bbox": [
+            0.0,
+            94.427978515625,
+            245.648,
+            757.5980834960938
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1071
+        },
+        {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44484285714283,
           "y1": 771.2326944444444,
           "bbox": [
@@ -2879,12 +3619,18 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
-          "seq": 1,
+          "seq": 3,
           "table_index": 1
         },
         {
-          "seq": 2,
+          "seq": 4,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -2909,12 +3655,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 133,
+      "artifact_id": "scale_mediating_concepts",
+      "section_title": "Mediating concepts",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
-          "display_title": "Mediating stpecnoc",
+          "artifact_id": "scale_mediating_concepts",
+          "display_title": "Mediating concepts",
           "y0": 70.44483499999998,
           "y1": 771.2326944444444,
           "bbox": [
@@ -2926,6 +3678,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -2956,11 +3714,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 73,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44483636363634,
           "y1": 771.2323333333333,
@@ -2973,6 +3737,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3003,11 +3773,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 100,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44484999999997,
           "y1": 771.2326363636363,
@@ -3020,6 +3796,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3050,11 +3832,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 123,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44484210526313,
           "y1": 771.232294117647,
@@ -3067,6 +3855,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3097,11 +3891,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 101,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44484999999997,
           "y1": 771.2326923076923,
@@ -3114,6 +3914,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3144,11 +3950,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 108,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44481999999998,
           "y1": 771.2322812499999,
@@ -3161,6 +3973,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3191,11 +4009,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 88,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44483846153844,
           "y1": 771.2327083333333,
@@ -3208,6 +4032,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -3238,11 +4068,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 121,
+      "artifact_id": "scale_mediating_communication",
+      "section_title": "Mediating communication",
+      "product_tier": [
+        "detailed",
+        "context"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "appendix_5_domain_examples",
+          "artifact_id": "scale_mediating_communication",
           "display_title": "Mediating communication",
           "y0": 70.44482352941175,
           "y1": 771.232294117647,
@@ -3255,6 +4091,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0

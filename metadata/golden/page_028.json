@@ -1,0 +1,15 @@
+{
+  "page": 28,
+  "source": "user debug/log 04.md #0.2 #10",
+  "must_have": [
+    "2.1. AIMS OF THE CEFR",
+    "Page **28**",
+    "Priorities of the CEFR"
+  ],
+  "must_not_have": [],
+  "max_title_count": {
+    "Priorities of the CEFR": 1
+  },
+  "callout_placement": "end_body",
+  "notes": "Non-top-left blue box at end of body before footnotes"
+}

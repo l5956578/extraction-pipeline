@@ -1,9 +1,8 @@
 {
   "chunk_id": "chunk_05",
-  "start_page": 101,
-  "end_page": 125,
+  "start_page": 102,
+  "end_page": 127,
   "expected_page_markers": [
-    101,
     102,
     103,
     104,
@@ -27,12 +26,34 @@
     122,
     123,
     124,
-    125
+    125,
+    126,
+    127
   ],
   "required_artifacts": [
     {
+      "id": "scale_translating_a_written_text",
+      "page": 103,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_translating_a_written_text",
+      "page": 104,
+      "type": "artifact"
+    },
+    {
       "id": "scale_note_taking_lectures_seminars_meetings_etc",
       "page": 105,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "page": 106,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "page": 107,
       "type": "artifact"
     },
     {
@@ -41,8 +62,28 @@
       "type": "artifact"
     },
     {
+      "id": "scale_collaborating_in_a_group",
+      "page": 110,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_collaborating_in_a_group",
+      "page": 111,
+      "type": "artifact"
+    },
+    {
       "id": "scale_leading_group_work",
       "page": 113,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_facilitating_pluricultural_space",
+      "page": 114,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_facilitating_pluricultural_space",
+      "page": 115,
       "type": "artifact"
     },
     {
@@ -56,7 +97,17 @@
       "type": "artifact"
     },
     {
-      "id": "scale_strategies_ot_yfilpmis_a_text",
+      "id": "scale_strategies_to_explain_a_new_concept",
+      "page": 119,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_strategies_to_explain_a_new_concept",
+      "page": 120,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_strategies_to_yfilpmis_a_text",
       "page": 122,
       "type": "artifact"
     },
@@ -68,6 +119,16 @@
     {
       "id": "scale_building_on_pluricultural_repertoire",
       "page": 125,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_plurilingual_comprehension",
+      "page": 126,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_plurilingual_comprehension",
+      "page": 127,
       "type": "artifact"
     }
   ],
@@ -81,6 +142,11 @@
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
+      "table"
     ]
   ],
   "expected_multipage": [
@@ -88,48 +154,6 @@
     "scale_vocabulary_control"
   ],
   "pages": [
-    {
-      "page_number": 101,
-      "content_type": "multi_page_table",
-      "table_orientation": "rotated_90",
-      "spanning_info": {
-        "group_id": "scale_processing_text",
-        "span_type": "continuation",
-        "role": "end",
-        "start_page": 99,
-        "end_page": 101
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 3316,
-      "min_output_chars": 265,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 53,
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "scale_processing_text",
-            "span_type": "continuation",
-            "role": "end",
-            "pages": [
-              99,
-              100,
-              101
-            ],
-            "emit_body_on": 99
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer"
-        }
-      ]
-    },
     {
       "page_number": 102,
       "content_type": "pure_text",
@@ -162,7 +186,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_translating_a_nettirw_text",
+        "group_id": "scale_translating_a_written_text",
         "span_type": "continuation",
         "role": "start",
         "start_page": 103,
@@ -176,12 +200,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 59,
+      "artifact_id": "scale_translating_a_written_text",
+      "section_title": "Translating a written text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_translating_a_nettirw_text",
-          "display_title": "Translating a nettirw text",
+          "artifact_id": "scale_translating_a_written_text",
+          "display_title": "Translating a written text",
           "y0": 70.07914999999997,
           "y1": 771.2323076923077,
           "bbox": [
@@ -193,8 +223,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_translating_a_nettirw_text",
+            "group_id": "scale_translating_a_written_text",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -208,8 +244,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.6577,
+            70.07914999999997,
+            521.4332166666667,
+            771.2323076923077
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -218,7 +266,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_translating_a_nettirw_text",
+        "group_id": "scale_translating_a_written_text",
         "span_type": "continuation",
         "role": "end",
         "start_page": 103,
@@ -232,12 +280,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 45,
+      "artifact_id": "scale_translating_a_written_text",
+      "section_title": "Translating a written text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_translating_a_nettirw_text",
+            "group_id": "scale_translating_a_written_text",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -287,7 +341,7 @@
             252.63099999999997
           ],
           "extractor": "prose_zone",
-          "expected_chars": 903
+          "expected_chars": 910
         },
         {
           "type": "artifact",
@@ -305,12 +359,29 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 669.2057,
+          "y1": 776.2139892578125,
+          "bbox": [
+            0,
+            669.2057,
+            595.2760009765625,
+            776.2139892578125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 487
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -335,6 +406,8 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 24,
+      "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "section_title": "expressing a personal response to creative texts including literature",
       "reading_order": [
         {
           "seq": 0,
@@ -349,7 +422,7 @@
             536.68515
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1967
+          "expected_chars": 1978
         },
         {
           "type": "artifact",
@@ -367,6 +440,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
             "span_type": "continuation",
@@ -406,6 +481,8 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 49,
+      "artifact_id": "scale_expressing_a_personal_response_to_creative_texts_including_literature",
+      "section_title": "expressing a personal response to creative texts including literature",
       "reading_order": [
         {
           "seq": 0,
@@ -466,6 +543,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -483,7 +562,7 @@
             592.7228
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1191
+          "expected_chars": 1195
         },
         {
           "type": "artifact",
@@ -501,12 +580,29 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
         },
         {
           "seq": 3,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 682.7461500000001,
+          "y1": 776.1970825195312,
+          "bbox": [
+            0,
+            682.7461500000001,
+            595.2760009765625,
+            776.1970825195312
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 573
+        },
+        {
+          "seq": 4,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -544,7 +640,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_collaborating_ni_a_group",
+        "group_id": "scale_collaborating_in_a_group",
         "span_type": "continuation",
         "role": "start",
         "start_page": 110,
@@ -558,12 +654,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 45,
+      "artifact_id": "scale_collaborating_in_a_group",
+      "section_title": "Collaborating in a group",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_collaborating_ni_a_group",
-          "display_title": "Collaborating ni a group",
+          "artifact_id": "scale_collaborating_in_a_group",
+          "display_title": "Collaborating in a group",
           "y0": 70.86619999999999,
           "y1": 771.2326999999999,
           "bbox": [
@@ -575,8 +677,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_collaborating_ni_a_group",
+            "group_id": "scale_collaborating_in_a_group",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -590,8 +698,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            70.86619999999999,
+            503.7595666666666,
+            771.2326999999999
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -600,7 +720,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_collaborating_ni_a_group",
+        "group_id": "scale_collaborating_in_a_group",
         "span_type": "continuation",
         "role": "end",
         "start_page": 110,
@@ -614,12 +734,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 59,
+      "artifact_id": "scale_collaborating_in_a_group",
+      "section_title": "Collaborating in a group",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_collaborating_ni_a_group",
+            "group_id": "scale_collaborating_in_a_group",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -699,6 +825,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -731,6 +863,12 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 19,
+      "artifact_id": "scale_facilitating_pluricultural_space",
+      "section_title": "Facilitating pluricultural space",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -745,7 +883,7 @@
             620.0281
           ],
           "extractor": "prose_zone",
-          "expected_chars": 3216,
+          "expected_chars": 3225,
           "section_headers": [
             "3.4.1.3. Mediating communication"
           ]
@@ -766,6 +904,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_facilitating_pluricultural_space",
             "span_type": "continuation",
@@ -805,6 +945,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 43,
+      "artifact_id": "scale_facilitating_pluricultural_space",
+      "section_title": "Facilitating pluricultural space",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -822,6 +968,21 @@
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 553.0133000000001,
+          "y1": 776.1936645507812,
+          "bbox": [
+            0,
+            553.0133000000001,
+            595.2760009765625,
+            776.1936645507812
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1276
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -863,12 +1024,29 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 556.25585,
+          "y1": 776.209716796875,
+          "bbox": [
+            0,
+            556.25585,
+            595.2760009765625,
+            776.209716796875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1028
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -930,12 +1108,29 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 657.95685,
+          "y1": 776.2125854492188,
+          "bbox": [
+            0,
+            657.95685,
+            595.2760009765625,
+            776.2125854492188
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 682
+        },
+        {
+          "seq": 3,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -975,7 +1170,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+        "group_id": "scale_strategies_to_explain_a_new_concept",
         "span_type": "continuation",
         "role": "start",
         "start_page": 119,
@@ -989,12 +1184,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 58,
+      "artifact_id": "scale_strategies_to_explain_a_new_concept",
+      "section_title": "Strategies to explain a new concept",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_strategies_ot_nialpxe_a_wen_concept",
-          "display_title": "Strategies ot nialpxe a wen concept",
+          "artifact_id": "scale_strategies_to_explain_a_new_concept",
+          "display_title": "Strategies to explain a new concept",
           "y0": 69.43009999999998,
           "y1": 771.2327,
           "bbox": [
@@ -1006,8 +1207,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+            "group_id": "scale_strategies_to_explain_a_new_concept",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -1021,8 +1228,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65733333333333,
+            69.43009999999998,
+            509.74405,
+            771.2327
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer"
+          "extractor": "page_footer",
+          "skip_footnotes": true
         }
       ]
     },
@@ -1031,7 +1250,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+        "group_id": "scale_strategies_to_explain_a_new_concept",
         "span_type": "continuation",
         "role": "end",
         "start_page": 119,
@@ -1045,12 +1264,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 66,
+      "artifact_id": "scale_strategies_to_explain_a_new_concept",
+      "section_title": "Strategies to explain a new concept",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+            "group_id": "scale_strategies_to_explain_a_new_concept",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -1109,8 +1334,8 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 80,
-      "artifact_id": "scale_strategies_ot_yfilpmis_a_text",
-      "section_title": "Strategies ot yfilpmis a text",
+      "artifact_id": "scale_strategies_to_yfilpmis_a_text",
+      "section_title": "Strategies to yfilpmis a text",
       "product_tier": [
         "assessment_action",
         "detailed"
@@ -1119,8 +1344,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_strategies_ot_yfilpmis_a_text",
-          "display_title": "Strategies ot yfilpmis a text",
+          "artifact_id": "scale_strategies_to_yfilpmis_a_text",
+          "display_title": "Strategies to yfilpmis a text",
           "y0": 70.07920952380948,
           "y1": 771.2327250000001,
           "bbox": [
@@ -1132,6 +1357,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1148,7 +1379,14 @@
       "content_type": "pure_text",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_15_plurilingual_pluricultural_competence",
+          "title": "Figure 15 \u2013 Plurilingual and pluricultural competence",
+          "num": 15,
+          "render_as": "text_diagram"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 2808,
       "min_output_chars": 336,
@@ -1166,7 +1404,17 @@
           "seq": 0,
           "type": "figure_page",
           "extractor": "rich_page",
-          "artifact_id": "figure_15_plurilingual_pluricultural_competence"
+          "artifact_id": "figure_15_plurilingual_pluricultural_competence",
+          "figure_ids": [
+            "figure_15_plurilingual_pluricultural_competence"
+          ],
+          "figures": [
+            {
+              "id": "figure_15_plurilingual_pluricultural_competence",
+              "title": "Figure 15 \u2013 Plurilingual and pluricultural competence",
+              "num": 15
+            }
+          ]
         },
         {
           "seq": 1,
@@ -1238,12 +1486,170 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 755.6909,
+          "y1": 778.1165161132812,
+          "bbox": [
+            0,
+            755.6909,
+            595.2760009765625,
+            778.1165161132812
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 96
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 126,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": {
+        "group_id": "scale_plurilingual_comprehension",
+        "span_type": "continuation",
+        "role": "start",
+        "start_page": 126,
+        "end_page": 127
+      },
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3171,
+      "min_output_chars": 380,
+      "section_headers": [],
+      "expects_table": false,
+      "skip_validation": false,
+      "drawings": 41,
+      "artifact_id": "scale_plurilingual_comprehension",
+      "section_title": "Plurilingual comprehension",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "prose",
+          "role": "intro",
+          "y0": 67.28971862792969,
+          "y1": 495.5048,
+          "bbox": [
+            0,
+            0,
+            595.2760009765625,
+            495.5048
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1555
+        },
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_plurilingual_comprehension",
+          "display_title": "Plurilingual comprehension",
+          "y0": 499.5048,
+          "y1": 771.23225,
+          "bbox": [
+            70.65725,
+            499.5048,
+            527.1072499999999,
+            771.23225
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
+          "span": {
+            "group_id": "scale_plurilingual_comprehension",
+            "span_type": "continuation",
+            "role": "start",
+            "pages": [
+              126,
+              127
+            ],
+            "emit_body_on": 126
+          },
+          "seq": 1,
+          "table_index": 0
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 127,
+      "content_type": "multi_page_table",
+      "table_orientation": "normal",
+      "spanning_info": {
+        "group_id": "scale_plurilingual_comprehension",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 126,
+        "end_page": 127
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 3500,
+      "min_output_chars": 280,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 30,
+      "artifact_id": "scale_plurilingual_comprehension",
+      "section_title": "Plurilingual comprehension",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_plurilingual_comprehension",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              126,
+              127
+            ],
+            "emit_body_on": 126
+          }
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 288.45480000000003,
+          "y1": 755.748779296875,
+          "bbox": [
+            0,
+            288.45480000000003,
+            595.2760009765625,
+            755.748779296875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 2055
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }

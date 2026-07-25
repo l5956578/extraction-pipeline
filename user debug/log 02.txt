@@ -1,0 +1,132 @@
+page 29
+
+---
+
+## Chapter 1: The Common European Framework in its political and educational context
+
+## Chapter 2: Approach adopted
+
+## Chapter 3: Common Reference Levels
+
+## Chapter 4: Language use and the language user/learner
+
+## Chapter 5: The user/learner’s competences
+
+## Chapter 6: Language learning and teaching
+
+## Chapter 7: Tasks and their role in language teaching
+
+## Chapter 8: Linguistic diversification and the curriculum
+
+## Chapter 9: Assessment
+
+---
+
+here don't use ## for each, it breaks the outline I already have where for example 2.2 is a ### level heading. Just italicize the 9 chapters. By the way CEFR 2001 is a different PDF (just so you know for context) and this PDF we are fixing is the companion PDF to that CEFR 2001 pdf.
+
+(end of issue)
+
+---
+
+page 30 missing the top part of the callout (or whatever you call it) with the blue background
+
+---
+
+now it's:
+
+They were developed as a form of dynamic, creative process of “languaging” across the boundaries of language varieties, as a methodology and as language policy aims. The background to this development was a series of studies in bilingualism in the early 1990s at the research centre CREDIF (Centre de recherche et d’étude pour la diffusion du français) in Paris.
+
+The curriculum examples given in CEFR 2001 Chapter 8 consciously promoted the concepts of plurilingual and pluricultural competence.
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence”.
+
+but it should be:
+
+The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced to language education for the first time in the second provisional version of the CEFR in 1996.
+
+They were developed as a form of dynamic, creative process of “languaging” across the boundaries of language varieties, as a methodology and as language policy aims. The background to this development was a series of studies in bilingualism in the early 1990s at the research centre CREDIF (Centre de recherche et d’étude pour la diffusion du français) in Paris.
+
+The curriculum examples given in CEFR 2001 Chapter 8 consciously promoted the concepts of plurilingual and pluricultural competence.
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence”.
+
+(end of issue)
+
+---
+
+page 31
+
+After an introduction to relevant key concepts (CEFR 2001 Chapter 1), the CEFR approach is introduced in the very short CEFR 2001 Chapter 2. In any communicative situation, general competences (for example, knowledge of the world, sociocultural competence, intercultural competence, professional experience if any: CEFR 2001 Section 5.1) are always combined with communicative language competences (linguistic, sociolinguistic and pragmatic competences: CEFR 2001 Section 5.2) and strategies (some general, some communicative language strategies) Mediation between individuals with no common language is one of the activities in the list above. Because of the plurilingual nature of such mediation, descriptors were also developed and validated for the other points in the above list during the 2014-17 project to develop descriptors for mediation. This was successful except in respect of the last point (paralinguistics): unfortunately, informants could not agree on its relevance or interpret descriptors consistently.
+
+At the time that the CEFR 2001 was published, the concepts discussed in this section, especially the idea of a holistic, interrelated plurilingual repertoire, were innovative. However, that idea has since been supported by psycholinguistic and neurolinguistic research in relation to both people who learn an additional language early in life and those who learn later, with stronger integration for the former. Plurilingualism has also been shown to result in a number of cognitive advantages, due to an enhanced executive control system in the brain (that is the ability to divert attention from distractors in task performance).
+
+This is how the page is supposed to end:
+
+After an introduction to relevant key concepts (CEFR 2001 Chapter 1), the CEFR approach is introduced in the very short CEFR 2001 Chapter 2. In any communicative situation, general competences (for example, knowledge of the world, sociocultural competence, intercultural competence, professional experience if any: CEFR 2001 Section 5.1) are always combined with communicative language competences (linguistic, sociolinguistic and pragmatic competences: CEFR 2001 Section 5.2) and strategies (some general, some communicative language strategies) 
+
+The rest is actually from the top of the page and should be before "Most of the references to..."
+
+Like this:
+
+Mediation between individuals with no common language is one of the activities in the list above. Because of the plurilingual nature of such mediation, descriptors were also developed and validated for the other points in the above list during the 2014-17 project to develop descriptors for mediation. This was successful except in respect of the last point (paralinguistics): unfortunately, informants could not agree on its relevance or interpret descriptors consistently.
+
+At the time that the CEFR 2001 was published, the concepts discussed in this section, especially the idea of a holistic, interrelated plurilingual repertoire, were innovative. However, that idea has since been supported by psycholinguistic and neurolinguistic research in relation to both people who learn an additional language early in life and those who learn later, with stronger integration for the former. Plurilingualism has also been shown to result in a number of cognitive advantages, due to an enhanced executive control system in the brain (that is the ability to divert attention from distractors in task performance).
+
+Most of the references to plurilingualism in the CEFR are to “plurilingual and pluricultural competence”. This is because the two aspects usually go hand-in-hand. Having said that, one form of unevenness may actually be that one aspect (for example, pluricultural competence) is much stronger than the other (for example, plurilingual competence; see CEFR 2001 Section 6.1.3.1).
+
+One of the reasons for promoting the development of plurilingualism and pluriculturalism is that experience of them:
+
+---
+
+But what happened is the callout or whatever you call it is top left, then after it ends, the pages prose begins with "Mediation between individuals with no common language..." to "At the time that the..." to finally meeting up with the regular (non-multi-column) prose "Most of the references..."
+
+(end of issue)
+
+---
+
+page 32
+
+The order is all messed up, and you dropped prose. The figure text diagram is fixed. But part of the old bullshit figure text is still there at the end of the page (above the footnote) and I don't know (or care) why. Fix this. The inventory:extraction:assembly contract needs to be looked at intently because the inventory ought to give you and idea what's on a page and the order, then the extraction knows what tool to all, and then upon assembly there should be no guessing or assumptions where things go! Bad grok!
+
+This to me is a huge red flag that you may not be messing things up in the code because you aren't honoring prior accepted structure or your work after is undoing stuff that ought to be more structured. I don't know but it's concerning. These were issues we worked through on v.1 for days I am disappointed to see this crop up again.
+
+---
+
+page 34
+
+again damnit you dropped 3 blocks of prose before the figure...
+
+and the png of the figure is crap
+
+see in C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction\user debug
+
+the 'output of page 34.png' for what the Figure 2 looks like that you screenshotted and you'll see what's wrong with it
+
+in the same folder i took a screenshot of page 34 so you could see what figure 2 looks like in the manual to sort what to do to fix it!
+
+'page 34 from the pdf.png'
+
+you also lost prose after the image FFS grok. you've fixed prose before and after shit how many times now. Why continue to implement things that "forget" how to solve?
+
+take a good look at the entire page because I don't need to spell out how bad this is, it would take forever and you need to figure out what inventory:extraction:assembly means in the various ways it goes.
+
+and BTW (and don't forget inventory:extraction:assembly contract is just my way of describing at a high level, you MUST understand what exactly is happening and how best to systematize it so it's not so damn fragile!)
+
+(end of issue/rant!)
+
+---
+
+page 36 is so fucked. it dropped tons of prose, nearly all of it, before the fucking figures
+
+sorry i am trying to remain professional but this is high effort grok 4.5 and you have completely lost shit that was resolved earlier. 
+
+DO A FULL FUCKING AUDIT THIS MOMEMENT TO UNDERSTAND THE GOD DAMN PURPOSE AND STRUCTURE OF THIS EXTRACTION PIPELINE BECAUSE SOMEWHERE ALONG THE LINE YOU HAVE LOST WHATS HAPPENED, WAS WORKING, AND NOW WE'RE REINTRODUCING TONS OF ISSUES WE HAVE SOLVED REPEATEDLY. LOOK AT PLAN.MD, AND ANYWHERE ELSE, EVERYWHERE AND UNDERSTAND HOW YOU BOTCHED THINGS THAT WERE PREVIOUSLY WORKING.
+
+YOU CANNOT WING THIS! YOU CANNOT GUESS. LOOK AND DETERMINE HOW TO RESOLVE.
+
+FOR ALL ISSUES YOU SUPPOSEDLY FIXED LAST TIME AFTER PAGE 36, TRIPLE CHECK YOU DIDN'T FUCK THEM UP AS WELL. i WANT MY NEXT REVIEW TO HAVE ACTUALLY FIXED CODE. THERE NEEDS TO VALIDATIONS After
+
+inventory:extraction:assembly CONTRACT LIKE inventory:extraction:assembly:VALIDATION or something like this to prevent future sessions of grok from creating seemingly havoc in my environment. 
+
+
+

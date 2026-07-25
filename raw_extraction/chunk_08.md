@@ -1,4381 +1,1287 @@
-# chunk_08 (pages 176-241)
+# chunk_08 (pages 182-241)
 
-<!-- page:176 -->
-
-<!-- db:id=table_self_assessment_grid type=section_block product_tier=base pages=177-181 -->
-### Self-Assessment Grid (Expanded with Online Interaction and Mediation) | table_self_assessment_grid
-
-## Reception
-
-
-| 2C | some ,speed delivered familiar whether diiffculty ,broadcast understanding .accent have oral natural get when fo I ,language the provided kind on ot fast ro have with time even live any ta ni I | sa literary specialised such structurally including dengis/nettirw fo ease forms ,texts linguistically with and all ,manuals complex ,abstract ,language virtually read .works articles can the ro I |
-| --- | --- | --- |
-| 1C | iflms not when clearly .explicitly even much and understand and are understand and too programmes implied relationships not talk television signalled structured si extended without ti .effort when can only can I I | technical .style .ifeld not even articles understand appreciating literary complex understand od fo ym they ,instructions longer specialised distinctions and ot and factual relate when and can ,texts long can I I |
-| 2B | most reasonably fo .language ni the .programmes current provided lines follow and iflms understand understand understand complex talk and and fo si standard majority news .familiar topic argument lectures extended affairs can can even can VT the I I I | literary and ro which contemporary concerned understand stances adopt articles contemporary .viewpoints writers ni particular problems read reports .prose can with can the I I |
-| 1B | encountered si interest ro clear the slow and delivery personal affairs ro no ro VT point fo understand ,school matters language fo understand professional programmes radio .etc familiar points relatively the fo current main ,leisure ,work regularly standard .clear when topics many can main can the ni no I I | ni ,events texts the wishes mainly .letters understand .language -job frequency understand fo and description ro consist personal everyday feelings related high can that can fo I I |
-| 2A | and ,clear main ,information and very personal related frequency .announcements messages understand local most the ,short the .)employment personal .g.e( catch ,geography ,shopping relevance immediate fo vocabulary and ni areas highest phrases simple point can family basic can ot I I | personal menus ,short and ,speciifc understand ,timetables ,advertisements sa everyday ,prospectuses such ni very simple information predictable .texts ,material ifnd read .letters simple simple short can can can and I I I |
-| 1A | familiar and basic when concrete concerning .clearly ngis/kaeps family very recognise surroundings and immediate ym and slowly people ,myself phrases words can I | posters example /words simple .catalogues understand and for very ,names notices ,sentences and familiar ni signs can ro no I |
-| Reception | comprehension Oral | comprehension Reading |
-
-## Production
-
-
-| 2C | .points notice helps logical with the style lfowing ,clear remember that ot a ro a recipient effective and appropriate ni description present signiifcant structure argument smoothly context can and the na I | professional remember that effective a complex .style text recipient present ,clear .works .points structure ro appropriate lfowing and reports produce produce produce literary fo summaries signiifcant and the with na that smoothly reviews notice logical articles ,letters can helps case can na can ro ni I I I |
-| --- | --- | --- |
-| 1C | descriptions appropriate developing subjects ,clear off points -sub rounding present .conclusion integrating complex particular na ,themes detailed with and can fo I | .mind style different detailed some derutcurts-llew ni ,report ni myself the a the what I subjects ta ni ni expressing have ot texts produce .issues eb a fo produce view express appropriate ot underlining ro expositions reader I fo salient consider essay complex .length points fo kinds can can ,text ,clear can na I I I |
-| 2B | ym descriptions and giving ot fo ,clear fo .options disadvantages advantages a a .interest related range issue no explain present viewpoint wide subjects detailed various topical fo can ifeld a can the no I I | particular fo giving no essay .interests subjects support ,clear passing a na no .view a information ro produce ym range fo text produce against ni ,report ot fo reasons related detailed point can wide can ro ro I I |
-| 1B | .reactions .ambitions phrases fo story .plans ,dreams and plot for give and describe ni way ym iflm the narrate a and explanations and brielfy and ym experiences simple connect describe book ro relate can opinions reasons can hopes ,events order ot can a a ro I I ni I | .interest familiar no text straightforward personal are produce that connected topics fo can ro I |
-| 2A | recent sentences ym simple fo most and educational ,conditions ,people family series ni background and describe ro other ym use a present phrases living terms can .job ym and ot I | with and series and connectors linked phrases ”but“ a produce .”because“ ,”and“ sentences simple simple can like fo I |
-| 1A | sentences I where people simple and describe and use phrases .know live can ot I I | and simple phrases produce .sentences isolated can I |
-| Production | production Oral | production Written |
-
-## Interaction
-
-
-| 2C | the are smoothly around and problem .precisely fI convey myself .colloquialisms expressions with have a .ti people any fo backtrack fo familiarity and ro part aware other diiffculty os restructure have a meaning shades and express idiomatic discussion conversation effortlessly ni take lfuently hardly that can od ifner can and good can I I I I | sensitively emotional tone adjusting ,misunderstandings effectively fo myself .appropriate and and communication possible anticipate .interaction any type style ni appropriate express language ,reactions and deal virtually and lfexibly issues with and can tone na can sa ni I I |
-| --- | --- | --- |
-| 1C | .purposes effectively ideas for fo relate with language searching and those contribution and opinions formulate professional and and .expressions much spontaneously lfuently express ot .others skilfully precision social lfexibly use obvious without myself can can can ym and for I I I | cultural .effectively register ym and express communication effectively other adapting clarity abstract and and no understand arise .exemplifying and and can contributions fo intentions clarifying and with implications that problems deal language ,precision and ,complex issues lfexibly myself issues with can can the yb I I |
-| 2B | language users .views and ,contexts active regular lfuency discussion with with spontaneity ym for .possible na target interact sustaining accounting familiar take interaction makes degree fo part ni can quite the that and can ni I fo a I | generally linking justify em others misunderstandings handling ot support and the ,disagreements contributions with .collaboration ,experiences events signiifcance fo highlight .evitarepo-oc are allow complex the ,people interact and and ,language provided and several ideas ,facts can time avoid theirs can ym ro I I |
-| 1B | everyday ro ,familiar unprepared .)events travel interest no .spoken the travelling most conversation ot where ,work ,family are likely with current pertinent ot personal that enter language si area while situations deal ,hobbies .g.e( topics and into can na arise can life fo ni I I | .concepts graphs aids provided no with a some and clariifcations give provided ,events about respond and more ,images visual working ro and interact ni comments for .beforehand prepare impressions ,experiences interact complex clarify statistics sa are ,project group .detail questions can simple ask ,feelings such there can can can can and ot ot a I I I I |
-| 2A | conversation ot even short usually routine enough and communicate ,exchanges very no exchange .myself understand t’nac handle topics information and requiring and the I .activities simple simple though familiar going keep social can direct tasks can I fo a ni I | supportive shared can simple .questions doing basic .interlocutor with a collaborate ni a instructions and follow simple ordering ,goods transactions such complete answers ot ,thanks apology ro comments with responding what I ,need what I ma expressing how I ,interaction engage ni social task can can and ,feel can sa ot ro I I |
-| 1A | immediate ni answer .express what I help ta a repeat ro si provided questions person a .topics very and things ni no and ot formulate rate ot way interact familiar ro fo ask trying rephrase prepared other simple slower simple need areas can can ma em the I I | comments with very images ot .way how sa .details ,purchase a simply simple can about greetings ,short forms complete and and .media ,posts react ot did statements post personal ni very respond ,ti iflling simple can other can liked what I simple can and a ni I I I I |
-| Interaction | interaction Oral | interaction online Written and |
-
-## Mediation
-
-
-| 2C | irony derutcurts-llew evaluative arguments ,clear ,understatement .g.e( sociocultural ,precisely most way .)sarcasm ,register implications pointing and ,presented the explain ni conveying nuances and language aspects fo ,lfuent facts can and use out and are I | order way agreement various ,reasoning elaborate encouraging abstract discussion ro ni and fo the solution contributions ,summarising development the evaluating complex guide .forward create linking their others ot ,topics ni a a ideas can for ot no fo I |
-| --- | --- | --- |
-| 1C | check ifelds ni I technical provided they ,texts ideas language -well clearly occasionally own not complex signiifcant ni ym lfuently convey .concepts particular ,interest ro structured ot whether relate ,long can can the and fo I | steer multiple order perspectives a have reporting that towards and ,summarising logical ,group acknowledge helping ,view and others ni different questions series fo contributions .conclusion pu elaborating stimulate a discussion ,reasoning guiding tactfully fo weighing what no a different points asking ,said build open can no ot ni I |
-| 2B | academic .interest texts detailed fo contained signiifcant ,reliably ifelds derutcurts-llew but and personal ,professional information convey complex arguments ym )s(tniop the within can and .g.e ni I | pose na considering ideas develop .opinions and expand other invite into ro fo fo thinking members and encourage sides lines them s’elpoep further ot from that participation their people different ,thinking coherent link their reactions questions .issue other can clarify group can and no ask I I |
-| 1B | personal .interest are texts derutcurts-llew given ni that informational fo subjects information convey current ro familiar ,clear can ro no I | mutual has part fo can fo check appropriate have speciifc ro ot )s(nosaer ,contribute other contribute and ask deifne a task .understanding conifrm someone back and understanding ot they no views the invite .expertise terms ot repeat concepts questions ask .made points elaborate their clarify people ot others ot basic help said what can can their can for ot ni I I I |
-| 2A | no main fo .language clearly ni are ,interest subjects texts involved ni the these simple convey expressed immediate provided everyday )s(tniop simple ,short can I | certain forward move from repetition provided I making what practical what a reformulation and collaborate fo discussion ot ni understanding think ask way suggestions make .time for ,responses suggestions ,think asking ,simple .ideas people can simple ot ask others ,tasks and the can time can can ro ni I I |
-| 1A | and and predictable given posters simple signs .programmes information convey ,notices like ,short ,simple texts can ni I | contributions and they ask idea that I ym simple idea .think em whether and na conifrm show and simple other they understand simply express .understand ni na ot sngis/sdrow ,short invite others ot interest signals use .phrases s’elpoep what very can and can using can I I I |
-| Mediation | text a Mediating | Mediating concepts |
-
-## Mediation
-
-
-| 2C | ifner .meaning and fo between communicating and sociolinguistic sociocultural account ,communities other fo ym and mediate fo differences and members naturally effectively shades taking own can I |
-| --- | --- |
-| 1C | explain information shared persuasive .references and communicate .misunderstandings viewpoints managing .diplomatically and lfuently heading off ot demonstrating communication mediate a language use ,concisely signiifcant different sensitivity ,ambiguity yb cultural ,clearly culture can can can and I I I |
-| 2B | ot statements fi speakers ym no fo communicate s’rehto participants yb ,proceed adapting clariifcations ,interest within viewpoints signiifcance and ,ideas fo communication encourage expressing each ,viewpoints and appreciation important yb .needed provided fo subjects ot inviting feelings different way I culture shared give ifelds and the can .ideas react the can yb I a I |
-| 1B | how I the making introducing shared .things plan and speakers ,interest subjects what communicate ro/dna for about exchanging clearly requests communication a ot personal sense fo .clariifcation conifrmation and information support express pause articulate provided no ,priorities yb said simple ,people culture main can can can ot fo si I I |
-| 2A | the compromise and phrases ot use diiffculties disagree ro recognise when personal wants situations ,predictable what communicate ro/dna when I ,things people /words communication yb contribute ot can fo invite simple .agreement .needs point understand seek simple occur and when people can and about everyday said ni main can .agree indicating explain signs ot using can si ot I I I |
-| 1A | em provided .understand welcome .formulation help ,simple details communicate contribute inviting labrev-non sngis/sdrow with communication yb people ,information predictable s’elpoep indicating interest ym facilitate yb very personal whether I ot showing others ,signals simple with other and other can and and and can I I |
-| Mediation | communication Mediating |
-
-<!-- page:177 -->
-*Page 177*
-
-<!-- page:178 -->
-*Page 178 3 CEFR –­ Companion volume*
-
-<!-- page:179 -->
-*Self-assessment grid (expanded with online interaction and mediation)  Page 179*
-
-<!-- page:180 -->
-*Page 180 3 CEFR –­ Companion volume*
-
-<!-- page:181 -->
-*Self-assessment grid (expanded with online interaction and mediation)  Page 181*
+Page **182**
 
 <!-- page:182 -->
 
-<!-- db:id=scale_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-184 -->
+<!-- el:start type=artifact id=scale_phonology page=183 -->
+<!-- db:id=scale_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-185 -->
 ### Phonology | scale_phonology
 
-|  | endi |
-| --- | --- |
-|  | QUALITATIVE |
-| FEATURES | OF |
-| (EXPANDED | WITH |
-| Shows | great |
-| reformulating | linguistic |
-| differing | forms |
-| to | convey |
-| of | meaning |
-| to | give |
-| differentiate | and |
-| eliminate | ambiguity. |
-| Also | has |
-| command | idiomatic |
-| expressions | and |
-| colloquialisms. | and |
-| is | not |
-| by | features |
-| that | may |
-| from | other |
-| good | command |
-| ofa | Has |
-| language | allowing |
-| select | formulation |
-| to | a |
-| to | clearly |
-| style | in |
-| of | general, |
-| professional | leisure |
-| without | or |
-| topics | what |
-| restrict | want |
-| abed< | to |
-| noticeable, | but |
-| not | affect |
-| est | atall. |
+| Level | Range | Accuracy | Fluency | Interaction | Coherence | Phonology |
+|-------|-------|----------|---------|-------------|-----------|-----------|
+| C2 | Shows great flexibility reformulating ideas in differing linguistic forms to convey finer shades of meaning precisely, to give emphasis, to differentiate and to eliminate ambiguity. Also has a good command of idiomatic expressions and colloquialisms. | Maintains consistent grammatical control of complex language, even while attention is otherwise engaged (e.g. in forward planning, in monitoring others' reactions). | Can express themselves spontaneously at length with a natural colloquial flow, avoiding or backtracking around any difficulty so smoothly that the interlocutor is hardly aware of it. | Can interact with ease and skill, picking up and using non-verbal and intonational cues apparently effortlessly. Can interweave their contribution into the joint discourse with fully natural turntaking, referencing, allusion making, etc. | Can create coherent and cohesive discourse making full and appropriate use of a variety of organisational patterns and a wide range of connectors and other cohesive devices. | Can employ the full range of phonological features in the target language with a high level of control – including prosodic features such as word and sentence stress, rhythm and intonation – so that the finer points of their message are clear and precise. Intelligibility is not affected in any way by features of accent that may be retained from other language(s). |
+| C1 | Has a good command of a broad range of language allowing them to select a formulation to express themselves clearly in an appropriate style on a wide range of general, academic, professional or leisure topics without having to restrict what they want to say. | Consistently maintains a high degree of grammatical accuracy; errors are rare, difficult to spot and generally corrected when they do occur. | Can express themselves fluently and spontaneously, almost effortlessly. Only a conceptually difficult subject can hinder a natural, smooth flow of language. | Can select a suitable phrase from a readily available range of discourse functions to preface their remarks in order to get or to keep the floor and to relate their own contributions skilfully to those of other speakers. | Can produce clear, smoothly flowing, well-structured language, showing controlled use of organisational patterns, connectors and cohesive devices. | Can employ the full range of phonological features in the target language with sufficient control to ensure intelligibility throughout. Can articulate virtually all the sounds of the target language; some features of accent retained from other language(s) may be noticeable, but they do not affect intelligibility at all. |
+| B2 | Has a sufficient range of language to give clear descriptions and express viewpoints on most general topics, without much conspicuous searching for words, using some complex sentence forms to do so. | Shows a relatively high degree of grammatical control. Does not make errors that cause misunderstanding, and can correct most of their mistakes. | Can produce stretches of language with a fairly even tempo; although they can be hesitant as they search for patterns and expressions, there are few noticeably long pauses. | Can initiate discourse, take their turn when appropriate and end conversation when they need to, though they may not always do this elegantly. Can help the discussion along on familiar ground confirming comprehension, inviting others in, etc. | Can use a limited number of cohesive devices to link their utterances into clear, coherent discourse, though there may be some "jumpiness" in a long contribution. | Can generally use appropriate intonation, place stress correctly and articulate individual sounds clearly; accent tends to be influenced by the other language(s) they speak, but has little or no effect on intelligibility. |
+| B1 | Has enough language to get by, with sufficient vocabulary to express themselves with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel and current events. | Uses reasonably accurately a repertoire of frequently used "routines" and patterns associated with more predictable situations. | Can keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production. | Can initiate, maintain and close simple face-to-face conversation on topics that are familiar or of personal interest. Can repeat part of what someone has said to confirm mutual understanding. | Can link a series of shorter, discrete simple elements into a connected, linear sequence of points. | Pronunciation is generally intelligible; can approximate intonation and stress at both utterance and word levels. However, accent is usually influenced by the other language(s) they speak. |
+| A2 | Uses basic sentence patterns with memorised phrases, groups of a few words/signs and formulae in order to communicate limited information in simple everyday situations. | Uses some simple structures correctly, but still systematically makes basic mistakes. | Can make themselves understood in very short utterances, even though pauses, false starts and reformulation are very evident. | Can ask and answer questions and respond to simple statements. Can indicate when they are following but is rarely able to understand enough to keep conversation going of their own accord. | Can link groups of words with simple connectors like "and", "but" and "because". | Pronunciation is generally clear enough to be understood, but conversational partners will need to ask for repetition from time to time. A strong influence from the other language(s) they speak on stress, rhythm and intonation may affect intelligibility, requiring collaboration from interlocutors. Nevertheless, pronunciation of familiar words is clear. |
+| A1 | Has a very basic repertoire of words/signs and simple phrases related to personal details and particular concrete situations. | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. | Can manage very short, isolated, mainly pre-packaged utterances, with much pausing to search for expressions, to articulate less familiar words, and to repair communication. | Can ask and answer questions about personal details. Can interact in a simple way but communication is totally dependent on repetition, rephrasing and repair. | Can link words/signs or groups of words/signs with very basic linear connectors like "and" or "then". | Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by interlocutors used to dealing with speakers of the language group concerned. Can reproduce correctly a limited range of sounds as well as stress on simple, familiar words and phrases. |
+<!-- el:end id=scale_phonology -->
 
-|  | 25ed |
-| --- | --- |
-|  | BL |
-|  | < |
-|  | Yad |
-|  | - |
-|  | UoJUedUIOD |
-| Has | a |
-| ‘aUINJoA | language |
-| descriptions | and |
-| viewpoints | on |
-| general | topics, |
-| much | conspicuous |
-| searching | for |
-| using | some |
-| sentence | forms |
-| ground | on |
-| comprehension, | inviting |
-| others | in, |
-| Has | enough |
-| to | get |
-| vocabulary | to |
-| themselves | with |
-| some | hesitation |
-| circumlocutions | on |
-| topics | such |
-| hobbies | and |
-| work, | travel |
-| events. | understanding. |
+Page **183**
 
 <!-- page:183 -->
-*Page 183*
+
+*Page **184** ▶ **CEFR – Companion volume***
 
 <!-- page:184 -->
-*Page 184 3 CEFR –­ Companion volume*
 
-| Uses | basic |
-| --- | --- |
-| patterns | with |
-| phrases, | groups |
-| few | words/signs |
-| formulae | in |
-| communicate | limited |
-| information | in |
-| everyday | situations. |
-| conversation | to |
-| their | accord. |
-| own | and |
-| affect | intelligibility, |
-| aANeWIEND | requiring |
-| from | interlocutors. |
-|  | Nevertheless, |
-| pronunciation | of |
-| saunyeoy | words |
-|  | yo |
-|  | Uayods |
-| Has | basic |
-| abenBue] | repertoire |
-| signs | and |
-| related | to |
-| papuedxa) | details |
-| concrete | situations. |
-| words, | and |
-| communication. | is |
-| yam | repetition, |
-|  | repair. |
-| «(ABojouoyd | reproduce |
-| Can | limited |
-| a | sounds |
-| simple, | as |
-| on | and |
-|  | a0e |
-|  | $81 |
+*Qualitative features of spoken language (expanded with phonology) ▶ Page **185***
 
 <!-- page:185 -->
-*Qualitative features of spoken language (expanded with phonology)  Page 185*
+
+Page **186**
 
 <!-- page:186 -->
 
-<!-- db:id=scale_argument type=descriptor_scale product_tier=assessment_action,context pages=187-188 -->
+<!-- el:start type=artifact id=scale_argument page=187 -->
+<!-- db:id=scale_argument type=descriptor_scale product_tier=assessment_action,context pages=187-189 -->
 ### Argument | scale_argument
 
-| WRITTEN | ASSESSMENT |
-| --- | --- |
-| Can | write |
-| accurate | and |
-| flowing | complex |
-| in | an |
-| effective | personal |
-| conveying | finer |
-| of | meaning. |
-| Can | use |
-| structure | that |
-| reader | to |
-| points. | colloquialisms. |
-| structure | that |
-| reader | to |
-|  | points. |
-| Can | write |
-| structured | and |
-| accurate | texts |
-| complex | subjects. |
-| Can | emphasise |
-| relevant | salient |
-| expand | and |
-| points | of |
-| length | with |
-| points, | reasons |
-| relevant | examples, |
-| and | round |
-| appropriate | conclusion. |
-|  | limited. |
-|  | abed< |
-| Zi | 50. |
-| appears | as |
+| Level | Overall | Range | Coherence | Accuracy | Description | Argument |
+|-------|---------|-------|-----------|----------|-------------|----------|
+| C2 | Can write clear, highly accurate and smoothly flowing complex texts in an appropriate and effective personal style conveying finer shades of meaning.<br>Can use a logical structure that helps the reader to find significant points. | Shows great flexibility in formulating ideas in differing linguistic forms to convey finer shades of meaning precisely, to give emphasis and to eliminate ambiguity. Also has a good command of idiomatic expressions and colloquialisms. | Can create coherent and cohesive texts making full and appropriate use of a variety of organisational patterns and a wide range of connectors and other cohesive devices. | Maintains consistent and highly accurate grammatical control of even the most complex language forms. Errors are rare and concern rarely used forms. | Can write clear, smoothly flowing and fully engrossing stories and descriptions of experience in a style appropriate to the genre adopted. | Can produce clear, smoothly flowing, complex reports, articles and essays that present a case or give critical appreciation of proposals or literary works.<br>Can provide an appropriate and effective logical structure that helps the reader to find significant points. |
+| C1 | Can write clear, well-structured and mostly accurate texts of complex subjects.<br>Can emphasise the relevant salient issues, expand and support points of view at some length with subsidiary points, reasons and relevant examples, and round off with an appropriate conclusion. | Has a good command of a broad range of language allowing them to select a formulation to express themselves clearly in an appropriate style on a wide range of general, academic, professional or leisure topics without having to restrict what they want to say. Flexibility in style and tone is somewhat limited. | Can produce clear, smoothly flowing, well-structured text, showing controlled use of organisational patterns, connectors and cohesive devices. | Consistently maintains a high degree of grammatical accuracy; occasional errors in grammar, colocations and idioms. | Can write clear, detailed, well-structured and developed descriptions and imaginative texts in a mostly assured, personal, natural style appropriate to the reader in mind. | Can write clear, well-structured expositions of complex subjects, emphasising the relevant salient issues.<br>Can expand and support point of view with some subsidiary points, reasons and examples. |
+| B2 | Can write clear, detailed official and semi-official texts on a variety of subjects related to their field of interest, synthesising and evaluating information and arguments from a number of sources.<br>Can make a distinction between formal and informal language with occasional less appropriate expressions. | Has a sufficient range of language to give clear descriptions, and express viewpoints on most general topics, without much conspicuous searching for words, using some complex sentence forms to do so. Language lacks, however, expressiveness and idiomaticity and use of more complex forms is still stereotypical. | Can use a number of cohesive devices to link their sentences into clear, coherent text, though there may be some "jumpiness" in a longer text. | Shows a relatively high degree of grammatical control. Does not make errors that cause misunderstandings. | Can write clear, detailed descriptions of real or imaginary events and experiences marking the relationship between ideas in clear connected text, and following established conventions of the genre concerned.<br>Can write clear, detailed descriptions on a variety of subjects related to their field of interest.<br>Can write a review of a film, book or play. | Can write an essay or report that develops an argument systematically with appropriate highlighting of some significant points and relevant supporting detail. Can evaluate different ideas or solutions to a problem.<br>Can write an essay or report that develops an argument, giving some reasons in support of or against a particular point of view and explaining the advantages and disadvantages of various options.<br>Can synthesise information and arguments from a number of sources. |
+| B1 | Can write straightforward connected texts on a range of familiar subjects within their field of interest, by linking a series of shorter discrete elements into a linear sequence. The texts are understandable but occasional unclear expressions and/or inconsistencies may cause a break-up in reading. | Has enough language to get by, with sufficient vocabulary to express themselves with some circumlocutions on topics such as family, hobbies and interests, work, travel and current events. | Can link a series of shorter discrete elements into a connected, linear text. | Uses reasonably accurately a repertoire of frequently used "routines" and patterns associated with more common situations. Occasionally makes errors that the reader usually can interpret correctly on the basis of the context. | Can write accounts of experiences, describing feelings and reactions in simple connected text.<br>Can write a description of an event or recent trip – real or imagined.<br>Can narrate a story.<br>Can write straightforward, detailed descriptions on a range of familiar subjects within their field of interest. | Can write short, simple essays on topics of interest.<br>Can summarise, report and give their opinion on accumulated factual information on familiar routine and non-routine matters within their field, with some confidence.<br>Can write very brief reports in a standard conventionalised format, which pass on routine factual information and state reasons for actions. |
+| A2 | Can write a series of simple phrases and sentences linked with simple connectors like "and", "but" and "because". Longer texts may contain expressions and show coherence problems that make the text hard to understand. | Uses basic sentence patterns with memorised phrases, groups of a few words and formulae in order to communicate limited information, mainly in everyday situations. | Can link groups of words with simple connectors like "and", "but" and "because". | Uses simple structures correctly, but still systematically makes basic mistakes. Errors may sometimes cause misunderstandings. | Can write very short, basic descriptions of events, past activities and personal experiences.<br>Can write short, simple, imaginary biographies and simple poems about people. |  |
+| A1 | Can write simple isolated phrases and sentences. Longer texts contain coherence problems that make the text very hard or impossible to understand. | Has a very basic repertoire of words and simple phrases related to personal details and particular concrete situations. | Can link words or groups of words with very basic linear connectors like "and" and "then". | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. Errors may cause misunderstandings. | Can write simple phrases and sentences about themselves and imaginary people, where they live and what they do, etc. |  |
+<!-- el:end id=scale_argument -->
 
-|  | 25ed |
-| --- | --- |
-|  | BBL |
-| < | Can |
-| Yad | official |
-| - | texts |
-| UoJUedUIOD | subjects |
-| their | field |
-| synthesising | and |
-| evaluating | information |
-| ‘@UINJOA | and |
-| number | of |
-| Can | make |
-| between | formal |
-| informal | language |
-| with | occasional |
-| appropriate | expressions. |
-| Can | write |
-| film, | book |
-| the | advantages |
-| disadvantages | of |
-|  | options. |
-| Can | synthesise |
-| information | and |
-| arguments | of |
-| number | sources. |
-| Can | write |
-| straightforward | to |
-| connected | of |
-| range | their |
-| within | of |
-| interest, | by |
-| series | of |
-| elements | into |
-| sequence. | texts |
-| are | understandable |
-| but | occasional |
-| expressions | and/or |
-| inconsistencies | may |
-| cause | a |
-| reading. | interest. |
-| state | for |
-|  | reasons |
+Page **187**
 
 <!-- page:187 -->
-*Page 187*
+
+*Page **188** ▶ **CEFR – Companion volume***
 
 <!-- page:188 -->
-*Page 188 3 CEFR –­ Companion volume*
 
-| Can | write |
-| --- | --- |
-| simple | phrases |
-| sentences | linked |
-| simple | connectors |
-| like | “and”, |
-| “because”, | Longer |
-| contain | expressions |
-| and | may |
-| problems | that |
-| text | hard |
-| Can | write |
-| phrases | and |
-| Longer | texts |
-| expressions | and |
-| coherence | problems |
-| that | make |
-| hard | or |
-|  | understand. |
-|  | UUM |
-|  | juowssasse |
-|  | «pub |
-|  | 2604 |
-|  | 681 |
+*Written assessment grid ▶ Page **189***
 
 <!-- page:189 -->
-*Written assessment grid  Page 189*
+
+Page **190**
 
 <!-- page:190 -->
 
-<!-- db:id=appendix_5_domain_examples type=descriptor_scale product_tier=context pages=191-241 -->
-### Online interaction | appendix_5_domain_examples
+<!-- el:start type=prose id=prose_p191_s0 page=191 -->
+for the four domains set out in CEFR 2001 Section 4.1.1. These examples are intended to assist educators in selecting activities appropriate to their learners for each descriptor.
 
-| Appendix | 5 |
-| --- | --- |
-| EXAMPLES | OF |
-| OF | ONLINE |
-| Asan | extra |
-| for | the |
-| The | examples |
-| n | (and |
-| Can | express |
-| real-time | online |
-| and | sensitively |
-| and | joking |
-| Can | anticipate |
-| misunderstandings | (including |
-| communication | issues |
-| online | discussion. |
-| Can | easily |
-| to | suit |
-| purposes | and |
-| Can | engage |
-| participants, | understanding |
-| intentions | and |
-| contributions. | friends/enthusiasts, |
-| such | as |
-| a | Can |
-| or | academic |
-| < | clarification |
-| abe | an |
-| development | session |
-| L6L | for |
+The examples were validated in a series of distance workshops carried out during Phase 3 of the validation, from November to December 2015.
 
-|  | 26% |
-| --- | --- |
-|  | Z61 |
-|  | < |
-| y4a> | Online |
-|  | - |
-|  | uojueduio9 |
-| Can | adapt |
-| online | interaction, |
-| other | within |
-| ‘aumnjon | personal |
-| oras | a |
-| C1 | an |
-|  | meeting |
-| Can | evaluate, |
-| in | professional |
-| discussion. | content |
-| project | meeting |
-| Can | in |
-| contributions | engage |
-| understanding | to |
-| appropriately. | personal |
-| during | a |
-| B2+ | ina |
-| online | forum |
-| content | and |
-| or | asa |
-| an | online |
-|  | meeting |
+**EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS **
 
-| ee | n |
-| --- | --- |
-| public | online |
-| sajdweXy | Can |
-| and | responding |
-| some | length, |
-| Jo | complex |
-| asn | agency |
-| focus | group |
-| jUaJayIp | UI |
-| participants, | effectively |
-| previous | ones |
-| helps | manage |
-| sUleEWop | news |
-| as | online |
-| website | support |
-| 40} | personal |
-| s40}duDSap | issues |
-| Can | recognise |
-| that | arise |
-| provided | the |
-| Jo | staff |
-| BUL\|UO | Can |
-| than | one |
-| intentions | of |
-| UOR2e293U! | details |
-| B1+ | meeting |
-| Can | post |
-| and | activities |
-| pue | and |
-| UORe!PaU | up |
-| news | and |
-| Can | post |
-| discussion | prepare |
-| <SaRIAR2e | can |
-| fill | gaps |
-|  | website |
-| Can | make |
-| a0ed | feelings |
-| the | comments |
-| £61 | lexical |
-| inappropriate | formulation. |
+**OF ONLINE INTERACTION AND MEDIATION ACTIVITIES**
 
-|  | 26ed |
-| --- | --- |
-|  | HEL |
-| < | [Fesonst |
-| ¥4ID | Online |
-|  | - |
-|  | uoJUeduioy |
-| Can | introduce |
-| exchanges | online, |
-| and | exchanging |
-| ‘auinjon | topics, |
-| responses, | and |
-| ata | time. |
-| VES) | Can |
-| everyday | matters, |
-| simple | key |
-| Can | comment |
-| provided | they |
-| reacting | to |
-| surprise, | interest |
-| a | way. |
-| Can | engage |
-| a | simple |
-| sharing | news |
-|  | meet). |
-| Can | make |
-| about | embedded |
-| basic | language, |
-| online | translation |
-| to | an |
-| Can | formulate |
-| online | postings |
-| about | hobbies, |
-| translation | tool. |
-| classroom | simulation |
-| Can | use |
-| simple | words/signs |
-| reactions | to |
-| links | and |
-| with | standard |
+Appendix 5
+<!-- el:end id=prose_p191_s0 -->
 
-| post | simple |
-| --- | --- |
-| sejdweXy | Can |
-| expressions | and |
-| Can | post |
-| Jo | themselves |
-| asn | occupation), |
-| menu | and/or |
-| yUaJayIP | UI |
-| line | interaction |
-| sUeEWop | Goal-oriented |
-| and | collaboration |
-| 40} | Can |
-| s40}dUDSap | with |
-| project | organised |
-| Can | a |
-| of | group |
-| Jo | collaborative |
-| BUI\|UO | Can |
-| online, | formulating |
-| evaluating | proposals |
-| UOR2e293U! | providing |
-| shared | tasks. |
-| Can | deal |
-| pue | role |
-| UORe!paUs | adjusting |
-| negotiations. | advice |
-| or | Q&A |
-| Can | participate |
-| «SeRIAR2e | collaborative |
-| forms | of |
-| instructions | with |
-| Can | deal |
-| 20e4 | cultural |
-| transactional | exchange |
-| $61 | providing |
+<!-- el:start type=artifact id=scale_online_interaction page=191 -->
+<!-- db:id=scale_online_interaction type=descriptor_scale product_tier=detailed,context pages=191-241 -->
+### Online interaction | scale_online_interaction
 
-|  | 26e4 |
-| --- | --- |
-|  | «961 |
-| Goal-oriented | online |
-| ¥43D | and |
-|  | - |
-| uoJUeduioy | Can |
-| their | area(s) |
-| reminding | it |
-| order | to |
-| ‘auinjon | Can |
-| exchanges | engage |
-| require | negotiation |
-| complicated | details |
-| Can | deal |
-| problems | that |
-| transactional | exchanges |
-| appropriately | in |
-| collection | issue) |
-| Can | collaborate |
-| project, | justifying |
-| a | playing |
-| tasks. | a |
-| non-governmental | work |
-| organisation) | goal |
-| Can | engage |
-| extended | exchange |
-| interlocutor(s) | avoid |
-| B1+ | to |
-| Can | interact |
-| project, | following |
-| clarification | and |
-| Can | engage |
-| exchanges | that |
-| explanation | of |
-| course, | tour |
-| Can | interact |
-| working | on |
-| such | as |
-| complex | concepts. |
-|  | improvement |
-| Can | respond |
-| request | online. |
-|  | task |
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can express themselves with clarity and precision in real-time online discussion, adjusting language flexibly and sensitively to context, including emotional, allusive and joking usage.<br>Can anticipate and deal effectively with possible misunderstandings (including cultural ones), communication issues and emotional reactions in an online discussion.<br>Can easily and quickly adapt their register and style to suit different online environments, communication purposes and speech acts. | in an online political or philosophical discussion held by friends/enthusiasts such as an online book club forum | as a moderator or contributor in an online public policy forum | as a convenor for a union online forum and/or website | as a lead contributor in an online hang-out space for co-researchers at a university |
+| C1 | Can engage in real-time online exchanges with several participants, understanding the communicative intentions and cultural implications of the various contributions.<br>Can participate effectively in live, online professional or academic discussion, asking for and giving further clarification of complex, abstract issues as necessary. | in an online political or philosophical discussion held by friends/enthusiasts, such as an online book club forum | participating in a chat thread held as a follow-up to a public presentation | in an interdepartmental chat in a large corporation | as a student contributor to an open online course or forum |
+|  |  |  |  | in an online meeting to discuss long-term company strategy, or in an online professional development session for teachers | as a student contributor to an open online course or forum (e.g. a massive online open course – MOOC) |
+| C1 | Can adapt their register according to the context of online interaction, moving from one register to the other within the same exchange if necessary. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues | during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
+|  | Can evaluate, restate and challenge arguments in professional or academic live online chat and discussion. | [not applicable] | in a special interest online forum evaluating content and issues | as a consultant participating in an online business or project meeting | participating in an online discussion forum for a college debating society |
+| B2+ | Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues<br>in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation<br>during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
+| B2 | Can participate actively in an online discussion, stating and responding to opinions on topics of interest at some length, provided contributors avoid unusual or complex language and allow time for responses. | in a critical discussion of arts or music with friends online | in a public online discussion forum/comment thread held by a broadcasting/news agency | in a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in a discussion with other students at another school in an e-twinning project |
+|  | Can engage in online exchanges between several participants, effectively linking their contributions to previous ones in the thread, provided a moderator helps manage the discussion. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a contributor to a forum about a commercial software or gaming website<br>as a participant in an online support group website for social or personal issues | in a staff committee meeting held online, or as a participant in an online focus group meeting | in a collaborative meeting with students from another school in an e-twinning project |
+|  | Can recognise misunderstandings and disagreements that arise in an online interaction and deal with them, provided the interlocutor(s) are willing to co-operate. | in a discussion on a social networking site | in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation |  |
+| B1+ | Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation. |  | as a contributor to a forum about a commercial software or gaming website | in a staff committee meeting held online, or as a participant in an online focus group meeting |  |
+|  | Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a departmental online social events feed in a corporation | as a contributor to a university student union social events feed |
+| B1 | Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy. |  | as a contributor to the reviews and issues area of a commercial software or gaming website | as a participant in a simple online focus group meeting | in an online forum for students studying the same subjects |
+|  | Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation. |  | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a professional development forum |  |
+| A2+ | Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time.<br>Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details.<br>Can comment on other people's online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way. | making contact online with remote friends and/or family to catch up on personal news and plans | as a contributor to an online travel advice service | as a contributor to a simple departmental online forum on familiar topics | in the Q&A section of a school learning platform |
+| A2 | Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet).<br>Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources. |  | public postings to a festival/event website |  |  |
+| A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. | making contact online with remote friends and/or family – also as a possible language classroom simulation | public postings to a festival/event website – also as a possible language classroom simulation | as a contributor to a simple departmental social feed – also as a possible language classroom simulation | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
+|  | Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. | making contact online with remote friends and/or family – also as a possible language classroom simulation |  |  | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
+| Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
+| B2+ | Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task by reminding it of roles, responsibilities and deadlines in order to achieve established goals.<br>Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require negotiation of conditions and explanation of complicated details and special requirements. | [not applicable] | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
+|  | Can deal with misunderstandings and unexpected problems that arise in online collaborative or transactional exchanges by responding politely and appropriately in order to help resolve the issue. |  | reporting a public services issue online to the local council (e.g. a waste-collection issue) | in an online staff meeting on implementing new procedures | in a straightforward online collaborative activity at school/university |
+| B2 | Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks. |  | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
+| B1+ | Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.<br>Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks. |  | reporting a public services issue online to the local council (e.g. a waste-collection issue) | participating in a well-structured online seminar introducing new procedures | in a straightforward online collaborative activity at school/university |
+| B1 | Can engage in online collaborative or transactional exchanges that require simple clarification or explanation of relevant details, such as registering for a course, tour or event, or applying for membership. |  | making a tour booking or enrolling in an association or event online |  |  |
+|  | Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.<br>Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online. |  | as a member of a community group organising environmental improvement |  |  |
+| A2+ | Can use formulaic language to respond to routine problems arising in online transactions (e.g. concerning availability of models and special offers, delivery dates, addresses).<br>Can interact online with a supportive partner in a simple collaborative task, responding to basic instructions and seeking clarification, provided there are visual aids such as images, statistics or graphs to clarify the concepts involved. | [not applicable] | ordering goods online with use of a chat window<br>assisting simple online planning and promotion of a public event such as a street party | completing simple interdepartmental orders and requests | enrolling in a course online<br>in a teacher-guided online collaborative activity at school |
+| A2 | Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.<br>Can ask basic questions about the availability of a product or feature. |  | ordering goods online |  | enrolling in a course online |
+|  | Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor. |  | [not applicable] | in completing a task over Skype with a colleague from another country | in a teacher-guided online collaborative activity at school |
+| A1 | Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number). |  | ordering goods by completing a simple order form with familiar words and illustrations | completing a simple interdepartmental form with familiar words and illustrations | enrolling in a course online, but likely only as a language classroom simulation |
+| Pre-A1 | Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support. |  | ordering goods by completing a simple tick-box order form with familiar words and illustrations | completing a simple interdepartmental tick-box form with familiar words and illustrations |  |
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can explain (in Language B) the relevance of specific information found in a particular section of a long, complex text (in Language A). | in an article, website, book or talk face-to-face or online concerning current affairs or an area of personal interest or concern | from presentations at public meetings, from public documents explaining policy changes, political speeches | a business report, article, regulation or workplace policy | an article, book, reference book or lecture/presentation |
+| B2+ | Can relay (in Language B) which presentations given (in Language A) at a conference, or which articles in a book (in Language A), are particularly relevant for a specific purpose. | web talk/self-help group explanations (e.g. how to repair your printer); articles related to a particular theme or current issue of interest | presentations at public meetings, from public documents explaining policy changes<br>a press conference, on various web talk sites, in relation to a particular issue | a trade fair, a professional conference, reports and newspaper articles in relation to a particular project | an academic conference, various web talk sites, from academic books and journals in relation to a particular project |
+| B2 | Can relay (in Language B) the main point(s) contained in formal correspondence and/or reports (in Language A) on general subjects and on subjects related to their fields of interest. | a notice, announcement, letter or e-mail outlining policies, regulations or procedures (e.g. related to housing, insurance, rent/mortgage, employment or health care) | a notice or announcement made by a public authority or facility like a library, swimming pool, etc. outlining regulations or procedures | a letter, e-mail or notice outlining why a meeting had to be cancelled, whether someone is for or against an idea and why, workplace policies or regulations | a letter, e-mail or notice outlining university policies, procedures or regulations |
+| B1 | Can relay (in Language B) the content of public announcements and messages delivered clearly at normal speed (in Language A). | on the radio or TV | in a station, airport, sports stadium, at political rallies/events, alerts, warnings or instructions that may be given at an accident site or construction zone | at a trade fair or conference, at a factory, warehouse, refinery, on a ship, during safety drills | during a university event/lecture, which may take place in a large auditorium |
+|  | Can relay (in Language B) the contents of detailed instructions or directions, provided these are clearly articulated (in Language A). | on the radio or TV, from a passer-by (e.g. travel/route information), instructions from a friend over the phone on how to get to a party | instructions at airports, stations and on planes, buses and trains, or on how to use simple equipment such as a hotel safe, directions on how to get from X to Y, a travel itinerary | instructions given in a meeting on how to perform a work task, or operate simple equipment; instructions, particularly on safety procedures, given at a trade fair or conference, at a factory, warehouse, on a ship | academic regulations, policies/procedures, course/assignment requirements given by a professor/teacher; instructions on how to use simple research tools to complete a school task or on how to conduct a simple experiment |
+|  | Can relay (in Language B) specific information given in straightforward informational texts (e.g. leaflets, brochure entries, notices and letters or e-mails) (in Language A). | leaflets, brochures, guidebooks, websites, details of a housing agreement | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, club/association rules, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, the terms of a commercial offer, equipment operational instructions, safety procedures | school policies and regulations, a course outline, steps involved in completing an assignment/school task, a list of assignments as well as relevant criteria, notices, exam regulations, conditions for participation in an exchange programme |
+| A2+ | Can relay (in Language B) the point made in a clear announcement (in Language A) concerning familiar everyday subjects, though they may have to simplify the message and search for words/signs. | on the TV or radio, announcements about weddings, births and changes to circumstances | weather reports, train platform changes, how to purchase tickets for an event | announcements about changes to job responsibilities, information about new workplace procedures | information about an upcoming test at school, such as when it is and what will be tested; details about an upcoming school trip |
+|  | Can relay (in Language B) specific, relevant information contained in short, simple texts, labels and notices (in Language A) on familiar subjects. | news about the family from a personal letter or e-mail | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, safety procedures, location, date and time of a meeting stated in an e-mail/letter | news about school activities from a flyer or leaflet |
+| A2 | Can relay (in Language B) the point made in short, clear, simple messages, instructions and announcements, provided these are expressed slowly and clearly in simple language (in Language A). | announcements of personal interest such as weddings or births, changes to employment or living circumstances, simple messages left for family or housemates about meeting times or requests to complete tasks such as taking out the rubbish | at airports, stations and on planes, trains and buses about routes, times of arrival or departure, changes in platform or gate, weather forecasts | simple messages left by customers or colleagues for others, announcements about changes to job procedures | information about a school trip or exchange programme, messages about school opening/closing times in response to inclement weather, information about class tasks or homework |
+|  | Can relay (in Language B) in a simple way a series of short, simple instructions, provided the original speech (in Language A) is clearly and slowly articulated. | a recipe, how to use a basic household appliance, how to assemble a piece of furniture | how to get from X to Y, directions provided by a traffic or parking official | how to operate office equipment such as changing the toner on a photocopier or downloading software | instructions concerning a homework assignment, or a simple experiment |
+| A1 | Can relay (in Language B) simple, predictable information about times and places given in short, simple statements (delivered in Language A). | TV schedule announcements about upcoming programmes of interest | the location and starting time of an event/performance, travel itineraries | the location and starting/finishing time of a meeting; information about work hours, breaks, the location of toilets, drink machines | the location and time of a school excursion or after-school activity, the location of the canteen, toilets and water fountains |
+|  | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly. | restaurant reservations, dinner invitations including date and time | notices on bulletin boards/walls about when a store opens/closes, location of toilets | a meeting location and time from an e-mail | school timetable, the meeting location for a school trip |
+| Pre-A1 | Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
+| C2 | No descriptors available: see B2+ |  |  |  |  |
+| C1 | No descriptors available: see B2+ |  |  |  |  |
+| B2+ | Can relay in writing (in Language B) which presentations at a conference (given in Language A) were relevant, pointing out which would be worth detailed consideration. | [not applicable] | from a press conference, on various web talk sites, in relation to a particular issue | from a trade fair, a professional conference, in relation to a particular project | from an academic conference, on various web talk sites, in relation to a particular project |
+|  | Can relay in writing (in Language B) the relevant point(s) contained in propositionally complex but well-structured texts (in Language A) within their fields of professional, academic and personal interest. |  | public regulations such as housing or tax laws, a notice or announcement made by a public authority | from a business report, regulation or workplace policy | information from an article, website, notes taken from a lecture, or a presentation delivered by a university professor |
+|  | Can relay in writing (in Language B) the relevant point(s) contained in an article (in Language A) from an academic or professional journal. |  | in relation to a particular issue that is the subject of a community meeting | from a report, business article | information from an article, book or journal for a classmate or a professor |
+| B2 | Can relay in a written report (in Language B) relevant decisions that were taken in a meeting (in Language A). |  | from a club | from a business meeting | from a meeting of student representatives |
+|  | Can relay in writing (in Language B) the significant point(s) contained in formal correspondence (in Language A). | a rental agreement or insurance policy for a friend or family member | terms and conditions for a trip or service | in a circular sent to employees, in a letter from a partner giving notice or stating new conditions; in a complaint | in a circular sent by a school principal to parents; in a reply from an organisation to a request for information sent during a project |
+| B1 | Can relay in writing (in Language B) specific information points contained in texts delivered in Language A on familiar subjects (e.g. calls, announcements and instructions). | a short message, an e-mail to a friend mentioning the reason they will be late | a notice or announcement made by a public authority | customer orders, queries or complaints, changes to work schedule or procedures, how to operate office equipment | changes to school opening/closing times as a result of inclement weather, changes to class location or meeting place for a class trip |
+|  | Can relay in writing (in Language B) specific, relevant information contained in straightforward informational texts (in Language A) on familiar subjects. | instructions on how to use household appliances taken from a manual, messages for family or housemates sent in an e-mail, information e-mailed about when and where to meet a friend/family member | from e-mails, letters about events or schedules | quantities and delivery times from an e-mailed order, tasks and deadlines for the person concerned from the minutes to a meeting, relevant steps in simple user instructions for a piece of equipment | e-mail instructions about a school trip, a task assignment or details of course requirements taken from a course syllabus |
+|  | Can relay in writing (in Language B) specific information given in a straightforward recorded message (left in Language A), provided the topics concerned are familiar and the delivery is slow and clear. | a message about the time and place of a meeting, a request to complete a household task such as preparing a meal or taking out the rubbish | queue at the embassy, answering machine: request for call back from an administration or public office, bank | simple customer orders, queries or complaints, telephone message for a colleague, changes to work procedures | about school timetables or schedule changes |
+| A2+ | Can relay in writing (in Language B) specific information contained in short, simple informational texts (in Language A), provided the texts concern concrete, familiar subjects and are composed in simple everyday language. | from newspapers, instructions on appliances or medicine | brochures, websites, adverts, posters, schedules | about a work task, instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | about a school task, test or homework assignment found in a course syllabus, how to do a simple experiment in a science class from a handout, about a museum visit or other school trip described in a leaflet |
+| A2 | Can list (in Language B) the main points of short, clear, simple messages and announcements (given in Language A), provided they are clearly and slowly articulated. | simple telephone messages for family or housemates, announcements of personal interest for family or friends | directions on how to get from X to Y, which train platform or flight gate and at what time, about a train or flight delay | telephone message for a colleague, changes to work procedures | school timetables, schedules or openings/closings, task roles as part of a group assignment, homework assigned |
+|  | Can list (in Language B) specific information contained in simple texts (in Language A) on everyday subjects of immediate interest or need. | household manuals, instructions on how to prepare a meal | advertisements, prospectuses, brochures, leaflets, travel itineraries, timetables, directions | manual instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | textbooks, class readings, about a school task, test or homework assignment, how to do a simple experiment in a science class, about a museum visit or other school trip |
+| A1 | Can list (in Language B) names, numbers, prices and very simple information of immediate interest in oral texts (in Language A), provided the articulation is very slow and clear, with repetition. | from a TV channel repeatedly demonstrating products | announcements about when a store opens/closes | a short, simple telephone message for a colleague | a simple, short telephone message about a change to a timetable, schedule or meeting point |
+| Pre-A1 | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information, schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
+| C2 | Can interpret and describe clearly and reliably (in Language B) various forms of empirical data and visually organised information (with text in Language A) from conceptually complex research concerning academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visual data from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | diagrams/visual data from published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| C1 | Can interpret and describe clearly and reliably (in Language B) the salient points and details contained in complex diagrams and other visually organised information (with text in Language A) on complex academic or professional topics. |  |  |  | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| B2 | Can interpret and describe reliably (in Language B) detailed information contained in complex diagrams, charts and other visually organised information (with text in Language A) on topics in their fields of interest. | a diagram in an article of personal interest; a process diagram for a household device or piece of leisure software, explained to a friend or family member | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting | graphs, charts and tables referenced in employee training or company reports | graphs, bar charts or diagrams in a formal class presentation, at secondary school/college/university |
+| B1+ | Can interpret and describe (in Language B) detailed information in diagrams in their fields of interest (with text in Language A), even though lexical gaps may cause hesitation or imprecise formulation. |  |  |  |  |
+| B1 | Can interpret and describe (in Language B) overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), even though lexical limitations cause difficulty with formulation at times. | trends represented in household bills or personal finances, explained to a friend or family member | weather report (statistics and trends) when determining the best dates for a community event, basic financial trends presented during a community/club meeting, diagrammatic displays in a science museum | trends represented in a graph or bar chart during a business meeting or responsibilities represented in a company organogram used for employee training | general trends found in graphs, bar charts or diagrams, used in pair or group work at secondary school/college/university |
+| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C1 | Can interpret and present clearly and reliably in writing (in Language B) the salient, relevant points contained in complex diagrams and other visually organised data (with text in Language A) on complex academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| B2 | Can interpret and present reliably in writing (in Language B) detailed information from diagrams and visually organised data in their fields of interest (with text in Language A). | instructions and diagram left for a house-sitter to operate a complex appliance | health and safety procedures (e.g. at a hospital, factory, library) | an internal (company) report/memo on the significant points contained in a visual attachment such as a graph, bar chart or numeric table | written assignment accompanying technical visual information provided for a school/university project |
+| B1+ | Can interpret and present in writing (in Language B) the overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), explaining the important points in more detail, given the help of a dictionary or other reference materials. | trends represented in household bills or personal finances, for family members | simple weather data or basic financial data posted as part of an online discussion for a community/club event | an e-mail describing the main features of a visual attachment such as a graph or bar chart | a simple class assignment summarising a survey or demographic data |
+| B1 | Can describe in simple sentences (in Language B) the main facts shown in visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A). | an e-mail giving simple local directions represented on a map | simple demographic information or trends posted in an online community/club discussion forum | instructions for a simple office procedure represented in a flow chart | a simple written narrative accompanying a picture or pictures as a classroom assignment |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can explain (in Language B) inferences when links or implications are not made explicit (in Language A), and point out the sociocultural implications of the form of expression (e.g. understatement, irony, sarcasm). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+|  | Can summarise (in Language B) long, demanding texts (in Language A). | current affairs programmes, articles in a magazine or newspaper | a forum discussion involving several participants, political speeches, sermons, opinions and documents | a presentation at a conference, seminar or meeting, a report, contract, regulations | a web talk, a lecture at an academic conference or seminar, academic articles and books |
+| C1 | Can summarise (in Language B) discussion (in Language A) on matters within their academic or professional competence, elaborating and weighing up different points of view and identifying the most significant points. | discussions, current affairs programmes | a forum discussion involving several participants | a meeting or seminar | a forum discussion, round table or colloquium involving several participants |
+|  | Can summarise clearly in well-structured language (in Language B) the main points made in complex texts (in Language A) in fields of specialisation other than their own, although they may occasionally check particular technical concepts. | newspaper editorials and commentaries, TV news and current affairs programmes | laws, public legal documents, regulations, presentations, speeches, sermons | a technical report addressed to a specialised audience, a business letter, a contract, a regulation, conference presentations | instructional material, a textbook, a reader, a dictionary, papers in academic journals, lectures, conference presentations and discussions, web talks |
+|  | Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+| C1 | Can exploit information and arguments from a complex text (in Language A) to discuss a topic (in Language B), glossing with evaluative comments, adding their opinion, etc. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | a political tract, a public policy document; a forum discussion, presentation, a political speech, sermon | technical reports, professional articles, specifications, contracts | instructional material, a textbook, a reader, a paper in an academic journal, lectures, conference presentations and discussions, web talks |
+|  | Can explain (in Language B) the attitude or opinion expressed in a source text (in Language A) on a specialised topic, supporting inferences they make with reference to specific passages in the original. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows |  |  |  |
+| B2+ | Can summarise clearly in well-structured language (in Language B) the information and arguments contained in complex texts (in Language A) on a wide range of subjects related to their fields of interest and specialisation. |  | presentations, (political) speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
+|  | Can summarise (in Language B) the main points of complex discussions (in Language A), weighing up the different points of view presented. | a discussion on family occasions, TV news and current affairs programmes, talk shows | a formal discussion between several participants | in meetings, briefing or orientation sessions | a panel at an academic conference involving several speakers |
+| B2 | Can synthesise and report (in Language B) information and arguments from a number of sources (in Language A). | on current affairs: web talks or interviews, TV news and analysis, documentaries, articles | at a town hall or political meeting: news items, interviews or documentaries on the issue at hand | in a report, at a meeting: media coverage of a company/government announcement/policy | when undertaking a project: web talks, lectures, vox pop interviews, surveys, blogs, documentaries |
+| B2 | Can summarise (in Language B) a wide range of factual and imaginative texts (in Language A), commenting on and discussing contrasting points of view and the main themes. | books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | a political tract, a public policy document, a novel, short story | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books, novels, short stories |
+|  | Can summarise (in Language B) the important points made in longer, complex texts (in Language A) on subjects of current interest, including their fields of special interest. |  | a political tract, a public policy document | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books |
+|  | Can recognise the intended audience of a text (in Language A) on a topic of interest and explain (in Language B) the purpose, attitudes and opinion of the author. | from websites, current affairs programmes, documentaries, newspaper articles and editorials | in interviews, announcements, policy statements | presentations at conferences, reports, specialised articles | talks by visiting speakers, websites and web talks, documentaries, articles |
+|  | Can summarise (in Language B) extracts from news items, interviews or documentaries containing opinions, arguments and discussions (in Language A). | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | in team or strategy meetings | as part of a group project |
+|  | Can summarise (in Language B) the plot and sequence of events in a film or play (in Language A). | in an informal discussion with friends | [not applicable] | [not applicable] | in a lesson, as part of a project |
+| B1+ | Can summarise (in Language B) the main points made in long texts (in Language A) on topics in their fields of interest, provided they can check the meaning of certain expressions. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
+|  | Can summarise (in Language B) a short narrative or article, talk, discussion, interview or documentary (in Language A) and answer further questions about details. | discussions with friends, documentaries, short narratives, articles in newspaper or magazines | a talk at a public meeting, an interview, public notices | presentations or discussions at conferences, seminars or meetings, newspaper articles | web talks, documentaries and discussions, articles of academic relevance, short narratives |
+|  | Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else. | informal discussions, prospectuses, advertisements, programmes in theatres, song lyrics | public notices and announcements, notes from meetings, relevant reports in newspapers and magazines | reports, meetings, letters and e-mails, notes from meetings, press coverage | web talks, instructions for carrying out tasks, articles on related topic |
+| B1 | Can summarise (in Language B) the main points made in clear, well-structured texts (in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | personal letters, short articles, brochures, advertisements | short articles, short official letters, public statements and notices, regulations, leaflets, event programmes | presentations and demonstrations, reports, business letters | talks by visiting speakers, web talks, descriptions, narratives, textbook entries, websites, news summaries, short articles |
+|  | Can summarise simply (in Language B) the main information content of straightforward texts (in Language A) on familiar subjects (e.g. a short record of an interview, magazine article, travel brochure). | a short written interview or magazine article, a travel brochure, letters, e-mails, newspaper news summaries |  | reports, business letters and e-mails | descriptions, textbook narratives, websites, news summaries, short articles |
+|  | Can summarise (in Language B) the main points made during a conversation (in Language A) on a subject of personal or current interest, provided people articulated clearly. | a conversation exchanging news and talking about plans, news exchanged at a wedding | points made in informal conversation with a public official | a consultation with an expert, an auditor, a consultant | what an authority consulted said in relation to a request, what a person interviewed for a project said |
+|  | Can summarise (in Language B) the main points made in long texts delivered orally (in Language A) on topics in their fields of interest, provided they can listen or view several times. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, a round-table discussion, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
+|  | Can summarise (in Language B) the main points or events in TV programmes and video clips (in Language A), provided they can view them several times. | a scene in a film, novella or sitcom | a current affairs programme on the subject of a public meeting | a news extract, interview or public statement relevant to the institution | a scene in a documentary, an interview |
+| A2+ | Can report (in Language B) the main points made in simple TV or radio news items (in Language A) reporting events, sports, accidents, etc., provided the topics concerned are familiar and the delivery is slow and clear. | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | [not applicable] | as part of a project involving collecting information from media sources |
+| A2+ | Can report in simple sentences (in Language B) the information contained in clearly structured, short, simple texts (in Language A) that have illustrations or tables. | "who, when, where" information in a news item | options for a concert or sport event, information in notices and posters, timetables, graffiti, programmes, tickets | the details of a work schedule | an illustrated story, a simple informational text about a country, with tables of information |
+|  | Can summarise (in Language B) the main point(s) in simple, short informational texts (in Language A) on familiar topics. | "who, when, where" information in a news item, website/brochures, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | reports of annual financial performance | details of tasks and assignments, descriptions of courses or examinations |
+| A2 | Can convey (in Language B) the main point(s) contained in clearly structured, short, simple texts (in Language A), supplementing their limited repertoire with other means (e.g. gestures, drawings, words/signs from other languages) in order to do so. | weather reports, very simple assembly instructions | information about times and costs of transport, availability of services | [not applicable] | weather reports, short illustrated descriptions of places, very simple picture stories |
+| A1 | Can convey (in Language B) simple, predictable information given in short, very simple signs and notices, posters and programmes (in Language A). | notes on teenagers' doors, information pinned to the fridge, e.g. whose turn it is to cook/clean/wash up | signs and notices giving directions, posters and programmes announcing and giving times of events | signs and notices giving locations and/or warnings, notices with schedules | class lists, information on events in the social programme |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can explain in writing (in Language B) the way facts and arguments are presented in a text (in Language A), particularly when someone else's position is being reported, drawing attention to the use of understatement, veiled criticism, irony and sarcasm.<br>Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result. | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+| C1 | Can summarise in writing (in Language B) long, complex texts (in Language A), interpreting the content appropriately, provided they can occasionally check the precise meaning of unusual, technical terms. |  | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference, business proposals | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals |
+|  | Can summarise in writing a long and complex text (in Language A) (e.g. an academic article, article providing political analysis, novel extract, editorial, literary review, report or extract from a scientific book) for a specific audience, respecting the style and register of the original. |  | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+| B2+ | Can summarise in writing (in Language B) the main content of well-structured but propositionally complex texts (in Language A) on subjects within their fields of professional, academic and personal interest. | a discussion on family occasions, TV news and current affairs programmes, talk shows | presentations, speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
+|  | Can compare, contrast and synthesise in writing (in Language B) the information and viewpoints contained in academic and professional publications (in Language A) in their fields of special interest. | [not applicable] | public policy documents | professional journals and newspapers, policy documents, technical reports | academic articles, reviews, books |
+| B2 | Can explain in writing (in Language B) the viewpoint articulated in a complex text (in Language A), supporting inferences they make with reference to specific information in the original.<br>Can summarise in writing (in Language B) the main content of complex texts (in Language A) on subjects related to their fields of interest and specialisation. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
+| B1+ | Can summarise in writing (in Language B) the information and arguments contained in texts (in Language A) on subjects of general or personal interest. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
+| B1 | Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated. | a telephone call, a web talk, news bulletins, documentaries, personal letters, informational brochures, short articles | a presentation at a public meeting, public statements or notices | a video-recorded presentation at a meeting, a briefing session for a task, reports and business letters | an orientation session, instructions for an assignment, a talk by a visiting speaker, narratives and short articles |
+| B1 | Can paraphrase short passages in a simple fashion, using the original text wording and ordering. | personal letters, short articles, brochures, advertisements, website texts | short official letters, public statements and notices, regulations, leaflets providing information about changes to services, event programmes | reports, business letters | narratives, textbook entries, websites, news summaries, short articles |
+| A2+ | Can list as a series of bullet points (in Language B) the relevant information contained in short simple texts (in Language A), provided the texts concern concrete, familiar subjects and contain only simple everyday language.<br>Can pick out and reproduce key words and phrases or short sentences from a short text within the learner's limited competence and experience. | "who, when, where" information in a news item, website/brochure descriptions, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | notices, regulations, instructions for a task | details of tasks and assignments, descriptions of courses or examinations, textbook extracts |
+| A2 | Can use simple language to convey (in Language B) the main point(s) contained in very short texts (in Language A) on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the text remains comprehensible.<br>Can copy out short texts in printed or clearly handwritten format. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner on a printer | simple, short narratives, general academic regulations such as for an exam |
+| A1 | Can, with the help of a dictionary, convey (in Language B) the meaning of simple phrases (in Language A) on familiar and everyday themes.<br>Can copy out single words and short texts presented in standard printed format. |  | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can provide fluent oral translation (into Language B) of abstract texts (written in Language A) on a wide range of subjects of personal, academic and professional interest, successfully conveying evaluative aspects and arguments, including the nuances and implications associated with them. | specialised magazine articles and reports on matters of personal interest | public policy document, declarations, rules or regulations | professional publications, technical reports, contracts, press releases | academic projects and related documents |
+| C1 | Can provide fluent oral translation (into Language B) of complex written texts (written in Language A) on a wide range of general and specialised topics, capturing most nuances. |  |  |  |  |
+| B2+ | Can provide oral translation (into Language B) of complex texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest. | newspaper or magazine articles on current issues of personal interest | texts accompanying artworks at a museum or exhibition, municipal regulations such as recycling, parking, etc. | technical reports related to their profession | academic articles and reports, regulations |
+| B1+ | Can provide oral translation (into Language B) of texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest, provided they are written in uncomplicated, standard language. |  |  |  |  |
+| B1 | Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | e-mails or letters with news from friends/relatives | simple reports such as a witness statement to an accident | a CV and presentation letter from a job or internship applicant | brochure(s) describing extracurricular activities available, including conditions |
+|  |  |  | notices about changes to public services such as parking regulations or rubbish collection | an extended CV and presentation letter from a job or internship applicant |  |
+| A2+ | Can provide an approximate oral translation (into Language B) of short, simple everyday texts (e.g. brochure entries, notices, instructions, letters or e-mails) (written in Language A). |  |  |  |  |
+| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
+|  | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
+| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C1 | Can translate (into Language B) abstract texts on social, academic and professional subjects in their field (written in Language A), successfully conveying evaluative aspects and arguments, including many of the implications associated with them, though some expression may be over-influenced by the original. | letters, articles in a magazine or newspaper, short stories | speeches, sermons, policy documents | scientific, technical, financial or project reports, regulations, articles and other professional publications | academic papers and books, literary criticism |
+| B2+ | Can produce clearly organised translations (from Language A into Language B) that reflect normal language usage but may be over-influenced by the order, paragraphing, punctuation and particular formulations of the original. | letters, articles in a magazine or newspaper, some colloquial writings |  |  | academic papers and books, novels, short stories, plays |
+| B2 | Can produce translations (into Language B) that closely follow the sentence and paragraph structure of the original text (in Language A), conveying the main points of the source text accurately, though the translation may read awkwardly. | letters with news, articles of general interest | public documents describing general regulations, guidebook entries, statements of opinion | straightforward letters, instructions, reports on subjects in their field | straightforward narratives, general academic regulations |
+| B1+ | Can produce approximate translations (from Language A into Language B) of straightforward, factual texts that are written in uncomplicated, standard language, closely following the structure of the original, although linguistic errors may occur; the translation remains comprehensible. |  |  | straightforward letters, instructions, reports on subjects in their field | general academic regulations |
+| B1 | Can produce approximate translations (from Language A into Language B) of information contained in short, factual texts written in uncomplicated, standard language; despite errors, the translation remains comprehensible. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner in a printer | simple, short narratives, general academic regulations such as for an exam |
+| A2 | Can use simple language to provide an approximate translation (from Language A into Language B) of very short texts on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the translation remains comprehensible. |  | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
+| A1 | Can, with the help of a dictionary, translate simple words/signs and phrases (from Language A into Language B), but may not always select the appropriate meaning. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can, while continuing to participate in a meeting or seminar, create reliable notes (or minutes) for people who are not present, even when the subject matter is complex and/or unfamiliar. | [not applicable] | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting or a training seminar | in a seminar or discussion forum |
+|  | Is aware of the implications and allusions of what is said and can take notes on them as well as on the actual words used.<br>Can take notes selectively, paraphrasing and abbreviating successfully to capture abstract concepts and relationships between ideas. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
+| C1 | Can take detailed notes during a lecture on topics in their field of interest, recording the information so accurately and so closely to the original that the notes could also be useful to other people. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
+|  | Can make decisions about what to note down and what to omit as the lecture or seminar proceeds, even on unfamiliar matters. |  | at a public meeting, at a committee/club/association meeting, during a seminar or lecture on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
+|  | Can select relevant, detailed information and arguments on complex, abstract topics from multiple oral sources (e.g. lectures, podcasts, formal discussions and debates, interviews), provided the delivery is at normal speed. | in researching a topic of personal interest | in researching an area for an association, pressure group, political party, etc. | in researching an area for a report or presentation | in researching an area for a paper or seminar presentation |
+| B2 | Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike them as important, even though they tend to concentrate on the actual formulation and therefore to miss some information. | [not applicable] | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
+|  | Can take accurate notes in meetings and seminars on most matters likely to arise within their field of interest. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, a training seminar | in a seminar or discussion forum |
+| B1+ | Can take notes during a lecture which are precise enough for their own use at a later date, provided the topic is within their field of interest and the lecture is clear and well structured. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
+| B1 | Can take notes as a list of key points during a straightforward lecture, provided the topic is familiar, and the lecture is both formulated in simple language and articulated clearly. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
+|  | Can note down routine instructions in a meeting on a familiar subject, provided these are formulated in simple language and they are given sufficient time to do so. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at an internal meeting or a training seminar | in a seminar or discussion forum |
+| A2 | Can take simple notes at a presentation/demonstration where the subject matter is familiar and predictable and the presenter allows for clarification and note-taking. |  | at a fair/shopping centre demonstration of a new product of interest | at a professional conference, fair or training seminar | [not applicable] |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a novel, short story, play, poem, read or studied as a member of a cultural circle organised by a cultural institute or club | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
+|  | Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. | a novel or short story just read, a play, film or musical just seen – in discussion with friends | a film or other cultural/artistic artefact at a screening or exhibition organised by a cultural institute or club | [not applicable] |  |
+| B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments.<br>Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other literary work studied in class |
+|  | Can describe their emotional response to a work and elaborate on the way in which it has evoked this response.<br>Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. |  |  | [not applicable] |  |
+| B1 | Can explain why certain parts or aspects of a work especially interested them.<br>Can explain in some detail which character they most identified with and why.<br>Can relate events in a story, film or play to similar events they have experienced or heard about.<br>Can relate the emotions experienced by a character to emotions they have experienced.<br>Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why.<br>Can explain briefly the feelings and opinions that a work provoked in them.<br>Can describe the personality of a character.<br>Can describe a character’s feelings and explain the reasons for them. | a simpler short story or novel just read, a film, musical or other show just seen – with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of/references to heritage literature (e.g. Cervantes, Shakespeare) studied at school or works of well-known film stars | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework, a video story watched in class |
+| A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language.<br>Can state in simple language which aspects of a work especially interested them.<br>Can state whether they liked a work or not and explain why in simple language. | [not applicable] | [not applicable] | [not applicable] | a simple story, fairy/folk tale or poem read in class |
+| A1 | Can use simple words/signs to state how a work made them feel. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.<br>Can recognise the finer subtleties of nuanced language, rhetorical effect, and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.<br>Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.<br>Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. | [not applicable] | in writing a review of a novel, film, writer’s or artist’s life work for the journal or blog of a cultural circle organised by a cultural institute or club | [not applicable] | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
+| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres.<br>Can evaluate the extent to which a work follows the conventions of its genre.<br>Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |  |  |  |  |
+| B2 | Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.<br>Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.<br>Can evaluate the way the work encourages identification with characters, giving examples.<br>Can describe the way in which different works differ in their treatment of the same theme. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute |  | a novel, poem, play, short story or other literary work studied in class |
+| B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | [not applicable] | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework |
+|  | Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. | [not applicable] | [not applicable] |  |  |
+| A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. |  |  |  | a simple story, fairy/folk tale or poem read in class |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can show sensitivity to different perspectives within a group, acknowledging contributions and formulating any reservations, disagreements or criticisms in such a way as to avoid or minimise any offence.<br>Can develop the interaction and tactfully help steer it towards a conclusion. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a member/chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
+| B2+ | Can, based on people’s reactions, adjust the way they formulate questions and/or intervene in a group interaction.<br>Can act as rapporteur in a group discussion, noting ideas and decisions, discussing these with the group and later giving a summary of the group’s view(s) in a plenary. |  |  |  | during a collaborative task in a class at school/university; in community-of-practice work for teacher development |
+| B2 | Can ask questions to stimulate discussion on how to organise collaborative work.<br>Can help define goals for teamwork and compare options for how to achieve them.<br>Can refocus a discussion by suggesting what to consider next, and how to proceed. | during an exchange with friends, family members, colleagues met in informal circumstances to choose between possible solutions to a problem | at community meetings dealing with a specific issue, with visual support |  | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
+| B1+ | Can collaborate on a shared task, e.g. formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches.<br>Can collaborate in simple, shared tasks and work towards a common goal in a group by asking and answering straightforward questions.<br>Can define the task in basic terms in a discussion and ask others to contribute their expertise and experience. |  | at a community meeting dealing with a straightforward issue, with visual support | during a relatively straightforward business transaction; during committee meetings between colleagues |  |
+| B1 | Can invite other people in a group to contribute their views. | during a short exchange with friends, family members, colleagues met in informal circumstances for instance to ask for advice before choosing among possible solutions to a problem | at a community meeting dealing with a straightforward issue, with visual support | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during committee meetings | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
+| A2+ | Can collaborate in simple, shared tasks, provided other participants articulate slowly and one or more people help them contribute and express their suggestions. | during a short exchange with friends, family members | [not applicable] | during a straightforward business transaction | during a simple collaborative task in a class at school/university |
+| A2 | Can collaborate in simple, practical tasks, asking what others think, making suggestions and understanding responses, provided they can ask for repetition or reformulation from time to time. |  |  |  |  |
+| A1 | Can invite others’ contributions to very simple tasks using short, simple phrases prepared in advance. Can indicate that they understand and ask whether others understand. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can summarise, evaluate and link the various contributions in order to facilitate agreement on a solution or a way forward. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/moderator of a group during focus group meetings; during a business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
+| C1 | Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, summarising, elaborating and weighing up multiple points of view. |  | at community meetings dealing with a specific issue, with visual support |  |  |
+|  | Can evaluate problems, challenges and proposals in a collaborative discussion in order to decide on the way forward.<br>Can highlight inconsistencies in thinking, and challenge others’ ideas in the process of trying to reach a consensus. |  |  |  | in completing a group problem-solving task or project or in a class debate |
+| B2+ | Can highlight the main issue that needs to be resolved in a complex task and the important aspects that need to be taken into account. | in helping a friend plan how to resolve a financial or family problem, when planning a family event, e.g. a wedding or anniversary party | as a member/chair/moderator of a planning meeting for a (political) campaign or project and/or an event set up by a club | as a chair/member of a strategy meeting or project-planning meeting | when organising a group assignment such as writing a collective review or designing a research project, in planning an exchange visit or project |
+|  | Can contribute to collaborative decision making and problem solving, expressing and co-developing ideas, explaining details and making suggestions for future action.<br>Can help organise the discussion in a group by reporting what others have said, summarising, elaborating and weighing up different points of view. | when planning a complicated outing, holiday or project with family and friends |  | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | when planning, with classmates/colleagues, a group assignment or project, an educational outing or exchange visit |
+| B2 | Can further develop other people’s ideas and opinions. | a conversation with family or friends to plan a themed or staged social event such as a (surprise) party | as a member of a club in a community meeting to organise a public event |  | in completing a group problem-solving task or project, or in a class debate; in community-of-practice work for teacher development |
+|  | Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, a house renovation | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) |  |  |
+| B2 | Can consider two different sides of an issue, giving arguments for and against, and propose a solution or compromise. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, during a house renovation, or during a domestic dispute between housemates | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project or in a class debate; in community-of-practice work for teacher development |
+| B1+ | Can organise the work in a straightforward collaborative task by stating the aim and explaining in a simple manner the main issue that needs to be resolved.<br>Can use questions, comments and simple reformulations to maintain the focus of a discussion. | in a discussion with flatmates or friends about how to reorganise arrangements in an apartment, how to repair something, how to organise an event | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | at a project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project, or in a class debate |
+| B1 | Can ask a group member to give the reason(s) for their views.<br>Can repeat part of what someone has said to confirm mutual understanding and help keep the development of ideas on course. |  |  |  |  |
+| A2+ | Can ensure that the person they are addressing understands what they mean by asking appropriate questions. | in a discussion of options for an evening out, when organising a party or when deciding on house rules | [not applicable] | during collaborative work on a project | in completing a group problem-solving task or project |
+| A2 | Can make simple remarks and pose occasional questions to indicate that they are following.<br>Can make suggestions in a simple way. |  |  |  |  |
+| A1 | Can express an idea and ask what others think, using very simple words/signs and phrases, provided they can prepare in advance. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can take on different roles according to the needs of the participants and requirements of the activity (resource person, mediator, supervisor, etc.) and provide appropriate individualised support. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation meetings/sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+|  | Can recognise undercurrents in interaction and take appropriate steps to guide the direction of discussion. | during a short exchange with friends, family members met in informal circumstances |  |  |  |
+| C1 | Can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases. | [not applicable] |  |  |  |
+|  | Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. |  |  | at a meeting on procedures, during collaborative work on a project |  |
+| B2+ | Can organise and manage collaborative group work efficiently. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+|  | Can monitor individual and group work non-intrusively, intervening to set a group back on task or to ensure even participation. |  |  | at a meeting on procedures, during collaborative work on a project |  |
+|  | Can intervene supportively in order to focus people’s attention on aspects of the task by asking targeted questions and inviting suggestions. |  |  | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions |  |
+| B2 | Can explain the different roles of participants in the collaborative process, giving clear instructions for group work.<br>Can explain ground rules of collaborative discussion in small groups that involves problem solving or the evaluation of alternative proposals. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | as a chair/member of a group during focus group meetings; during committee meetings | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+| B1+ | Can intervene when necessary to set a group back on task with new instructions or to encourage more even participation. |  | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project | during a clearly structured collaborative activity at school/university |
+| B1 | Can allocate turns in a discussion, inviting a participant to express their views. |  | residents meeting to agree routine terms of upkeep, etc. | as a team member at a meeting of a small task force |  |
+| A2 | Can give simple, clear instructions to organise an activity.<br>Can give very simple instructions to a co-operative group, given some help with formulation when necessary. |  | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project, at a staff meeting on introducing new procedures/equipment |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
 
-| Goal-oriented | online |
-| --- | --- |
-| and | collaboration |
-| Can | use |
-| sajdweXy, | problems |
-| availability | of |
-|  | addresses). |
-|  | Jo |
-| asn | Can |
-| a | simple |
-| JUa2yIp | UI |
-| are | visual |
-| clarify | the |
-| Can | make |
-| UleWOp | goods |
-| form | or |
-| and | confirming |
-| 105 | declining |
-| s4o}dUsDsap | a |
-| Can | ask |
-| product | feature. |
-| Can | respond |
-| Jo | questions |
-| aUI\|UO | with |
-| Can | complete |
-| UOA2eI9zU! | application, |
-| name, | e-mail |
-| and | illustrations |
-|  | illustrations |
-| pue | Can |
-| UOHe!PaUI | colour) |
-| provided | there |
-| with | familiar |
-| and | illustrations |
-|  | <SeRIAR2e |
-|  | 2604 |
-|  | £61 |
+| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
+|-------|----------------------------|----------|--------|--------------|-------------|
+| C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
+| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). |  |  |  |  |
+| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. |  |  |  | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
+| B2 | Can formulate questions and feedback to encourage people to expand on their thinking and justify or clarify their opinions.<br>Can build on people’s ideas and link them into coherent lines of thinking.<br>Can ask people to explain how an idea fits with the main topic under discussion. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
+| B1+ | Can ask people to elaborate on specific points they made in their initial explanation. | when discussing films, plays and other forms of entertainment with friends/relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | during project team meetings and brainstorming sessions; during collaborative work on a project | when engaging in class debates or discussion |
+| B1 | Can ask appropriate questions to check understanding of concepts that have been explained. | [not applicable] | [not applicable] |  | in simple class debates or discussions with (fellow) students |
+|  | Can ask questions to invite people to clarify their reasoning.<br>Can ask why someone thinks something, or how they think something would work. | when discussing social and personal issues with friends and relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events |  |  |
+| A2 | Can ask what somebody thinks of a certain idea. | when discussing options with family, friends or housemates for an evening out, when organising a party | at a community meeting | during team meetings; during collaborative work on a project | when engaging in simple class discussions |
+| A1 | Can use simple isolated words/signs and non-verbal signals to show interest in an idea. | in a discussion of options for an evening out | [not applicable] | [not applicable] | in a simple group activity |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences.<br>Can guide a sensitive discussion effectively, identifying nuances and undercurrents. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
+| C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings.<br>Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. | when breaking/delivering news on delicate issues from third parties | at a multicultural guidance and counselling session concerning for instance marriage, divorce, child custody | when discussing the terms of a multilateral contract, when explaining the laws or regulations in another country | when teaching a university course to a multicultural class |
+| B2+ | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
+|  | Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. | when discussing with friends and/or relatives social or personal issues or ways to act in an informal multicultural setting | when interacting with individuals and/or groups in the neighbourhood | helping colleagues from a different cultural background find a way through work-related problems | in supporting inclusive education |
+|  | Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. | in potentially conflicting private situations involving persons from different cultures or backgrounds | in peer interaction at public events (e.g. festivals, talks, demonstrations)<br>when conducting or moderating a public debate on multicultural issues | when discussing the implementation of international commercial policies with colleagues | as an instructor when dealing with conflicts between students on an international campus |
+| B2 | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. | when presented to, or introducing someone to, a new group of friends/people sharing interests | in peer interaction at public events (e.g. festivals, talks, demonstrations) | when escorting colleagues from other countries around town or company premises | as an instructor when teaching a multicultural primary class at intercultural centres |
+|  | Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. | when organising shared activities with friends or roommates | in joint activities with travel mates during a trip, in peer interaction at public events (e.g. festivals, talks, demonstrations) | in discussions with colleagues about simple tasks, working hours, holidays | with schoolmates in academic activities |
+| B2 | Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. | when organising shared activities with friends or roommates | during a multicultural community meeting | when discussing the implementation of international commercial policies with colleagues | at a seminar in a multicultural educational setting |
+| B1+ | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. | in everyday conversations with friends and relatives from different cultural backgrounds | during holidays, with locals | between colleagues during work-related telephone exchanges or conversations | with schoolmates in out-of-school activities |
+|  | Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. | when organising shared activities with friends or roommates | during a multicultural community meeting | in discussions with colleagues about simple tasks, working hours, holidays | at a seminar in a multicultural educational setting |
+| B1 | Can support an intercultural exchange using a limited repertoire to introduce people from different cultural backgrounds and to ask and answer questions, showing awareness that some questions may be perceived differently in the cultures concerned.<br>Can help develop a shared communication culture, by exchanging information in a simple way about values and attitudes to language and culture. | in a simple informal conversation between friends/relatives and visitors | in simple exchanges and conversations at restaurants | when introducing newcomers into the workplace | as an instructor when welcoming students into the school’s sports team |
+| A2 | Can contribute to an intercultural exchange, using simple words/signs to ask people to explain things and to get clarification of what they say, while exploiting a limited repertoire to express agreement, to invite, to thank, etc. |  |  |  |  |
+| A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. |  |  | when a newcomer is introduced into the workplace | as a student welcoming a new person who joins the group |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can communicate in a clear, fluent, well-structured way (in Language B) the sense of what is said (in Language A) on a wide range of general and specialised topics, maintaining appropriate style and register, conveying finer shades of meaning and elaborating on sociocultural implications. | in a discussion with friends/relatives, guests/hosts (e.g. on politics, literature)<br>at a gathering with guests | during a public lecture, at a political rally or meeting, at a (religious) ceremony | at a management meeting, a social or cultural event during a work-related visit in another country | at a school event such as an awards evening with parents, at a welcome address or presentation to visiting guests from other schools, in webinars, debates and discussions |
+| C1 | Can communicate fluently (in Language B) the sense of what is said (in Language A) on a wide range of subjects of personal, academic and professional interest, conveying significant information clearly and concisely as well as explaining cultural references. | interpretation, at a formal gathering with guests, of complex ceremonies, statements, conversations, or discussions | at a public meeting, at an intercultural event | during discussions on organisational matters such as international conferences or events, contract negotiations | during an interview as part of a research project, at a conference or seminar |
+|  | Can mediate (between Language A and Language B) conveying detailed information, drawing the attention of both sides to background information and sociocultural cues, and posing clarification and follow-up questions or statements as necessary. | with visiting guests/relatives from another country |  |  |  |
+| B2+ | Can communicate (in Language B) the sense of what is said in a welcome address, anecdote or presentation in their field (in Language A), interpreting cultural cues appropriately and giving additional explanations when necessary, provided the presenter stops frequently in order to allow time for them to do so. | in discussions with relatives/friends on matters such as studying or working abroad | during a guided visit | with visiting partners or clients, in a discussion in an international team about organisation, project and resource planning | in a parent–teacher meeting to discuss a child’s school performance, with an academic in discussion of their specialised field |
+| B2 | Can communicate (in Language B) the sense of what is said (in Language A) on subjects within their fields of interest, conveying and when necessary explaining the significance of important statements and viewpoints, provided the interlocutors give clarifications if needed. | in a conversation with friends/relatives, guests/hosts about important current affairs | during a guided visit (e.g. an exhibition) | during a visit to company/factory/university premises<br>at dinner with visiting colleagues | in a parent–teacher meeting to discuss a child’s school performance; during a school exchange with visiting principals, teachers or students<br>at a school event or parents’ day |
+| B1+ | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects within their fields of interest, conveying straightforward factual information and explicit cultural references, provided they can prepare beforehand and the interlocutors articulate clearly in everyday language. | in everyday conversations with friends and relatives (e.g. on family, work, daily events) | in casual conversations with other travellers during a trip or holiday (e.g. on travel, hobbies, interests) | in everyday conversations with colleagues/workmates (e.g. on interests, work, daily events) | during a school exchange – incoming and outgoing, in a parent–teacher meeting to discuss a child’s school performance |
+| B1 | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects of personal interest, while following important politeness conventions, provided the interlocutors articulate clearly and they can ask for clarification and pause to plan how to express things. | in a conversation between friends/relatives and visitors to make arrangements for an outing<br>interpreting on the telephone for relatives and friends when applying for a service such as the internet or utilities | at a restaurant with guests, conversing about background, hobbies, education<br>at a public office offering services, such as a licensing office | at the workplace to organise a leaving party<br>during a visit from a client | with a new student from their country of origin |
+| A2+ | Can communicate (in Language B) the overall sense of what is said (in Language A) in everyday situations, following basic cultural conventions and conveying the essential information, provided it is articulated clearly and they can ask for repetition and clarification. |  |  |  |  |
+| A2 | Can communicate (in Language B) the main point of what is said (in Language A) in predictable everyday situations, conveying back and forth information about personal wants and needs, provided other people help with formulation. | during the introduction of a visitor/guest to family/friend circles | at a public office offering services, such as a licensing office | during a visit from a client |  |
+| A1 | Can communicate (in Language B) other people’s personal details and very simple, predictable information (in Language A), provided other people help with formulation. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+| C2 | Can deal tactfully with a disruptive participant, framing any remarks diplomatically in relation to the situation and cultural perceptions.<br>Can confidently take a firm but diplomatic stance over an issue of principle, while showing respect for the viewpoints of others. | in a disagreement between friends or family members discussing personal or social issues | in a situation with intercommunal conflict tensions | in collaborative work that takes a difficult turn<br>in negotiations, in discussions about cuts and restructuring | in cases of disruptive classroom behaviour<br>in cases of bullying or racial/gender-aggravated school violence |
+| C1 | Can demonstrate sensitivity to different viewpoints, using repetition and paraphrase to demonstrate a detailed understanding of each party’s requirements for an agreement.<br>Can formulate a diplomatic request to each side in a disagreement to determine what is central to their position, and what they may be willing to give up under certain circumstances.<br>Can use persuasive language to suggest that parties in disagreement shift towards a new position. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+| B2+ | Can elicit possible solutions from parties in disagreement in order to help them to reach consensus, formulating open-ended, neutral questions to minimise embarrassment or offence. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+|  | Can help the parties in a disagreement better understand each other by restating and reframing their positions more clearly and by prioritising needs and goals. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees |  |
+|  | Can formulate a clear and accurate summary of what has been agreed and what is expected from each of the parties. |  | in disputes regarding an accident | at collective bargaining or labour arbitration |  |
+| B2 | Can, by asking questions, identify areas of common ground and invite each side to highlight possible solutions. |  | helping others with complaints about bills or services at shops, transport, banks | during minor disputes at the workplace |  |
+| B2 | Can outline the main points in a disagreement with reasonable precision and explain the positions of the parties involved. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+|  | Can summarise the statements made by the two sides, highlighting areas of agreement and obstacles to agreement. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | as a member/chair/moderator at a community meeting to discuss social policies or safety and security problems | during preparatory meetings to examine and revise an agenda or an action plan |  |
+| B1+ | Can ask parties in a disagreement to explain their point of view, and can respond briefly to their explanations, provided the topic is familiar to them and the parties express themselves clearly. | in arguments between flatmates over household responsibilities or home improvements | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | when dealing with everyday negative interactions between classmates |
+| B1 | Can demonstrate their understanding of the key issues in a disagreement on a topic familiar to them and make simple requests for confirmation and/or clarification. |  |  |  |  |
+| A2 | Can recognise when people disagree or when difficulties occur in interaction, and adapt memorised, simple phrases to seek compromise and agreement. | in arguments between flatmates over household responsibilities | in an argument at a party, on an outing, at a public place like a station or museum | when two people in the workplace have an argument about how to do something, or a task not completed | when fellow students start arguing, or are left out, during group work |
+| A1 | Can recognise when people disagree, or when someone has a problem, and can use memorised, simple expressions (e.g. “I understand” or “Are you okay?”) to indicate sympathy. | when a flatmate is upset, perhaps during or after an argument |  | when a colleague is upset, perhaps during or after an argument |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_online_interaction -->
 
-|  | 26e4 |
-| --- | --- |
-| 861 | Mediating |
-| < | ee |
-| W439 | Relaying |
-|  | - |
-|  | uoJueduioy |
-| No | descriptors |
-| Can | explain |
-| ‘auinjon | information |
-| complex | (in |
-| c | text |
-| affairs | current |
-| personal | or |
-|  | or |
-|  | concern |
-| Can | relay |
-| Language | A) |
-| (in | purpose. |
-| printer); | articles |
-| B2+ | toa |
-| or | current |
-| interest | on |
-| particular | in |
-| Can | relay |
-| formal | correspondence |
-| general | interest. |
-| policies, | regulations |
-| procedures | (e.g. |
-| to | rent/mortgage, |
-| or | procedures |
-| employment | or |
-|  | care) |
-
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Relaying | specific |
-| sajdweXy, | Can |
-| announcements | and |
-| speed | (in |
-| Jo | alerts, |
-| asn | instructions |
-| be | given |
-| JUaayIp | UI |
-|  | zone |
-| uleWOp | Can |
-| instructions | or |
-| articulated | (in |
-| 105 | instructions |
-| s4o}duuDsap | friend |
-| ‘on | how |
-| party | ‘on |
-| toY, | a |
-| Jo | given |
-| aUI\|UO | or |
-| factory, | warehouse,on |
-|  | aship |
-|  | UOA2eI9zU! |
-| Can | relay |
-| pue | straightforward |
-| UOHe!paU | entries, |
-| identifying | immediate |
-| public | hazards, |
-| association | rules, |
-| <SeRIAR2e | itineraries, |
-| locations | of |
-| association | meetings, |
-| sale | information |
-| 260d | or |
-| exchange | programme |
-|  | 661 |
-
-|  | 26e4 |
-| --- | --- |
-|  | 007 |
-|  | < |
-| W439 | Relaying |
-|  | - |
-|  | uojueduioy |
-|  | TV |
-| Can | relay |
-| announcement | (in |
-| ‘auinjon | everyday |
-| message | and |
-| circumstances | workplace |
-| upcoming | school |
-|  | relay |
-| A2+ | Can |
-| contained | in |
-| Language | A) |
-| identifying | immediate |
-| public | hazards, |
-| itineraries, | of |
-| locations | club/ |
-| association | meetings, |
-| information | about |
-| sale | or |
-| Can | relay |
-| simple | messages, |
-| provided | these |
-| language | (in |
-| employment | or |
-| circumstances, | simple |
-| messages | left |
-| or | housemates |
-| meeting | times |
-| requests | to |
-| tasks | such |
-| out | the |
-| Can | relay |
-| simple | instructions, |
-| Language | A) |
-| assemble | piece |
-| furniture | a |
-
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Relaying | specific |
-| sojduexy | Can |
-| about | times |
-| (delivered | in |
-| Jo | programmes |
-| asn | work |
-| location | of |
-| JUaJOYIP | Ul |
-| Can | relay |
-| sUJEWOP | and |
-| repeated | very |
-| time | closes, |
-| 40 | toilets |
-|  | s40Jd\|>SOP |
-|  | a |
-| Can | relay |
-| Jo | numbers |
-| UIJUO | Language |
-| menus | including |
-| destination | and |
-| UOR>2e/23UI | information |
-| seating | availability, |
-| price, | etc. |
-|  | pue |
-|  | UoReIpaw |
-|  | «Sanian2e |
-|  | 262d |
-|  | 10z |
-
-|  | 26e4 |
-| --- | --- |
-| «707 | Mediating |
-| Text | (and |
-| ¥43D | Relaying |
-|  | - |
-|  | uojueduioy |
-|  | ‘auinjon |
-| 1 | No |
-| Can | relay |
-| a | conference |
-| out | which |
-| relation | toa |
-| issue | project |
-| Can | relay |
-| contained | in |
-| B2+ | texts |
-| academic | and |
-| by | a |
-| university | professor |
-| Can | relay |
-| contained | in |
-| or | professional |
-| community | meeting |
-| Can | relay |
-| decisions | that |
-| were | a |
-| Can | relay |
-| contained | in |
-| for | member |
-| notice | or |
-| complaint | new |
-| sent | during |
-
-| Relaying | specific |
-| --- | --- |
-| sajdweXy | Can |
-| points | contained |
-| on | familiar |
-| Jo | instructions). |
-| asn | procedures, |
-| to | operate |
-| jUaJayIp | UI |
-| Can | relay |
-| information | contained |
-| sUleEWop | (in |
-| texts | on |
-| family | housemates |
-| 40} | in |
-| s40}dUDSap | sent |
-| about | when |
-| friend/family | steps |
-| to | member |
-|  | Jo |
-|  | BUI\|UO |
-| Can | relay |
-| given | in |
-| UON2e293U! | Language |
-| and | the |
-| task | such |
-| a | meal |
-| pue | the |
-|  | UOVe!paUs |
-| Can | relay |
-| contained | in |
-| A), | provided |
-| «SaRIAR2e | and |
-| safety | procedures, |
-| A2+ | requirements |
-| an | advertisement |
-| a0e4 | about |
-| or | other |
-| £07 | described |
-
-|  | 26ed |
-| --- | --- |
-| ¥OZ | Mediating |
-| < | Text |
-| W43D | Relaying |
-|  | - |
-|  | uojueduioy |
-| Can | list |
-| simple | messages |
-| ‘auinjon | A), |
-| announcements | of |
-| personal | interest |
-| family | or |
-| Can | list |
-| in | simple |
-| immediate | interest |
-| travel | itineraries, |
-| timetables, | directions |
-| an | advertisement |
-| science | class, |
-| museum | visit |
-| school | trip |
-| Can | list |
-| simple | information |
-| Language | A), |
-| clear, | with |
-| meeting | point |
-| Can | list |
-| simple | information |
-| of | immediate |
-| language | and |
-| and | main |
-| information | schedule, |
-| seating | availability, |
-| price, | etc. |
-
-| Explaining | data |
-| --- | --- |
-| etc.) | in |
-|  | of |
-| sejdweXy | Can |
-| Language | B) |
-| organised | information |
-| Jo | conceptually |
-| asn | professional |
-| for | family |
-| yUaJayIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-| SUeEWop | Can |
-| Language | B) |
-| in | complex |
-| 40} | 2} |
-| s40}duDSap | academic |
-| lecture | or |
-|  | conference/round- |
-| table | event |
-| Jo | Can |
-| BUI\|UO | detailed |
-| charts | and |
-| in | Language |
-| UOR2e293U! | on |
-| Can | interpret |
-| information | in |
-| B1+ | text |
-| pue | hesitation |
-|  | UOHVe!paUs |
-| Can | interpret |
-| shown | in |
-| text | in |
-| «san1AR2e | difficulty |
-| family | member |
-| basic | financial |
-| presented | during |
-| 20e4 | a |
-| meeting, | diagrammatic |
-| $07 | displays |
-|  | museum |
-
-|  | 2524 |
-| --- | --- |
-|  | 907 |
-| < | ing |
-|  | Y439D |
-|  | - |
-|  | uoJUedUIOD |
-| Can | interpret |
-| on | familiar |
-| (with | text |
-| ‘auunjoa | and |
-| features | of |
-| A2+ | device |
-| diagram, | identified |
-| toa | friend |
-| member | metro |
-| floor | plan |
-| or | shopping |
-| No | descriptors |
-| No | descriptors |
-| No | descriptors |
-| = | eee |
-| Explaining | data |
-| Can | interpret |
-| various | forms |
-| ‘A) | from |
-| professional | topics. |
-| from | research |
-| development | activities |
-| for | senior |
-
-| Mediating | a |
-| --- | --- |
-| Explaining | data |
-| diagrams, | etc.) |
-| sajdweXy | Can |
-| (in | Language |
-| complex | diagrams |
-| Jo | text |
-| asn | topics. |
-| c1 | for |
-| JUa2yIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-|  | ULeWOp |
-| Can | interpret |
-| B) | detailed |
-| 105 | organised |
-| s4oydyuDsap | Language |
-| a | attachment |
-| graph, | bar |
-| a | numeric |
-|  | Jo |
-|  | aUI\|UO |
-| Can | interpret |
-| ‘overall | trends |
-| UOA2eI9zU! | B1+ |
-| points | in |
-| other | reference |
-| pue | Can |
-| UOe!paWI | facts |
-| map, | a |
-| accompanying | map |
-| discussion | forum |
-|  | <SeRIAR2e |
-| No | descriptors |
-| 2624 | No |
-| £07 | No |
-
-|  | 26e4 |
-| --- | --- |
-| 80z | Mediating |
-| < | Text |
-| W43D | ig |
-|  | - |
-|  | uojueduioy |
-| Can | explain |
-| implications | are |
-| point | out |
-| ‘auinjon | expression |
-| c | and |
-| specialised | articles |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
-| Can | summarise |
-| Language | A). |
-| ina | newspaper |
-| speeches, | sermons, |
-| opinions | and |
-|  | documents |
-| Can | summarise |
-| A) | within |
-| on | matters |
-| competence, | of |
-|  | most |
-| ‘Can | summarise |
-| Language | B) |
-| qc | Language |
-| ‘own, | although |
-| technical | concepts. |
-| regulation, | conference |
-| presentations | discussions, |
-| Can | explain |
-| presentation | of |
-| books, | newspaper |
-| articles, | commentaries |
-| and | editorials, |
-| specialised | articles, |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
-
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| g | text |
-| sajdweXy, | Can |
-| text | (in |
-| glossing | with |
-| Jo | etc. |
-| asn | TV |
-| affairs | programmes, |
-| JUaayIp | UI |
-| c1 |  |
-| Can | explain |
-| uleWOp | expressed |
-| topic, | supporting |
-| specific | passages |
-| 105 | TV |
-| s4oydysDsap | affairs |
-| talk | shows |
-| presentations, | conference |
-| Jo | Can |
-| aUI\|UO | Language |
-| complex | texts |
-| <y)___ | ‘elated |
-| UOA2eI9zU! | Can |
-| complex | discussions |
-| different | points |
-|  | pue |
-| UOHe!paW | Can |
-| arguments | from |
-| TV | news |
-| documentaries, | articles |
-| «seRIAR2e | issue |
-|  | a6ed |
-|  | 607 |
-
-|  | 262d |
-| --- | --- |
-| OLZ | Mediating |
-| < | Text |
-| ¥4ID | ig |
-|  | - |
-|  | uoJueduioy |
-| Can | summarise |
-| and | imaginative |
-| and | themes. |
-| ‘auinjon | specialised |
-| —_ | or |
-| Can | summarise |
-| in | longer, |
-| current | interest, |
-|  | contracts |
-| Can | recognise |
-| Language | A) |
-| Language | B) |
-| author. | purpose, |
-| editorials | newspaper |
-| Can | summarise |
-| items, | interviews |
-| arguments | and |
-| Can | summarise |
-| events | in |
-| Can | summarise |
-| in | long |
-| expressions. | interest, |
-| documentaries, | talks |
-| programmes, | web |
-|  | presentations |
-| Can | summarise |
-| talk, | discussion, |
-| B1+ | and |
-| articles | in |
-| ‘or | magazines |
-| Can | collate |
-| (in | Language |
-| sources | B) |
-| in | notes |
-| theatres, | programmes |
-| song | newspapers |
-
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| g | text |
-| sojdwexg | Can |
-| clear, | well-structured |
-| that | are |
-| Jo | limitations |
-| asn | leaflets, |
-| summaries, | short |
-| JUaJYIp | Ul |
-| Can | summarise |
-| information | content |
-| sUJEWOP | A) |
-| magazine | article, |
-| e-mails, | newspaper |
-| 404 | news |
-| s4oJd\|>SaP | Can |
-| during | conversation |
-| personal | a |
-| clearly. | or |
-| Jo | wedding |
-| aUIJUO | project |
-| Can | summarise |
-| UOR>2e/23UI | long |
-| their | fields |
-| several | times. |
-| talks | or |
-| pue | programmes |
-|  | UoReIpaU |
-| Can | summarise |
-| in | TV |
-| provided | they |
-| «Sanian2e | meeting |
-| _ | a |
-| Can | report |
-| Fe), | TVorradio |
-| 262d | sports, |
-| familiar | and |
-|  | LLZ |
-
-|  | <ZLZ26ed |
-| --- | --- |
-| Mediating | a |
-| ee | Text |
-| WII | g |
-|  | - |
-|  | uoJueduioy |
-| Can | report |
-| information | contained |
-| texts | (in |
-| ‘auinjon | notices |
-| timetables, | graffiti, |
-| A2+ | programmes, |
-| Can | summarise |
-| topics. | short |
-| news | item, |
-| brochures, | simple |
-| guide | entries |
-| Can | (in |
-| in | clearly |
-| A), | supplementing |
-| (e.g. | drawings, |
-| means | languages) |
-| to | so. |
-| Can | convey |
-| information | given |
-| posters | and |
-| e.g. | whose |
-| cook/clean/wash | up |
-| times | of |
-| No | descriptors |
-
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Processing | text |
-| sejdweXy | Can |
-| and | arguments |
-| A), | particularly |
-| Jo | reported, |
-| asn | ¢ |
-| Gara | different |
-| jUaJ2yIp | UI |
-| reconstructing | arguments |
-| presentation | of |
-| sUleEWop | Can |
-| complex | texts |
-| appropriately, | provided |
-| 40} | precise |
-| s40}dUDSap | meeting, |
-| tract, | a |
-|  | document |
-| Jo | Can |
-| BUI\|UO | Language |
-| political | analysis, |
-| report | extract |
-| UOR2e29;U! | audience, |
-| tract, | public |
-| document, | a |
-| opinion | a |
-|  | pue |
-|  | UORe!PaUs |
-|  | <SRIARZe |
-|  | a0ed |
-|  | £17 |
-
-|  | 26ed |
-| --- | --- |
-| HLT | Mediating |
-| < | Text |
-| Y4ID | Processing |
-|  | - |
-|  | uoJUeduioy |
-| Can | summarise |
-| content | of |
-| texts | (in |
-| ‘auinjon | professional, |
-|  | shows |
-| Can | and |
-| Language | compare, |
-| B2+ | academic |
-| their | fields |
-|  | reports |
-| Can | explain |
-| articulated | in |
-| inferences | they |
-| in | the |
-| short | stories, |
-| and | documents, |
-| Can | summarise |
-| content | of |
-| related | to |
-| Can | summarise |
-| and | arguments |
-| subjects | of |
-| B1+ | ‘or |
-| short | stories, |
-| and | documents, |
-| documents | articles |
-| Can | summarise |
-| made | in |
-| A) | on |
-| provided | oral |
-| reports | and |
-| brochures, | short |
-|  | articles |
-
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Processing | text |
-| sejdweXy | Can |
-| the | original |
-| advertisements, | notices, |
-| Jo | website |
-| asn | information |
-| changes | to |
-| yUaJ2yIp | UI |
-|  | programmes |
-| Can | list |
-| sUTeEWop | relevant |
-| Language | A), |
-| A2+ | subjects |
-| 40} | guide |
-| s10}duDSap | Can |
-| short | sentences |
-| limited | competence |
-| Jo | Can |
-| BUI\|UO | main |
-| ‘on | familiar |
-| frequency | vocabulary; |
-| UOR2e293U! | comprehensible. |
-| Can | copy |
-|  | format. |
-| pue | of |
-| UORe!PaUs | Can, |
-| the | meaning |
-| and | information |
-| Can | single |
-| <saRIAR2e | standard |
-| No | descriptors |
-|  | a0e4 |
-|  | $17 |
-
-|  | 26e4 |
-| --- | --- |
-| «917 | Mediating |
-| Text | (and |
-| W4ID | Translating |
-|  | - |
-|  | uoJueduioy |
-| Can | provide |
-| abstract | texts |
-| subjects | of |
-| ‘auinjon | successfully |
-| including | the |
-|  | them. |
-| Can | provide |
-| complex | written |
-| 2} | of |
-| range | most |
-|  | nuances. |
-| Can | provide |
-| B2+ | texts |
-| arguments | on |
-| academic | and |
-| such | as |
-| Can | provide |
-| (written | in |
-| B1+ | arguments |
-| academic | and |
-| in | uncomplicated, |
-| Can | provide |
-| Language | B) |
-| (written | in |
-| of | personal |
-| difficulty | with |
-| Can | provide |
-| A2+ | Language |
-| entries, | notices, |
-| Language | A). |
-
-| sejduiexg | Can |
-| --- | --- |
-| Language | B) |
-| subjects) | (written |
-| jo | essential |
-|  | asn |
-| Can | provide |
-| juaseyp | Ul |
-| subjects | that |
-| (e.g. | personal |
-| instructions). | news, |
-|  | sulewop |
-| Can | provide |
-| 10} | Language |
-| s1ojduasep | (written |
-| Notices, | posters, |
-| No | descriptors |
-|  | Jo |
-|  | 10 |
-|  | @ |
-|  | uoR2es=qU |
-| pue | ee |
-| uoRelpaw | Translating |
-| Can | translate |
-| <senianze | their |
-| provided | subject |
-| in | the |
-| or | other |
-| 96e4 | addressed |
-| educated | readership |
-|  | £17 |
-
-|  | BLZ26ed |
-| --- | --- |
-| Mediating | a |
-| < | Text |
-|  | Y4ID |
-|  | - |
-|  | uoJueduioy |
-| Can | translate |
-| academic | and |
-| es | in |
-| ‘auinjon | and |
-| associated | with |
-| over-influenced | by |
-|  | _ |
-| Can | produce |
-| B2+ | Ainto |
-| but | may |
-| punctuation | and |
-| Can | produce |
-| follow | the |
-| (in | Language |
-| text | accurately, |
-| source | awkwardly. |
-| Can | produce |
-| Ainto | Language |
-| “SF | are |
-| following | the |
-| errors | may |
-| Can | produce |
-| into | Language |
-| texts | written |
-| errors, | the |
-| Can | use |
-| translation | short |
-| on | and |
-| the | highest |
-| translation | remains |
-|  | a |
-| Can, | with |
-| signs | and |
-| may | not |
-| No | descriptors |
-
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Note-taking | (lectures, |
-| sajdweXy, | Can, |
-| seminar, | create |
-| are | not |
-| Jo | and/or |
-| asn | topic |
-| Is | of |
-| JUa2yIp | UI |
-| used. | can |
-| seminar | or |
-| Can | take |
-| uLeWOp | successfully |
-| between | ideas. |
-| 105 | Can |
-| s4oydysDsap | field |
-| and | closely |
-| useful | so |
-|  | Jo |
-| aUI\|UO | Can |
-| to | omit |
-| a | unfamiliar |
-| UOADeI9zU! | during |
-| lecture | on |
-|  | interest |
-| pue | Can |
-| UOHe!paW | ‘on |
-| (eg. | lectures, |
-| interviews), | provided |
-|  | <seRIAR2e |
-|  | a6ed |
-|  | 612 |
-
-|  | 26e4 |
-| --- | --- |
-| 0ZZ | Mediating |
-| < | Text |
-| W439 | Note-taking |
-|  | - |
-|  | uojueduioy |
-| Can | understand |
-| subject, | and |
-| important, | even |
-| ‘auinjon | actual |
-| Can | take |
-| matters | likely |
-| association | meeting, |
-| during | a |
-| topic | of |
-| Can | take |
-| for | within |
-| A) | field |
-|  | structured. |
-| Can | take |
-| straightforward | lecture, |
-| the | lecture |
-| articulated | clearly. |
-| Can | note |
-| familiar | subject, |
-| language | and |
-| during | a |
-| topic | of |
-| Can | take |
-| where | the |
-| the | presenter |
-|  | interest |
-| No | descriptors |
-| No | descriptors |
-
-| Mediating | a |
-| --- | --- |
-| Expressing | personal |
-| a | response |
-| creative | texts |
-|  | sojdwexy |
-| No | descriptors |
-|  | Jo |
-| asn | Can |
-| outlining | their |
-| JUaJOYIp | Ul |
-| just | seen, |
-| sculptures | ina |
-| cultural | artefacts |
-| sUJEWOP | ina |
-| 1 | discussion |
-| artistic | artefact |
-| 404 | screening |
-| s0JdL>SEP | organised |
-| Can | outline |
-| work: | their |
-| their | actions |
-| Jo | discussion |
-|  | UIJUO |
-|  | of |
-| UO]>2e123UI | Can |
-| work, | developing |
-| examples | and |
-| Can | give |
-| pue | plot, |
-| UOReIpaU | a |
-| ina | museum |
-| Can | describe |
-| elaborate | on |
-|  | «SanIAn2e |
-| Can | in |
-| expression, | express |
-| 262d | they |
-|  | 127 |
-
-|  | <ZZz26ed |
-| --- | --- |
-| Mediating | a |
-| Expressing | a |
-|  | W4aD |
-|  | - |
-|  | uojueduioy |
-| Can | explain |
-| especially | interested |
-| ie | musical |
-| ‘auinjon | a |
-| ‘ | LenS |
-| Can | relate |
-| they | have |
-| Shakespeare) | studied |
-| Can | relate |
-| emotions | they |
-| Can | describe |
-| point | in |
-| became | a |
-|  | a |
-| Can | explain |
-| provoked | in |
-| Can | describe |
-| Can | describe |
-| for | them. |
-| Can | their |
-| feelings | express |
-| in | class |
-|  | a |
-| Can | state |
-| especially | interested |
-| Can | state |
-| why | in |
-| Can | simple |
-| them | use |
-| No | descriptors |
-
-| sajdweXy | Can |
-| --- | --- |
-| and | genres |
-| subtle | distinctions |
-| Jo | meaning. |
-| asn | finer |
-| Can | recognise |
-| jUaJayIP | UI |
-| abnormal | syntax, |
-| meanings | and |
-| Can | critically |
-| sUleEWop | language |
-| for | a |
-| concerning | their |
-|  | 40} |
-| s40}dUDSap | Can |
-| linguistic | conventions |
-| Can | critically |
-| Jo | literary |
-|  | BUI\|UO |
-| Can | evaluate |
-| conventions | of |
-| UOR2e293U! | Can |
-| engages | the |
-|  | expectations). |
-|  | pue |
-| UOVe!PaUs | Can |
-| and | scenes, |
-| explaining | the |
-| them. | just |
-| «SaRIARZe | sculptures |
-| Can | of |
-| the | thematic, |
-| referring | to |
-| a0ed | Can |
-| with | characters, |
-|  | £77 |
-| Can | describe |
-| their | treatment |
-
-|  | 26% |
-| --- | --- |
-|  | «zz |
-| Text | (and |
-|  | ysa> |
-|  | - |
-|  | uojueduioy |
-| Can | point |
-| clearly | structured |
-| a | explain |
-| ‘auinjon | between |
-| sculptures | seen, |
-| cultural | artefacts |
-| ina | in |
-| discussion | museum |
-| Can | describe |
-| narratives | involving |
-| high | frequency |
-| Can | identify |
-| language, | the |
-| narratives | involving |
-| high | frequency |
-| No | descriptors |
-| No | descriptors |
-
-| Me | ing |
-| --- | --- |
-| with | Situation |
-| ction | : |
-| No | descriptors |
-|  | sejdweXy |
-| Can | show |
-| Jo | group, |
-| asn | u |
-| to | avoid |
-| yUaJEyIp | UI |
-| (aradbagencicim, | discuss |
-| are | aware |
-| Can, | based |
-| sUleEWop | formulate |
-|  | interaction. |
-|  | B2+ |
-|  | 40} |
-| s40;dUDSap | an |
-| and | decisions, |
-| giving | a |
-| visual | support |
-| Jo | Can |
-| BUI\|UO | organise |
-| Can | help |
-| UOR2e293U! | for |
-| members, | colleagues |
-| eantmrentention | sonny |
-| next, | and |
-| pue | choose |
-| UORVe!PaUs | Can |
-| responding | suggestions, |
-| and | proposing |
-| Cancollaborate | in |
-| <SaRIAR2e | F2 |
-| straightforward | questions. |
-| Can | define |
-| a0e4 | others |
-|  | $77 |
-
-|  | 26e4 |
-| --- | --- |
-| «977 | Me |
-| collaborative | ituation |
-| ¥43D | ‘ating |
-|  | - |
-| uojueduioy | Can |
-| views. | exchange |
-| friends, | family |
-| members, | colleagues |
-| ‘auinjon | met |
-| circumstances, | for |
-| instance | to |
-| advice | before |
-| among | possible |
-| solutions | to |
-| Can | collaborate |
-| A2+ | participants |
-| them | to |
-|  | university |
-| Can | collaborate |
-| others | think, |
-| responses, | provided |
-| reformulation | from |
-| Can | invite |
-| short, | simple |
-| that | they |
-| No | descriptors |
-
-| Me | ing |
-| --- | --- |
-| Situation | (and |
-| \| | Personal |
-| Can | summarise, |
-| sajdweXy, | c |
-| forward. | members, |
-| met | in |
-| Jo | _<ifcumstances |
-| asn | Can |
-| Sparencnc | minicar |
-| JUa2yIp | UI |
-| itn | development |
-| Can | evaluate |
-| ULeWOP | C1 |
-| a | specific |
-| visual | support |
-| 105 | Can |
-| s4o}dyuDsap | others’ |
-| or | project |
-|  | debate |
-|  | Jo |
-|  | aUI\|UO |
-|  | UOADeI9zU! |
-|  | pue |
-|  | UOe!PaW |
-|  | <SeRIANDe |
-|  | 2604 |
-|  | £27 |
-
-|  | 26ed |
-| --- | --- |
-| 8Zz | Me |
-|  | EEE |
-| < | Collaborating |
-| W43D | - |
-|  | - |
-| uojueduioy | Can |
-| a | complex |
-| taken | into |
-| problem, | when |
-| ‘auinjon | planning |
-| event,eg.awedding | event |
-| or | anniversary |
-| >\| | a |
-| can | contribute |
-| problem | solving, |
-| explaining | details |
-| action. | family |
-| collaborative | workona |
-| Can | help |
-| what | others |
-| weighing | up |
-| Can | further |
-| family | or |
-| plana | themed |
-| staged | social |
-| such | as |
-| party | teacher |
-| Can | present |
-| invite | reactions |
-| strongly | differing |
-| about | holiday, |
-| on | during |
-| family | renovation |
-| green | areas |
-| of | amenities/services) |
-
-| Me | ing |
-| --- | --- |
-| Collaborating | situation |
-| - | to |
-| Can | consider |
-| sajdweXy, | arguments |
-| compromise. | strongly |
-| about | holiday, |
-| Jo | on |
-| asn | family |
-| a | house |
-| JUaayIp | UI |
-| dispute | between |
-|  | housemates |
-| uleWOp | Can |
-| task | by |
-| B1+ | the |
-| 105 | Can |
-| s4o}dUuDsap | to |
-| apartment, | how |
-| Can | ask |
-| views. | to |
-|  | Jo |
-| aUI\|UO | Can |
-| mutual | understanding |
-| ideas | on |
-|  | UOA2eI9zU! |
-| Can | ensure |
-| A2+ | understands |
-| questions. | ‘out, |
-| pue | party |
-| UOHe!PaW | Can |
-| to | indicate |
-| Can | make |
-|  | <seRIAN2e |
-| Can | express |
-| very | simple |
-| prepare | in |
-|  | bed |
-| No | descriptors |
-|  | 677 |
-
-|  | 26% |
-| --- | --- |
-| 0€7 | Me |
-| « | ee |
-| y43> | Managing |
-|  | - |
-|  | uojueduioy |
-| Can | take |
-| participants | and |
-| person, | mediator, |
-| ‘aumnjon | individualised |
-| ¢ | charity/association |
-| appropriate | steps |
-| family | members |
-| f | informal |
-| business, | at |
-| Can | organise |
-| and | individual |
-| group | between |
-| C1 |  |
-| Can | intervene |
-| discussion, | prevent |
-| disruptive | behaviour. |
-|  | project |
-
-| Me | ing |
-| --- | --- |
-| ee | ituation |
-| Managing | interaction |
-| sojduexy | Can |
-| efficiently. | moderator |
-| community | meeting; |
-| Jo | ata |
-| asn | charity/association |
-| meeting | or |
-| JUaOYIP | UJ |
-| regional, | national, |
-| international | level |
-| institutions | a |
-| sUJEWOP | a |
-|  | workshop |
-| Can | monitor |
-| 404 | intervening |
-| s40Jd\|>SaP | cy), |
-|  | project |
-| Jo | Can |
-| aUIJUO | attention |
-| questions | and |
-| in | an |
-| UOR>2e/23UI | at |
-| development | sessions; |
-| during | work |
-| complex | collaborative |
-| pue | projects |
-| UoReIpaU | business, |
-|  | institutions |
-|  | «Sanian2e |
-|  | 262d |
-|  | Lez |
-
-|  | 26rd |
-| --- | --- |
-| ZEZ | Me |
-| < | ituation |
-| W4aD | Managing |
-|  | - |
-|  | uoJueduioy |
-| Can | explain |
-| collaborative | work. |
-| ‘auinjon | community |
-| Emepbingrermlukschigeibertive | . |
-| in | small |
-| evaluation | of |
-| CIBER, | eduicationtperect/ |
-| regional, | national, |
-| international | level |
-| a | protest/opposition, |
-| a | school |
-|  | workshop |
-| Can | intervene |
-| task | with |
-| participation. | community |
-| witha | specific, |
-| defined | goal; |
-| festival | working |
-| group, | with |
-|  | goal |
-| Can | allocate |
-| B1+ | express |
-| upkeep, | etc. |
-| \| | on |
-| Can | give |
-| moderator | at |
-| Can | give |
-| given | some |
-| defined | goal; |
-| festival | working |
-| group, | with |
-|  | goal |
-
-| ee | Situation |
-| --- | --- |
-| Managing | interaction |
-| sejdweXy | No |
-| No | descriptors |
-|  | Jo |
-|  | asn |
-| yUaJayIp | UI |
-|  | sUleEWop |
-|  | 10} |
-|  | s40}duDSap |
-| Encouraging | conceptual |
-| Jo | Can |
-| BUI\|UO | discussion |
-| and | topics, |
-| targeting | their |
-| UOR2e293U! | on |
-| Can | ask |
-| contributions | in |
-| pue | a |
-| UORe!PaUs | predicting). |
-| Can | encourage |
-| «SaRIARZe | elaborate |
-| Can | encourage |
-| pF | \| |
-| or | solution. |
-| a0e4 | lecturer/instructor |
-| conference | during |
-| ££7 | time |
-
-|  | a6ed |
-| --- | --- |
-| HET | Me |
-| < | ituation |
-| W4ID | Encouraging |
-|  | - |
-|  | uoJueduioy |
-| Can | formulate |
-| people | opinions. |
-| their | issues |
-| ‘auinjon | Can |
-| lines | of |
-| Can | ask |
-| topic | under |
-|  | time |
-| Can | ask |
-| in | their |
-| of | entertainment |
-| friends/relatives | such |
-| planning | applications |
-| B1+ | or |
-|  | events |
-| Can | ask |
-| that | have |
-|  | concepts |
-| Can | ask |
-| reasoning. | social |
-| someone | thinks |
-| Can | ask |
-| something | would |
-| ‘or | community |
-|  | events |
-| Can | ask |
-| options | with |
-| friends | or |
-| for | an |
-| when | organising |
-|  | party |
-| Can | use |
-| signals | show |
-|  | out |
-| No | descriptors |
-
-|  | communicati |
-| --- | --- |
-| ee | ituation |
-| g | pluricultural |
-| sejdweXy | Can |
-| of | their |
-| c | sociocultural |
-| Jo | persed |
-| asn | Can |
-| nuances | and |
-| yUaJEyIP | UI |
-| Can | act |
-| contributing | to |
-| managing | ambiguity, |
-| sUleEWop | heading |
-| a | Can |
-| 40} | has |
-| s40;dUDSap | interaction |
-| cultural | perspectives |
-| on | concerning |
-| custody | country |
-|  | Jo |
-|  | BUL\|UO |
-|  | UOR>e293U! |
-|  | pue |
-|  | UORe!PaUs |
-|  | «SaRIAR2e |
-|  | a0e4 |
-|  | $£7 |
-
-|  | 26e4 |
-| --- | --- |
-| 9€7 | Me |
-| « | ituation |
-|  | Y4aD |
-|  | - |
-|  | uoJueduioy |
-| Can | exploit |
-| order | to |
-| particular | situation |
-| ‘auinjon | personal |
-| with | friends |
-| family | in |
-|  | environment |
-| Can, | in |
-| of | perspectives |
-| and | themselves |
-| express | a |
-| “yr | context. |
-| to | multicultural |
-| Can | clarify |
-| during | intercultural |
-| were | actually |
-| discussion | forward. |
-| different | cultures |
-| beet | endl |
-| ‘or | public |
-| multicultural | issues |
-| Can | encourage |
-| expressing | understanding |
-| ideas, | feelings |
-| contribute | and |
-| interests | centres |
-| Can | work |
-| cultural | orientations, |
-| in | views |
-| at | public |
-| (eg. | festivals, |
-|  | demonstrations) |
-
-| Me | ing |
-| --- | --- |
-| ituation | (and |
-| sajdweXy, | Can, |
-| adapt | the |
-| procedures. | friends |
-| Jo | commercial |
-| asn | with |
-| JUa2yIp | UI |
-| conversation, | showing |
-| answering | simple |
-| and | understanding. |
-| ULeWOp | B1+ |
-| Can | in |
-| recognising | act |
-| 105 | members |
-| s1oydUuDsap | group. |
-| Can | support |
-| repertoire | to |
-| Jo | backgrounds |
-| aUI\|UO | awareness |
-| differently | in |
-| UOADeI9zU! | Can |
-| exchanging | information |
-| attitudes | to |
-| pue | Can |
-| UOHe!paU | words/signs |
-| clarification | of |
-| repertoire | to |
-| Can | facilitate |
-| <seRIAR2e | welcoming |
-| and | non-verbal |
-| and | by |
-| addressed | directly. |
-|  | 260d |
-| No | descriptors |
-|  | ££7 |
-
-|  | 26rd |
-| --- | --- |
-| 8Ez | Me |
-| « | Acting |
-| W4aD | as |
-|  | - |
-|  | uoJueduioy |
-| Can | communicate |
-| Language | B) |
-| wide | range |
-| ‘auinjon | appropriate |
-| c | meaning |
-| guests | visiting |
-| other | schools, |
-| webinars, | debates |
-|  | discussions |
-| Can | communicate |
-| what | is |
-| personal, | academic |
-| C1 | significant |
-| explaining | cultural |
-| conversations, | or |
-|  | discussions |
-| Can | mediate |
-| conveying | detailed |
-| both | sides |
-| B2+ | and |
-| cues, | or |
-| statements | as |
-| planning | resource |
-| Can | communicate |
-| is | said |
-| in | their |
-| appropriately | and |
-| necessary, | provided |
-| to | allow |
-| teachers | or |
-| Can | communicate |
-| (in | Language |
-| conveying | and |
-| of | important |
-| interlocutors | give |
-
-| Me | ing |
-| --- | --- |
-| Acting | intermediary |
-| as | \| |
-| situations | (with |
-| sajdweX, | Can |
-| is | said |
-| =F). | interest, |
-| Jo | and |
-| asn | beforehand |
-| everyday | language. |
-| JUa2yIp | UI |
-| Can | communicate |
-| what | is |
-| interest, | while |
-| uleWOp | ask |
-| clarification | and |
-|  | things. |
-| 105 | Can |
-| s4oydusDsap | of |
-| following | basic |
-| essential | information, |
-| they | ask |
-| Jo | can |
-| aUI\|UO | A2+ |
-| telephone | relatives |
-| and | friends |
-| UOA2eIazU! | applying |
-| such | as |
-|  | Utilities |
-| pue | Can |
-| UOHe!paUI | is |
-| conveying | back |
-| wants | and |
-|  | formulation. |
-|  | <seRIAR2e |
-| Can | details |
-| and | very |
-| Language | A), |
-| bed | No |
-|  | 6£7 |
-
-|  | 262d |
-| --- | --- |
-| Oz | Me |
-| < | Facilitating |
-| W4ID | in |
-|  | - |
-|  | uoJUeduIoy |
-| Can | deal |
-| any | remarks |
-| cultural | perceptions. |
-| ‘auinjon | c |
-| Can | confidently |
-| . | issue |
-| of | others. |
-| Can | demonstrate |
-| repetition | and |
-| understanding | of |
-| agreement. | when |
-| relatives | decisions |
-| Can | formulate |
-| disagreement | to |
-| position, | and |
-| certain | circumstances. |
-| Can | use |
-| disagreement | shift |
-| solutions | on |
-| Can | elicit |
-| in | order |
-| open-ended, | neutral |
-| embarrassment | or |
-| Can | help |
-| B2+ | each |
-| i | learly |
-| z | concerning |
-| Can | formulate |
-| has | been |
-| (ess | landlords/tenants |
-| (e.g. | over |
-| Can, | by |
-| and | invite |
-| or | services |
-| transport, | banks |
-
-| Me | ing |
-| --- | --- |
-| Facilitating | communication |
-|  | in |
-| tuations | and |
-| sojdwexy | Can |
-| reasonable | precision |
-| parties | involved. |
-| Jo | when |
-| asn | relatives |
-| Can | summarise |
-| JUaJOYIP | Ul |
-| areas | to |
-| agreement. | elderly |
-| safety | and |
-| sUJEWOP | in |
-|  | landlords/tenants |
-| (e.g. | over |
-| 404 | responsibility |
-| s40JdL>SEP | damage |
-| of | Can |
-| B1+ | view, |
-| Jo | provided |
-| aUIJUO | express |
-| home | improvements |
-| Can | demonstrate |
-| UoR>2e123UI | disagreement |
-| requests | for |
-|  | a |
-| pue | Can |
-| UoReIpaws | occur |
-| to | seek |
-| responsibilities | station |
-| task | not |
-|  | «Sanian2e |
-| Can | recognise |
-| has | a |
-| (e.g. | “I |
-| 262d | sympathy. |
-|  | Lpz |
-| No | descriptors |
+Page **191**
 
 <!-- page:191 -->
-*Page 191*
 
-|  | 26% |
-| --- | --- |
-|  | Z61 |
-|  | < |
-| y4a> | Online |
-|  | - |
-|  | uojueduio9 |
-| Can | adapt |
-| online | interaction, |
-| other | within |
-| ‘aumnjon | personal |
-| oras | a |
-| C1 | an |
-|  | meeting |
-| Can | evaluate, |
-| in | professional |
-| discussion. | content |
-| project | meeting |
-| Can | in |
-| contributions | engage |
-| understanding | to |
-| appropriately. | personal |
-| during | a |
-| B2+ | ina |
-| online | forum |
-| content | and |
-| or | asa |
-| an | online |
-|  | meeting |
+<!-- el:start type=artifact id=scale_online_interaction page=192 -->
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| C1 | Can adapt their register according to the context of online interaction, moving from one register to the other within the same exchange if necessary. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues | during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
+|  | Can evaluate, restate and challenge arguments in professional or academic live online chat and discussion. | [not applicable] | in a special interest online forum evaluating content and issues | as a consultant participating in an online business or project meeting | participating in an online discussion forum for a college debating society |
+| B2+ | Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues<br>in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation<br>during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
+<!-- el:end id=scale_online_interaction -->
+
+*Page **192** ▶ **CEFR – Companion volume***
 
 <!-- page:192 -->
-*Page 192 3 CEFR –­ Companion volume*
 
-| ee | n |
-| --- | --- |
-| public | online |
-| sajdweXy | Can |
-| and | responding |
-| some | length, |
-| Jo | complex |
-| asn | agency |
-| focus | group |
-| jUaJayIp | UI |
-| participants, | effectively |
-| previous | ones |
-| helps | manage |
-| sUleEWop | news |
-| as | online |
-| website | support |
-| 40} | personal |
-| s40}duDSap | issues |
-| Can | recognise |
-| that | arise |
-| provided | the |
-| Jo | staff |
-| BUL\|UO | Can |
-| than | one |
-| intentions | of |
-| UOR2e293U! | details |
-| B1+ | meeting |
-| Can | post |
-| and | activities |
-| pue | and |
-| UORe!PaU | up |
-| news | and |
-| Can | post |
-| discussion | prepare |
-| <SaRIAR2e | can |
-| fill | gaps |
-|  | website |
-| Can | make |
-| a0ed | feelings |
-| the | comments |
-| £61 | lexical |
-| inappropriate | formulation. |
+<!-- el:start type=artifact id=scale_online_interaction page=193 -->
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| B2 | Can participate actively in an online discussion, stating and responding to opinions on topics of interest at some length, provided contributors avoid unusual or complex language and allow time for responses. | in a critical discussion of arts or music with friends online | in a public online discussion forum/comment thread held by a broadcasting/news agency | in a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in a discussion with other students at another school in an e-twinning project |
+|  | Can engage in online exchanges between several participants, effectively linking their contributions to previous ones in the thread, provided a moderator helps manage the discussion. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a contributor to a forum about a commercial software or gaming website<br>as a participant in an online support group website for social or personal issues | in a staff committee meeting held online, or as a participant in an online focus group meeting | in a collaborative meeting with students from another school in an e-twinning project |
+|  | Can recognise misunderstandings and disagreements that arise in an online interaction and deal with them, provided the interlocutor(s) are willing to co-operate. | in a discussion on a social networking site | in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation |  |
+| B1+ | Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation. |  | as a contributor to a forum about a commercial software or gaming website | in a staff committee meeting held online, or as a participant in an online focus group meeting |  |
+|  | Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a departmental online social events feed in a corporation | as a contributor to a university student union social events feed |
+| B1 | Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy. |  | as a contributor to the reviews and issues area of a commercial software or gaming website | as a participant in a simple online focus group meeting | in an online forum for students studying the same subjects |
+|  | Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation. |  | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a professional development forum |  |
+<!-- el:end id=scale_online_interaction -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **193***
 
 <!-- page:193 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 193*
 
-|  | 26ed |
-| --- | --- |
-|  | HEL |
-| < | [Fesonst |
-| ¥4ID | Online |
-|  | - |
-|  | uoJUeduioy |
-| Can | introduce |
-| exchanges | online, |
-| and | exchanging |
-| ‘auinjon | topics, |
-| responses, | and |
-| ata | time. |
-| VES) | Can |
-| everyday | matters, |
-| simple | key |
-| Can | comment |
-| provided | they |
-| reacting | to |
-| surprise, | interest |
-| a | way. |
-| Can | engage |
-| a | simple |
-| sharing | news |
-|  | meet). |
-| Can | make |
-| about | embedded |
-| basic | language, |
-| online | translation |
-| to | an |
-| Can | formulate |
-| online | postings |
-| about | hobbies, |
-| translation | tool. |
-| classroom | simulation |
-| Can | use |
-| simple | words/signs |
-| reactions | to |
-| links | and |
-| with | standard |
+<!-- el:start type=artifact id=scale_online_interaction page=194 -->
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time.<br>Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details.<br>Can comment on other people's online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way. | making contact online with remote friends and/or family to catch up on personal news and plans | as a contributor to an online travel advice service | as a contributor to a simple departmental online forum on familiar topics | in the Q&A section of a school learning platform |
+| A2 | Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet).<br>Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources. |  | public postings to a festival/event website |  |  |
+| A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. | making contact online with remote friends and/or family – also as a possible language classroom simulation | public postings to a festival/event website – also as a possible language classroom simulation | as a contributor to a simple departmental social feed – also as a possible language classroom simulation | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
+|  | Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. | making contact online with remote friends and/or family – also as a possible language classroom simulation |  |  | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
+<!-- el:end id=scale_online_interaction -->
+
+*Page **194** ▶ **CEFR – Companion volume***
 
 <!-- page:194 -->
-*Page 194 3 CEFR –­ Companion volume*
 
-| post | simple |
-| --- | --- |
-| sejdweXy | Can |
-| expressions | and |
-| Can | post |
-| Jo | themselves |
-| asn | occupation), |
-| menu | and/or |
-| yUaJayIP | UI |
-| line | interaction |
-| sUeEWop | Goal-oriented |
-| and | collaboration |
-| 40} | Can |
-| s40}dUDSap | with |
-| project | organised |
-| Can | a |
-| of | group |
-| Jo | collaborative |
-| BUI\|UO | Can |
-| online, | formulating |
-| evaluating | proposals |
-| UOR2e293U! | providing |
-| shared | tasks. |
-| Can | deal |
-| pue | role |
-| UORe!paUs | adjusting |
-| negotiations. | advice |
-| or | Q&A |
-| Can | participate |
-| «SeRIAR2e | collaborative |
-| forms | of |
-| instructions | with |
-| Can | deal |
-| 20e4 | cultural |
-| transactional | exchange |
-| $61 | providing |
+<!-- el:start type=artifact id=scale_online_interaction page=195 -->
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
+<!-- el:end id=scale_online_interaction -->
 
-| post | simple |
-| --- | --- |
-| sejdweXy | Can |
-| expressions | and |
-| Can | post |
-| Jo | themselves |
-| asn | occupation), |
-| menu | and/or |
-| yUaJayIP | UI |
-| line | interaction |
-| sUeEWop | Goal-oriented |
-| and | collaboration |
-| 40} | Can |
-| s40}dUDSap | with |
-| project | organised |
-| Can | a |
-| of | group |
-| Jo | collaborative |
-| BUI\|UO | Can |
-| online, | formulating |
-| evaluating | proposals |
-| UOR2e293U! | providing |
-| shared | tasks. |
-| Can | deal |
-| pue | role |
-| UORe!paUs | adjusting |
-| negotiations. | advice |
-| or | Q&A |
-| Can | participate |
-| «SeRIAR2e | collaborative |
-| forms | of |
-| instructions | with |
-| Can | deal |
-| 20e4 | cultural |
-| transactional | exchange |
-| $61 | providing |
+<!-- el:start type=prose id=prose_p195_s1 page=195 -->
+as the lead researcher in a collaborative research collaborative research programme requiring programme requiring online data collection as a participant in a data collection and **Educational** online qualitative [not applicable] and evaluation
+
+evaluation
+
+as a project manager using procedures across multiple online tools to co-ordinate travel agent or enrolment the introduction of new systems across multiple tools to co-ordinate the educational institution as the facilitator in an **Occupational** as personal assistant, project using online introduction of new online collaborative as a participant in a secretary for an **Situation (and roles)** remote sites locations project
+
+a social intervention a social intervention as the convenor for as the convenor for non-governmental non-governmental advice service and/ project organised project organised moderator of an online (e.g. by a online (e.g. by a online citizens’ **Public** or Q&A forum organisation) organisation) as voluntary
+
+### Online interaction
+
+**Personal** [not applicable]
+
+with frictions that arise during the collaborative process. providing examples through media (visual, audio, graphic). adjusting language flexibly to manage discussions and role (e.g. applications with complicated requirements), Can deal with complex online transactions in a service online, formulating and revising detailed instructions, Can deal effectively with communication problems and transactional exchange by reformulating, clarifying and Can provide guidance and add precision to the work forms of online collaboration, following and relaying Can co-ordinate a group that is working on a project instructions with precision in order to reach the goal. collaborative writing and redrafting as well as other Can resolve misunderstandings and deal effectively providing clarifications in order to accomplish the cultural issues that arise in an online collaborative or of a group at the redrafting and editing stages of **Goal-oriented online transactions ** evaluating proposals from team members, and Can participate in complex projects requiring
+
+**and collaboration**
+
+collaborative work.
+
+negotiations. shared tasks.
+
+**C2** **C1**
+<!-- el:end id=prose_p195_s1 -->
+
+<!-- el:start type=prose id=prose_p195_s2 page=195 -->
+classroom simulation **Educational**
+
+as a language
+
+**Occupational**
+
+[not applicable]
+
+**Situation (and roles)**
+
+on a social network site
+
+**Public**
+
+### Online interaction
+
+on a social network site
+
+**Personal**
+
+Can post simple online greetings, using basic formulaic
+
+occupation), provided they can select them from a **Online conversation and discussion** themselves (e.g. relationship status, nationality, Can post online short simple statements about menu and/or refer to an online translation tool.
+
+expressions and emoticons.
+
+**Pre-A1**
+<!-- el:end id=prose_p195_s2 -->
+
+<!-- el:start type=artifact id=scale_online_interaction page=195 -->
+| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
+<!-- el:end id=scale_online_interaction -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **195***
 
 <!-- page:195 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 195*
 
-|  | 26e4 |
-| --- | --- |
-|  | «961 |
-| Goal-oriented | online |
-| ¥43D | and |
-|  | - |
-| uoJUeduioy | Can |
-| their | area(s) |
-| reminding | it |
-| order | to |
-| ‘auinjon | Can |
-| exchanges | engage |
-| require | negotiation |
-| complicated | details |
-| Can | deal |
-| problems | that |
-| transactional | exchanges |
-| appropriately | in |
-| collection | issue) |
-| Can | collaborate |
-| project, | justifying |
-| a | playing |
-| tasks. | a |
-| non-governmental | work |
-| organisation) | goal |
-| Can | engage |
-| extended | exchange |
-| interlocutor(s) | avoid |
-| B1+ | to |
-| Can | interact |
-| project, | following |
-| clarification | and |
-| Can | engage |
-| exchanges | that |
-| explanation | of |
-| course, | tour |
-| Can | interact |
-| working | on |
-| such | as |
-| complex | concepts. |
-|  | improvement |
-| Can | respond |
-| request | online. |
-|  | task |
+<!-- el:start type=artifact id=scale_online_interaction page=196 -->
+| Level | Goal-oriented online transactions and collaboration | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------------------|----------|--------|--------------|-------------|
+| B2+ | Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task by reminding it of roles, responsibilities and deadlines in order to achieve established goals.<br>Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require negotiation of conditions and explanation of complicated details and special requirements. | [not applicable] | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
+|  | Can deal with misunderstandings and unexpected problems that arise in online collaborative or transactional exchanges by responding politely and appropriately in order to help resolve the issue. |  | reporting a public services issue online to the local council (e.g. a waste-collection issue) | in an online staff meeting on implementing new procedures | in a straightforward online collaborative activity at school/university |
+| B2 | Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks. |  | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
+| B1+ | Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.<br>Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks. |  | reporting a public services issue online to the local council (e.g. a waste-collection issue) | participating in a well-structured online seminar introducing new procedures | in a straightforward online collaborative activity at school/university |
+| B1 | Can engage in online collaborative or transactional exchanges that require simple clarification or explanation of relevant details, such as registering for a course, tour or event, or applying for membership. |  | making a tour booking or enrolling in an association or event online |  |  |
+|  | Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.<br>Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online. |  | as a member of a community group organising environmental improvement |  |  |
+<!-- el:end id=scale_online_interaction -->
+
+*Page **196** ▶ **CEFR – Companion volume***
 
 <!-- page:196 -->
-*Page 196 3 CEFR –­ Companion volume*
 
-| Goal-oriented | online |
-| --- | --- |
-| and | collaboration |
-| Can | use |
-| sajdweXy, | problems |
-| availability | of |
-|  | addresses). |
-|  | Jo |
-| asn | Can |
-| a | simple |
-| JUa2yIp | UI |
-| are | visual |
-| clarify | the |
-| Can | make |
-| UleWOp | goods |
-| form | or |
-| and | confirming |
-| 105 | declining |
-| s4o}dUsDsap | a |
-| Can | ask |
-| product | feature. |
-| Can | respond |
-| Jo | questions |
-| aUI\|UO | with |
-| Can | complete |
-| UOA2eI9zU! | application, |
-| name, | e-mail |
-| and | illustrations |
-|  | illustrations |
-| pue | Can |
-| UOHe!PaUI | colour) |
-| provided | there |
-| with | familiar |
-| and | illustrations |
-|  | <SeRIAR2e |
-|  | 2604 |
-|  | £61 |
+<!-- el:start type=artifact id=scale_online_interaction page=197 -->
+| Level | Goal-oriented online transactions and collaboration | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can use formulaic language to respond to routine problems arising in online transactions (e.g. concerning availability of models and special offers, delivery dates, addresses).<br>Can interact online with a supportive partner in a simple collaborative task, responding to basic instructions and seeking clarification, provided there are visual aids such as images, statistics or graphs to clarify the concepts involved. | [not applicable] | ordering goods online with use of a chat window<br>assisting simple online planning and promotion of a public event such as a street party | completing simple interdepartmental orders and requests | enrolling in a course online<br>in a teacher-guided online collaborative activity at school |
+| A2 | Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.<br>Can ask basic questions about the availability of a product or feature. |  | ordering goods online |  | enrolling in a course online |
+|  | Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor. |  | [not applicable] | in completing a task over Skype with a colleague from another country | in a teacher-guided online collaborative activity at school |
+| A1 | Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number). |  | ordering goods by completing a simple order form with familiar words and illustrations | completing a simple interdepartmental form with familiar words and illustrations | enrolling in a course online, but likely only as a language classroom simulation |
+| Pre-A1 | Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support. |  | ordering goods by completing a simple tick-box order form with familiar words and illustrations | completing a simple interdepartmental tick-box form with familiar words and illustrations |  |
+<!-- el:end id=scale_online_interaction -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **197***
 
 <!-- page:197 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 197*
 
-|  | 26e4 |
-| --- | --- |
-| 861 | Mediating |
-| < | ee |
-| W439 | Relaying |
-|  | - |
-|  | uoJueduioy |
-| No | descriptors |
-| Can | explain |
-| ‘auinjon | information |
-| complex | (in |
-| c | text |
-| affairs | current |
-| personal | or |
-|  | or |
-|  | concern |
-| Can | relay |
-| Language | A) |
-| (in | purpose. |
-| printer); | articles |
-| B2+ | toa |
-| or | current |
-| interest | on |
-| particular | in |
-| Can | relay |
-| formal | correspondence |
-| general | interest. |
-| policies, | regulations |
-| procedures | (e.g. |
-| to | rent/mortgage, |
-| or | procedures |
-| employment | or |
-|  | care) |
+<!-- el:start type=artifact id=scale_mediating_a_text page=198 -->
+| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can explain (in Language B) the relevance of specific information found in a particular section of a long, complex text (in Language A). | in an article, website, book or talk face-to-face or online concerning current affairs or an area of personal interest or concern | from presentations at public meetings, from public documents explaining policy changes, political speeches | a business report, article, regulation or workplace policy | an article, book, reference book or lecture/presentation |
+| B2+ | Can relay (in Language B) which presentations given (in Language A) at a conference, or which articles in a book (in Language A), are particularly relevant for a specific purpose. | web talk/self-help group explanations (e.g. how to repair your printer); articles related to a particular theme or current issue of interest | presentations at public meetings, from public documents explaining policy changes<br>a press conference, on various web talk sites, in relation to a particular issue | a trade fair, a professional conference, reports and newspaper articles in relation to a particular project | an academic conference, various web talk sites, from academic books and journals in relation to a particular project |
+| B2 | Can relay (in Language B) the main point(s) contained in formal correspondence and/or reports (in Language A) on general subjects and on subjects related to their fields of interest. | a notice, announcement, letter or e-mail outlining policies, regulations or procedures (e.g. related to housing, insurance, rent/mortgage, employment or health care) | a notice or announcement made by a public authority or facility like a library, swimming pool, etc. outlining regulations or procedures | a letter, e-mail or notice outlining why a meeting had to be cancelled, whether someone is for or against an idea and why, workplace policies or regulations | a letter, e-mail or notice outlining university policies, procedures or regulations |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **198** ▶ **CEFR – Companion volume***
 
 <!-- page:198 -->
-*Page 198 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Relaying | specific |
-| sajdweXy, | Can |
-| announcements | and |
-| speed | (in |
-| Jo | alerts, |
-| asn | instructions |
-| be | given |
-| JUaayIp | UI |
-|  | zone |
-| uleWOp | Can |
-| instructions | or |
-| articulated | (in |
-| 105 | instructions |
-| s4o}duuDsap | friend |
-| ‘on | how |
-| party | ‘on |
-| toY, | a |
-| Jo | given |
-| aUI\|UO | or |
-| factory, | warehouse,on |
-|  | aship |
-|  | UOA2eI9zU! |
-| Can | relay |
-| pue | straightforward |
-| UOHe!paU | entries, |
-| identifying | immediate |
-| public | hazards, |
-| association | rules, |
-| <SeRIAR2e | itineraries, |
-| locations | of |
-| association | meetings, |
-| sale | information |
-| 260d | or |
-| exchange | programme |
-|  | 661 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=199 -->
+| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can relay (in Language B) the content of public announcements and messages delivered clearly at normal speed (in Language A). | on the radio or TV | in a station, airport, sports stadium, at political rallies/events, alerts, warnings or instructions that may be given at an accident site or construction zone | at a trade fair or conference, at a factory, warehouse, refinery, on a ship, during safety drills | during a university event/lecture, which may take place in a large auditorium |
+|  | Can relay (in Language B) the contents of detailed instructions or directions, provided these are clearly articulated (in Language A). | on the radio or TV, from a passer-by (e.g. travel/route information), instructions from a friend over the phone on how to get to a party | instructions at airports, stations and on planes, buses and trains, or on how to use simple equipment such as a hotel safe, directions on how to get from X to Y, a travel itinerary | instructions given in a meeting on how to perform a work task, or operate simple equipment; instructions, particularly on safety procedures, given at a trade fair or conference, at a factory, warehouse, on a ship | academic regulations, policies/procedures, course/assignment requirements given by a professor/teacher; instructions on how to use simple research tools to complete a school task or on how to conduct a simple experiment |
+|  | Can relay (in Language B) specific information given in straightforward informational texts (e.g. leaflets, brochure entries, notices and letters or e-mails) (in Language A). | leaflets, brochures, guidebooks, websites, details of a housing agreement | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, club/association rules, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, the terms of a commercial offer, equipment operational instructions, safety procedures | school policies and regulations, a course outline, steps involved in completing an assignment/school task, a list of assignments as well as relevant criteria, notices, exam regulations, conditions for participation in an exchange programme |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **199***
 
 <!-- page:199 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 199*
 
-|  | 26e4 |
-| --- | --- |
-|  | 007 |
-|  | < |
-| W439 | Relaying |
-|  | - |
-|  | uojueduioy |
-|  | TV |
-| Can | relay |
-| announcement | (in |
-| ‘auinjon | everyday |
-| message | and |
-| circumstances | workplace |
-| upcoming | school |
-|  | relay |
-| A2+ | Can |
-| contained | in |
-| Language | A) |
-| identifying | immediate |
-| public | hazards, |
-| itineraries, | of |
-| locations | club/ |
-| association | meetings, |
-| information | about |
-| sale | or |
-| Can | relay |
-| simple | messages, |
-| provided | these |
-| language | (in |
-| employment | or |
-| circumstances, | simple |
-| messages | left |
-| or | housemates |
-| meeting | times |
-| requests | to |
-| tasks | such |
-| out | the |
-| Can | relay |
-| simple | instructions, |
-| Language | A) |
-| assemble | piece |
-| furniture | a |
+<!-- el:start type=artifact id=scale_mediating_a_text page=200 -->
+| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can relay (in Language B) the point made in a clear announcement (in Language A) concerning familiar everyday subjects, though they may have to simplify the message and search for words/signs. | on the TV or radio, announcements about weddings, births and changes to circumstances | weather reports, train platform changes, how to purchase tickets for an event | announcements about changes to job responsibilities, information about new workplace procedures | information about an upcoming test at school, such as when it is and what will be tested; details about an upcoming school trip |
+|  | Can relay (in Language B) specific, relevant information contained in short, simple texts, labels and notices (in Language A) on familiar subjects. | news about the family from a personal letter or e-mail | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, safety procedures, location, date and time of a meeting stated in an e-mail/letter | news about school activities from a flyer or leaflet |
+| A2 | Can relay (in Language B) the point made in short, clear, simple messages, instructions and announcements, provided these are expressed slowly and clearly in simple language (in Language A). | announcements of personal interest such as weddings or births, changes to employment or living circumstances, simple messages left for family or housemates about meeting times or requests to complete tasks such as taking out the rubbish | at airports, stations and on planes, trains and buses about routes, times of arrival or departure, changes in platform or gate, weather forecasts | simple messages left by customers or colleagues for others, announcements about changes to job procedures | information about a school trip or exchange programme, messages about school opening/closing times in response to inclement weather, information about class tasks or homework |
+|  | Can relay (in Language B) in a simple way a series of short, simple instructions, provided the original speech (in Language A) is clearly and slowly articulated. | a recipe, how to use a basic household appliance, how to assemble a piece of furniture | how to get from X to Y, directions provided by a traffic or parking official | how to operate office equipment such as changing the toner on a photocopier or downloading software | instructions concerning a homework assignment, or a simple experiment |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **200** ▶ **CEFR – Companion volume***
 
 <!-- page:200 -->
-*Page 200 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Relaying | specific |
-| sojduexy | Can |
-| about | times |
-| (delivered | in |
-| Jo | programmes |
-| asn | work |
-| location | of |
-| JUaJOYIP | Ul |
-| Can | relay |
-| sUJEWOP | and |
-| repeated | very |
-| time | closes, |
-| 40 | toilets |
-|  | s40Jd\|>SOP |
-|  | a |
-| Can | relay |
-| Jo | numbers |
-| UIJUO | Language |
-| menus | including |
-| destination | and |
-| UOR>2e/23UI | information |
-| seating | availability, |
-| price, | etc. |
-|  | pue |
-|  | UoReIpaw |
-|  | «Sanian2e |
-|  | 262d |
-|  | 10z |
+<!-- el:start type=artifact id=scale_mediating_a_text page=201 -->
+| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| A1 | Can relay (in Language B) simple, predictable information about times and places given in short, simple statements (delivered in Language A). | TV schedule announcements about upcoming programmes of interest | the location and starting time of an event/performance, travel itineraries | the location and starting/finishing time of a meeting; information about work hours, breaks, the location of toilets, drink machines | the location and time of a school excursion or after-school activity, the location of the canteen, toilets and water fountains |
+|  | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly. | restaurant reservations, dinner invitations including date and time | notices on bulletin boards/walls about when a store opens/closes, location of toilets | a meeting location and time from an e-mail | school timetable, the meeting location for a school trip |
+| Pre-A1 | Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **201***
 
 <!-- page:201 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 201*
 
-|  | 26e4 |
-| --- | --- |
-| «707 | Mediating |
-| Text | (and |
-| ¥43D | Relaying |
-|  | - |
-|  | uojueduioy |
-|  | ‘auinjon |
-| 1 | No |
-| Can | relay |
-| a | conference |
-| out | which |
-| relation | toa |
-| issue | project |
-| Can | relay |
-| contained | in |
-| B2+ | texts |
-| academic | and |
-| by | a |
-| university | professor |
-| Can | relay |
-| contained | in |
-| or | professional |
-| community | meeting |
-| Can | relay |
-| decisions | that |
-| were | a |
-| Can | relay |
-| contained | in |
-| for | member |
-| notice | or |
-| complaint | new |
-| sent | during |
+<!-- el:start type=artifact id=scale_mediating_a_text page=202 -->
+| Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------|----------|--------|--------------|-------------|
+| C2 | No descriptors available: see B2+ |  |  |  |  |
+| C1 | No descriptors available: see B2+ |  |  |  |  |
+| B2+ | Can relay in writing (in Language B) which presentations at a conference (given in Language A) were relevant, pointing out which would be worth detailed consideration. | [not applicable] | from a press conference, on various web talk sites, in relation to a particular issue | from a trade fair, a professional conference, in relation to a particular project | from an academic conference, on various web talk sites, in relation to a particular project |
+|  | Can relay in writing (in Language B) the relevant point(s) contained in propositionally complex but well-structured texts (in Language A) within their fields of professional, academic and personal interest. |  | public regulations such as housing or tax laws, a notice or announcement made by a public authority | from a business report, regulation or workplace policy | information from an article, website, notes taken from a lecture, or a presentation delivered by a university professor |
+|  | Can relay in writing (in Language B) the relevant point(s) contained in an article (in Language A) from an academic or professional journal. |  | in relation to a particular issue that is the subject of a community meeting | from a report, business article | information from an article, book or journal for a classmate or a professor |
+| B2 | Can relay in a written report (in Language B) relevant decisions that were taken in a meeting (in Language A). |  | from a club | from a business meeting | from a meeting of student representatives |
+|  | Can relay in writing (in Language B) the significant point(s) contained in formal correspondence (in Language A). | a rental agreement or insurance policy for a friend or family member | terms and conditions for a trip or service | in a circular sent to employees, in a letter from a partner giving notice or stating new conditions; in a complaint | in a circular sent by a school principal to parents; in a reply from an organisation to a request for information sent during a project |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **202** ▶ **CEFR – Companion volume***
 
 <!-- page:202 -->
-*Page 202 3 CEFR –­ Companion volume*
 
-| Relaying | specific |
-| --- | --- |
-| sajdweXy | Can |
-| points | contained |
-| on | familiar |
-| Jo | instructions). |
-| asn | procedures, |
-| to | operate |
-| jUaJayIp | UI |
-| Can | relay |
-| information | contained |
-| sUleEWop | (in |
-| texts | on |
-| family | housemates |
-| 40} | in |
-| s40}dUDSap | sent |
-| about | when |
-| friend/family | steps |
-| to | member |
-|  | Jo |
-|  | BUI\|UO |
-| Can | relay |
-| given | in |
-| UON2e293U! | Language |
-| and | the |
-| task | such |
-| a | meal |
-| pue | the |
-|  | UOVe!paUs |
-| Can | relay |
-| contained | in |
-| A), | provided |
-| «SaRIAR2e | and |
-| safety | procedures, |
-| A2+ | requirements |
-| an | advertisement |
-| a0e4 | about |
-| or | other |
-| £07 | described |
+<!-- el:start type=artifact id=scale_mediating_a_text page=203 -->
+| Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can relay in writing (in Language B) specific information points contained in texts delivered in Language A on familiar subjects (e.g. calls, announcements and instructions). | a short message, an e-mail to a friend mentioning the reason they will be late | a notice or announcement made by a public authority | customer orders, queries or complaints, changes to work schedule or procedures, how to operate office equipment | changes to school opening/closing times as a result of inclement weather, changes to class location or meeting place for a class trip |
+|  | Can relay in writing (in Language B) specific, relevant information contained in straightforward informational texts (in Language A) on familiar subjects. | instructions on how to use household appliances taken from a manual, messages for family or housemates sent in an e-mail, information e-mailed about when and where to meet a friend/family member | from e-mails, letters about events or schedules | quantities and delivery times from an e-mailed order, tasks and deadlines for the person concerned from the minutes to a meeting, relevant steps in simple user instructions for a piece of equipment | e-mail instructions about a school trip, a task assignment or details of course requirements taken from a course syllabus |
+|  | Can relay in writing (in Language B) specific information given in a straightforward recorded message (left in Language A), provided the topics concerned are familiar and the delivery is slow and clear. | a message about the time and place of a meeting, a request to complete a household task such as preparing a meal or taking out the rubbish | queue at the embassy, answering machine: request for call back from an administration or public office, bank | simple customer orders, queries or complaints, telephone message for a colleague, changes to work procedures | about school timetables or schedule changes |
+| A2+ | Can relay in writing (in Language B) specific information contained in short, simple informational texts (in Language A), provided the texts concern concrete, familiar subjects and are composed in simple everyday language. | from newspapers, instructions on appliances or medicine | brochures, websites, adverts, posters, schedules | about a work task, instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | about a school task, test or homework assignment found in a course syllabus, how to do a simple experiment in a science class from a handout, about a museum visit or other school trip described in a leaflet |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **203***
 
 <!-- page:203 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 203*
 
-|  | 26ed |
-| --- | --- |
-| ¥OZ | Mediating |
-| < | Text |
-| W43D | Relaying |
-|  | - |
-|  | uojueduioy |
-| Can | list |
-| simple | messages |
-| ‘auinjon | A), |
-| announcements | of |
-| personal | interest |
-| family | or |
-| Can | list |
-| in | simple |
-| immediate | interest |
-| travel | itineraries, |
-| timetables, | directions |
-| an | advertisement |
-| science | class, |
-| museum | visit |
-| school | trip |
-| Can | list |
-| simple | information |
-| Language | A), |
-| clear, | with |
-| meeting | point |
-| Can | list |
-| simple | information |
-| of | immediate |
-| language | and |
-| and | main |
-| information | schedule, |
-| seating | availability, |
-| price, | etc. |
+<!-- el:start type=artifact id=scale_mediating_a_text page=204 -->
+| Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------|----------|--------|--------------|-------------|
+| A2 | Can list (in Language B) the main points of short, clear, simple messages and announcements (given in Language A), provided they are clearly and slowly articulated. | simple telephone messages for family or housemates, announcements of personal interest for family or friends | directions on how to get from X to Y, which train platform or flight gate and at what time, about a train or flight delay | telephone message for a colleague, changes to work procedures | school timetables, schedules or openings/closings, task roles as part of a group assignment, homework assigned |
+|  | Can list (in Language B) specific information contained in simple texts (in Language A) on everyday subjects of immediate interest or need. | household manuals, instructions on how to prepare a meal | advertisements, prospectuses, brochures, leaflets, travel itineraries, timetables, directions | manual instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | textbooks, class readings, about a school task, test or homework assignment, how to do a simple experiment in a science class, about a museum visit or other school trip |
+| A1 | Can list (in Language B) names, numbers, prices and very simple information of immediate interest in oral texts (in Language A), provided the articulation is very slow and clear, with repetition. | from a TV channel repeatedly demonstrating products | announcements about when a store opens/closes | a short, simple telephone message for a colleague | a simple, short telephone message about a change to a timetable, schedule or meeting point |
+| Pre-A1 | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information, schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **204** ▶ **CEFR – Companion volume***
 
 <!-- page:204 -->
-*Page 204 3 CEFR –­ Companion volume*
 
-| Explaining | data |
-| --- | --- |
-| etc.) | in |
-|  | of |
-| sejdweXy | Can |
-| Language | B) |
-| organised | information |
-| Jo | conceptually |
-| asn | professional |
-| for | family |
-| yUaJayIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-| SUeEWop | Can |
-| Language | B) |
-| in | complex |
-| 40} | 2} |
-| s40}duDSap | academic |
-| lecture | or |
-|  | conference/round- |
-| table | event |
-| Jo | Can |
-| BUI\|UO | detailed |
-| charts | and |
-| in | Language |
-| UOR2e293U! | on |
-| Can | interpret |
-| information | in |
-| B1+ | text |
-| pue | hesitation |
-|  | UOHVe!paUs |
-| Can | interpret |
-| shown | in |
-| text | in |
-| «san1AR2e | difficulty |
-| family | member |
-| basic | financial |
-| presented | during |
-| 20e4 | a |
-| meeting, | diagrammatic |
-| $07 | displays |
-|  | museum |
+<!-- el:start type=artifact id=scale_mediating_a_text page=205 -->
+| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can interpret and describe clearly and reliably (in Language B) various forms of empirical data and visually organised information (with text in Language A) from conceptually complex research concerning academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visual data from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | diagrams/visual data from published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| C1 | Can interpret and describe clearly and reliably (in Language B) the salient points and details contained in complex diagrams and other visually organised information (with text in Language A) on complex academic or professional topics. |  |  |  | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| B2 | Can interpret and describe reliably (in Language B) detailed information contained in complex diagrams, charts and other visually organised information (with text in Language A) on topics in their fields of interest. | a diagram in an article of personal interest; a process diagram for a household device or piece of leisure software, explained to a friend or family member | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting | graphs, charts and tables referenced in employee training or company reports | graphs, bar charts or diagrams in a formal class presentation, at secondary school/college/university |
+| B1+ | Can interpret and describe (in Language B) detailed information in diagrams in their fields of interest (with text in Language A), even though lexical gaps may cause hesitation or imprecise formulation. |  |  |  |  |
+| B1 | Can interpret and describe (in Language B) overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), even though lexical limitations cause difficulty with formulation at times. | trends represented in household bills or personal finances, explained to a friend or family member | weather report (statistics and trends) when determining the best dates for a community event, basic financial trends presented during a community/club meeting, diagrammatic displays in a science museum | trends represented in a graph or bar chart during a business meeting or responsibilities represented in a company organogram used for employee training | general trends found in graphs, bar charts or diagrams, used in pair or group work at secondary school/college/university |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **205***
 
 <!-- page:205 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 205*
 
-|  | 2524 |
-| --- | --- |
-|  | 907 |
-| < | ing |
-|  | Y439D |
-|  | - |
-|  | uoJUedUIOD |
-| Can | interpret |
-| on | familiar |
-| (with | text |
-| ‘auunjoa | and |
-| features | of |
-| A2+ | device |
-| diagram, | identified |
-| toa | friend |
-| member | metro |
-| floor | plan |
-| or | shopping |
-| No | descriptors |
-| No | descriptors |
-| No | descriptors |
-| = | eee |
-| Explaining | data |
-| Can | interpret |
-| various | forms |
-| ‘A) | from |
-| professional | topics. |
-| from | research |
-| development | activities |
-| for | senior |
+<!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
+| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
 
-|  | 2524 |
-| --- | --- |
-|  | 907 |
-| < | ing |
-|  | Y439D |
-|  | - |
-|  | uoJUedUIOD |
-| Can | interpret |
-| on | familiar |
-| (with | text |
-| ‘auunjoa | and |
-| features | of |
-| A2+ | device |
-| diagram, | identified |
-| toa | friend |
-| member | metro |
-| floor | plan |
-| or | shopping |
-| No | descriptors |
-| No | descriptors |
-| No | descriptors |
-| = | eee |
-| Explaining | data |
-| Can | interpret |
-| various | forms |
-| ‘A) | from |
-| professional | topics. |
-| from | research |
-| development | activities |
-| for | senior |
+<!-- el:start type=prose id=prose_p206_s1 page=206 -->
+or master’s dissertation that includes empirical as part of a PhD thesis **Educational**
+
+data
+
+financial report, market for senior management development activities data from a company corporate report or **Occupational** from research and **Text (and discourse environment)** research or other
+
+[not applicable] **Public**
+
+### Mediating a text
+
+**Personal** [not applicable]
+
+A) from conceptually complex research on academic or various forms of empirical data (with text in Language Can interpret and present in writing (in Language B)
+
+**Explaining data (in graphs, ** **diagrams, etc.) in writing**
+
+professional topics.
+
+**C2**
+<!-- el:end id=prose_p206_s1 -->
+
+<!-- el:start type=prose id=prose_p206_s2 page=206 -->
+features of graphs, bar at secondary school/ such as population/ pair or group work charts or diagrams **Educational** over time, used in college/university weather changes
+
+work process or activity toner of a photocopier company organogram representing a simple such as changing the **Occupational** responsibilities as or basic roles and **Text (and discourse environment)** represented in a
+
+a flow chart
+
+floor plan of a building metro route map, or a historic weather data basic financial trends the best dates for a when determining or shopping centre a community/club community event, presented during meeting, a bus or **Public**
+
+### Mediating a text
+
+features of a household to a friend or family diagram, identified activities, the main device shown in a planning outdoor **Personal** consulted when a weather map
+
+member
+
+(with text in Language A), even though pauses, false starts Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart)
+
+**Explaining data (in graphs, diagrams, **
+
+**etc.) in speech or sign** and reformulation may be very evident.
+
+**No descriptors available** **No descriptors available** **No descriptors available**
+
+**Pre-A1** **A2+** **A2** **A1**
+<!-- el:end id=prose_p206_s2 -->
+
+<!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
+| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **206** ▶ **CEFR – Companion volume***
 
 <!-- page:206 -->
-*Page 206 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Explaining | data |
-| diagrams, | etc.) |
-| sajdweXy | Can |
-| (in | Language |
-| complex | diagrams |
-| Jo | text |
-| asn | topics. |
-| c1 | for |
-| JUa2yIp | UI |
-| presented | graphically |
-| to | accompany |
-| newspaper | article |
-|  | ULeWOp |
-| Can | interpret |
-| B) | detailed |
-| 105 | organised |
-| s4oydyuDsap | Language |
-| a | attachment |
-| graph, | bar |
-| a | numeric |
-|  | Jo |
-|  | aUI\|UO |
-| Can | interpret |
-| ‘overall | trends |
-| UOA2eI9zU! | B1+ |
-| points | in |
-| other | reference |
-| pue | Can |
-| UOe!paWI | facts |
-| map, | a |
-| accompanying | map |
-| discussion | forum |
-|  | <SeRIAR2e |
-| No | descriptors |
-| 2624 | No |
-| £07 | No |
+<!-- el:start type=artifact id=scale_mediating_a_text page=207 -->
+| Level | Explaining data (in graphs, diagrams, etc.) in writing | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------|----------|--------|--------------|-------------|
+| C1 | Can interpret and present clearly and reliably in writing (in Language B) the salient, relevant points contained in complex diagrams and other visually organised data (with text in Language A) on complex academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
+| B2 | Can interpret and present reliably in writing (in Language B) detailed information from diagrams and visually organised data in their fields of interest (with text in Language A). | instructions and diagram left for a house-sitter to operate a complex appliance | health and safety procedures (e.g. at a hospital, factory, library) | an internal (company) report/memo on the significant points contained in a visual attachment such as a graph, bar chart or numeric table | written assignment accompanying technical visual information provided for a school/university project |
+| B1+ | Can interpret and present in writing (in Language B) the overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), explaining the important points in more detail, given the help of a dictionary or other reference materials. | trends represented in household bills or personal finances, for family members | simple weather data or basic financial data posted as part of an online discussion for a community/club event | an e-mail describing the main features of a visual attachment such as a graph or bar chart | a simple class assignment summarising a survey or demographic data |
+| B1 | Can describe in simple sentences (in Language B) the main facts shown in visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A). | an e-mail giving simple local directions represented on a map | simple demographic information or trends posted in an online community/club discussion forum | instructions for a simple office procedure represented in a flow chart | a simple written narrative accompanying a picture or pictures as a classroom assignment |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **207***
 
 <!-- page:207 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 207*
 
-|  | 26e4 |
-| --- | --- |
-| 80z | Mediating |
-| < | Text |
-| W43D | ig |
-|  | - |
-|  | uojueduioy |
-| Can | explain |
-| implications | are |
-| point | out |
-| ‘auinjon | expression |
-| c | and |
-| specialised | articles |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
-| Can | summarise |
-| Language | A). |
-| ina | newspaper |
-| speeches, | sermons, |
-| opinions | and |
-|  | documents |
-| Can | summarise |
-| A) | within |
-| on | matters |
-| competence, | of |
-|  | most |
-| ‘Can | summarise |
-| Language | B) |
-| qc | Language |
-| ‘own, | although |
-| technical | concepts. |
-| regulation, | conference |
-| presentations | discussions, |
-| Can | explain |
-| presentation | of |
-| books, | newspaper |
-| articles, | commentaries |
-| and | editorials, |
-| specialised | articles, |
-| or | other |
-| addressed | toageneral |
-| educated | readership |
+<!-- el:start type=artifact id=scale_mediating_a_text page=208 -->
+| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| C2 | Can explain (in Language B) inferences when links or implications are not made explicit (in Language A), and point out the sociocultural implications of the form of expression (e.g. understatement, irony, sarcasm). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+|  | Can summarise (in Language B) long, demanding texts (in Language A). | current affairs programmes, articles in a magazine or newspaper | a forum discussion involving several participants, political speeches, sermons, opinions and documents | a presentation at a conference, seminar or meeting, a report, contract, regulations | a web talk, a lecture at an academic conference or seminar, academic articles and books |
+| C1 | Can summarise (in Language B) discussion (in Language A) on matters within their academic or professional competence, elaborating and weighing up different points of view and identifying the most significant points. | discussions, current affairs programmes | a forum discussion involving several participants | a meeting or seminar | a forum discussion, round table or colloquium involving several participants |
+|  | Can summarise clearly in well-structured language (in Language B) the main points made in complex texts (in Language A) in fields of specialisation other than their own, although they may occasionally check particular technical concepts. | newspaper editorials and commentaries, TV news and current affairs programmes | laws, public legal documents, regulations, presentations, speeches, sermons | a technical report addressed to a specialised audience, a business letter, a contract, a regulation, conference presentations | instructional material, a textbook, a reader, a dictionary, papers in academic journals, lectures, conference presentations and discussions, web talks |
+|  | Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **208** ▶ **CEFR – Companion volume***
 
 <!-- page:208 -->
-*Page 208 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| g | text |
-| sajdweXy, | Can |
-| text | (in |
-| glossing | with |
-| Jo | etc. |
-| asn | TV |
-| affairs | programmes, |
-| JUaayIp | UI |
-| c1 |  |
-| Can | explain |
-| uleWOp | expressed |
-| topic, | supporting |
-| specific | passages |
-| 105 | TV |
-| s4oydysDsap | affairs |
-| talk | shows |
-| presentations, | conference |
-| Jo | Can |
-| aUI\|UO | Language |
-| complex | texts |
-| <y)___ | ‘elated |
-| UOA2eI9zU! | Can |
-| complex | discussions |
-| different | points |
-|  | pue |
-| UOHe!paW | Can |
-| arguments | from |
-| TV | news |
-| documentaries, | articles |
-| «seRIAR2e | issue |
-|  | a6ed |
-|  | 607 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=209 -->
+| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| C1 | Can exploit information and arguments from a complex text (in Language A) to discuss a topic (in Language B), glossing with evaluative comments, adding their opinion, etc. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | a political tract, a public policy document; a forum discussion, presentation, a political speech, sermon | technical reports, professional articles, specifications, contracts | instructional material, a textbook, a reader, a paper in an academic journal, lectures, conference presentations and discussions, web talks |
+|  | Can explain (in Language B) the attitude or opinion expressed in a source text (in Language A) on a specialised topic, supporting inferences they make with reference to specific passages in the original. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows |  |  |  |
+| B2+ | Can summarise clearly in well-structured language (in Language B) the information and arguments contained in complex texts (in Language A) on a wide range of subjects related to their fields of interest and specialisation. |  | presentations, (political) speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
+|  | Can summarise (in Language B) the main points of complex discussions (in Language A), weighing up the different points of view presented. | a discussion on family occasions, TV news and current affairs programmes, talk shows | a formal discussion between several participants | in meetings, briefing or orientation sessions | a panel at an academic conference involving several speakers |
+| B2 | Can synthesise and report (in Language B) information and arguments from a number of sources (in Language A). | on current affairs: web talks or interviews, TV news and analysis, documentaries, articles | at a town hall or political meeting: news items, interviews or documentaries on the issue at hand | in a report, at a meeting: media coverage of a company/government announcement/policy | when undertaking a project: web talks, lectures, vox pop interviews, surveys, blogs, documentaries |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **209***
 
 <!-- page:209 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 209*
 
-|  | 262d |
-| --- | --- |
-| OLZ | Mediating |
-| < | Text |
-| ¥4ID | ig |
-|  | - |
-|  | uoJueduioy |
-| Can | summarise |
-| and | imaginative |
-| and | themes. |
-| ‘auinjon | specialised |
-| —_ | or |
-| Can | summarise |
-| in | longer, |
-| current | interest, |
-|  | contracts |
-| Can | recognise |
-| Language | A) |
-| Language | B) |
-| author. | purpose, |
-| editorials | newspaper |
-| Can | summarise |
-| items, | interviews |
-| arguments | and |
-| Can | summarise |
-| events | in |
-| Can | summarise |
-| in | long |
-| expressions. | interest, |
-| documentaries, | talks |
-| programmes, | web |
-|  | presentations |
-| Can | summarise |
-| talk, | discussion, |
-| B1+ | and |
-| articles | in |
-| ‘or | magazines |
-| Can | collate |
-| (in | Language |
-| sources | B) |
-| in | notes |
-| theatres, | programmes |
-| song | newspapers |
+<!-- el:start type=artifact id=scale_mediating_a_text page=210 -->
+| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| B2 | Can summarise (in Language B) a wide range of factual and imaginative texts (in Language A), commenting on and discussing contrasting points of view and the main themes. | books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | a political tract, a public policy document, a novel, short story | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books, novels, short stories |
+|  | Can summarise (in Language B) the important points made in longer, complex texts (in Language A) on subjects of current interest, including their fields of special interest. |  | a political tract, a public policy document | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books |
+|  | Can recognise the intended audience of a text (in Language A) on a topic of interest and explain (in Language B) the purpose, attitudes and opinion of the author. | from websites, current affairs programmes, documentaries, newspaper articles and editorials | in interviews, announcements, policy statements | presentations at conferences, reports, specialised articles | talks by visiting speakers, websites and web talks, documentaries, articles |
+|  | Can summarise (in Language B) extracts from news items, interviews or documentaries containing opinions, arguments and discussions (in Language A). | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | in team or strategy meetings | as part of a group project |
+|  | Can summarise (in Language B) the plot and sequence of events in a film or play (in Language A). | in an informal discussion with friends | [not applicable] | [not applicable] | in a lesson, as part of a project |
+| B1+ | Can summarise (in Language B) the main points made in long texts (in Language A) on topics in their fields of interest, provided they can check the meaning of certain expressions. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
+|  | Can summarise (in Language B) a short narrative or article, talk, discussion, interview or documentary (in Language A) and answer further questions about details. | discussions with friends, documentaries, short narratives, articles in newspaper or magazines | a talk at a public meeting, an interview, public notices | presentations or discussions at conferences, seminars or meetings, newspaper articles | web talks, documentaries and discussions, articles of academic relevance, short narratives |
+|  | Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else. | informal discussions, prospectuses, advertisements, programmes in theatres, song lyrics | public notices and announcements, notes from meetings, relevant reports in newspapers and magazines | reports, meetings, letters and e-mails, notes from meetings, press coverage | web talks, instructions for carrying out tasks, articles on related topic |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **210** ▶ **CEFR – Companion volume***
 
 <!-- page:210 -->
-*Page 210 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| g | text |
-| sojdwexg | Can |
-| clear, | well-structured |
-| that | are |
-| Jo | limitations |
-| asn | leaflets, |
-| summaries, | short |
-| JUaJYIp | Ul |
-| Can | summarise |
-| information | content |
-| sUJEWOP | A) |
-| magazine | article, |
-| e-mails, | newspaper |
-| 404 | news |
-| s4oJd\|>SaP | Can |
-| during | conversation |
-| personal | a |
-| clearly. | or |
-| Jo | wedding |
-| aUIJUO | project |
-| Can | summarise |
-| UOR>2e/23UI | long |
-| their | fields |
-| several | times. |
-| talks | or |
-| pue | programmes |
-|  | UoReIpaU |
-| Can | summarise |
-| in | TV |
-| provided | they |
-| «Sanian2e | meeting |
-| _ | a |
-| Can | report |
-| Fe), | TVorradio |
-| 262d | sports, |
-| familiar | and |
-|  | LLZ |
+<!-- el:start type=artifact id=scale_mediating_a_text page=211 -->
+| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| B1 | Can summarise (in Language B) the main points made in clear, well-structured texts (in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | personal letters, short articles, brochures, advertisements | short articles, short official letters, public statements and notices, regulations, leaflets, event programmes | presentations and demonstrations, reports, business letters | talks by visiting speakers, web talks, descriptions, narratives, textbook entries, websites, news summaries, short articles |
+|  | Can summarise simply (in Language B) the main information content of straightforward texts (in Language A) on familiar subjects (e.g. a short record of an interview, magazine article, travel brochure). | a short written interview or magazine article, a travel brochure, letters, e-mails, newspaper news summaries |  | reports, business letters and e-mails | descriptions, textbook narratives, websites, news summaries, short articles |
+|  | Can summarise (in Language B) the main points made during a conversation (in Language A) on a subject of personal or current interest, provided people articulated clearly. | a conversation exchanging news and talking about plans, news exchanged at a wedding | points made in informal conversation with a public official | a consultation with an expert, an auditor, a consultant | what an authority consulted said in relation to a request, what a person interviewed for a project said |
+|  | Can summarise (in Language B) the main points made in long texts delivered orally (in Language A) on topics in their fields of interest, provided they can listen or view several times. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, a round-table discussion, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
+|  | Can summarise (in Language B) the main points or events in TV programmes and video clips (in Language A), provided they can view them several times. | a scene in a film, novella or sitcom | a current affairs programme on the subject of a public meeting | a news extract, interview or public statement relevant to the institution | a scene in a documentary, an interview |
+| A2+ | Can report (in Language B) the main points made in simple TV or radio news items (in Language A) reporting events, sports, accidents, etc., provided the topics concerned are familiar and the delivery is slow and clear. | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | [not applicable] | as part of a project involving collecting information from media sources |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **211***
 
 <!-- page:211 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 211*
 
-|  | <ZLZ26ed |
-| --- | --- |
-| Mediating | a |
-| ee | Text |
-| WII | g |
-|  | - |
-|  | uoJueduioy |
-| Can | report |
-| information | contained |
-| texts | (in |
-| ‘auinjon | notices |
-| timetables, | graffiti, |
-| A2+ | programmes, |
-| Can | summarise |
-| topics. | short |
-| news | item, |
-| brochures, | simple |
-| guide | entries |
-| Can | (in |
-| in | clearly |
-| A), | supplementing |
-| (e.g. | drawings, |
-| means | languages) |
-| to | so. |
-| Can | convey |
-| information | given |
-| posters | and |
-| e.g. | whose |
-| cook/clean/wash | up |
-| times | of |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_a_text page=212 -->
+| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| A2+ | Can report in simple sentences (in Language B) the information contained in clearly structured, short, simple texts (in Language A) that have illustrations or tables. | "who, when, where" information in a news item | options for a concert or sport event, information in notices and posters, timetables, graffiti, programmes, tickets | the details of a work schedule | an illustrated story, a simple informational text about a country, with tables of information |
+|  | Can summarise (in Language B) the main point(s) in simple, short informational texts (in Language A) on familiar topics. | "who, when, where" information in a news item, website/brochures, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | reports of annual financial performance | details of tasks and assignments, descriptions of courses or examinations |
+| A2 | Can convey (in Language B) the main point(s) contained in clearly structured, short, simple texts (in Language A), supplementing their limited repertoire with other means (e.g. gestures, drawings, words/signs from other languages) in order to do so. | weather reports, very simple assembly instructions | information about times and costs of transport, availability of services | [not applicable] | weather reports, short illustrated descriptions of places, very simple picture stories |
+| A1 | Can convey (in Language B) simple, predictable information given in short, very simple signs and notices, posters and programmes (in Language A). | notes on teenagers' doors, information pinned to the fridge, e.g. whose turn it is to cook/clean/wash up | signs and notices giving directions, posters and programmes announcing and giving times of events | signs and notices giving locations and/or warnings, notices with schedules | class lists, information on events in the social programme |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **212** ▶ **CEFR – Companion volume***
 
 <!-- page:212 -->
-*Page 212 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Processing | text |
-| sejdweXy | Can |
-| and | arguments |
-| A), | particularly |
-| Jo | reported, |
-| asn | ¢ |
-| Gara | different |
-| jUaJ2yIp | UI |
-| reconstructing | arguments |
-| presentation | of |
-| sUleEWop | Can |
-| complex | texts |
-| appropriately, | provided |
-| 40} | precise |
-| s40}dUDSap | meeting, |
-| tract, | a |
-|  | document |
-| Jo | Can |
-| BUI\|UO | Language |
-| political | analysis, |
-| report | extract |
-| UOR2e29;U! | audience, |
-| tract, | public |
-| document, | a |
-| opinion | a |
-|  | pue |
-|  | UORe!PaUs |
-|  | <SRIARZe |
-|  | a0ed |
-|  | £17 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=213 -->
+| Level | Processing text in writing | Personal | Public | Occupational | Educational |
+|-------|---------------------------|----------|--------|--------------|-------------|
+| C2 | Can explain in writing (in Language B) the way facts and arguments are presented in a text (in Language A), particularly when someone else's position is being reported, drawing attention to the use of understatement, veiled criticism, irony and sarcasm.<br>Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result. | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+| C1 | Can summarise in writing (in Language B) long, complex texts (in Language A), interpreting the content appropriately, provided they can occasionally check the precise meaning of unusual, technical terms. |  | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference, business proposals | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals |
+|  | Can summarise in writing a long and complex text (in Language A) (e.g. an academic article, article providing political analysis, novel extract, editorial, literary review, report or extract from a scientific book) for a specific audience, respecting the style and register of the original. |  | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **213***
 
 <!-- page:213 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 213*
 
-|  | 26ed |
-| --- | --- |
-| HLT | Mediating |
-| < | Text |
-| Y4ID | Processing |
-|  | - |
-|  | uoJUeduioy |
-| Can | summarise |
-| content | of |
-| texts | (in |
-| ‘auinjon | professional, |
-|  | shows |
-| Can | and |
-| Language | compare, |
-| B2+ | academic |
-| their | fields |
-|  | reports |
-| Can | explain |
-| articulated | in |
-| inferences | they |
-| in | the |
-| short | stories, |
-| and | documents, |
-| Can | summarise |
-| content | of |
-| related | to |
-| Can | summarise |
-| and | arguments |
-| subjects | of |
-| B1+ | ‘or |
-| short | stories, |
-| and | documents, |
-| documents | articles |
-| Can | summarise |
-| made | in |
-| A) | on |
-| provided | oral |
-| reports | and |
-| brochures, | short |
-|  | articles |
+<!-- el:start type=artifact id=scale_mediating_a_text page=214 -->
+| Level | Processing text in writing | Personal | Public | Occupational | Educational |
+|-------|---------------------------|----------|--------|--------------|-------------|
+| B2+ | Can summarise in writing (in Language B) the main content of well-structured but propositionally complex texts (in Language A) on subjects within their fields of professional, academic and personal interest. | a discussion on family occasions, TV news and current affairs programmes, talk shows | presentations, speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
+|  | Can compare, contrast and synthesise in writing (in Language B) the information and viewpoints contained in academic and professional publications (in Language A) in their fields of special interest. | [not applicable] | public policy documents | professional journals and newspapers, policy documents, technical reports | academic articles, reviews, books |
+| B2 | Can explain in writing (in Language B) the viewpoint articulated in a complex text (in Language A), supporting inferences they make with reference to specific information in the original.<br>Can summarise in writing (in Language B) the main content of complex texts (in Language A) on subjects related to their fields of interest and specialisation. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
+| B1+ | Can summarise in writing (in Language B) the information and arguments contained in texts (in Language A) on subjects of general or personal interest. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
+| B1 | Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated. | a telephone call, a web talk, news bulletins, documentaries, personal letters, informational brochures, short articles | a presentation at a public meeting, public statements or notices | a video-recorded presentation at a meeting, a briefing session for a task, reports and business letters | an orientation session, instructions for an assignment, a talk by a visiting speaker, narratives and short articles |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **214** ▶ **CEFR – Companion volume***
 
 <!-- page:214 -->
-*Page 214 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Text | (and |
-| Processing | text |
-| sejdweXy | Can |
-| the | original |
-| advertisements, | notices, |
-| Jo | website |
-| asn | information |
-| changes | to |
-| yUaJ2yIp | UI |
-|  | programmes |
-| Can | list |
-| sUTeEWop | relevant |
-| Language | A), |
-| A2+ | subjects |
-| 40} | guide |
-| s10}duDSap | Can |
-| short | sentences |
-| limited | competence |
-| Jo | Can |
-| BUI\|UO | main |
-| ‘on | familiar |
-| frequency | vocabulary; |
-| UOR2e293U! | comprehensible. |
-| Can | copy |
-|  | format. |
-| pue | of |
-| UORe!PaUs | Can, |
-| the | meaning |
-| and | information |
-| Can | single |
-| <saRIAR2e | standard |
-| No | descriptors |
-|  | a0e4 |
-|  | $17 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=215 -->
+| Level | Processing text in writing | Personal | Public | Occupational | Educational |
+|-------|---------------------------|----------|--------|--------------|-------------|
+| B1 | Can paraphrase short passages in a simple fashion, using the original text wording and ordering. | personal letters, short articles, brochures, advertisements, website texts | short official letters, public statements and notices, regulations, leaflets providing information about changes to services, event programmes | reports, business letters | narratives, textbook entries, websites, news summaries, short articles |
+| A2+ | Can list as a series of bullet points (in Language B) the relevant information contained in short simple texts (in Language A), provided the texts concern concrete, familiar subjects and contain only simple everyday language.<br>Can pick out and reproduce key words and phrases or short sentences from a short text within the learner's limited competence and experience. | "who, when, where" information in a news item, website/brochure descriptions, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | notices, regulations, instructions for a task | details of tasks and assignments, descriptions of courses or examinations, textbook extracts |
+| A2 | Can use simple language to convey (in Language B) the main point(s) contained in very short texts (in Language A) on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the text remains comprehensible.<br>Can copy out short texts in printed or clearly handwritten format. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner on a printer | simple, short narratives, general academic regulations such as for an exam |
+| A1 | Can, with the help of a dictionary, convey (in Language B) the meaning of simple phrases (in Language A) on familiar and everyday themes.<br>Can copy out single words and short texts presented in standard printed format. |  | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **215***
 
 <!-- page:215 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 215*
 
-|  | 26e4 |
-| --- | --- |
-| «917 | Mediating |
-| Text | (and |
-| W4ID | Translating |
-|  | - |
-|  | uoJueduioy |
-| Can | provide |
-| abstract | texts |
-| subjects | of |
-| ‘auinjon | successfully |
-| including | the |
-|  | them. |
-| Can | provide |
-| complex | written |
-| 2} | of |
-| range | most |
-|  | nuances. |
-| Can | provide |
-| B2+ | texts |
-| arguments | on |
-| academic | and |
-| such | as |
-| Can | provide |
-| (written | in |
-| B1+ | arguments |
-| academic | and |
-| in | uncomplicated, |
-| Can | provide |
-| Language | B) |
-| (written | in |
-| of | personal |
-| difficulty | with |
-| Can | provide |
-| A2+ | Language |
-| entries, | notices, |
-| Language | A). |
+<!-- el:start type=artifact id=scale_mediating_a_text page=216 -->
+| Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can provide fluent oral translation (into Language B) of abstract texts (written in Language A) on a wide range of subjects of personal, academic and professional interest, successfully conveying evaluative aspects and arguments, including the nuances and implications associated with them. | specialised magazine articles and reports on matters of personal interest | public policy document, declarations, rules or regulations | professional publications, technical reports, contracts, press releases | academic projects and related documents |
+| C1 | Can provide fluent oral translation (into Language B) of complex written texts (written in Language A) on a wide range of general and specialised topics, capturing most nuances. |  |  |  |  |
+| B2+ | Can provide oral translation (into Language B) of complex texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest. | newspaper or magazine articles on current issues of personal interest | texts accompanying artworks at a museum or exhibition, municipal regulations such as recycling, parking, etc. | technical reports related to their profession | academic articles and reports, regulations |
+| B1+ | Can provide oral translation (into Language B) of texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest, provided they are written in uncomplicated, standard language. |  |  |  |  |
+| B1 | Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | e-mails or letters with news from friends/relatives | simple reports such as a witness statement to an accident | a CV and presentation letter from a job or internship applicant | brochure(s) describing extracurricular activities available, including conditions |
+|  |  |  | notices about changes to public services such as parking regulations or rubbish collection | an extended CV and presentation letter from a job or internship applicant |  |
+| A2+ | Can provide an approximate oral translation (into Language B) of short, simple everyday texts (e.g. brochure entries, notices, instructions, letters or e-mails) (written in Language A). |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **216** ▶ **CEFR – Companion volume***
 
 <!-- page:216 -->
-*Page 216 3 CEFR –­ Companion volume*
 
-| sejduiexg | Can |
-| --- | --- |
-| Language | B) |
-| subjects) | (written |
-| jo | essential |
-|  | asn |
-| Can | provide |
-| juaseyp | Ul |
-| subjects | that |
-| (e.g. | personal |
-| instructions). | news, |
-|  | sulewop |
-| Can | provide |
-| 10} | Language |
-| s1ojduasep | (written |
-| Notices, | posters, |
-| No | descriptors |
-|  | Jo |
-|  | 10 |
-|  | @ |
-|  | uoR2es=qU |
-| pue | ee |
-| uoRelpaw | Translating |
-| Can | translate |
-| <senianze | their |
-| provided | subject |
-| in | the |
-| or | other |
-| 96e4 | addressed |
-| educated | readership |
-|  | £17 |
+<!-- el:start type=prose id=prose_p217_s0 page=217 -->
+course/class exchanges notices on books or posters, timetables **Educational** signs and notices, exam instructions
 
-| sejduiexg | Can |
-| --- | --- |
-| Language | B) |
-| subjects) | (written |
-| jo | essential |
-|  | asn |
-| Can | provide |
-| juaseyp | Ul |
-| subjects | that |
-| (e.g. | personal |
-| instructions). | news, |
-|  | sulewop |
-| Can | provide |
-| 10} | Language |
-| s1ojduasep | (written |
-| Notices, | posters, |
-| No | descriptors |
-|  | Jo |
-|  | 10 |
-|  | @ |
-|  | uoR2es=qU |
-| pue | ee |
-| uoRelpaw | Translating |
-| Can | translate |
-| <senianze | their |
-| provided | subject |
-| in | the |
-| or | other |
-| 96e4 | addressed |
-| educated | readership |
-|  | £17 |
+basic health and safety basic health and safety notices, instructions, **Occupational** signs and notices, regulations at the **Text (and discourse environment)** posters, leaflets
+
+regulations workplace
+
+instructions on how to information on posters posters, programmes, purchase a travel card directions, notices, signs and notices, **Public**
+
+leaflets
+
+### Mediating a text
+
+devices, instructions on products or electronic how to use a medicine
+
+e-mails and letters personal news in **Personal** [not applicable] labels on food
+
+subjects that is written in simple sentences (in Language A) (written in Language A) that are encountered on signs and (e.g. personal news, short narratives, directions, notices or Language B) of short, simple texts (e.g. notices on familiar Language B) of simple everyday words/signs and phrases Language B) of routine information on familiar everyday **Translating a written text in speech or sign** subjects) (written in Language A), capturing the most Can provide a simple, rough, oral translation (into Can provide a simple, rough oral translation (into Can provide a simple, rough oral translation (into
+
+notices, posters, programmes, leaflets, etc.
+
+**No descriptors available**
+
+essential point. instructions).
+
+**Pre-A1** **A2** **A1**
+<!-- el:end id=prose_p217_s0 -->
+
+<!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
+| Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------|----------|--------|--------------|-------------|
+| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
+|  | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
+| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+<!-- el:start type=prose id=prose_p217_s2 page=217 -->
+**Educational** academic papers
+
+publications, technical **Occupational** reports, contracts, **Text (and discourse environment)** press releases professional
+
+document, a legal a political tract, **Public** a public policy
+
+opinion
+
+### Mediating a text
+
+addressed to a general articles, commentaries or other publications educated readership specialised articles, letters, newspaper **Personal** and editorials,
+
+provided subject matter accuracy is checked by a specialist Can translate (into Language B) technical material outside
+
+their field of specialisation (written in Language A), **Translating written text in writing**
+
+in the field concerned.
+
+**C2**
+<!-- el:end id=prose_p217_s2 -->
+
+<!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
+| Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------|----------|--------|--------------|-------------|
+| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
+|  | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
+| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **217***
 
 <!-- page:217 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 217*
 
-|  | BLZ26ed |
-| --- | --- |
-| Mediating | a |
-| < | Text |
-|  | Y4ID |
-|  | - |
-|  | uoJueduioy |
-| Can | translate |
-| academic | and |
-| es | in |
-| ‘auinjon | and |
-| associated | with |
-| over-influenced | by |
-|  | _ |
-| Can | produce |
-| B2+ | Ainto |
-| but | may |
-| punctuation | and |
-| Can | produce |
-| follow | the |
-| (in | Language |
-| text | accurately, |
-| source | awkwardly. |
-| Can | produce |
-| Ainto | Language |
-| “SF | are |
-| following | the |
-| errors | may |
-| Can | produce |
-| into | Language |
-| texts | written |
-| errors, | the |
-| Can | use |
-| translation | short |
-| on | and |
-| the | highest |
-| translation | remains |
-|  | a |
-| Can, | with |
-| signs | and |
-| may | not |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_a_text page=218 -->
+| Level | Translating a written text in writing | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------|----------|--------|--------------|-------------|
+| C1 | Can translate (into Language B) abstract texts on social, academic and professional subjects in their field (written in Language A), successfully conveying evaluative aspects and arguments, including many of the implications associated with them, though some expression may be over-influenced by the original. | letters, articles in a magazine or newspaper, short stories | speeches, sermons, policy documents | scientific, technical, financial or project reports, regulations, articles and other professional publications | academic papers and books, literary criticism |
+| B2+ | Can produce clearly organised translations (from Language A into Language B) that reflect normal language usage but may be over-influenced by the order, paragraphing, punctuation and particular formulations of the original. | letters, articles in a magazine or newspaper, some colloquial writings |  |  | academic papers and books, novels, short stories, plays |
+| B2 | Can produce translations (into Language B) that closely follow the sentence and paragraph structure of the original text (in Language A), conveying the main points of the source text accurately, though the translation may read awkwardly. | letters with news, articles of general interest | public documents describing general regulations, guidebook entries, statements of opinion | straightforward letters, instructions, reports on subjects in their field | straightforward narratives, general academic regulations |
+| B1+ | Can produce approximate translations (from Language A into Language B) of straightforward, factual texts that are written in uncomplicated, standard language, closely following the structure of the original, although linguistic errors may occur; the translation remains comprehensible. |  |  | straightforward letters, instructions, reports on subjects in their field | general academic regulations |
+| B1 | Can produce approximate translations (from Language A into Language B) of information contained in short, factual texts written in uncomplicated, standard language; despite errors, the translation remains comprehensible. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner in a printer | simple, short narratives, general academic regulations such as for an exam |
+| A2 | Can use simple language to provide an approximate translation (from Language A into Language B) of very short texts on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the translation remains comprehensible. |  | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
+| A1 | Can, with the help of a dictionary, translate simple words/signs and phrases (from Language A into Language B), but may not always select the appropriate meaning. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **218** ▶ **CEFR – Companion volume***
 
 <!-- page:218 -->
-*Page 218 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| ee | Text |
-| Note-taking | (lectures, |
-| sajdweXy, | Can, |
-| seminar, | create |
-| are | not |
-| Jo | and/or |
-| asn | topic |
-| Is | of |
-| JUa2yIp | UI |
-| used. | can |
-| seminar | or |
-| Can | take |
-| uLeWOp | successfully |
-| between | ideas. |
-| 105 | Can |
-| s4oydysDsap | field |
-| and | closely |
-| useful | so |
-|  | Jo |
-| aUI\|UO | Can |
-| to | omit |
-| a | unfamiliar |
-| UOADeI9zU! | during |
-| lecture | on |
-|  | interest |
-| pue | Can |
-| UOHe!paW | ‘on |
-| (eg. | lectures, |
-| interviews), | provided |
-|  | <seRIAR2e |
-|  | a6ed |
-|  | 612 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=219 -->
+| Level | Note-taking (lectures, seminars, meetings, etc.) | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can, while continuing to participate in a meeting or seminar, create reliable notes (or minutes) for people who are not present, even when the subject matter is complex and/or unfamiliar. | [not applicable] | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting or a training seminar | in a seminar or discussion forum |
+|  | Is aware of the implications and allusions of what is said and can take notes on them as well as on the actual words used.<br>Can take notes selectively, paraphrasing and abbreviating successfully to capture abstract concepts and relationships between ideas. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
+| C1 | Can take detailed notes during a lecture on topics in their field of interest, recording the information so accurately and so closely to the original that the notes could also be useful to other people. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
+|  | Can make decisions about what to note down and what to omit as the lecture or seminar proceeds, even on unfamiliar matters. |  | at a public meeting, at a committee/club/association meeting, during a seminar or lecture on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
+|  | Can select relevant, detailed information and arguments on complex, abstract topics from multiple oral sources (e.g. lectures, podcasts, formal discussions and debates, interviews), provided the delivery is at normal speed. | in researching a topic of personal interest | in researching an area for an association, pressure group, political party, etc. | in researching an area for a report or presentation | in researching an area for a paper or seminar presentation |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **219***
 
 <!-- page:219 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 219*
 
-|  | 26e4 |
-| --- | --- |
-| 0ZZ | Mediating |
-| < | Text |
-| W439 | Note-taking |
-|  | - |
-|  | uojueduioy |
-| Can | understand |
-| subject, | and |
-| important, | even |
-| ‘auinjon | actual |
-| Can | take |
-| matters | likely |
-| association | meeting, |
-| during | a |
-| topic | of |
-| Can | take |
-| for | within |
-| A) | field |
-|  | structured. |
-| Can | take |
-| straightforward | lecture, |
-| the | lecture |
-| articulated | clearly. |
-| Can | note |
-| familiar | subject, |
-| language | and |
-| during | a |
-| topic | of |
-| Can | take |
-| where | the |
-| the | presenter |
-|  | interest |
-| No | descriptors |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_a_text page=220 -->
+| Level | Note-taking (lectures, seminars, meetings, etc.) | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+| B2 | Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike them as important, even though they tend to concentrate on the actual formulation and therefore to miss some information. | [not applicable] | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
+|  | Can take accurate notes in meetings and seminars on most matters likely to arise within their field of interest. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, a training seminar | in a seminar or discussion forum |
+| B1+ | Can take notes during a lecture which are precise enough for their own use at a later date, provided the topic is within their field of interest and the lecture is clear and well structured. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
+| B1 | Can take notes as a list of key points during a straightforward lecture, provided the topic is familiar, and the lecture is both formulated in simple language and articulated clearly. |  | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
+|  | Can note down routine instructions in a meeting on a familiar subject, provided these are formulated in simple language and they are given sufficient time to do so. |  | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at an internal meeting or a training seminar | in a seminar or discussion forum |
+| A2 | Can take simple notes at a presentation/demonstration where the subject matter is familiar and predictable and the presenter allows for clarification and note-taking. |  | at a fair/shopping centre demonstration of a new product of interest | at a professional conference, fair or training seminar | [not applicable] |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **220** ▶ **CEFR – Companion volume***
 
 <!-- page:220 -->
-*Page 220 3 CEFR –­ Companion volume*
 
-| Mediating | a |
-| --- | --- |
-| Expressing | personal |
-| a | response |
-| creative | texts |
-|  | sojdwexy |
-| No | descriptors |
-|  | Jo |
-| asn | Can |
-| outlining | their |
-| JUaJOYIp | Ul |
-| just | seen, |
-| sculptures | ina |
-| cultural | artefacts |
-| sUJEWOP | ina |
-| 1 | discussion |
-| artistic | artefact |
-| 404 | screening |
-| s0JdL>SEP | organised |
-| Can | outline |
-| work: | their |
-| their | actions |
-| Jo | discussion |
-|  | UIJUO |
-|  | of |
-| UO]>2e123UI | Can |
-| work, | developing |
-| examples | and |
-| Can | give |
-| pue | plot, |
-| UOReIpaU | a |
-| ina | museum |
-| Can | describe |
-| elaborate | on |
-|  | «SanIAn2e |
-| Can | in |
-| expression, | express |
-| 262d | they |
-|  | 127 |
+<!-- el:start type=artifact id=scale_mediating_a_text page=221 -->
+| Level | Expressing a personal response to creative texts (including literature) | Personal | Public | Occupational | Educational |
+|-------|------------------------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a novel, short story, play, poem, read or studied as a member of a cultural circle organised by a cultural institute or club | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
+|  | Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. | a novel or short story just read, a play, film or musical just seen – in discussion with friends | a film or other cultural/artistic artefact at a screening or exhibition organised by a cultural institute or club | [not applicable] |  |
+| B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments.<br>Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other literary work studied in class |
+|  | Can describe their emotional response to a work and elaborate on the way in which it has evoked this response.<br>Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. |  |  | [not applicable] |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **221***
 
 <!-- page:221 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 221*
 
-|  | <ZZz26ed |
-| --- | --- |
-| Mediating | a |
-| Expressing | a |
-|  | W4aD |
-|  | - |
-|  | uojueduioy |
-| Can | explain |
-| especially | interested |
-| ie | musical |
-| ‘auinjon | a |
-| ‘ | LenS |
-| Can | relate |
-| they | have |
-| Shakespeare) | studied |
-| Can | relate |
-| emotions | they |
-| Can | describe |
-| point | in |
-| became | a |
-|  | a |
-| Can | explain |
-| provoked | in |
-| Can | describe |
-| Can | describe |
-| for | them. |
-| Can | their |
-| feelings | express |
-| in | class |
-|  | a |
-| Can | state |
-| especially | interested |
-| Can | state |
-| why | in |
-| Can | simple |
-| them | use |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_a_text page=222 -->
+| Level | Expressing a personal response to creative texts (including literature) | Personal | Public | Occupational | Educational |
+|-------|--------------------------------------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can explain why certain parts or aspects of a work especially interested them.<br>Can explain in some detail which character they most identified with and why.<br>Can relate events in a story, film or play to similar events they have experienced or heard about.<br>Can relate the emotions experienced by a character to emotions they have experienced.<br>Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why.<br>Can explain briefly the feelings and opinions that a work provoked in them.<br>Can describe the personality of a character.<br>Can describe a character’s feelings and explain the reasons for them. | a simpler short story or novel just read, a film, musical or other show just seen – with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of/references to heritage literature (e.g. Cervantes, Shakespeare) studied at school or works of well-known film stars | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework, a video story watched in class |
+| A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language.<br>Can state in simple language which aspects of a work especially interested them.<br>Can state whether they liked a work or not and explain why in simple language. | [not applicable] | [not applicable] | [not applicable] | a simple story, fairy/folk tale or poem read in class |
+| A1 | Can use simple words/signs to state how a work made them feel. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **222** ▶ **CEFR – Companion volume***
 
 <!-- page:222 -->
-*Page 222 3 CEFR –­ Companion volume*
 
-| sajdweXy | Can |
-| --- | --- |
-| and | genres |
-| subtle | distinctions |
-| Jo | meaning. |
-| asn | finer |
-| Can | recognise |
-| jUaJayIP | UI |
-| abnormal | syntax, |
-| meanings | and |
-| Can | critically |
-| sUleEWop | language |
-| for | a |
-| concerning | their |
-|  | 40} |
-| s40}dUDSap | Can |
-| linguistic | conventions |
-| Can | critically |
-| Jo | literary |
-|  | BUI\|UO |
-| Can | evaluate |
-| conventions | of |
-| UOR2e293U! | Can |
-| engages | the |
-|  | expectations). |
-|  | pue |
-| UOVe!PaUs | Can |
-| and | scenes, |
-| explaining | the |
-| them. | just |
-| «SaRIARZe | sculptures |
-| Can | of |
-| the | thematic, |
-| referring | to |
-| a0ed | Can |
-| with | characters, |
-|  | £77 |
-| Can | describe |
-| their | treatment |
+<!-- el:start type=artifact id=scale_mediating_a_text page=223 -->
+| Level | Analysis and criticism of creative texts (including literature) | Personal | Public | Occupational | Educational |
+|-------|----------------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.<br>Can recognise the finer subtleties of nuanced language, rhetorical effect, and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.<br>Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.<br>Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. | [not applicable] | in writing a review of a novel, film, writer’s or artist’s life work for the journal or blog of a cultural circle organised by a cultural institute or club | [not applicable] | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
+| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres.<br>Can evaluate the extent to which a work follows the conventions of its genre.<br>Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |  |  |  |  |
+| B2 | Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.<br>Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.<br>Can evaluate the way the work encourages identification with characters, giving examples.<br>Can describe the way in which different works differ in their treatment of the same theme. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute |  | a novel, poem, play, short story or other literary work studied in class |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **223***
 
 <!-- page:223 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 223*
 
-|  | 26% |
-| --- | --- |
-|  | «zz |
-| Text | (and |
-|  | ysa> |
-|  | - |
-|  | uojueduioy |
-| Can | point |
-| clearly | structured |
-| a | explain |
-| ‘auinjon | between |
-| sculptures | seen, |
-| cultural | artefacts |
-| ina | in |
-| discussion | museum |
-| Can | describe |
-| narratives | involving |
-| high | frequency |
-| Can | identify |
-| language, | the |
-| narratives | involving |
-| high | frequency |
-| No | descriptors |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_a_text page=224 -->
+| Level | Analysis and criticism of creative texts (including literature) | Personal | Public | Occupational | Educational |
+|-------|----------------------------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | [not applicable] | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework |
+|  | Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. | [not applicable] | [not applicable] |  |  |
+| A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. |  |  |  | a simple story, fairy/folk tale or poem read in class |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_a_text -->
+
+*Page **224** ▶ **CEFR – Companion volume***
 
 <!-- page:224 -->
-*Page 224 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| with | Situation |
-| ction | : |
-| No | descriptors |
-|  | sejdweXy |
-| Can | show |
-| Jo | group, |
-| asn | u |
-| to | avoid |
-| yUaJEyIp | UI |
-| (aradbagencicim, | discuss |
-| are | aware |
-| Can, | based |
-| sUleEWop | formulate |
-|  | interaction. |
-|  | B2+ |
-|  | 40} |
-| s40;dUDSap | an |
-| and | decisions, |
-| giving | a |
-| visual | support |
-| Jo | Can |
-| BUI\|UO | organise |
-| Can | help |
-| UOR2e293U! | for |
-| members, | colleagues |
-| eantmrentention | sonny |
-| next, | and |
-| pue | choose |
-| UORVe!PaUs | Can |
-| responding | suggestions, |
-| and | proposing |
-| Cancollaborate | in |
-| <SaRIAR2e | F2 |
-| straightforward | questions. |
-| Can | define |
-| a0e4 | others |
-|  | $77 |
+<!-- el:start type=artifact id=scale_mediating_concepts page=225 -->
+| Level | Facilitating collaborative interaction with peers | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | No descriptors available: see C1 |  |  |  |  |
+| C1 | Can show sensitivity to different perspectives within a group, acknowledging contributions and formulating any reservations, disagreements or criticisms in such a way as to avoid or minimise any offence.<br>Can develop the interaction and tactfully help steer it towards a conclusion. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a member/chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
+| B2+ | Can, based on people’s reactions, adjust the way they formulate questions and/or intervene in a group interaction.<br>Can act as rapporteur in a group discussion, noting ideas and decisions, discussing these with the group and later giving a summary of the group’s view(s) in a plenary. |  |  |  | during a collaborative task in a class at school/university; in community-of-practice work for teacher development |
+| B2 | Can ask questions to stimulate discussion on how to organise collaborative work.<br>Can help define goals for teamwork and compare options for how to achieve them.<br>Can refocus a discussion by suggesting what to consider next, and how to proceed. | during an exchange with friends, family members, colleagues met in informal circumstances to choose between possible solutions to a problem | at community meetings dealing with a specific issue, with visual support |  | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
+| B1+ | Can collaborate on a shared task, e.g. formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches.<br>Can collaborate in simple, shared tasks and work towards a common goal in a group by asking and answering straightforward questions.<br>Can define the task in basic terms in a discussion and ask others to contribute their expertise and experience. |  | at a community meeting dealing with a straightforward issue, with visual support | during a relatively straightforward business transaction; during committee meetings between colleagues |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **225***
 
 <!-- page:225 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 225*
 
-|  | 26e4 |
-| --- | --- |
-| «977 | Me |
-| collaborative | ituation |
-| ¥43D | ‘ating |
-|  | - |
-| uojueduioy | Can |
-| views. | exchange |
-| friends, | family |
-| members, | colleagues |
-| ‘auinjon | met |
-| circumstances, | for |
-| instance | to |
-| advice | before |
-| among | possible |
-| solutions | to |
-| Can | collaborate |
-| A2+ | participants |
-| them | to |
-|  | university |
-| Can | collaborate |
-| others | think, |
-| responses, | provided |
-| reformulation | from |
-| Can | invite |
-| short, | simple |
-| that | they |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_concepts page=226 -->
+| Level | Facilitating collaborative interaction with peers | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can invite other people in a group to contribute their views. | during a short exchange with friends, family members, colleagues met in informal circumstances for instance to ask for advice before choosing among possible solutions to a problem | at a community meeting dealing with a straightforward issue, with visual support | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during committee meetings | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
+| A2+ | Can collaborate in simple, shared tasks, provided other participants articulate slowly and one or more people help them contribute and express their suggestions. | during a short exchange with friends, family members | [not applicable] | during a straightforward business transaction | during a simple collaborative task in a class at school/university |
+| A2 | Can collaborate in simple, practical tasks, asking what others think, making suggestions and understanding responses, provided they can ask for repetition or reformulation from time to time. |  |  |  |  |
+| A1 | Can invite others’ contributions to very simple tasks using short, simple phrases prepared in advance. Can indicate that they understand and ask whether others understand. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Page **226** ▶ **CEFR – Companion volume***
 
 <!-- page:226 -->
-*Page 226 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| Situation | (and |
-| \| | Personal |
-| Can | summarise, |
-| sajdweXy, | c |
-| forward. | members, |
-| met | in |
-| Jo | _<ifcumstances |
-| asn | Can |
-| Sparencnc | minicar |
-| JUa2yIp | UI |
-| itn | development |
-| Can | evaluate |
-| ULeWOP | C1 |
-| a | specific |
-| visual | support |
-| 105 | Can |
-| s4o}dyuDsap | others’ |
-| or | project |
-|  | debate |
-|  | Jo |
-|  | aUI\|UO |
-|  | UOADeI9zU! |
-|  | pue |
-|  | UOe!PaW |
-|  | <SeRIANDe |
-|  | 2604 |
-|  | £27 |
+<!-- el:start type=artifact id=scale_mediating_concepts page=227 -->
+| Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| C2 | Can summarise, evaluate and link the various contributions in order to facilitate agreement on a solution or a way forward. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/moderator of a group during focus group meetings; during a business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
+| C1 | Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, summarising, elaborating and weighing up multiple points of view. |  | at community meetings dealing with a specific issue, with visual support |  |  |
+|  | Can evaluate problems, challenges and proposals in a collaborative discussion in order to decide on the way forward.<br>Can highlight inconsistencies in thinking, and challenge others’ ideas in the process of trying to reach a consensus. |  |  |  | in completing a group problem-solving task or project or in a class debate |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **227***
 
 <!-- page:227 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 227*
 
-|  | 26ed |
-| --- | --- |
-| 8Zz | Me |
-|  | EEE |
-| < | Collaborating |
-| W43D | - |
-|  | - |
-| uojueduioy | Can |
-| a | complex |
-| taken | into |
-| problem, | when |
-| ‘auinjon | planning |
-| event,eg.awedding | event |
-| or | anniversary |
-| >\| | a |
-| can | contribute |
-| problem | solving, |
-| explaining | details |
-| action. | family |
-| collaborative | workona |
-| Can | help |
-| what | others |
-| weighing | up |
-| Can | further |
-| family | or |
-| plana | themed |
-| staged | social |
-| such | as |
-| party | teacher |
-| Can | present |
-| invite | reactions |
-| strongly | differing |
-| about | holiday, |
-| on | during |
-| family | renovation |
-| green | areas |
-| of | amenities/services) |
+<!-- el:start type=artifact id=scale_mediating_concepts page=228 -->
+| Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| B2+ | Can highlight the main issue that needs to be resolved in a complex task and the important aspects that need to be taken into account. | in helping a friend plan how to resolve a financial or family problem, when planning a family event, e.g. a wedding or anniversary party | as a member/chair/moderator of a planning meeting for a (political) campaign or project and/or an event set up by a club | as a chair/member of a strategy meeting or project-planning meeting | when organising a group assignment such as writing a collective review or designing a research project, in planning an exchange visit or project |
+|  | Can contribute to collaborative decision making and problem solving, expressing and co-developing ideas, explaining details and making suggestions for future action.<br>Can help organise the discussion in a group by reporting what others have said, summarising, elaborating and weighing up different points of view. | when planning a complicated outing, holiday or project with family and friends |  | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | when planning, with classmates/colleagues, a group assignment or project, an educational outing or exchange visit |
+| B2 | Can further develop other people’s ideas and opinions. | a conversation with family or friends to plan a themed or staged social event such as a (surprise) party | as a member of a club in a community meeting to organise a public event |  | in completing a group problem-solving task or project, or in a class debate; in community-of-practice work for teacher development |
+|  | Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, a house renovation | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) |  |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Page **228** ▶ **CEFR – Companion volume***
 
 <!-- page:228 -->
-*Page 228 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| Collaborating | situation |
-| - | to |
-| Can | consider |
-| sajdweXy, | arguments |
-| compromise. | strongly |
-| about | holiday, |
-| Jo | on |
-| asn | family |
-| a | house |
-| JUaayIp | UI |
-| dispute | between |
-|  | housemates |
-| uleWOp | Can |
-| task | by |
-| B1+ | the |
-| 105 | Can |
-| s4o}dUuDsap | to |
-| apartment, | how |
-| Can | ask |
-| views. | to |
-|  | Jo |
-| aUI\|UO | Can |
-| mutual | understanding |
-| ideas | on |
-|  | UOA2eI9zU! |
-| Can | ensure |
-| A2+ | understands |
-| questions. | ‘out, |
-| pue | party |
-| UOHe!PaW | Can |
-| to | indicate |
-| Can | make |
-|  | <seRIAN2e |
-| Can | express |
-| very | simple |
-| prepare | in |
-|  | bed |
-| No | descriptors |
-|  | 677 |
+<!-- el:start type=artifact id=scale_mediating_concepts page=229 -->
+| Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
+|-------|-----------------------------------|----------|--------|--------------|-------------|
+| B2 | Can consider two different sides of an issue, giving arguments for and against, and propose a solution or compromise. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, during a house renovation, or during a domestic dispute between housemates | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project or in a class debate; in community-of-practice work for teacher development |
+| B1+ | Can organise the work in a straightforward collaborative task by stating the aim and explaining in a simple manner the main issue that needs to be resolved.<br>Can use questions, comments and simple reformulations to maintain the focus of a discussion. | in a discussion with flatmates or friends about how to reorganise arrangements in an apartment, how to repair something, how to organise an event | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | at a project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project, or in a class debate |
+| B1 | Can ask a group member to give the reason(s) for their views.<br>Can repeat part of what someone has said to confirm mutual understanding and help keep the development of ideas on course. |  |  |  |  |
+| A2+ | Can ensure that the person they are addressing understands what they mean by asking appropriate questions. | in a discussion of options for an evening out, when organising a party or when deciding on house rules | [not applicable] | during collaborative work on a project | in completing a group problem-solving task or project |
+| A2 | Can make simple remarks and pose occasional questions to indicate that they are following.<br>Can make suggestions in a simple way. |  |  |  |  |
+| A1 | Can express an idea and ask what others think, using very simple words/signs and phrases, provided they can prepare in advance. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **229***
 
 <!-- page:229 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 229*
 
-|  | 26% |
-| --- | --- |
-| 0€7 | Me |
-| « | ee |
-| y43> | Managing |
-|  | - |
-|  | uojueduioy |
-| Can | take |
-| participants | and |
-| person, | mediator, |
-| ‘aumnjon | individualised |
-| ¢ | charity/association |
-| appropriate | steps |
-| family | members |
-| f | informal |
-| business, | at |
-| Can | organise |
-| and | individual |
-| group | between |
-| C1 |  |
-| Can | intervene |
-| discussion, | prevent |
-| disruptive | behaviour. |
-|  | project |
+<!-- el:start type=artifact id=scale_mediating_concepts page=230 -->
+| Level | Managing interaction | Personal | Public | Occupational | Educational |
+|-------|---------------------|----------|--------|--------------|-------------|
+| C2 | Can take on different roles according to the needs of the participants and requirements of the activity (resource person, mediator, supervisor, etc.) and provide appropriate individualised support. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation meetings/sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+|  | Can recognise undercurrents in interaction and take appropriate steps to guide the direction of discussion. | during a short exchange with friends, family members met in informal circumstances |  |  |  |
+| C1 | Can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases. | [not applicable] |  |  |  |
+|  | Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. |  |  | at a meeting on procedures, during collaborative work on a project |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Page **230** ▶ **CEFR – Companion volume***
 
 <!-- page:230 -->
-*Page 230 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| ee | ituation |
-| Managing | interaction |
-| sojduexy | Can |
-| efficiently. | moderator |
-| community | meeting; |
-| Jo | ata |
-| asn | charity/association |
-| meeting | or |
-| JUaOYIP | UJ |
-| regional, | national, |
-| international | level |
-| institutions | a |
-| sUJEWOP | a |
-|  | workshop |
-| Can | monitor |
-| 404 | intervening |
-| s40Jd\|>SaP | cy), |
-|  | project |
-| Jo | Can |
-| aUIJUO | attention |
-| questions | and |
-| in | an |
-| UOR>2e/23UI | at |
-| development | sessions; |
-| during | work |
-| complex | collaborative |
-| pue | projects |
-| UoReIpaU | business, |
-|  | institutions |
-|  | «Sanian2e |
-|  | 262d |
-|  | Lez |
+<!-- el:start type=artifact id=scale_mediating_concepts page=231 -->
+| Level | Managing interaction | Personal | Public | Occupational | Educational |
+|-------|---------------------|----------|--------|--------------|-------------|
+| B2+ | Can organise and manage collaborative group work efficiently. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+|  | Can monitor individual and group work non-intrusively, intervening to set a group back on task or to ensure even participation. |  |  | at a meeting on procedures, during collaborative work on a project |  |
+|  | Can intervene supportively in order to focus people’s attention on aspects of the task by asking targeted questions and inviting suggestions. |  |  | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **231***
 
 <!-- page:231 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 231*
 
-|  | 26rd |
-| --- | --- |
-| ZEZ | Me |
-| < | ituation |
-| W4aD | Managing |
-|  | - |
-|  | uoJueduioy |
-| Can | explain |
-| collaborative | work. |
-| ‘auinjon | community |
-| Emepbingrermlukschigeibertive | . |
-| in | small |
-| evaluation | of |
-| CIBER, | eduicationtperect/ |
-| regional, | national, |
-| international | level |
-| a | protest/opposition, |
-| a | school |
-|  | workshop |
-| Can | intervene |
-| task | with |
-| participation. | community |
-| witha | specific, |
-| defined | goal; |
-| festival | working |
-| group, | with |
-|  | goal |
-| Can | allocate |
-| B1+ | express |
-| upkeep, | etc. |
-| \| | on |
-| Can | give |
-| moderator | at |
-| Can | give |
-| given | some |
-| defined | goal; |
-| festival | working |
-| group, | with |
-|  | goal |
+<!-- el:start type=artifact id=scale_mediating_concepts page=232 -->
+| Level | Managing interaction | Personal | Public | Occupational | Educational |
+|-------|----------------------|----------|--------|--------------|-------------|
+| B2 | Can explain the different roles of participants in the collaborative process, giving clear instructions for group work.<br>Can explain ground rules of collaborative discussion in small groups that involves problem solving or the evaluation of alternative proposals. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | as a chair/member of a group during focus group meetings; during committee meetings | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
+| B1+ | Can intervene when necessary to set a group back on task with new instructions or to encourage more even participation. |  | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project | during a clearly structured collaborative activity at school/university |
+| B1 | Can allocate turns in a discussion, inviting a participant to express their views. |  | residents meeting to agree routine terms of upkeep, etc. | as a team member at a meeting of a small task force |  |
+| A2 | Can give simple, clear instructions to organise an activity.<br>Can give very simple instructions to a co-operative group, given some help with formulation when necessary. |  | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project, at a staff meeting on introducing new procedures/equipment |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Page **232** ▶ **CEFR – Companion volume***
 
 <!-- page:232 -->
-*Page 232 3 CEFR –­ Companion volume*
 
-| ee | Situation |
-| --- | --- |
-| Managing | interaction |
-| sejdweXy | No |
-| No | descriptors |
-|  | Jo |
-|  | asn |
-| yUaJayIp | UI |
-|  | sUleEWop |
-|  | 10} |
-|  | s40}duDSap |
-| Encouraging | conceptual |
-| Jo | Can |
-| BUI\|UO | discussion |
-| and | topics, |
-| targeting | their |
-| UOR2e293U! | on |
-| Can | ask |
-| contributions | in |
-| pue | a |
-| UORe!PaUs | predicting). |
-| Can | encourage |
-| «SaRIARZe | elaborate |
-| Can | encourage |
-| pF | \| |
-| or | solution. |
-| a0e4 | lecturer/instructor |
-| conference | during |
-| ££7 | time |
+<!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
+| Level | Managing interaction | Personal | Public | Occupational | Educational |
+|-------|----------------------|----------|--------|--------------|-------------|
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
 
-| ee | Situation |
-| --- | --- |
-| Managing | interaction |
-| sejdweXy | No |
-| No | descriptors |
-|  | Jo |
-|  | asn |
-| yUaJayIp | UI |
-|  | sUleEWop |
-|  | 10} |
-|  | s40}duDSap |
-| Encouraging | conceptual |
-| Jo | Can |
-| BUI\|UO | discussion |
-| and | topics, |
-| targeting | their |
-| UOR2e293U! | on |
-| Can | ask |
-| contributions | in |
-| pue | a |
-| UORe!PaUs | predicting). |
-| Can | encourage |
-| «SaRIARZe | elaborate |
-| Can | encourage |
-| pF | \| |
-| or | solution. |
-| a0e4 | lecturer/instructor |
-| conference | during |
-| ££7 | time |
+| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
+|-------|----------------------------|----------|--------|--------------|-------------|
+| C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
+| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). |  |  |  |  |
+| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. |  |  |  | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
+<!-- el:end id=scale_mediating_concepts -->
+
+<!-- el:start type=prose id=prose_p233_s1 page=233 -->
+conference during Q&A lecturer/instructor at a
+
+**Educational** in class debates or in class debates or lesson, engaging lesson, engaging seminar, giving a seminar, giving a discussions; as a when leading a when leading a
+
+discussions
+
+time
+
+brainstorming sessions team meetings and lead during project **Occupational** when taking the
+
+**Situation (and roles)**
+
+meeting discussing details of an action at a community **Public**
+
+### Mediating concepts
+
+plan
+
+issues with friends and
+
+social and political when discussing **Personal**
+
+relatives
+
+another’s information and ideas to come up with a concept discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate Can ask a series of open questions that build on different (e.g. hypothesising, inferring, analysing, justifying and Can encourage members of a group to describe and contributions in order to stimulate logical reasoning Can encourage members of a group to build on one Can effectively lead the development of ideas in a **Encouraging conceptual talk**
+
+elaborate on their thinking.
+
+on their reasoning.
+
+predicting). or solution.
+
+**B2+** **C1** **C2**
+<!-- el:end id=prose_p233_s1 -->
+
+<!-- el:start type=prose id=prose_p233_s2 page=233 -->
+**Educational**
+
+**Occupational**
+
+**Situation (and roles)**
+
+**Public**
+
+### Mediating concepts
+
+**Personal**
+
+**Managing interaction**
+
+**No descriptors available** **No descriptors available**
+
+**Pre-A1** **A1**
+<!-- el:end id=prose_p233_s2 -->
+
+<!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
+| Level | Managing interaction | Personal | Public | Occupational | Educational |
+|-------|----------------------|----------|--------|--------------|-------------|
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+
+| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
+|-------|----------------------------|----------|--------|--------------|-------------|
+| C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
+| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). |  |  |  |  |
+| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. |  |  |  | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **233***
 
 <!-- page:233 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 233*
 
-|  | a6ed |
-| --- | --- |
-| HET | Me |
-| < | ituation |
-| W4ID | Encouraging |
-|  | - |
-|  | uoJueduioy |
-| Can | formulate |
-| people | opinions. |
-| their | issues |
-| ‘auinjon | Can |
-| lines | of |
-| Can | ask |
-| topic | under |
-|  | time |
-| Can | ask |
-| in | their |
-| of | entertainment |
-| friends/relatives | such |
-| planning | applications |
-| B1+ | or |
-|  | events |
-| Can | ask |
-| that | have |
-|  | concepts |
-| Can | ask |
-| reasoning. | social |
-| someone | thinks |
-| Can | ask |
-| something | would |
-| ‘or | community |
-|  | events |
-| Can | ask |
-| options | with |
-| friends | or |
-| for | an |
-| when | organising |
-|  | party |
-| Can | use |
-| signals | show |
-|  | out |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_concepts page=234 -->
+| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
+|-------|----------------------------|----------|--------|--------------|-------------|
+| B2 | Can formulate questions and feedback to encourage people to expand on their thinking and justify or clarify their opinions.<br>Can build on people’s ideas and link them into coherent lines of thinking.<br>Can ask people to explain how an idea fits with the main topic under discussion. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
+| B1+ | Can ask people to elaborate on specific points they made in their initial explanation. | when discussing films, plays and other forms of entertainment with friends/relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | during project team meetings and brainstorming sessions; during collaborative work on a project | when engaging in class debates or discussion |
+| B1 | Can ask appropriate questions to check understanding of concepts that have been explained. | [not applicable] | [not applicable] |  | in simple class debates or discussions with (fellow) students |
+|  | Can ask questions to invite people to clarify their reasoning.<br>Can ask why someone thinks something, or how they think something would work. | when discussing social and personal issues with friends and relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events |  |  |
+| A2 | Can ask what somebody thinks of a certain idea. | when discussing options with family, friends or housemates for an evening out, when organising a party | at a community meeting | during team meetings; during collaborative work on a project | when engaging in simple class discussions |
+| A1 | Can use simple isolated words/signs and non-verbal signals to show interest in an idea. | in a discussion of options for an evening out | [not applicable] | [not applicable] | in a simple group activity |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_concepts -->
+
+*Page **234** ▶ **CEFR – Companion volume***
 
 <!-- page:234 -->
-*Page 234 3 CEFR –­ Companion volume*
 
-|  | communicati |
-| --- | --- |
-| ee | ituation |
-| g | pluricultural |
-| sejdweXy | Can |
-| of | their |
-| c | sociocultural |
-| Jo | persed |
-| asn | Can |
-| nuances | and |
-| yUaJEyIP | UI |
-| Can | act |
-| contributing | to |
-| managing | ambiguity, |
-| sUleEWop | heading |
-| a | Can |
-| 40} | has |
-| s40;dUDSap | interaction |
-| cultural | perspectives |
-| on | concerning |
-| custody | country |
-|  | Jo |
-|  | BUL\|UO |
-|  | UOR>e293U! |
-|  | pue |
-|  | UORe!PaUs |
-|  | «SaRIAR2e |
-|  | a0e4 |
-|  | $£7 |
+<!-- el:start type=artifact id=scale_mediating_communication page=235 -->
+| Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
+|-------|--------------------------------|----------|--------|--------------|-------------|
+| C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences.<br>Can guide a sensitive discussion effectively, identifying nuances and undercurrents. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
+| C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings.<br>Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. | when breaking/delivering news on delicate issues from third parties | at a multicultural guidance and counselling session concerning for instance marriage, divorce, child custody | when discussing the terms of a multilateral contract, when explaining the laws or regulations in another country | when teaching a university course to a multicultural class |
+<!-- el:end id=scale_mediating_communication -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **235***
 
 <!-- page:235 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 235*
 
-|  | 26e4 |
-| --- | --- |
-| 9€7 | Me |
-| « | ituation |
-|  | Y4aD |
-|  | - |
-|  | uoJueduioy |
-| Can | exploit |
-| order | to |
-| particular | situation |
-| ‘auinjon | personal |
-| with | friends |
-| family | in |
-|  | environment |
-| Can, | in |
-| of | perspectives |
-| and | themselves |
-| express | a |
-| “yr | context. |
-| to | multicultural |
-| Can | clarify |
-| during | intercultural |
-| were | actually |
-| discussion | forward. |
-| different | cultures |
-| beet | endl |
-| ‘or | public |
-| multicultural | issues |
-| Can | encourage |
-| expressing | understanding |
-| ideas, | feelings |
-| contribute | and |
-| interests | centres |
-| Can | work |
-| cultural | orientations, |
-| in | views |
-| at | public |
-| (eg. | festivals, |
-|  | demonstrations) |
+<!-- el:start type=artifact id=scale_mediating_communication page=236 -->
+| Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
+|-------|--------------------------------|----------|--------|--------------|-------------|
+| B2+ | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
+|  | Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. | when discussing with friends and/or relatives social or personal issues or ways to act in an informal multicultural setting | when interacting with individuals and/or groups in the neighbourhood | helping colleagues from a different cultural background find a way through work-related problems | in supporting inclusive education |
+|  | Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. | in potentially conflicting private situations involving persons from different cultures or backgrounds | in peer interaction at public events (e.g. festivals, talks, demonstrations)<br>when conducting or moderating a public debate on multicultural issues | when discussing the implementation of international commercial policies with colleagues | as an instructor when dealing with conflicts between students on an international campus |
+| B2 | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. | when presented to, or introducing someone to, a new group of friends/people sharing interests | in peer interaction at public events (e.g. festivals, talks, demonstrations) | when escorting colleagues from other countries around town or company premises | as an instructor when teaching a multicultural primary class at intercultural centres |
+|  | Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. | when organising shared activities with friends or roommates | in joint activities with travel mates during a trip, in peer interaction at public events (e.g. festivals, talks, demonstrations) | in discussions with colleagues about simple tasks, working hours, holidays | with schoolmates in academic activities |
+<!-- el:end id=scale_mediating_communication -->
+
+*Page **236** ▶ **CEFR – Companion volume***
 
 <!-- page:236 -->
-*Page 236 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| ituation | (and |
-| sajdweXy, | Can, |
-| adapt | the |
-| procedures. | friends |
-| Jo | commercial |
-| asn | with |
-| JUa2yIp | UI |
-| conversation, | showing |
-| answering | simple |
-| and | understanding. |
-| ULeWOp | B1+ |
-| Can | in |
-| recognising | act |
-| 105 | members |
-| s1oydUuDsap | group. |
-| Can | support |
-| repertoire | to |
-| Jo | backgrounds |
-| aUI\|UO | awareness |
-| differently | in |
-| UOADeI9zU! | Can |
-| exchanging | information |
-| attitudes | to |
-| pue | Can |
-| UOHe!paU | words/signs |
-| clarification | of |
-| repertoire | to |
-| Can | facilitate |
-| <seRIAR2e | welcoming |
-| and | non-verbal |
-| and | by |
-| addressed | directly. |
-|  | 260d |
-| No | descriptors |
-|  | ££7 |
+<!-- el:start type=artifact id=scale_mediating_communication page=237 -->
+| Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
+|-------|--------------------------------|----------|--------|--------------|-------------|
+| B2 | Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. | when organising shared activities with friends or roommates | during a multicultural community meeting | when discussing the implementation of international commercial policies with colleagues | at a seminar in a multicultural educational setting |
+| B1+ | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. | in everyday conversations with friends and relatives from different cultural backgrounds | during holidays, with locals | between colleagues during work-related telephone exchanges or conversations | with schoolmates in out-of-school activities |
+|  | Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. | when organising shared activities with friends or roommates | during a multicultural community meeting | in discussions with colleagues about simple tasks, working hours, holidays | at a seminar in a multicultural educational setting |
+| B1 | Can support an intercultural exchange using a limited repertoire to introduce people from different cultural backgrounds and to ask and answer questions, showing awareness that some questions may be perceived differently in the cultures concerned.<br>Can help develop a shared communication culture, by exchanging information in a simple way about values and attitudes to language and culture. | in a simple informal conversation between friends/relatives and visitors | in simple exchanges and conversations at restaurants | when introducing newcomers into the workplace | as an instructor when welcoming students into the school’s sports team |
+| A2 | Can contribute to an intercultural exchange, using simple words/signs to ask people to explain things and to get clarification of what they say, while exploiting a limited repertoire to express agreement, to invite, to thank, etc. |  |  |  |  |
+| A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. |  |  | when a newcomer is introduced into the workplace | as a student welcoming a new person who joins the group |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_communication -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **237***
 
 <!-- page:237 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 237*
 
-|  | 26rd |
-| --- | --- |
-| 8Ez | Me |
-| « | Acting |
-| W4aD | as |
-|  | - |
-|  | uoJueduioy |
-| Can | communicate |
-| Language | B) |
-| wide | range |
-| ‘auinjon | appropriate |
-| c | meaning |
-| guests | visiting |
-| other | schools, |
-| webinars, | debates |
-|  | discussions |
-| Can | communicate |
-| what | is |
-| personal, | academic |
-| C1 | significant |
-| explaining | cultural |
-| conversations, | or |
-|  | discussions |
-| Can | mediate |
-| conveying | detailed |
-| both | sides |
-| B2+ | and |
-| cues, | or |
-| statements | as |
-| planning | resource |
-| Can | communicate |
-| is | said |
-| in | their |
-| appropriately | and |
-| necessary, | provided |
-| to | allow |
-| teachers | or |
-| Can | communicate |
-| (in | Language |
-| conveying | and |
-| of | important |
-| interlocutors | give |
+<!-- el:start type=artifact id=scale_mediating_communication page=238 -->
+| Level | Acting as intermediary in informal situations (with friends and colleagues) | Personal | Public | Occupational | Educational |
+|-------|----------------------------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can communicate in a clear, fluent, well-structured way (in Language B) the sense of what is said (in Language A) on a wide range of general and specialised topics, maintaining appropriate style and register, conveying finer shades of meaning and elaborating on sociocultural implications. | in a discussion with friends/relatives, guests/hosts (e.g. on politics, literature)<br>at a gathering with guests | during a public lecture, at a political rally or meeting, at a (religious) ceremony | at a management meeting, a social or cultural event during a work-related visit in another country | at a school event such as an awards evening with parents, at a welcome address or presentation to visiting guests from other schools, in webinars, debates and discussions |
+| C1 | Can communicate fluently (in Language B) the sense of what is said (in Language A) on a wide range of subjects of personal, academic and professional interest, conveying significant information clearly and concisely as well as explaining cultural references. | interpretation, at a formal gathering with guests, of complex ceremonies, statements, conversations, or discussions | at a public meeting, at an intercultural event | during discussions on organisational matters such as international conferences or events, contract negotiations | during an interview as part of a research project, at a conference or seminar |
+|  | Can mediate (between Language A and Language B) conveying detailed information, drawing the attention of both sides to background information and sociocultural cues, and posing clarification and follow-up questions or statements as necessary. | with visiting guests/relatives from another country |  |  |  |
+| B2+ | Can communicate (in Language B) the sense of what is said in a welcome address, anecdote or presentation in their field (in Language A), interpreting cultural cues appropriately and giving additional explanations when necessary, provided the presenter stops frequently in order to allow time for them to do so. | in discussions with relatives/friends on matters such as studying or working abroad | during a guided visit | with visiting partners or clients, in a discussion in an international team about organisation, project and resource planning | in a parent–teacher meeting to discuss a child’s school performance, with an academic in discussion of their specialised field |
+| B2 | Can communicate (in Language B) the sense of what is said (in Language A) on subjects within their fields of interest, conveying and when necessary explaining the significance of important statements and viewpoints, provided the interlocutors give clarifications if needed. | in a conversation with friends/relatives, guests/hosts about important current affairs | during a guided visit (e.g. an exhibition) | during a visit to company/factory/university premises<br>at dinner with visiting colleagues | in a parent–teacher meeting to discuss a child’s school performance; during a school exchange with visiting principals, teachers or students<br>at a school event or parents’ day |
+<!-- el:end id=scale_mediating_communication -->
+
+*Page **238** ▶ **CEFR – Companion volume***
 
 <!-- page:238 -->
-*Page 238 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| Acting | intermediary |
-| as | \| |
-| situations | (with |
-| sajdweX, | Can |
-| is | said |
-| =F). | interest, |
-| Jo | and |
-| asn | beforehand |
-| everyday | language. |
-| JUa2yIp | UI |
-| Can | communicate |
-| what | is |
-| interest, | while |
-| uleWOp | ask |
-| clarification | and |
-|  | things. |
-| 105 | Can |
-| s4oydusDsap | of |
-| following | basic |
-| essential | information, |
-| they | ask |
-| Jo | can |
-| aUI\|UO | A2+ |
-| telephone | relatives |
-| and | friends |
-| UOA2eIazU! | applying |
-| such | as |
-|  | Utilities |
-| pue | Can |
-| UOHe!paUI | is |
-| conveying | back |
-| wants | and |
-|  | formulation. |
-|  | <seRIAR2e |
-| Can | details |
-| and | very |
-| Language | A), |
-| bed | No |
-|  | 6£7 |
+<!-- el:start type=artifact id=scale_mediating_communication page=239 -->
+| Level | Acting as intermediary in informal situations (with friends and colleagues) | Personal | Public | Occupational | Educational |
+|-------|----------------------------------------------------------------------------|----------|--------|--------------|-------------|
+| B1+ | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects within their fields of interest, conveying straightforward factual information and explicit cultural references, provided they can prepare beforehand and the interlocutors articulate clearly in everyday language. | in everyday conversations with friends and relatives (e.g. on family, work, daily events) | in casual conversations with other travellers during a trip or holiday (e.g. on travel, hobbies, interests) | in everyday conversations with colleagues/workmates (e.g. on interests, work, daily events) | during a school exchange – incoming and outgoing, in a parent–teacher meeting to discuss a child’s school performance |
+| B1 | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects of personal interest, while following important politeness conventions, provided the interlocutors articulate clearly and they can ask for clarification and pause to plan how to express things. | in a conversation between friends/relatives and visitors to make arrangements for an outing<br>interpreting on the telephone for relatives and friends when applying for a service such as the internet or utilities | at a restaurant with guests, conversing about background, hobbies, education<br>at a public office offering services, such as a licensing office | at the workplace to organise a leaving party<br>during a visit from a client | with a new student from their country of origin |
+| A2+ | Can communicate (in Language B) the overall sense of what is said (in Language A) in everyday situations, following basic cultural conventions and conveying the essential information, provided it is articulated clearly and they can ask for repetition and clarification. |  |  |  |  |
+| A2 | Can communicate (in Language B) the main point of what is said (in Language A) in predictable everyday situations, conveying back and forth information about personal wants and needs, provided other people help with formulation. | during the introduction of a visitor/guest to family/friend circles | at a public office offering services, such as a licensing office | during a visit from a client |  |
+| A1 | Can communicate (in Language B) other people’s personal details and very simple, predictable information (in Language A), provided other people help with formulation. |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_communication -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **239***
 
 <!-- page:239 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 239*
 
-|  | 262d |
-| --- | --- |
-| Oz | Me |
-| < | Facilitating |
-| W4ID | in |
-|  | - |
-|  | uoJUeduIoy |
-| Can | deal |
-| any | remarks |
-| cultural | perceptions. |
-| ‘auinjon | c |
-| Can | confidently |
-| . | issue |
-| of | others. |
-| Can | demonstrate |
-| repetition | and |
-| understanding | of |
-| agreement. | when |
-| relatives | decisions |
-| Can | formulate |
-| disagreement | to |
-| position, | and |
-| certain | circumstances. |
-| Can | use |
-| disagreement | shift |
-| solutions | on |
-| Can | elicit |
-| in | order |
-| open-ended, | neutral |
-| embarrassment | or |
-| Can | help |
-| B2+ | each |
-| i | learly |
-| z | concerning |
-| Can | formulate |
-| has | been |
-| (ess | landlords/tenants |
-| (e.g. | over |
-| Can, | by |
-| and | invite |
-| or | services |
-| transport, | banks |
+<!-- el:start type=artifact id=scale_mediating_communication page=240 -->
+| Level | Facilitating communication in delicate situations and disagreements | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can deal tactfully with a disruptive participant, framing any remarks diplomatically in relation to the situation and cultural perceptions.<br>Can confidently take a firm but diplomatic stance over an issue of principle, while showing respect for the viewpoints of others. | in a disagreement between friends or family members discussing personal or social issues | in a situation with intercommunal conflict tensions | in collaborative work that takes a difficult turn<br>in negotiations, in discussions about cuts and restructuring | in cases of disruptive classroom behaviour<br>in cases of bullying or racial/gender-aggravated school violence |
+| C1 | Can demonstrate sensitivity to different viewpoints, using repetition and paraphrase to demonstrate a detailed understanding of each party’s requirements for an agreement.<br>Can formulate a diplomatic request to each side in a disagreement to determine what is central to their position, and what they may be willing to give up under certain circumstances.<br>Can use persuasive language to suggest that parties in disagreement shift towards a new position. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+| B2+ | Can elicit possible solutions from parties in disagreement in order to help them to reach consensus, formulating open-ended, neutral questions to minimise embarrassment or offence. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+|  | Can help the parties in a disagreement better understand each other by restating and reframing their positions more clearly and by prioritising needs and goals. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees |  |
+|  | Can formulate a clear and accurate summary of what has been agreed and what is expected from each of the parties. |  | in disputes regarding an accident | at collective bargaining or labour arbitration |  |
+| B2 | Can, by asking questions, identify areas of common ground and invite each side to highlight possible solutions. |  | helping others with complaints about bills or services at shops, transport, banks | during minor disputes at the workplace |  |
+<!-- el:end id=scale_mediating_communication -->
+
+*Page **240** ▶ **CEFR – Companion volume***
 
 <!-- page:240 -->
-*Page 240 3 CEFR –­ Companion volume*
 
-| Me | ing |
-| --- | --- |
-| Facilitating | communication |
-|  | in |
-| tuations | and |
-| sojdwexy | Can |
-| reasonable | precision |
-| parties | involved. |
-| Jo | when |
-| asn | relatives |
-| Can | summarise |
-| JUaJOYIP | Ul |
-| areas | to |
-| agreement. | elderly |
-| safety | and |
-| sUJEWOP | in |
-|  | landlords/tenants |
-| (e.g. | over |
-| 404 | responsibility |
-| s40JdL>SEP | damage |
-| of | Can |
-| B1+ | view, |
-| Jo | provided |
-| aUIJUO | express |
-| home | improvements |
-| Can | demonstrate |
-| UoR>2e123UI | disagreement |
-| requests | for |
-|  | a |
-| pue | Can |
-| UoReIpaws | occur |
-| to | seek |
-| responsibilities | station |
-| task | not |
-|  | «Sanian2e |
-| Can | recognise |
-| has | a |
-| (e.g. | “I |
-| 262d | sympathy. |
-|  | Lpz |
-| No | descriptors |
+<!-- el:start type=artifact id=scale_mediating_communication page=241 -->
+| Level | Facilitating communication in delicate situations and disagreements | Personal | Public | Occupational | Educational |
+|-------|---------------------------------------------------------------------|----------|--------|--------------|-------------|
+| B2 | Can outline the main points in a disagreement with reasonable precision and explain the positions of the parties involved. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
+|  | Can summarise the statements made by the two sides, highlighting areas of agreement and obstacles to agreement. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | as a member/chair/moderator at a community meeting to discuss social policies or safety and security problems | during preparatory meetings to examine and revise an agenda or an action plan |  |
+| B1+ | Can ask parties in a disagreement to explain their point of view, and can respond briefly to their explanations, provided the topic is familiar to them and the parties express themselves clearly. | in arguments between flatmates over household responsibilities or home improvements | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | when dealing with everyday negative interactions between classmates |
+| B1 | Can demonstrate their understanding of the key issues in a disagreement on a topic familiar to them and make simple requests for confirmation and/or clarification. |  |  |  |  |
+| A2 | Can recognise when people disagree or when difficulties occur in interaction, and adapt memorised, simple phrases to seek compromise and agreement. | in arguments between flatmates over household responsibilities | in an argument at a party, on an outing, at a public place like a station or museum | when two people in the workplace have an argument about how to do something, or a task not completed | when fellow students start arguing, or are left out, during group work |
+| A1 | Can recognise when people disagree, or when someone has a problem, and can use memorised, simple expressions (e.g. “I understand” or “Are you okay?”) to indicate sympathy. | when a flatmate is upset, perhaps during or after an argument |  | when a colleague is upset, perhaps during or after an argument |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=scale_mediating_communication -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **241***
 
 <!-- page:241 -->
-*Examples of use in different domains for descriptors of online interaction and mediation activities  Page 241*

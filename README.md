@@ -1,6 +1,14 @@
 # CEFR Companion Volume — Extraction Pipeline
 
-Extracts all content (prose, tables, figures, appendices) from the CEFR Companion Volume PDF into database-ready Markdown.
+Extracts the CEFR Companion Volume PDF into **database-ready Markdown**.
+
+| Document | Role |
+|----------|------|
+| **[`STATUS.md`](STATUS.md)** | **Start here** — work done, open backlog, runbook |
+| [`AGENTS.md`](AGENTS.md) | Agent entrypoint (same pointers) |
+| [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Pipeline design & contracts |
+
+---
 
 ## Quick start
 
@@ -9,44 +17,61 @@ pip install -r requirements.txt
 python run_pipeline.py --step all
 ```
 
-To re-run prose formatting on the final file without a full merge:
+### Common commands
 
 ```bash
-python run_pipeline.py --step postprocess
+# Full production extract (uses current inventories + rotated vision markdown)
+python -u run_production_extract.py
+
+# Format-only (~4s) — list spacing, footers, bold, etc.
+python iterate_format.py
+
+# Rotated table PNG prep
+python prepare_rotated_for_grok.py
+
+# After agent vision markdown is written
+python finalize_after_grok.py
 ```
 
-To refresh figure diagrams without re-extracting the PDF:
+### Rotated tables
 
-```bash
-python run_pipeline.py --step figures
-```
+Geometry/OCR are **not** production quality for rotated descriptor scales.  
+**Coding-agent vision** writes `metadata/rotated_from_grok/*.md`. See:
 
-Requires Tesseract OCR (for rotated pages).
+- [`STATUS.md`](STATUS.md) §6 (coverage)
+- [`metadata/ROTATED_TABLES_AGENT_VISION.md`](metadata/ROTATED_TABLES_AGENT_VISION.md)
+
+**Appendix 5 (pp. 191–241)** still needs vision markdown (open item R1).
+
+---
 
 ## Output
 
 | Path | Description |
 |------|-------------|
-| `final_output/CEFR_Companion_Volume.md` | **The** final Markdown deliverable (merge + figures + formatted prose) |
-| `final_output/manifest.json` | Website navigation + product catalog |
-| `final_output/db_import_registry.json` | Flat artifact registry for SQLite ETL |
-| `final_output/assets/figures/` | Figure assets (PNG only for Figure 4 rainbow) |
-| `metadata/figures_registry.json` | All 20 figures with `render_as` classification |
-| `metadata/figures_handling.md` | Figure policy: text diagrams vs PNG vs mermaid |
-| `metadata/post_processing.md` | Formatting rules (integrated into merge) |
-| `metadata/last_format_run.txt` | Timestamp and hashes from last format pass |
+| `final_output/CEFR_Companion_Volume.md` | Final Markdown deliverable |
+| `final_output/manifest.json` | Navigation + product catalog |
+| `final_output/db_import_registry.json` | Artifact registry for ETL |
+| `final_output/assets/figures/` | Figure assets |
 
-## Folder structure
+---
 
-- `chunks/` — span-safe PDF chunks
-- `inventories/` — per-page content inventories
-- `raw_extraction/` — pre-cleanup Markdown per chunk
-- `cleaned/` — post-cleanup Markdown
-- `metadata/` — span detection, validation, reports
+## Layout
 
-## Key artifacts
+| Path | Role |
+|------|------|
+| `pipeline/` | Extractors, layout, cleanup, postprocess |
+| `inventories/` | Per-chunk `reading_order` contracts |
+| `raw_extraction/` / `cleaned/` | Intermediate Markdown |
+| `metadata/rotated_for_grok/` | Rotated table PNG handoffs |
+| `metadata/rotated_from_grok/` | Agent-vision table markdown |
+| `post-processing/` | Thin CLI only (`format_markdown.py`) |
+| `docs/archive/` | Historical notes (not current status) |
 
-- **Base product:** `table_self_assessment_grid` (Appendix 2, pages 177–181)
-- **Merged continuation:** `scale_vocabulary_control` (pages 132–133)
+---
 
-See `metadata/sqlite_schema_notes.md` for database import guidance.
+## Requirements
+
+- Python 3.11+ recommended
+- `pip install -r requirements.txt`
+- Tesseract only if forcing OCR fallback on rotated pages (not the default path)

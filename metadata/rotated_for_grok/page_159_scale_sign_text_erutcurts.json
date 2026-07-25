@@ -1,0 +1,25 @@
+{
+  "slug": "page_159_scale_sign_text_erutcurts",
+  "page": 159,
+  "span_group_id": "scale_sign_text_erutcurts",
+  "display_title": "Sign text erutcurts",
+  "span_pages": [
+    158,
+    159,
+    160
+  ],
+  "span_role": "middle",
+  "rotation": 90,
+  "image_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_159_scale_sign_text_erutcurts.png",
+  "metadata_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_159_scale_sign_text_erutcurts.json",
+  "expected_md_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_from_grok\\page_159_scale_sign_text_erutcurts.md",
+  "handoff_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_159_scale_sign_text_erutcurts.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    69.92914999999999,
+    511.0978,
+    771.2322857142857
+  ]
+}

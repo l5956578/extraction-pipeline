@@ -1,0 +1,30 @@
+
+
+<!-- el:start type=figure_page id=figure_02_reception_production_interaction_mediation page=34 -->
+One of the areas in which the CEFR has been most influential is in the recognition, in course aims and in the structure of oral examinations, of the fundamental distinction between production (= sustained monologue; long turns) and interaction (= conversational dialogue; short turns). When the CEFR 2001 was published, splitting writing in the same way by distinguishing between written production and written interaction did not meet with much public recognition. Indeed, the original version of CEFR Table 2 (self-assessment grid) was amended to merge written interaction and written production back into “writing”, giving rise to the widespread but false notion that the CEFR promotes a model of five skills.
+
+The development of e-mail, texting and social media since then shows that, as in many other areas, the CEFR was very forward-looking for its time. The fourth mode, mediation, was developed during the work of the original CEFR Authoring Group.30
+
+Figure 2, which appeared in the 1996 and 1998 provisional versions of the CEFR, shows the relationship between the four modes. Reception and production, divided into spoken and written, give the traditional four skills. Interaction involves both reception and production, but is more than the sum of those parts, and mediation involves both reception and production plus, frequently, interaction.
+
+The CEFR introduces the concept of mediation as follows:
+
+In both the receptive and productive modes, the written and/or oral activities of **mediation** make communication possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which this third party does not have direct access. Mediation language activities – (re)processing an existing text – occupy an important place in the normal linguistic functioning of our societies. (CEFR 2001 Section 2.1.3)
+
+<!-- db:id=figure_02_reception_production_interaction_mediation type=figure render_as=png product_tier=context pages=34 -->
+### Figure 2 – The relationship between reception, production, interaction and mediation | figure_02_reception_production_interaction_mediation
+
+![Figure 2 – The relationship between reception, production, interaction and mediation](assets/figures/figure_02_reception_production_interaction_mediation.png)
+
+As with many other aspects mentioned in the CEFR, the concepts of interaction and mediation are not greatly developed in the text. This is one disadvantage of covering so much ground in 250 pages. In consequence, the interpretation of mediation in the CEFR has tended to be reduced to interpretation and translation. It is for this reason that the 2014-17 project to develop descriptors for mediation was set up. That project emphasised a wider view of mediation, as outlined in Appendix 6 and explained in detail in “Developing illustrative descriptors of aspects of mediation for the CEFR (https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/168073ff31)” (North and Piccardo 2016).
+
+The CEFR represents a departure from the traditional distinction made in applied linguistics between the Chomskyan concepts of (hidden) “competence” and (visible) “performance” – with “proficiency” normally defined as the glimpse of someone’s underlying competence derived from a specific performance. In the CEFR, “proficiency” encompasses the ability to perform communicative language activities (“can do …”) while drawing upon both general and communicative language competences (linguistic, sociolinguistic and pragmatic) and activating appropriate communicative strategies.
+
+The acquisition of proficiency is in fact seen as a circular process: by performing activities, the user/learner develops competences and acquires strategies. This approach embraces a view of competence as only existing when enacted in language use, reflecting both (a) the broader view of competence as action from applied psychology, particularly in relation to the world of work and professional training, and (b) the view taken nowadays in the sociocultural approach to learning. The CEFR “can do” descriptors epitomise this philosophy.
+<!-- el:end id=figure_02_reception_production_interaction_mediation -->
+
+30.	 The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
+
+*Page **34** ▶ **CEFR – Companion volume***
+
+<!-- page:34 -->

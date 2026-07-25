@@ -1,0 +1,58 @@
+Appendix 5 personal deep-audit log
+Standard: same as 146-148 (vision read PNG, rewrite/verify md, re-check)
+Auditor: coding agent, multi-pass personal vision — no subagent batch, no OCR geometry, no spot-check-only
+
+191: rewritten personal (C1 structure fixed)
+192: rewritten personal (verified vs PNG)
+193: rewritten personal (verified vs PNG)
+194: rewritten personal (verified vs PNG)
+195: rewritten personal (verified vs PNG)
+196: rewritten personal (verified vs PNG)
+197: rewritten personal (verified vs PNG)
+198: verified match PNG (personal)
+199: verified match PNG (personal)
+200: verified match PNG (personal)
+201: verified match PNG (personal)
+202: verified match PNG (personal)
+203: verified match PNG (personal)
+204: verified match PNG (personal)
+205: verified match PNG (personal)
+206: verified match PNG (personal)
+207: verified match PNG (personal)
+208: verified match PNG (personal)
+209: verified match PNG (personal)
+210: verified match PNG (personal)
+211: verified match PNG (personal) — Processing text in speech/sign B1–A2+
+212: verified match PNG (personal) — Processing text speech A2+–Pre-A1
+213: verified match PNG (personal) — Processing text in writing C2–C1
+214: verified match PNG (personal) — Processing text in writing B2+–B1
+215: verified match PNG (personal) — Processing text in writing B1–Pre-A1
+216: verified match PNG (personal) — Translating written→speech C2–A2+ (B1 domain split)
+217: verified match PNG (personal) — Translating written→speech A2–Pre-A1
+218: verified match PNG (personal) — Translating written→writing C1–Pre-A1
+219: verified match PNG (personal) — Note-taking C2–C1
+220: verified match PNG (personal) — Note-taking B2–Pre-A1
+221: verified match PNG (personal) — Expressing personal response C2–B2
+222: verified match PNG (personal) — Expressing personal response B1–Pre-A1
+223: verified match PNG (personal) — Analysis/criticism C2–B2
+224: verified match PNG (personal) — Analysis/criticism B1–Pre-A1
+225: verified match PNG (personal) — Facilitating collaborative interaction C2–B1+
+226: verified match PNG (personal) — Facilitating collaborative interaction B1–Pre-A1
+227: verified match PNG (personal) — Collaborating to construct meaning C2–C1
+228: verified match PNG (personal) — Collaborating to construct meaning B2+–B2
+229: verified match PNG (personal) — Collaborating to construct meaning B2–Pre-A1
+230: verified match PNG (personal) — Managing interaction C2–C1
+231: verified match PNG (personal) — Managing interaction B2+
+232: verified match PNG (personal) — Managing interaction B2–A2
+233: verified match PNG (personal) — Managing A1–Pre-A1 + Encouraging conceptual talk C2–B2+
+234: verified match PNG (personal) — Encouraging conceptual talk B2–Pre-A1
+235: verified match PNG (personal) — Facilitating pluricultural space C2–C1
+236: verified match PNG (personal) — Facilitating pluricultural space B2+–B2
+237: verified match PNG (personal) — Facilitating pluricultural space B2–Pre-A1
+238: verified match PNG (personal) — Acting as intermediary C2–B2
+239: verified match PNG (personal) — Acting as intermediary B1+–Pre-A1
+240: verified match PNG (personal) — Facilitating delicate situations C2–B2
+241: verified match PNG (personal) — Facilitating delicate situations B2–Pre-A1
+
+STATUS: Appx5 pages 191–241 COMPLETE (51/51 personal multi-pass vision audit)
+No rewrites required on 211–241: existing MD matched PNG structure (level bands, multi-can cells with <br>, blank domain cells, [not applicable], split domain rows).

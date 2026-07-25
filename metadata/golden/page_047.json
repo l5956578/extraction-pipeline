@@ -1,0 +1,27 @@
+{
+  "page": 47,
+  "source": "user debug/log 04.md #9 #10; re-review R1 text_diagram dual emit",
+  "must_have": [
+    "figure_11_reception_activities_strategies",
+    "### 3.1 RECEPTION",
+    "Reception involves receiving"
+  ],
+  "must_not_have": [
+    "Audio-visual  Oral comprehension comprehension",
+    "Overall oral Watching TV",
+    "Overall reading Identifying cues"
+  ],
+  "must_not_have_after_diagram_fence": [
+    "Understanding as a member of a live audience",
+    "Understanding announcements and instructions",
+    "Understanding audio (or signed) media and recordings",
+    "Reading correspondence",
+    "Audio-visual  Oral comprehension comprehension",
+    "Overall oral Watching TV",
+    "comprehension comprehension"
+  ],
+  "max_heading_count": {
+    "### 3.1 RECEPTION": 1
+  },
+  "notes": "Fig 11 tree keeps leaf titles inside fence; after fence no dual-emitted leaf soup"
+}

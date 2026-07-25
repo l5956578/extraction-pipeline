@@ -116,3 +116,13 @@ def run_merge():
         print(f"Output validation: {len(report['issues'])} issue(s) — see metadata/output_validation.json")
     else:
         print("Output validation: passed")
+    from pipeline.contract_validators import validate_contracts
+
+    creport = validate_contracts()
+    if not creport["valid"]:
+        print(
+            f"Contract validation: {creport['issue_count']} issue(s) — "
+            "see metadata/contract_validation.json (fail-closed; do not claim resolved)"
+        )
+    else:
+        print("Contract validation: passed")

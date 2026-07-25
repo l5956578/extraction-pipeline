@@ -31,18 +31,23 @@
   ],
   "required_artifacts": [
     {
-      "id": "scale_common_the_cefr_companion_volume_broadens_the_scope_of_language_education_it_re_european_flects_academic_and_societal_developments_since_the_noitacilbup_of_the_common_european_framework_of_reference_for_languages_cefr_and_updates_the_2001_version_it_owes_much_to_the_contributions_of_members_of_the_language_teaching_profession_across_europe_and_beyond_framework_this_volume_contains_an_explanation_of_the_key_aspects_of_the_cefr_for_teaching_and_learning_a_complete_set_of_updated_cefr_descriptors_that_replaces_the_2001_set_with_modality_inclusive_and_gender_neutral_descriptors_of_added_detail_on_listening_and_reading_reference_a_new_pre_a1_level_plus_enriched_description_at_a1_and_c_levels_a_replacement_scale_for_phonological_competence_new_scales_for_mediation_online_interaction_and_plurilingual_pluricultural_competence_for_new_scales_for_sign_language_competence_a_short_report_on_the_four_year_development_validation_and_consultation_languages_processes_the_cefr_companion_volume_represents_another_step_in_a_process_of_engage_ment_with_language_education_that_has_been_deusrup_by_the_council_of_europe_since_1971_and_which_seeks_to_learning_promote_and_support_the_learning_and_teaching_of_modern_languages_enhance_intercultural_dialogue_and_thus_mutual_understanding_social_cohesion_and_democracy_protect_linguistic_and_cultural_diversity_in_europe_and_teaching_promote_the_right_to_quality_education_for_all_assessment_022850_education_for_democracy_smerp_www_coe_int_lang_cefr_eng",
+      "id": "scale_common_the_cefr_companion_volume_broadens_the_scope_of_language_education_it_re_european_flects_academic_and_societal_developments_since_the_publication_of_the_common_european_framework_of_reference_for_languages_cefr_and_updates_the_2001_version_it_owes_much_to_the_contributions_of_members_of_the_language_teaching_profession_across_europe_and_beyond_framework_this_volume_contains_an_explanation_of_the_key_aspects_of_the_cefr_for_teaching_and_learning_a_complete_set_of_updated_cefr_descriptors_that_replaces_the_2001_set_with_modality_inclusive_and_gender_neutral_descriptors_of_added_detail_on_listening_and_reading_reference_a_new_pre_a1_level_plus_enriched_description_at_a1_and_c_levels_a_replacement_scale_for_phonological_competence_new_scales_for_mediation_online_interaction_and_plurilingual_pluricultural_competence_for_new_scales_for_sign_language_competence_a_short_report_on_the_four_year_development_validation_and_consultation_languages_processes_the_cefr_companion_volume_represents_another_step_in_a_process_of_engage_ment_with_language_education_that_has_been_deusrup_by_the_council_of_europe_since_1971_and_which_seeks_to_learning_promote_and_support_the_learning_and_teaching_of_modern_languages_enhance_intercultural_dialogue_and_thus_mutual_understanding_social_cohesion_and_democracy_protect_linguistic_and_cultural_diversity_in_europe_and_teaching_promote_the_right_to_quality_education_for_all_assessment_022850_education_for_democracy_smerp_www_coe_int_lang_cefr_eng",
       "page": 1,
       "type": "artifact"
     },
     {
-      "id": "table_01_descriptive_scheme_updates",
+      "id": "table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions",
       "page": 23,
       "type": "artifact"
     },
     {
-      "id": "table_02_summary_descriptor_changes",
+      "id": "table_table_2_summary_of_changes_to_the_illustrative_descriptors",
       "page": 24,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_what_is_addressed_in_this_publication",
+      "page": 25,
       "type": "artifact"
     }
   ],
@@ -55,6 +60,11 @@
     [
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
+      "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
       "table"
     ]
   ],
@@ -76,8 +86,8 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 172,
-      "artifact_id": "scale_common_the_cefr_companion_volume_broadens_the_scope_of_language_education_it_re_european_flects_academic_and_societal_developments_since_the_noitacilbup_of_the_common_european_framework_of_reference_for_languages_cefr_and_updates_the_2001_version_it_owes_much_to_the_contributions_of_members_of_the_language_teaching_profession_across_europe_and_beyond_framework_this_volume_contains_an_explanation_of_the_key_aspects_of_the_cefr_for_teaching_and_learning_a_complete_set_of_updated_cefr_descriptors_that_replaces_the_2001_set_with_modality_inclusive_and_gender_neutral_descriptors_of_added_detail_on_listening_and_reading_reference_a_new_pre_a1_level_plus_enriched_description_at_a1_and_c_levels_a_replacement_scale_for_phonological_competence_new_scales_for_mediation_online_interaction_and_plurilingual_pluricultural_competence_for_new_scales_for_sign_language_competence_a_short_report_on_the_four_year_development_validation_and_consultation_languages_processes_the_cefr_companion_volume_represents_another_step_in_a_process_of_engage_ment_with_language_education_that_has_been_deusrup_by_the_council_of_europe_since_1971_and_which_seeks_to_learning_promote_and_support_the_learning_and_teaching_of_modern_languages_enhance_intercultural_dialogue_and_thus_mutual_understanding_social_cohesion_and_democracy_protect_linguistic_and_cultural_diversity_in_europe_and_teaching_promote_the_right_to_quality_education_for_all_assessment_022850_education_for_democracy_smerp_www_coe_int_lang_cefr_eng",
-      "section_title": "COMMON The CEFR Companion volume broadens the scope of language education. It re- EUROPEAN flects academic and societal developments since the noitacilbup of the Common European Framework of Reference for Languages (CEFR) and updates the 2001 version. It owes much to the contributions of members of the language teaching profession across Europe and beyond. FRAMEWORK This volume contains: \u25ba an explanation of the key aspects of the CEFR for teaching and learning; \u25ba a complete set of updated CEFR descriptors that replaces the 2001 set with: -modality-inclusive and gender-neutral descriptors; OF -added detail on listening and reading; REFERENCE -a new Pre\u2013A1 level, plus enriched description at A1 and C levels; -a replacement scale for phonological competence; -new scales for mediation, online interaction and plurilingual/ pluricultural competence; FOR -new scales for sign language competence; \u25ba a short report on the four-year development, validation and consultation LANGUAGES: processes. The CEFR Companion volume represents another step in a process of engage- ment with language education that has been deusrup by the Council of Europe since 1971 and which seeks to: LEARNING, \u25ba promote and support the learning and teaching of modern languages; \u25ba enhance intercultural dialogue, and thus mutual understanding, social cohesion and democracy; \u25ba protect linguistic and cultural diversity in Europe; and TEACHING, \u25ba promote the right to quality education for all. ASSESSMENT 022850 EDUCATION FOR DEMOCRACY SMERP www.coe.int/lang-cefr ENG",
+      "artifact_id": "scale_common_the_cefr_companion_volume_broadens_the_scope_of_language_education_it_re_european_flects_academic_and_societal_developments_since_the_publication_of_the_common_european_framework_of_reference_for_languages_cefr_and_updates_the_2001_version_it_owes_much_to_the_contributions_of_members_of_the_language_teaching_profession_across_europe_and_beyond_framework_this_volume_contains_an_explanation_of_the_key_aspects_of_the_cefr_for_teaching_and_learning_a_complete_set_of_updated_cefr_descriptors_that_replaces_the_2001_set_with_modality_inclusive_and_gender_neutral_descriptors_of_added_detail_on_listening_and_reading_reference_a_new_pre_a1_level_plus_enriched_description_at_a1_and_c_levels_a_replacement_scale_for_phonological_competence_new_scales_for_mediation_online_interaction_and_plurilingual_pluricultural_competence_for_new_scales_for_sign_language_competence_a_short_report_on_the_four_year_development_validation_and_consultation_languages_processes_the_cefr_companion_volume_represents_another_step_in_a_process_of_engage_ment_with_language_education_that_has_been_deusrup_by_the_council_of_europe_since_1971_and_which_seeks_to_learning_promote_and_support_the_learning_and_teaching_of_modern_languages_enhance_intercultural_dialogue_and_thus_mutual_understanding_social_cohesion_and_democracy_protect_linguistic_and_cultural_diversity_in_europe_and_teaching_promote_the_right_to_quality_education_for_all_assessment_022850_education_for_democracy_smerp_www_coe_int_lang_cefr_eng",
+      "section_title": "COMMON The CEFR Companion volume broadens the scope of language education. It re- EUROPEAN flects academic and societal developments since the publication of the Common European Framework of Reference for Languages (CEFR) and updates the 2001 version. It owes much to the contributions of members of the language teaching profession across Europe and beyond. FRAMEWORK This volume contains: \u25ba an explanation of the key aspects of the CEFR for teaching and learning; \u25ba a complete set of updated CEFR descriptors that replaces the 2001 set with: -modality-inclusive and gender-neutral descriptors; OF -added detail on listening and reading; REFERENCE -a new Pre\u2013A1 level, plus enriched description at A1 and C levels; -a replacement scale for phonological competence; -new scales for mediation, online interaction and plurilingual/ pluricultural competence; FOR -new scales for sign language competence; \u25ba a short report on the four-year development, validation and consultation LANGUAGES: processes. The CEFR Companion volume represents another step in a process of engage- ment with language education that has been deusrup by the Council of Europe since 1971 and which seeks to: LEARNING, \u25ba promote and support the learning and teaching of modern languages; \u25ba enhance intercultural dialogue, and thus mutual understanding, social cohesion and democracy; \u25ba protect linguistic and cultural diversity in Europe; and TEACHING, \u25ba promote the right to quality education for all. ASSESSMENT 022850 EDUCATION FOR DEMOCRACY SMERP www.coe.int/lang-cefr ENG",
       "product_tier": [
         "context"
       ],
@@ -675,7 +685,7 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 380,
-      "artifact_id": "table_01_descriptive_scheme_updates",
+      "artifact_id": "table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions",
       "section_title": "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
       "product_tier": [
         "context"
@@ -694,12 +704,12 @@
             91.55916666666666
           ],
           "extractor": "prose_zone",
-          "expected_chars": 75
+          "expected_chars": 79
         },
         {
           "type": "artifact",
           "artifact_type": "table",
-          "artifact_id": "table_01_descriptive_scheme_updates",
+          "artifact_id": "table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions",
           "display_title": "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions",
           "y0": 95.55916666666666,
           "y1": 771.2327499999999,
@@ -712,6 +722,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -728,7 +740,7 @@
       "content_type": "mixed",
       "table_orientation": "normal",
       "spanning_info": {
-        "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+        "group_id": "scale_what_is_addressed_in_this_publication",
         "span_type": "continuation",
         "role": "start",
         "start_page": 24,
@@ -744,7 +756,7 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 61,
-      "artifact_id": "table_02_summary_descriptor_changes",
+      "artifact_id": "table_table_2_summary_of_changes_to_the_illustrative_descriptors",
       "section_title": "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "product_tier": [
         "context"
@@ -763,7 +775,7 @@
             169.57115
           ],
           "extractor": "prose_zone",
-          "expected_chars": 389,
+          "expected_chars": 396,
           "section_headers": [
             "1.1. SUMMARY OF CHANGES TO THE ILLUSTRATIVE DESCRIPTORS"
           ]
@@ -771,7 +783,7 @@
         {
           "type": "artifact",
           "artifact_type": "table",
-          "artifact_id": "table_02_summary_descriptor_changes",
+          "artifact_id": "table_table_2_summary_of_changes_to_the_illustrative_descriptors",
           "display_title": "Table 2 \u2013 Summary of changes to the illustrative descriptors",
           "y0": 173.57115,
           "y1": 722.65005,
@@ -784,8 +796,10 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
-            "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+            "group_id": "scale_what_is_addressed_in_this_publication",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -809,7 +823,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "normal",
       "spanning_info": {
-        "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+        "group_id": "scale_what_is_addressed_in_this_publication",
         "span_type": "continuation",
         "role": "end",
         "start_page": 24,
@@ -823,12 +837,17 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 46,
+      "artifact_id": "scale_what_is_addressed_in_this_publication",
+      "section_title": "What is addressed in this publication",
+      "product_tier": [
+        "context"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+            "group_id": "scale_what_is_addressed_in_this_publication",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -843,15 +862,15 @@
           "type": "prose",
           "role": "trailing",
           "y0": 500.64,
-          "y1": 813.8900146484375,
+          "y1": 652.297119140625,
           "bbox": [
             0,
             500.64,
             595.2760009765625,
-            813.8900146484375
+            652.297119140625
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1021
+          "expected_chars": 833
         },
         {
           "seq": 2,

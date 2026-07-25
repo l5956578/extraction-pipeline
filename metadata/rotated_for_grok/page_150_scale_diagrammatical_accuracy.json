@@ -1,0 +1,25 @@
+{
+  "slug": "page_150_scale_diagrammatical_accuracy",
+  "page": 150,
+  "span_group_id": "scale_diagrammatical_accuracy",
+  "display_title": "Diagrammatical accuracy",
+  "span_pages": [
+    150,
+    151,
+    152
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_150_scale_diagrammatical_accuracy.png",
+  "metadata_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_150_scale_diagrammatical_accuracy.json",
+  "expected_md_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_from_grok\\page_150_scale_diagrammatical_accuracy.md",
+  "handoff_path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\rotated_for_grok\\page_150_scale_diagrammatical_accuracy.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    69.87920000000003,
+    502.39695,
+    771.2326999999999
+  ]
+}
