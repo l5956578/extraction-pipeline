@@ -1,9 +1,8 @@
 {
   "chunk_id": "chunk_03",
-  "start_page": 51,
-  "end_page": 75,
+  "start_page": 52,
+  "end_page": 76,
   "expected_page_markers": [
-    51,
     52,
     53,
     54,
@@ -27,7 +26,8 @@
     72,
     73,
     74,
-    75
+    75,
+    76
   ],
   "required_artifacts": [
     {
@@ -91,12 +91,12 @@
       "type": "artifact"
     },
     {
-      "id": "scale_sustained_monologue_gnittup_a_case_e_g_in_a_debate",
+      "id": "scale_sustained_monologue_putting_a_case_e_g_in_a_debate",
       "page": 64,
       "type": "artifact"
     },
     {
-      "id": "scale_cilbup_announcements",
+      "id": "scale_public_announcements",
       "page": 65,
       "type": "artifact"
     },
@@ -149,6 +149,11 @@
       "id": "scale_informal_discussion_with_friends",
       "page": 75,
       "type": "artifact"
+    },
+    {
+      "id": "scale_formal_discussion_meetings",
+      "page": 76,
+      "type": "artifact"
     }
   ],
   "expected_tables": [
@@ -161,6 +166,11 @@
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
+      "table"
     ]
   ],
   "expected_multipage": [
@@ -168,48 +178,6 @@
     "scale_vocabulary_control"
   ],
   "pages": [
-    {
-      "page_number": 51,
-      "content_type": "multi_page_table",
-      "table_orientation": "normal",
-      "spanning_info": {
-        "group_id": "scale_understanding_as_a_member_of_a_live_audience",
-        "span_type": "continuation",
-        "role": "end",
-        "start_page": 50,
-        "end_page": 51
-      },
-      "figures": [],
-      "prose_blocks": false,
-      "text_length": 3205,
-      "min_output_chars": 256,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": true,
-      "drawings": 68,
-      "reading_order": [
-        {
-          "seq": 0,
-          "type": "span_continuation_skip",
-          "span": {
-            "group_id": "scale_understanding_as_a_member_of_a_live_audience",
-            "span_type": "continuation",
-            "role": "end",
-            "pages": [
-              50,
-              51
-            ],
-            "emit_body_on": 50
-          }
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
-        }
-      ]
-    },
     {
       "page_number": 52,
       "content_type": "mixed",
@@ -245,7 +213,7 @@
             198.38504999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 415,
+          "expected_chars": 422,
           "section_headers": [
             "3.1.1.2. Audio-visual comprehension"
           ]
@@ -266,15 +234,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 637.39425,
+          "y1": 773.6087036132812,
+          "bbox": [
+            0,
+            637.39425,
+            595.2760009765625,
+            773.6087036132812
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 371
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -316,15 +300,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 538.77915,
+          "y1": 776.2047729492188,
+          "bbox": [
+            0,
+            538.77915,
+            595.2760009765625,
+            776.2047729492188
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1359
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -361,7 +361,7 @@
             90.47694999999999
           ],
           "extractor": "prose_zone",
-          "expected_chars": 24
+          "expected_chars": 28
         },
         {
           "type": "artifact",
@@ -379,6 +379,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -396,7 +398,7 @@
             600.601
           ],
           "extractor": "prose_zone",
-          "expected_chars": 373
+          "expected_chars": 379
         },
         {
           "type": "artifact",
@@ -414,6 +416,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 1
@@ -421,8 +425,7 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -462,6 +465,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -479,7 +484,7 @@
             598.1818499999999
           ],
           "extractor": "prose_zone",
-          "expected_chars": 555
+          "expected_chars": 562
         },
         {
           "type": "artifact",
@@ -497,6 +502,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -504,8 +511,7 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -545,9 +551,26 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "interstitial",
+          "y0": 537.9171,
+          "y1": 660.93295,
+          "bbox": [
+            0,
+            537.9171,
+            595.2760009765625,
+            660.93295
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 560
         },
         {
           "type": "artifact",
@@ -565,15 +588,16 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
-          "seq": 1,
+          "seq": 2,
           "table_index": 1
         },
         {
-          "seq": 2,
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -613,6 +637,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -620,8 +646,7 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -658,7 +683,7 @@
             180.96015
           ],
           "extractor": "prose_zone",
-          "expected_chars": 464
+          "expected_chars": 470
         },
         {
           "type": "artifact",
@@ -676,15 +701,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 563.9658999999999,
+          "y1": 776.216064453125,
+          "bbox": [
+            0,
+            563.9658999999999,
+            595.2760009765625,
+            776.216064453125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 912
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -726,15 +767,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 633.7260999999999,
+          "y1": 776.2125244140625,
+          "bbox": [
+            0,
+            633.7260999999999,
+            595.2760009765625,
+            776.2125244140625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 564
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -773,7 +830,7 @@
             88.71095000000003
           ],
           "extractor": "prose_zone",
-          "expected_chars": 50,
+          "expected_chars": 53,
           "section_headers": [
             "3.2. PRODUCTION"
           ]
@@ -794,15 +851,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 678.4252,
+          "y1": 776.2156982421875,
+          "bbox": [
+            0,
+            678.4252,
+            595.2760009765625,
+            776.2156982421875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 481
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -811,7 +884,14 @@
       "content_type": "pure_text",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_12_production_activities_strategies",
+          "title": "Figure 12 \u2013 Production activities and strategies",
+          "num": 12,
+          "render_as": "text_diagram"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 1907,
       "min_output_chars": 228,
@@ -830,32 +910,22 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "prose",
-          "role": "body",
-          "y0": 68.13771057128906,
-          "y1": 505.08233642578125,
-          "bbox": [
-            0,
-            68.13771057128906,
-            595.2760009765625,
-            513.0823364257812
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_12_production_activities_strategies",
+          "figure_ids": [
+            "figure_12_production_activities_strategies"
           ],
-          "extractor": "prose_zone",
-          "expected_chars": 819,
-          "section_headers": [
-            "3.2.1. Production activities",
-            "3.2.1.1. Oral production"
+          "figures": [
+            {
+              "id": "figure_12_production_activities_strategies",
+              "title": "Figure 12 \u2013 Production activities and strategies",
+              "num": 12
+            }
           ]
         },
         {
           "seq": 1,
-          "type": "figure",
-          "extractor": "figure_ref",
-          "artifact_id": "figure_12_production_activities_strategies",
-          "display_title": "Figure 12 \u2013 Production activities and strategies"
-        },
-        {
-          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -894,7 +964,7 @@
             88.48584999999997
           ],
           "extractor": "prose_zone",
-          "expected_chars": 19
+          "expected_chars": 22
         },
         {
           "type": "artifact",
@@ -912,6 +982,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -929,7 +1001,7 @@
             522.1778999999999
           ],
           "extractor": "prose_zone",
-          "expected_chars": 936
+          "expected_chars": 941
         },
         {
           "type": "artifact",
@@ -947,6 +1019,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 1
@@ -954,8 +1028,7 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -995,6 +1068,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1012,7 +1087,7 @@
             486.08115
           ],
           "extractor": "prose_zone",
-          "expected_chars": 695
+          "expected_chars": 700
         },
         {
           "type": "artifact",
@@ -1030,6 +1105,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -1037,8 +1114,7 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1055,8 +1131,8 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 57,
-      "artifact_id": "scale_sustained_monologue_gnittup_a_case_e_g_in_a_debate",
-      "section_title": "Sustained monologue: gnittup a case (e.g. in a debate)",
+      "artifact_id": "scale_sustained_monologue_putting_a_case_e_g_in_a_debate",
+      "section_title": "Sustained monologue: putting a case (e.g. in a debate)",
       "product_tier": [
         "assessment_action",
         "detailed"
@@ -1075,13 +1151,13 @@
             249.58184999999997
           ],
           "extractor": "prose_zone",
-          "expected_chars": 760
+          "expected_chars": 766
         },
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_sustained_monologue_gnittup_a_case_e_g_in_a_debate",
-          "display_title": "Sustained monologue: gnittup a case (e.g. in a debate)",
+          "artifact_id": "scale_sustained_monologue_putting_a_case_e_g_in_a_debate",
+          "display_title": "Sustained monologue: putting a case (e.g. in a debate)",
           "y0": 253.58184999999997,
           "y1": 592.0757,
           "bbox": [
@@ -1093,21 +1169,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
-          "type": "footnote_zone",
-          "extractor": "footnote_zone",
-          "expected_chars": 124
+          "type": "prose",
+          "role": "trailing",
+          "y0": 596.0757,
+          "y1": 737.216064453125,
+          "bbox": [
+            0,
+            596.0757,
+            595.2760009765625,
+            737.216064453125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 605
         },
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1124,7 +1210,7 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 73,
-      "artifact_id": "scale_cilbup_announcements",
+      "artifact_id": "scale_public_announcements",
       "section_title": "Public announcements",
       "product_tier": [
         "assessment_action",
@@ -1134,7 +1220,7 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_cilbup_announcements",
+          "artifact_id": "scale_public_announcements",
           "display_title": "Public announcements",
           "y0": 70.65785,
           "y1": 277.8779,
@@ -1147,6 +1233,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1164,12 +1252,12 @@
             492.5122
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1042
+          "expected_chars": 1048
         },
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_cilbup_announcements",
+          "artifact_id": "scale_public_announcements",
           "display_title": "Public announcements",
           "y0": 496.5122,
           "y1": 771.23275,
@@ -1182,6 +1270,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -1189,8 +1279,7 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1232,6 +1321,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1249,7 +1340,7 @@
             434.2391
           ],
           "extractor": "prose_zone",
-          "expected_chars": 427
+          "expected_chars": 434
         },
         {
           "type": "artifact",
@@ -1267,21 +1358,16 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
         },
         {
           "seq": 3,
-          "type": "footnote_zone",
-          "extractor": "footnote_zone",
-          "expected_chars": 503
-        },
-        {
-          "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1318,7 +1404,7 @@
             254.9629
           ],
           "extractor": "prose_zone",
-          "expected_chars": 738
+          "expected_chars": 745
         },
         {
           "type": "artifact",
@@ -1336,6 +1422,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -1343,8 +1431,7 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1383,7 +1470,7 @@
             205.27884999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 555,
+          "expected_chars": 561,
           "section_headers": [
             "3.2.2. Production strategies"
           ]
@@ -1404,15 +1491,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 692.6977999999999,
+          "y1": 776.2125854492188,
+          "bbox": [
+            0,
+            692.6977999999999,
+            595.2760009765625,
+            776.2125854492188
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 411
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1449,7 +1552,7 @@
             162.96519999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 384
+          "expected_chars": 389
         },
         {
           "type": "artifact",
@@ -1467,6 +1570,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -1484,7 +1589,7 @@
             500.8272
           ],
           "extractor": "prose_zone",
-          "expected_chars": 341
+          "expected_chars": 348
         },
         {
           "type": "artifact",
@@ -1502,6 +1607,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 1
@@ -1509,8 +1616,7 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1549,7 +1655,7 @@
             187.52515
           ],
           "extractor": "prose_zone",
-          "expected_chars": 492,
+          "expected_chars": 498,
           "section_headers": [
             "3.3. INTERACTION"
           ]
@@ -1570,15 +1676,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 567.55495,
+          "y1": 776.1907958984375,
+          "bbox": [
+            0,
+            567.55495,
+            595.2760009765625,
+            776.1907958984375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 1058
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1587,7 +1709,14 @@
       "content_type": "mixed",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_13_interaction_activities_strategies",
+          "title": "Figure 13 \u2013 Interaction activities and strategies",
+          "num": 13,
+          "render_as": "text_diagram"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 1785,
       "min_output_chars": 214,
@@ -1606,32 +1735,22 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "prose",
-          "role": "body",
-          "y0": 67.52871704101562,
-          "y1": 533.2073974609375,
-          "bbox": [
-            0,
-            67.52871704101562,
-            595.2760009765625,
-            521.9718090820312
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_13_interaction_activities_strategies",
+          "figure_ids": [
+            "figure_13_interaction_activities_strategies"
           ],
-          "extractor": "prose_zone",
-          "expected_chars": 465,
-          "section_headers": [
-            "3.3.1. Interaction activities",
-            "3.3.1.1. Oral interaction"
+          "figures": [
+            {
+              "id": "figure_13_interaction_activities_strategies",
+              "title": "Figure 13 \u2013 Interaction activities and strategies",
+              "num": 13
+            }
           ]
         },
         {
           "seq": 1,
-          "type": "figure",
-          "extractor": "figure_ref",
-          "artifact_id": "figure_13_interaction_activities_strategies",
-          "display_title": "Figure 13 \u2013 Interaction activities and strategies"
-        },
-        {
-          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1670,7 +1789,7 @@
             88.51224999999994
           ],
           "extractor": "prose_zone",
-          "expected_chars": 20
+          "expected_chars": 23
         },
         {
           "type": "artifact",
@@ -1688,15 +1807,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 650.7878499999999,
+          "y1": 774.9210815429688,
+          "bbox": [
+            0,
+            650.7878499999999,
+            595.2760009765625,
+            774.9210815429688
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 538
+        },
+        {
+          "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1736,6 +1871,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1753,7 +1890,7 @@
             568.0241000000001
           ],
           "extractor": "prose_zone",
-          "expected_chars": 484
+          "expected_chars": 490
         },
         {
           "type": "artifact",
@@ -1771,6 +1908,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -1778,8 +1917,7 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1819,15 +1957,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 646.10605,
+          "y1": 776.21240234375,
+          "bbox": [
+            0,
+            646.10605,
+            595.2760009765625,
+            776.21240234375
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 598
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1867,15 +2021,95 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 645.3526,
+          "y1": 775.834716796875,
+          "bbox": [
+            0,
+            645.3526,
+            595.2760009765625,
+            775.834716796875
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 612
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 76,
+      "content_type": "mixed",
+      "table_orientation": "normal",
+      "spanning_info": null,
+      "figures": [],
+      "prose_blocks": true,
+      "text_length": 3580,
+      "min_output_chars": 429,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": false,
+      "drawings": 56,
+      "artifact_id": "scale_formal_discussion_meetings",
+      "section_title": "Formal discussion (meetings)",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "type": "artifact",
+          "artifact_type": "descriptor_scale",
+          "artifact_id": "scale_formal_discussion_meetings",
+          "display_title": "Formal discussion (meetings)",
+          "y0": 70.65785,
+          "y1": 652.25585,
+          "bbox": [
+            70.6572894736842,
+            70.65785,
+            527.1072499999999,
+            652.25585
+          ],
+          "extractor": "pdfplumber_table",
+          "rotation": 0,
+          "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
+          "span": null,
+          "seq": 0,
+          "table_index": 0
+        },
+        {
+          "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 656.25585,
+          "y1": 776.2125244140625,
+          "bbox": [
+            0,
+            656.25585,
+            595.2760009765625,
+            776.2125244140625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 553
+        },
+        {
+          "seq": 2,
+          "type": "footer",
+          "extractor": "page_footer"
         }
       ]
     }

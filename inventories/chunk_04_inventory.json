@@ -1,9 +1,8 @@
 {
   "chunk_id": "chunk_04",
-  "start_page": 76,
-  "end_page": 100,
+  "start_page": 77,
+  "end_page": 101,
   "expected_page_markers": [
-    76,
     77,
     78,
     79,
@@ -27,14 +26,10 @@
     97,
     98,
     99,
-    100
+    100,
+    101
   ],
   "required_artifacts": [
-    {
-      "id": "scale_formal_discussion_meetings",
-      "page": 76,
-      "type": "artifact"
-    },
     {
       "id": "scale_goal_oriented_co_operation_cooking_together_discussing_a_document_organising_an_event_etc",
       "page": 77,
@@ -76,6 +71,16 @@
       "type": "artifact"
     },
     {
+      "id": "scale_online_conversation_and_discussion",
+      "page": 85,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_online_conversation_and_discussion",
+      "page": 86,
+      "type": "artifact"
+    },
+    {
       "id": "scale_goal_oriented_online_transactions_and_collaboration",
       "page": 87,
       "type": "artifact"
@@ -96,8 +101,43 @@
       "type": "artifact"
     },
     {
-      "id": "scale_cte_smargaid_shparg_ni_atad_explaining",
+      "id": "scale_overall_mediation",
+      "page": 91,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_overall_mediation",
+      "page": 92,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_relaying_specific_information",
+      "page": 94,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_relaying_specific_information",
+      "page": 95,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_explaining_data_in_graphs_diagrams_etc",
       "page": 97,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_processing_text",
+      "page": 99,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_processing_text",
+      "page": 100,
+      "type": "artifact"
+    },
+    {
+      "id": "scale_processing_text",
+      "page": 101,
       "type": "artifact"
     }
   ],
@@ -111,6 +151,11 @@
       "table_02_summary_descriptor_changes",
       "Table 2 \u2013 Summary of changes to the illustrative descriptors",
       "table"
+    ],
+    [
+      "table_03_macro_functional_basis",
+      "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities",
+      "table"
     ]
   ],
   "expected_multipage": [
@@ -118,54 +163,6 @@
     "scale_vocabulary_control"
   ],
   "pages": [
-    {
-      "page_number": 76,
-      "content_type": "mixed",
-      "table_orientation": "normal",
-      "spanning_info": null,
-      "figures": [],
-      "prose_blocks": true,
-      "text_length": 3580,
-      "min_output_chars": 429,
-      "section_headers": [],
-      "expects_table": true,
-      "skip_validation": false,
-      "drawings": 56,
-      "artifact_id": "scale_formal_discussion_meetings",
-      "section_title": "Formal discussion (meetings)",
-      "product_tier": [
-        "assessment_action",
-        "detailed"
-      ],
-      "reading_order": [
-        {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_formal_discussion_meetings",
-          "display_title": "Formal discussion (meetings)",
-          "y0": 70.65785,
-          "y1": 652.25585,
-          "bbox": [
-            70.6572894736842,
-            70.65785,
-            527.1072499999999,
-            652.25585
-          ],
-          "extractor": "pdfplumber_table",
-          "rotation": 0,
-          "text_direction": "normal",
-          "span": null,
-          "seq": 0,
-          "table_index": 0
-        },
-        {
-          "seq": 1,
-          "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
-        }
-      ]
-    },
     {
       "page_number": 77,
       "content_type": "mixed",
@@ -202,15 +199,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 628.3721,
+          "y1": 776.2188720703125,
+          "bbox": [
+            0,
+            628.3721,
+            595.2760009765625,
+            776.2188720703125
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 607
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -250,15 +263,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 643.68295,
+          "y1": 776.2125244140625,
+          "bbox": [
+            0,
+            643.68295,
+            595.2760009765625,
+            776.2125244140625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 517
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -298,6 +327,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -305,8 +336,7 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -343,7 +373,7 @@
             239.04180000000002
           ],
           "extractor": "prose_zone",
-          "expected_chars": 784
+          "expected_chars": 790
         },
         {
           "type": "artifact",
@@ -361,6 +391,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -368,8 +400,7 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -408,7 +439,7 @@
             187.49779999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 487,
+          "expected_chars": 493,
           "section_headers": [
             "3.3.1.2. Written interaction"
           ]
@@ -429,21 +460,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
         },
         {
           "seq": 2,
-          "type": "footnote_zone",
-          "extractor": "footnote_zone",
-          "expected_chars": 601
+          "type": "prose",
+          "role": "trailing",
+          "y0": 622.76915,
+          "y1": 697.4840087890625,
+          "bbox": [
+            0,
+            622.76915,
+            595.2760009765625,
+            697.4840087890625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 308
         },
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -480,7 +521,7 @@
             176.10784999999998
           ],
           "extractor": "prose_zone",
-          "expected_chars": 410
+          "expected_chars": 413
         },
         {
           "type": "artifact",
@@ -498,6 +539,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -515,7 +558,7 @@
             524.9318499999999
           ],
           "extractor": "prose_zone",
-          "expected_chars": 455
+          "expected_chars": 460
         },
         {
           "type": "artifact",
@@ -533,6 +576,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 1
@@ -540,8 +585,7 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -581,15 +625,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 642.11005,
+          "y1": 776.2108764648438,
+          "bbox": [
+            0,
+            642.11005,
+            595.2760009765625,
+            776.2108764648438
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 545
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -631,6 +691,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -640,21 +702,20 @@
           "type": "prose",
           "role": "trailing",
           "y0": 420.1864,
-          "y1": 813.8900146484375,
+          "y1": 779.0610961914062,
           "bbox": [
             0,
             420.1864,
             595.2760009765625,
-            813.8900146484375
+            779.0610961914062
           ],
           "extractor": "prose_zone",
-          "expected_chars": 1513
+          "expected_chars": 1500
         },
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -677,6 +738,12 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 43,
+      "artifact_id": "scale_online_conversation_and_discussion",
+      "section_title": "Online conversation and discussion",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -709,6 +776,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_online_conversation_and_discussion",
             "span_type": "continuation",
@@ -725,8 +794,7 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -749,6 +817,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 43,
+      "artifact_id": "scale_online_conversation_and_discussion",
+      "section_title": "Online conversation and discussion",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -767,8 +841,7 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -810,15 +883,31 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 611.1021000000001,
+          "y1": 776.20947265625,
+          "bbox": [
+            0,
+            611.1021000000001,
+            595.2760009765625,
+            776.20947265625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 946
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -855,7 +944,7 @@
             179.36609999999996
           ],
           "extractor": "prose_zone",
-          "expected_chars": 404
+          "expected_chars": 409
         },
         {
           "type": "artifact",
@@ -873,6 +962,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 1,
           "table_index": 0
@@ -890,7 +981,7 @@
             638.1972499999999
           ],
           "extractor": "prose_zone",
-          "expected_chars": 496
+          "expected_chars": 506
         },
         {
           "type": "artifact",
@@ -908,6 +999,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 3,
           "table_index": 1
@@ -915,8 +1008,7 @@
         {
           "seq": 4,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -956,6 +1048,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -973,7 +1067,7 @@
             409.9651
           ],
           "extractor": "prose_zone",
-          "expected_chars": 360
+          "expected_chars": 366
         },
         {
           "type": "artifact",
@@ -991,6 +1085,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": null,
           "seq": 2,
           "table_index": 1
@@ -998,8 +1094,7 @@
         {
           "seq": 3,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1008,7 +1103,14 @@
       "content_type": "mixed",
       "table_orientation": "normal",
       "spanning_info": null,
-      "figures": [],
+      "figures": [
+        {
+          "id": "figure_14_mediation_activities_strategies",
+          "title": "Figure 14 \u2013 Mediation activities and strategies",
+          "num": 14,
+          "render_as": "text_diagram"
+        }
+      ],
       "prose_blocks": true,
       "text_length": 2006,
       "min_output_chars": 240,
@@ -1026,31 +1128,22 @@
       "reading_order": [
         {
           "seq": 0,
-          "type": "prose",
-          "role": "body",
-          "y0": 68.94334411621094,
-          "y1": 533.2470703125,
-          "bbox": [
-            0,
-            68.94334411621094,
-            595.2760009765625,
-            521.9718090820312
+          "type": "figure_page",
+          "extractor": "rich_page",
+          "artifact_id": "figure_14_mediation_activities_strategies",
+          "figure_ids": [
+            "figure_14_mediation_activities_strategies"
           ],
-          "extractor": "prose_zone",
-          "expected_chars": 1360,
-          "section_headers": [
-            "3.4. MEDIATION"
+          "figures": [
+            {
+              "id": "figure_14_mediation_activities_strategies",
+              "title": "Figure 14 \u2013 Mediation activities and strategies",
+              "num": 14
+            }
           ]
         },
         {
           "seq": 1,
-          "type": "figure",
-          "extractor": "figure_ref",
-          "artifact_id": "figure_14_mediation_activities_strategies",
-          "display_title": "Figure 14 \u2013 Mediation activities and strategies"
-        },
-        {
-          "seq": 2,
           "type": "footer",
           "extractor": "page_footer"
         }
@@ -1077,6 +1170,12 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 20,
+      "artifact_id": "scale_overall_mediation",
+      "section_title": "Overall mediation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -1091,7 +1190,7 @@
             588.201
           ],
           "extractor": "prose_zone",
-          "expected_chars": 2853,
+          "expected_chars": 2860,
           "section_headers": [
             "3.4.1. Mediation activities"
           ]
@@ -1112,6 +1211,8 @@
           "extractor": "pdfplumber_table",
           "rotation": 0,
           "text_direction": "normal",
+          "rotated_extraction_method": "normal",
+          "extraction_passes": [],
           "span": {
             "group_id": "scale_overall_mediation",
             "span_type": "continuation",
@@ -1128,8 +1229,7 @@
         {
           "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1154,6 +1254,12 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 46,
+      "artifact_id": "scale_overall_mediation",
+      "section_title": "Overall mediation",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
@@ -1171,9 +1277,23 @@
         },
         {
           "seq": 1,
+          "type": "prose",
+          "role": "trailing",
+          "y0": 600.2521,
+          "y1": 776.2125244140625,
+          "bbox": [
+            0,
+            600.2521,
+            595.2760009765625,
+            776.2125244140625
+          ],
+          "extractor": "prose_zone",
+          "expected_chars": 901
+        },
+        {
+          "seq": 2,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1209,7 +1329,7 @@
       "content_type": "mixed",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_relaying_cfiiceps_information",
+        "group_id": "scale_relaying_specific_information",
         "span_type": "continuation",
         "role": "start",
         "start_page": 94,
@@ -1223,12 +1343,18 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 52,
+      "artifact_id": "scale_relaying_specific_information",
+      "section_title": "Relaying specific information",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_relaying_cfiiceps_information",
-          "display_title": "Relaying cfiiceps information",
+          "artifact_id": "scale_relaying_specific_information",
+          "display_title": "Relaying specific information",
           "y0": 70.07919999999996,
           "y1": 771.2327083333333,
           "bbox": [
@@ -1240,8 +1366,14 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
-            "group_id": "scale_relaying_cfiiceps_information",
+            "group_id": "scale_relaying_specific_information",
             "span_type": "continuation",
             "role": "start",
             "pages": [
@@ -1255,9 +1387,20 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            70.07919999999996,
+            526.9290500000001,
+            771.2327083333333
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer",
-          "skip_footnotes": false
+          "skip_footnotes": true
         }
       ]
     },
@@ -1266,7 +1409,7 @@
       "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
-        "group_id": "scale_relaying_cfiiceps_information",
+        "group_id": "scale_relaying_specific_information",
         "span_type": "continuation",
         "role": "end",
         "start_page": 94,
@@ -1280,12 +1423,18 @@
       "expects_table": true,
       "skip_validation": true,
       "drawings": 46,
+      "artifact_id": "scale_relaying_specific_information",
+      "section_title": "Relaying specific information",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "seq": 0,
           "type": "span_continuation_skip",
           "span": {
-            "group_id": "scale_relaying_cfiiceps_information",
+            "group_id": "scale_relaying_specific_information",
             "span_type": "continuation",
             "role": "end",
             "pages": [
@@ -1298,8 +1447,7 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": true
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1343,8 +1491,8 @@
       "expects_table": false,
       "skip_validation": false,
       "drawings": 79,
-      "artifact_id": "scale_cte_smargaid_shparg_ni_atad_explaining",
-      "section_title": ").cte ,smargaid ,shparg ni( atad Explaining",
+      "artifact_id": "scale_explaining_data_in_graphs_diagrams_etc",
+      "section_title": "Explaining data in graphs, diagrams (etc.)",
       "product_tier": [
         "assessment_action",
         "detailed"
@@ -1353,8 +1501,8 @@
         {
           "type": "artifact",
           "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_cte_smargaid_shparg_ni_atad_explaining",
-          "display_title": ").cte ,smargaid ,shparg ni( atad Explaining",
+          "artifact_id": "scale_explaining_data_in_graphs_diagrams_etc",
+          "display_title": "Explaining data in graphs, diagrams (etc.)",
           "y0": 69.72920952380952,
           "y1": 771.2327105263158,
           "bbox": [
@@ -1366,6 +1514,12 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": null,
           "seq": 0,
           "table_index": 0
@@ -1373,8 +1527,7 @@
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
         }
       ]
     },
@@ -1414,7 +1567,7 @@
         "span_type": "continuation",
         "role": "start",
         "start_page": 99,
-        "end_page": 100
+        "end_page": 101
       },
       "figures": [],
       "prose_blocks": true,
@@ -1424,6 +1577,12 @@
       "expects_table": true,
       "skip_validation": false,
       "drawings": 40,
+      "artifact_id": "scale_processing_text",
+      "section_title": "Processing text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
           "type": "artifact",
@@ -1441,13 +1600,20 @@
           "extractor": "rotated_table",
           "rotation": 90,
           "text_direction": "ocr",
+          "rotated_extraction_method": "grok_vision",
+          "extraction_passes": [
+            "grok_vision_prepare",
+            "agent_vision_correct",
+            "grok_vision_assemble"
+          ],
           "span": {
             "group_id": "scale_processing_text",
             "span_type": "continuation",
             "role": "start",
             "pages": [
               99,
-              100
+              100,
+              101
             ],
             "emit_body_on": 99
           },
@@ -1456,66 +1622,116 @@
         },
         {
           "seq": 1,
+          "type": "footnote_zone",
+          "extractor": "rotated_footnote_zone",
+          "table_bbox": [
+            70.65729999999999,
+            69.87920000000003,
+            521.48195,
+            771.2327222222222
+          ]
+        },
+        {
+          "seq": 2,
           "type": "footer",
           "extractor": "page_footer",
-          "skip_footnotes": false
+          "skip_footnotes": true
         }
       ]
     },
     {
       "page_number": 100,
-      "content_type": "mixed",
+      "content_type": "multi_page_table",
       "table_orientation": "rotated_90",
       "spanning_info": {
         "group_id": "scale_processing_text",
         "span_type": "continuation",
-        "role": "start",
-        "start_page": 100,
+        "role": "middle",
+        "start_page": 99,
         "end_page": 101
       },
       "figures": [],
-      "prose_blocks": true,
+      "prose_blocks": false,
       "text_length": 1781,
-      "min_output_chars": 213,
+      "min_output_chars": 142,
       "section_headers": [],
       "expects_table": true,
-      "skip_validation": false,
+      "skip_validation": true,
       "drawings": 32,
+      "artifact_id": "scale_processing_text",
+      "section_title": "Processing text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
       "reading_order": [
         {
-          "type": "artifact",
-          "artifact_type": "descriptor_scale",
-          "artifact_id": "scale_processing_text",
-          "display_title": "Processing text",
-          "y0": 69.87920000000003,
-          "y1": 771.2327142857142,
-          "bbox": [
-            70.65729999999999,
-            69.87920000000003,
-            508.59005,
-            771.2327142857142
-          ],
-          "extractor": "rotated_table",
-          "rotation": 90,
-          "text_direction": "ocr",
+          "seq": 0,
+          "type": "span_continuation_skip",
           "span": {
             "group_id": "scale_processing_text",
             "span_type": "continuation",
-            "role": "start",
+            "role": "middle",
             "pages": [
+              99,
               100,
               101
             ],
-            "emit_body_on": 100
-          },
-          "seq": 0,
-          "table_index": 0
+            "emit_body_on": 99
+          }
         },
         {
           "seq": 1,
           "type": "footer",
-          "extractor": "page_footer",
-          "skip_footnotes": false
+          "extractor": "page_footer"
+        }
+      ]
+    },
+    {
+      "page_number": 101,
+      "content_type": "multi_page_table",
+      "table_orientation": "rotated_90",
+      "spanning_info": {
+        "group_id": "scale_processing_text",
+        "span_type": "continuation",
+        "role": "end",
+        "start_page": 99,
+        "end_page": 101
+      },
+      "figures": [],
+      "prose_blocks": false,
+      "text_length": 3316,
+      "min_output_chars": 265,
+      "section_headers": [],
+      "expects_table": true,
+      "skip_validation": true,
+      "drawings": 53,
+      "artifact_id": "scale_processing_text",
+      "section_title": "Processing text",
+      "product_tier": [
+        "assessment_action",
+        "detailed"
+      ],
+      "reading_order": [
+        {
+          "seq": 0,
+          "type": "span_continuation_skip",
+          "span": {
+            "group_id": "scale_processing_text",
+            "span_type": "continuation",
+            "role": "end",
+            "pages": [
+              99,
+              100,
+              101
+            ],
+            "emit_body_on": 99
+          }
+        },
+        {
+          "seq": 1,
+          "type": "footer",
+          "extractor": "page_footer"
         }
       ]
     }

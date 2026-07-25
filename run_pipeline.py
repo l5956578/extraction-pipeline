@@ -18,6 +18,7 @@ from pipeline.span_detector import detect_spans, save_spans
 from pipeline.validators import validate_all
 from pipeline.config import CLEANED_DIR, RAW_DIR, METADATA_DIR
 from pipeline.post_process import run_post_process
+from pipeline.extractors.rotated_grok_vision import prepare_all_rotated_from_inventories
 
 
 def step_spans():
@@ -70,14 +71,23 @@ def step_postprocess():
     print(f"  {result['input_lines']} -> {result['output_lines']} lines")
 
 
+def step_prepare_rotated():
+    """Crop rotated table PNGs for agent vision handoff (does not extract text)."""
+    prepared = prepare_all_rotated_from_inventories()
+    print(f"Prepare rotated: {len(prepared)} table page(s) → metadata/rotated_for_grok/")
+    print("Next: agent re-reads PNGs with vision → metadata/rotated_from_grok/ → finalize_after_grok.py")
+
+
 def write_docs():
     report_path = METADATA_DIR / "cleanup_report.md"
     report_path.write_text(
         "# Cleanup Report\n\n"
         "Rule-based cleanup applied: hyphenation fixes, ligature removal, "
         "duplicate line removal, reversed-fragment correction.\n\n"
-        "Rotated pages (Appendix 5, self-assessment grid) processed via "
-        "auto-rotation OCR with Tesseract.\n\n"
+        "Rotated descriptor tables: agent vision handoff "
+        "(`metadata/rotated_for_grok/` + `rotated_from_grok/`; see "
+        "`ROTATED_TABLES_AGENT_VISION.md`). Footnotes on rotated pages use "
+        "geometry surgical path. OCR remains fallback only.\n\n"
         "Continuation merges applied for:\n"
         "- `scale_vocabulary_control` (pages 132-133)\n"
         "- `table_self_assessment_grid` (pages 177-181)\n"
@@ -135,7 +145,7 @@ def main():
         "--step",
         choices=[
             "all", "spans", "chunks", "inventory", "extract", "cleanup", "validate",
-            "merge", "figures", "postprocess", "docs",
+            "merge", "figures", "postprocess", "docs", "prepare_rotated",
         ],
         default="all",
     )
@@ -152,6 +162,7 @@ def main():
         "figures": step_figures,
         "postprocess": step_postprocess,
         "docs": write_docs,
+        "prepare_rotated": step_prepare_rotated,
     }
 
     if args.step == "all":

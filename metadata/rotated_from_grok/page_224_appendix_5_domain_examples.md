@@ -1,0 +1,7 @@
+| Level | Analysis and criticism of creative texts (including literature) | Personal | Public | Occupational | Educational |
+|-------|----------------------------------------------------------------|----------|--------|--------------|-------------|
+| B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | [not applicable] | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework |
+|  | Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. | [not applicable] | [not applicable] |  |  |
+| A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. |  |  |  | a simple story, fairy/folk tale or poem read in class |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |

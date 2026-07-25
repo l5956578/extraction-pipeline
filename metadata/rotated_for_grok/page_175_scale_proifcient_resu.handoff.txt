@@ -1,0 +1,12 @@
+Page: 175
+Span: scale_proifcient_resu (pages 175)
+Title: Proifcient resu
+Role: start
+Rotation: 90
+Slug: page_175_scale_proifcient_resu
+PNG: metadata/rotated_for_grok/page_175_scale_proifcient_resu.png
+Write markdown: metadata/rotated_from_grok/page_175_scale_proifcient_resu.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

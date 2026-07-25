@@ -1,0 +1,12 @@
+Page: 94
+Span: scale_relaying_specific_information (pages 94-95)
+Title: Relaying specific information
+Role: start
+Rotation: 90
+Slug: page_094_scale_relaying_cfiiceps_information
+PNG: metadata/rotated_for_grok/page_094_scale_relaying_cfiiceps_information.png
+Write markdown: metadata/rotated_from_grok/page_094_scale_relaying_cfiiceps_information.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

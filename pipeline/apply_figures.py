@@ -11,44 +11,87 @@ import fitz
 from pipeline.config import FINAL_DIR, PDF_PATH, METADATA_DIR
 from pipeline.extractors.figures import crop_figure_png, extract_figure_04_embedded, load_figures_registry
 from pipeline.figure_inject import inject_png_figure, inject_text_diagram
+from pipeline.figure_multipass_crop import VERIFIED_CROPS, apply_verified_crops
 from pipeline.figures_catalog import FIGURE_CONTENT, figure_block
 from pipeline.toc_zone import strip_toc_figure_artifacts, toc_bounds
 
 
 def _ensure_png_assets() -> dict[str, str]:
+    """Crop PNG figures using multipass-verified registry boxes (C2-F3).
+
+    Prefer ``VERIFIED_CROPS`` (geometry + agent visual loop). Figs with
+    ``render_as != png`` are skipped.
+    """
+    try:
+        apply_verified_crops(scale=3.0, write_registry=True)
+    except Exception:  # noqa: BLE001
+        pass
+
     doc = fitz.open(PDF_PATH)
     assets: dict[str, str] = {}
     for fig in load_figures_registry():
         if fig.get("render_as") != "png":
             continue
         page = doc[fig["page"] - 1]
-        if fig["id"] == "figure_04_rainbow":
-            path = extract_figure_04_embedded(page)
+        fid = fig["id"]
+        if fid in VERIFIED_CROPS:
+            fig = {**fig, "crop": VERIFIED_CROPS[fid]}
+        if fid == "figure_04_rainbow":
+            path = crop_figure_png(page, fig, scale=3.0)
+            if not path:
+                path = extract_figure_04_embedded(page)
         else:
-            path = crop_figure_png(page, fig)
+            path = crop_figure_png(page, fig, scale=3.0)
         if path:
-            assets[fig["id"]] = path
+            assets[fid] = path
     doc.close()
     return assets
+
+
+def _replace_png_body_with_table(text: str, fid: str, block: str) -> str:
+    """Swap legacy PNG inject for fig 9/10 table bodies (log 04 #8 / log 06)."""
+    # Match db:id header through optional ### line and image markdown
+    pat = re.compile(
+        rf"(<!--\s*db:id={re.escape(fid)}\s+type=figure[^>]*-->)\s*\n"
+        rf"(###[^\n]+\n)?"
+        rf"(?:\s*!\[[^\]]*\]\([^)]+\)\s*\n)?",
+        re.I,
+    )
+    if pat.search(text):
+        # Rebuild clean block from catalog
+        return pat.sub(block.rstrip() + "\n\n", text, count=1)
+    return text
 
 
 def apply_figures_to_markdown(md_path: Path) -> dict:
     text = md_path.read_text(encoding="utf-8")
     text = strip_toc_figure_artifacts(text)
-    text = re.sub(r"!\[[^\]]*\]\(assets/figures/figure_\d+[^)]+\)\n?", "", text)
-    for fid in FIGURE_CONTENT:
-        text = re.sub(
-            rf"<!-- db:id={re.escape(fid)}[^>]*-->\s*###[^\n]+\n(?:```[\s\S]*?```\s*)?",
-            "",
-            text,
-        )
+    # Drop orphan PNG image lines not near a figure db:id (legacy EOF dumps).
+    cleaned_lines: list[str] = []
+    recent_countdown = 0
+    for line in text.splitlines():
+        if re.search(r"<!--\s*db:id=figure_\d+", line):
+            recent_countdown = 10
+            cleaned_lines.append(line)
+            continue
+        if re.match(r"!\[[^\]]*\]\(assets/figures/figure_", line):
+            if recent_countdown > 0:
+                cleaned_lines.append(line)
+            # else drop orphan
+            if recent_countdown > 0:
+                recent_countdown -= 1
+            continue
+        if recent_countdown > 0:
+            recent_countdown -= 1
+        cleaned_lines.append(line)
+    text = "\n".join(cleaned_lines)
 
     assets = _ensure_png_assets()
     registry = {f["id"]: f for f in load_figures_registry()}
     lines = text.splitlines()
     bounds = toc_bounds(lines)
 
-    for fig in sorted(load_figures_registry(), key=lambda f: f["page"]):
+    for fig in sorted(load_figures_registry(), key=lambda f: (f["page"], f["num"])):
         fid = fig["id"]
         header = fig["title"]
         page = str(fig["page"])
@@ -61,6 +104,11 @@ def apply_figures_to_markdown(md_path: Path) -> dict:
         elif render_as in ("text_diagram", "mermaid") and fid in FIGURE_CONTENT:
             block = figure_block(fid)
             text = inject_text_diagram(text, header, block, bounds)
+
+    # Final pass: replace-not-layer (C2-ADJ) — clear dual-emitted figure garbage.
+    from pipeline.figure_inject import strip_garbage_under_figure_images
+
+    text = strip_garbage_under_figure_images(text)
 
     md_path.write_text(text, encoding="utf-8")
     return {"path": str(md_path), "png_assets": len(assets), "figures": len(registry)}

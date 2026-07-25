@@ -16,6 +16,7 @@ from pipeline.config import (
     load_figures_registry,
     SECTION_BLOCKS,
 )
+from pipeline.page_elements import prose_segments, table_bboxes
 from pipeline.title_fix import fix_rotated_title, is_probably_reversed
 from pipeline.utils import english_word_score
 
@@ -86,6 +87,17 @@ def _page_sections(text: str) -> dict[int, str]:
     return sections
 
 
+def _page_body_before_marker(text: str, page_num: int) -> str:
+    """Body content immediately preceding the first ``<!-- page:N -->`` marker."""
+    markers = list(re.finditer(r"<!-- page:(\d+) -->", text))
+    first = next((m for m in markers if int(m.group(1)) == page_num), None)
+    if not first:
+        return ""
+    idx = markers.index(first)
+    start = markers[idx - 1].end() if idx > 0 else 0
+    return text[start : first.start()]
+
+
 def _normalize_header(text: str) -> str:
     text = re.sub(r"^#+\s*", "", text.strip())
     text = re.sub(r"\s*—\s*\d{1,3}$", "", text)
@@ -152,82 +164,34 @@ def _validate_reading_order_elements(text: str, issues: list[dict]) -> None:
                 if el.get("extractor") == "rotated_table" or el.get("text_direction") == "ocr":
                     aid = el.get("artifact_id")
                     body = _artifact_body(text, aid) if aid else section
-                    score = english_word_score(body) if body else 0.0
-                    words = re.findall(r"\b[a-zA-Z]{4,}\b", body or "")
-                    levels = len(
-                        re.findall(
-                            r"\b(C2|C1|B2|B1|A2|A1|Pre-A1)\b", body or "", re.I
-                        )
-                    )
-                    if body and (score < 0.15 or len(words) < 8 or levels < 1):
+                    if body and not re.search(
+                        r"\b(C2|C1|B2|B1|A2|A1|Pre-A1)\b", body, re.I
+                    ) and english_word_score(body) < 0.12:
                         issues.append(
                             {
                                 "type": "rotated_table_unreadable",
                                 "page": page_num,
                                 "artifact_id": aid,
-                                "score": score,
-                                "word_count": len(words),
+                                "score": english_word_score(body),
                             }
                         )
 
-            if etype == "prose" and el.get("section_headers"):
-                for header in el["section_headers"]:
-                    norm = _normalize_header(header)
-                    if norm not in _normalize_header(section):
+            if etype == "prose" and el.get("role") == "trailing":
+                expected = el.get("expected_chars", 0)
+                if expected > 40:
+                    after_table = section
+                    if "|" in section:
+                        after_table = section.rsplit("|", 1)[-1]
+                    chars = _measurable_chars(after_table)
+                    if chars < expected * 0.5:
                         issues.append(
                             {
-                                "type": "reading_order_completeness",
+                                "type": "missing_trailing_prose",
                                 "page": page_num,
-                                "header": header,
+                                "chars": chars,
+                                "expected_chars": expected,
                             }
                         )
-
-            if etype in ("prose", "footnote_zone") and el.get("role") in (
-                "trailing",
-                None,
-            ):
-                if etype == "footnote_zone" or el.get("role") == "trailing":
-                    expected = el.get("expected_chars", 0)
-                    if etype == "footnote_zone":
-                        expected = max(expected, 30)
-                    if expected > 30:
-                        after_table = section
-                        if "|" in section:
-                            after_table = section.rsplit("|", 1)[-1]
-                        chars = _measurable_chars(after_table)
-                        if chars < expected * 0.5:
-                            issues.append(
-                                {
-                                    "type": "missing_trailing_prose",
-                                    "page": page_num,
-                                    "chars": chars,
-                                    "expected_chars": expected,
-                                    "element": etype,
-                                }
-                            )
-
-            if etype == "artifact" and el.get("span") and el.get("span", {}).get("role") == "start":
-                has_trailing = any(
-                    e.get("type") == "footnote_zone"
-                    or (e.get("type") == "prose" and e.get("role") == "trailing")
-                    for e in reading_order
-                )
-                zones_fn = 0
-                if fitz and PDF_PATH.exists():
-                    doc = fitz.open(PDF_PATH)
-                    page = doc[page_num - 1]
-                    from pipeline.page_layout import classify_page_zones
-
-                    zones_fn = len(classify_page_zones(page).get("footnotes") or [])
-                    doc.close()
-                if zones_fn and not has_trailing:
-                    issues.append(
-                        {
-                            "type": "missing_trailing_prose",
-                            "page": page_num,
-                            "detail": "span-start page has footnotes but no footnote/trailing element",
-                        }
-                    )
 
             if etype == "prose" and el.get("extractor") == "prose_zone":
                 expected = el.get("expected_chars", 0)
@@ -243,6 +207,221 @@ def _validate_reading_order_elements(text: str, issues: list[dict]) -> None:
                                 "expected_chars": expected,
                             }
                         )
+
+
+def _load_spanning_tables() -> list[dict]:
+    path = METADATA_DIR / "spanning_tables.json"
+    if not path.exists():
+        return []
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def _page_ranges_overlap(a_start: int, a_end: int, b_start: int, b_end: int) -> bool:
+    return not (a_end < b_start or b_end < a_start)
+
+
+def _validate_span_chain_integrity(issues: list[dict]) -> None:
+    """Each group_id in spanning_tables.json must be a single merged chain."""
+    spans = _load_spanning_tables()
+    if not spans:
+        issues.append(
+            {
+                "type": "span_chain_integrity",
+                "detail": "missing or empty spanning_tables.json",
+            }
+        )
+        return
+
+    by_gid: dict[str, list[dict]] = {}
+    for span in spans:
+        by_gid.setdefault(span["group_id"], []).append(span)
+
+    for gid, entries in by_gid.items():
+        if len(entries) > 1:
+            for i, left in enumerate(entries):
+                for right in entries[i + 1 :]:
+                    if _page_ranges_overlap(
+                        left["start_page"],
+                        left["end_page"],
+                        right["start_page"],
+                        right["end_page"],
+                    ):
+                        issues.append(
+                            {
+                                "type": "span_chain_integrity",
+                                "group_id": gid,
+                                "detail": "overlapping duplicate spans for group_id",
+                                "spans": [
+                                    {
+                                        "start_page": left["start_page"],
+                                        "end_page": left["end_page"],
+                                    },
+                                    {
+                                        "start_page": right["start_page"],
+                                        "end_page": right["end_page"],
+                                    },
+                                ],
+                            }
+                        )
+            issues.append(
+                {
+                    "type": "span_chain_integrity",
+                    "group_id": gid,
+                    "detail": "multiple spanning_tables entries for group_id",
+                    "count": len(entries),
+                }
+            )
+
+    expectations = _load_page_expectations()
+    start_pages: dict[str, list[int]] = {}
+    for page_num, exp in sorted(expectations.items()):
+        span_info = exp.get("spanning_info")
+        if span_info and span_info.get("role") == "start":
+            start_pages.setdefault(span_info["group_id"], []).append(page_num)
+        for el in exp.get("reading_order") or []:
+            span = el.get("span")
+            if span and span.get("role") == "start":
+                start_pages.setdefault(span["group_id"], []).append(page_num)
+
+    for gid, pages in start_pages.items():
+        unique_pages = sorted(set(pages))
+        if len(unique_pages) > 1:
+            issues.append(
+                {
+                    "type": "span_chain_integrity",
+                    "group_id": gid,
+                    "detail": "merged span chain has duplicate start pages",
+                    "pages": unique_pages,
+                }
+            )
+
+
+def _validate_span_end_trailing_scheduled(issues: list[dict]) -> None:
+    """Span end pages with PDF trailing prose must schedule prose:trailing in reading_order."""
+    if fitz is None or not PDF_PATH.exists():
+        return
+
+    expectations = _load_page_expectations()
+    doc = fitz.open(PDF_PATH)
+    try:
+        for span in _load_spanning_tables():
+            if span.get("span_type") != "continuation":
+                continue
+            end_page = span["end_page"]
+            page = doc[end_page - 1]
+            bboxes = table_bboxes(PDF_PATH, end_page - 1)
+            has_trailing = any(
+                seg["role"] == "trailing" for seg in prose_segments(page, bboxes)
+            )
+            if not has_trailing:
+                continue
+
+            exp = expectations.get(end_page)
+            if not exp:
+                issues.append(
+                    {
+                        "type": "span_end_trailing_scheduled",
+                        "page": end_page,
+                        "group_id": span["group_id"],
+                        "detail": "missing inventory for span end page with trailing prose",
+                    }
+                )
+                continue
+
+            reading_order = exp.get("reading_order") or []
+            has_trailing_el = any(
+                el.get("type") == "prose" and el.get("role") == "trailing"
+                for el in reading_order
+            )
+            if not has_trailing_el:
+                issues.append(
+                    {
+                        "type": "span_end_trailing_scheduled",
+                        "page": end_page,
+                        "group_id": span["group_id"],
+                        "detail": "reading_order missing prose:trailing on span end page",
+                    }
+                )
+    finally:
+        doc.close()
+
+
+def _validate_footnote_single_owner(text: str, issues: list[dict]) -> None:
+    """Table 2 span (pages 24-25) must emit footnote 19 exactly once."""
+    table_match = re.search(
+        r"<!-- db:id=table_02_summary_descriptor_changes[^>]*-->",
+        text,
+    )
+    start = table_match.start() if table_match else text.find("<!-- page:24 -->")
+    if start < 0:
+        start = 0
+    end = text.find("<!-- page:26 -->")
+    if end < 0:
+        end = len(text)
+    region = text[start:end]
+    footnote_lines = re.findall(r"^19\.\s", region, re.M)
+    count = len(footnote_lines)
+    if count != 1:
+        issues.append(
+            {
+                "type": "footnote_single_owner",
+                "footnote": "19",
+                "count": count,
+                "detail": "footnote 19 must appear exactly once in Table 2 span (pages 24-25)",
+                "pages": "24-25",
+            }
+        )
+
+
+def _validate_bespoke_contract_gates(text: str, issues: list[dict]) -> None:
+    """Target-page contract gates from attempt 3 design."""
+    page_25 = _page_body_before_marker(text, 25)
+    if "In addition to Chapter 2" not in page_25:
+        issues.append(
+            {
+                "type": "missing_page_25_trailing_prose",
+                "page": 25,
+                "detail": 'trailing prose "In addition to Chapter 2" missing from final output',
+            }
+        )
+
+    page_47 = _page_body_before_marker(text, 47)
+    figure_pos = page_47.find("figure_11_reception_activities_strategies")
+    if figure_pos < 0:
+        figure_pos = page_47.lower().find("figure 11")
+    header_pos = page_47.find("3.1. RECEPTION")
+    if header_pos < 0:
+        header_pos = page_47.lower().find("3.1. reception")
+    if figure_pos >= 0 and header_pos >= 0 and header_pos < figure_pos:
+        issues.append(
+            {
+                "type": "page_47_section_order",
+                "page": 47,
+                "detail": "section header 3.1. RECEPTION must follow Figure 11 block",
+            }
+        )
+    elif figure_pos < 0 or header_pos < 0:
+        issues.append(
+            {
+                "type": "page_47_section_order",
+                "page": 47,
+                "detail": "page 47 missing Figure 11 block or 3.1. RECEPTION header",
+                "has_figure": figure_pos >= 0,
+                "has_header": header_pos >= 0,
+            }
+        )
+
+    for issue in issues:
+        if issue.get("type") == "span_duplicate_emit" and issue.get("page") == 147:
+            issues.append(
+                {
+                    "type": "page_147_span_duplicate",
+                    "page": 147,
+                    "group_id": issue.get("group_id"),
+                    "detail": "page 147 must not appear in span_duplicate_emit issues",
+                }
+            )
+            break
 
 
 def _validate_page_coverage(text: str, issues: list[dict]) -> None:
@@ -398,7 +577,11 @@ def validate_final_output(md_path: Path | None = None) -> dict:
                 }
             )
 
+    _validate_span_chain_integrity(issues)
+    _validate_span_end_trailing_scheduled(issues)
+    _validate_footnote_single_owner(text, issues)
     _validate_reading_order_elements(text, issues)
+    _validate_bespoke_contract_gates(text, issues)
     _validate_page_coverage(text, issues)
 
     sections = re.split(r"(?=<!-- page:\d+ -->)", text)

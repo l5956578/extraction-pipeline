@@ -1,0 +1,9 @@
+Post-processing completed: 2026-06-15 21:40:48
+Source: final_output\CEFR_Companion_Volume.md
+Source size: 830463 bytes
+Source modified: 06/15/2026 11:03:02
+Output: post-processing\CEFR_Companion_Volume_structured.md
+Output size: 829384 bytes
+Output modified: 06/15/2026 21:40:48
+Source SHA256: 8C790BC26ED4C1C94A731509CE70E016016BF0477AB65081AA58E78FA3442D3D
+Output SHA256: C23C15C2E2DEDD198F4F9A2DE2061A4CB58C59F33E19CA7EB4C86B0854E9BCB8

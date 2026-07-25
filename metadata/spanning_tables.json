@@ -1,10 +1,10 @@
 [
   {
-    "group_id": "scale_what_is_addressed_in_this_noitacilbup",
+    "group_id": "scale_what_is_addressed_in_this_publication",
     "span_type": "continuation",
     "start_page": 24,
     "end_page": 25,
-    "title": "What is addressed in this noitacilbup",
+    "title": "What is addressed in this publication",
     "rotated": false
   },
   {
@@ -40,35 +40,27 @@
     "rotated": false
   },
   {
-    "group_id": "scale_relaying_cfiiceps_information",
+    "group_id": "scale_relaying_specific_information",
     "span_type": "continuation",
     "start_page": 94,
     "end_page": 95,
-    "title": "Relaying cfiiceps information",
+    "title": "Relaying specific information",
     "rotated": true
   },
   {
     "group_id": "scale_processing_text",
     "span_type": "continuation",
     "start_page": 99,
-    "end_page": 100,
-    "title": "Processing text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_processing_text",
-    "span_type": "continuation",
-    "start_page": 100,
     "end_page": 101,
     "title": "Processing text",
     "rotated": true
   },
   {
-    "group_id": "scale_translating_a_nettirw_text",
+    "group_id": "scale_translating_a_written_text",
     "span_type": "continuation",
     "start_page": 103,
     "end_page": 104,
-    "title": "Translating a nettirw text",
+    "title": "Translating a written text",
     "rotated": true
   },
   {
@@ -80,11 +72,11 @@
     "rotated": false
   },
   {
-    "group_id": "scale_collaborating_ni_a_group",
+    "group_id": "scale_collaborating_in_a_group",
     "span_type": "continuation",
     "start_page": 110,
     "end_page": 111,
-    "title": "Collaborating ni a group",
+    "title": "Collaborating in a group",
     "rotated": true
   },
   {
@@ -96,11 +88,11 @@
     "rotated": false
   },
   {
-    "group_id": "scale_strategies_ot_nialpxe_a_wen_concept",
+    "group_id": "scale_strategies_to_explain_a_new_concept",
     "span_type": "continuation",
     "start_page": 119,
     "end_page": 120,
-    "title": "Strategies ot nialpxe a wen concept",
+    "title": "Strategies to explain a new concept",
     "rotated": true
   },
   {
@@ -139,14 +131,6 @@
     "group_id": "scale_sign_language_repertoire",
     "span_type": "continuation",
     "start_page": 146,
-    "end_page": 147,
-    "title": "Sign language repertoire",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_sign_language_repertoire",
-    "span_type": "continuation",
-    "start_page": 147,
     "end_page": 148,
     "title": "Sign language repertoire",
     "rotated": true
@@ -155,48 +139,24 @@
     "group_id": "scale_diagrammatical_accuracy",
     "span_type": "continuation",
     "start_page": 150,
-    "end_page": 151,
-    "title": "Diagrammatical accuracy",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_diagrammatical_accuracy",
-    "span_type": "continuation",
-    "start_page": 151,
     "end_page": 152,
     "title": "Diagrammatical accuracy",
     "rotated": true
   },
   {
-    "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
+    "group_id": "scale_sociolinguistic_appropriateness_and_cultural_repertoire",
     "span_type": "continuation",
     "start_page": 154,
-    "end_page": 155,
-    "title": "Sociolinguistic ssenetairporppa and larutluc repertoire",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire",
-    "span_type": "continuation",
-    "start_page": 155,
     "end_page": 156,
-    "title": "Sociolinguistic ssenetairporppa and larutluc repertoire",
+    "title": "Sociolinguistic appropriateness and cultural repertoire",
     "rotated": true
   },
   {
-    "group_id": "scale_sign_text_erutcurts",
+    "group_id": "scale_sign_text_structure",
     "span_type": "continuation",
     "start_page": 158,
-    "end_page": 159,
-    "title": "Sign text erutcurts",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_sign_text_erutcurts",
-    "span_type": "continuation",
-    "start_page": 159,
     "end_page": 160,
-    "title": "Sign text erutcurts",
+    "title": "Sign text structure",
     "rotated": true
   },
   {
@@ -224,14 +184,6 @@
     "rotated": false
   },
   {
-    "group_id": "scale_2c",
-    "span_type": "continuation",
-    "start_page": 177,
-    "end_page": 178,
-    "title": "2C",
-    "rotated": true
-  },
-  {
     "group_id": "table_self_assessment_grid",
     "span_type": "section_block",
     "start_page": 177,
@@ -242,23 +194,7 @@
   {
     "group_id": "scale_2c",
     "span_type": "continuation",
-    "start_page": 178,
-    "end_page": 179,
-    "title": "2C",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_2c",
-    "span_type": "continuation",
-    "start_page": 179,
-    "end_page": 180,
-    "title": "2C",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_2c",
-    "span_type": "continuation",
-    "start_page": 180,
+    "start_page": 177,
     "end_page": 181,
     "title": "2C",
     "rotated": true
@@ -267,14 +203,6 @@
     "group_id": "scale_phonology",
     "span_type": "continuation",
     "start_page": 183,
-    "end_page": 184,
-    "title": "Phonology",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_phonology",
-    "span_type": "continuation",
-    "start_page": 184,
     "end_page": 185,
     "title": "Phonology",
     "rotated": true
@@ -283,14 +211,6 @@
     "group_id": "scale_argument",
     "span_type": "continuation",
     "start_page": 187,
-    "end_page": 188,
-    "title": "Argument",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_argument",
-    "span_type": "continuation",
-    "start_page": 188,
     "end_page": 189,
     "title": "Argument",
     "rotated": true
@@ -299,7 +219,7 @@
     "group_id": "scale_online_interaction",
     "span_type": "continuation",
     "start_page": 191,
-    "end_page": 192,
+    "end_page": 197,
     "title": "Online interaction",
     "rotated": true
   },
@@ -312,369 +232,25 @@
     "rotated": true
   },
   {
-    "group_id": "scale_online_interaction",
-    "span_type": "continuation",
-    "start_page": 192,
-    "end_page": 193,
-    "title": "Online interaction",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_online_interaction",
-    "span_type": "continuation",
-    "start_page": 193,
-    "end_page": 194,
-    "title": "Online interaction",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_online_interaction",
-    "span_type": "continuation",
-    "start_page": 194,
-    "end_page": 195,
-    "title": "Online interaction",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_online_interaction",
-    "span_type": "continuation",
-    "start_page": 195,
-    "end_page": 196,
-    "title": "Online interaction",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_online_interaction",
-    "span_type": "continuation",
-    "start_page": 196,
-    "end_page": 197,
-    "title": "Online interaction",
-    "rotated": true
-  },
-  {
     "group_id": "scale_mediating_a_text",
     "span_type": "continuation",
     "start_page": 198,
-    "end_page": 199,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 199,
-    "end_page": 200,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 200,
-    "end_page": 201,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 201,
-    "end_page": 202,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 202,
-    "end_page": 203,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 203,
-    "end_page": 204,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 204,
-    "end_page": 205,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 205,
-    "end_page": 206,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 206,
-    "end_page": 207,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 207,
-    "end_page": 208,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 208,
-    "end_page": 209,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 209,
-    "end_page": 210,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 210,
-    "end_page": 211,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 211,
-    "end_page": 212,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 212,
-    "end_page": 213,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 213,
-    "end_page": 214,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 214,
-    "end_page": 215,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 215,
-    "end_page": 216,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 216,
-    "end_page": 217,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 217,
-    "end_page": 218,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 218,
-    "end_page": 219,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 219,
-    "end_page": 220,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 220,
-    "end_page": 221,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 221,
-    "end_page": 222,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 222,
-    "end_page": 223,
-    "title": "Mediating a text",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_a_text",
-    "span_type": "continuation",
-    "start_page": 223,
     "end_page": 224,
     "title": "Mediating a text",
     "rotated": true
   },
   {
-    "group_id": "scale_mediating_stpecnoc",
+    "group_id": "scale_mediating_concepts",
     "span_type": "continuation",
     "start_page": 225,
-    "end_page": 226,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 226,
-    "end_page": 227,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 227,
-    "end_page": 228,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 228,
-    "end_page": 229,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 229,
-    "end_page": 230,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 230,
-    "end_page": 231,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 231,
-    "end_page": 232,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 232,
-    "end_page": 233,
-    "title": "Mediating stpecnoc",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_stpecnoc",
-    "span_type": "continuation",
-    "start_page": 233,
     "end_page": 234,
-    "title": "Mediating stpecnoc",
+    "title": "Mediating concepts",
     "rotated": true
   },
   {
     "group_id": "scale_mediating_communication",
     "span_type": "continuation",
     "start_page": 235,
-    "end_page": 236,
-    "title": "Mediating communication",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_communication",
-    "span_type": "continuation",
-    "start_page": 236,
-    "end_page": 237,
-    "title": "Mediating communication",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_communication",
-    "span_type": "continuation",
-    "start_page": 237,
-    "end_page": 238,
-    "title": "Mediating communication",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_communication",
-    "span_type": "continuation",
-    "start_page": 238,
-    "end_page": 239,
-    "title": "Mediating communication",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_communication",
-    "span_type": "continuation",
-    "start_page": 239,
-    "end_page": 240,
-    "title": "Mediating communication",
-    "rotated": true
-  },
-  {
-    "group_id": "scale_mediating_communication",
-    "span_type": "continuation",
-    "start_page": 240,
     "end_page": 241,
     "title": "Mediating communication",
     "rotated": true

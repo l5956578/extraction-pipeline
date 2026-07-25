@@ -1,0 +1,11 @@
+{
+  "page": 35,
+  "source": "user debug/log 04.md #4",
+  "must_have": [
+    "descriptors as competence",
+    "table_04_communicative_language_strategies"
+  ],
+  "must_not_have": [],
+  "callout_placement": "top_left",
+  "notes": "Can-do callout as blockquote first; Table 4 present. Title once checked via V-ADJ-DUP-HEADER"
+}

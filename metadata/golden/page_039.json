@@ -1,0 +1,17 @@
+{
+  "page": 39,
+  "source": "user debug/log 04.md #8; review #1 exclusive-crop prose loss",
+  "must_have": [
+    "figure_07_profile_postgraduate_sciences",
+    "assets/figures/figure_07_profile_postgraduate_sciences.png",
+    "However, for a personal profile of proficiency",
+    "Graphic profiles such as those shown in Figures 6 and 7",
+    "One can see the development of individual proficiency"
+  ],
+  "must_not_have_after_image": [
+    "Understanding conversation between other speakers",
+    "Expressing a personal response to creative texts",
+    "Pre-A1 A1 A2 A2+ B1"
+  ],
+  "notes": "Real neighbor prose kept; no radar/level soup under Fig 7 PNG"
+}

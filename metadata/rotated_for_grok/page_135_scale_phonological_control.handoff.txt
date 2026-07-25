@@ -1,0 +1,12 @@
+Page: 135
+Span: scale_phonological_control (pages 134-135)
+Title: Phonological control
+Role: end
+Rotation: 90
+Slug: page_135_scale_phonological_control
+PNG: metadata/rotated_for_grok/page_135_scale_phonological_control.png
+Write markdown: metadata/rotated_from_grok/page_135_scale_phonological_control.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

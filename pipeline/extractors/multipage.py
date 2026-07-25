@@ -5,13 +5,7 @@ from __future__ import annotations
 import fitz
 import pdfplumber
 
-from pipeline.extractors.rotated import (
-    _reverse_table_cells,
-    _table_readable,
-    derotated_pdfplumber_tables,
-    extract_rotated_tables,
-)
-from pipeline.title_fix import fix_rotated_title
+from pipeline.extractors.rotated import _reverse_table_cells, extract_rotated_tables
 from pipeline.extractors.table import tables_to_markdown
 from pipeline.utils import table_to_markdown
 
@@ -66,38 +60,19 @@ def merge_rotated_pages(
     page_nums: list[int],
     pdf_path,
     rotation: int = 90,
+    force_ocr: bool = False,
 ) -> str:
-    all_tables: list[list[list]] = []
-    for page_num in page_nums:
-        tables = derotated_pdfplumber_tables(page_num - 1, pdf_path, rotation)
-        if tables:
-            from pipeline.extractors.rotated import _reverse_table_cells
+    """Merge rotated table pages. Prefer pdfplumber; OCR only if force_ocr or unreadable.
 
-            for table in _reverse_table_cells(tables):
-                fixed = [
-                    [
-                        fix_rotated_title(str(c)) if c else ""
-                        for c in row
-                    ]
-                    for row in table
-                ]
-                all_tables.append(fixed)
-
-    if all_tables:
-        merged = _merge_rows(all_tables)
-        md = table_to_markdown(merged)
-        sample = " ".join(str(c) for row in merged[:10] for c in row if c)
-        if _table_readable(sample):
-            return md
-
+    force_ocr=True is expensive (Tesseract per page) — avoid for large spans / fallbacks.
+    """
     parts = []
     for page_num in page_nums:
         page = doc[page_num - 1]
         content = extract_rotated_tables(
-            page_num - 1, page, pdf_path, rotation=rotation, force_ocr=False
+            page_num - 1, page, pdf_path, rotation=rotation, force_ocr=force_ocr
         )
-        if content.strip():
-            parts.append(content)
+        parts.append(content)
     return "\n\n".join(parts)
 
 

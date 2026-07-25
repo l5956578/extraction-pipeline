@@ -1,0 +1,44 @@
+Non–Appendix 5 rotated tables — personal deep-audit log
+Standard: same as 146–148 / Appx5 (vision read PNG, rewrite/verify md, re-check)
+Auditor: coding agent, multi-pass personal vision
+
+094: verified match PNG (personal)
+095: verified match PNG (personal)
+097: verified match PNG (personal)
+099: verified match PNG (personal)
+100: verified match PNG (personal)
+101: verified match PNG (personal)
+103: verified match PNG (personal)
+104: REWRITTEN personal — A2 speech/writing row split (approx. oral alone; simple rough oral + writing can)
+110: verified match PNG (personal)
+111: verified match PNG (personal)
+113: REWRITTEN personal — A2 encouraging can “ask what somebody thinks” moved out of B1
+119: REWRITTEN personal — B2 three-column row pairing split into two rows
+120: verified match PNG (personal)
+122: verified match PNG (personal)
+134: verified match PNG (personal)
+135: verified match PNG (personal)
+146: verified match PNG (personal) — gold-standard reference
+147: verified match PNG (personal)
+148: verified match PNG (personal)
+150: verified match PNG (personal)
+151: verified match PNG (personal)
+152: verified match PNG (personal)
+154: REWRITTEN personal — B2 receptive/productive row split
+155: verified match PNG (personal)
+156: verified match PNG (personal)
+158: verified match PNG (personal)
+159: verified match PNG (personal)
+160: verified match PNG (personal)
+162: REWRITTEN personal — B2 productive row split
+163: verified match PNG (personal)
+175: verified match PNG (personal)
+183: verified match PNG (personal)
+184: verified match PNG (personal)
+185: verified match PNG (personal)
+187: verified match PNG (personal)
+188: verified match PNG (personal)
+189: verified match PNG (personal)
+
+STATUS: non-Appx5 pages COMPLETE (37/37 personal multi-pass vision audit)
+Rewrites: 104, 113, 119, 154, 162

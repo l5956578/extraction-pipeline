@@ -1,0 +1,12 @@
+Page: 235
+Span: scale_mediating_communication (pages 235)
+Title: Mediating communication
+Role: start
+Rotation: 90
+Slug: page_235_scale_mediating_communication
+PNG: metadata/rotated_for_grok/page_235_scale_mediating_communication.png
+Write markdown: metadata/rotated_from_grok/page_235_scale_mediating_communication.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

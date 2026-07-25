@@ -10,7 +10,7 @@ import pdfplumber
 
 from pipeline.config import PDF_PATH, SECTION_BLOCKS, KNOWN_TABLES_FIGURES, load_figures_registry
 from pipeline.span_detector import SpanGroup, detect_spans
-from pipeline.title_fix import fix_rotated_title
+from pipeline.title_fix import artifact_id_from_title, clean_artifact_id, fix_rotated_title
 from pipeline.utils import slugify
 
 
@@ -169,12 +169,19 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
 
             title = _scale_title_from_page(pdf, page_num - 1)
             if title and page_num not in continuation_pages:
-                aid = slugify(title, prefix="scale")
+                # Root: always slug from fix_rotated_title (L07-ID / R3)
+                title = fix_rotated_title(title)
+                aid = artifact_id_from_title(title, prefix="scale")
                 if aid not in seen_ids:
                     end_page = page_num
                     for span in spans:
-                        if span.group_id == aid:
-                            end_page = span.end_page
+                        # Match either clean id or legacy garbled group_id after fix
+                        span_gid = span.group_id or ""
+                        if span_gid == aid or (
+                            fix_rotated_title(span.title or "").strip().lower()
+                            == title.strip().lower()
+                        ):
+                            end_page = max(end_page, span.end_page)
                     artifacts.append(
                         ArtifactMeta(
                             id=aid,
@@ -198,29 +205,38 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
             page_end=133,
             group_id="scale_vocabulary_control",
         ),
-        ArtifactMeta(
-            id="scale_expressing_a_personal_response_to_creative_texts_including_literature",
-            display_name="Expressing a personal response to creative texts (including literature)",
-            artifact_type="descriptor_scale",
-            product_tiers=["assessment_action", "detailed"],
-            page_start=106,
-            page_end=107,
-            group_id="scale_expressing_a_personal_response_to_creative_texts_including_literature",
-        ),
-        ArtifactMeta(
-            id="scale_setting_and_perspectives",
-            display_name="Setting and perspectives",
-            artifact_type="descriptor_scale",
-            product_tiers=["context"],
-            page_start=162,
-            page_end=163,
-            group_id="scale_setting_and_perspectives",
-        ),
     ]
     for art in explicit_artifacts:
         if art.id not in seen_ids:
             artifacts.append(art)
             seen_ids.add(art.id)
+
+    # Ensure continuation spans from span_detector become artifacts even when
+    # pdfplumber title extraction fails on rotated pages (L07-ID root).
+    for span in spans:
+        if span.span_type != "continuation":
+            continue
+        title = fix_rotated_title(span.title or "")
+        aid = clean_artifact_id(span.group_id, title) if span.group_id else (
+            artifact_id_from_title(title, prefix="scale") if title else None
+        )
+        if not aid or aid in seen_ids:
+            continue
+        if not aid.startswith("scale_") and not aid.startswith("table_"):
+            continue
+        display = title or aid.removeprefix("scale_").replace("_", " ")
+        artifacts.append(
+            ArtifactMeta(
+                id=aid,
+                display_name=display,
+                artifact_type="descriptor_scale" if aid.startswith("scale_") else "table",
+                product_tiers=_product_tiers_for_page(span.start_page),
+                page_start=span.start_page,
+                page_end=span.end_page,
+                group_id=aid,
+            )
+        )
+        seen_ids.add(aid)
 
     artifacts.sort(key=lambda a: (a.page_start, a.id))
     return artifacts

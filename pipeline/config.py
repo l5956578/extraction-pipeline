@@ -11,6 +11,8 @@ FINAL_DIR = ROOT / "final_output"
 ASSETS_FIGURES = FINAL_DIR / "assets" / "figures"
 ASSETS_TABLES = FINAL_DIR / "assets" / "tables"
 METADATA_DIR = ROOT / "metadata"
+ROTATED_FOR_GROK_DIR = METADATA_DIR / "rotated_for_grok"
+ROTATED_FROM_GROK_DIR = METADATA_DIR / "rotated_from_grok"
 
 TARGET_CHUNK_SIZE = 25
 MAX_RETRY_ATTEMPTS = 3
@@ -35,7 +37,48 @@ SECTION_BLOCKS = [
 KNOWN_TABLES_FIGURES = {
     23: ("table_01_descriptive_scheme_updates", "Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions", "table"),
     24: ("table_02_summary_descriptor_changes", "Table 2 – Summary of changes to the illustrative descriptors", "table"),
+    # Chapter 2 taxonomy tables (not descriptor scales).
+    33: (
+        "table_03_macro_functional_basis",
+        "Table 3 – Macro-functional basis of CEFR categories for communicative language activities",
+        "table",
+    ),
 }
+
+# Multi-table pages: (page, table_index) → known table meta (after callouts filtered).
+KNOWN_TABLES_BY_INDEX: dict[tuple[int, int], tuple[str, str, str]] = {
+    # p.35: index 0 = narrative callout; index 1 = Table 4 strategy matrix
+    (35, 0): (
+        "callout_can_do_descriptors_as_competence",
+        "“Can do” descriptors as competence",
+        "callout",
+    ),
+    (35, 1): (
+        "table_04_communicative_language_strategies",
+        "Table 4 – Communicative language strategies in the CEFR",
+        "table",
+    ),
+    (29, 0): (
+        "callout_a_reminder_of_cefr_2001_chapters",
+        "A reminder of CEFR 2001 chapters",
+        "callout",
+    ),
+    (44, 0): (
+        "table_05_descriptor_use",
+        "Table 5 – The use of CEFR illustrative descriptors for different purposes",
+        "table",
+    ),
+}
+
+
+def known_figures_list_by_page() -> dict[int, list[tuple[str, str, str]]]:
+    """Page → list of (id, caption, type) for multi-figure pages."""
+    out: dict[int, list[tuple[str, str, str]]] = {}
+    for fig in load_figures_registry():
+        out.setdefault(fig["page"], []).append(
+            (fig["id"], fig["title"], "figure")
+        )
+    return out
 
 MULTIPAGE_ARTIFACTS: dict[str, dict] = {
     "table_02_summary_descriptor_changes": {"page_start": 24, "page_end": 25, "merge": "pdfplumber_all"},
@@ -51,8 +94,15 @@ def load_figures_registry() -> list[dict]:
 
 
 def known_figures_by_page() -> dict[int, tuple[str, str, str]]:
-    """Page → (id, caption, type) for inventory hints."""
+    """Page → (id, caption, type) for inventory hints.
+
+    When multiple figures share a page, returns the **first** by figure number
+    (legacy single-slot callers). Prefer ``known_figures_list_by_page`` or
+    ``extractors.figures.figures_for_page`` for multi-figure pages.
+    """
     out: dict[int, tuple[str, str, str]] = {}
-    for fig in load_figures_registry():
-        out[fig["page"]] = (fig["id"], fig["title"], "figure")
+    for fig in sorted(load_figures_registry(), key=lambda f: f["num"]):
+        page = fig["page"]
+        if page not in out:
+            out[page] = (fig["id"], fig["title"], "figure")
     return out

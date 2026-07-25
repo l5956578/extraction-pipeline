@@ -1,0 +1,18 @@
+{
+  "page": 40,
+  "source": "user debug/log 04.md #8; review #1 #2 multi-fig dual emit",
+  "must_have": [
+    "figure_08_plurilingual_proficiency_fewer_categories",
+    "figure_09_overall_proficiency_one_language",
+    "figure_10_plurilingual_oral_comprehension",
+    "Graphic profiles have been associated with the CEFR",
+    "In practice, there is a tendency to use more linear diagrams"
+  ],
+  "must_not_have_after_image": [
+    "Pre-A1 A1 A2 A2+ B1 B1+ B2 B2+",
+    "English German French Spanish Italian",
+    "Understanding conversation between other speakers"
+  ],
+  "figure_order": [8, 9, 10],
+  "notes": "Trailing prose present; Figs 8–10 in order; no level/language axis under PNGs"
+}

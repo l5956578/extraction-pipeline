@@ -1,0 +1,176 @@
+Formatting of callouts / sidecards / feature boxes (what are you calling them?):
+
+When detecting blue-background callout boxes / sidebars, convert each using this format with the title (when present) inside the blockquote:
+
+> **Title of the Callout** (when present)
+>
+> Body text paragraph one...
+>
+> Body text paragraph two...
+
+- Use a blank > line between paragraphs.
+- Preserve all internal formatting.
+- Apply consistently to all such callouts in the document.
+
+(end of issue)
+
+---
+
+url for footnote 21 on page 27 has a . that was interpreted as a period (after details, before aspx) breaking the url
+
+https://search.coe.int/cm/Pages/result_details. aspx?ObjectId=09000016805d2fb1.
+
+(end of issue)
+
+---
+
+treat the following text on page 29 as a callout (I will reference it as a callout in this log until it is confirmed with you what you are calling it in code) and then format as described above:
+
+**A reminder of CEFR 2001 chapters**
+
+*Chapter 1: The Common European Framework in its political and educational context*
+
+*Chapter 2: Approach adopted*
+
+*Chapter 3: Common Reference Levels*
+
+*Chapter 4: Language use and the language user/learner*
+
+*Chapter 5: The user/learner’s competences*
+
+*Chapter 6: Language learning and teaching*
+
+*Chapter 7: Tasks and their role in language teaching*
+
+*Chapter 8: Linguistic diversification and the curriculum*
+
+*Chapter 9: Assessment*
+
+(end of issue)
+
+---
+
+footnote 23 on page 29 put a space after the // breaking the url
+
+https:// rm.coe.int/1680667a2d.
+
+I believe a review is necessary by you for every URL in this document, not merely to prevent which is great actually, but also something in the validation you built earlier. I shouldn't have to "find" issues of this nature. If validation finds a prior issue we fixed is now broken, it should be logged and addressed systematically if necessary. We are running the risk of creating brittle code that is isolated from the underlying structure and design otherwise. Hate to mention this on such a minor bug, but this commentary applies more to the red flags I found earlier where your recent batch of code severely regressed!
+
+(end of issue)
+
+---
+
+once again you didn't fix the issue I reported with the callout on page 30! ffs i gave you issues for 8 pages and you decided not to fix this one? I thought you implemented validation? If you did, wouldn't it have noticed? why am I having to find this shit!?
+
+maybe its time to take my advice and try something less brittle! 
+I gave two suggestions (blue background and you in the loop), did you ignore both and continue down the prior path that hasn't worked? 
+
+the following text:
+
+They were developed as a form of dynamic, creative process of “languaging” across the boundaries of language varieties, as a methodology and as language policy aims. The background to this development was a series of studies in bilingualism in the early 1990s at the research centre CREDIF (Centre de recherche et d’étude pour la diffusion du français) in Paris.
+
+The curriculum examples given in CEFR 2001 Chapter 8 consciously promoted the concepts of plurilingual and pluricultural competence.
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence”.
+
+should be:
+
+The linked concepts of plurilingualism/ pluriculturalism and partial competences were introduced to language education for the first time in the second provisional version of the CEFR in 1996.
+
+They were developed as a form of dynamic, creative process of “languaging” across the boundaries of language varieties, as a methodology and as language policy aims. The background to this development was a series of studies in bilingualism in the early 1990s at the research centre CREDIF (Centre de recherche et d’étude pour la diffusion du français) in Paris.
+
+The curriculum examples given in CEFR 2001 Chapter 8 consciously promoted the concepts of plurilingual and pluricultural competence.
+
+These two concepts appeared in a more elaborated form in 1997 in the paper “Plurilingual and pluricultural competence”.
+
+and it should be: 
+
+formatted as described above
+
+(end of issue)
+
+---
+
+i literrally gave you the fucking fix i wanted for page 31 where you misplaced prose and you fucking did it again. exactly the same. You ran for so long and decided NOT to fucking fix this? why am I paying for tokens that you actively refuse to use? what the fuck do I need to do but spell out and hard code the solution here? Why can't you be smart? Why would a callout at top left that rightly was at the top of page 31, along side a multi-column prose, suddenly drop the multi-column prose underneath the last paragraph of prose? Why? Use your intelligence. I'm not telling you HOW to code, but you have intelligence, why not use it when ambiguity comes up. Why won't you put yourself in the loop if you can't find common sense to code? Quit making me fucking find issues!
+
+I've been at this now for 4 fucking weeks with Grok 4.0 and now Grok 4.5. This is in high effort mode meaning your supposed to be as capable as fucking SpaceX needs you to be, but you can't sort this??
+
+(end of issue)
+
+---
+
+page 32, an embedded hyperlink wasn't extracted as instructed in prior reporting of this same fucking issue. ffs
+
+Guide for the development and implementation of curricula for plurilingual and intercultural education
+
+↑ has a fucking embedded link.
+
+(end of issue)
+
+---
+
+page 32, once again I reported similar if not same, trash after a figure (information being dropped before/after a figure, a table, a spanned chunk, a table spanning pages, rotated tables is a serious fucking problem that you seem incapable of addressing)
+
+this trash found before the footnote:
+
+**Overall language  proficiency Communicative General competences language competences Communicative** **Communicative  language activities language strategies**
+
+(end of issue)
+
+---
+
+you were instructed (and then you verified) that you understand the contract between major elements in the extraction pipeline, and yet have revealed you are not
+
+(end issue)
+
+---
+
+page 34 the png still is only of half the fucking image. there aren't 500 images, not even 50. why aren't you in the loop? Why if that's anathema aren't you finding a better solution? You fixed the prose issue but failed to do even one thing to fix the png cropping issue?
+
+(end of issue)
+
+---
+
+you managed to do the page 35 upper left callout box-to-right column prose here but not earlier on page 31??? Are you fucking spot-fixing shit? 
+
+(end of issue)
+
+---
+
+Table 4 on page 35 is stupidly coded. Time for you to be in the loop?
+
+Linking to previous<br>knowledge<br> <-- <br> between previous and knowledge isn't needed
+Breaking down<br>complicated information<br> <-- <br> between down and complicated isn't needed
+
+Evaluation<br>and Repair <--shouldn't have the <br>
+
+my markdown wraps table text that is too long. the point of having the BR was to separate phrases that "go together". If you can't code a solution then put yourself in the loop as intelligence. I'll burn tokens to get this right, ffs. To be honest, it even appears like they put extra space between phrases to help the reader, but apparently you can't pick up on that obvious clue left by the authors of this document
+
+(end of issue)
+
+---
+
+figure 3 on page 36 is stupidly wrong
+figure 5 is stupidly wrong and I believe was not a problem before, wtf?
+
+prose is working now, don't fuck that up with your fix please.
+
+(end of issue)
+
+---
+
+page 36, trash at end of page (before *Page **36...)
+
+this is another occurence of this so please don't spot fix
+
+
+| |
+| --- |
+| |
+
+(end of issue)
+
+---
+
+
+

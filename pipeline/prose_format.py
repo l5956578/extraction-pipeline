@@ -99,9 +99,14 @@ def _format_level_callouts(lines: list[str]) -> list[str]:
                     cur = []
                 cur.append(nxt)
                 i += 1
+            # Background section is normal prose (and optional true list items),
+            # not a forced bullet list — forcing "- " broke Ch2 body paragraphs.
             for p in paras:
-                out.append(f"- {p}")
-            out.append("")
+                if p.startswith("- "):
+                    out.append(p)
+                else:
+                    out.append(p)
+                out.append("")
             continue
         out.append(lines[i])
         i += 1
@@ -125,12 +130,26 @@ def fix_ocr_typos(text: str) -> str:
         "E mail:": "E-mail:",
         "Pre–A1": "Pre-A1",
         "oneor": "one or",
+        "problemsolving": "problem-solving",  # L05-P33-HY
+        "problem solving language": "problem-solving language",
+        "situationspecific": "situation-specific",  # L06
+        "situation specific phrases": "situation-specific phrases",
     }
     for old, new in replacements.items():
         text = text.replace(old, new)
     text = re.sub(r"(?<=\n)-\*\*", "- **", text)
     text = re.sub(r"\ufeff\s*Page\s+(\d+)", r"<!-- Page \1 -->", text)
     text = re.sub(r"(\w)-\s+(\w)", r"\1\2", text)
+    # Soft-join artifact: period glued to next sentence capital (e.g. inclusive.Any)
+    text = re.sub(r"\.([A-Z])", r". \1", text)
+    # Dingbat arrow mis-decoded as ASCII "3" in page footers (FFDingbats-ArrowsOne).
+    text = re.sub(
+        r"(Page\s+\*?\*?\d+\*?\*?\s+)3(\s+\*?\*?CEFR)",
+        r"\1▶\2",
+        text,
+        flags=re.I,
+    )
+    text = text.replace("\xad", "")
     return text
 
 
@@ -160,7 +179,24 @@ def _fix_bold_artifacts(text: str) -> str:
         return f"**{inner}**"
 
     text = re.sub(r"\*\*([^*]+)\*\*", _trim_bold_edges, text)
-    return _fix_bold_boundary_spacing(text)
+    text = _fix_bold_boundary_spacing(text)
+    # Page numbers must stay tight: Page **27** not Page ** 27 **
+    # (boundary spacing can re-introduce spaces around digit-only bold runs.)
+    text = re.sub(r"\*\*\s+(\d+)\s+\*\*", r"**\1**", text)
+    # Re-trim interior spaces on single-line word/phase bold only
+    # (e.g. `** Intuitive phase: **` → `**Intuitive phase:**`).
+    # Do not match symbol-only interiors (`** ▶ **`) or span newlines
+    # (closing `**` + blank + next open would corrupt `Page **27**`).
+    def _trim_padded_bold(m: re.Match[str]) -> str:
+        inner = m.group(1).strip()
+        if not inner or not re.search(r"[A-Za-z0-9]", inner):
+            return m.group(0)
+        return f"**{inner}**"
+
+    text = re.sub(r"\*\*\s+([^*\n]{1,100}?)\s+\*\*", _trim_padded_bold, text)
+    text = re.sub(r"\*\*\s+([A-Za-z0-9][^*\n]{0,99}?)\*\*", r"**\1**", text)
+    text = re.sub(r"\*\*([^*\n]{0,99}?[A-Za-z0-9:.])\s+\*\*", r"**\1**", text)
+    return text
 
 
 def _fix_bold_boundary_spacing(text: str) -> str:
@@ -227,17 +263,128 @@ def _restore_fenced_blocks(lines: list[str], placeholders: list[str]) -> list[st
     return out
 
 
+def _split_list_glued_callout_leads(lines: list[str]) -> list[str]:
+    """Detach callout/prose that was glued onto the last list item (C2-CO2 / C2-L3).
+
+    Example: ``- exploit paralinguistics (… etc.). The linked concepts of…``
+    → list item ends at ``etc.).`` then a new paragraph with the lead sentence.
+    """
+    lead_starts = (
+        "The linked concepts of plurilingualism",
+        "The linked concepts of plurilingualism/",
+    )
+    out: list[str] = []
+    for line in lines:
+        if not line.lstrip().startswith("- "):
+            out.append(line)
+            continue
+        split_at = None
+        for lead in lead_starts:
+            idx = line.find(lead)
+            if idx > 10:
+                # Prefer split after sentence end before lead
+                before = line[:idx]
+                if re.search(r"[.!?)]\s*$", before.rstrip()) or before.rstrip().endswith("."):
+                    split_at = idx
+                    break
+                # Also split after ``etc.). `` pattern
+                m = re.search(r"(etc\.\))\s+" + re.escape(lead), line)
+                if m:
+                    split_at = m.start(0) + len(m.group(1)) + 1
+                    # find lead again
+                    split_at = line.find(lead)
+                    break
+        if split_at is None:
+            # Generic: list item ending with ``). `` then capital The/A/This…
+            m = re.search(r"(\.\)|\.\))\s+(The |A |This |In |Plurilingual )", line)
+            if m and line.lstrip().startswith("- "):
+                # Only if remainder is long (callout-sized)
+                rest = line[m.end() - len(m.group(2)) :]
+                if len(rest) > 80:
+                    split_at = m.end() - len(m.group(2))
+        if split_at is not None:
+            head = line[:split_at].rstrip()
+            tail = line[split_at:].lstrip()
+            out.append(head)
+            out.append("")
+            out.append(tail)
+        else:
+            out.append(line)
+    return out
+
+
+def _blockquote_known_callout_blocks(text: str) -> str:
+    """Ensure known narrative callout titles use blockquote form (UV-01 / C2-CO1).
+
+    Converts standalone ``**Title**`` + following paragraphs into ``> **Title**`` form.
+    """
+    patterns = [
+        re.compile(r"^\*\*(A reminder of CEFR 2001 chapters)\*\*\s*$", re.M),
+        re.compile(
+            r'^\*\*([“"]Can do[”"] descriptors as competence)\*\*\s*$',
+            re.M,
+        ),
+    ]
+    for pat in patterns:
+        m = pat.search(text)
+        if not m:
+            continue
+        title_line = m.group(1)
+        # Already blockquote for this title?
+        if re.search(rf"^>\s*\*\*{re.escape(title_line)}\*\*", text, re.M):
+            continue
+        start = m.start()
+        rest = text[m.end() :]
+        body_lines: list[str] = []
+        consumed = 0
+        blank_run = 0
+        for line in rest.splitlines(keepends=True):
+            s = line.rstrip("\n").strip()
+            if s.startswith(("<!--", "#", "|", ">")):
+                break
+            if not s:
+                blank_run += 1
+                if blank_run >= 2 and body_lines:
+                    consumed += len(line)
+                    break
+                consumed += len(line)
+                continue
+            blank_run = 0
+            body_lines.append(s)
+            consumed += len(line)
+            if len(body_lines) >= 12:
+                break
+        if not body_lines and "reminder" not in title_line.lower():
+            continue
+        bq = [f"> **{title_line}**", ">"]
+        for para in body_lines:
+            if re.match(r"^Chapter\s+\d+\s*:", para, re.I):
+                bq.append(f"> *{para}*")
+            else:
+                bq.append(f"> {para}")
+            bq.append(">")
+        while bq and bq[-1] == ">":
+            bq.pop()
+        text = text[:start] + "\n".join(bq) + "\n" + rest[consumed:]
+    return text
+
+
 def normalize_prose(text: str) -> tuple[str, list[str]]:
     fixes: list[str] = []
     lines = text.splitlines()
     lines, fences = _preserve_fenced_blocks(lines)
     lines = _convert_f_bullets(lines)
     lines = _merge_split_bullets(lines)
+    lines = _split_list_glued_callout_leads(lines)
     lines = _format_level_callouts(lines)
     lines = _strip_bullet_page_markers(lines)
     lines = _restore_fenced_blocks(lines, fences)
     text = "\n".join(lines)
     text = _fix_bold_artifacts(text)
+    text = _blockquote_known_callout_blocks(text)
+    from pipeline.utils import sanitize_urls_in_text
+
+    text = sanitize_urls_in_text(text)
     if "f " in text or re.search(r"^\s*-\s*$", text, re.M):
         fixes.append("normalized bullets")
     if "**" in text:

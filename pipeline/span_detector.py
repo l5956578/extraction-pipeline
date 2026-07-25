@@ -81,6 +81,26 @@ def _normalize_title(title: str | None) -> str | None:
     return re.sub(r"\s+", " ", fix_rotated_title(title).strip()).lower()
 
 
+def _spans_overlap_or_adjacent(a: SpanGroup, b: SpanGroup) -> bool:
+    """True when two spans share a page or touch at a page boundary."""
+    return not (a.end_page < b.start_page - 1 or b.end_page < a.start_page - 1)
+
+
+def _merge_span_pair(a: SpanGroup, b: SpanGroup, doc: fitz.Document) -> SpanGroup:
+    start_page = min(a.start_page, b.start_page)
+    end_page = max(a.end_page, b.end_page)
+    title = a.title if (a.end_page - a.start_page) >= (b.end_page - b.start_page) else b.title
+    pages = range(start_page - 1, end_page)
+    return SpanGroup(
+        group_id=a.group_id,
+        span_type=a.span_type,
+        start_page=start_page,
+        end_page=end_page,
+        title=fix_rotated_title(title),
+        rotated=any(_is_rotated(doc[p]) for p in pages),
+    )
+
+
 def _add_continuation(
     groups: list[SpanGroup],
     gid: str,
@@ -89,19 +109,62 @@ def _add_continuation(
     title: str,
     doc: fitz.Document,
 ) -> None:
-    if any(g.group_id == gid and g.start_page == start_page for g in groups):
-        return
-    pages = range(start_page - 1, end_page)
-    groups.append(
-        SpanGroup(
-            group_id=gid,
-            span_type="continuation",
-            start_page=start_page,
-            end_page=end_page,
-            title=fix_rotated_title(title),
-            rotated=any(_is_rotated(doc[p]) for p in pages),
-        )
+    """Add or extend a continuation span, merging overlapping/adjacent same-group spans."""
+    candidate = SpanGroup(
+        group_id=gid,
+        span_type="continuation",
+        start_page=start_page,
+        end_page=end_page,
+        title=fix_rotated_title(title),
+        rotated=False,
     )
+    merged: list[SpanGroup] = []
+    absorbed = False
+    for g in groups:
+        if g.group_id == gid and g.span_type == "continuation" and _spans_overlap_or_adjacent(g, candidate):
+            candidate = _merge_span_pair(g, candidate, doc)
+            absorbed = True
+            continue
+        merged.append(g)
+    if not absorbed:
+        pages = range(start_page - 1, end_page)
+        candidate.rotated = any(_is_rotated(doc[p]) for p in pages)
+    merged.append(candidate)
+    groups[:] = merged
+
+
+def _merge_continuation_chains(
+    groups: list[SpanGroup],
+    doc: fitz.Document,
+) -> list[SpanGroup]:
+    """Collapse pairwise N→N+1 continuation detections into single chains."""
+    continuations: list[SpanGroup] = []
+    other: list[SpanGroup] = []
+    for g in groups:
+        if g.span_type == "continuation":
+            continuations.append(g)
+        else:
+            other.append(g)
+
+    by_gid: dict[str, list[SpanGroup]] = {}
+    for g in continuations:
+        by_gid.setdefault(g.group_id, []).append(g)
+
+    merged_continuations: list[SpanGroup] = []
+    for gid, spans in by_gid.items():
+        spans.sort(key=lambda s: (s.start_page, s.end_page))
+        chain = spans[0]
+        for nxt in spans[1:]:
+            if _spans_overlap_or_adjacent(chain, nxt):
+                chain = _merge_span_pair(chain, nxt, doc)
+            else:
+                merged_continuations.append(chain)
+                chain = nxt
+        merged_continuations.append(chain)
+
+    result = other + merged_continuations
+    result.sort(key=lambda g: (g.start_page, g.end_page))
+    return result
 
 
 def _detect_adjacent_title_continuations(
@@ -209,6 +272,13 @@ def detect_spans() -> list[SpanGroup]:
             163,
             "Setting and perspectives",
         ),
+        (
+            "scale_sign_language_repertoire",
+            "continuation",
+            146,
+            148,
+            "Sign language repertoire",
+        ),
     ]
     for gid, stype, s, e, title in explicit:
         if stype == "continuation":
@@ -226,8 +296,8 @@ def detect_spans() -> list[SpanGroup]:
                 )
             )
 
+    groups = _merge_continuation_chains(groups, doc)
     doc.close()
-    groups.sort(key=lambda g: (g.start_page, g.end_page))
     return groups
 
 
