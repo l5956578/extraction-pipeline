@@ -98,7 +98,7 @@ again damnit you dropped 3 blocks of prose before the figure...
 
 and the png of the figure is crap
 
-see in C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction\user debug
+see in D:\y\lang-platform\pipelines\extraction-pipeline\user debug
 
 the 'output of page 34.png' for what the Figure 2 looks like that you screenshotted and you'll see what's wrong with it
 

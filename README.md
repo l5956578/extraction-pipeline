@@ -1,5 +1,8 @@
 # CEFR Companion Volume — Extraction Pipeline
 
+**Location:** `D:\y\lang-platform\pipelines\extraction-pipeline`  
+(Moved from `C:\Users\59565\Documents\Python Scripts\extraction-pipeline`. Nested under the lang-platform monorepo; this folder remains its own git root.)
+
 Extracts the CEFR Companion Volume PDF into **database-ready Markdown**.
 
 | Document | Role |

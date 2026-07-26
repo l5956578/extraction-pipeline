@@ -2,6 +2,6 @@
   "valid": true,
   "issue_count": 0,
   "issues": [],
-  "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\final_output\\CEFR_Companion_Volume.md",
-  "golden_dir": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\metadata\\golden"
+  "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\final_output\\CEFR_Companion_Volume.md",
+  "golden_dir": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\metadata\\golden"
 }

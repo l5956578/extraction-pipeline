@@ -4,52 +4,52 @@
   "failed": 0,
   "results": [
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_01.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_01.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_02.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_02.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_03.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_03.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_04.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_04.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_05.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_05.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_06.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_06.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_07.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_07.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_08.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_08.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_09.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_09.md",
       "valid": true,
       "issues": []
     },
     {
-      "path": "C:\\Users\\59565\\.grok\\worktrees\\python-scripts-extraction-pipeline\\agent-extraction\\cleaned\\chunk_10.md",
+      "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\cleaned\\chunk_10.md",
       "valid": true,
       "issues": []
     }

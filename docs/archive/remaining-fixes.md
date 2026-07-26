@@ -1,7 +1,7 @@
 # Extraction Remaining Fixes Plan
 
 **Status:** Implemented (`078f0b8`) — see honest outcomes in **`metadata/EXTRACTION_DEBUG_HISTORY.md`**  
-**Worktree:** `C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction`  
+**Worktree:** `D:\y\lang-platform\pipelines\extraction-pipeline`  
 **Deliverable:** `final_output/CEFR_Companion_Volume.md`
 
 This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures (attempt 2). For cross-session history of both attempts, read **`metadata/EXTRACTION_DEBUG_HISTORY.md`** first.

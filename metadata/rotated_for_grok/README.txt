@@ -26,5 +26,5 @@ Commands
 
 Pending agent .md: 51
 Ready: 37
-Manifest: C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction\metadata\rotated_for_grok\manifest.json
-Output dir: C:\Users\59565\.grok\worktrees\python-scripts-extraction-pipeline\agent-extraction\metadata\rotated_from_grok
+Manifest: D:\y\lang-platform\pipelines\extraction-pipeline\metadata\rotated_for_grok\manifest.json
+Output dir: D:\y\lang-platform\pipelines\extraction-pipeline\metadata\rotated_from_grok
