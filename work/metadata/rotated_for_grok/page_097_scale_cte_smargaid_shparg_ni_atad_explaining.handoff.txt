@@ -1,0 +1,12 @@
+Page: 97
+Span: scale_explaining_data_in_graphs_diagrams_etc (pages 97)
+Title: Explaining data in graphs, diagrams (etc.)
+Role: start
+Rotation: 90
+Slug: page_097_scale_cte_smargaid_shparg_ni_atad_explaining
+PNG: work/metadata/rotated_for_grok/page_097_scale_cte_smargaid_shparg_ni_atad_explaining.png
+Write markdown: work/metadata/rotated_from_grok/page_097_scale_cte_smargaid_shparg_ni_atad_explaining.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

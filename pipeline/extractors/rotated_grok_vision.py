@@ -5,10 +5,10 @@ Geometry/OCR cannot reliably extract rotated CEFR scale tables. Chat/web Grok
 drafts are **not** part of the pipeline (optional offline tool only; never required).
 
 Canonical path:
-  1. prepare_*  — crop PNG + JSON + handoff → metadata/rotated_for_grok/
+  1. prepare_*  — crop PNG + JSON + handoff → work/metadata/rotated_for_grok/
   2. **Agent vision (required for quality)** — coding agent re-reads each
        page_*.png in-session with multimodal vision and writes
-       metadata/rotated_from_grok/{slug}.md
+       work/metadata/rotated_from_grok/{slug}.md
   3. assemble_* — merge per-page .md into span body
   4. finalize_after_grok.py / full extract — cleanup + merge
 
@@ -46,14 +46,14 @@ AGENT VISION EXTRACTION (rotated tables only — user is out of the loop)
 You (coding agent with vision) are the sole authoritative extractor for rotated
 descriptor-scale tables. Do **not** ask the user to upload PNGs to chat/web Grok.
 
-For each pending slug in metadata/rotated_for_grok/manifest.json:
+For each pending slug in work/metadata/rotated_for_grok/manifest.json:
 
-  1. Open metadata/rotated_for_grok/{slug}.png with vision.
+  1. Open work/metadata/rotated_for_grok/{slug}.png with vision.
   2. Transcribe every descriptor into markdown:
        | Level | Receptive | Productive |
      Blank Level on second row when PDF has a horizontal rule (B2/B1 multi-row).
      Join descriptors in a cell with <br>.
-  3. Write metadata/rotated_from_grok/{slug}.md (table only).
+  3. Write work/metadata/rotated_from_grok/{slug}.md (table only).
   4. After a span is complete (or for a production run with geometry fallback):
        python finalize_after_grok.py
 
@@ -217,8 +217,8 @@ def _handoff_text(meta: dict[str, Any]) -> str:
         f"Role: {meta.get('span_role', 'single')}\n"
         f"Rotation: {meta.get('rotation', 90)}\n"
         f"Slug: {meta['slug']}\n"
-        f"PNG: metadata/rotated_for_grok/{meta['slug']}.png\n"
-        f"Write markdown: metadata/rotated_from_grok/{meta['slug']}.md\n"
+        f"PNG: work/metadata/rotated_for_grok/{meta['slug']}.png\n"
+        f"Write markdown: work/metadata/rotated_from_grok/{meta['slug']}.md\n"
         f"\n"
         f"AUTHORITY: coding agent vision only (no chat/web Grok step).\n"
         f"Schema: | Level | Receptive | Productive |  multi-row: blank Level.\n"
@@ -448,10 +448,10 @@ def pending_placeholder(span_group_id: str, page_nums: list[int]) -> str:
     lines = [
         f"<!-- GROK_VISION_PENDING: {span_group_id} pages={page_nums[0]}-{page_nums[-1]} -->",
         "<!-- Rotated table: agent vision .md missing; extract may use geometry fallback. -->",
-        "<!-- Agent: re-read PNGs in metadata/rotated_for_grok/ and write rotated_from_grok/ -->",
+        "<!-- Agent: re-read PNGs in work/metadata/rotated_for_grok/ and write rotated_from_grok/ -->",
     ]
     for slug in slugs:
-        lines.append(f"<!--   - {slug}.png → metadata/rotated_from_grok/{slug}.md -->")
+        lines.append(f"<!--   - {slug}.png → work/metadata/rotated_from_grok/{slug}.md -->")
     lines.append("<!-- Then: python finalize_after_grok.py -->")
     return "\n".join(lines)
 
@@ -562,7 +562,7 @@ def prepare_all_rotated_from_inventories(
 
 
 def write_handoff_readme(*, errors: list[str] | None = None) -> Path:
-    """Write metadata/rotated_for_grok/README.txt with agent vision workflow."""
+    """Write work/metadata/rotated_for_grok/README.txt with agent vision workflow."""
     ROTATED_FOR_GROK_DIR.mkdir(parents=True, exist_ok=True)
     pending = get_pending_rotated_tables()
     received = refresh_manifest_statuses().get("received", 0)
@@ -591,8 +591,8 @@ def write_handoff_readme(*, errors: list[str] | None = None) -> Path:
         "# Rotated tables — agent vision (user out of the loop)\n\n"
         + AGENT_VISION_INSTRUCTIONS
         + "\n\n## Paths\n\n"
-        "- PNG / JSON / handoff: `metadata/rotated_for_grok/`\n"
-        "- Agent markdown: `metadata/rotated_from_grok/{slug}.md`\n"
+        "- PNG / JSON / handoff: `work/metadata/rotated_for_grok/`\n"
+        "- Agent markdown: `work/metadata/rotated_from_grok/{slug}.md`\n"
         "- Module: `pipeline/extractors/rotated_grok_vision.py`\n"
         "- Footnotes: geometry `rotated_footnote_zone` (not vision)\n"
         "- Missing .md at extract time: geometry fallback + HTML comment\n"

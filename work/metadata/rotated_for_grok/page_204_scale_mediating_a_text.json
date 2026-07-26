@@ -1,0 +1,23 @@
+{
+  "slug": "page_204_scale_mediating_a_text",
+  "page": 204,
+  "span_group_id": "scale_mediating_a_text",
+  "display_title": "Mediating a text",
+  "span_pages": [
+    204
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_204_scale_mediating_a_text.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_204_scale_mediating_a_text.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_204_scale_mediating_a_text.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_204_scale_mediating_a_text.handoff.txt",
+  "status": "pending_agent_vision",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    70.44484999999997,
+    517.0702,
+    771.2326818181817
+  ]
+}

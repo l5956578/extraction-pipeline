@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render a full PDF page to metadata/qa_snapshots/page_NNN.png for Vision QA.
+"""Render a full PDF page to work/metadata/qa_snapshots/page_NNN.png for Vision QA.
 
 Hard rules:
   - Full page only (never crop).
@@ -171,8 +171,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--out-dir",
         type=str,
-        default="metadata/qa_snapshots",
-        help="Output directory (default: metadata/qa_snapshots)",
+        default="work/metadata/qa_snapshots",
+        help="Output directory (default: work/metadata/qa_snapshots)",
     )
     # Advanced only: not for routine use. Changing scale breaks snapshot determinism;
     # always pair with --force and treat prior QA on that page as void.

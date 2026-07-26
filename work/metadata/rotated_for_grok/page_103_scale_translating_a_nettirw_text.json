@@ -1,0 +1,24 @@
+{
+  "slug": "page_103_scale_translating_a_nettirw_text",
+  "page": 103,
+  "span_group_id": "scale_translating_a_nettirw_text",
+  "display_title": "Translating a nettirw text",
+  "span_pages": [
+    103,
+    104
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_103_scale_translating_a_nettirw_text.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_103_scale_translating_a_nettirw_text.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_103_scale_translating_a_nettirw_text.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_103_scale_translating_a_nettirw_text.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.6577,
+    70.07914999999997,
+    521.4332166666667,
+    771.2323076923077
+  ]
+}

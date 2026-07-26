@@ -47,7 +47,7 @@ Do **all** that apply — do not skip to “what do you want me to do?”:
 | Check | How |
 |-------|-----|
 | MD slice | Read page body from `output/CEFR_Companion_Volume.md` (markers at end of page; same slice rules as Vision skill / `adjacent_guard._page_body`) |
-| Visual | If layout/chrome/placement: full-page snapshot `metadata/qa_snapshots/page_NNN.png` or PDF page |
+| Visual | If layout/chrome/placement: full-page snapshot `work/metadata/qa_snapshots/page_NNN.png` or PDF page |
 | Inventory / RO | If placement or type wrong: page’s `reading_order` in the chunk inventory |
 | Prior fix | Open the ledger; note matching RIE ids and which chunks/pages they already covered |
 
@@ -127,7 +127,7 @@ After a **NOVEL** fix is evidence-backed (gates green; Vision pass if visual):
 - Claim full-book re-extract or **inventory rebuild alone** fixed a class without code proof (see **RIE-005** / `L07-ID-REBUILD`).
 - Skip user-named Vision QA pages to “save time” while matching.
 - Invent a second open-issue database parallel to `STATUS.md`.
-- Wipe or bulk-rewrite `metadata/rotated_from_grok/*.md` (88 vision tables) unless an entry explicitly allows alias-only touch.
+- Wipe or bulk-rewrite `work/metadata/rotated_from_grok/*.md` (88 vision tables) unless an entry explicitly allows alias-only touch.
 - Layer a second representation without replace semantics (C2-ADJ).
 
 ---

@@ -39,10 +39,10 @@ python finalize_after_grok.py
 ### Rotated tables
 
 Geometry/OCR are **not** production quality for rotated descriptor scales.  
-**Coding-agent vision** writes `metadata/rotated_from_grok/*.md`. See:
+**Coding-agent vision** writes `work/metadata/rotated_from_grok/*.md`. See:
 
 - [`STATUS.md`](STATUS.md) §6 (coverage)
-- [`metadata/ROTATED_TABLES_AGENT_VISION.md`](metadata/ROTATED_TABLES_AGENT_VISION.md)
+- [`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md)
 
 **Appendix 5 (pp. 191–241)** still needs vision markdown (open item R1).
 
@@ -66,11 +66,11 @@ Promotion (platform): **copy** from `output/` → `lang-platform/staging/pending
 | Path | Role |
 |------|------|
 | `input/` | Source PDF only |
-| `output/` | Shippable deliverables (was `final_output/`) |
+| `output/` | Shippable deliverables |
 | `pipeline/` | Extractors, layout, cleanup, postprocess |
 | `inventories/` | Per-chunk `reading_order` contracts |
-| `raw_extraction/` / `cleaned/` / `chunks/` | Intermediate (not promoted) |
-| `metadata/` | QA, rotated tables, registries (not promoted) |
+| `work/raw_extraction/` / `work/cleaned/` / `work/chunks/` | Intermediate (not promoted) |
+| `work/metadata/` | QA, rotated tables, registries (not promoted) |
 | `post-processing/` | Thin CLI only (`format_markdown.py`) |
 | `docs/archive/` | Historical notes (not current status) |
 

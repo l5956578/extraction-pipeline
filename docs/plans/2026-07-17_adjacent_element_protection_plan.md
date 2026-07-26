@@ -188,7 +188,7 @@ This aligns with CONTRACTS §1–2 but **enforces** what code currently violates
 
 For pages in log 04 checklist (27–47):
 
-- Store `metadata/golden/page_NNN.snippet.md` or phrase sets: must_have / must_not_have.
+- Store `work/metadata/golden/page_NNN.snippet.md` or phrase sets: must_have / must_not_have.
 - On any extract of chunk_02, fail if golden fails.
 - Stops “Fig 11 fixed, 3.1 gone” from shipping green.
 
@@ -220,7 +220,7 @@ For pages in log 04 checklist (27–47):
 | `pipeline/callout_detect.py` / extract callout | Single emit, placement policy |
 | `pipeline/post_process.py` | No cross-fence joins |
 | `pipeline/contract_validators.py` | Adjacent gates |
-| `metadata/golden/` | Page neighbor snippets |
+| `work/metadata/golden/` | Page neighbor snippets |
 | `user debug/log 04.md` | Checklist source of truth for goldens |
 | `STATUS.md` | New backlog ID e.g. **C2-ADJ** / **E6** |
 

@@ -46,8 +46,8 @@ Extract the full CEFR Companion Volume PDF into **database-ready Markdown** suit
 | End-to-end pipeline (spans → inventory → extract → cleanup → merge → figures → format) | **Operational** |
 | Normal prose / tables / TOC / figures | **Working** (with known residual quality issues) |
 | Rotated tables (all inventory-flagged pages) | **Personal deep-audit complete** — **88** pages; 0 pending; 0 geometry fallback |
-| Appendix 5 domain examples (pp. 191–241) | **Done** — personal multi-pass; log: `metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt` |
-| Non–Appx5 rotated scales (37 pages) | **Done** — personal multi-pass; log: `metadata/rotated_from_grok/_DEEP_AUDIT_LOG_NON_APPX5.txt`; rewrites: 104, 113, 119, 154, 162 |
+| Appendix 5 domain examples (pp. 191–241) | **Done** — personal multi-pass; log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt` |
+| Non–Appx5 rotated scales (37 pages) | **Done** — personal multi-pass; log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG_NON_APPX5.txt`; rewrites: 104, 113, 119, 154, 162 |
 | Formatting postprocess | **Integrated** into merge / `iterate_format.py` (~4s) |
 | Isolated smoke harness | `../attempt4_rotation_smoke_test/` (historical; main is source of truth) |
 
@@ -69,8 +69,8 @@ PDF
 
 **Rotated tables (default method `grok_vision`):**
 
-1. `prepare_rotated_for_grok.py` → PNG/JSON/handoff in `metadata/rotated_for_grok/`
-2. **Coding agent** (multimodal vision) writes `metadata/rotated_from_grok/{slug}.md`
+1. `prepare_rotated_for_grok.py` → PNG/JSON/handoff in `work/metadata/rotated_for_grok/`
+2. **Coding agent** (multimodal vision) writes `work/metadata/rotated_from_grok/{slug}.md`
 3. Extract assembles those files; **if missing** → geometry fallback + `AGENT_VISION_PENDING` HTML comment
 
 Chat/web Grok is **not** a pipeline step. Geometry/OCR are **fallback only**.
@@ -132,7 +132,7 @@ Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 3. Gates: `adjacent_guard` green; `contract_validators` green
 
 **Rotated tables protection:**
-- Pre-run snapshot: **88** `metadata/rotated_from_grok/page_*.md` files (fp `a775bdc69156cb9a`)
+- Pre-run snapshot: **88** `work/metadata/rotated_from_grok/page_*.md` files (fp `a775bdc69156cb9a`)
 - Post-run: same count + fingerprint **unchanged**
 - Final MD: `AGENT_VISION_PENDING=0`, `geometry_fallback=0`, sign-language scale id present
 - Did **not** re-run `prepare_rotated` or overwrite vision `.md`
@@ -150,7 +150,7 @@ Statuses: **blocker** | **major** | **minor** | **debt**
 | ID | Item | Priority | Notes |
 |----|------|----------|-------|
 | R1 | ~~Appendix 5 agent vision~~ | **resolved** | 51 pages written 2026-07-14; finalize re-extracted chunk_08 et al. |
-| R2 | ~~Appendix 5 personal multi-pass deep-audit~~ | **resolved** | Coding agent personally vision-audited all 51 Appx5 pages (same bar as 146–148). Log: `metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`. Structural rewrite p.191; 192–197 rewritten; 198–241 verified match PNG. chunk_08 re-extract + figures + postprocess; PENDING=0, geometry_fallback=0. |
+| R2 | ~~Appendix 5 personal multi-pass deep-audit~~ | **resolved** | Coding agent personally vision-audited all 51 Appx5 pages (same bar as 146–148). Log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`. Structural rewrite p.191; 192–197 rewritten; 198–241 verified match PNG. chunk_08 re-extract + figures + postprocess; PENDING=0, geometry_fallback=0. |
 | R3 | Reversed/garbled `span_group_id` / display titles in inventory (e.g. `noitacilbup`) | **improved (final MD)** / debt in inventory | **Final MD:** re-derive id from fixed ### / table title (`title_fix` + `_resync_artifact_ids_from_fixed_titles`, RIE-005). Inventory JSON may still hold old tokens until re-extract — **not** fixed by rebuild alone |
 
 ### P1 — Output quality (non-rotated)
@@ -258,7 +258,7 @@ These are **not** optional commentary. They are logged requirements, policy, and
 
 ## 6. Rotated table inventory (authoritative method)
 
-### Agent vision complete (`metadata/rotated_from_grok/`, 37 files)
+### Agent vision complete (`work/metadata/rotated_from_grok/`, 37 files)
 
 | Pages | Scale / artifact (group id may be garbled) |
 |-------|-----------------------------------------------|
@@ -288,10 +288,10 @@ These are **not** optional commentary. They are logged requirements, policy, and
 
 **Standard:** same as pages 146–148 — coding agent multi-pass: read PNG with vision → rewrite or verify MD → re-check structure (level bands, multi-can `<br>` cells, blank domains, `[not applicable]`, split domain rows).
 
-**Audit log:** `metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`
+**Audit log:** `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`
 
-PNG prep for all **88** rotated pages: `metadata/rotated_for_grok/`.  
-Vision markdown for all **88**: `metadata/rotated_from_grok/`. **Pending: 0. Geometry fallback in final: 0.**
+PNG prep for all **88** rotated pages: `work/metadata/rotated_for_grok/`.  
+Vision markdown for all **88**: `work/metadata/rotated_from_grok/`. **Pending: 0. Geometry fallback in final: 0.**
 
 ---
 
@@ -320,7 +320,7 @@ Vision markdown for all **88**: `metadata/rotated_from_grok/`. **Pending: 0. Geo
 python run_pipeline.py --step spans
 python run_pipeline.py --step inventory
 python prepare_rotated_for_grok.py
-# Agent: vision-write any missing metadata/rotated_from_grok/*.md
+# Agent: vision-write any missing work/metadata/rotated_from_grok/*.md
 python -u run_production_extract.py
 ```
 
@@ -347,9 +347,9 @@ python finalize_after_grok.py
 | **`STATUS.md` (this file)** | **Single source of truth** — done / open / how to run |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Pipeline design & contracts |
 | [`README.md`](README.md) | Quick start |
-| [`metadata/ROTATED_TABLES_AGENT_VISION.md`](metadata/ROTATED_TABLES_AGENT_VISION.md) | Rotated vision procedure |
-| [`metadata/figures_handling.md`](metadata/figures_handling.md) | Figure render policy |
-| [`metadata/sqlite_schema_notes.md`](metadata/sqlite_schema_notes.md) | Downstream DB notes |
+| [`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md) | Rotated vision procedure |
+| [`work/metadata/figures_handling.md`](work/metadata/figures_handling.md) | Figure render policy |
+| [`work/metadata/sqlite_schema_notes.md`](work/metadata/sqlite_schema_notes.md) | Downstream DB notes |
 | [`docs/archive/`](docs/archive/) | **Historical only** — attempts 2–4 debug logs, old plans |
 
 **Deprecated as source of truth:** `docs/archive/EXTRACTION_DEBUG_HISTORY.md` (history preserved; open bugs rolled into §5 here).

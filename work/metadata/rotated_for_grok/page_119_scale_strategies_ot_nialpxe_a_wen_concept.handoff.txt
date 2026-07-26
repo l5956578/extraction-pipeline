@@ -1,0 +1,12 @@
+Page: 119
+Span: scale_strategies_to_explain_a_new_concept (pages 119-120)
+Title: Strategies to explain a new concept
+Role: start
+Rotation: 90
+Slug: page_119_scale_strategies_ot_nialpxe_a_wen_concept
+PNG: work/metadata/rotated_for_grok/page_119_scale_strategies_ot_nialpxe_a_wen_concept.png
+Write markdown: work/metadata/rotated_from_grok/page_119_scale_strategies_ot_nialpxe_a_wen_concept.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

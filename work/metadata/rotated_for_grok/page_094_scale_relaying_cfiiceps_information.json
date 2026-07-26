@@ -1,0 +1,24 @@
+{
+  "slug": "page_094_scale_relaying_cfiiceps_information",
+  "page": 94,
+  "span_group_id": "scale_relaying_cfiiceps_information",
+  "display_title": "Relaying cfiiceps information",
+  "span_pages": [
+    94,
+    95
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_094_scale_relaying_cfiiceps_information.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_094_scale_relaying_cfiiceps_information.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_094_scale_relaying_cfiiceps_information.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_094_scale_relaying_cfiiceps_information.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    70.07919999999996,
+    526.9290500000001,
+    771.2327083333333
+  ]
+}

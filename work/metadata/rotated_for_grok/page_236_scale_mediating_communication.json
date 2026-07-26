@@ -1,0 +1,23 @@
+{
+  "slug": "page_236_scale_mediating_communication",
+  "page": 236,
+  "span_group_id": "scale_mediating_communication",
+  "display_title": "Mediating communication",
+  "span_pages": [
+    236
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_236_scale_mediating_communication.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_236_scale_mediating_communication.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_236_scale_mediating_communication.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_236_scale_mediating_communication.handoff.txt",
+  "status": "pending_agent_vision",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.657375,
+    70.44484999999997,
+    531.1432333333333,
+    771.2326363636363
+  ]
+}

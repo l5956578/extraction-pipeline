@@ -1,0 +1,12 @@
+Page: 113
+Span: scale_leading_group_work (pages 113)
+Title: Leading group work
+Role: start
+Rotation: 90
+Slug: page_113_scale_leading_group_work
+PNG: work/metadata/rotated_for_grok/page_113_scale_leading_group_work.png
+Write markdown: work/metadata/rotated_from_grok/page_113_scale_leading_group_work.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

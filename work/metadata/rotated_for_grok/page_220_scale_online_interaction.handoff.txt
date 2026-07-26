@@ -1,0 +1,12 @@
+Page: 220
+Span: scale_online_interaction (pages 191-241)
+Title: Online interaction
+Role: middle
+Rotation: 90
+Slug: page_220_scale_online_interaction
+PNG: work/metadata/rotated_for_grok/page_220_scale_online_interaction.png
+Write markdown: work/metadata/rotated_from_grok/page_220_scale_online_interaction.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

@@ -16,8 +16,8 @@
 | `docs/ARCHITECTURE.md` | Pipeline stages; inventory RO SoT; rotated path; validation |
 | `docs/CONTRACTS.md` | Binding extract contracts: UV-01 callouts, figures, links, tables, gates, C2-ADJ |
 | `docs/ADJACENT_ELEMENT_PROTECTION.md` | Neighbor protection; replace semantics; callout placement (top-left / end-body) |
-| `metadata/figures_handling.md` | PNG vs text_diagram vs mermaid; crop policy; apply_figures strip soup |
-| `metadata/ROTATED_TABLES_AGENT_VISION.md` | Vision path for rotated tables; never wipe `rotated_from_grok` |
+| `work/metadata/figures_handling.md` | PNG vs text_diagram vs mermaid; crop policy; apply_figures strip soup |
+| `work/metadata/ROTATED_TABLES_AGENT_VISION.md` | Vision path for rotated tables; never wipe `rotated_from_grok` |
 | `skills/init.txt` | User/plan intent for coder↔Vision QA loop |
 | `pipeline/config.py` | `ROOT`, `PDF_PATH`, `FINAL_DIR`, `METADATA_DIR`, `RENDER_SCALE=2.0` |
 | `pipeline/adjacent_guard.py` | `_page_body` slice (markers at page end); neighbor gates |
@@ -78,7 +78,7 @@
 
 ### Rotated tables
 
-22. Default path: `metadata/rotated_from_grok/{slug}.md` (88 pages complete). **Never delete or rewrite** those vision files as part of this QA skill.
+22. Default path: `work/metadata/rotated_from_grok/{slug}.md` (88 pages complete). **Never delete or rewrite** those vision files as part of this QA skill.
 23. Geometry/OCR is fallback only; footnotes on rotated pages stay geometry.
 
 ### Trust / claims (UV-04)
@@ -89,7 +89,7 @@
 ### Snapshot / skill-specific (from plan + init)
 
 26. Vision QA uses **full-page PNG only** — never crop the QA snapshot.
-27. Snapshots only for pages with open bugs; store and **reuse** valid `metadata/qa_snapshots/page_NNN.png` unless `--force` (reject empty/corrupt).
+27. Snapshots only for pages with open bugs; store and **reuse** valid `work/metadata/qa_snapshots/page_NNN.png` unless `--force` (reject empty/corrupt).
 28. Scale locked to `pipeline.config.RENDER_SCALE` (2.0) for determinism.
 29. QA agent is **pure observer** — structured pass/fail only; never code, rewrite MD, or design.
 30. Coding loop: max **4 fix attempts** (baseline QA free); after each fix **re-slice** MD before re-QA; then escalate.
@@ -100,5 +100,5 @@
 ## Related paths (not re-read fully; known from above)
 
 - `docs/ISSUES_CHAPTER2_DIAGNOSIS.md` — issue catalog / user voice detail
-- `metadata/page_renders/` — ad-hoc debug renders (distinct from `metadata/qa_snapshots/`)
+- `work/metadata/page_renders/` — ad-hoc debug renders (distinct from `work/metadata/qa_snapshots/`)
 - `pipeline/extractors/rotated_grok_vision.py` — rotated assemble path

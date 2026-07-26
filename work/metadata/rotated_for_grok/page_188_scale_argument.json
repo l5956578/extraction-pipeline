@@ -1,0 +1,25 @@
+{
+  "slug": "page_188_scale_argument",
+  "page": 188,
+  "span_group_id": "scale_argument",
+  "display_title": "Argument",
+  "span_pages": [
+    187,
+    188,
+    189
+  ],
+  "span_role": "middle",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_188_scale_argument.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_188_scale_argument.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_188_scale_argument.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_188_scale_argument.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65725,
+    70.47394999999995,
+    522.1927499999999,
+    771.23275
+  ]
+}

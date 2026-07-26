@@ -8,7 +8,7 @@
 - Plan: `docs/plans/2026-07-17_adjacent_element_protection_plan.md`  
 - Ledger: `docs/ADJACENT_ELEMENT_PROTECTION.md`  
 - STATUS C2-ADJ, AGENTS.md, CONTRACTS.md  
-- Code: `adjacent_guard`, `page_layout.should_drop_line_for_exclusive`, `extract_chunk`, `figure_inject`, `page_elements` callout placement, `post_process`, `metadata/golden/*`  
+- Code: `adjacent_guard`, `page_layout.should_drop_line_for_exclusive`, `extract_chunk`, `figure_inject`, `page_elements` callout placement, `post_process`, `work/metadata/golden/*`  
 - Live deliverable: `output/CEFR_Companion_Volume.md`  
 - Inventory: `inventories/chunk_02_inventory.json` (pages **26–50**)  
 - Commands: `python -m pipeline.adjacent_guard` → **OK**; `python -m pipeline.contract_validators` → **OK**

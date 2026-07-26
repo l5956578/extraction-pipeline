@@ -54,8 +54,8 @@ flowchart TD
 agent-extraction/
 ├── chunks/                          # chunk_XX_pages_XX-YY.pdf
 ├── inventories/                     # chunk_XX_inventory.json
-├── raw_extraction/                  # chunk_XX.md
-├── cleaned/                         # chunk_XX.md
+├── work/raw_extraction/                  # chunk_XX.md
+├── work/cleaned/                         # chunk_XX.md
 ├── output/
 │   ├── CEFR_Companion_Volume.md     # single combined deliverable
 │   ├── manifest.json                # website navigation + product catalog
@@ -63,7 +63,7 @@ agent-extraction/
 │   └── assets/
 │       ├── figures/                 # figure_NN_slug.png
 │       └── tables/                  # fallback renders for failed OCR tables
-├── metadata/
+├── work/metadata/
 │   ├── spanning_tables.json         # continuation groups (merge targets)
 │   ├── cleanup_report.md
 │   └── sqlite_schema_notes.md
@@ -273,10 +273,10 @@ Flat records for **all content types**:
 }
 ```
 
-### 4. [`metadata/sqlite_schema_notes.md`](metadata/sqlite_schema_notes.md)
+### 4. [`work/metadata/sqlite_schema_notes.md`](work/metadata/sqlite_schema_notes.md)
 DB best practices: stable slug PKs; `content_nodes` tree; `artifacts` (tables, figures, section_blocks); `scale_rows` (level × descriptor); `products` tier mapping; `asset_path` vs BLOB; manifest-driven UI sidebar; product queries (`WHERE 'base' IN product_tiers`).
 
-### 5. [`metadata/cleanup_report.md`](metadata/cleanup_report.md)
+### 5. [`work/metadata/cleanup_report.md`](work/metadata/cleanup_report.md)
 
 ---
 
@@ -297,7 +297,7 @@ The user should **never** need a manual merge step. Continuation detection + ID 
 ## Execution Order (post-approval)
 
 1. Scaffold pipeline modules + requirements.txt
-2. Span/continuation detection → `metadata/spanning_tables.json`
+2. Span/continuation detection → `work/metadata/spanning_tables.json`
 3. Chunk PDF (10 files)
 4. Build inventories with merge groups + section blocks
 5. Extract all content per chunk → raw MD + assets

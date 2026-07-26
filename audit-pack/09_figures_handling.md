@@ -10,7 +10,7 @@
 
 **Figure 2** is a crossing-arrow diagram — never approximate with Mermaid.
 
-**Figures 6–7** are radar profiles. PNG is canonical; structured levels for future UI live in `metadata/figure_06_profile_data.json` (and figure_07 when verified). Each axis level is the blue polygon edge / filled dot on the outer ring, read per quadrant left-to-right.
+**Figures 6–7** are radar profiles. PNG is canonical; structured levels for future UI live in `work/metadata/figure_06_profile_data.json` (and figure_07 when verified). Each axis level is the blue polygon edge / filled dot on the outer ring, read per quadrant left-to-right.
 
 ## Text extraction
 

@@ -44,8 +44,8 @@ Overall language proficiency
     "text_diagram",
 )
 
-# Figures 2–10 are PNG assets (see metadata/figures_registry.json + multipass crop).
-# Profile level data for radar charts: metadata/figure_06_profile_data.json
+# Figures 2–10 are PNG assets (see work/metadata/figures_registry.json + multipass crop).
+# Profile level data for radar charts: work/metadata/figure_06_profile_data.json
 
 _entry(
     "figure_11_reception_activities_strategies",

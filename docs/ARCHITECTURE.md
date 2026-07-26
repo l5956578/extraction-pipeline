@@ -17,11 +17,11 @@ This document describes **how the system is designed**, not day-to-day status.
 ## 2. Pipeline stages
 
 ```
-0. spans      span_detector → metadata/spanning_tables.json
+0. spans      span_detector → work/metadata/spanning_tables.json
 1. chunker    optional PDF chunks under chunks/
 2. inventory  per-chunk inventories/*_inventory.json (reading_order)
-3. extract    raw_extraction/chunk_*.md
-4. cleanup    cleaned/chunk_*.md
+3. extract    work/raw_extraction/chunk_*.md
+4. cleanup    work/cleaned/chunk_*.md
 5. merge      output/CEFR_Companion_Volume.md (+ registry, manifest)
 6. figures    apply_figures (inject diagrams / PNG refs)
 7. format     pipeline/post_process.py (in-place on final MD)
@@ -56,7 +56,7 @@ Each page lists ordered elements. Extract iterates this list **strictly**.
 
 ### 3.2 Multipage artifacts
 
-Configured in `pipeline/config.py` (`MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`) and `metadata/spanning_tables.json`.
+Configured in `pipeline/config.py` (`MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`) and `work/metadata/spanning_tables.json`.
 
 - Emit full table body on **start** page only.
 - Continuation pages: trailing prose + footnotes + page footer only.
@@ -92,13 +92,13 @@ Rotated descriptor scales (~90° text) are not reliable via pdfplumber geometry 
 | Stage | Location |
 |-------|----------|
 | Detect | Inventory `table_orientation: rotated_*`, `extractor: rotated_table` |
-| Prepare | `prepare_rotated_for_grok.py` → `metadata/rotated_for_grok/` |
-| Authoritative extract | Coding agent vision → `metadata/rotated_from_grok/{slug}.md` |
+| Prepare | `prepare_rotated_for_grok.py` → `work/metadata/rotated_for_grok/` |
+| Authoritative extract | Coding agent vision → `work/metadata/rotated_from_grok/{slug}.md` |
 | Assemble | `rotated_grok_vision.assemble_grok_rotated_span` |
 | Fallback | Geometry (no forced OCR thrash); HTML `AGENT_VISION_PENDING` |
 
 Slug: `page_{NNN}_{span_group_id}`  
-Procedure: `metadata/ROTATED_TABLES_AGENT_VISION.md`
+Procedure: `work/metadata/ROTATED_TABLES_AGENT_VISION.md`
 
 ### 4.3 Footnotes on rotated pages
 
@@ -121,8 +121,8 @@ Historical snapshot: `docs/archive/CEFR_Companion_Volume_structured.legacy.md`.
 
 ## 6. Figures
 
-- Policy: `metadata/figures_handling.md`
-- Registry: `metadata/figures_registry.json`
+- Policy: `work/metadata/figures_handling.md`
+- Registry: `work/metadata/figures_registry.json`
 - Inject: `apply_figures` after merge; skip TOC region
 
 ---
@@ -130,7 +130,7 @@ Historical snapshot: `docs/archive/CEFR_Companion_Volume_structured.legacy.md`.
 ## 7. Validation
 
 - Per-chunk: `validators.py` (during pipeline)
-- Final: `output_validator.py` → `metadata/output_validation.json`
+- Final: `output_validator.py` → `work/metadata/output_validation.json`
 - **Contract gates (fail closed):** `pipeline/contract_validators.py` — soup, multi-fig, callouts, links, URLs, empty tables (see CONTRACTS §8)
 
 **Policy:** Green mass-only checks ≠ fixed. STATUS “resolved” requires the named contract gate green. User PDF QA remains authoritative for crop quality and residual layout.

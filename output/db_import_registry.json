@@ -257,7 +257,7 @@
     ],
     "anchor": "#figure_06_fictional_profile_clil",
     "render_as": "png",
-    "profile_data": "metadata/figure_06_profile_data.json"
+    "profile_data": "work/metadata/figure_06_profile_data.json"
   },
   {
     "id": "figure_07_profile_postgraduate_sciences",
@@ -273,7 +273,7 @@
     ],
     "anchor": "#figure_07_profile_postgraduate_sciences",
     "render_as": "png",
-    "profile_data": "metadata/figure_07_profile_data.json"
+    "profile_data": "work/metadata/figure_07_profile_data.json"
   },
   {
     "id": "figure_08_plurilingual_proficiency_fewer_categories",

@@ -44,7 +44,7 @@ PDF → spans → chunks → inventory → extract → cleanup → merge → val
 python run_pipeline.py --step merge
 ```
 
-Check `../metadata/output_validation.json`.
+Check `../work/metadata/output_validation.json`.
 
 ## Plan files
 

@@ -58,7 +58,7 @@ There is **no exclusive, validated ownership** of each page region: extract ofte
 | **P1** | **Done with selective exclusive filter** | Crop rects guide **diagram-label** exclusion only (`should_drop_line_for_exclusive`): real prose sentences in the same y-band are **kept** (fixes p.39–40 neighbor loss). Level/language axis rows stripped under PNG. Multi-fig emit order by figure number. text_diagram: catalog replace + soup strip (not exclusive bbox). Soup strip remains load-bearing for residual dual emit — not “structurally impossible” for every multi-fig edge case. |
 | **P2** | **Done** | Callout placement policy (log 04): **top-left → first in RO**; **else → end of body before footnotes**. Exclusive obstacles for prose_segments. Single title emit via `emit_callout_blockquote` (title split, partial-para dedupe, known titles). Table-path callouts use same emit helper. |
 | **P3** | **Done** | `_is_block_starter` includes `el:start/end`, footnotes, images, `Page **N**`, headings, db:id, blockquotes. `_ensure_blank_before_page_captions`. p.47 `### 3.1` restore + **dedupe** (one heading). Callout title dedupe. |
-| **P4** | **Done** | `metadata/golden/page_{027,028,029,032,035,038,047}.json` with must_have / must_not_have / counts; wired into `adjacent_guard`. |
+| **P4** | **Done** | `work/metadata/golden/page_{027,028,029,032,035,038,047}.json` with must_have / must_not_have / counts; wired into `adjacent_guard`. |
 | **Docs** | **Done** | This file, STATUS C2-ADJ, CONTRACT_HARDENING_PROGRESS, CONTRACTS C2-ADJ (prior). |
 
 ### Concrete product effects verified
@@ -84,7 +84,7 @@ There is **no exclusive, validated ownership** of each page region: extract ofte
 - `pipeline/callout_detect.py` — exclusive band stitch + single-title blockquote
 - `pipeline/post_process.py` — fence-aware joins, page blank, 3.1 restore/dedupe
 - `pipeline/adjacent_guard.py` — gates + golden suite
-- `metadata/golden/*.json`
+- `work/metadata/golden/*.json`
 
 ---
 

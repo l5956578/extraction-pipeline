@@ -1,0 +1,12 @@
+Page: 103
+Span: scale_translating_a_written_text (pages 103-104)
+Title: Translating a written text
+Role: start
+Rotation: 90
+Slug: page_103_scale_translating_a_nettirw_text
+PNG: work/metadata/rotated_for_grok/page_103_scale_translating_a_nettirw_text.png
+Write markdown: work/metadata/rotated_from_grok/page_103_scale_translating_a_nettirw_text.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

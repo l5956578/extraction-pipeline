@@ -1,0 +1,24 @@
+{
+  "slug": "page_162_scale_setting_and_perspectives",
+  "page": 162,
+  "span_group_id": "scale_setting_and_perspectives",
+  "display_title": "Setting and perspectives",
+  "span_pages": [
+    162,
+    163
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_162_scale_setting_and_perspectives.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_162_scale_setting_and_perspectives.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_162_scale_setting_and_perspectives.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_162_scale_setting_and_perspectives.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    69.87920000000003,
+    510.58195,
+    771.2326999999999
+  ]
+}

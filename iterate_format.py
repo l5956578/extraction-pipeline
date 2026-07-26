@@ -36,7 +36,7 @@ def main() -> None:
     parser.add_argument(
         "--from-cleaned",
         action="store_true",
-        help="Re-merge cleaned/*.md into final, then postprocess",
+        help="Re-merge work/cleaned/*.md into final, then postprocess",
     )
     parser.add_argument(
         "--from-raw",

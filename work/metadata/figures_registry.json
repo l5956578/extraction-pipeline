@@ -1,0 +1,200 @@
+{
+  "figures": [
+    {
+      "num": 1,
+      "page": 32,
+      "id": "figure_01_structure_cefr_descriptive_scheme",
+      "title": "Figure 1 \u2013 The structure of the CEFR descriptive scheme",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 2,
+      "page": 34,
+      "id": "figure_02_reception_production_interaction_mediation",
+      "title": "Figure 2 \u2013 The relationship between reception, production, interaction and mediation",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.435,
+        "y1": 0.6,
+        "x0": 0.112,
+        "x1": 0.888
+      }
+    },
+    {
+      "num": 3,
+      "page": 36,
+      "id": "figure_03_cefr_common_reference_levels",
+      "title": "Figure 3 \u2013 CEFR Common Reference Levels",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.53,
+        "y1": 0.678,
+        "x0": 0.39,
+        "x1": 0.61
+      }
+    },
+    {
+      "num": 4,
+      "page": 36,
+      "id": "figure_04_rainbow",
+      "title": "Figure 4 \u2013 A rainbow",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.775,
+        "y1": 0.9,
+        "x0": 0.11,
+        "x1": 0.415
+      }
+    },
+    {
+      "num": 5,
+      "page": 36,
+      "id": "figure_05_conventional_six_colours",
+      "title": "Figure 5 \u2013 The conventional six colours",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.775,
+        "y1": 0.9,
+        "x0": 0.59,
+        "x1": 0.89
+      }
+    },
+    {
+      "num": 6,
+      "page": 38,
+      "id": "figure_06_fictional_profile_clil",
+      "title": "Figure 6 \u2013 A fictional profile of needs in an additional language \u2013 lower secondary CLIL",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.618,
+        "y1": 0.935,
+        "x0": 0.05,
+        "x1": 0.95
+      },
+      "profile_data": "work/metadata/figure_06_profile_data.json"
+    },
+    {
+      "num": 7,
+      "page": 39,
+      "id": "figure_07_profile_postgraduate_sciences",
+      "title": "Figure 7 \u2013 A profile of needs in an additional language \u2013 postgraduate natural sciences (fictional)",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.272,
+        "y1": 0.63,
+        "x0": 0.05,
+        "x1": 0.95
+      },
+      "profile_data": "work/metadata/figure_07_profile_data.json"
+    },
+    {
+      "num": 8,
+      "page": 40,
+      "id": "figure_08_plurilingual_proficiency_fewer_categories",
+      "title": "Figure 8 \u2013 A plurilingual proficiency profile with fewer categories",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.145,
+        "y1": 0.498,
+        "x0": 0.18,
+        "x1": 0.82
+      }
+    },
+    {
+      "num": 9,
+      "page": 40,
+      "id": "figure_09_overall_proficiency_one_language",
+      "title": "Figure 9 \u2013 A proficiency profile \u2013 overall proficiency in one language",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.6,
+        "y1": 0.728,
+        "x0": 0.1,
+        "x1": 0.9
+      }
+    },
+    {
+      "num": 10,
+      "page": 40,
+      "id": "figure_10_plurilingual_oral_comprehension",
+      "title": "Figure 10 \u2013 A plurilingual proficiency profile \u2013 Oral comprehension across languages",
+      "render_as": "png",
+      "crop": {
+        "y0": 0.818,
+        "y1": 0.92,
+        "x0": 0.1,
+        "x1": 0.9
+      }
+    },
+    {
+      "num": 11,
+      "page": 47,
+      "id": "figure_11_reception_activities_strategies",
+      "title": "Figure 11 \u2013 Reception activities and strategies",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 12,
+      "page": 61,
+      "id": "figure_12_production_activities_strategies",
+      "title": "Figure 12 \u2013 Production activities and strategies",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 13,
+      "page": 71,
+      "id": "figure_13_interaction_activities_strategies",
+      "title": "Figure 13 \u2013 Interaction activities and strategies",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 14,
+      "page": 90,
+      "id": "figure_14_mediation_activities_strategies",
+      "title": "Figure 14 \u2013 Mediation activities and strategies",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 15,
+      "page": 123,
+      "id": "figure_15_plurilingual_pluricultural_competence",
+      "title": "Figure 15 \u2013 Plurilingual and pluricultural competence",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 16,
+      "page": 129,
+      "id": "figure_16_communicative_language_competences",
+      "title": "Figure 16 \u2013 Communicative language competences",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 17,
+      "page": 144,
+      "id": "figure_17_signing_competences",
+      "title": "Figure 17 \u2013 Signing competences",
+      "render_as": "text_diagram"
+    },
+    {
+      "num": 18,
+      "page": 244,
+      "id": "figure_18_young_learner_project_design",
+      "title": "Figure 18 \u2013 Development design of Young Learner Project",
+      "render_as": "mermaid"
+    },
+    {
+      "num": 19,
+      "page": 249,
+      "id": "figure_19_multimethod_research_design",
+      "title": "Figure 19 \u2013 Multimethod developmental research design",
+      "render_as": "mermaid"
+    },
+    {
+      "num": 20,
+      "page": 254,
+      "id": "figure_20_sign_language_project_phases",
+      "title": "Figure 20 \u2013 The phases of the sign language project",
+      "render_as": "mermaid"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 # Extraction Remaining Fixes Plan
 
-**Status:** Implemented (`078f0b8`) — see honest outcomes in **`metadata/EXTRACTION_DEBUG_HISTORY.md`**  
+**Status:** Implemented (`078f0b8`) — see honest outcomes in **`work/metadata/EXTRACTION_DEBUG_HISTORY.md`**  
 **Worktree:** `D:\y\lang-platform\pipelines\extraction-pipeline`  
 **Deliverable:** `output/CEFR_Companion_Volume.md`
 
-This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures (attempt 2). For cross-session history of both attempts, read **`metadata/EXTRACTION_DEBUG_HISTORY.md`** first.
+This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures (attempt 2). For cross-session history of both attempts, read **`work/metadata/EXTRACTION_DEBUG_HISTORY.md`** first.
 
 ---
 
@@ -12,7 +12,7 @@ This document captures the diagnosis, constraints, and implementation plan for t
 
 ### What the audit got right vs wrong
 
-The post-implementation audit correctly observed that the **reading_order architecture is wired and active**: `pipeline/page_elements.py` builds per-page element lists, `pipeline/inventory.py` attaches them to every inventory entry, and `pipeline/extract_chunk.py` iterates `for el in reading_order` without `content_type` routing. Re-extraction on 7/3/2026 did run against this code (timestamps in `raw_extraction/` and `cleaned/`).
+The post-implementation audit correctly observed that the **reading_order architecture is wired and active**: `pipeline/page_elements.py` builds per-page element lists, `pipeline/inventory.py` attaches them to every inventory entry, and `pipeline/extract_chunk.py` iterates `for el in reading_order` without `content_type` routing. Re-extraction on 7/3/2026 did run against this code (timestamps in `work/raw_extraction/` and `work/cleaned/`).
 
 What the audit overstated: calling these paths "working" because they **exist and execute**. The failures below are not stale-data artifacts from an old extractor—they are **logic gaps inside the new contract** plus a merge/post-process layer that cannot reconstruct structure lost at extract time.
 
@@ -39,11 +39,11 @@ Failure injection points:
 
 The `missing_trailing_prose` validator in `output_validator.py` never fires because **no trailing element exists in `reading_order`** to validate against.
 
-Span detection for Table 2 **does work** (`table_02_summary_descriptor_changes` in `metadata/spanning_tables.json`); the merge emits `pages=24-25` correctly. The loss is **post-table zone content**, not span merge itself.
+Span detection for Table 2 **does work** (`table_02_summary_descriptor_changes` in `work/metadata/spanning_tables.json`); the merge emits `pages=24-25` correctly. The loss is **post-table zone content**, not span merge itself.
 
 ### 2. Non-rotated span merge failure (pages 106–107)
 
-**Observed:** Two separate `db:id=scale_expressing_a_personal_response...` blocks, both `pages=106`, in `output/CEFR_Companion_Volume.md` and `raw_extraction/chunk_05.md`.
+**Observed:** Two separate `db:id=scale_expressing_a_personal_response...` blocks, both `pages=106`, in `output/CEFR_Companion_Volume.md` and `work/raw_extraction/chunk_05.md`.
 
 **Root cause:** `span_detector.py` only groups continuations inside runs of `_is_table_page` pages (`hlines > 10 AND vlines > 5`). Page 106 has `drawings: 24`, `expects_table: false` — it fails the gate, so `spanning_info: null` in inventory and both pages emit independent single-table artifacts with `span: null`.
 
@@ -51,14 +51,14 @@ This is a **detection gap**, not an extract-loop regression. The reading_order c
 
 ### 3. Rotated tables (including pages 162–163 "Setting and perspectives")
 
-**Observed:** Title sometimes correct (`### Setting and perspectives`) but cell bodies are OCR gibberish (e.g. `ainjsod | Apog` in `raw_extraction/chunk_07.md`).
+**Observed:** Title sometimes correct (`### Setting and perspectives`) but cell bodies are OCR gibberish (e.g. `ainjsod | Apog` in `work/raw_extraction/chunk_07.md`).
 
 **Root causes:**
 
 1. **`merge_rotated_pages` always forces OCR** — `pipeline/extractors/multipage.py` line 68: `force_ocr=True` on every page in a rotated span, bypassing pdfplumber even when derotation would make it readable.
 2. **OCR table reconstruction is unsuitable** — `pipeline/extractors/rotated.py` `_ocr_page_to_table` buckets words by `top // 20`; this cannot recover descriptor-scale column structure.
 3. **Cell-reversal fallback is insufficient** — `_reverse_table_cells` operates on pdfplumber output from **un-derotated** pages; text layers remain scrambled.
-4. **Title/slug inconsistency** — `metadata/spanning_tables.json` stores reversed slug `scale_sevitcepsrep_dna_gnittes` while inventory/registry use `scale_setting_and_perspectives`. `title_fix` runs in some paths but **not before `slugify` in span_detector**, causing group_id drift for rotated spans.
+4. **Title/slug inconsistency** — `work/metadata/spanning_tables.json` stores reversed slug `scale_sevitcepsrep_dna_gnittes` while inventory/registry use `scale_setting_and_perspectives`. `title_fix` runs in some paths but **not before `slugify` in span_detector**, causing group_id drift for rotated spans.
 
 `_table_readable` gate passes too easily (CEFR level tokens like `C2` in gibberish), so the OCR path is not rejected.
 
@@ -98,8 +98,8 @@ Post-process can **improve spacing** but cannot fix page-47 header placement wit
 **Ensuring latest logic (no stale partial data):**
 
 - Re-run `inventory` (calls `detect_spans()` internally) to overwrite all `inventories/chunk_*_inventory.json`.
-- Re-extract only listed chunks; verify file mtimes and `metadata/last_format_run.txt` after run.
-- Add `metadata/extraction_emit_log.json` logging per-page element types emitted vs `reading_order` — catches silent skips.
+- Re-extract only listed chunks; verify file mtimes and `work/metadata/last_format_run.txt` after run.
+- Add `work/metadata/extraction_emit_log.json` logging per-page element types emitted vs `reading_order` — catches silent skips.
 
 **Not sufficient alone:**
 
@@ -180,7 +180,7 @@ In `pipeline/output_validator.py`:
 - `missing_trailing_prose`: also check span-start pages where inventory `text_length` implies footnotes below table but no `trailing`/`footnote` element in `reading_order`.
 - `rotated_table_unreadable`: run against derotated extract output with stricter gate.
 - Add `reading_order_completeness`: every `section_headers` entry must have corresponding heading in chunk output.
-- Emit `metadata/extraction_emit_log.json` per extract run.
+- Emit `work/metadata/extraction_emit_log.json` per extract run.
 
 ---
 
@@ -219,7 +219,7 @@ python -m pipeline.output_validator
 python run_pipeline.py --step validate
 ```
 
-Expect `metadata/output_validation.json` → `valid: true` (or zero hits on the five issue types above).
+Expect `work/metadata/output_validation.json` → `valid: true` (or zero hits on the five issue types above).
 
 ### Manual diff commands
 
@@ -282,4 +282,4 @@ If `extract_chunk` CLI only supports `extract_all`, add a `--chunk` flag to `pip
 - **106–107:** Single merged artifact with `pages=106-107`.
 - **162–163:** Rotated tables use derotated pdfplumber + cell reversal; readable English (minor `fo`/`ro` char artifacts remain in short tokens).
 - **47:** Mixed `prose → figure → footer` with `### 3.1. RECEPTION`; page-boundary ordering improved but Ch.3 opener still interleaves with figure block between page 46–47 markers (further tuning possible).
-- **Validation:** `metadata/output_validation.json` still reports issues (273); many are pre-existing `page_under_extracted` on pure-text pages, not the five target failures.
+- **Validation:** `work/metadata/output_validation.json` still reports issues (273); many are pre-existing `page_under_extracted` on pure-text pages, not the five target failures.

@@ -78,6 +78,6 @@ inventory → extract (page_layout + table routing) → cleanup → merge → va
 
 Merge includes `apply_figures` and final prose formatting (`pipeline/post_process.py`), writing a single deliverable: `output/CEFR_Companion_Volume.md`.
 
-- Paragraph merge, chapter formatting, page-marker spacing, bullet cleanup — see `metadata/post_processing.md`
+- Paragraph merge, chapter formatting, page-marker spacing, bullet cleanup — see `work/metadata/post_processing.md`
 - **Bold spacing** uses `prose_format.fix_bold_markdown()` once at the end; OCR typo fixes never strip spaces around `**`
 - Signature blocks (name + bold title + footnotes) stay separate from the preceding paragraph

@@ -1,7 +1,0 @@
-{
-  "valid": true,
-  "issue_count": 0,
-  "issues": [],
-  "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\output\\CEFR_Companion_Volume.md",
-  "golden_dir": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\metadata\\golden"
-}

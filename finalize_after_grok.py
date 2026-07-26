@@ -2,9 +2,9 @@
 """
 Re-extract (picks up agent vision markdown), then cleanup + merge.
 
-Run after agent has written metadata/rotated_from_grok/page_*_*.md for pending
+Run after agent has written work/metadata/rotated_from_grok/page_*_*.md for pending
 rotated tables (re-read PNGs with vision first — see
-metadata/ROTATED_TABLES_AGENT_VISION.md).
+work/metadata/ROTATED_TABLES_AGENT_VISION.md).
 """
 
 from __future__ import annotations
@@ -58,7 +58,7 @@ def main() -> None:
     if pending:
         print(f"Global pending: {len(pending)} table page(s) without .md")
         for row in pending[:20]:
-            print(f"  missing: metadata/rotated_from_grok/{row.get('slug')}.md")
+            print(f"  missing: work/metadata/rotated_from_grok/{row.get('slug')}.md")
         if len(pending) > 20:
             print(f"  ... and {len(pending) - 20} more")
 

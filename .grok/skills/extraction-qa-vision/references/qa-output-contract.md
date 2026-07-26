@@ -2,7 +2,7 @@
 
 The Vision QA agent is a **pure observer**. It compares:
 
-1. Full-page PNG (`metadata/qa_snapshots/page_NNN.png`)
+1. Full-page PNG (`work/metadata/qa_snapshots/page_NNN.png`)
 2. Markdown slice for that page
 3. Rules in `extraction-invariants.md`
 

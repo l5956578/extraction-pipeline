@@ -43,12 +43,12 @@ def main() -> None:
         print("\n--- Coding agent must vision-read PNGs (user not in loop) ---")
         for row in pending[:30]:
             slug = row.get("slug", "")
-            print(f"  {slug}.png → metadata/rotated_from_grok/{slug}.md")
+            print(f"  {slug}.png → work/metadata/rotated_from_grok/{slug}.md")
         if len(pending) > 30:
             print(f"  ... and {len(pending) - 30} more (see manifest.json)")
 
     print(f"\nREADME: {ROTATED_FOR_GROK_DIR / 'README.txt'}")
-    print("Brief:  metadata/ROTATED_TABLES_AGENT_VISION.md")
+    print("Brief:  work/metadata/ROTATED_TABLES_AGENT_VISION.md")
 
 
 if __name__ == "__main__":

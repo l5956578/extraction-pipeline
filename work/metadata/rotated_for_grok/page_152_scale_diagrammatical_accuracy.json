@@ -1,0 +1,25 @@
+{
+  "slug": "page_152_scale_diagrammatical_accuracy",
+  "page": 152,
+  "span_group_id": "scale_diagrammatical_accuracy",
+  "display_title": "Diagrammatical accuracy",
+  "span_pages": [
+    150,
+    151,
+    152
+  ],
+  "span_role": "end",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_152_scale_diagrammatical_accuracy.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_152_scale_diagrammatical_accuracy.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_152_scale_diagrammatical_accuracy.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_152_scale_diagrammatical_accuracy.handoff.txt",
+  "status": "pending_grok_extraction",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.65729999999999,
+    69.87920000000003,
+    518.1628,
+    771.2326875
+  ]
+}

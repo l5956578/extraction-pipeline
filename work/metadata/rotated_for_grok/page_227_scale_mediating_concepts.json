@@ -1,0 +1,23 @@
+{
+  "slug": "page_227_scale_mediating_concepts",
+  "page": 227,
+  "span_group_id": "scale_mediating_concepts",
+  "display_title": "Mediating concepts",
+  "span_pages": [
+    227
+  ],
+  "span_role": "start",
+  "rotation": 90,
+  "image_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_227_scale_mediating_concepts.png",
+  "metadata_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_227_scale_mediating_concepts.json",
+  "expected_md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_from_grok\\page_227_scale_mediating_concepts.md",
+  "handoff_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\metadata\\rotated_for_grok\\page_227_scale_mediating_concepts.handoff.txt",
+  "status": "pending_agent_vision",
+  "extraction_authority": "agent_vision",
+  "table_bbox": [
+    70.657375,
+    70.44482499999998,
+    322.4388333333333,
+    771.2326499999999
+  ]
+}

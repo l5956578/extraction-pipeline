@@ -4,7 +4,7 @@ Before changing extraction, formatting, or rotated-table behavior:
 
 1. Read **[`STATUS.md`](STATUS.md)** (single source of truth: done / open / runbook).
 2. Read **[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)** if changing design or contracts.
-3. For rotated tables, follow **[`metadata/ROTATED_TABLES_AGENT_VISION.md`](metadata/ROTATED_TABLES_AGENT_VISION.md)**.
+3. For rotated tables, follow **[`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md)**.
 
 Do **not** treat `docs/archive/**` as current requirements.
 

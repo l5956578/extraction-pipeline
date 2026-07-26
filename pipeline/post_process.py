@@ -35,7 +35,7 @@ from pipeline.toc_format import (
 )
 
 FINAL_MARKDOWN = FINAL_DIR / "CEFR_Companion_Volume.md"
-RUN_LOG = ROOT / "metadata" / "last_format_run.txt"
+RUN_LOG = ROOT / "work" / "metadata" / "last_format_run.txt"
 
 # PDF list-marker artifacts only — never match a wrapped word like "form".
 _BULLET_MARKERS = re.compile(

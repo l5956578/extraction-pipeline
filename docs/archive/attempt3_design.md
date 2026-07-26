@@ -40,8 +40,8 @@ Fix inventory/extraction contract violations causing missing page-25 prose, dupl
 
 ### PR 5: Pipeline re-run and documentation
 
-- **Description:** Run `spans`, `inventory`, partial re-extract (chunk_01, chunk_02, chunk_06), cleanup, merge, postprocess, validator. Update `metadata/EXTRACTION_DEBUG_HISTORY.md` with attempt 3 outcomes.
-- **Files/components affected:** `metadata/EXTRACTION_DEBUG_HISTORY.md`, pipeline outputs
+- **Description:** Run `spans`, `inventory`, partial re-extract (chunk_01, chunk_02, chunk_06), cleanup, merge, postprocess, validator. Update `work/metadata/EXTRACTION_DEBUG_HISTORY.md` with attempt 3 outcomes.
+- **Files/components affected:** `work/metadata/EXTRACTION_DEBUG_HISTORY.md`, pipeline outputs
 - **Dependencies:** PR 4
 
 ## Success Criteria

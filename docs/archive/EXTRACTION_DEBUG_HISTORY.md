@@ -16,10 +16,10 @@
 
 **Main pipeline paths:**
 - `pipeline/extractors/rotated_grok_vision.py` — prepare PNG, assemble, pending placeholders
-- `metadata/rotated_for_grok/` — PNG + JSON + handoff + `manifest.json`
-- `metadata/rotated_from_grok/` — agent-corrected tables (`page_{NNN}_{span_group_id}.md`)
+- `work/metadata/rotated_for_grok/` — PNG + JSON + handoff + `manifest.json`
+- `work/metadata/rotated_from_grok/` — agent-corrected tables (`page_{NNN}_{span_group_id}.md`)
 - `prepare_rotated_for_grok.py` / `finalize_after_grok.py`
-- `metadata/ROTATED_TABLES_AGENT_VISION.md` — session instructions
+- `work/metadata/ROTATED_TABLES_AGENT_VISION.md` — session instructions
 - Default inventory method: `rotated_extraction_method: grok_vision` (`page_elements.py`)
 - Footnote 46 etc.: still geometry `rotated_footnote_zone` (not vision)
 
@@ -43,19 +43,19 @@
 
 | File | Role |
 |------|------|
-| **`metadata/EXTRACTION_DEBUG_HISTORY.md`** (this file) | **Canonical** bug registry, cross-attempt history, honest outcomes |
-| `metadata/ROTATED_TABLES_AGENT_VISION.md` | **Agent vision workflow** for rotated tables |
-| `metadata/rotated_for_grok/` | PNG handoffs + manifest |
-| `metadata/rotated_from_grok/` | Corrected markdown per table page |
-| `metadata/attempt3_design.md` | Attempt 3 PR plan (execute-plan) |
+| **`work/metadata/EXTRACTION_DEBUG_HISTORY.md`** (this file) | **Canonical** bug registry, cross-attempt history, honest outcomes |
+| `work/metadata/ROTATED_TABLES_AGENT_VISION.md` | **Agent vision workflow** for rotated tables |
+| `work/metadata/rotated_for_grok/` | PNG handoffs + manifest |
+| `work/metadata/rotated_from_grok/` | Corrected markdown per table page |
+| `work/metadata/attempt3_design.md` | Attempt 3 PR plan (execute-plan) |
 | `remaining-fixes.md` | Attempt 2 plan + checklist (mostly superseded; see this file for truth) |
-| `metadata/extraction_plan.md` | Operational spec (`reading_order` contract) |
-| `metadata/output_validation.json` | Latest validator output |
-| `metadata/spanning_tables.json` | Span groups (32 after attempt 3 chain merge) |
+| `work/metadata/extraction_plan.md` | Operational spec (`reading_order` contract) |
+| `work/metadata/output_validation.json` | Latest validator output |
+| `work/metadata/spanning_tables.json` | Span groups (32 after attempt 3 chain merge) |
 | `output/CEFR_Companion_Volume.md` | Deliverable under test |
 | `../attempt4_rotation_smoke_test/` | **Isolated** attempt 4 harness (pages 143–149 only) |
-| `../attempt4_rotation_smoke_test/metadata/smoke_test_results.md` | Attempt 4 run summary |
-| `../attempt4_rotation_smoke_test/metadata/rotated_table_flags.json` | Inventory-derived rotated-page flags |
+| `../attempt4_rotation_smoke_test/work/metadata/smoke_test_results.md` | Attempt 4 run summary |
+| `../attempt4_rotation_smoke_test/work/metadata/rotated_table_flags.json` | Inventory-derived rotated-page flags |
 
 **Git commits (attempt 3 stack on execute-plan branch):**
 
@@ -165,7 +165,7 @@ Partial improvements; introduced `span_duplicate_emit` mass false positives (85 
 
 ### Attempt 4a — page derotation + pdfplumber (2026-07-05) — **FAIL**
 
-**Approach:** After inventory, `permanent_derotate.py` called `Page.remove_rotation()` on flagged pages; `rotated.py` / `multipage.py` used pdfplumber on `metadata/work_derotated.pdf`.
+**Approach:** After inventory, `permanent_derotate.py` called `Page.remove_rotation()` on flagged pages; `rotated.py` / `multipage.py` used pdfplumber on `work/metadata/work_derotated.pdf`.
 
 **Outcome:** Table body still gibberish (`eriotreper\negaugnal\nngiS`). **Dead approach** for this PDF band.
 
@@ -204,7 +204,7 @@ Partial improvements; introduced `span_duplicate_emit` mass false positives (85 
 ### Current rotated-table reconstruction logic (attempt 4b — for next agent)
 
 **Canonical technical analysis (2026-07-05):**  
-`../attempt4_rotation_smoke_test/metadata/ROTATED_TABLE_RECONSTRUCTION.md`
+`../attempt4_rotation_smoke_test/work/metadata/ROTATED_TABLE_RECONSTRUCTION.md`
 
 Covers: column-order transpose (`Level | Productive | Receptive`), why `_collapse_rowspan_labels` does not create B2/B1 continuation rows, C2 receptive ordering failures, footnote 46 suppression, pages 147–148 fragment mixing, header detection (pdfplumber bbox only vs PyMuPDF geometry), and symptom→root-cause table. **Use that file for plan mode.**
 
@@ -214,7 +214,7 @@ Covers: column-order transpose (`Level | Productive | Receptive`), why `_collaps
 
 ### Inventory (detection only — both 4a and 4b)
 
-Pages **146, 147, 148** flagged `rotated_90`, span `scale_sign_language_repertoire` 146–148. `metadata/rotated_table_flags.json` written post-inventory by orchestrator (not `inventory.py`).
+Pages **146, 147, 148** flagged `rotated_90`, span `scale_sign_language_repertoire` 146–148. `work/metadata/rotated_table_flags.json` written post-inventory by orchestrator (not `inventory.py`).
 
 ### Content-stream forensics (pages 146–147) — evidence before conclusions
 
@@ -322,7 +322,7 @@ rg "page:25|page:47|page:146|sign_language_repertoire|Figure 11" output/CEFR_Com
 | 2026-07-04 | **User verification pass:** reopened A3, A4, B2–B4, C2–C5, D1–D2; downgraded attempt 3; added open bug registry; noted no master merge |
 | 2026-07-05 | **Attempt 4a FAIL:** derotation + pdfplumber; streams byte-identical; rotation in `Tm` not `/Rotate`; pdfplumber `(top,x0)` reverses cells |
 | 2026-07-05 | **Attempt 4b PARTIAL (test folder):** PyMuPDF matrix-aware cell assembly in `rotated.py`/`multipage.py`; readable `scale_sign_language_repertoire` text; C2 → PARTIAL test-only; not ported to main; documented reconstruction logic |
-| 2026-07-05 | **Approved fix plan (test folder):** `../attempt4_rotation_smoke_test/metadata/ROTATED_TABLE_FIX_PLAN.md` — band bounds, descriptor newlines, grid-rule sub-bands, surgical footnotes, continuation-page assembly; builds on `ROTATED_TABLE_RECONSTRUCTION.md` |
+| 2026-07-05 | **Approved fix plan (test folder):** `../attempt4_rotation_smoke_test/work/metadata/ROTATED_TABLE_FIX_PLAN.md` — band bounds, descriptor newlines, grid-rule sub-bands, surgical footnotes, continuation-page assembly; builds on `ROTATED_TABLE_RECONSTRUCTION.md` |
 | 2026-07-05 | **External audit pack:** `../attempt4_rotation_smoke_test/audit-pack/` — copies of plan, reconstruction, history, code snapshots, output slice, checklist; index `00_AUDIT_README.md` |
 
 **Maintainers:** Append after every fix attempt. Do not mark RESOLVED without user-visible proof in `output`.

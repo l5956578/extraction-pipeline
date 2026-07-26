@@ -74,8 +74,8 @@ def step_postprocess():
 def step_prepare_rotated():
     """Crop rotated table PNGs for agent vision handoff (does not extract text)."""
     prepared = prepare_all_rotated_from_inventories()
-    print(f"Prepare rotated: {len(prepared)} table page(s) → metadata/rotated_for_grok/")
-    print("Next: agent re-reads PNGs with vision → metadata/rotated_from_grok/ → finalize_after_grok.py")
+    print(f"Prepare rotated: {len(prepared)} table page(s) → work/metadata/rotated_for_grok/")
+    print("Next: agent re-reads PNGs with vision → work/metadata/rotated_from_grok/ → finalize_after_grok.py")
 
 
 def write_docs():
@@ -85,14 +85,14 @@ def write_docs():
         "Rule-based cleanup applied: hyphenation fixes, ligature removal, "
         "duplicate line removal, reversed-fragment correction.\n\n"
         "Rotated descriptor tables: agent vision handoff "
-        "(`metadata/rotated_for_grok/` + `rotated_from_grok/`; see "
+        "(`work/metadata/rotated_for_grok/` + `rotated_from_grok/`; see "
         "`ROTATED_TABLES_AGENT_VISION.md`). Footnotes on rotated pages use "
         "geometry surgical path. OCR remains fallback only.\n\n"
         "Continuation merges applied for:\n"
         "- `scale_vocabulary_control` (pages 132-133)\n"
         "- `table_self_assessment_grid` (pages 177-181)\n"
         "- Table 2 (pages 24-25)\n\n"
-        "Figures: see `metadata/figures_handling.md`. Post-merge `apply_figures` "
+        "Figures: see `work/metadata/figures_handling.md`. Post-merge `apply_figures` "
         "inserts text diagrams, profile tables, or mermaid per `figures_registry.json`; "
         "only Figure 4 (rainbow photo) is kept as PNG.\n",
         encoding="utf-8",

@@ -1,0 +1,12 @@
+Page: 151
+Span: scale_diagrammatical_accuracy (pages 150-152)
+Title: Diagrammatical accuracy
+Role: middle
+Rotation: 90
+Slug: page_151_scale_diagrammatical_accuracy
+PNG: work/metadata/rotated_for_grok/page_151_scale_diagrammatical_accuracy.png
+Write markdown: work/metadata/rotated_from_grok/page_151_scale_diagrammatical_accuracy.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

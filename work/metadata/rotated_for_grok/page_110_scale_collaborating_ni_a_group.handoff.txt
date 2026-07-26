@@ -1,0 +1,12 @@
+Page: 110
+Span: scale_collaborating_in_a_group (pages 110-111)
+Title: Collaborating in a group
+Role: start
+Rotation: 90
+Slug: page_110_scale_collaborating_ni_a_group
+PNG: work/metadata/rotated_for_grok/page_110_scale_collaborating_ni_a_group.png
+Write markdown: work/metadata/rotated_from_grok/page_110_scale_collaborating_ni_a_group.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

@@ -1,0 +1,12 @@
+Page: 100
+Span: scale_processing_text (pages 99-101)
+Title: Processing text
+Role: middle
+Rotation: 90
+Slug: page_100_scale_processing_text
+PNG: work/metadata/rotated_for_grok/page_100_scale_processing_text.png
+Write markdown: work/metadata/rotated_from_grok/page_100_scale_processing_text.md
+
+AUTHORITY: coding agent vision only (no chat/web Grok step).
+Schema: | Level | Receptive | Productive |  multi-row: blank Level.
+Then: python finalize_after_grok.py

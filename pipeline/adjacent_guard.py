@@ -5,7 +5,7 @@ See docs/CONTRACTS.md § adjacent-element protection and user debug/log 04.md.
 
 Fail closed: these issues used to ship green while the user found them.
 
-Golden suite: metadata/golden/page_NNN.json (must_have / must_not_have / counts).
+Golden suite: work/metadata/golden/page_NNN.json (must_have / must_not_have / counts).
 """
 
 from __future__ import annotations
