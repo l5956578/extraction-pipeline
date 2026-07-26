@@ -52,10 +52,10 @@ CREATE TABLE products (
 
 ## Import workflow
 
-1. Load `final_output/db_import_registry.json` → `artifacts` + `artifact_product_tiers`
+1. Load `output/db_import_registry.json` → `artifacts` + `artifact_product_tiers`
 2. Parse `<!-- db:id=... -->` comments in `CEFR_Companion_Volume.md` for prose blocks → `content_nodes`
 3. Split pipe tables under each artifact heading into `scale_rows` (CEFR level = first column when A1–C2)
-4. Copy `final_output/assets/` into web root; store paths in `figure_assets` (BLOB optional for portability)
+4. Copy `output/assets/` into web root; store paths in `figure_assets` (BLOB optional for portability)
 
 ## Product mapping (your offerings)
 

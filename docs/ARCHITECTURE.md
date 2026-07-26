@@ -7,7 +7,7 @@ This document describes **how the system is designed**, not day-to-day status.
 
 ## 1. Goals
 
-- One Markdown deliverable: `final_output/CEFR_Companion_Volume.md`
+- One Markdown deliverable: `output/CEFR_Companion_Volume.md`
 - Stable `<!-- db:id=… -->` artifact headers for ETL
 - Page anchors `<!-- page:N -->` for every PDF page 1–278
 - Faithful prose, tables, footnotes, and figures (with explicit figure policy)
@@ -22,7 +22,7 @@ This document describes **how the system is designed**, not day-to-day status.
 2. inventory  per-chunk inventories/*_inventory.json (reading_order)
 3. extract    raw_extraction/chunk_*.md
 4. cleanup    cleaned/chunk_*.md
-5. merge      final_output/CEFR_Companion_Volume.md (+ registry, manifest)
+5. merge      output/CEFR_Companion_Volume.md (+ registry, manifest)
 6. figures    apply_figures (inject diagrams / PNG refs)
 7. format     pipeline/post_process.py (in-place on final MD)
 8. validate   output_validator / validators

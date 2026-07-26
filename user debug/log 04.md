@@ -36,7 +36,7 @@ Here’s a concrete check list — only what helps. You don’t have to do it al
 | 14  | 30–32                                     | yes                     | embedded URLs appears to be working, just be sure that the sanatize happens for these too, not just hyperlinks from other elements (footntotes for exampel, but anywhere in the PDF)                                                                                                                                                                                                                                                                                                                            | Inline titles that were links in the PDF ( Guide, CARAP, plurilingual competence, etc.) | Title appears with a parenthetical URL (or URL already in a footnote on that page) |
 
 **File to open**  
-`final_output/CEFR_Companion_Volume.md`  
+`output/CEFR_Companion_Volume.md`  
 
 Search for `<!-- page:N -->` (e.g. page:30) — content for that page is above that marker.
 

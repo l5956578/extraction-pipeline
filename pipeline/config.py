@@ -2,12 +2,13 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PDF_PATH = ROOT / "CEFR Companion Volume_eng.pdf"
+PDF_PATH = ROOT / "input" / "CEFR Companion Volume_eng.pdf"
 CHUNKS_DIR = ROOT / "chunks"
 INVENTORIES_DIR = ROOT / "inventories"
 RAW_DIR = ROOT / "raw_extraction"
 CLEANED_DIR = ROOT / "cleaned"
-FINAL_DIR = ROOT / "final_output"
+# Shippable deliverables only (was output/)
+FINAL_DIR = ROOT / "output"
 ASSETS_FIGURES = FINAL_DIR / "assets" / "figures"
 ASSETS_TABLES = FINAL_DIR / "assets" / "tables"
 METADATA_DIR = ROOT / "metadata"

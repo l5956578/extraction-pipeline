@@ -3,7 +3,7 @@
 ## Single deliverable
 
 ```
-final_output/CEFR_Companion_Volume.md
+output/CEFR_Companion_Volume.md
 ```
 
 Paragraph merge, chapter formatting, page-marker spacing, bullet cleanup, and bold

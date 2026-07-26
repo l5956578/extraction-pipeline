@@ -46,7 +46,7 @@ def main() -> None:
     except Exception as exc:  # noqa: BLE001
         _log(f"postprocess: {exc}")
 
-    final = ROOT / "final_output" / "CEFR_Companion_Volume.md"
+    final = ROOT / "output" / "CEFR_Companion_Volume.md"
     t = final.read_text(encoding="utf-8")
     pages = re.findall(r"<!-- page:(\d+) -->", t)
     dups = sum(1 for i in range(len(pages) - 1) if pages[i] == pages[i + 1])

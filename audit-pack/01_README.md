@@ -27,10 +27,10 @@ Requires Tesseract OCR (for rotated pages).
 
 | Path | Description |
 |------|-------------|
-| `final_output/CEFR_Companion_Volume.md` | **The** final Markdown deliverable (merge + figures + formatted prose) |
-| `final_output/manifest.json` | Website navigation + product catalog |
-| `final_output/db_import_registry.json` | Flat artifact registry for SQLite ETL |
-| `final_output/assets/figures/` | Figure assets (PNG only for Figure 4 rainbow) |
+| `output/CEFR_Companion_Volume.md` | **The** final Markdown deliverable (merge + figures + formatted prose) |
+| `output/manifest.json` | Website navigation + product catalog |
+| `output/db_import_registry.json` | Flat artifact registry for SQLite ETL |
+| `output/assets/figures/` | Figure assets (PNG only for Figure 4 rainbow) |
 | `metadata/figures_registry.json` | All 20 figures with `render_as` classification |
 | `metadata/figures_handling.md` | Figure policy: text diagrams vs PNG vs mermaid |
 | `metadata/post_processing.md` | Formatting rules (integrated into merge) |

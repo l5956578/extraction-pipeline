@@ -22,7 +22,7 @@
 | `pipeline/config.py` | `ROOT`, `PDF_PATH`, `FINAL_DIR`, `METADATA_DIR`, `RENDER_SCALE=2.0` |
 | `pipeline/adjacent_guard.py` | `_page_body` slice (markers at page end); neighbor gates |
 | `pipeline/contract_validators.py` | Fail-closed contract gates |
-| `final_output/CEFR_Companion_Volume.md` | Page marker pattern (spot-check p.40–41) |
+| `output/CEFR_Companion_Volume.md` | Page marker pattern (spot-check p.40–41) |
 
 **Not treated as current requirements:** `docs/archive/**`
 
@@ -34,7 +34,7 @@
 
 1. **Sit on top of existing pipeline** — do not invent parallel PDF extraction, new element types, or new inventory→extract paths.
 2. **Inventory `reading_order` is SoT** for extract order; post_process may format but must not reorder page content arbitrarily.
-3. **Deliverable:** `final_output/CEFR_Companion_Volume.md` with `<!-- page:N -->` anchors for pages 1–278.
+3. **Deliverable:** `output/CEFR_Companion_Volume.md` with `<!-- page:N -->` anchors for pages 1–278.
 4. **PDF source (read-only):** `CEFR Companion Volume_eng.pdf` via `pipeline.config.PDF_PATH`.
 
 ### Page Markdown slicing

@@ -1,4 +1,4 @@
-"""Legacy CLI — formats final_output/CEFR_Companion_Volume.md in place.
+"""Legacy CLI — formats output/CEFR_Companion_Volume.md in place.
 
 Post-processing is integrated into ``run_pipeline.py --step merge``.
 Use this only to re-run formatting without a full merge::

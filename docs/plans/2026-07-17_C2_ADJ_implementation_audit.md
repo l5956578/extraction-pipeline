@@ -9,7 +9,7 @@
 - Ledger: `docs/ADJACENT_ELEMENT_PROTECTION.md`  
 - STATUS C2-ADJ, AGENTS.md, CONTRACTS.md  
 - Code: `adjacent_guard`, `page_layout.should_drop_line_for_exclusive`, `extract_chunk`, `figure_inject`, `page_elements` callout placement, `post_process`, `metadata/golden/*`  
-- Live deliverable: `final_output/CEFR_Companion_Volume.md`  
+- Live deliverable: `output/CEFR_Companion_Volume.md`  
 - Inventory: `inventories/chunk_02_inventory.json` (pages **26–50**)  
 - Commands: `python -m pipeline.adjacent_guard` → **OK**; `python -m pipeline.contract_validators` → **OK**
 
@@ -153,7 +153,7 @@ Nothing found that suggests the team **faked** validators or only edited docs wi
 
 ### Option A — Recommended: light human QA of chunk_02 only
 
-You do **not** need to re-audit code. Spot-check the PDF vs `final_output/CEFR_Companion_Volume.md` for:
+You do **not** need to re-audit code. Spot-check the PDF vs `output/CEFR_Companion_Volume.md` for:
 
 | Priority | Page | Confirm |
 |----------|------|---------|

@@ -5,7 +5,7 @@ Fast iteration for markdown formatting only (~3–5s).
 Use this after changing pipeline/post_process.py or pipeline/prose_format.py.
 Does NOT re-extract the PDF.
 
-  python iterate_format.py              # format final_output in place
+  python iterate_format.py              # format output in place
   python iterate_format.py --from-cleaned   # re-merge cleaned chunks then format
   python iterate_format.py --from-raw       # cleanup raw → cleaned → merge → format
 
@@ -74,7 +74,7 @@ def main() -> None:
     _log(f"Done in {elapsed:.1f}s")
     _log(f"  {result['input_lines']} → {result['output_lines']} lines")
     _log(f"  {result['output_path']}")
-    _log("Review: final_output/CEFR_Companion_Volume.md")
+    _log("Review: output/CEFR_Companion_Volume.md")
 
 
 if __name__ == "__main__":

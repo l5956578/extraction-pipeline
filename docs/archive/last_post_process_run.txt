@@ -1,5 +1,5 @@
 Post-processing completed: 2026-06-15 21:40:48
-Source: final_output\CEFR_Companion_Volume.md
+Source: output\CEFR_Companion_Volume.md
 Source size: 830463 bytes
 Source modified: 06/15/2026 11:03:02
 Output: post-processing\CEFR_Companion_Volume_structured.md

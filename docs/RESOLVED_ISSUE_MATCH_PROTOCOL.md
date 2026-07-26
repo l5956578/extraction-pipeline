@@ -46,7 +46,7 @@ Do **all** that apply — do not skip to “what do you want me to do?”:
 
 | Check | How |
 |-------|-----|
-| MD slice | Read page body from `final_output/CEFR_Companion_Volume.md` (markers at end of page; same slice rules as Vision skill / `adjacent_guard._page_body`) |
+| MD slice | Read page body from `output/CEFR_Companion_Volume.md` (markers at end of page; same slice rules as Vision skill / `adjacent_guard._page_body`) |
 | Visual | If layout/chrome/placement: full-page snapshot `metadata/qa_snapshots/page_NNN.png` or PDF page |
 | Inventory / RO | If placement or type wrong: page’s `reading_order` in the chunk inventory |
 | Prior fix | Open the ledger; note matching RIE ids and which chunks/pages they already covered |

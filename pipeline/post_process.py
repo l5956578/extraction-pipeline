@@ -1,6 +1,6 @@
 """Structured Markdown formatting — integrated final step of Session 1 merge.
 
-Reads and writes ``final_output/CEFR_Companion_Volume.md`` in place so there is a
+Reads and writes ``output/CEFR_Companion_Volume.md`` in place so there is a
 single deliverable (paragraph merge, chapter formatting, page-marker spacing).
 
 Merged from the former Session 2 ``format_markdown.py`` with these integration rules:

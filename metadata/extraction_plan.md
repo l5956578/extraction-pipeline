@@ -30,7 +30,7 @@ spans → inventory → extract → cleanup → merge → figures → post_proce
 4. **Rotated scales:** prefer `metadata/rotated_from_grok/{slug}.md` (agent vision). Geometry is fallback only.
 5. Trailing prose must **not** ingest the footnote/page-footer band (`first_footer_band_y`).
 6. Paragraph breaks for body use **y-gap**, not capital-after-period alone.
-7. Final formatting runs on the **single** deliverable `final_output/CEFR_Companion_Volume.md`.
+7. Final formatting runs on the **single** deliverable `output/CEFR_Companion_Volume.md`.
 
 ---
 

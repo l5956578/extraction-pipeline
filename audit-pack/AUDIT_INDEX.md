@@ -36,7 +36,7 @@ PDF → spans → chunks → inventory → extract → cleanup → merge → val
 
 ## Full deliverable (not in this pack)
 
-`../final_output/CEFR_Companion_Volume.md`
+`../output/CEFR_Companion_Volume.md`
 
 ## Re-run validation
 

@@ -71,4 +71,4 @@ Hard rule: **prefer action over questions.** The user is not the agent’s memor
 
 ## Deliverable
 
-`final_output/CEFR_Companion_Volume.md`
+`output/CEFR_Companion_Volume.md`

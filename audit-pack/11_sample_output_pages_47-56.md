@@ -1,6 +1,6 @@
 # Sample output excerpt: PDF pages 47–56 (Chapter 3 reception scales)
 
-> Extracted from `final_output/CEFR_Companion_Volume.md` for audit spot-checking.
+> Extracted from `output/CEFR_Companion_Volume.md` for audit spot-checking.
 
 ---
 

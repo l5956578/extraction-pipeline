@@ -2,7 +2,7 @@
 
 **Status:** Implemented (`078f0b8`) — see honest outcomes in **`metadata/EXTRACTION_DEBUG_HISTORY.md`**  
 **Worktree:** `D:\y\lang-platform\pipelines\extraction-pipeline`  
-**Deliverable:** `final_output/CEFR_Companion_Volume.md`
+**Deliverable:** `output/CEFR_Companion_Volume.md`
 
 This document captures the diagnosis, constraints, and implementation plan for the five remaining extraction failures (attempt 2). For cross-session history of both attempts, read **`metadata/EXTRACTION_DEBUG_HISTORY.md`** first.
 
@@ -43,7 +43,7 @@ Span detection for Table 2 **does work** (`table_02_summary_descriptor_changes` 
 
 ### 2. Non-rotated span merge failure (pages 106–107)
 
-**Observed:** Two separate `db:id=scale_expressing_a_personal_response...` blocks, both `pages=106`, in `final_output/CEFR_Companion_Volume.md` and `raw_extraction/chunk_05.md`.
+**Observed:** Two separate `db:id=scale_expressing_a_personal_response...` blocks, both `pages=106`, in `output/CEFR_Companion_Volume.md` and `raw_extraction/chunk_05.md`.
 
 **Root cause:** `span_detector.py` only groups continuations inside runs of `_is_table_page` pages (`hlines > 10 AND vlines > 5`). Page 106 has `drawings: 24`, `expects_table: false` — it fails the gate, so `spanning_info: null` in inventory and both pages emit independent single-table artifacts with `span: null`.
 
@@ -66,7 +66,7 @@ This is a **detection gap**, not an extract-loop regression. The reading_order c
 
 **Observed:** Page 47 has `section_headers: ["3.1. RECEPTION"]` but `reading_order` is only `figure_page + footer` (`inventories/chunk_02_inventory.json`). `page_elements.py` lines 264–268 short-circuit when `art.artifact_type == "figure"`.
 
-**Effect:** `extract_rich_page` dumps flat prose; `### 3.1. RECEPTION` appears **before** `<!-- page:47 -->`, then duplicate page markers, then `#### 3.1.1.` from page 48 **after** the markers (`final_output/CEFR_Companion_Volume.md` ~1388–1400). Section hierarchy is structurally inverted relative to page boundaries.
+**Effect:** `extract_rich_page` dumps flat prose; `### 3.1. RECEPTION` appears **before** `<!-- page:47 -->`, then duplicate page markers, then `#### 3.1.1.` from page 48 **after** the markers (`output/CEFR_Companion_Volume.md` ~1388–1400). Section hierarchy is structurally inverted relative to page boundaries.
 
 ### 5. `### 3` header formatting regression (merge/post-process + upstream)
 
@@ -224,10 +224,10 @@ Expect `metadata/output_validation.json` → `valid: true` (or zero hits on the 
 ### Manual diff commands
 
 ```powershell
-rg "page:24|page:25|footnote|Table 2" final_output/CEFR_Companion_Volume.md
-rg "scale_expressing_a_personal_response" final_output/CEFR_Companion_Volume.md
-rg "Setting and perspectives" final_output/CEFR_Companion_Volume.md
-rg "### 3\.1\. RECEPTION|#### 3\.1\.1\." final_output/CEFR_Companion_Volume.md
+rg "page:24|page:25|footnote|Table 2" output/CEFR_Companion_Volume.md
+rg "scale_expressing_a_personal_response" output/CEFR_Companion_Volume.md
+rg "Setting and perspectives" output/CEFR_Companion_Volume.md
+rg "### 3\.1\. RECEPTION|#### 3\.1\.1\." output/CEFR_Companion_Volume.md
 ```
 
 ---

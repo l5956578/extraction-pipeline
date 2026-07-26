@@ -80,7 +80,7 @@ For each open issue (or same-page batch — see efficiency):
 1. **Identify** page number(s) and element class from the bug report.
 2. **Snapshot** full-page PNG once via `scripts/render_page_png.py` (reuse thereafter).
 3. **Load** `references/extraction-invariants.md` and `references/qa-output-contract.md` (once per issue is enough; keep in context).
-4. **Prepare current MD slice** — re-read `final_output/CEFR_Companion_Volume.md` and slice page N **now** (see Page Markdown slice). **Never** reuse a stale pre-fix slice for a later Vision invocation.
+4. **Prepare current MD slice** — re-read `output/CEFR_Companion_Volume.md` and slice page N **now** (see Page Markdown slice). **Never** reuse a stale pre-fix slice for a later Vision invocation.
 5. **Invoke Vision QA** with: full-page PNG + **current** MD slice + full invariants text. Demand YAML only per contract.
 6. If `status: pass`:
    - If this was baseline (0 fixes) or any fix attempt → go to **After pass** (gates + report). Stop loop for this issue.
@@ -133,7 +133,7 @@ python .grok/skills/extraction-qa-vision/scripts/render_page_png.py --page 41 --
 
 ## Page Markdown slice
 
-Deliverable: `final_output/CEFR_Companion_Volume.md`
+Deliverable: `output/CEFR_Companion_Volume.md`
 
 Page markers are at the **END** of each page. Match `pipeline.adjacent_guard._page_body` / `contract_validators._page_body` exactly:
 

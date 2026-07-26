@@ -35,7 +35,7 @@
 - **OCR thrash:** geometry fallback no longer OCR-forces every rotated page (Appendix 5 was multi-hour).
 - **Inventory contract:** sound — `reading_order` drives extractors; defaults fill missing `rotated_extraction_method`. Re-inventory optional for field persistence.
 
-**Review file:** `final_output/CEFR_Companion_Volume.md` (~943 KB after postprocess).
+**Review file:** `output/CEFR_Companion_Volume.md` (~943 KB after postprocess).
 
 ---
 
@@ -52,7 +52,7 @@
 | `metadata/extraction_plan.md` | Operational spec (`reading_order` contract) |
 | `metadata/output_validation.json` | Latest validator output |
 | `metadata/spanning_tables.json` | Span groups (32 after attempt 3 chain merge) |
-| `final_output/CEFR_Companion_Volume.md` | Deliverable under test |
+| `output/CEFR_Companion_Volume.md` | Deliverable under test |
 | `../attempt4_rotation_smoke_test/` | **Isolated** attempt 4 harness (pages 143–149 only) |
 | `../attempt4_rotation_smoke_test/metadata/smoke_test_results.md` | Attempt 4 run summary |
 | `../attempt4_rotation_smoke_test/metadata/rotated_table_flags.json` | Inventory-derived rotated-page flags |
@@ -77,7 +77,7 @@ Status key: **OPEN** | **PARTIAL** | **RESOLVED**
 
 | ID | Bug | Status | Attempt 3 |
 |----|-----|--------|-----------|
-| A1 | Trailing prose below Table 2 on page 25 ("In addition to Chapter 2…") missing from output | **RESOLVED** | Inventory schedules `prose:trailing` on page 25; prose appears in `final_output` ~665 before `<!-- page:25 -->`. User confirmed good. |
+| A1 | Trailing prose below Table 2 on page 25 ("In addition to Chapter 2…") missing from output | **RESOLVED** | Inventory schedules `prose:trailing` on page 25; prose appears in `output` ~665 before `<!-- page:25 -->`. User confirmed good. |
 | A2 | Footnote **19** duplicated | **RESOLVED** | Single `19.` line in pages 24–25 region (~660). `_extract_span_body` no longer re-collects footnotes. |
 | A3 | Footnote **20** duplicated and misplaced | **OPEN** | **Not fixed.** Fn20 embedded inline in trailing prose (~667: `…schools",20 which helped…` plus full fn20 line same paragraph). Orphan `Introduction` + wrong-case marker `<!-- Page 25 -->` (~669–670) from PDF footer bleed. Fn20 repeated again (~672) before canonical `<!-- page:25 -->` (~674). Validator `footnote_single_owner` only checks fn19 — **gate is insufficient**; attempt 3 falsely treated fn20 as non-issue. |
 | A4 | Span-end page contract: footnote_zone vs prose both ingest footer band text | **OPEN** | Related to A3. Trailing prose extractor and footnote_zone both pull from page 25 footer band without exclusive ownership. |
@@ -88,7 +88,7 @@ Status key: **OPEN** | **PARTIAL** | **RESOLVED**
 |----|-----|--------|-----------|
 | B1 | Wrong vertical order (3.1 RECEPTION before Chapter 3 / figure) | **PARTIAL → user accepts** | Order now: `## Chapter 3` → `db:id=figure_11…` → text diagram → `### 3.1. RECEPTION` → body (~1372–1401). User confirmed order correct. |
 | B2 | Missing figure caption header between `db:id` and diagram | **OPEN** | **Not fixed.** Expected: `### Figure 11 – Reception activities and strategies \| figure_11_reception_activities_strategies` between db comment and ` ```text ` block (~1375). Only db:id + diagram emitted; **no "Figure 11" string anywhere in final_output**. Validator `page_47_section_order` does not check for this header — false PASS. |
-| B3 | Duplicate `<!-- page:N -->` markers (document-wide) | **OPEN** | **Not fixed.** 69 pages have duplicate lowercase markers in `final_output`. User spot-check: duplicates through ~page 45, singles for 46–47 band. Agent verify: pages 46–89 mostly single; dups resume at 90+ (e.g. 145, 149). Not caused by master merge (merge never done). Likely **merge/postprocess** concatenating chunk boundaries or stale+cleaned chunk overlap — downstream of extract, not inventory. |
+| B3 | Duplicate `<!-- page:N -->` markers (document-wide) | **OPEN** | **Not fixed.** 69 pages have duplicate lowercase markers in `output`. User spot-check: duplicates through ~page 45, singles for 46–47 band. Agent verify: pages 46–89 mostly single; dups resume at 90+ (e.g. 145, 149). Not caused by master merge (merge never done). Likely **merge/postprocess** concatenating chunk boundaries or stale+cleaned chunk overlap — downstream of extract, not inventory. |
 | B4 | Stray `<!-- Page N -->` (capital P) inside body | **OPEN** | PDF footer artifacts in prose (~670 page 25, also 5, 7, 9, 33, 61, 71, 127, 133). Not normalized away. |
 
 ### C. Spanning tables / rotated extraction (pages 146–148 focus)
@@ -96,7 +96,7 @@ Status key: **OPEN** | **PARTIAL** | **RESOLVED**
 | ID | Bug | Status | Attempt 3 |
 |----|-----|--------|-----------|
 | C1 | `span_duplicate_emit` on page 147 (pairwise spans 146–47 + 147–48) | **RESOLVED** (inventory/validator) | Chain merge → single `scale_sign_language_repertoire` 146–148 in `spanning_tables.json`; page 147 `role: middle`. No `span_duplicate_emit` in validator. **Extraction quality still broken (see C2–C5).** |
-| C2 | Rotated span body gibberish | **PARTIAL** (test folder only) | **Main `agent-extraction/` still broken.** Attempt 4a (derotation + pdfplumber): FAIL — `eriotreper\negaugnal\nngiS`. Attempt 4b (PyMuPDF matrix-aware, test folder only): **readable English** in `attempt4_rotation_smoke_test/final_output/` — no `eriotreper`; CEFR row shows C2/C1/B2; descriptors readable. **Not ported to main.** Remaining: repeated `"Sign language repertoire"` in column 1 per pdfplumber row (no rowspan logic); PDF typos pass through (`scientifci`, `difefrent`). |
+| C2 | Rotated span body gibberish | **PARTIAL** (test folder only) | **Main `agent-extraction/` still broken.** Attempt 4a (derotation + pdfplumber): FAIL — `eriotreper\negaugnal\nngiS`. Attempt 4b (PyMuPDF matrix-aware, test folder only): **readable English** in `attempt4_rotation_smoke_test/output/` — no `eriotreper`; CEFR row shows C2/C1/B2; descriptors readable. **Not ported to main.** Remaining: repeated `"Sign language repertoire"` in column 1 per pdfplumber row (no rowspan logic); PDF typos pass through (`scientifci`, `difefrent`). |
 | C3 | Span merge emits all continuation pages on start page only; 147–148 markers empty | **OPEN** | `<!-- page:146 -->` has footer; **147 and 148 markers have only footers, no table body** (~4253–4257). Prose after table starts on 148 (~4259) but table rows not distributed per page contract. User confirmed. |
 | C4 | Duplicate `scale_sign_language_repertoire` artifact later in document | **OPEN** | Second block at ~10035: `pages=148` only, different `product_tier`. Suggests **id_registry / merge** still emitting a second artifact for same scale — havoc beyond span_detector. |
 | C5 | Page 149 duplicate page markers | **OPEN** | Two identical `<!-- page:149 -->` + footers (~4290–4294) before next scale. User spot-check confirmed. |
@@ -186,7 +186,7 @@ Partial improvements; introduced `span_duplicate_emit` mass false positives (85 
 
 **Routing (unchanged):** `extract_chunk.py` → span body → `merge_rotated_pages`; single page → `extract_rotated_element` → `extract_rotated_tables`.
 
-**Outcome in `attempt4_rotation_smoke_test/final_output/CEFR_Companion_Volume.md`:**
+**Outcome in `attempt4_rotation_smoke_test/output/CEFR_Companion_Volume.md`:**
 
 | Check | Result |
 |-------|--------|
@@ -276,7 +276,7 @@ python -c "from pipeline.extract_chunk import extract_chunk; from pipeline.clean
 ```powershell
 python -m pipeline.debug_page 25,47,146,147,148
 python -m pipeline.output_validator
-rg "page:25|page:47|page:146|sign_language_repertoire|Figure 11" final_output/CEFR_Companion_Volume.md
+rg "page:25|page:47|page:146|sign_language_repertoire|Figure 11" output/CEFR_Companion_Volume.md
 ```
 
 ---
@@ -295,7 +295,7 @@ rg "page:25|page:47|page:146|sign_language_repertoire|Figure 11" final_output/CE
 | `pipeline/page_elements.py` | Schedule `rotated_footnote_zone` element on span-start (for future inventory regen) |
 | `pipeline/utils.py` | `escape_md_cell` preserves descriptor newlines as `<br>` |
 
-**Verification** (`chunk_test_143_149` → `final_output/CEFR_Companion_Volume.md`):
+**Verification** (`chunk_test_143_149` → `output/CEFR_Companion_Volume.md`):
 
 | Audit check | Result |
 |-------------|--------|
@@ -325,4 +325,4 @@ rg "page:25|page:47|page:146|sign_language_repertoire|Figure 11" final_output/CE
 | 2026-07-05 | **Approved fix plan (test folder):** `../attempt4_rotation_smoke_test/metadata/ROTATED_TABLE_FIX_PLAN.md` — band bounds, descriptor newlines, grid-rule sub-bands, surgical footnotes, continuation-page assembly; builds on `ROTATED_TABLE_RECONSTRUCTION.md` |
 | 2026-07-05 | **External audit pack:** `../attempt4_rotation_smoke_test/audit-pack/` — copies of plan, reconstruction, history, code snapshots, output slice, checklist; index `00_AUDIT_README.md` |
 
-**Maintainers:** Append after every fix attempt. Do not mark RESOLVED without user-visible proof in `final_output`.
+**Maintainers:** Append after every fix attempt. Do not mark RESOLVED without user-visible proof in `output`.

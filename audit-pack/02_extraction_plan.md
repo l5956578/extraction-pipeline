@@ -76,7 +76,7 @@ Post-merge `output_validator.py` checks:
 inventory → extract (page_layout + table routing) → cleanup → merge → validate
 ```
 
-Merge includes `apply_figures` and final prose formatting (`pipeline/post_process.py`), writing a single deliverable: `final_output/CEFR_Companion_Volume.md`.
+Merge includes `apply_figures` and final prose formatting (`pipeline/post_process.py`), writing a single deliverable: `output/CEFR_Companion_Volume.md`.
 
 - Paragraph merge, chapter formatting, page-marker spacing, bullet cleanup — see `metadata/post_processing.md`
 - **Bold spacing** uses `prose_format.fix_bold_markdown()` once at the end; OCR typo fixes never strip spaces around `**`

@@ -48,14 +48,16 @@ Geometry/OCR are **not** production quality for rotated descriptor scales.
 
 ---
 
-## Output
+## Output (shippable)
 
 | Path | Description |
 |------|-------------|
-| `final_output/CEFR_Companion_Volume.md` | Final Markdown deliverable |
-| `final_output/manifest.json` | Navigation + product catalog |
-| `final_output/db_import_registry.json` | Artifact registry for ETL |
-| `final_output/assets/figures/` | Figure assets |
+| `output/CEFR_Companion_Volume.md` | Final Markdown deliverable |
+| `output/manifest.json` | Navigation + product catalog |
+| `output/db_import_registry.json` | Artifact registry for ETL |
+| `output/assets/figures/` | Figure assets |
+
+Promotion (platform): **copy** from `output/` → `lang-platform/staging/pending/...` (see monorepo `docs/PROMOTION.md`). Do not promote intermediates.
 
 ---
 
@@ -63,11 +65,12 @@ Geometry/OCR are **not** production quality for rotated descriptor scales.
 
 | Path | Role |
 |------|------|
+| `input/` | Source PDF only |
+| `output/` | Shippable deliverables (was `final_output/`) |
 | `pipeline/` | Extractors, layout, cleanup, postprocess |
 | `inventories/` | Per-chunk `reading_order` contracts |
-| `raw_extraction/` / `cleaned/` | Intermediate Markdown |
-| `metadata/rotated_for_grok/` | Rotated table PNG handoffs |
-| `metadata/rotated_from_grok/` | Agent-vision table markdown |
+| `raw_extraction/` / `cleaned/` / `chunks/` | Intermediate (not promoted) |
+| `metadata/` | QA, rotated tables, registries (not promoted) |
 | `post-processing/` | Thin CLI only (`format_markdown.py`) |
 | `docs/archive/` | Historical notes (not current status) |
 

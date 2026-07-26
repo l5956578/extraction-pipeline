@@ -27,8 +27,9 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 |--|--|
 | **Last updated** | 2026-07-20 (RIE-005 re-derive ids from fixed titles; log-page Vision batch; gates green) |
 | **Branch** | `execute-plan/c0b4a280-pr-5-pipeline-re-run-and-documentation` |
-| **Deliverable** | `final_output/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
-| **Source PDF** | `CEFR Companion Volume_eng.pdf` (read-only) |
+| **Deliverable** | `output/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
+| **Source PDF** | `input/CEFR Companion Volume_eng.pdf` (read-only) |
+| **Deliverables** | `output/` (was `final_output/`) — MD + assets + registries |
 
 ---
 
@@ -61,7 +62,7 @@ PDF
  → extract_chunk (prose_zone | pdfplumber | rotated agent-vision | multipage)
  → cleanup (chunk-level rules)
  → merge → apply_figures → post_process
- → final_output/CEFR_Companion_Volume.md
+ → output/CEFR_Companion_Volume.md
 ```
 
 **Contract:** `inventories/*_inventory.json` → `reading_order` is the extraction source of truth.
@@ -119,7 +120,7 @@ Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 - Rebuilt spans + inventories (10 chunks)
 - Agent vision for 37 non–Appendix 5 rotated pages
 - Full extract of chunks 01–10 + cleanup + merge + figures + postprocess
-- Deliverable refreshed: `final_output/CEFR_Companion_Volume.md`
+- Deliverable refreshed: `output/CEFR_Companion_Volume.md`
 
 ### 4.5 Full-book re-run (2026-07-19) — chunk_02 fixes → whole document
 

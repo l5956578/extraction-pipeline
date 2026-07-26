@@ -65,7 +65,7 @@ def step_figures():
 
 
 def step_postprocess():
-    """Re-run final prose formatting on final_output/CEFR_Companion_Volume.md in place."""
+    """Re-run final prose formatting on output/CEFR_Companion_Volume.md in place."""
     result = run_post_process()
     print(f"Formatted: {result['output_path']}")
     print(f"  {result['input_lines']} -> {result['output_lines']} lines")
@@ -113,10 +113,10 @@ def write_docs():
 
 ## Import workflow
 
-1. Parse `final_output/db_import_registry.json` into `artifacts` + `artifact_product_tiers`.
+1. Parse `output/db_import_registry.json` into `artifacts` + `artifact_product_tiers`.
 2. Parse `<!-- db:... -->` comments in `CEFR_Companion_Volume.md` for prose blocks → `content_nodes`.
 3. Split pipe tables under each artifact into `scale_rows`.
-4. Copy `final_output/assets/` paths into `figure_assets`; optionally store BLOB for portability.
+4. Copy `output/assets/` paths into `figure_assets`; optionally store BLOB for portability.
 
 ## Product queries
 

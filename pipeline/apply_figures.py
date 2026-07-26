@@ -1,4 +1,4 @@
-"""Patch final_output Markdown with correct figure representations."""
+"""Patch output Markdown with correct figure representations."""
 
 from __future__ import annotations
 

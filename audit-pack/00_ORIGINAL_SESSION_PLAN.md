@@ -56,7 +56,7 @@ agent-extraction/
 ├── inventories/                     # chunk_XX_inventory.json
 ├── raw_extraction/                  # chunk_XX.md
 ├── cleaned/                         # chunk_XX.md
-├── final_output/
+├── output/
 │   ├── CEFR_Companion_Volume.md     # single combined deliverable
 │   ├── manifest.json                # website navigation + product catalog
 │   ├── db_import_registry.json      # flat ETL registry (all content types)
@@ -240,13 +240,13 @@ Checks:
 
 ## Final Deliverables
 
-### 1. [`final_output/CEFR_Companion_Volume.md`](final_output/CEFR_Companion_Volume.md)
+### 1. [`output/CEFR_Companion_Volume.md`](output/CEFR_Companion_Volume.md)
 Single file: full prose + all tables (merged) + all figures + navigation anchors.
 
-### 2. [`final_output/manifest.json`](final_output/manifest.json)
+### 2. [`output/manifest.json`](output/manifest.json)
 Website sidebar tree; `products.self_assessment_base` points to `table_self_assessment_grid` with `pages: [177,181]`.
 
-### 3. [`final_output/db_import_registry.json`](final_output/db_import_registry.json)
+### 3. [`output/db_import_registry.json`](output/db_import_registry.json)
 Flat records for **all content types**:
 
 ```json

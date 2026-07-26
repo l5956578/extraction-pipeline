@@ -5,7 +5,7 @@
 
 ## Deliverable
 
-`final_output/CEFR_Companion_Volume.md` (single file; format in place).
+`output/CEFR_Companion_Volume.md` (single file; format in place).
 
 ## When to run
 
