@@ -8,6 +8,10 @@
     "file": "source.pdf",
     "original_filename": "CEFR Companion Volume_eng.pdf",
     "published_filename": "4-CEFR-Companion-Volume-EN-2020.pdf",
+    "sha256": "BFBD8C74090419AC4B9B352D6BA26E180713B31F45265D7D775B7C36DD7AD1B1",
+    "hash_verified_against": "4-CEFR-Companion-Volume-EN-2020.pdf",
+    "hash_verified_at": "2026-07-27",
+    "hash_match": true,
     "expected_page_count": 278,
     "language": "en"
   },

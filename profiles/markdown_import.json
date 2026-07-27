@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "markdown_import",
+  "title": "Markdown import (already-structured text)",
+  "description": "Pre-authored markdown sources (translations, grids). No PDF extract; eventual DB pairing with English grid artifact.",
+  "extraction": {
+    "chunk_size": 0,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "output": {
+    "mode": "markdown_import",
+    "notes": "Source is already markdown; validate/normalize then promote to resources/cefr."
+  }
+}

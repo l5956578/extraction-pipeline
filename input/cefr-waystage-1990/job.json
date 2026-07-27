@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "cefr-waystage-1990",
+  "title": "CEFR Level Waystage (1990)",
+  "status": "draft",
+  "profile": "cefr_classic",
+  "source": {
+    "file": "source.pdf",
+    "original_filename": "1-CEFR-Level-Waystage-1990.pdf",
+    "published_filename": "1-CEFR-Level-Waystage-1990.pdf",
+    "sha256": "7F5AAD35ED6465F74F0C08C709038189C859862C769403CE877792519AC42D92",
+    "language": "en"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["context"],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 25,
+    "levels": ["A1", "A2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "page_png",
+    "page_png_dir": "pages",
+    "document_id": "cefr_waystage_1990",
+    "document_title": "CEFR Level Waystage (1990)",
+    "product_tier": "context",
+    "notes": "PNG page renders preferred: subtle intonation/text markers unlikely to survive markdown extract cleanly. Engine page_png mode may not be implemented yet — mode recorded for later."
+  }
+}

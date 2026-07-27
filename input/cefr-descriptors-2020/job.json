@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "cefr-descriptors-2020",
+  "title": "CEFR Descriptors (2020) spreadsheet",
+  "status": "draft",
+  "profile": "tabular_db",
+  "source": {
+    "file": "source.xlsx",
+    "original_filename": "CEFR Descriptors (2020).xlsx",
+    "published_filename": "CEFR Descriptors (2020).xlsx",
+    "sha256": "C3DAC7337FE10F754E10FBA9262DC095A4A0CAD8CF41D8973AFFCE38AF77ECC9",
+    "language": "en"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["detailed", "assessment_action"],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 0,
+    "levels": ["Pre-A1", "A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "tabular_db",
+    "document_id": "cefr_descriptors_2020",
+    "document_title": "CEFR Descriptors (2020)",
+    "product_tier": "detailed",
+    "notes": "DB-oriented extract later: workbook aggregates many descriptor scales for assessment beyond the generic self-assessment grid. Not a PDF markdown pipeline job."
+  }
+}

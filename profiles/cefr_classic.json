@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "cefr_classic",
+  "title": "CEFR classic PDF family (2001 / Waystage / Threshold)",
+  "description": "Shared defaults for pre-Companion CEFR PDFs. 2001-class → markdown; Waystage/Threshold → page_png (engine may implement later). Features conservative until per-job layout is filled.",
+  "extraction": {
+    "chunk_size": 25,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": true,
+      "multipage_merge": true,
+      "callouts": false
+    }
+  },
+  "output": {
+    "mode": "markdown"
+  }
+}

@@ -25,19 +25,36 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase B: JobContext split, `--job` required, layout SoT JSON) |
+| **Last updated** | 2026-07-27 (Phase C: CEFR family draft jobs + companion hash provenance) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
-| **Source PDF** | `input/cefr-companion-2020/source.pdf` (original name: `CEFR Companion Volume_eng.pdf`) |
-| **Sidecars** | `input/cefr-companion-2020/job.json`, `profiles/cefr_companion.json` |
-| **Deliverables** | `output/<job-id>/` — MD + assets + registries |
+| **Source PDF** | `input/cefr-companion-2020/source.pdf` (orig: `CEFR Companion Volume_eng.pdf`; published: `4-CEFR-Companion-Volume-EN-2020.pdf`; SHA256 match verified) |
+| **Sidecars** | `input/<job-id>/job.json`, `profiles/*.json` |
+| **Deliverables** | `output/<job-id>/` — MD + assets + registries (draft jobs empty) |
 
 ---
 
 ## 1. Purpose
 
-Extract the full CEFR Companion Volume PDF into **database-ready Markdown** suitable for website import / SQLite ETL (descriptor scales, prose, figures, footnotes, page anchors).
+Extract CEFR-family documents into shippable artifacts (markdown, page PNG, or DB-oriented tabular import) for website / SQLite ETL. First production job: **CEFR Companion Volume (EN 2020)** → database-ready Markdown (descriptor scales, prose, figures, footnotes, page anchors).
+
+---
+
+## 1a. Jobs registry (Phase C)
+
+Family notes: [`input/cefr-family-NOTES.md`](input/cefr-family-NOTES.md).
+
+| Job id | Status | Profile | Source | Output mode | Notes |
+|--------|--------|---------|--------|-------------|-------|
+| `cefr-companion-2020` | **active** | `cefr_companion` | `source.pdf` | `markdown` | Fully extracted; SHA256 matches Downloads `4-CEFR-Companion-Volume-EN-2020.pdf` |
+| `cefr-en-2001` | **draft** | `cefr_classic` | `source.pdf` ← `3-CEFR-EN-2001.pdf` | `markdown` | Not yet extracted |
+| `cefr-waystage-1990` | **draft** | `cefr_classic` | `source.pdf` ← `1-CEFR-Level-Waystage-1990.pdf` | `page_png` | PNG preferred (intonation markers); engine may not implement yet |
+| `cefr-threshold-1990` | **draft** | `cefr_classic` | `source.pdf` ← `2-CEFR-Level-Threshold-1990.pdf` | `page_png` | Same as Waystage |
+| `cefr-descriptors-2020` | **draft** | `tabular_db` | `source.xlsx` | `tabular_db` | DB-oriented later; not PDF markdown |
+| `cefr-self-assessment-grid-cn` | **draft** | `markdown_import` | `source.md` | `markdown_import` | CN grid; pair with EN Companion grid later |
+
+**Do not** treat draft jobs as extracted. Full production extract of 2001/Waystage/Threshold is out of scope until scheduled.
 
 ---
 

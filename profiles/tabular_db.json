@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "tabular_db",
+  "title": "Tabular / spreadsheet import (DB-oriented)",
+  "description": "XLSX/CSV-class sources destined for database load rather than PDF markdown extract. Engine features mostly off; extract path is future DB-oriented tooling.",
+  "extraction": {
+    "chunk_size": 0,
+    "levels": [],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "output": {
+    "mode": "tabular_db",
+    "notes": "Parse workbook sheets into structured records for later SQLite/ETL; not markdown pipeline."
+  }
+}

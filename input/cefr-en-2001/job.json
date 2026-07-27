@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "cefr-en-2001",
+  "title": "Common European Framework of Reference (EN 2001)",
+  "status": "draft",
+  "profile": "cefr_classic",
+  "source": {
+    "file": "source.pdf",
+    "original_filename": "3-CEFR-EN-2001.pdf",
+    "published_filename": "3-CEFR-EN-2001.pdf",
+    "sha256": "7DE77B26BAF5E1EDDD02B50EA0DCC114DE4B0A50BC5A5851A5DAB241E4F04172",
+    "language": "en"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["context"],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 25,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": true,
+      "multipage_merge": true,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "markdown",
+    "markdown_name": "CEFR_EN_2001.md",
+    "document_id": "cefr_en_2001",
+    "document_title": "Common European Framework of Reference (EN 2001)",
+    "product_tier": "context",
+    "notes": "Draft job — full markdown extract not yet run. Companion 2020 is an update of this document family."
+  }
+}

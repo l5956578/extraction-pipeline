@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "id": "cefr-self-assessment-grid-cn",
+  "title": "CEFR Self-Assessment Grid (Chinese)",
+  "status": "draft",
+  "profile": "markdown_import",
+  "source": {
+    "file": "source.md",
+    "original_filename": "cefr-self-assessment-grid-cn.md",
+    "published_filename": "cefr-self-assessment-grid-cn.md",
+    "sha256": "E76287A094CD1CF456834B2942F7821D798E0B194669E2108B7B5CE29EEE25FC",
+    "language": "zh"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["base"],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 0,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "markdown_import",
+    "markdown_name": "cefr_self_assessment_grid_cn.md",
+    "document_id": "cefr_self_assessment_grid_cn",
+    "document_title": "CEFR Self-Assessment Grid (Chinese)",
+    "product_tier": "base",
+    "notes": "Chinese illustrative descriptors paired with Companion self-assessment grid. Link to English grid artifact (Companion table_self_assessment_grid / pages 177–181) at DB import time. Draft — no extract pipeline run required (source is already MD)."
+  }
+}
