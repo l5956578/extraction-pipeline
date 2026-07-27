@@ -71,6 +71,8 @@ Hard rule: **prefer action over questions.** The user is not the agent’s memor
 
 ## Deliverable / jobs
 
-- Companion: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
+- Companion (active): `output/cefr-companion-2020/CEFR_Companion_Volume.md`
+- **Draft CEFR family jobs:** see [`STATUS.md` §1a](STATUS.md) (waystage / threshold / 2001 / descriptors xlsx / CN grid)
 - Layout: `input|work|output/<job-id>/` + `profiles/` + `pipeline.job_context.load_job`
 - CLI: **`--job <id>` required** (no silent default). Paths via `import pipeline.config as cfg`
+- Non-PDF / non-markdown modes fail at `bootstrap_job` unless `--force-draft`; use `load_job` for inspection

@@ -1028,7 +1028,7 @@ if __name__ == "__main__":
         help="Skip chunks whose raw output already exists and is non-trivial",
     )
     args = parser.parse_args()
-    bootstrap_job(args.job)
+    bootstrap_job(args.job, force_draft=args.force_draft)
 
     if args.chunk_id:
         extract_chunk(args.chunk_id)

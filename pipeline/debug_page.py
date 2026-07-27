@@ -176,7 +176,7 @@ def main(argv: list[str] | None = None) -> None:
         help="Comma-separated sections: lines,zones,prose_segments,reading_order,spanning_info,footnotes",
     )
     args = parser.parse_args(argv)
-    bootstrap_job(args.job)
+    bootstrap_job(args.job, force_draft=args.force_draft)
 
     show = {part.strip() for part in args.show.split(",") if part.strip()}
     for page_num in _parse_pages(args.pages):

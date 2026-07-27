@@ -31,6 +31,11 @@ CEFR_LEVELS_DEFAULT = frozenset(
     {"C2", "C1", "B2", "B1", "A2", "A1", "Pre-A1", "Pre A1"}
 )
 
+# Output modes / source suffixes the PDF markdown engine can run today.
+# page_png / tabular_db / markdown_import are registered for draft jobs only.
+ENGINE_OUTPUT_MODES = frozenset({"markdown"})
+ENGINE_SOURCE_SUFFIXES = frozenset({".pdf"})
+
 _ACTIVE_CTX: "JobContext | None" = None
 _ACTIVE_JOB_ID: str | None = None
 
@@ -216,10 +221,52 @@ def _bind_config(ctx: JobContext, layout_state: dict[str, Any]) -> None:
     cfg._ACTIVE_JOB_ID = ctx.job_id  # noqa: SLF001
 
 
+def resolved_output_mode(ctx: JobContext) -> str:
+    """Merged job+profile ``output.mode`` (job wins). Defaults to ``markdown``."""
+    job_out = (ctx.job_data.get("output") or {}) if ctx.job_data else {}
+    prof_out = (ctx.profile_data.get("output") or {}) if ctx.profile_data else {}
+    mode = job_out.get("mode") or prof_out.get("mode") or "markdown"
+    return str(mode)
+
+
+def engine_ready_issues(ctx: JobContext) -> list[str]:
+    """Return human-readable reasons this job cannot run the PDF markdown engine.
+
+    Empty list means CLI extract/format/prepare paths may proceed (job may still
+    be ``status: draft`` with incomplete layout — callers may warn separately).
+    """
+    issues: list[str] = []
+    mode = resolved_output_mode(ctx)
+    if mode not in ENGINE_OUTPUT_MODES:
+        issues.append(
+            f"output.mode={mode!r} is not implemented by the PDF markdown engine "
+            f"(supported: {', '.join(sorted(ENGINE_OUTPUT_MODES))}). "
+            "Registered draft modes (page_png, tabular_db, markdown_import) need "
+            "dedicated tooling later."
+        )
+    suffix = ctx.pdf_path.suffix.lower()
+    if suffix not in ENGINE_SOURCE_SUFFIXES:
+        issues.append(
+            f"source file {ctx.pdf_path.name!r} (suffix {suffix!r}) is not a PDF; "
+            f"engine expects {', '.join(sorted(ENGINE_SOURCE_SUFFIXES))} "
+            f"(see source.file in job.json)."
+        )
+    return issues
+
+
+def is_engine_ready(ctx: JobContext) -> bool:
+    """True when output.mode and source suffix are supported by the PDF engine."""
+    return not engine_ready_issues(ctx)
+
+
 def load_job(job_id: str, *, reload: bool = False) -> JobContext:
     """Load job sidecar + profile and bind ``pipeline.config`` path/layout attrs.
 
     ``job_id`` is required (Phase B: no silent default to Companion).
+
+    Does **not** enforce engine-ready checks — draft / non-PDF jobs may be loaded
+    for inspection. CLI entrypoints use ``bootstrap_job`` which rejects unsupported
+    modes unless ``--force-draft``.
 
     By default the same ``job_id`` returns the cached context without re-reading
     sidecars. Pass ``reload=True`` after editing ``job.json`` / profile mid-process.

@@ -7,9 +7,11 @@ This document describes **how the system is designed**, not day-to-day status.
 
 ## 1. Goals
 
-- Multi-document: one **job** per PDF under `input|work|output/<job-id>/`
-- Shared general engine in `pipeline/`; per-PDF knowledge in `job.json` + inventories
+- Multi-document: one **job** per source under `input|work|output/<job-id>/`
+- Shared general engine in `pipeline/`; per-document knowledge in `job.json` + inventories
+- Working source: `source.pdf` | `source.xlsx` | `source.md` (declared as `source.file` in job.json)
 - Companion deliverable: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
+- Engine-ready CLIs: markdown + PDF only (`bootstrap_job`); other modes need dedicated tooling
 - Stable `<!-- db:id=… -->` artifact headers for ETL
 - Page anchors `<!-- page:N -->` for every PDF page 1–278 (Companion)
 - Faithful prose, tables, footnotes, and figures (with explicit figure policy)
@@ -23,8 +25,8 @@ extraction-pipeline/
 ├── pipeline/                 # general engine
 ├── profiles/<profile>.json   # shared family defaults
 ├── input/<job-id>/
-│   ├── source.pdf
-│   ├── job.json              # required (original_filename, profile, layout)
+│   ├── source.pdf | source.xlsx | source.md   # per source.file in job.json
+│   ├── job.json              # required (original_filename, profile, layout, output.mode)
 │   └── notes.md              # optional
 ├── work/<job-id>/
 │   ├── inventories/
@@ -32,9 +34,9 @@ extraction-pipeline/
 └── output/<job-id>/          # shippable only
 ```
 
-- **`pipeline/job_context.py`:** `JobContext`, `load_job(job_id)`, JSON merge, layout parse (job + profile only).
+- **`pipeline/job_context.py`:** `JobContext`, `load_job(job_id)`, JSON merge, layout parse (job + profile only); `engine_ready_issues` / `is_engine_ready` for mode/source gates.
 - **`pipeline/config.py`:** engine constants + **module attributes** for paths/layout after load.
-- **`pipeline/bootstrap.py`:** shared CLI helper — required `--job`, then `load_job`.
+- **`pipeline/bootstrap.py`:** shared CLI helper — required `--job`, then `load_job` + engine-ready check (optional `--force-draft`).
 - **`--job` is required** on all entry scripts (no default to Companion).
 - **No import-time load** — importing `pipeline.config` does not select a job (`get_active_job()` is `None` until bootstrap).
 - **Access pattern:** `import pipeline.config as cfg` then `cfg.PDF_PATH` / `cfg.FINAL_DIR` / `cfg.TOC_PAGE_RANGE` at **call time**. Do not `from pipeline.config import PDF_PATH` (freezes the binding).
@@ -47,6 +49,7 @@ extraction-pipeline/
   - Companion-hardcoded adjacent gates: `profile == "cefr_companion"` (or `adjacent_companion_snippets`)
 - **Document shell:** merge H1 / `db:id` / navigation / products from `job.json` `output` (not engine hardcodes).
 - **Profile required:** `job.json` must declare `profile`; missing profile no longer defaults to Companion.
+- **Engine-ready (CLI):** `output.mode == markdown` and source suffix `.pdf`. Draft modes (`page_png`, `tabular_db`, `markdown_import`) fail at `bootstrap_job` unless `--force-draft`. `load_job` alone allows inspection of any job.
 - **One process ≈ one load:** same `job_id` returns a cached context; pass `load_job(id, reload=True)` after editing sidecars.
 
 CLI: `run_pipeline.py --job <id>`, `run_production_extract.py --job <id>`, `iterate_format.py --job <id>`.

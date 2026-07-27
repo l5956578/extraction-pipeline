@@ -26,7 +26,7 @@ def main() -> None:
     add_job_argument(parser)
     args = parser.parse_args()
 
-    ctx = bootstrap_job(args.job)
+    ctx = bootstrap_job(args.job, force_draft=args.force_draft)
     _log(f"Job: {ctx.job_id}  pdf={ctx.pdf_path}  output={ctx.final_dir}")
 
     from pipeline.apply_figures import run_apply_figures

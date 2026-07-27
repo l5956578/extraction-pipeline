@@ -20,14 +20,17 @@ from typing import TYPE_CHECKING
 
 from pipeline.job_context import (
     JobContext,
+    engine_ready_issues,
     feature_enabled,
     final_markdown_path,
     get_active_job,
+    is_engine_ready,
     known_figures_by_page,
     known_figures_list_by_page,
     load_figures_registry,
     load_job,
     require_active_job,
+    resolved_output_mode,
 )
 
 if TYPE_CHECKING:
@@ -117,4 +120,7 @@ __all__ = [
     "load_figures_registry",
     "known_figures_by_page",
     "known_figures_list_by_page",
+    "engine_ready_issues",
+    "is_engine_ready",
+    "resolved_output_mode",
 ]

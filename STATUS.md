@@ -25,7 +25,7 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase C: CEFR family draft jobs + companion hash provenance) |
+| **Last updated** | 2026-07-27 (Phase C follow-up: engine-ready CLI gate + classic profile conservative) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
@@ -37,7 +37,11 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 ## 1. Purpose
 
-Extract CEFR-family documents into shippable artifacts (markdown, page PNG, or DB-oriented tabular import) for website / SQLite ETL. First production job: **CEFR Companion Volume (EN 2020)** → database-ready Markdown (descriptor scales, prose, figures, footnotes, page anchors).
+Register and extract CEFR-family documents for website / SQLite ETL.
+
+**Production-operational today:** Companion **markdown** extract only (`cefr-companion-2020` — descriptor scales, prose, figures, footnotes, page anchors).
+
+**Registered output modes** (see §1a) also include `page_png`, `tabular_db`, and `markdown_import` for draft jobs — those modes are **not** implemented by the PDF markdown engine yet (CLI rejects them unless `--force-draft`; use `load_job` for inspection).
 
 ---
 
@@ -55,6 +59,8 @@ Family notes: [`input/cefr-family-NOTES.md`](input/cefr-family-NOTES.md).
 | `cefr-self-assessment-grid-cn` | **draft** | `markdown_import` | `source.md` | `markdown_import` | CN grid; pair with EN Companion grid later |
 
 **Do not** treat draft jobs as extracted. Full production extract of 2001/Waystage/Threshold is out of scope until scheduled.
+
+**CLI gate:** `bootstrap_job` accepts engine-ready jobs only (`output.mode=markdown` + PDF source). Draft modes reject unless `--force-draft`. `cefr_classic` profile defaults features **off**; `cefr-en-2001` enables figures/multipage at job level.
 
 ---
 

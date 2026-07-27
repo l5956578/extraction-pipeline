@@ -48,7 +48,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    ctx = bootstrap_job(args.job)
+    ctx = bootstrap_job(args.job, force_draft=args.force_draft)
     _log(f"Job: {ctx.job_id}  output={ctx.final_dir}")
 
     t0 = time.perf_counter()

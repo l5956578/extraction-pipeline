@@ -42,7 +42,7 @@ def main() -> None:
     add_job_argument(parser)
     args = parser.parse_args()
 
-    ctx = bootstrap_job(args.job)
+    ctx = bootstrap_job(args.job, force_draft=args.force_draft)
     print(f"Job: {ctx.job_id}")
 
     import pipeline.config as cfg

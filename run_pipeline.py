@@ -25,7 +25,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    ctx = bootstrap_job(args.job)
+    ctx = bootstrap_job(args.job, force_draft=args.force_draft)
     print(f"Job: {ctx.job_id}  pdf={ctx.pdf_path.name}  output={ctx.final_dir}")
 
     import pipeline.config as cfg

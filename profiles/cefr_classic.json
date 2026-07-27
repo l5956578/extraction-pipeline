@@ -2,15 +2,15 @@
   "schema_version": 1,
   "id": "cefr_classic",
   "title": "CEFR classic PDF family (2001 / Waystage / Threshold)",
-  "description": "Shared defaults for pre-Companion CEFR PDFs. 2001-class → markdown; Waystage/Threshold → page_png (engine may implement later). Features conservative until per-job layout is filled.",
+  "description": "Conservative shared defaults for pre-Companion CEFR PDFs. All extraction features default OFF so page_png jobs (Waystage/Threshold) never inherit figure/multipage paths by accident. Enable features only on markdown jobs (e.g. cefr-en-2001 job.json). Profile output.mode is markdown; Waystage/Threshold override to page_png at job level.",
   "extraction": {
     "chunk_size": 25,
     "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
     "features": {
       "rotated_tables": false,
       "agent_vision": false,
-      "figures": true,
-      "multipage_merge": true,
+      "figures": false,
+      "multipage_merge": false,
       "callouts": false
     }
   },
