@@ -80,7 +80,8 @@ Shared engine: `pipeline/` + optional `profiles/*.json`. Per-PDF knowledge: `inp
 
 Chat/web Grok is **not** a pipeline step. Geometry/OCR are **fallback only**.
 
-Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
+Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).  
+Code-quality audit log: [`docs/reviews/`](docs/reviews/) (e.g. Phase A review 2026-07-27).
 
 ---
 
