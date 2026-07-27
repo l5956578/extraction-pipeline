@@ -303,15 +303,23 @@ def _bind_path_globals(ctx: JobContext) -> None:
     ROTATED_FROM_GROK_DIR = ctx.rotated_from_grok_dir
 
 
-def load_job(job_id: str | None = None) -> JobContext:
+def load_job(job_id: str | None = None, *, reload: bool = False) -> JobContext:
     """Load job sidecar + profile and bind module-level path/layout globals.
 
     Phase A: ``job_id is None`` defaults to ``cefr-companion-2020``.
+
+    By default the same ``job_id`` returns the cached context without re-reading
+    sidecars (one process ≈ one load). Pass ``reload=True`` after editing
+    ``job.json`` / profile so layout globals are refreshed from disk.
     """
     global _ACTIVE_CTX, _ACTIVE_JOB_ID
 
     resolved_id = job_id or DEFAULT_JOB_ID
-    if _ACTIVE_CTX is not None and _ACTIVE_JOB_ID == resolved_id:
+    if (
+        not reload
+        and _ACTIVE_CTX is not None
+        and _ACTIVE_JOB_ID == resolved_id
+    ):
         return _ACTIVE_CTX
 
     input_dir = ROOT / "input" / resolved_id
@@ -389,6 +397,18 @@ def load_job(job_id: str | None = None) -> JobContext:
 def get_active_job() -> JobContext | None:
     """Return the currently loaded JobContext, if any."""
     return _ACTIVE_CTX
+
+
+def final_markdown_path() -> Path:
+    """Resolve the active job's Markdown deliverable path at call time.
+
+    Prefer ``JobContext.final_markdown`` (from job.json ``output.markdown_name``);
+    fall back to ``FINAL_DIR / "CEFR_Companion_Volume.md"`` for Companion.
+    """
+    ctx = _ACTIVE_CTX
+    if ctx is not None:
+        return ctx.final_markdown
+    return FINAL_DIR / "CEFR_Companion_Volume.md"
 
 
 def load_figures_registry() -> list[dict]:

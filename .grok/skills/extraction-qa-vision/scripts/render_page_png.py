@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Render a full PDF page to work/metadata/qa_snapshots/page_NNN.png for Vision QA.
+"""Render a full PDF page to work/cefr-companion-2020/metadata/qa_snapshots/page_NNN.png for Vision QA.
 
 Hard rules:
   - Full page only (never crop).
@@ -168,11 +168,18 @@ def main(argv: list[str] | None = None) -> int:
         action="store_true",
         help="Regenerate even if a valid page_NNN.png already exists",
     )
+    # Default under active job metadata (config auto-loads cefr-companion-2020)
+    try:
+        sys.path.insert(0, str(_project_root()))
+        from pipeline.config import METADATA_DIR
+        _default_out = str(METADATA_DIR / "qa_snapshots")
+    except Exception:
+        _default_out = "work/cefr-companion-2020/metadata/qa_snapshots"
     parser.add_argument(
         "--out-dir",
         type=str,
-        default="work/metadata/qa_snapshots",
-        help="Output directory (default: work/metadata/qa_snapshots)",
+        default=_default_out,
+        help="Output directory (default: work/<job>/metadata/qa_snapshots)",
     )
     # Advanced only: not for routine use. Changing scale breaks snapshot determinism;
     # always pair with --force and treat prior QA on that page as void.

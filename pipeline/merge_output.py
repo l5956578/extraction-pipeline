@@ -6,7 +6,13 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import CLEANED_DIR, FINAL_DIR, METADATA_DIR, SECTION_BLOCKS
+from pipeline.config import (
+    CLEANED_DIR,
+    FINAL_DIR,
+    METADATA_DIR,
+    SECTION_BLOCKS,
+    final_markdown_path,
+)
 from pipeline.id_registry import build_registry
 
 
@@ -22,7 +28,7 @@ def merge_markdown() -> str:
         parts.append(text.strip())
         parts.append("\n\n---\n\n")
 
-    out = FINAL_DIR / "CEFR_Companion_Volume.md"
+    out = final_markdown_path()
     FINAL_DIR.mkdir(parents=True, exist_ok=True)
     content = "\n".join(parts)
     out.write_text(content, encoding="utf-8")
@@ -112,8 +118,11 @@ def run_merge():
         f"Formatted final Markdown: {result['input_lines']} -> {result['output_lines']} lines"
     )
     report = validate_final_output()
+    out_val = METADATA_DIR / "output_validation.json"
     if not report["valid"]:
-        print(f"Output validation: {len(report['issues'])} issue(s) — see work/metadata/output_validation.json")
+        print(
+            f"Output validation: {len(report['issues'])} issue(s) — see {out_val}"
+        )
     else:
         print("Output validation: passed")
     from pipeline.contract_validators import validate_contracts
@@ -122,7 +131,8 @@ def run_merge():
     if not creport["valid"]:
         print(
             f"Contract validation: {creport['issue_count']} issue(s) — "
-            "see work/metadata/contract_validation.json (fail-closed; do not claim resolved)"
+            f"see {METADATA_DIR / 'contract_validation.json'} "
+            "(fail-closed; do not claim resolved)"
         )
     else:
         print("Contract validation: passed")

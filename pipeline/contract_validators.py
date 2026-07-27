@@ -29,7 +29,9 @@ def _fail(gate: str, detail: str) -> dict:
 
 def validate_contracts(md_path: Path | None = None) -> dict:
     """Return {valid, issues:[{gate, severity, detail}, ...]}."""
-    md_path = md_path or (FINAL_DIR / "CEFR_Companion_Volume.md")
+    from pipeline.config import final_markdown_path
+
+    md_path = md_path or final_markdown_path()
     issues: list[dict] = []
     if not md_path.exists():
         return {"valid": False, "issues": [_fail("V-MD-MISSING", str(md_path))], "path": str(md_path)}

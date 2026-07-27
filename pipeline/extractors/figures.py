@@ -8,16 +8,20 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import ASSETS_FIGURES, METADATA_DIR, PDF_PATH
+import pipeline.config as _cfg
+from pipeline.config import ASSETS_FIGURES, PDF_PATH
 from pipeline.utils import ensure_dir
 
-_REGISTRY_PATH = METADATA_DIR / "figures_registry.json"
+
+def _registry_path() -> Path:
+    return _cfg.METADATA_DIR / "figures_registry.json"
 
 
 def load_figures_registry() -> list[dict]:
-    if not _REGISTRY_PATH.exists():
+    path = _registry_path()
+    if not path.exists():
         return []
-    data = json.loads(_REGISTRY_PATH.read_text(encoding="utf-8"))
+    data = json.loads(path.read_text(encoding="utf-8"))
     return data.get("figures", [])
 
 

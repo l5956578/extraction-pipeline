@@ -1,6 +1,7 @@
 """Structured Markdown formatting — integrated final step of Session 1 merge.
 
-Reads and writes ``output/CEFR_Companion_Volume.md`` in place so there is a
+Reads and writes the active job deliverable (e.g.
+``output/<job-id>/CEFR_Companion_Volume.md``) in place so there is a
 single deliverable (paragraph merge, chapter formatting, page-marker spacing).
 
 Merged from the former Session 2 ``format_markdown.py`` with these integration rules:
@@ -21,7 +22,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-from pipeline.config import FINAL_DIR, METADATA_DIR, ROOT
+from pipeline.config import ROOT, final_markdown_path
 from pipeline.prose_format import (
     _format_level_callouts,
     fix_bold_markdown,
@@ -34,8 +35,17 @@ from pipeline.toc_format import (
     strip_toc_line,
 )
 
-FINAL_MARKDOWN = FINAL_DIR / "CEFR_Companion_Volume.md"
-RUN_LOG = METADATA_DIR / "last_format_run.txt"
+
+def _final_markdown() -> Path:
+    """Active job deliverable — resolve at call time (not import time)."""
+    return final_markdown_path()
+
+
+def _run_log() -> Path:
+    """Format run log under active job metadata — resolve at call time."""
+    from pipeline.config import METADATA_DIR
+
+    return METADATA_DIR / "last_format_run.txt"
 
 # PDF list-marker artifacts only — never match a wrapped word like "form".
 _BULLET_MARKERS = re.compile(
@@ -2054,8 +2064,9 @@ def write_run_log(
 ) -> None:
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     out_stat = path.stat()
-    RUN_LOG.parent.mkdir(parents=True, exist_ok=True)
-    RUN_LOG.write_text(
+    run_log = _run_log()
+    run_log.parent.mkdir(parents=True, exist_ok=True)
+    run_log.write_text(
         f"Final format completed: {now}\n"
         f"File: {path.relative_to(ROOT)}\n"
         f"Before size: {before_size} bytes\n"
@@ -2069,9 +2080,14 @@ def write_run_log(
 
 
 def run_post_process(
-    path: Path = FINAL_MARKDOWN,
+    path: Path | None = None,
 ) -> dict[str, int | str]:
-    """Format the final Markdown deliverable in place."""
+    """Format the final Markdown deliverable in place.
+
+    Paths are resolved at call time from the active job (not import-time globals).
+    """
+    if path is None:
+        path = _final_markdown()
     raw_bytes = path.read_bytes()
     before_stat = path.stat()
     before_hash = hashlib.sha256(raw_bytes).hexdigest().upper()

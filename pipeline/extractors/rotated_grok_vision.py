@@ -4,11 +4,11 @@ Rotated descriptor tables — agent vision extraction (coding agent only).
 Geometry/OCR cannot reliably extract rotated CEFR scale tables. Chat/web Grok
 drafts are **not** part of the pipeline (optional offline tool only; never required).
 
-Canonical path:
-  1. prepare_*  — crop PNG + JSON + handoff → work/metadata/rotated_for_grok/
+Canonical path (under active job ``work/<job-id>/metadata/``):
+  1. prepare_*  — crop PNG + JSON + handoff → rotated_for_grok/
   2. **Agent vision (required for quality)** — coding agent re-reads each
        page_*.png in-session with multimodal vision and writes
-       work/metadata/rotated_from_grok/{slug}.md
+       rotated_from_grok/{slug}.md
   3. assemble_* — merge per-page .md into span body
   4. finalize_after_grok.py / full extract — cleanup + merge
 
@@ -30,35 +30,57 @@ from typing import Any
 import fitz
 import pdfplumber
 
-from pipeline.config import (
-    INVENTORIES_DIR,
-    PDF_PATH,
-    RENDER_SCALE,
-    ROTATED_FOR_GROK_DIR,
-    ROTATED_FROM_GROK_DIR,
-)
+import pipeline.config as _cfg
+from pipeline.config import RENDER_SCALE, ROOT
 
 MANIFEST_NAME = "manifest.json"
 
-AGENT_VISION_INSTRUCTIONS = """
+
+def _for_dir() -> Path:
+    return _cfg.ROTATED_FOR_GROK_DIR
+
+
+def _from_dir() -> Path:
+    return _cfg.ROTATED_FROM_GROK_DIR
+
+
+def _rel(path: Path) -> str:
+    """POSIX path relative to extraction-pipeline root for operator-facing strings."""
+    try:
+        return path.resolve().relative_to(ROOT.resolve()).as_posix()
+    except ValueError:
+        return path.as_posix()
+
+
+def _agent_vision_instructions() -> str:
+    for_dir = _rel(_for_dir())
+    from_dir = _rel(_from_dir())
+    return f"""
 AGENT VISION EXTRACTION (rotated tables only — user is out of the loop)
 =======================================================================
 You (coding agent with vision) are the sole authoritative extractor for rotated
 descriptor-scale tables. Do **not** ask the user to upload PNGs to chat/web Grok.
 
-For each pending slug in work/metadata/rotated_for_grok/manifest.json:
+For each pending slug in {for_dir}/manifest.json:
 
-  1. Open work/metadata/rotated_for_grok/{slug}.png with vision.
+  1. Open {for_dir}/{{slug}}.png with vision.
   2. Transcribe every descriptor into markdown:
        | Level | Receptive | Productive |
      Blank Level on second row when PDF has a horizontal rule (B2/B1 multi-row).
      Join descriptors in a cell with <br>.
-  3. Write work/metadata/rotated_from_grok/{slug}.md (table only).
+  3. Write {from_dir}/{{slug}}.md (table only).
   4. After a span is complete (or for a production run with geometry fallback):
        python finalize_after_grok.py
 
 Chat/web Grok is NOT a pipeline step.
 """.strip()
+
+
+# Default-job strings for import-time consumers; prefer _agent_vision_instructions().
+AGENT_VISION_INSTRUCTIONS = (
+    "See prepare/handoff README under work/<job-id>/metadata/rotated_for_grok/ "
+    "(paths resolve from the active job)."
+)
 
 
 def rotated_table_slug(page_num: int, span_group_id: str) -> str:
@@ -69,10 +91,10 @@ def rotated_table_slug(page_num: int, span_group_id: str) -> str:
 
 def _paths_for_slug(slug: str) -> dict[str, Path]:
     return {
-        "png": ROTATED_FOR_GROK_DIR / f"{slug}.png",
-        "json": ROTATED_FOR_GROK_DIR / f"{slug}.json",
-        "handoff": ROTATED_FOR_GROK_DIR / f"{slug}.handoff.txt",
-        "md": ROTATED_FROM_GROK_DIR / f"{slug}.md",
+        "png": _for_dir() / f"{slug}.png",
+        "json": _for_dir() / f"{slug}.json",
+        "handoff": _for_dir() / f"{slug}.handoff.txt",
+        "md": _from_dir() / f"{slug}.md",
     }
 
 
@@ -141,16 +163,16 @@ def resolve_grok_md_path(page_num: int, span_group_id: str) -> Path | None:
     case: agent vision is stored under ``appendix_5_domain_examples`` while
     inventory may label the page with a domain-scale id (Online interaction, …).
     """
-    primary = ROTATED_FROM_GROK_DIR / f"{rotated_table_slug(page_num, span_group_id)}.md"
+    primary = _from_dir() / f"{rotated_table_slug(page_num, span_group_id)}.md"
     if primary.exists() and primary.stat().st_size > 20:
         return primary
     for leg in _legacy_garbled_gid_candidates(span_group_id):
-        cand = ROTATED_FROM_GROK_DIR / f"{rotated_table_slug(page_num, leg)}.md"
+        cand = _from_dir() / f"{rotated_table_slug(page_num, leg)}.md"
         if cand.exists() and cand.stat().st_size > 20:
             return cand
     # Appendix 5 domain-example pages: vision markdown is always under the series slug
     if 191 <= page_num <= 241:
-        appx = ROTATED_FROM_GROK_DIR / f"{rotated_table_slug(page_num, 'appendix_5_domain_examples')}.md"
+        appx = _from_dir() / f"{rotated_table_slug(page_num, 'appendix_5_domain_examples')}.md"
         if appx.exists() and appx.stat().st_size > 20:
             return appx
     # Constrained last resort: only if the candidate stem shares a meaningful
@@ -164,7 +186,7 @@ def resolve_grok_md_path(page_num: int, span_group_id: str) -> Path | None:
         return None
     matches = [
         p
-        for p in ROTATED_FROM_GROK_DIR.glob(f"page_{page_num:03d}_*.md")
+        for p in _from_dir().glob(f"page_{page_num:03d}_*.md")
         if p.stat().st_size > 20
         and any(t in p.stem.lower() for t in tokens)
     ]
@@ -182,7 +204,7 @@ def resolve_rotated_asset_slug(page_num: int, span_group_id: str) -> str:
     # Prefer existing PNG under clean or legacy slug
     for gid in [span_group_id, *_legacy_garbled_gid_candidates(span_group_id)]:
         slug = rotated_table_slug(page_num, gid)
-        if (ROTATED_FOR_GROK_DIR / f"{slug}.png").exists():
+        if (_for_dir() / f"{slug}.png").exists():
             return slug
     return clean_slug
 
@@ -210,15 +232,16 @@ def _span_role(page_num: int, span_pages: list[int]) -> str:
 def _handoff_text(meta: dict[str, Any]) -> str:
     pages = meta.get("span_pages") or [meta["page"]]
     page_range = f"{pages[0]}-{pages[-1]}" if len(pages) > 1 else str(pages[0])
+    slug = meta["slug"]
     return (
         f"Page: {meta['page']}\n"
         f"Span: {meta['span_group_id']} (pages {page_range})\n"
         f"Title: {meta.get('display_title', meta['span_group_id'])}\n"
         f"Role: {meta.get('span_role', 'single')}\n"
         f"Rotation: {meta.get('rotation', 90)}\n"
-        f"Slug: {meta['slug']}\n"
-        f"PNG: work/metadata/rotated_for_grok/{meta['slug']}.png\n"
-        f"Write markdown: work/metadata/rotated_from_grok/{meta['slug']}.md\n"
+        f"Slug: {slug}\n"
+        f"PNG: {_rel(_for_dir() / f'{slug}.png')}\n"
+        f"Write markdown: {_rel(_from_dir() / f'{slug}.md')}\n"
         f"\n"
         f"AUTHORITY: coding agent vision only (no chat/web Grok step).\n"
         f"Schema: | Level | Receptive | Productive |  multi-row: blank Level.\n"
@@ -233,15 +256,17 @@ def prepare_rotated_table_for_grok(
     *,
     span_pages: list[int] | None = None,
     rotation: int = 90,
-    pdf_path: str | Path = PDF_PATH,
+    pdf_path: str | Path | None = None,
     force: bool = False,
 ) -> dict[str, Any]:
     """Crop rotated table region; write PNG + JSON + handoff txt. Idempotent unless force=True.
 
     Prefer existing legacy (garbled-slug) assets so re-slug never orphans vision .md.
     """
-    ROTATED_FOR_GROK_DIR.mkdir(parents=True, exist_ok=True)
-    ROTATED_FROM_GROK_DIR.mkdir(parents=True, exist_ok=True)
+    if pdf_path is None:
+        pdf_path = _cfg.PDF_PATH
+    _for_dir().mkdir(parents=True, exist_ok=True)
+    _from_dir().mkdir(parents=True, exist_ok=True)
     # Use legacy slug when assets already exist under the pre-fix id
     slug = resolve_rotated_asset_slug(page_num, span_group_id)
     paths = _paths_for_slug(slug)
@@ -299,7 +324,7 @@ def prepare_span_for_grok(
     display_title: str,
     *,
     rotation: int = 90,
-    pdf_path: str | Path = PDF_PATH,
+    pdf_path: str | Path | None = None,
     force: bool = False,
 ) -> list[dict[str, Any]]:
     """Prepare one PNG per page in a multi-page rotated span."""
@@ -318,15 +343,15 @@ def prepare_span_for_grok(
 
 
 def _status_for_slug(slug: str) -> str:
-    md_path = ROTATED_FROM_GROK_DIR / f"{slug}.md"
+    md_path = _from_dir() / f"{slug}.md"
     if md_path.exists() and md_path.stat().st_size > 20:
         return "agent_md_ready"
     return "pending_agent_vision"
 
 
 def _update_manifest_entry(meta: dict[str, Any]) -> None:
-    ROTATED_FOR_GROK_DIR.mkdir(parents=True, exist_ok=True)
-    manifest_path = ROTATED_FOR_GROK_DIR / MANIFEST_NAME
+    _for_dir().mkdir(parents=True, exist_ok=True)
+    manifest_path = _for_dir() / MANIFEST_NAME
     manifest: dict[str, Any] = {"tables": []}
     if manifest_path.exists():
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
@@ -346,7 +371,7 @@ def _update_manifest_entry(meta: dict[str, Any]) -> None:
 
 def refresh_manifest_statuses() -> dict[str, Any]:
     """Re-scan rotated_from_grok and update manifest statuses."""
-    manifest_path = ROTATED_FOR_GROK_DIR / MANIFEST_NAME
+    manifest_path = _for_dir() / MANIFEST_NAME
     if not manifest_path.exists():
         return {"tables": [], "pending": 0, "received": 0}
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
@@ -366,7 +391,7 @@ def refresh_manifest_statuses() -> dict[str, Any]:
 
 def get_pending_rotated_tables() -> list[dict[str, Any]]:
     refresh_manifest_statuses()
-    manifest_path = ROTATED_FOR_GROK_DIR / MANIFEST_NAME
+    manifest_path = _for_dir() / MANIFEST_NAME
     if not manifest_path.exists():
         return []
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
@@ -378,7 +403,7 @@ def grok_md_path(page_num: int, span_group_id: str) -> Path:
     resolved = resolve_grok_md_path(page_num, span_group_id)
     if resolved is not None:
         return resolved
-    return ROTATED_FROM_GROK_DIR / f"{rotated_table_slug(page_num, span_group_id)}.md"
+    return _from_dir() / f"{rotated_table_slug(page_num, span_group_id)}.md"
 
 
 def has_grok_markdown(page_num: int, span_group_id: str) -> bool:
@@ -430,7 +455,7 @@ def assemble_grok_rotated_span(
     page_nums: list[int],
 ) -> str | None:
     """Merge per-page agent vision markdown into one table body."""
-    ROTATED_FROM_GROK_DIR.mkdir(parents=True, exist_ok=True)
+    _from_dir().mkdir(parents=True, exist_ok=True)
     if not span_grok_complete(page_nums, span_group_id):
         return None
     paths: list[Path] = []
@@ -445,13 +470,15 @@ def assemble_grok_rotated_span(
 
 def pending_placeholder(span_group_id: str, page_nums: list[int]) -> str:
     slugs = [rotated_table_slug(p, span_group_id) for p in sorted(page_nums)]
+    for_dir = _rel(_for_dir())
+    from_dir = _rel(_from_dir())
     lines = [
         f"<!-- GROK_VISION_PENDING: {span_group_id} pages={page_nums[0]}-{page_nums[-1]} -->",
         "<!-- Rotated table: agent vision .md missing; extract may use geometry fallback. -->",
-        "<!-- Agent: re-read PNGs in work/metadata/rotated_for_grok/ and write rotated_from_grok/ -->",
+        f"<!-- Agent: re-read PNGs in {for_dir}/ and write {from_dir}/ -->",
     ]
     for slug in slugs:
-        lines.append(f"<!--   - {slug}.png → work/metadata/rotated_from_grok/{slug}.md -->")
+        lines.append(f"<!--   - {slug}.png → {from_dir}/{slug}.md -->")
     lines.append("<!-- Then: python finalize_after_grok.py -->")
     return "\n".join(lines)
 
@@ -526,7 +553,7 @@ def prepare_all_rotated_from_inventories(
     force: bool = False,
 ) -> list[dict[str, Any]]:
     """Scan inventories; prepare PNG handoff for every page in each rotated span."""
-    inv_dir = inventories_dir or INVENTORIES_DIR
+    inv_dir = inventories_dir or _cfg.INVENTORIES_DIR
     prepared: list[dict[str, Any]] = []
     seen_slugs: set[str] = set()
     errors: list[str] = []
@@ -562,15 +589,18 @@ def prepare_all_rotated_from_inventories(
 
 
 def write_handoff_readme(*, errors: list[str] | None = None) -> Path:
-    """Write work/metadata/rotated_for_grok/README.txt with agent vision workflow."""
-    ROTATED_FOR_GROK_DIR.mkdir(parents=True, exist_ok=True)
+    """Write rotated_for_grok/README.txt with agent vision workflow (active job paths)."""
+    _for_dir().mkdir(parents=True, exist_ok=True)
     pending = get_pending_rotated_tables()
     received = refresh_manifest_statuses().get("received", 0)
+    instructions = _agent_vision_instructions()
+    for_dir = _rel(_for_dir())
+    from_dir = _rel(_from_dir())
     lines = [
         "Rotated table agent vision handoff",
         "==================================",
         "",
-        AGENT_VISION_INSTRUCTIONS,
+        instructions,
         "",
         "Commands",
         "--------",
@@ -579,20 +609,20 @@ def write_handoff_readme(*, errors: list[str] | None = None) -> Path:
         "",
         f"Pending agent .md: {len(pending)}",
         f"Ready: {received}",
-        f"Manifest: {ROTATED_FOR_GROK_DIR / MANIFEST_NAME}",
-        f"Output dir: {ROTATED_FROM_GROK_DIR}",
+        f"Manifest: {_for_dir() / MANIFEST_NAME}",
+        f"Output dir: {_from_dir()}",
     ]
     if errors:
         lines.extend(["", "Prepare errors:", *[f"  - {e}" for e in errors]])
-    path = ROTATED_FOR_GROK_DIR / "README.txt"
+    path = _for_dir() / "README.txt"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    brief = ROTATED_FOR_GROK_DIR.parent / "ROTATED_TABLES_AGENT_VISION.md"
+    brief = _for_dir().parent / "ROTATED_TABLES_AGENT_VISION.md"
     brief.write_text(
         "# Rotated tables — agent vision (user out of the loop)\n\n"
-        + AGENT_VISION_INSTRUCTIONS
+        + instructions
         + "\n\n## Paths\n\n"
-        "- PNG / JSON / handoff: `work/metadata/rotated_for_grok/`\n"
-        "- Agent markdown: `work/metadata/rotated_from_grok/{slug}.md`\n"
+        f"- PNG / JSON / handoff: `{for_dir}/`\n"
+        f"- Agent markdown: `{from_dir}/{{slug}}.md`\n"
         "- Module: `pipeline/extractors/rotated_grok_vision.py`\n"
         "- Footnotes: geometry `rotated_footnote_zone` (not vision)\n"
         "- Missing .md at extract time: geometry fallback + HTML comment\n"
@@ -613,7 +643,7 @@ def _span_pages_from_info(span_info: dict, page_num: int) -> list[int]:
 
 def chunk_has_pending_grok(chunk_id: str) -> bool:
     """True if this chunk has rotated tables still missing agent vision markdown."""
-    inv_path = INVENTORIES_DIR / f"{chunk_id}_inventory.json"
+    inv_path = _cfg.INVENTORIES_DIR / f"{chunk_id}_inventory.json"
     if not inv_path.exists():
         return False
     inv = json.loads(inv_path.read_text(encoding="utf-8"))
@@ -642,7 +672,7 @@ def chunk_has_pending_grok(chunk_id: str) -> bool:
 
 def chunks_with_rotated_tables() -> list[str]:
     out: list[str] = []
-    for inv_path in sorted(INVENTORIES_DIR.glob("*_inventory.json")):
+    for inv_path in sorted(_cfg.INVENTORIES_DIR.glob("*_inventory.json")):
         inv = json.loads(inv_path.read_text(encoding="utf-8"))
         for page_info in inv.get("pages", []):
             if any(

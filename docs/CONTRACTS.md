@@ -35,11 +35,11 @@ inventory reading_order  →  extract (dispatch only)  →  cleanup  →  merge
 ## 2. Inventory `reading_order` is SoT
 
 1. Extract iterates `reading_order` **in order** and concatenates non-empty element outputs.
-2. Every known figure on a page from `work/metadata/figures_registry.json` must appear as its own `figure` element (or as an **expanded** multi-element order stored in the inventory JSON — never a silent single `figure_page` that hides siblings).
+2. Every known figure on a page from `work/cefr-companion-2020/metadata/figures_registry.json` must appear as its own `figure` element (or as an **expanded** multi-element order stored in the inventory JSON — never a silent single `figure_page` that hides siblings).
 3. Narrative blue boxes / sidebars must be typed **`callout`** (artifact or dedicated type), never `descriptor_scale`.
 4. Side-column prose beside partial-width tables **or** callouts uses role `side` with x-bounded bbox; LTR interleave with the adjacent artifact.
 5. `figures: []` in inventory is invalid when the registry has figures for that page — inventory must list them.
-6. If geometry cannot detect a callout/box, use **agent-authored** `work/metadata/callouts_registry.json` (same idea as figures registry). Prefer judgment over brittle heuristics (UV-06).
+6. If geometry cannot detect a callout/box, use **agent-authored** `work/cefr-companion-2020/metadata/callouts_registry.json` (same idea as figures registry). Prefer judgment over brittle heuristics (UV-06).
 
 ### Element types
 
@@ -153,7 +153,7 @@ Stop stacking heuristics and open agent/vision judgment when:
 - Cell phrase breaks ambiguous from geometry alone
 - Inventory RO and visual PDF order still disagree after rebuild
 
-Pattern: same as rotated tables — prepare evidence, agent writes authoritative work/metadata/markdown, extract assembles.
+Pattern: same as rotated tables — prepare evidence, agent writes authoritative work/cefr-companion-2020/metadata/markdown, extract assembles.
 
 ---
 

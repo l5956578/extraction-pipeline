@@ -34,7 +34,9 @@ extraction-pipeline/
 
 - `pipeline.config.load_job(job_id)` → `JobContext` and rebinds path/layout module globals.
 - Phase A: default job `cefr-companion-2020` when `--job` omitted; auto-load on import.
-- Phase B (planned): thread `JobContext` through call sites; require `--job`.
+- **CLI order (required):** parse args → `load_job` → *then* import pipeline step modules so path bindings see the selected job.
+- **One process ≈ one load:** same `job_id` returns a cached context; pass `load_job(id, reload=True)` after editing `job.json` / profile mid-process.
+- Phase B (planned): thread `JobContext` through call sites; require `--job`; stop freezing derived paths at import.
 
 CLI: `run_pipeline.py --job <id>`, `run_production_extract.py --job <id>`, `iterate_format.py --job <id>`.
 
@@ -126,7 +128,7 @@ Rotated descriptor scales (~90° text) are not reliable via pdfplumber geometry 
 | Fallback | Geometry (no forced OCR thrash); HTML `AGENT_VISION_PENDING` |
 
 Slug: `page_{NNN}_{span_group_id}`  
-Procedure: `work/metadata/ROTATED_TABLES_AGENT_VISION.md`
+Procedure: `work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md`
 
 ### 4.3 Footnotes on rotated pages
 
@@ -149,8 +151,8 @@ Historical snapshot: `docs/archive/CEFR_Companion_Volume_structured.legacy.md`.
 
 ## 6. Figures
 
-- Policy: `work/metadata/figures_handling.md`
-- Registry: `work/metadata/figures_registry.json`
+- Policy: `work/cefr-companion-2020/metadata/figures_handling.md`
+- Registry: `work/cefr-companion-2020/metadata/figures_registry.json`
 - Inject: `apply_figures` after merge; skip TOC region
 
 ---
@@ -158,7 +160,7 @@ Historical snapshot: `docs/archive/CEFR_Companion_Volume_structured.legacy.md`.
 ## 7. Validation
 
 - Per-chunk: `validators.py` (during pipeline)
-- Final: `output_validator.py` → `work/metadata/output_validation.json`
+- Final: `output_validator.py` → `work/cefr-companion-2020/metadata/output_validation.json`
 - **Contract gates (fail closed):** `pipeline/contract_validators.py` — soup, multi-fig, callouts, links, URLs, empty tables (see CONTRACTS §8)
 
 **Policy:** Green mass-only checks ≠ fixed. STATUS “resolved” requires the named contract gate green. User PDF QA remains authoritative for crop quality and residual layout.

@@ -25,7 +25,7 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase A multi-job layout: `cefr-companion-2020` namespace) |
+| **Last updated** | 2026-07-27 (Phase A review fixes: CLI load order, skill/runbook paths) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (default when `--job` omitted — Phase A only) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
@@ -125,7 +125,7 @@ Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 - Rebuilt spans + inventories (10 chunks)
 - Agent vision for 37 non–Appendix 5 rotated pages
 - Full extract of chunks 01–10 + cleanup + merge + figures + postprocess
-- Deliverable refreshed: `output/CEFR_Companion_Volume.md`
+- Deliverable refreshed: `output/cefr-companion-2020/CEFR_Companion_Volume.md` (path at time of work: flat `output/`; now job-namespaced)
 
 ### 4.5 Full-book re-run (2026-07-19) — chunk_02 fixes → whole document
 
@@ -137,7 +137,7 @@ Detailed design: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md).
 3. Gates: `adjacent_guard` green; `contract_validators` green
 
 **Rotated tables protection:**
-- Pre-run snapshot: **88** `work/metadata/rotated_from_grok/page_*.md` files (fp `a775bdc69156cb9a`)
+- Pre-run snapshot: **88** `work/cefr-companion-2020/metadata/rotated_from_grok/page_*.md` files (fp `a775bdc69156cb9a`)
 - Post-run: same count + fingerprint **unchanged**
 - Final MD: `AGENT_VISION_PENDING=0`, `geometry_fallback=0`, sign-language scale id present
 - Did **not** re-run `prepare_rotated` or overwrite vision `.md`
@@ -155,7 +155,7 @@ Statuses: **blocker** | **major** | **minor** | **debt**
 | ID | Item | Priority | Notes |
 |----|------|----------|-------|
 | R1 | ~~Appendix 5 agent vision~~ | **resolved** | 51 pages written 2026-07-14; finalize re-extracted chunk_08 et al. |
-| R2 | ~~Appendix 5 personal multi-pass deep-audit~~ | **resolved** | Coding agent personally vision-audited all 51 Appx5 pages (same bar as 146–148). Log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`. Structural rewrite p.191; 192–197 rewritten; 198–241 verified match PNG. chunk_08 re-extract + figures + postprocess; PENDING=0, geometry_fallback=0. |
+| R2 | ~~Appendix 5 personal multi-pass deep-audit~~ | **resolved** | Coding agent personally vision-audited all 51 Appx5 pages (same bar as 146–148). Log: `work/cefr-companion-2020/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`. Structural rewrite p.191; 192–197 rewritten; 198–241 verified match PNG. chunk_08 re-extract + figures + postprocess; PENDING=0, geometry_fallback=0. |
 | R3 | Reversed/garbled `span_group_id` / display titles in inventory (e.g. `noitacilbup`) | **improved (final MD)** / debt in inventory | **Final MD:** re-derive id from fixed ### / table title (`title_fix` + `_resync_artifact_ids_from_fixed_titles`, RIE-005). Inventory JSON may still hold old tokens until re-extract — **not** fixed by rebuild alone |
 
 ### P1 — Output quality (non-rotated)
@@ -263,7 +263,7 @@ These are **not** optional commentary. They are logged requirements, policy, and
 
 ## 6. Rotated table inventory (authoritative method)
 
-### Agent vision complete (`work/metadata/rotated_from_grok/`, 37 files)
+### Agent vision complete (`work/cefr-companion-2020/metadata/rotated_from_grok/`, 37 files)
 
 | Pages | Scale / artifact (group id may be garbled) |
 |-------|-----------------------------------------------|
@@ -293,10 +293,10 @@ These are **not** optional commentary. They are logged requirements, policy, and
 
 **Standard:** same as pages 146–148 — coding agent multi-pass: read PNG with vision → rewrite or verify MD → re-check structure (level bands, multi-can `<br>` cells, blank domains, `[not applicable]`, split domain rows).
 
-**Audit log:** `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`
+**Audit log:** `work/cefr-companion-2020/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt`
 
-PNG prep for all **88** rotated pages: `work/metadata/rotated_for_grok/`.  
-Vision markdown for all **88**: `work/metadata/rotated_from_grok/`. **Pending: 0. Geometry fallback in final: 0.**
+PNG prep for all **88** rotated pages: `work/cefr-companion-2020/metadata/rotated_for_grok/`.  
+Vision markdown for all **88**: `work/cefr-companion-2020/metadata/rotated_from_grok/`. **Pending: 0. Geometry fallback in final: 0.**
 
 ---
 
@@ -321,25 +321,27 @@ Vision markdown for all **88**: `work/metadata/rotated_from_grok/`. **Pending: 0
 
 ### Full rebuild (slow: minutes–tens of minutes)
 
+Default job is `cefr-companion-2020` when `--job` is omitted (Phase A). Paths below use that job id.
+
 ```bash
-python run_pipeline.py --step spans
-python run_pipeline.py --step inventory
-python prepare_rotated_for_grok.py
-# Agent: vision-write any missing work/metadata/rotated_from_grok/*.md
-python -u run_production_extract.py
+python run_pipeline.py --job cefr-companion-2020 --step spans
+python run_pipeline.py --job cefr-companion-2020 --step inventory
+python prepare_rotated_for_grok.py --job cefr-companion-2020
+# Agent: vision-write any missing work/cefr-companion-2020/metadata/rotated_from_grok/*.md
+python -u run_production_extract.py --job cefr-companion-2020
 ```
 
 ### Format-only iteration (fast: ~4s)
 
 ```bash
-python iterate_format.py
-# or: python run_pipeline.py --step postprocess
+python iterate_format.py --job cefr-companion-2020
+# or: python run_pipeline.py --job cefr-companion-2020 --step postprocess
 ```
 
 ### After adding rotated vision markdown
 
 ```bash
-python finalize_after_grok.py
+python finalize_after_grok.py --job cefr-companion-2020
 # or re-extract affected chunks only, then merge + postprocess
 ```
 

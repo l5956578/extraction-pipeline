@@ -5,7 +5,8 @@ See docs/CONTRACTS.md § adjacent-element protection and user debug/log 04.md.
 
 Fail closed: these issues used to ship green while the user found them.
 
-Golden suite: work/metadata/golden/page_NNN.json (must_have / must_not_have / counts).
+Golden suite: work/<job-id>/metadata/golden/page_NNN.json
+(must_have / must_not_have / counts).
 """
 
 from __future__ import annotations
@@ -14,9 +15,12 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import FINAL_DIR, METADATA_DIR
+from pipeline.config import FINAL_DIR, METADATA_DIR, final_markdown_path
 
-GOLDEN_DIR = METADATA_DIR / "golden"
+
+def _golden_dir() -> Path:
+    """Active job golden suite — resolve at call time (not import-time freeze)."""
+    return METADATA_DIR / "golden"
 
 
 def _page_body(md: str, page_num: int) -> str:
@@ -81,10 +85,11 @@ def _lines_after_figure_image(body: str, fig_id_prefix: str = "figure_") -> list
 
 
 def _load_goldens() -> list[dict]:
-    if not GOLDEN_DIR.is_dir():
+    golden_dir = _golden_dir()
+    if not golden_dir.is_dir():
         return []
     out: list[dict] = []
-    for path in sorted(GOLDEN_DIR.glob("page_*.json")):
+    for path in sorted(golden_dir.glob("page_*.json")):
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
             data["_path"] = str(path)
@@ -258,7 +263,7 @@ def _validate_golden_file(body: str, g: dict, page_num: int) -> list[dict]:
 
 def validate_adjacent(md_path: Path | None = None) -> list[dict]:
     """Return list of high-severity adjacent-damage issues."""
-    md_path = md_path or (FINAL_DIR / "CEFR_Companion_Volume.md")
+    md_path = md_path or final_markdown_path()
     issues: list[dict] = []
     if not md_path.exists():
         return [_fail("V-ADJ-MD-MISSING", str(md_path))]
@@ -520,8 +525,8 @@ def validate_adjacent_report(md_path: Path | None = None) -> dict:
         "valid": len(issues) == 0,
         "issue_count": len(issues),
         "issues": issues,
-        "path": str(md_path or (FINAL_DIR / "CEFR_Companion_Volume.md")),
-        "golden_dir": str(GOLDEN_DIR),
+        "path": str(md_path or final_markdown_path()),
+        "golden_dir": str(_golden_dir()),
     }
     out = METADATA_DIR / "adjacent_validation.json"
     try:

@@ -8,7 +8,7 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import FINAL_DIR, PDF_PATH, METADATA_DIR
+from pipeline.config import FINAL_DIR, PDF_PATH, METADATA_DIR, final_markdown_path
 from pipeline.extractors.figures import crop_figure_png, extract_figure_04_embedded, load_figures_registry
 from pipeline.figure_inject import inject_png_figure, inject_text_diagram
 from pipeline.figure_multipass_crop import VERIFIED_CROPS, apply_verified_crops
@@ -149,7 +149,7 @@ def update_db_registry():
 
 
 def run_apply_figures():
-    md = FINAL_DIR / "CEFR_Companion_Volume.md"
+    md = final_markdown_path()
     result = apply_figures_to_markdown(md)
     update_db_registry()
     return result

@@ -1,7 +1,12 @@
 import fitz
 
 from pathlib import Path
-doc = fitz.open(Path(__file__).resolve().parents[1] / "input" / "CEFR Companion Volume_eng.pdf")
+doc = fitz.open(
+    Path(__file__).resolve().parents[1]
+    / "input"
+    / "cefr-companion-2020"
+    / "source.pdf"
+)
 
 page = doc[33]
 h = page.rect.height

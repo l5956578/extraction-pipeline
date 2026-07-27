@@ -2,34 +2,22 @@
 """
 Re-extract (picks up agent vision markdown), then cleanup + merge.
 
-Run after agent has written work/metadata/rotated_from_grok/page_*_*.md for pending
-rotated tables (re-read PNGs with vision first — see
-work/metadata/ROTATED_TABLES_AGENT_VISION.md).
+Run after agent has written work/<job-id>/metadata/rotated_from_grok/page_*_*.md
+for pending rotated tables (re-read PNGs with vision first — see
+work/<job-id>/metadata/ROTATED_TABLES_AGENT_VISION.md).
 """
 
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
-from pipeline.cleanup import cleanup_file
-from pipeline.config import CLEANED_DIR, FINAL_DIR, INVENTORIES_DIR, RAW_DIR
-from pipeline.extract_chunk import extract_chunk
-from pipeline.extractors.rotated_grok_vision import (
-    chunk_has_pending_grok,
-    chunks_with_rotated_tables,
-    get_pending_rotated_tables,
-    refresh_manifest_statuses,
-)
-from pipeline.merge_output import merge_markdown
-
 
 def main() -> None:
-    import argparse
-
     parser = argparse.ArgumentParser(
         description="Finalize pipeline after agent vision markdown for rotated tables"
     )
@@ -56,19 +44,33 @@ def main() -> None:
     )
     args = parser.parse_args()
 
+    # Load job before importing path-bound modules (Issue 1).
     from pipeline.config import load_job
 
     ctx = load_job(args.job)
     print(f"Job: {ctx.job_id}")
 
+    from pipeline.cleanup import cleanup_file
+    from pipeline.config import CLEANED_DIR, INVENTORIES_DIR, RAW_DIR
+    from pipeline.extract_chunk import extract_chunk
+    from pipeline.extractors.rotated_grok_vision import (
+        chunk_has_pending_grok,
+        chunks_with_rotated_tables,
+        get_pending_rotated_tables,
+        refresh_manifest_statuses,
+    )
+    from pipeline.merge_output import merge_markdown
+
     refresh_manifest_statuses()
     pending = get_pending_rotated_tables()
 
+    rot_from = ctx.rotated_from_grok_dir
     print("=== Finalize after agent vision (rotated tables) ===\n")
     if pending:
         print(f"Global pending: {len(pending)} table page(s) without .md")
         for row in pending[:20]:
-            print(f"  missing: work/metadata/rotated_from_grok/{row.get('slug')}.md")
+            slug = row.get("slug") or ""
+            print(f"  missing: {rot_from / (slug + '.md')}")
         if len(pending) > 20:
             print(f"  ... and {len(pending) - 20} more")
 
@@ -113,7 +115,7 @@ def main() -> None:
     print("\n[3/3] merge")
     merge_markdown()
 
-    final = FINAL_DIR / "CEFR_Companion_Volume.md"
+    final = ctx.final_markdown
     print("\n=== Done ===")
     print(f"  final: {final} ({final.stat().st_size if final.exists() else 0} bytes)")
     print("  next: agent vision for remaining pending PNGs if any")

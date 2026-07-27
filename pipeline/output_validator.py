@@ -507,7 +507,9 @@ def _pdf_page_count() -> int:
 
 
 def validate_final_output(md_path: Path | None = None) -> dict:
-    md_path = md_path or FINAL_DIR / "CEFR_Companion_Volume.md"
+    from pipeline.config import final_markdown_path
+
+    md_path = md_path or final_markdown_path()
     text = md_path.read_text(encoding="utf-8")
     issues: list[dict] = []
 

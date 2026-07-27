@@ -1,7 +1,7 @@
 # Extraction invariants (QA single source of truth)
 
 **Scope:** rules Vision QA and the coding agent use when judging PDF page vs Markdown.  
-**Source:** consolidated from `docs/CONTRACTS.md`, `docs/ADJACENT_ELEMENT_PROTECTION.md`, `STATUS.md`, `work/metadata/figures_handling.md`, `work/metadata/ROTATED_TABLES_AGENT_VISION.md`, `AGENTS.md`.  
+**Source:** consolidated from `docs/CONTRACTS.md`, `docs/ADJACENT_ELEMENT_PROTECTION.md`, `STATUS.md`, `work/cefr-companion-2020/metadata/figures_handling.md`, `work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md`, `AGENTS.md`.  
 **Do not invent** new element types or parallel architecture.
 
 Short IDs in `rule_violated` fields should use the **rule-id** tokens in backticks below.
@@ -96,7 +96,7 @@ Short IDs in `rule_violated` fields should use the **rule-id** tokens in backtic
 
 | rule-id | Invariant |
 |---------|-----------|
-| `rotated-vision-path` | Rotated scales use `work/metadata/rotated_from_grok/{slug}.md`; do not wipe or mass-rewrite the 88 vision files in this QA skill. |
+| `rotated-vision-path` | Rotated scales use `work/cefr-companion-2020/metadata/rotated_from_grok/{slug}.md`; do not wipe or mass-rewrite the 88 vision files in this QA skill. |
 | `rotated-footnotes-geometry` | Footnotes on rotated pages stay on geometry path, not vision rewrite of the whole page. |
 
 ---

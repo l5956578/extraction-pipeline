@@ -80,7 +80,7 @@ For each open issue (or same-page batch — see efficiency):
 1. **Identify** page number(s) and element class from the bug report.
 2. **Snapshot** full-page PNG once via `scripts/render_page_png.py` (reuse thereafter).
 3. **Load** `references/extraction-invariants.md` and `references/qa-output-contract.md` (once per issue is enough; keep in context).
-4. **Prepare current MD slice** — re-read `output/CEFR_Companion_Volume.md` and slice page N **now** (see Page Markdown slice). **Never** reuse a stale pre-fix slice for a later Vision invocation.
+4. **Prepare current MD slice** — re-read `output/cefr-companion-2020/CEFR_Companion_Volume.md` and slice page N **now** (see Page Markdown slice). **Never** reuse a stale pre-fix slice for a later Vision invocation.
 5. **Invoke Vision QA** with: full-page PNG + **current** MD slice + full invariants text. Demand YAML only per contract.
 6. If `status: pass`:
    - If this was baseline (0 fixes) or any fix attempt → go to **After pass** (gates + report). Stop loop for this issue.
@@ -108,7 +108,7 @@ While inside the loop: do not stop for partial status theater; complete attempt 
 | Full page only | Never crop the QA page image |
 | Open bugs only | Generate PNG only for pages with an open defect |
 | Reuse | Store and reuse exact file on later iterations |
-| Path | `work/metadata/qa_snapshots/page_NNN.png` (zero-padded, e.g. `page_041.png`) |
+| Path | `work/cefr-companion-2020/metadata/qa_snapshots/page_NNN.png` (zero-padded, e.g. `page_041.png`) |
 | Scale | Fixed to project `pipeline.config.RENDER_SCALE` (**2.0**). Not a free per-run knob; changing scale requires intentional `--force` re-render and invalidates prior Vision judgments on that file. |
 | Force | Regenerate only with `--force` (PDF change, corrupt/empty file — script also auto-rerenders tiny/invalid PNGs) |
 
@@ -133,7 +133,7 @@ python .grok/skills/extraction-qa-vision/scripts/render_page_png.py --page 41 --
 
 ## Page Markdown slice
 
-Deliverable: `output/CEFR_Companion_Volume.md`
+Deliverable: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
 
 Page markers are at the **END** of each page. Match `pipeline.adjacent_guard._page_body` / `contract_validators._page_body` exactly:
 
@@ -148,7 +148,7 @@ Hand Vision QA the slice for the page under review (not the entire book unless n
 
 ## Inputs to Vision QA (every invocation)
 
-1. **Full-page PNG** — `work/metadata/qa_snapshots/page_NNN.png` (same file across attempts)
+1. **Full-page PNG** — `work/cefr-companion-2020/metadata/qa_snapshots/page_NNN.png` (same file across attempts)
 2. **Page MD slice** — **re-read and re-slice** from current deliverable (step 4)
 3. **Full invariants** — entire `references/extraction-invariants.md`
 
@@ -183,7 +183,7 @@ After resolution **or** after 4 fix attempts still failing / escalation:
 - **Issue:** <short description>
 - **Page + element:** <N> / <callout|prose-block|table|figure|…>
 - **Attempts:** <0–4 fix attempts; baseline QA separate>
-- **Snapshot:** work/metadata/qa_snapshots/page_NNN.png (reused: yes/no)
+- **Snapshot:** work/cefr-companion-2020/metadata/qa_snapshots/page_NNN.png (reused: yes/no)
 - **Matched:** RIE-xxx | none
 - **Action:** auto-applied | asked user | novel
 - **Investigation:** <one-liner: MD/PDF check + verdict>
@@ -200,7 +200,7 @@ After a **novel** fix that passes Vision + gates: append a full entry to
 
 - Respect `AGENTS.md`, `STATUS.md`, `docs/CONTRACTS.md`, C2-ADJ
 - **Resolved match before inventing patches** — CLEAR → auto-apply; never offload obvious re-apply to the user
-- **Never** delete/rewrite bulk `work/metadata/rotated_from_grok/*.md` (88 vision tables)
+- **Never** delete/rewrite bulk `work/cefr-companion-2020/metadata/rotated_from_grok/*.md` (88 vision tables)
 - Do not invent element types beyond invariants / contract enums
 - Prefer replace semantics over dual emit
 - Do not mark fixed without gates + honest visual match
@@ -216,7 +216,7 @@ These must **never** override full-page snapshots, fresh MD slices, or pure-obse
 2. **Batch same-page defects** — one Vision pass can list multiple `failures[]` for one page; fix in priority order (critical → major → minor); still one re-slice before the re-check.
 3. **Skip QA** only for pure typo edits with zero layout impact **and** user agreement; default is QA after meaningful layout/format fixes.
 4. **Do not** use high-DPI region crops for this skill’s QA image (user: full-page only).
-5. Existing `work/metadata/page_renders/` is **not** a substitute unless copied into `qa_snapshots` as the stable path for the loop.
+5. Existing `work/cefr-companion-2020/metadata/page_renders/` is **not** a substitute unless copied into `qa_snapshots` as the stable path for the loop.
 
 ---
 
