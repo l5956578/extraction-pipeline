@@ -3,8 +3,8 @@
 from __future__ import annotations
 
 import re
-
-from pipeline.config import KNOWN_TABLES_FIGURES, load_figures_registry
+import pipeline.config as cfg
+from pipeline.config import load_figures_registry
 
 _TOC_START = re.compile(r"^##\s+Contents$", re.I)
 _PAGE_10 = re.compile(r"<!--\s*page:10\s*-->", re.I)
@@ -13,7 +13,6 @@ _TOC_LISTING = re.compile(
     re.I,
 )
 _TOC_PAGE_SUFFIX = re.compile(r" — \d{1,3}$")
-
 
 def toc_bounds(lines: list[str]) -> tuple[int, int] | None:
     start = end = -1
@@ -27,12 +26,10 @@ def toc_bounds(lines: list[str]) -> tuple[int, int] | None:
         return start, end
     return None
 
-
 def in_toc_zone(index: int, bounds: tuple[int, int] | None) -> bool:
     if not bounds:
         return False
     return bounds[0] <= index < bounds[1]
-
 
 def is_toc_listing_line(line: str) -> bool:
     s = line.strip()
@@ -47,7 +44,6 @@ def is_toc_listing_line(line: str) -> bool:
     if re.match(r"^-\s+TABLE\s+\d+", s, re.I) and _TOC_PAGE_SUFFIX.search(s):
         return True
     return False
-
 
 def rebuild_list_of_figures_tables(lines: list[str], bounds: tuple[int, int]) -> list[str]:
     """Replace polluted list-of-figures/tables subsection with plain TOC lines."""
@@ -86,7 +82,6 @@ def rebuild_list_of_figures_tables(lines: list[str], bounds: tuple[int, int]) ->
     ]
 
     return lines[:lof_start] + fig_lines + footers + lines[end:]
-
 
 def strip_toc_figure_artifacts(text: str) -> str:
     lines = text.splitlines()

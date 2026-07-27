@@ -25,9 +25,9 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase A review fixes: CLI load order, skill/runbook paths) |
+| **Last updated** | 2026-07-27 (Phase B: JobContext split, `--job` required, layout SoT JSON) |
 | **Branch** | `master` |
-| **Active job** | `cefr-companion-2020` (default when `--job` omitted — Phase A only) |
+| **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
 | **Source PDF** | `input/cefr-companion-2020/source.pdf` (original name: `CEFR Companion Volume_eng.pdf`) |
 | **Sidecars** | `input/cefr-companion-2020/job.json`, `profiles/cefr_companion.json` |
@@ -67,8 +67,9 @@ PDF (input/<job-id>/source.pdf)
  → output/<job-id>/CEFR_Companion_Volume.md   # Companion job markdown name
 ```
 
-**Multi-job layout (Phase A):** every document is a **job** under `input|work|output/<job-id>/`.  
-Shared engine: `pipeline/` + optional `profiles/*.json`. Per-PDF knowledge: `input/<job-id>/job.json` + inventories.
+**Multi-job layout (Phase B):** every document is a **job** under `input|work|output/<job-id>/`.  
+Shared engine: `pipeline/` + `profiles/*.json`. Per-PDF knowledge: `input/<job-id>/job.json` (layout SoT) + inventories.  
+Load via `pipeline.bootstrap.bootstrap_job` / `load_job(job_id)` — **no import-time auto-load**. Paths: `import pipeline.config as cfg` then `cfg.PDF_PATH` (not frozen name imports).
 
 **Contract:** `work/<job-id>/inventories/*_inventory.json` → `reading_order` is the extraction source of truth.
 

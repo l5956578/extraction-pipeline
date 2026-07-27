@@ -36,10 +36,10 @@ Before claiming a figure/callout/table/footnote fix:
 
 | Goal | Command |
 |------|---------|
-| Format-only polish | `python iterate_format.py` |
-| Full rebuild | `python -u run_production_extract.py` (after inventory/vision as needed) |
-| Rotated PNG prep | `python prepare_rotated_for_grok.py` |
-| Adjacent gates | `python -m pipeline.adjacent_guard` |
+| Format-only polish | `python iterate_format.py --job cefr-companion-2020` |
+| Full rebuild | `python -u run_production_extract.py --job cefr-companion-2020` |
+| Rotated PNG prep | `python prepare_rotated_for_grok.py --job cefr-companion-2020` |
+| Adjacent gates | `python -m pipeline.adjacent_guard --job cefr-companion-2020` |
 | Extraction visual QA loop | Load skill `/extraction-qa-vision` (`.grok/skills/extraction-qa-vision/`) |
 | Match prior extraction fix | Read [`docs/RESOLVED_EXTRACTION_ISSUES.md`](docs/RESOLVED_EXTRACTION_ISSUES.md) + [`docs/RESOLVED_ISSUE_MATCH_PROTOCOL.md`](docs/RESOLVED_ISSUE_MATCH_PROTOCOL.md) |
 
@@ -72,5 +72,5 @@ Hard rule: **prefer action over questions.** The user is not the agent’s memor
 ## Deliverable / jobs
 
 - Companion: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
-- Layout: `input|work|output/<job-id>/` + `profiles/` + `pipeline.config.load_job`
-- CLI: pass `--job <id>` (Phase A default: `cefr-companion-2020`)
+- Layout: `input|work|output/<job-id>/` + `profiles/` + `pipeline.job_context.load_job`
+- CLI: **`--job <id>` required** (no silent default). Paths via `import pipeline.config as cfg`

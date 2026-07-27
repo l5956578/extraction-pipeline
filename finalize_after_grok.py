@@ -18,6 +18,8 @@ sys.path.insert(0, str(ROOT))
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(
         description="Finalize pipeline after agent vision markdown for rotated tables"
     )
@@ -37,21 +39,14 @@ def main() -> None:
         action="store_true",
         help="Re-extract every chunk (not only those with rotated tables)",
     )
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     args = parser.parse_args()
 
-    # Load job before importing path-bound modules (Issue 1).
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     print(f"Job: {ctx.job_id}")
 
+    import pipeline.config as cfg
     from pipeline.cleanup import cleanup_file
-    from pipeline.config import CLEANED_DIR, INVENTORIES_DIR, RAW_DIR
     from pipeline.extract_chunk import extract_chunk
     from pipeline.extractors.rotated_grok_vision import (
         chunk_has_pending_grok,
@@ -79,7 +74,7 @@ def main() -> None:
     elif args.all_chunks:
         chunk_ids = [
             p.stem.replace("_inventory", "")
-            for p in sorted(INVENTORIES_DIR.glob("chunk_*_inventory.json"))
+            for p in sorted(cfg.INVENTORIES_DIR.glob("chunk_*_inventory.json"))
         ]
     else:
         chunk_ids = chunks_with_rotated_tables()
@@ -97,7 +92,7 @@ def main() -> None:
     print(f"\n[1/3] Re-extract {len(chunk_ids)} chunk(s)")
     for cid in chunk_ids:
         extract_chunk(cid)
-        raw = RAW_DIR / f"{cid}.md"
+        raw = cfg.RAW_DIR / f"{cid}.md"
         if raw.exists():
             raw_text = raw.read_text(encoding="utf-8")
             if "GROK_VISION_PENDING" in raw_text and "geometry_fallback" not in raw_text:
@@ -109,8 +104,8 @@ def main() -> None:
                 print(f"  note: {cid} used geometry fallback for some rotated tables")
 
     print("\n[2/3] cleanup (all raw chunks)")
-    for raw in sorted(RAW_DIR.glob("chunk_*.md")):
-        cleanup_file(raw, CLEANED_DIR / raw.name)
+    for raw in sorted(cfg.RAW_DIR.glob("chunk_*.md")):
+        cleanup_file(raw, cfg.CLEANED_DIR / raw.name)
 
     print("\n[3/3] merge")
     merge_markdown()

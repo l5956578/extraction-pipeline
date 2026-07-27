@@ -8,13 +8,13 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import FINAL_DIR, PDF_PATH, METADATA_DIR, final_markdown_path
+import pipeline.config as cfg
+from pipeline.config import final_markdown_path
 from pipeline.extractors.figures import crop_figure_png, extract_figure_04_embedded, load_figures_registry
 from pipeline.figure_inject import inject_png_figure, inject_text_diagram
 from pipeline.figure_multipass_crop import VERIFIED_CROPS, apply_verified_crops
 from pipeline.figures_catalog import FIGURE_CONTENT, figure_block
 from pipeline.toc_zone import strip_toc_figure_artifacts, toc_bounds
-
 
 def _ensure_png_assets() -> dict[str, str]:
     """Crop PNG figures using multipass-verified registry boxes (C2-F3).
@@ -27,7 +27,7 @@ def _ensure_png_assets() -> dict[str, str]:
     except Exception:  # noqa: BLE001
         pass
 
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     assets: dict[str, str] = {}
     for fig in load_figures_registry():
         if fig.get("render_as") != "png":
@@ -47,7 +47,6 @@ def _ensure_png_assets() -> dict[str, str]:
     doc.close()
     return assets
 
-
 def _replace_png_body_with_table(text: str, fid: str, block: str) -> str:
     """Swap legacy PNG inject for fig 9/10 table bodies (log 04 #8 / log 06)."""
     # Match db:id header through optional ### line and image markdown
@@ -61,7 +60,6 @@ def _replace_png_body_with_table(text: str, fid: str, block: str) -> str:
         # Rebuild clean block from catalog
         return pat.sub(block.rstrip() + "\n\n", text, count=1)
     return text
-
 
 def apply_figures_to_markdown(md_path: Path) -> dict:
     text = md_path.read_text(encoding="utf-8")
@@ -113,9 +111,8 @@ def apply_figures_to_markdown(md_path: Path) -> dict:
     md_path.write_text(text, encoding="utf-8")
     return {"path": str(md_path), "png_assets": len(assets), "figures": len(registry)}
 
-
 def update_db_registry():
-    reg_path = FINAL_DIR / "db_import_registry.json"
+    reg_path = cfg.FINAL_DIR / "db_import_registry.json"
     if not reg_path.exists():
         return
     records = json.loads(reg_path.read_text(encoding="utf-8"))
@@ -147,13 +144,14 @@ def update_db_registry():
     records.sort(key=lambda r: (r.get("page_start", 0), r["id"]))
     reg_path.write_text(json.dumps(records, indent=2), encoding="utf-8")
 
-
 def run_apply_figures():
     md = final_markdown_path()
     result = apply_figures_to_markdown(md)
     update_db_registry()
     return result
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Apply figures to final markdown")
     print(run_apply_figures())

@@ -9,7 +9,6 @@ from pathlib import Path
 import fitz
 
 import pipeline.config as _cfg
-from pipeline.config import ASSETS_FIGURES, PDF_PATH
 from pipeline.utils import ensure_dir
 
 
@@ -41,7 +40,7 @@ def crop_figure_png(page: fitz.Page, fig: dict, scale: float = 2.0) -> str | Non
     """Render a figure region to assets/figures/{id}.png using registry crop box."""
     if not should_extract_png(fig):
         return None
-    ensure_dir(ASSETS_FIGURES)
+    ensure_dir(_cfg.ASSETS_FIGURES)
     rect = page.rect
     crop = fig.get("crop") or {"y0": 0.2, "y1": 0.9, "x0": 0.05, "x1": 0.95}
     clip = fitz.Rect(
@@ -52,7 +51,7 @@ def crop_figure_png(page: fitz.Page, fig: dict, scale: float = 2.0) -> str | Non
     )
     mat = fitz.Matrix(scale, scale)
     pix = page.get_pixmap(matrix=mat, clip=clip)
-    out_path = ASSETS_FIGURES / f"{fig['id']}.png"
+    out_path = _cfg.ASSETS_FIGURES / f"{fig['id']}.png"
     pix.save(out_path)
     return f"assets/figures/{out_path.name}"
 
@@ -61,10 +60,10 @@ def extract_figure_04_embedded(page: fitz.Page) -> str | None:
     imgs = page.get_images(full=True)
     if not imgs:
         return None
-    ensure_dir(ASSETS_FIGURES)
+    ensure_dir(_cfg.ASSETS_FIGURES)
     xref = imgs[0][0]
     base = page.parent.extract_image(xref)
-    out_path = ASSETS_FIGURES / "figure_04_rainbow.png"
+    out_path = _cfg.ASSETS_FIGURES / "figure_04_rainbow.png"
     out_path.write_bytes(base["image"])
     return f"assets/figures/{out_path.name}"
 

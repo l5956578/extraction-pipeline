@@ -12,12 +12,10 @@ sys.path.insert(0, str(ROOT))
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(description="Prepare rotated table PNGs for agent vision")
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     parser.add_argument(
         "--force",
         action="store_true",
@@ -25,10 +23,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    # Load job before importing modules that bind path globals (Issue 1).
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     print(f"Job: {ctx.job_id}\n")
 
     from pipeline.extractors.rotated_grok_vision import (

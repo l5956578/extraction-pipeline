@@ -1,12 +1,10 @@
 """Restore page-9 list of figures from registry."""
 
 from __future__ import annotations
-
 from pipeline.config import load_figures_registry
 
 LIST_START = "LIST OF FIGURES"
 LIST_END = "LIST OF TABLES"
-
 
 def _list_block() -> list[str]:
     lines = [LIST_START, ""]
@@ -16,7 +14,6 @@ def _list_block() -> list[str]:
         lines.append(str(fig["page"]))
     lines.append(LIST_END)
     return lines
-
 
 def restore_list_of_figures(text: str) -> str:
     lines = text.splitlines()

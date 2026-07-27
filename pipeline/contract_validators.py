@@ -10,9 +10,9 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import FINAL_DIR, METADATA_DIR, ROOT
+import pipeline.config as cfg
+from pipeline.config import ROOT, final_markdown_path
 from pipeline.extractors.figures import figures_for_page, load_figures_registry
-
 
 def _page_body(md: str, page_num: int) -> str:
     m = re.search(rf"<!-- page:{page_num} -->", md)
@@ -22,14 +22,12 @@ def _page_body(md: str, page_num: int) -> str:
     start = prev[-1].end() if prev else 0
     return md[start : m.start()]
 
-
 def _fail(gate: str, detail: str) -> dict:
     return {"gate": gate, "severity": "high", "detail": detail}
 
-
 def validate_contracts(md_path: Path | None = None) -> dict:
     """Return {valid, issues:[{gate, severity, detail}, ...]}."""
-    from pipeline.config import final_markdown_path
+    
 
     md_path = md_path or final_markdown_path()
     issues: list[dict] = []
@@ -284,15 +282,17 @@ def validate_contracts(md_path: Path | None = None) -> dict:
         "issues": issues,
         "path": str(md_path),
     }
-    out = METADATA_DIR / "contract_validation.json"
+    out = cfg.METADATA_DIR / "contract_validation.json"
     try:
         out.write_text(json.dumps(report, indent=2), encoding="utf-8")
     except OSError:
         pass
     return report
 
-
 def main() -> int:
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Fail-closed contract validators")
     report = validate_contracts()
     if report["valid"]:
         print("CONTRACT VALIDATION OK")
@@ -300,9 +300,8 @@ def main() -> int:
     print(f"CONTRACT VALIDATION FAIL ({report['issue_count']} issue(s))")
     for iss in report["issues"]:
         print(f" - [{iss['gate']}] {iss['detail']}")
-    print(f"(report: {METADATA_DIR / 'contract_validation.json'})")
+    print(f"(report: {cfg.METADATA_DIR / 'contract_validation.json'})")
     return 1
-
 
 if __name__ == "__main__":
     raise SystemExit(main())

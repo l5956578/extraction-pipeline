@@ -9,13 +9,12 @@ from typing import Any
 
 import fitz
 
-from pipeline.config import INVENTORIES_DIR, PDF_PATH
+import pipeline.config as cfg
 from pipeline.id_registry import build_registry, registry_by_page
 from pipeline.inventory import classify_page
 from pipeline.page_elements import build_reading_order, prose_segments, table_bboxes
 from pipeline.page_layout import _classify_line, _span_text, classify_page_zones
 from pipeline.span_detector import detect_spans
-
 
 def _parse_pages(raw: str) -> list[int]:
     pages: list[int] = []
@@ -25,17 +24,15 @@ def _parse_pages(raw: str) -> list[int]:
         pages.append(int(part))
     return pages
 
-
 def _load_inventory_page(page_num: int) -> dict[str, Any] | None:
-    if not INVENTORIES_DIR.exists():
+    if not cfg.INVENTORIES_DIR.exists():
         return None
-    for path in sorted(INVENTORIES_DIR.glob("*_inventory.json")):
+    for path in sorted(cfg.INVENTORIES_DIR.glob("*_inventory.json")):
         inv = json.loads(path.read_text(encoding="utf-8"))
         for page in inv.get("pages", []):
             if page.get("page_number") == page_num:
                 return page
     return None
-
 
 def _pdf_lines(page: fitz.Page) -> list[dict[str, Any]]:
     page_height = page.rect.height
@@ -59,7 +56,6 @@ def _pdf_lines(page: fitz.Page) -> list[dict[str, Any]]:
             )
     lines.sort(key=lambda item: (item["y0"], item["x0"]))
     return lines
-
 
 def _span_for_page(page_num: int) -> dict[str, Any] | None:
     spans = detect_spans()
@@ -86,7 +82,6 @@ def _span_for_page(page_num: int) -> dict[str, Any] | None:
                     "title": span.title,
                 }
     return best
-
 
 def _live_reading_order(page_num: int, page: fitz.Page) -> list[dict[str, Any]]:
     spans = detect_spans()
@@ -122,20 +117,18 @@ def _live_reading_order(page_num: int, page: fitz.Page) -> list[dict[str, Any]]:
     return build_reading_order(
         page_num,
         page,
-        PDF_PATH,
+        cfg.PDF_PATH,
         spanning_info,
         art,
         entry["content_type"],
     )
 
-
 def _print_section(title: str, payload: Any) -> None:
     print(f"\n=== {title} ===")
     print(json.dumps(payload, indent=2))
 
-
 def debug_page(page_num: int, show: set[str]) -> None:
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     page = doc[page_num - 1]
 
     print(f"\n{'#' * 72}")
@@ -153,7 +146,7 @@ def debug_page(page_num: int, show: set[str]) -> None:
         _print_section("footnotes", zones.get("footnotes", []))
 
     if "prose_segments" in show:
-        bboxes = table_bboxes(PDF_PATH, page_num - 1)
+        bboxes = table_bboxes(cfg.PDF_PATH, page_num - 1)
         _print_section("prose_segments", prose_segments(page, bboxes))
 
     if "spanning_info" in show:
@@ -168,9 +161,11 @@ def debug_page(page_num: int, show: set[str]) -> None:
 
     doc.close()
 
-
 def main(argv: list[str] | None = None) -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(description="Inspect PDF page layout and inventory.")
+    add_job_argument(parser)
     parser.add_argument(
         "pages",
         help="Comma-separated page numbers, e.g. 25 or 25,146,147,148",
@@ -181,11 +176,11 @@ def main(argv: list[str] | None = None) -> None:
         help="Comma-separated sections: lines,zones,prose_segments,reading_order,spanning_info,footnotes",
     )
     args = parser.parse_args(argv)
+    bootstrap_job(args.job)
 
     show = {part.strip() for part in args.show.split(",") if part.strip()}
     for page_num in _parse_pages(args.pages):
         debug_page(page_num, show)
-
 
 if __name__ == "__main__":
     main()

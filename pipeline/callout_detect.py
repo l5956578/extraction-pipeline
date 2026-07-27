@@ -715,9 +715,10 @@ def emit_callout_blockquote(
 def load_callouts_registry() -> list[dict[str, Any]]:
     from pathlib import Path
     import json
-    from pipeline.config import METADATA_DIR
 
-    path = METADATA_DIR / "callouts_registry.json"
+    import pipeline.config as cfg
+
+    path = cfg.METADATA_DIR / "callouts_registry.json"
     if not path.exists():
         return []
     data = json.loads(path.read_text(encoding="utf-8"))

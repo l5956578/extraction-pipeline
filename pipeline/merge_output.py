@@ -6,22 +6,16 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import (
-    CLEANED_DIR,
-    FINAL_DIR,
-    METADATA_DIR,
-    SECTION_BLOCKS,
-    final_markdown_path,
-)
+import pipeline.config as cfg
+from pipeline.config import final_markdown_path, load_figures_registry
 from pipeline.id_registry import build_registry
-
 
 def merge_markdown() -> str:
     parts = [
         "# CEFR Companion Volume\n",
         "<!-- db:id=cefr_companion_volume type=document product_tier=context pages=1-278 -->\n",
     ]
-    for md in sorted(CLEANED_DIR.glob("chunk_*.md")):
+    for md in sorted(cfg.CLEANED_DIR.glob("chunk_*.md")):
         text = md.read_text(encoding="utf-8")
         # Strip chunk-level H1
         text = re.sub(r"^# chunk_\d+[^\n]*\n", "", text, count=1)
@@ -29,12 +23,11 @@ def merge_markdown() -> str:
         parts.append("\n\n---\n\n")
 
     out = final_markdown_path()
-    FINAL_DIR.mkdir(parents=True, exist_ok=True)
+    cfg.FINAL_DIR.mkdir(parents=True, exist_ok=True)
     content = "\n".join(parts)
     out.write_text(content, encoding="utf-8")
     print(f"Wrote {out}")
     return str(out)
-
 
 def build_manifest() -> dict:
     artifacts = build_registry()
@@ -73,13 +66,12 @@ def build_manifest() -> dict:
         "products": products,
         "artifact_count": len(artifacts),
     }
-    path = FINAL_DIR / "manifest.json"
+    path = cfg.FINAL_DIR / "manifest.json"
     path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     return manifest
 
-
 def build_db_registry() -> list[dict]:
-    from pipeline.config import load_figures_registry
+    
 
     artifacts = build_registry()
     render_by_id = {f["id"]: f["render_as"] for f in load_figures_registry()}
@@ -98,11 +90,10 @@ def build_db_registry() -> list[dict]:
         if art.id in render_by_id:
             rec["render_as"] = render_by_id[art.id]
         records.append(rec)
-    path = FINAL_DIR / "db_import_registry.json"
+    path = cfg.FINAL_DIR / "db_import_registry.json"
     path.write_text(json.dumps(records, indent=2), encoding="utf-8")
     print(f"Wrote {path} ({len(records)} records)")
     return records
-
 
 def run_merge():
     merge_markdown()
@@ -118,7 +109,7 @@ def run_merge():
         f"Formatted final Markdown: {result['input_lines']} -> {result['output_lines']} lines"
     )
     report = validate_final_output()
-    out_val = METADATA_DIR / "output_validation.json"
+    out_val = cfg.METADATA_DIR / "output_validation.json"
     if not report["valid"]:
         print(
             f"Output validation: {len(report['issues'])} issue(s) — see {out_val}"
@@ -131,7 +122,7 @@ def run_merge():
     if not creport["valid"]:
         print(
             f"Contract validation: {creport['issue_count']} issue(s) — "
-            f"see {METADATA_DIR / 'contract_validation.json'} "
+            f"see {cfg.METADATA_DIR / 'contract_validation.json'} "
             "(fail-closed; do not claim resolved)"
         )
     else:

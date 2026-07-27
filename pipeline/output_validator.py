@@ -6,16 +6,8 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import (
-    FINAL_DIR,
-    INVENTORIES_DIR,
-    KNOWN_TABLES_FIGURES,
-    METADATA_DIR,
-    MULTIPAGE_ARTIFACTS,
-    PDF_PATH,
-    load_figures_registry,
-    SECTION_BLOCKS,
-)
+import pipeline.config as cfg
+from pipeline.config import final_markdown_path, load_figures_registry
 from pipeline.page_elements import prose_segments, table_bboxes
 from pipeline.title_fix import fix_rotated_title, is_probably_reversed
 from pipeline.utils import english_word_score
@@ -25,26 +17,25 @@ try:
 except ImportError:
     fitz = None
 
-
 def required_artifacts() -> list[dict]:
     items: list[dict] = []
     seen: set[str] = set()
-    for _page, (aid, title, atype) in KNOWN_TABLES_FIGURES.items():
+    for _page, (aid, title, atype) in cfg.KNOWN_TABLES_FIGURES.items():
         if aid not in seen:
             items.append({"id": aid, "title": title, "type": atype, "min_body_chars": 80})
             seen.add(aid)
-    for gid, cfg in MULTIPAGE_ARTIFACTS.items():
+    for gid, mp in cfg.MULTIPAGE_ARTIFACTS.items():
         if gid not in seen:
             items.append(
                 {
                     "id": gid,
                     "type": "table",
                     "min_body_chars": 200,
-                    "pages": f"{cfg['page_start']}-{cfg['page_end']}",
+                    "pages": f"{mp['page_start']}-{mp['page_end']}",
                 }
             )
             seen.add(gid)
-    for block in SECTION_BLOCKS:
+    for block in cfg.SECTION_BLOCKS:
         if block["id"] not in seen:
             items.append({"id": block["id"], "type": block["type"], "min_body_chars": 3000})
             seen.add(block["id"])
@@ -54,7 +45,6 @@ def required_artifacts() -> list[dict]:
             items.append({"id": fig["id"], "type": "figure", "min_body_chars": min_chars})
             seen.add(fig["id"])
     return items
-
 
 def _artifact_body(text: str, aid: str) -> str:
     pattern = rf"<!-- db:id={re.escape(aid)}[^>]*-->.*?(?=<!-- db:id=|\Z)"
@@ -66,15 +56,13 @@ def _artifact_body(text: str, aid: str) -> str:
     block = re.sub(r"<!--[^>]+-->", "", block)
     return block.strip()
 
-
 def _load_page_expectations() -> dict[int, dict]:
     expectations: dict[int, dict] = {}
-    for inv_path in sorted(INVENTORIES_DIR.glob("chunk_*_inventory.json")):
+    for inv_path in sorted(cfg.INVENTORIES_DIR.glob("chunk_*_inventory.json")):
         inv = json.loads(inv_path.read_text(encoding="utf-8"))
         for page in inv.get("pages", []):
             expectations[page["page_number"]] = page
     return expectations
-
 
 def _page_sections(text: str) -> dict[int, str]:
     """Map page marker N -> body content emitted for that page (before ``<!-- page:N -->``)."""
@@ -86,7 +74,6 @@ def _page_sections(text: str) -> dict[int, str]:
         sections[page_num] = text[start : m.start()]
     return sections
 
-
 def _page_body_before_marker(text: str, page_num: int) -> str:
     """Body content immediately preceding the first ``<!-- page:N -->`` marker."""
     markers = list(re.finditer(r"<!-- page:(\d+) -->", text))
@@ -97,19 +84,16 @@ def _page_body_before_marker(text: str, page_num: int) -> str:
     start = markers[idx - 1].end() if idx > 0 else 0
     return text[start : first.start()]
 
-
 def _normalize_header(text: str) -> str:
     text = re.sub(r"^#+\s*", "", text.strip())
     text = re.sub(r"\s*—\s*\d{1,3}$", "", text)
     return re.sub(r"\s+", " ", text).lower()
-
 
 def _measurable_chars(section: str) -> int:
     cleaned = re.sub(r"<!--[^>]+-->", "", section)
     cleaned = re.sub(r"^\*[^*]+\*\s*$", "", cleaned, flags=re.M)
     cleaned = re.sub(r"^#{1,6}\s+[^\n]+\n", "", cleaned, flags=re.M)
     return len(re.sub(r"\s+", "", cleaned))
-
 
 def _validate_reading_order_elements(text: str, issues: list[dict]) -> None:
     """Element-level checks from per-page reading_order inventories."""
@@ -208,17 +192,14 @@ def _validate_reading_order_elements(text: str, issues: list[dict]) -> None:
                             }
                         )
 
-
 def _load_spanning_tables() -> list[dict]:
-    path = METADATA_DIR / "spanning_tables.json"
+    path = cfg.METADATA_DIR / "spanning_tables.json"
     if not path.exists():
         return []
     return json.loads(path.read_text(encoding="utf-8"))
 
-
 def _page_ranges_overlap(a_start: int, a_end: int, b_start: int, b_end: int) -> bool:
     return not (a_end < b_start or b_end < a_start)
-
 
 def _validate_span_chain_integrity(issues: list[dict]) -> None:
     """Each group_id in spanning_tables.json must be a single merged chain."""
@@ -295,21 +276,20 @@ def _validate_span_chain_integrity(issues: list[dict]) -> None:
                 }
             )
 
-
 def _validate_span_end_trailing_scheduled(issues: list[dict]) -> None:
     """Span end pages with PDF trailing prose must schedule prose:trailing in reading_order."""
-    if fitz is None or not PDF_PATH.exists():
+    if fitz is None or not cfg.PDF_PATH.exists():
         return
 
     expectations = _load_page_expectations()
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     try:
         for span in _load_spanning_tables():
             if span.get("span_type") != "continuation":
                 continue
             end_page = span["end_page"]
             page = doc[end_page - 1]
-            bboxes = table_bboxes(PDF_PATH, end_page - 1)
+            bboxes = table_bboxes(cfg.PDF_PATH, end_page - 1)
             has_trailing = any(
                 seg["role"] == "trailing" for seg in prose_segments(page, bboxes)
             )
@@ -345,7 +325,6 @@ def _validate_span_end_trailing_scheduled(issues: list[dict]) -> None:
     finally:
         doc.close()
 
-
 def _validate_footnote_single_owner(text: str, issues: list[dict]) -> None:
     """Table 2 span (pages 24-25) must emit footnote 19 exactly once."""
     table_match = re.search(
@@ -371,7 +350,6 @@ def _validate_footnote_single_owner(text: str, issues: list[dict]) -> None:
                 "pages": "24-25",
             }
         )
-
 
 def _validate_bespoke_contract_gates(text: str, issues: list[dict]) -> None:
     """Target-page contract gates from attempt 3 design."""
@@ -422,7 +400,6 @@ def _validate_bespoke_contract_gates(text: str, issues: list[dict]) -> None:
                 }
             )
             break
-
 
 def _validate_page_coverage(text: str, issues: list[dict]) -> None:
     expectations = _load_page_expectations()
@@ -496,18 +473,16 @@ def _validate_page_coverage(text: str, issues: list[dict]) -> None:
                 }
             )
 
-
 def _pdf_page_count() -> int:
-    if fitz is None or not PDF_PATH.exists():
+    if fitz is None or not cfg.PDF_PATH.exists():
         return 278
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     count = len(doc)
     doc.close()
     return count
 
-
 def validate_final_output(md_path: Path | None = None) -> dict:
-    from pipeline.config import final_markdown_path
+    
 
     md_path = md_path or final_markdown_path()
     text = md_path.read_text(encoding="utf-8")
@@ -552,8 +527,8 @@ def validate_final_output(md_path: Path | None = None) -> dict:
             }
         )
 
-    for gid, cfg in MULTIPAGE_ARTIFACTS.items():
-        for p in range(cfg["page_start"], cfg["page_end"] + 1):
+    for gid, mp in cfg.MULTIPAGE_ARTIFACTS.items():
+        for p in range(mp["page_start"], mp["page_end"] + 1):
             if p not in unique_pages:
                 issues.append(
                     {
@@ -623,6 +598,6 @@ def validate_final_output(md_path: Path | None = None) -> dict:
         "required_count": len(required_artifacts()),
         "missing_pages": missing_pages,
     }
-    out = METADATA_DIR / "output_validation.json"
+    out = cfg.METADATA_DIR / "output_validation.json"
     out.write_text(json.dumps(report, indent=2), encoding="utf-8")
     return report

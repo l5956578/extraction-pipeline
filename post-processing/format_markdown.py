@@ -3,7 +3,6 @@
 Post-processing is integrated into ``run_pipeline.py --step merge``.
 Prefer ``iterate_format.py --job <id>`` for day-to-day polish.
 
-    python post-processing/format_markdown.py
     python post-processing/format_markdown.py --job cefr-companion-2020
 """
 
@@ -18,19 +17,15 @@ sys.path.insert(0, str(ROOT))
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(
         description="Legacy format CLI (prefer iterate_format.py)"
     )
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     args = parser.parse_args()
 
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     from pipeline.post_process import run_post_process
 
     result = run_post_process()

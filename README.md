@@ -17,8 +17,8 @@ General PDF→Markdown engine with **per-document jobs**. First production job: 
 
 ```bash
 pip install -r requirements.txt
-# Phase A: --job defaults to cefr-companion-2020
-python run_pipeline.py --step all
+# --job is required (Phase B)
+python run_pipeline.py --job cefr-companion-2020 --step all
 python run_pipeline.py --job cefr-companion-2020 --step postprocess
 ```
 
@@ -62,7 +62,7 @@ Each document is a **job id** (kebab-case), e.g. `cefr-companion-2020`:
 | `work/<job-id>/{chunks,raw_extraction,cleaned,metadata}/` | Intermediates (not promoted) |
 | `output/<job-id>/` | Shippable MD + assets + registries |
 
-CLI: `--job <id>` on entry scripts. **Phase A** defaults to `cefr-companion-2020` when omitted; later phases will require `--job`.
+CLI: `--job <id>` is **required** on all entry scripts (Phase B). Layout lives in `job.json` + `profiles/*.json`.
 
 ---
 
@@ -83,7 +83,7 @@ Promotion (platform): **copy** from `output/<job-id>/` → `lang-platform/stagin
 
 | Path | Role |
 |------|------|
-| `pipeline/` | General engine (JobContext via `pipeline.config.load_job`) |
+| `pipeline/` | General engine (`job_context.load_job`, `bootstrap`, thin `config`) |
 | `profiles/` | Shared profile JSON |
 | `input/<job-id>/` | Source PDF + sidecars |
 | `work/<job-id>/` | Inventories + intermediates |

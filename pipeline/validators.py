@@ -6,13 +6,12 @@ import json
 import re
 from pathlib import Path
 
-from pipeline.config import CLEANED_DIR, RAW_DIR, FINAL_DIR, METADATA_DIR, MAX_RETRY_ATTEMPTS
+import pipeline.config as cfg
+from pipeline.config import MAX_RETRY_ATTEMPTS
 from pipeline.utils import is_gibberish
-
 
 def _extract_db_ids(text: str) -> list[str]:
     return re.findall(r"<!-- db:id=([^\s]+)", text)
-
 
 def validate_markdown(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
@@ -45,12 +44,11 @@ def validate_markdown(path: Path) -> dict:
     for m in re.finditer(r"!\[[^\]]*\]\(([^)]+)\)", text):
         asset = m.group(1)
         if asset.startswith("assets/"):
-            full = FINAL_DIR / asset
+            full = cfg.FINAL_DIR / asset
             if not full.exists():
                 issues.append({"type": "missing_asset", "path": asset})
 
     return {"path": str(path), "valid": len(issues) == 0, "issues": issues}
-
 
 def validate_all(directory: Path) -> dict:
     results = []
@@ -62,6 +60,6 @@ def validate_all(directory: Path) -> dict:
         "failed": sum(1 for r in results if not r["valid"]),
         "results": results,
     }
-    out = METADATA_DIR / "validation_report.json"
+    out = cfg.METADATA_DIR / "validation_report.json"
     out.write_text(json.dumps(summary, indent=2), encoding="utf-8")
     return summary

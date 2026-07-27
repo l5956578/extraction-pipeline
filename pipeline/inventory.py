@@ -7,22 +7,13 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import (
-    KNOWN_TABLES_FIGURES,
-    MULTIPAGE_ARTIFACTS,
-    PDF_PATH,
-    INVENTORIES_DIR,
-    METADATA_DIR,
-    SECTION_BLOCKS,
-    TOC_PAGE_RANGE,
-    load_figures_registry,
-)
+import pipeline.config as cfg
+from pipeline.config import load_figures_registry
 from pipeline.id_registry import build_registry, registry_by_page
 from pipeline.descriptor_layout import section_headers_from_page
 from pipeline.page_elements import build_reading_order
 from pipeline.span_detector import detect_spans
 from pipeline.title_fix import clean_artifact_id, fix_rotated_title
-
 
 def _page_drawings_count(page: fitz.Page) -> tuple[int, int, int]:
     drawings = page.get_drawings()
@@ -38,7 +29,6 @@ def _page_drawings_count(page: fitz.Page) -> tuple[int, int, int]:
     )
     return len(drawings), h, v
 
-
 def _is_rotated(page: fitz.Page) -> bool:
     blocks = page.get_text("dict")["blocks"]
     for block in blocks:
@@ -49,7 +39,6 @@ def _is_rotated(page: fitz.Page) -> bool:
             if abs(d[1]) > 0.3:
                 return True
     return False
-
 
 def _rotation_label(page: fitz.Page) -> str:
     if not _is_rotated(page):
@@ -64,14 +53,13 @@ def _rotation_label(page: fitz.Page) -> str:
                 return "rotated_270" if d[1] > 0 else "rotated_90"
     return "rotated_90"
 
-
 def classify_page(page_num: int, page: fitz.Page, spans_by_page: dict) -> dict:
     text = page.get_text("text").strip()
     drawings, hlines, vlines = _page_drawings_count(page)
     rotated = _is_rotated(page)
     span = spans_by_page.get(page_num)
 
-    if page_num in TOC_PAGE_RANGE:
+    if page_num in cfg.TOC_PAGE_RANGE:
         content_type = "toc"
     elif len(text) < 50 and drawings < 5:
         content_type = "blank"
@@ -141,7 +129,6 @@ def classify_page(page_num: int, page: fitz.Page, spans_by_page: dict) -> dict:
         "drawings": drawings,
     }
 
-
 def build_inventories() -> list[dict]:
     spans = detect_spans()
     spans_by_page: dict[int, dict] = {}
@@ -156,11 +143,11 @@ def build_inventories() -> list[dict]:
     artifacts = build_registry(spans)
     art_by_page = registry_by_page(artifacts)
 
-    chunks_path = METADATA_DIR / "chunks.json"
+    chunks_path = cfg.METADATA_DIR / "chunks.json"
     chunks = json.loads(chunks_path.read_text(encoding="utf-8"))
-    INVENTORIES_DIR.mkdir(parents=True, exist_ok=True)
+    cfg.INVENTORIES_DIR.mkdir(parents=True, exist_ok=True)
 
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     all_inventories = []
 
     for chunk in chunks:
@@ -203,7 +190,7 @@ def build_inventories() -> list[dict]:
             entry["reading_order"] = build_reading_order(
                 page_num,
                 page,
-                PDF_PATH,
+                cfg.PDF_PATH,
                 entry.get("spanning_info"),
                 art,
                 entry["content_type"],
@@ -228,11 +215,11 @@ def build_inventories() -> list[dict]:
                 range(chunk["start_page"], chunk["end_page"] + 1)
             ),
             "required_artifacts": required,
-            "expected_tables": list(KNOWN_TABLES_FIGURES.values()),
-            "expected_multipage": list(MULTIPAGE_ARTIFACTS.keys()),
+            "expected_tables": list(cfg.KNOWN_TABLES_FIGURES.values()),
+            "expected_multipage": list(cfg.MULTIPAGE_ARTIFACTS.keys()),
             "pages": pages,
         }
-        out = INVENTORIES_DIR / f"{chunk['chunk_id']}_inventory.json"
+        out = cfg.INVENTORIES_DIR / f"{chunk['chunk_id']}_inventory.json"
         out.write_text(json.dumps(inv, indent=2), encoding="utf-8")
         all_inventories.append(inv)
         print(f"Wrote {out.name}")
@@ -240,6 +227,8 @@ def build_inventories() -> list[dict]:
     doc.close()
     return all_inventories
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Build per-chunk inventories")
     build_inventories()

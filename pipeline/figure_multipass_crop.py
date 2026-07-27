@@ -17,7 +17,7 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import ASSETS_FIGURES, METADATA_DIR, PDF_PATH
+import pipeline.config as cfg
 from pipeline.utils import ensure_dir
 
 # Drawing-geometry crops (normalized 0–1). Tuned by multipass visual review
@@ -76,7 +76,6 @@ VERIFIED_CROPS: dict[str, dict[str, float]] = {
     },
 }
 
-
 def crop_with_box(
     page: fitz.Page,
     fig_id: str,
@@ -86,7 +85,7 @@ def crop_with_box(
     out_dir: Path | None = None,
 ) -> Path:
     """Render ``crop`` box of ``page`` to PNG at ``scale``."""
-    out_dir = out_dir or ASSETS_FIGURES
+    out_dir = out_dir or cfg.ASSETS_FIGURES
     ensure_dir(out_dir)
     rect = page.rect
     clip = fitz.Rect(
@@ -100,18 +99,17 @@ def crop_with_box(
     pix.save(str(path))
     return path
 
-
 def apply_verified_crops(
     *,
     scale: float = 3.0,
     write_registry: bool = True,
 ) -> dict[str, str]:
     """Apply VERIFIED_CROPS, optionally persist into figures_registry.json."""
-    reg_path = METADATA_DIR / "figures_registry.json"
+    reg_path = cfg.METADATA_DIR / "figures_registry.json"
     data = json.loads(reg_path.read_text(encoding="utf-8"))
     by_id = {f["id"]: f for f in data["figures"]}
 
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     written: dict[str, str] = {}
     for fid, crop in VERIFIED_CROPS.items():
         fig = by_id.get(fid)
@@ -130,8 +128,10 @@ def apply_verified_crops(
         reg_path.write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
     return written
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Multipass figure crops")
     result = apply_verified_crops()
     for k, v in result.items():
         print(k, "->", v)

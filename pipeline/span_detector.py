@@ -9,9 +9,8 @@ from dataclasses import dataclass, asdict
 import fitz
 import pdfplumber
 
-from pipeline.config import PDF_PATH, METADATA_DIR, SECTION_BLOCKS
+import pipeline.config as cfg
 from pipeline.title_fix import fix_rotated_title
-
 
 @dataclass
 class SpanGroup:
@@ -21,7 +20,6 @@ class SpanGroup:
     end_page: int
     title: str
     rotated: bool = False
-
 
 def _is_table_page(page: fitz.Page) -> bool:
     drawings = page.get_drawings()
@@ -37,7 +35,6 @@ def _is_table_page(page: fitz.Page) -> bool:
     )
     return h > 10 and v > 5
 
-
 def _is_rotated(page: fitz.Page) -> bool:
     blocks = page.get_text("dict")["blocks"]
     for block in blocks:
@@ -48,7 +45,6 @@ def _is_rotated(page: fitz.Page) -> bool:
             if abs(d[1]) > 0.3:
                 return True
     return False
-
 
 def _first_table_title(plumber_page) -> str | None:
     tables = plumber_page.extract_tables() or []
@@ -63,10 +59,8 @@ def _first_table_title(plumber_page) -> str | None:
             return fix_rotated_title(raw)
     return None
 
-
 def _has_table_caption(text: str) -> bool:
     return bool(re.search(r"\bTable\s+\d+\b", text, re.I))
-
 
 def _slug_from_title(title: str) -> str:
     from pipeline.utils import slugify
@@ -74,17 +68,14 @@ def _slug_from_title(title: str) -> str:
     fixed = fix_rotated_title(title)
     return slugify(fixed, prefix="scale")
 
-
 def _normalize_title(title: str | None) -> str | None:
     if not title:
         return None
     return re.sub(r"\s+", " ", fix_rotated_title(title).strip()).lower()
 
-
 def _spans_overlap_or_adjacent(a: SpanGroup, b: SpanGroup) -> bool:
     """True when two spans share a page or touch at a page boundary."""
     return not (a.end_page < b.start_page - 1 or b.end_page < a.start_page - 1)
-
 
 def _merge_span_pair(a: SpanGroup, b: SpanGroup, doc: fitz.Document) -> SpanGroup:
     start_page = min(a.start_page, b.start_page)
@@ -99,7 +90,6 @@ def _merge_span_pair(a: SpanGroup, b: SpanGroup, doc: fitz.Document) -> SpanGrou
         title=fix_rotated_title(title),
         rotated=any(_is_rotated(doc[p]) for p in pages),
     )
-
 
 def _add_continuation(
     groups: list[SpanGroup],
@@ -131,7 +121,6 @@ def _add_continuation(
         candidate.rotated = any(_is_rotated(doc[p]) for p in pages)
     merged.append(candidate)
     groups[:] = merged
-
 
 def _merge_continuation_chains(
     groups: list[SpanGroup],
@@ -166,7 +155,6 @@ def _merge_continuation_chains(
     result.sort(key=lambda g: (g.start_page, g.end_page))
     return result
 
-
 def _detect_adjacent_title_continuations(
     pdf: pdfplumber.PDF,
     doc: fitz.Document,
@@ -183,13 +171,12 @@ def _detect_adjacent_title_continuations(
         gid = _slug_from_title(t1)
         _add_continuation(groups, gid, i + 1, i + 2, t1, doc)
 
-
 def detect_spans() -> list[SpanGroup]:
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     groups: list[SpanGroup] = []
 
     # Hard-coded section blocks from plan/TOC
-    for block in SECTION_BLOCKS:
+    for block in cfg.SECTION_BLOCKS:
         pages = range(block["page_start"] - 1, block["page_end"])
         groups.append(
             SpanGroup(
@@ -202,7 +189,7 @@ def detect_spans() -> list[SpanGroup]:
             )
         )
 
-    with pdfplumber.open(PDF_PATH) as pdf:
+    with pdfplumber.open(cfg.PDF_PATH) as pdf:
         i = 0
         while i < doc.page_count:
             if not _is_table_page(doc[i]):
@@ -300,16 +287,17 @@ def detect_spans() -> list[SpanGroup]:
     doc.close()
     return groups
 
-
 def save_spans(groups: list[SpanGroup]) -> str:
-    METADATA_DIR.mkdir(parents=True, exist_ok=True)
-    path = METADATA_DIR / "spanning_tables.json"
+    cfg.METADATA_DIR.mkdir(parents=True, exist_ok=True)
+    path = cfg.METADATA_DIR / "spanning_tables.json"
     payload = [asdict(g) for g in groups]
     path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
     return str(path)
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Detect multi-page spans")
     spans = detect_spans()
     out = save_spans(spans)
     print(f"Wrote {len(spans)} span groups to {out}")

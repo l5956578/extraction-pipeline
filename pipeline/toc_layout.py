@@ -6,7 +6,7 @@ import re
 
 import fitz
 
-from pipeline.config import TOC_PAGE_RANGE
+import pipeline.config as cfg
 from pipeline.toc_format import format_toc_entry, merge_toc_title
 
 _PAGE_NUM = re.compile(r"Page\s+\d+", re.I)
@@ -15,10 +15,8 @@ _COMPANION_FOOTER = re.compile(r"CEFR.*Companion volume", re.I)
 _TOC_PAGE_NUM = re.compile(r"^\d{1,3}$")
 _Y_BAND = 7.0
 
-
 def is_toc_page(page_num: int) -> bool:
-    return page_num in TOC_PAGE_RANGE
-
+    return page_num in cfg.TOC_PAGE_RANGE
 
 def _is_footer(text: str, y0: float, page_height: float) -> bool:
     if y0 < page_height * 0.88:
@@ -30,7 +28,6 @@ def _is_footer(text: str, y0: float, page_height: float) -> bool:
     if _COMPANION_FOOTER.search(text):
         return True
     return False
-
 
 def _collect_lines(page: fitz.Page) -> tuple[list[tuple[float, float, str]], list[str]]:
     page_height = page.rect.height
@@ -50,7 +47,6 @@ def _collect_lines(page: fitz.Page) -> tuple[list[tuple[float, float, str]], lis
             else:
                 body.append((y0, x0, text))
     return body, markers
-
 
 def _group_rows(
     lines: list[tuple[float, float, str]],
@@ -89,11 +85,9 @@ def _group_rows(
             rows.append((title, page))
     return _merge_wrapped_rows(rows)
 
-
 def _is_section_banner(title: str) -> bool:
     upper = title.strip().upper()
     return upper == "CONTENTS" or upper.startswith("LIST OF ")
-
 
 def _is_entry_start(title: str) -> bool:
     return bool(
@@ -103,7 +97,6 @@ def _is_entry_start(title: str) -> bool:
             re.I,
         )
     )
-
 
 def _should_merge(prev_title: str, title: str) -> bool:
     prev = prev_title.strip()
@@ -120,7 +113,6 @@ def _should_merge(prev_title: str, title: str) -> bool:
     if title and title[0].islower():
         return True
     return False
-
 
 def _merge_wrapped_rows(rows: list[tuple[str, str | None]]) -> list[tuple[str, str | None]]:
     merged: list[tuple[str, str | None]] = []
@@ -144,7 +136,6 @@ def _merge_wrapped_rows(rows: list[tuple[str, str | None]]) -> list[tuple[str, s
         else:
             merged.append((title, page))
     return merged
-
 
 def extract_toc_page(page: fitz.Page, page_num: int) -> str:
     body_lines, markers = _collect_lines(page)

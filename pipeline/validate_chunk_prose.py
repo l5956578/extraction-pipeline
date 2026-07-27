@@ -10,9 +10,9 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import PDF_PATH, ROOT
+import pipeline.config as cfg
+from pipeline.config import ROOT, final_markdown_path
 from pipeline.extractors.figures import figures_for_page
-
 
 def _page_body_chars_pdf(page: fitz.Page) -> int:
     text = page.get_text("text") or ""
@@ -25,7 +25,6 @@ def _page_body_chars_pdf(page: fitz.Page) -> int:
         and "Companion volume" not in ln
     ]
     return sum(len(ln) for ln in lines)
-
 
 def _page_body_chars_md(md: str, page_num: int) -> int:
     """Content belonging to page N (text immediately before <!-- page:N -->)."""
@@ -42,16 +41,15 @@ def _page_body_chars_md(md: str, page_num: int) -> int:
     body = re.sub(r"#{1,6}\s+", " ", body)
     return len(re.sub(r"\s+", " ", body).strip())
 
-
 def validate_figure_pages_prose(md_path: Path | None = None) -> list[str]:
     """Return list of human-readable failure strings (empty = ok)."""
-    from pipeline.config import final_markdown_path
+    
 
     md_path = md_path or final_markdown_path()
     if not md_path.exists():
         return [f"missing markdown: {md_path}"]
     md = md_path.read_text(encoding="utf-8")
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     failures: list[str] = []
     # Unique pages that have registry figures
     pages = sorted({f["page"] for f in __import__("pipeline.config", fromlist=["load_figures_registry"]).load_figures_registry()})
@@ -100,8 +98,10 @@ def validate_figure_pages_prose(md_path: Path | None = None) -> list[str]:
     doc.close()
     return failures
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Validate figure-page prose mass")
     fails = validate_figure_pages_prose()
     if fails:
         print("VALIDATION FAIL")

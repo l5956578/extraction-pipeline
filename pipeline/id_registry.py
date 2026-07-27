@@ -8,11 +8,11 @@ from dataclasses import dataclass
 import fitz
 import pdfplumber
 
-from pipeline.config import PDF_PATH, SECTION_BLOCKS, KNOWN_TABLES_FIGURES, load_figures_registry
+import pipeline.config as cfg
+from pipeline.config import load_figures_registry
 from pipeline.span_detector import SpanGroup, detect_spans
 from pipeline.title_fix import artifact_id_from_title, clean_artifact_id, fix_rotated_title
 from pipeline.utils import slugify
-
 
 @dataclass
 class ArtifactMeta:
@@ -24,11 +24,10 @@ class ArtifactMeta:
     page_end: int
     group_id: str | None = None
 
-
 def _parse_toc_entries() -> dict[int, tuple[str, str]]:
     """Parse list of tables/figures from page 9."""
     mapping: dict[int, tuple[str, str]] = {}
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     text = doc[8].get_text("text")
     doc.close()
 
@@ -45,7 +44,6 @@ def _parse_toc_entries() -> dict[int, tuple[str, str]]:
             mapping[page] = (aid, title, kind)
     return mapping
 
-
 def _product_tiers_for_page(page: int) -> list[str]:
     if 177 <= page <= 181:
         return ["base"]
@@ -59,11 +57,9 @@ def _product_tiers_for_page(page: int) -> list[str]:
         return ["context"]
     return ["context"]
 
-
 def _normalize_title(title: str) -> str:
     """Fix reversed titles from rotated PDF text layers."""
     return fix_rotated_title(title)
-
 
 def _scale_title_from_page(pdf: pdfplumber.PDF, page_idx: int) -> str | None:
     if page_idx < 0 or page_idx >= len(pdf.pages):
@@ -76,7 +72,6 @@ def _scale_title_from_page(pdf: pdfplumber.PDF, page_idx: int) -> str | None:
         if cell and str(cell).strip():
             return _normalize_title(re.sub(r"\s+", " ", str(cell).strip()))
     return None
-
 
 def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
     spans = spans or detect_spans()
@@ -105,7 +100,7 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
             seen_ids.add(fig["id"])
 
     # Section blocks
-    for block in SECTION_BLOCKS:
+    for block in cfg.SECTION_BLOCKS:
         meta = ArtifactMeta(
             id=block["id"],
             display_name=block["display_name"],
@@ -119,7 +114,7 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
         seen_ids.add(meta.id)
 
     figure_pages = {fig["page"] for fig in load_figures_registry()}
-    with pdfplumber.open(PDF_PATH) as pdf:
+    with pdfplumber.open(cfg.PDF_PATH) as pdf:
         page_count = len(pdf.pages)
         for page_num in range(1, page_count + 1):
             if page_num in continuation_pages:
@@ -127,8 +122,8 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
                 if any(a.id == gid for a in artifacts):
                     continue
 
-            if page_num in KNOWN_TABLES_FIGURES:
-                aid, title, atype = KNOWN_TABLES_FIGURES[page_num]
+            if page_num in cfg.KNOWN_TABLES_FIGURES:
+                aid, title, atype = cfg.KNOWN_TABLES_FIGURES[page_num]
                 if aid not in seen_ids:
                     artifacts.append(
                         ArtifactMeta(
@@ -240,7 +235,6 @@ def build_registry(spans: list[SpanGroup] | None = None) -> list[ArtifactMeta]:
 
     artifacts.sort(key=lambda a: (a.page_start, a.id))
     return artifacts
-
 
 def registry_by_page(artifacts: list[ArtifactMeta]) -> dict[int, ArtifactMeta]:
     by_page: dict[int, ArtifactMeta] = {}

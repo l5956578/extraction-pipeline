@@ -7,9 +7,8 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import PDF_PATH, CHUNKS_DIR, TARGET_CHUNK_SIZE, METADATA_DIR
+import pipeline.config as cfg
 from pipeline.span_detector import SpanGroup, detect_spans
-
 
 def _protected_ranges(groups: list[SpanGroup]) -> list[tuple[int, int]]:
     protected = []
@@ -20,13 +19,11 @@ def _protected_ranges(groups: list[SpanGroup]) -> list[tuple[int, int]]:
             protected.append((g.start_page, g.end_page))
     return sorted(protected)
 
-
 def _inside_protected(page: int, protected: list[tuple[int, int]]) -> tuple[int, int] | None:
     for s, e in protected:
         if s <= page <= e:
             return (s, e)
     return None
-
 
 def compute_chunk_ranges(total_pages: int, groups: list[SpanGroup]) -> list[tuple[int, int]]:
     protected = _protected_ranges(groups)
@@ -34,7 +31,7 @@ def compute_chunk_ranges(total_pages: int, groups: list[SpanGroup]) -> list[tupl
     pos = 1
 
     while pos <= total_pages:
-        ideal_end = min(pos + TARGET_CHUNK_SIZE - 1, total_pages)
+        ideal_end = min(pos + cfg.TARGET_CHUNK_SIZE - 1, total_pages)
 
         # Extend ideal_end if it would split a protected range
         for s, e in protected:
@@ -46,7 +43,7 @@ def compute_chunk_ranges(total_pages: int, groups: list[SpanGroup]) -> list[tupl
         for s, e in protected:
             if s < pos <= e:
                 pos = e + 1
-                ideal_end = min(pos + TARGET_CHUNK_SIZE - 1, total_pages)
+                ideal_end = min(pos + cfg.TARGET_CHUNK_SIZE - 1, total_pages)
                 for s2, e2 in protected:
                     if s2 <= ideal_end < e2:
                         ideal_end = e2
@@ -61,15 +58,14 @@ def compute_chunk_ranges(total_pages: int, groups: list[SpanGroup]) -> list[tupl
 
     return chunks
 
-
 def write_chunks(ranges: list[tuple[int, int]]) -> list[dict]:
-    CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
-    src = fitz.open(PDF_PATH)
+    cfg.CHUNKS_DIR.mkdir(parents=True, exist_ok=True)
+    src = fitz.open(cfg.PDF_PATH)
     manifest = []
 
     for idx, (start, end) in enumerate(ranges, start=1):
         chunk_id = f"chunk_{idx:02d}"
-        out_path = CHUNKS_DIR / f"{chunk_id}_pages_{start:03d}-{end:03d}.pdf"
+        out_path = cfg.CHUNKS_DIR / f"{chunk_id}_pages_{start:03d}-{end:03d}.pdf"
         dst = fitz.open()
         dst.insert_pdf(src, from_page=start - 1, to_page=end - 1)
         dst.save(out_path)
@@ -85,23 +81,24 @@ def write_chunks(ranges: list[tuple[int, int]]) -> list[dict]:
         print(f"Created {out_path.name} ({end - start + 1} pages)")
 
     src.close()
-    meta_path = METADATA_DIR / "chunks.json"
+    meta_path = cfg.METADATA_DIR / "chunks.json"
     meta_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     return manifest
 
-
 def run_chunking() -> list[dict]:
     groups = detect_spans()
-    save_path = METADATA_DIR / "spanning_tables.json"
+    save_path = cfg.METADATA_DIR / "spanning_tables.json"
     save_path.write_text(
         json.dumps([g.__dict__ for g in groups], indent=2), encoding="utf-8"
     )
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     total = doc.page_count
     doc.close()
     ranges = compute_chunk_ranges(total, groups)
     return write_chunks(ranges)
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Chunk PDF for extraction")
     run_chunking()

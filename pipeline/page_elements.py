@@ -8,14 +8,8 @@ from typing import Any
 import fitz
 import pdfplumber
 
-from pipeline.config import (
-    KNOWN_TABLES_BY_INDEX,
-    KNOWN_TABLES_FIGURES,
-    PDF_PATH,
-    SECTION_BLOCKS,
-    TOC_PAGE_RANGE,
-    load_figures_registry,
-)
+import pipeline.config as cfg
+from pipeline.config import load_figures_registry
 from pipeline.descriptor_layout import section_headers_from_page, section_headers_with_y
 from pipeline.page_layout import (
     _classify_line,
@@ -33,7 +27,6 @@ from pipeline.utils import slugify
 _LEVEL_ONLY = re.compile(r"^(C2|C1|B2\+?|B1\+?|A2\+?|A1\+?|Pre-A1|Pre A1)$", re.I)
 _FOOTER_BODY_CUTOFF = 0.62
 
-
 def page_rotation(page: fitz.Page) -> tuple[str, int]:
     for block in page.get_text("dict").get("blocks", []):
         if block.get("type") != 0:
@@ -46,14 +39,12 @@ def page_rotation(page: fitz.Page) -> tuple[str, int]:
                 return "rotated_90", 90
     return "normal", 0
 
-
 def table_bboxes(pdf_path, page_idx: int) -> list[tuple[float, float, float, float]]:
     with pdfplumber.open(pdf_path) as pdf:
         if page_idx < 0 or page_idx >= len(pdf.pages):
             return []
         tables = pdf.pages[page_idx].find_tables()
         return sorted([t.bbox for t in tables], key=lambda b: b[1])
-
 
 def collect_body_lines(
     page: fitz.Page,
@@ -77,14 +68,12 @@ def collect_body_lines(
                 entries.append((y0, x0, text))
     return entries
 
-
 def _lines_in_bbox(
     lines: list[tuple[float, float, str]],
     y0: float,
     y1: float,
 ) -> list[tuple[float, float, str]]:
     return [(y, x, t) for y, x, t in lines if y0 <= y < y1]
-
 
 def _lines_in_rect(
     lines: list[tuple[float, float, str]],
@@ -99,7 +88,6 @@ def _lines_in_rect(
         if y0 <= y < y1 and x0 - 2 <= x < x1:
             out.append((y, x, t))
     return out
-
 
 def prose_segments(
     page: fitz.Page,
@@ -223,7 +211,6 @@ def prose_segments(
     segments.sort(key=lambda s: (round(s["y0"], 1), float(s.get("x0", s["bbox"][0]))))
     return segments
 
-
 def expected_chars(page: fitz.Page, bbox: list[float]) -> int:
     y0, y1 = bbox[1], bbox[3]
     chars = 0
@@ -237,7 +224,6 @@ def expected_chars(page: fitz.Page, bbox: list[float]) -> int:
             chars += len(_span_text(line.get("spans", [])).strip())
     return max(0, int(chars * 0.85))
 
-
 def _span_dict(span_info: dict | None, display_title: str | None = None) -> dict[str, Any] | None:
     if not span_info:
         return None
@@ -249,7 +235,6 @@ def _span_dict(span_info: dict | None, display_title: str | None = None) -> dict
         "pages": list(range(span_info["start_page"], span_info["end_page"] + 1)),
         "emit_body_on": span_info["start_page"],
     }
-
 
 def _table_title_at(pdf_path, page_idx: int, table_index: int) -> str | None:
     with pdfplumber.open(pdf_path) as pdf:
@@ -264,7 +249,6 @@ def _table_title_at(pdf_path, page_idx: int, table_index: int) -> str | None:
                 return fix_rotated_title(re.sub(r"\s+", " ", str(cell).strip()))
     return None
 
-
 def _artifact_element(
     page_num: int,
     bbox: tuple[float, float, float, float],
@@ -273,7 +257,7 @@ def _artifact_element(
     art: Any | None,
     span_info: dict | None,
     table_index: int = 0,
-    pdf_path=PDF_PATH,
+    pdf_path=cfg.PDF_PATH,
     attach_span: bool = False,
 ) -> dict[str, Any]:
     display_title = None
@@ -288,11 +272,11 @@ def _artifact_element(
         artifact_id = clean_artifact_id(span_info["group_id"], display_title)
 
     # Prefer per-(page, table_index) known map (Table 4 etc.) over page-level sole map.
-    known_idx = KNOWN_TABLES_BY_INDEX.get((page_num, table_index))
+    known_idx = cfg.KNOWN_TABLES_BY_INDEX.get((page_num, table_index))
     if known_idx:
         artifact_id, display_title, artifact_type = known_idx
-    elif page_num in KNOWN_TABLES_FIGURES and table_index == 0:
-        artifact_id, display_title, artifact_type = KNOWN_TABLES_FIGURES[page_num]
+    elif page_num in cfg.KNOWN_TABLES_FIGURES and table_index == 0:
+        artifact_id, display_title, artifact_type = cfg.KNOWN_TABLES_FIGURES[page_num]
 
     if not display_title:
         display_title = _table_title_at(pdf_path, page_num - 1, table_index)
@@ -353,13 +337,11 @@ def _artifact_element(
     }
     return el
 
-
 def _normalize_caption_text(text: str) -> str:
     s = re.sub(r"\s+", " ", text.strip()).lower()
     for dash in ("–", "—", "−"):
         s = s.replace(dash, "-")
     return s
-
 
 def _caption_line_matches(line_text: str, caption: str) -> bool:
     norm_line = _normalize_caption_text(line_text)
@@ -372,7 +354,6 @@ def _caption_line_matches(line_text: str, caption: str) -> bool:
     if fig and norm_line.startswith(f"figure {fig.group(1)}"):
         return True
     return False
-
 
 def _figure_caption_y(page: fitz.Page, art: Any | None) -> float | None:
     """Find figure caption y by matching registry/display title in page text."""
@@ -403,12 +384,10 @@ def _figure_caption_y(page: fitz.Page, art: Any | None) -> float | None:
                 return line["bbox"][1]
     return None
 
-
 def _section_header_y_below(page: fitz.Page, caption_y: float) -> float | None:
     headers = section_headers_with_y(page)
     below = [y for _, y in headers if y > caption_y + 1]
     return min(below) if below else None
-
 
 def _figure_mixed_order(
     page_num: int,
@@ -485,7 +464,6 @@ def _figure_mixed_order(
     elements.append({"seq": seq, "type": "footer", "extractor": "page_footer"})
     return elements
 
-
 def _is_top_left_callout(
     bbox: tuple[float, float, float, float], page: fitz.Page
 ) -> bool:
@@ -504,7 +482,6 @@ def _is_top_left_callout(
         and (x1 - x0) < page_w * 0.62
     )
 
-
 def _is_top_fullwidth_callout(
     bbox: tuple[float, float, float, float], page: fitz.Page
 ) -> bool:
@@ -513,7 +490,6 @@ def _is_top_fullwidth_callout(
     page_h = float(page.rect.height)
     x0, y0, x1, y1 = bbox
     return y0 < page_h * 0.42 and (x1 - x0) >= page_w * 0.55
-
 
 def _callout_element(
     page_num: int,
@@ -534,7 +510,6 @@ def _callout_element(
         "table_index": idx,
         "placement": "end_body",
     }
-
 
 def _callout_mixed_order(
     page_num: int,
@@ -681,7 +656,6 @@ def _callout_mixed_order(
     elements.append(footer)
     return elements if any(e.get("artifact_type") == "callout" for e in elements) else None
 
-
 def _multi_figure_reading_order(
     page_num: int,
     page: fitz.Page,
@@ -717,7 +691,6 @@ def _multi_figure_reading_order(
         {"seq": 1, "type": "footer", "extractor": "page_footer"},
     ]
 
-
 def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
     zones = classify_page_zones(page)
     footnotes = zones.get("footnotes") or []
@@ -729,7 +702,6 @@ def _footnote_zone_element(seq: int, page: fitz.Page) -> dict[str, Any] | None:
         "extractor": "footnote_zone",
         "expected_chars": sum(len(f) for f in footnotes),
     }
-
 
 def _span_continuation_order(
     page_num: int,
@@ -783,17 +755,16 @@ def _span_continuation_order(
     elements.append(footer)
     return elements
 
-
 def build_reading_order(
     page_num: int,
     page: fitz.Page,
-    pdf_path=PDF_PATH,
+    pdf_path=cfg.PDF_PATH,
     span_info: dict | None = None,
     art: Any | None = None,
     content_type: str = "mixed",
 ) -> list[dict[str, Any]]:
     """Return ordered extractable elements for one PDF page."""
-    if page_num in TOC_PAGE_RANGE:
+    if page_num in cfg.TOC_PAGE_RANGE:
         return [{"seq": 0, "type": "toc", "extractor": "toc_layout"}]
 
     if content_type == "blank":
@@ -807,7 +778,7 @@ def build_reading_order(
                 {"seq": 0, "type": "span_continuation_skip", "span": _span_dict(span_info)},
                 {"seq": 1, "type": "footer", "extractor": "page_footer"},
             ]
-        block = next((b for b in SECTION_BLOCKS if b["id"] == span_info["group_id"]), None)
+        block = next((b for b in cfg.SECTION_BLOCKS if b["id"] == span_info["group_id"]), None)
         return [
             {
                 "seq": 0,
@@ -850,9 +821,14 @@ def build_reading_order(
     # partial-width tables (p.30–31 ≡ p.35). CONTRACTS §2 / UV-07.
     # Only take this path for pure_text / when tables do not already model the box
     # (avoids double emit: pdfplumber table + callout_bbox for the same rect).
-    from pipeline.callout_detect import detect_blue_callout_bboxes
+    # Gated by extraction.features.callouts (Companion profile / job.json).
+    from pipeline.config import feature_enabled
 
-    blue_boxes = detect_blue_callout_bboxes(page)
+    blue_boxes: list[tuple[float, float, float, float]] = []
+    if feature_enabled("callouts"):
+        from pipeline.callout_detect import detect_blue_callout_bboxes
+
+        blue_boxes = detect_blue_callout_bboxes(page)
     if blue_boxes and content_type in ("pure_text", "mixed", "single_table"):
         tboxes = table_bboxes(pdf_path, page_num - 1) if content_type != "pure_text" else []
         # Drop blues that heavily overlap an existing table (table path owns them).

@@ -11,12 +11,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(description="CEFR PDF extraction pipeline")
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     parser.add_argument(
         "--step",
         choices=[
@@ -27,16 +25,13 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    # Load job *before* importing path-bound pipeline modules (Issue 1).
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     print(f"Job: {ctx.job_id}  pdf={ctx.pdf_path.name}  output={ctx.final_dir}")
 
+    import pipeline.config as cfg
     from pipeline.apply_figures import run_apply_figures
     from pipeline.chunker import run_chunking
     from pipeline.cleanup import cleanup_all
-    from pipeline.config import CLEANED_DIR, METADATA_DIR, final_markdown_path
     from pipeline.extract_chunk import extract_all_chunks
     from pipeline.extractors.rotated_grok_vision import prepare_all_rotated_from_inventories
     from pipeline.inventory import build_inventories
@@ -68,7 +63,7 @@ def main() -> None:
         print(f"Step 3: cleaned {len(reports)} chunks, {fixes} fix categories applied")
 
     def step_validate():
-        summary = validate_all(CLEANED_DIR)
+        summary = validate_all(cfg.CLEANED_DIR)
         print(f"Step 4: {summary['passed']}/{summary['total']} passed validation")
         return summary
 
@@ -95,7 +90,7 @@ def main() -> None:
         print(f"Next: agent re-reads PNGs with vision → {rot_from}/ → finalize_after_grok.py")
 
     def write_docs():
-        meta = METADATA_DIR
+        meta = cfg.METADATA_DIR
         report_path = meta / "cleanup_report.md"
         work_rel = f"work/{ctx.job_id}/metadata"
         out_rel = f"output/{ctx.job_id}"

@@ -18,19 +18,15 @@ def _log(*args, **kwargs) -> None:
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(
         description="Full production extract → cleanup → merge → figures → postprocess"
     )
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     args = parser.parse_args()
 
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     _log(f"Job: {ctx.job_id}  pdf={ctx.pdf_path}  output={ctx.final_dir}")
 
     from pipeline.apply_figures import run_apply_figures

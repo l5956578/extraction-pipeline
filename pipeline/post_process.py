@@ -22,6 +22,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 
+import pipeline.config as cfg
 from pipeline.config import ROOT, final_markdown_path
 from pipeline.prose_format import (
     _format_level_callouts,
@@ -43,9 +44,7 @@ def _final_markdown() -> Path:
 
 def _run_log() -> Path:
     """Format run log under active job metadata — resolve at call time."""
-    from pipeline.config import METADATA_DIR
-
-    return METADATA_DIR / "last_format_run.txt"
+    return cfg.METADATA_DIR / "last_format_run.txt"
 
 # PDF list-marker artifacts only — never match a wrapped word like "form".
 _BULLET_MARKERS = re.compile(
@@ -1169,7 +1168,6 @@ def _resync_page_captions_from_pdf(text: str) -> str:
     try:
         import fitz
 
-        from pipeline.config import PDF_PATH
         from pipeline.page_layout import (
             _normalize_page_marker_caption,
             classify_page_zones,
@@ -1177,10 +1175,10 @@ def _resync_page_captions_from_pdf(text: str) -> str:
     except Exception:  # noqa: BLE001
         return text
 
-    if not PDF_PATH or not Path(PDF_PATH).exists():
+    if not cfg.PDF_PATH or not Path(cfg.PDF_PATH).exists():
         return text
 
-    doc = fitz.open(str(PDF_PATH))
+    doc = fitz.open(str(cfg.PDF_PATH))
     lines = text.splitlines()
     n = len(lines)
     i = 0

@@ -8,14 +8,7 @@ from pathlib import Path
 
 import fitz
 
-from pipeline.config import (
-    KNOWN_TABLES_BY_INDEX,
-    KNOWN_TABLES_FIGURES,
-    MULTIPAGE_ARTIFACTS,
-    PDF_PATH,
-    RAW_DIR,
-    INVENTORIES_DIR,
-)
+import pipeline.config as cfg
 from pipeline.descriptor_layout import extract_prose_zone
 from pipeline.extractors.figures import figures_for_page
 from pipeline.extractors.multipage import (
@@ -41,7 +34,6 @@ from pipeline.title_fix import fix_rotated_title
 from pipeline.toc_layout import extract_toc_page
 from pipeline.utils import artifact_header, slugify, table_to_markdown
 
-
 def _is_figure_caption_line(text: str, fig_num: int | None = None) -> bool:
     """True only for real figure captions, not in-prose 'Figure 2, which appeared…'."""
     s = re.sub(r"\s+", " ", text.strip())
@@ -55,7 +47,6 @@ def _is_figure_caption_line(text: str, fig_num: int | None = None) -> bool:
     if fig_num is not None and int(m.group(1)) != int(fig_num):
         return False
     return True
-
 
 def _caption_y_on_page(page: fitz.Page, title: str) -> float | None:
     """Y of the real figure caption line (Figure N – …), never prose mentions."""
@@ -80,7 +71,6 @@ def _caption_y_on_page(page: fitz.Page, title: str) -> float | None:
                 return float(line["bbox"][1])
     return None
 
-
 def _figure_crop_rect(page: fitz.Page, fig: dict) -> tuple[float, float, float, float] | None:
     """Return clip rect in page coords from registry crop fractions."""
     crop = fig.get("crop")
@@ -93,7 +83,6 @@ def _figure_crop_rect(page: fitz.Page, fig: dict) -> tuple[float, float, float, 
         r.x0 + r.width * float(crop["x1"]),
         r.y0 + r.height * float(crop["y1"]),
     )
-
 
 def _strip_figure_diagram_soup(text: str) -> str:
     """Remove flattened diagram labels left after rich_page (keep real prose).
@@ -204,7 +193,6 @@ def _strip_figure_diagram_soup(text: str) -> str:
     cleaned = "\n".join(out).strip()
     return strip_text_diagram_leaf_soup_global(cleaned)
 
-
 def _png_figure_stub(fig: dict, page_num: int) -> str:
     fid = fig["id"]
     title = fig["title"]
@@ -214,7 +202,6 @@ def _png_figure_stub(fig: dict, page_num: int) -> str:
         f"product_tier=context pages={page_num} -->\n"
         f"### {title} | {fid}\n"
     )
-
 
 def _figure_exclusive_rects(
     page: fitz.Page, figs: list[dict]
@@ -238,7 +225,6 @@ def _figure_exclusive_rects(
         rects.append((x0 + pad_x, y0 + pad_y, x1 - pad_x, y1 - pad_y))
     return rects
 
-
 def _el_fence(etype: str, eid: str, page_num: int, body: str) -> str:
     """Optional RO element fences for postprocess boundary awareness (C2-ADJ P0)."""
     if not body or not body.strip():
@@ -249,7 +235,6 @@ def _el_fence(etype: str, eid: str, page_num: int, body: str) -> str:
     start = f"<!-- el:start type={etype} id={eid} page={page_num} -->\n"
     end = f"\n<!-- el:end id={eid} -->\n"
     return start + body.rstrip() + end
-
 
 def _extract_figure_page_composed(page: fitz.Page, page_num: int, el: dict) -> str:
     """Figure pages: selective crop filtering + figure stubs (C2-ADJ).
@@ -320,7 +305,7 @@ def _extract_figure_page_composed(page: fitz.Page, page_num: int, el: dict) -> s
 
     out_lines = body.splitlines()
     try:
-        page_tables = extract_tables(page_num - 1, PDF_PATH)
+        page_tables = extract_tables(page_num - 1, cfg.PDF_PATH)
     except Exception:  # noqa: BLE001
         page_tables = []
     joined = "\n".join(out_lines)
@@ -334,9 +319,9 @@ def _extract_figure_page_composed(page: fitz.Page, page_num: int, el: dict) -> s
     if has_png_figure:
         try:
             import pdfplumber
-            from pipeline.config import PDF_PATH as _PDF
+            
 
-            with pdfplumber.open(_PDF) as _pdf:
+            with pdfplumber.open(cfg.PDF_PATH) as _pdf:
                 if 0 <= page_num - 1 < len(_pdf.pages):
                     for _t in _pdf.pages[page_num - 1].find_tables() or []:
                         table_bboxes.append(tuple(_t.bbox))  # type: ignore[arg-type]
@@ -399,7 +384,6 @@ def _extract_figure_page_composed(page: fitz.Page, page_num: int, el: dict) -> s
         pass
     return body + ("\n" if body and not body.endswith("\n") else "")
 
-
 def _compose_prose_with_figures(
     prose: str, located: list[tuple[float, dict, str]]
 ) -> str:
@@ -451,13 +435,11 @@ def _compose_prose_with_figures(
             out_lines.append(block.rstrip())
     return "\n".join(out_lines)
 
-
 class _ExtractContext:
     def __init__(self, art_by_id: dict, art_by_title: dict):
         self.art_by_id = art_by_id
         self.art_by_title = art_by_title
         self.emitted_spans: set[str] = set()
-
 
 def _emit_artifact(art: ArtifactMeta, page_start: int, page_end: int, body: str) -> str:
     pages = f"{page_start}-{page_end}" if page_end > page_start else str(page_start)
@@ -474,7 +456,6 @@ def _emit_artifact(art: ArtifactMeta, page_start: int, page_end: int, body: str)
     if body.startswith("|"):
         return f"{header}\n{body}\n"
     return f"{header}\n{body}\n" if body else f"{header}\n"
-
 
 def _emit_artifact_from_element(el: dict, body: str, ctx: _ExtractContext) -> str:
     from pipeline.title_fix import clean_artifact_id
@@ -501,13 +482,11 @@ def _emit_artifact_from_element(el: dict, body: str, ctx: _ExtractContext) -> st
         return f"{header}\n{body}\n"
     return f"{header}\n{body}\n" if body else f"{header}\n"
 
-
 def _emit_page_footer(page: fitz.Page, page_num: int, skip_footnotes: bool = False) -> str:
     zones = classify_page_zones(page)
     if skip_footnotes:
         zones = {**zones, "footnotes": []}
     return format_page_footer(page_num, zones)
-
 
 def _emit_footnote_zone(page: fitz.Page) -> str | None:
     zones = classify_page_zones(page)
@@ -516,13 +495,11 @@ def _emit_footnote_zone(page: fitz.Page) -> str | None:
         return None
     return "\n\n".join(footnotes) + "\n"
 
-
 def _emit_rotated_footnote_zone(page: fitz.Page, table_bbox: list[float]) -> str | None:
     footnotes = extract_surgical_rotated_footnotes(page, tuple(table_bbox))
     if not footnotes:
         return None
     return "\n\n".join(footnotes) + "\n"
-
 
 def _table_title(table: list[list]) -> str | None:
     if not table or not table[0]:
@@ -531,7 +508,6 @@ def _table_title(table: list[list]) -> str | None:
         if cell and str(cell).strip():
             return re.sub(r"\s+", " ", str(cell).strip())
     return None
-
 
 def _artifact_for_table_title(
     title: str | None, ctx: _ExtractContext, primary_art: ArtifactMeta | None
@@ -553,11 +529,10 @@ def _artifact_for_table_title(
         return primary_art
     return None
 
-
 def _merge_multipage_body(gid: str, page_nums: list[int], art: ArtifactMeta | None, pdf_path) -> str:
-    if gid in MULTIPAGE_ARTIFACTS:
-        cfg = MULTIPAGE_ARTIFACTS[gid]
-        indices = list(range(cfg["page_start"] - 1, cfg["page_end"]))
+    if gid in cfg.MULTIPAGE_ARTIFACTS:
+        mp = cfg.MULTIPAGE_ARTIFACTS[gid]
+        indices = list(range(mp["page_start"] - 1, mp["page_end"]))
         return merge_pdfplumber_tables(indices, pdf_path)
     title_key = art.display_name if art else gid.replace("scale_", "").replace("_", " ")
     indices = [p - 1 for p in page_nums]
@@ -565,7 +540,6 @@ def _merge_multipage_body(gid: str, page_nums: list[int], art: ArtifactMeta | No
     if not body.strip():
         body = merge_pdfplumber_tables(indices, pdf_path)
     return body
-
 
 def _extract_span_body(
     el: dict,
@@ -578,7 +552,7 @@ def _extract_span_body(
     art = ctx.art_by_id.get(gid) or ctx.art_by_id.get(el.get("artifact_id", ""))
 
     if el.get("extractor") == "section_block_merge":
-        return merge_section_block(doc, page_nums, PDF_PATH)
+        return merge_section_block(doc, page_nums, cfg.PDF_PATH)
 
     if el.get("text_direction") == "ocr" or el.get("extractor") == "rotated_table":
         method = el.get("rotated_extraction_method") or "grok_vision"
@@ -598,17 +572,16 @@ def _extract_span_body(
             if "GROK_VISION_PENDING" not in body:
                 return body
             geo = merge_rotated_pages(
-                doc, page_nums, PDF_PATH, rotation=el.get("rotation", 90)
+                doc, page_nums, cfg.PDF_PATH, rotation=el.get("rotation", 90)
             )
             return (
                 f"<!-- AGENT_VISION_PENDING geometry_fallback pages="
                 f"{page_nums[0]}-{page_nums[-1]} gid={gid} -->\n{geo}"
             )
         # Explicit geometry / hybrid override
-        return merge_rotated_pages(doc, page_nums, PDF_PATH, rotation=el.get("rotation", 90))
+        return merge_rotated_pages(doc, page_nums, cfg.PDF_PATH, rotation=el.get("rotation", 90))
 
-    return _merge_multipage_body(gid, page_nums, art, PDF_PATH)
-
+    return _merge_multipage_body(gid, page_nums, art, cfg.PDF_PATH)
 
 def _looks_like_narrative_callout(table: list[list]) -> bool:
     """Single-column narrative / sidebar boxes are not descriptor scales.
@@ -645,7 +618,6 @@ def _looks_like_narrative_callout(table: list[list]) -> bool:
     long_body = sum(1 for t in texts[1:] if len(t) > 60)
     return long_body >= 1
 
-
 def _emit_narrative_callout(table: list[list]) -> str:
     """Emit callout/sidebar as blockquote (docs/CONTRACTS.md §3 / UV-01).
 
@@ -654,6 +626,10 @@ def _emit_narrative_callout(table: list[list]) -> str:
         >
         > Paragraph…
     """
+    from pipeline.config import feature_enabled
+
+    if not feature_enabled("callouts"):
+        return ""
     from pipeline.callout_detect import emit_callout_blockquote
 
     texts = [
@@ -667,12 +643,10 @@ def _emit_narrative_callout(table: list[list]) -> str:
     # First cell may glue title + body; emit_callout_blockquote splits + dedupes.
     return emit_callout_blockquote(texts, title=None)
 
-
 def _table_title_is_numbered(title: str | None) -> re.Match | None:
     if not title:
         return None
     return re.match(r"^Table\s+(\d+)\s*[–—\-]\s+(.+)$", title.strip(), re.I)
-
 
 def _extract_single_table(
     page: fitz.Page,
@@ -696,13 +670,13 @@ def _extract_single_table(
             )
             if "GROK_VISION_PENDING" not in body:
                 return body
-            geo = extract_rotated_element(page_num - 1, page, PDF_PATH, el)
+            geo = extract_rotated_element(page_num - 1, page, cfg.PDF_PATH, el)
             return (
                 f"<!-- AGENT_VISION_PENDING geometry_fallback page={page_num} gid={gid} -->\n{geo}"
             )
-        return extract_rotated_element(page_num - 1, page, PDF_PATH, el)
+        return extract_rotated_element(page_num - 1, page, cfg.PDF_PATH, el)
 
-    tables = extract_tables(page_num - 1, PDF_PATH)
+    tables = extract_tables(page_num - 1, cfg.PDF_PATH)
     if not tables:
         return ""
 
@@ -722,7 +696,7 @@ def _extract_single_table(
     title = _table_title(table)
     # Prefer numbered Table N titles / explicit index map over auto scale_* ids.
     numbered = _table_title_is_numbered(title)
-    known_by_idx = KNOWN_TABLES_BY_INDEX.get((page_num, table_index))
+    known_by_idx = cfg.KNOWN_TABLES_BY_INDEX.get((page_num, table_index))
     if known_by_idx:
         known_id, known_title, known_type = known_by_idx
         table_art = ctx.art_by_id.get(known_id) or ArtifactMeta(
@@ -735,10 +709,10 @@ def _extract_single_table(
         )
         return _emit_artifact(table_art, page_num, page_num, md)
 
-    if page_num in KNOWN_TABLES_FIGURES and (
+    if page_num in cfg.KNOWN_TABLES_FIGURES and (
         table_index == 0 or numbered
     ):
-        known_id, known_title, known_type = KNOWN_TABLES_FIGURES[page_num]
+        known_id, known_title, known_type = cfg.KNOWN_TABLES_FIGURES[page_num]
         # Only apply known when this table is the known one (title match or sole table).
         if numbered or len(tables) == 1 or table_index == 0 and not any(
             _table_title_is_numbered(_table_title(t)) for t in tables if t is not table
@@ -813,7 +787,6 @@ def _extract_single_table(
             table_art, table_art.page_start, table_art.page_end, md
         )
     return md
-
 
 def _extract_element(
     el: dict,
@@ -900,6 +873,10 @@ def _extract_element(
     if etype == "artifact" and (
         el.get("artifact_type") == "callout" or el.get("extractor") == "callout_bbox"
     ):
+        from pipeline.config import feature_enabled
+
+        if not feature_enabled("callouts"):
+            return None
         from pipeline.callout_detect import (
             callout_paragraphs_from_bbox,
             emit_callout_blockquote,
@@ -940,9 +917,8 @@ def _extract_element(
 
     return None
 
-
 def extract_chunk(chunk_id: str) -> str:
-    inv_path = INVENTORIES_DIR / f"{chunk_id}_inventory.json"
+    inv_path = cfg.INVENTORIES_DIR / f"{chunk_id}_inventory.json"
     inventory = json.loads(inv_path.read_text(encoding="utf-8"))
     _, artifacts = _get_spans_and_artifacts()
     art_by_id = {a.id: a for a in artifacts}
@@ -950,7 +926,7 @@ def extract_chunk(chunk_id: str) -> str:
     art_by_title = {a.display_name.strip().lower(): a for a in artifacts}
     ctx = _ExtractContext(art_by_id, art_by_title)
 
-    doc = fitz.open(PDF_PATH)
+    doc = fitz.open(cfg.PDF_PATH)
     parts: list[str] = []
     parts.append(f"# {chunk_id} (pages {inventory['start_page']}-{inventory['end_page']})\n")
 
@@ -976,17 +952,15 @@ def extract_chunk(chunk_id: str) -> str:
             parts.append(block)
 
     doc.close()
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    out = RAW_DIR / f"{chunk_id}.md"
+    cfg.RAW_DIR.mkdir(parents=True, exist_ok=True)
+    out = cfg.RAW_DIR / f"{chunk_id}.md"
     content = "\n".join(parts)
     out.write_text(content, encoding="utf-8")
     print(f"Extracted {out.name} ({len(content)} chars)")
     return str(out)
 
-
 _CACHED_SPANS = None
 _CACHED_ARTIFACTS = None
-
 
 def _get_spans_and_artifacts():
     global _CACHED_SPANS, _CACHED_ARTIFACTS
@@ -995,12 +969,11 @@ def _get_spans_and_artifacts():
         _CACHED_ARTIFACTS = build_registry(_CACHED_SPANS)
     return _CACHED_SPANS, _CACHED_ARTIFACTS
 
-
 def extract_all_chunks(skip_existing: bool = False) -> list[str]:
     outputs = []
-    for inv in sorted(INVENTORIES_DIR.glob("chunk_*_inventory.json")):
+    for inv in sorted(cfg.INVENTORIES_DIR.glob("chunk_*_inventory.json")):
         chunk_id = inv.stem.replace("_inventory", "")
-        out_path = RAW_DIR / f"{chunk_id}.md"
+        out_path = cfg.RAW_DIR / f"{chunk_id}.md"
         if skip_existing and out_path.exists() and out_path.stat().st_size > 500:
             print(f"Skipping {chunk_id} (already extracted)")
             outputs.append(str(out_path))
@@ -1008,11 +981,13 @@ def extract_all_chunks(skip_existing: bool = False) -> list[str]:
         outputs.append(extract_chunk(chunk_id))
     return outputs
 
-
 if __name__ == "__main__":
     import argparse
 
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(description="Extract markdown for one or all chunks")
+    add_job_argument(parser)
     parser.add_argument(
         "chunk_id",
         nargs="?",
@@ -1029,6 +1004,7 @@ if __name__ == "__main__":
         help="Skip chunks whose raw output already exists and is non-trivial",
     )
     args = parser.parse_args()
+    bootstrap_job(args.job)
 
     if args.chunk_id:
         extract_chunk(args.chunk_id)

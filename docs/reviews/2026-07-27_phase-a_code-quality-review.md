@@ -8,7 +8,7 @@
 | **Git range** | `bfaebcc` → `d7b516d` (feat `51307b5`, fix `d7b516d`) |
 | **Parent docs** | `d1cab1c`, `2135162` |
 | **Review type** | Strict code-quality / maintainability (not functional smoke alone) |
-| **Phase B status** | **Not started** — do not begin until user directs |
+| **Phase B status** | **Implemented** (2026-07-27) — see reviews/README note; re-audit optional |
 
 This document is the **audit record** of the post–Phase A review. Re-read before/after Phase B and Phase C to judge whether structural debt was paid down.
 
@@ -184,4 +184,4 @@ Instead: global mutation + import-order rules + call-time path helpers + import-
 
 ---
 
-*Logged for post–Phase B / post–Phase C audit. Do not start Phase B until the user says so.*
+*Logged for post–Phase B / post–Phase C audit. Phase B implementation directed 2026-07-27.*

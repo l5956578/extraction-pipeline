@@ -32,11 +32,15 @@ extraction-pipeline/
 └── output/<job-id>/          # shippable only
 ```
 
-- `pipeline.config.load_job(job_id)` → `JobContext` and rebinds path/layout module globals.
-- Phase A: default job `cefr-companion-2020` when `--job` omitted; auto-load on import.
-- **CLI order (required):** parse args → `load_job` → *then* import pipeline step modules so path bindings see the selected job.
-- **One process ≈ one load:** same `job_id` returns a cached context; pass `load_job(id, reload=True)` after editing `job.json` / profile mid-process.
-- Phase B (planned): thread `JobContext` through call sites; require `--job`; stop freezing derived paths at import.
+- **`pipeline/job_context.py`:** `JobContext`, `load_job(job_id)`, JSON merge, layout parse (job + profile only).
+- **`pipeline/config.py`:** engine constants + **module attributes** for paths/layout after load.
+- **`pipeline/bootstrap.py`:** shared CLI helper — required `--job`, then `load_job`.
+- **`--job` is required** on all entry scripts (no default to Companion).
+- **No import-time load** — importing `pipeline.config` does not select a job (`get_active_job()` is `None` until bootstrap).
+- **Access pattern:** `import pipeline.config as cfg` then `cfg.PDF_PATH` / `cfg.FINAL_DIR` / `cfg.TOC_PAGE_RANGE` at **call time**. Do not `from pipeline.config import PDF_PATH` (freezes the binding).
+- **Layout SoT:** `input/<job>/job.json` + `profiles/<profile>.json` only (no Python `_DEFAULT_*` dual-write).
+- **Feature flags:** `extraction.features` (e.g. `callouts`) via `feature_enabled("callouts")`; Companion-hardcoded adjacent gates skip for other profiles.
+- **One process ≈ one load:** same `job_id` returns a cached context; pass `load_job(id, reload=True)` after editing sidecars.
 
 CLI: `run_pipeline.py --job <id>`, `run_production_extract.py --job <id>`, `iterate_format.py --job <id>`.
 
@@ -86,7 +90,7 @@ Each page lists ordered elements. Extract iterates this list **strictly**.
 
 ### 3.2 Multipage artifacts
 
-Configured in `input/<job-id>/job.json` layout (with Python fallbacks in `pipeline/config.py`: `MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`) and `work/<job-id>/metadata/spanning_tables.json`.
+Configured in `input/<job-id>/job.json` layout (`MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`, known tables) and `work/<job-id>/metadata/spanning_tables.json`.
 
 - Emit full table body on **start** page only.
 - Continuation pages: trailing prose + footnotes + page footer only.

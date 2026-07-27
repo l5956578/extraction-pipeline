@@ -14,14 +14,23 @@ from __future__ import annotations
 import json
 import re
 from pathlib import Path
-
-from pipeline.config import FINAL_DIR, METADATA_DIR, final_markdown_path
+import pipeline.config as cfg
+from pipeline.config import feature_enabled, final_markdown_path, get_active_job
 
 
 def _golden_dir() -> Path:
     """Active job golden suite — resolve at call time (not import-time freeze)."""
-    return METADATA_DIR / "golden"
+    return cfg.METADATA_DIR / "golden"
 
+
+def _companion_snippet_gates() -> bool:
+    """Hard-coded Companion page/title checks — off for non-Companion jobs."""
+    ctx = get_active_job()
+    if ctx is None:
+        return False
+    if ctx.profile == "cefr_companion":
+        return True
+    return feature_enabled("adjacent_companion_snippets", default=False)
 
 def _page_body(md: str, page_num: int) -> str:
     m = re.search(rf"<!-- page:{page_num} -->", md)
@@ -31,10 +40,8 @@ def _page_body(md: str, page_num: int) -> str:
     start = prev[-1].end() if prev else 0
     return md[start : m.start()]
 
-
 def _fail(gate: str, detail: str) -> dict:
     return {"gate": gate, "severity": "high", "detail": detail}
-
 
 # Radar / profile diagram axis fragments (Figs 6–10) left as "prose" under PNG.
 _RADAR_AXIS = re.compile(
@@ -52,7 +59,6 @@ _MODE_LABEL = re.compile(
     r"(?:\s|$|[A-Za-z*])",
     re.I,
 )
-
 
 def _lines_after_figure_image(body: str, fig_id_prefix: str = "figure_") -> list[str]:
     """Lines after a figure PNG until next structural boundary."""
@@ -83,7 +89,6 @@ def _lines_after_figure_image(body: str, fig_id_prefix: str = "figure_") -> list
         i += 1
     return out
 
-
 def _load_goldens() -> list[dict]:
     golden_dir = _golden_dir()
     if not golden_dir.is_dir():
@@ -97,7 +102,6 @@ def _load_goldens() -> list[dict]:
         except (OSError, json.JSONDecodeError) as exc:
             out.append({"page": -1, "_error": f"{path.name}: {exc}", "_path": str(path)})
     return out
-
 
 def _validate_golden_file(body: str, g: dict, page_num: int) -> list[dict]:
     issues: list[dict] = []
@@ -260,7 +264,6 @@ def _validate_golden_file(body: str, g: dict, page_num: int) -> list[dict]:
             )
     return issues
 
-
 def validate_adjacent(md_path: Path | None = None) -> list[dict]:
     """Return list of high-severity adjacent-damage issues."""
     md_path = md_path or final_markdown_path()
@@ -269,6 +272,22 @@ def validate_adjacent(md_path: Path | None = None) -> list[dict]:
         return [_fail("V-ADJ-MD-MISSING", str(md_path))]
 
     md = md_path.read_text(encoding="utf-8")
+
+    # File-based golden suite is job-local data — always run when present.
+    for g in _load_goldens():
+        pn = int(g.get("page") or -1)
+        if pn < 0:
+            issues.extend(_validate_golden_file("", g, pn))
+            continue
+        body = _page_body(md, pn)
+        if not body:
+            issues.append(_fail("V-ADJ-GOLDEN", f"page {pn}: page body missing for golden"))
+            continue
+        issues.extend(_validate_golden_file(body, g, pn))
+
+    # Remaining gates hard-code Companion page numbers / titles.
+    if not _companion_snippet_gates():
+        return issues
 
     # --- V-ADJ-FIGURE-SOUP: garbage under PNG (log 04 #8, log 01 Fig 6–8, review #2) ---
     _LEVEL_LANG_ROW = re.compile(
@@ -411,7 +430,7 @@ def validate_adjacent(md_path: Path | None = None) -> list[dict]:
                 )
             )
 
-    # --- V-ADJ-GOLDEN: file-based suite + hard-coded p.38 axis check ---
+    # --- V-ADJ-GOLDEN: hard-coded p.38 axis check (file goldens already ran above) ---
     body38 = _page_body(md, 38)
     if body38 and "figure_06" in body38:
         if "Understanding conversation between other speakers" in body38:
@@ -425,17 +444,6 @@ def validate_adjacent(md_path: Path | None = None) -> list[dict]:
                         "(replace semantics failed — dual emission)",
                     )
                 )
-
-    for g in _load_goldens():
-        pn = int(g.get("page") or -1)
-        if pn < 0:
-            issues.extend(_validate_golden_file("", g, pn))
-            continue
-        body = _page_body(md, pn)
-        if not body:
-            issues.append(_fail("V-ADJ-GOLDEN", f"page {pn}: page body missing for golden"))
-            continue
-        issues.extend(_validate_golden_file(body, g, pn))
 
     # log 04 critical: callout mid-paragraph glue on 27–28
     for pn in (27, 28):
@@ -518,7 +526,6 @@ def validate_adjacent(md_path: Path | None = None) -> list[dict]:
 
     return issues
 
-
 def validate_adjacent_report(md_path: Path | None = None) -> dict:
     issues = validate_adjacent(md_path)
     report = {
@@ -528,7 +535,7 @@ def validate_adjacent_report(md_path: Path | None = None) -> dict:
         "path": str(md_path or final_markdown_path()),
         "golden_dir": str(_golden_dir()),
     }
-    out = METADATA_DIR / "adjacent_validation.json"
+    out = cfg.METADATA_DIR / "adjacent_validation.json"
     try:
         out.write_text(
             json.dumps(report, indent=2),
@@ -538,8 +545,10 @@ def validate_adjacent_report(md_path: Path | None = None) -> dict:
         pass
     return report
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Adjacent-element regression gates (C2-ADJ)")
     r = validate_adjacent_report()
     if r["valid"]:
         print("ADJACENT VALIDATION OK")

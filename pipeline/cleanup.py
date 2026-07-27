@@ -5,10 +5,9 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-from pipeline.config import CLEANED_DIR, RAW_DIR
+import pipeline.config as cfg
 from pipeline.prose_format import normalize_prose
 from pipeline.utils import is_gibberish
-
 
 def _fix_broken_words(text: str) -> str:
     # Hyphenation across line breaks
@@ -24,7 +23,6 @@ def _fix_broken_words(text: str) -> str:
     for old, new in replacements.items():
         text = text.replace(old, new)
     return text
-
 
 def _fix_reversed_fragments(text: str) -> str:
     from pipeline.extractors.rotated import _reverse_line
@@ -48,7 +46,6 @@ def _fix_reversed_fragments(text: str) -> str:
                 fixed.append(cell)
         lines.append("|".join(fixed))
     return "\n".join(lines)
-
 
 def cleanup_text(text: str) -> tuple[str, list[str]]:
     fixes = []
@@ -85,10 +82,8 @@ def cleanup_text(text: str) -> tuple[str, list[str]]:
 
     return text, fixes
 
-
 _PAGE_COMMENT = re.compile(r"^<!-- page:(\d+) -->\s*$")
 _PAGE_ITALIC = re.compile(r"^\*.*\b[Pp]age\b.*\*$")
-
 
 def _dedupe_page_markers(text: str) -> tuple[str, str | None]:
     """Collapse consecutive duplicate <!-- page:N --> blocks (and optional italic caption)."""
@@ -124,7 +119,6 @@ def _dedupe_page_markers(text: str) -> tuple[str, str | None]:
         return text, None
     return "\n".join(out), f"removed {removed} duplicate page marker(s)"
 
-
 def cleanup_file(src: Path, dest: Path) -> dict:
     text = src.read_text(encoding="utf-8")
     cleaned, fixes = cleanup_text(text)
@@ -132,15 +126,16 @@ def cleanup_file(src: Path, dest: Path) -> dict:
     dest.write_text(cleaned, encoding="utf-8")
     return {"source": str(src), "dest": str(dest), "fixes": fixes}
 
-
 def cleanup_all() -> list[dict]:
     reports = []
-    for src in sorted(RAW_DIR.glob("chunk_*.md")):
-        dest = CLEANED_DIR / src.name
+    for src in sorted(cfg.RAW_DIR.glob("chunk_*.md")):
+        dest = cfg.CLEANED_DIR / src.name
         reports.append(cleanup_file(src, dest))
         print(f"Cleaned {dest.name}")
     return reports
 
-
 if __name__ == "__main__":
+    from pipeline.bootstrap import parse_and_load_job
+
+    parse_and_load_job(description="Cleanup raw extraction chunks")
     cleanup_all()

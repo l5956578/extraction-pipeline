@@ -5,15 +5,15 @@ Fast iteration for markdown formatting only (~3–5s).
 Use this after changing pipeline/post_process.py or pipeline/prose_format.py.
 Does NOT re-extract the PDF.
 
-  python iterate_format.py              # format output in place
-  python iterate_format.py --from-cleaned   # re-merge cleaned chunks then format
-  python iterate_format.py --from-raw       # cleanup raw → cleaned → merge → format
+  python iterate_format.py --job cefr-companion-2020
+  python iterate_format.py --job cefr-companion-2020 --from-cleaned
+  python iterate_format.py --job cefr-companion-2020 --from-raw
 
 Full PDF extract is the slow path (minutes–tens of minutes). Prefer:
-  1) iterate_format.py          for list/spacing/bold/page-marker issues
-  2) --from-raw                 if cleanup.py changed
-  3) re-extract one chunk only  if extract logic changed
-  4) full extract               only when inventory/rotated tables change
+  1) iterate_format.py --job <id>   for list/spacing/bold/page-marker issues
+  2) --from-raw                     if cleanup.py changed
+  3) re-extract one chunk only      if extract logic changed
+  4) full extract                   only when inventory/rotated tables change
 """
 
 from __future__ import annotations
@@ -32,12 +32,10 @@ def _log(*args) -> None:
 
 
 def main() -> None:
+    from pipeline.bootstrap import add_job_argument, bootstrap_job
+
     parser = argparse.ArgumentParser(description="Fast format iteration (no full extract)")
-    parser.add_argument(
-        "--job",
-        default=None,
-        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
-    )
+    add_job_argument(parser)
     parser.add_argument(
         "--from-cleaned",
         action="store_true",
@@ -50,9 +48,7 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    from pipeline.config import load_job
-
-    ctx = load_job(args.job)
+    ctx = bootstrap_job(args.job)
     _log(f"Job: {ctx.job_id}  output={ctx.final_dir}")
 
     t0 = time.perf_counter()
