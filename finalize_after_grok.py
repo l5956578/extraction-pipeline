@@ -16,7 +16,7 @@ ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT))
 
 from pipeline.cleanup import cleanup_file
-from pipeline.config import CLEANED_DIR, FINAL_DIR, RAW_DIR
+from pipeline.config import CLEANED_DIR, FINAL_DIR, INVENTORIES_DIR, RAW_DIR
 from pipeline.extract_chunk import extract_chunk
 from pipeline.extractors.rotated_grok_vision import (
     chunk_has_pending_grok,
@@ -49,7 +49,17 @@ def main() -> None:
         action="store_true",
         help="Re-extract every chunk (not only those with rotated tables)",
     )
+    parser.add_argument(
+        "--job",
+        default=None,
+        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
+    )
     args = parser.parse_args()
+
+    from pipeline.config import load_job
+
+    ctx = load_job(args.job)
+    print(f"Job: {ctx.job_id}")
 
     refresh_manifest_statuses()
     pending = get_pending_rotated_tables()
@@ -67,7 +77,7 @@ def main() -> None:
     elif args.all_chunks:
         chunk_ids = [
             p.stem.replace("_inventory", "")
-            for p in sorted((ROOT / "inventories").glob("chunk_*_inventory.json"))
+            for p in sorted(INVENTORIES_DIR.glob("chunk_*_inventory.json"))
         ]
     else:
         chunk_ids = chunks_with_rotated_tables()

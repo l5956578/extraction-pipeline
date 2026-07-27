@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import re
 import sys
 from pathlib import Path
@@ -17,6 +18,21 @@ def _log(*args, **kwargs) -> None:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Full production extract → cleanup → merge → figures → postprocess"
+    )
+    parser.add_argument(
+        "--job",
+        default=None,
+        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
+    )
+    args = parser.parse_args()
+
+    from pipeline.config import load_job
+
+    ctx = load_job(args.job)
+    _log(f"Job: {ctx.job_id}  pdf={ctx.pdf_path}  output={ctx.final_dir}")
+
     from pipeline.apply_figures import run_apply_figures
     from pipeline.cleanup import cleanup_all
     from pipeline.extract_chunk import extract_all_chunks
@@ -46,7 +62,7 @@ def main() -> None:
     except Exception as exc:  # noqa: BLE001
         _log(f"postprocess: {exc}")
 
-    final = ROOT / "output" / "CEFR_Companion_Volume.md"
+    final = ctx.final_markdown
     t = final.read_text(encoding="utf-8")
     pages = re.findall(r"<!-- page:(\d+) -->", t)
     dups = sum(1 for i in range(len(pages) - 1) if pages[i] == pages[i + 1])

@@ -1,4 +1,4 @@
-# Architecture — CEFR Companion Volume extraction pipeline
+# Architecture — multi-job extraction pipeline
 
 **Companion to [`STATUS.md`](../STATUS.md)** (project status and backlog).  
 This document describes **how the system is designed**, not day-to-day status.
@@ -7,22 +7,50 @@ This document describes **how the system is designed**, not day-to-day status.
 
 ## 1. Goals
 
-- One Markdown deliverable: `output/CEFR_Companion_Volume.md`
+- Multi-document: one **job** per PDF under `input|work|output/<job-id>/`
+- Shared general engine in `pipeline/`; per-PDF knowledge in `job.json` + inventories
+- Companion deliverable: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
 - Stable `<!-- db:id=… -->` artifact headers for ETL
-- Page anchors `<!-- page:N -->` for every PDF page 1–278
+- Page anchors `<!-- page:N -->` for every PDF page 1–278 (Companion)
 - Faithful prose, tables, footnotes, and figures (with explicit figure policy)
+
+---
+
+## 1b. Job layout & JobContext
+
+```
+extraction-pipeline/
+├── pipeline/                 # general engine
+├── profiles/<profile>.json   # shared family defaults
+├── input/<job-id>/
+│   ├── source.pdf
+│   ├── job.json              # required (original_filename, profile, layout)
+│   └── notes.md              # optional
+├── work/<job-id>/
+│   ├── inventories/
+│   ├── chunks/, raw_extraction/, cleaned/, metadata/
+└── output/<job-id>/          # shippable only
+```
+
+- `pipeline.config.load_job(job_id)` → `JobContext` and rebinds path/layout module globals.
+- Phase A: default job `cefr-companion-2020` when `--job` omitted; auto-load on import.
+- Phase B (planned): thread `JobContext` through call sites; require `--job`.
+
+CLI: `run_pipeline.py --job <id>`, `run_production_extract.py --job <id>`, `iterate_format.py --job <id>`.
 
 ---
 
 ## 2. Pipeline stages
 
+Paths below are relative to the **active job** (`work/<job-id>/`, `output/<job-id>/`).
+
 ```
-0. spans      span_detector → work/metadata/spanning_tables.json
-1. chunker    optional PDF chunks under chunks/
-2. inventory  per-chunk inventories/*_inventory.json (reading_order)
-3. extract    work/raw_extraction/chunk_*.md
-4. cleanup    work/cleaned/chunk_*.md
-5. merge      output/CEFR_Companion_Volume.md (+ registry, manifest)
+0. spans      span_detector → work/<job>/metadata/spanning_tables.json
+1. chunker    optional PDF chunks under work/<job>/chunks/
+2. inventory  work/<job>/inventories/*_inventory.json (reading_order)
+3. extract    work/<job>/raw_extraction/chunk_*.md
+4. cleanup    work/<job>/cleaned/chunk_*.md
+5. merge      output/<job>/<markdown_name> (+ registry, manifest)
 6. figures    apply_figures (inject diagrams / PNG refs)
 7. format     pipeline/post_process.py (in-place on final MD)
 8. validate   output_validator / validators
@@ -56,7 +84,7 @@ Each page lists ordered elements. Extract iterates this list **strictly**.
 
 ### 3.2 Multipage artifacts
 
-Configured in `pipeline/config.py` (`MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`) and `work/metadata/spanning_tables.json`.
+Configured in `input/<job-id>/job.json` layout (with Python fallbacks in `pipeline/config.py`: `MULTIPAGE_ARTIFACTS`, `SECTION_BLOCKS`) and `work/<job-id>/metadata/spanning_tables.json`.
 
 - Emit full table body on **start** page only.
 - Continuation pages: trailing prose + footnotes + page footer only.
@@ -92,8 +120,8 @@ Rotated descriptor scales (~90° text) are not reliable via pdfplumber geometry 
 | Stage | Location |
 |-------|----------|
 | Detect | Inventory `table_orientation: rotated_*`, `extractor: rotated_table` |
-| Prepare | `prepare_rotated_for_grok.py` → `work/metadata/rotated_for_grok/` |
-| Authoritative extract | Coding agent vision → `work/metadata/rotated_from_grok/{slug}.md` |
+| Prepare | `prepare_rotated_for_grok.py` → `work/<job>/metadata/rotated_for_grok/` |
+| Authoritative extract | Coding agent vision → `work/<job>/metadata/rotated_from_grok/{slug}.md` |
 | Assemble | `rotated_grok_vision.assemble_grok_rotated_span` |
 | Fallback | Geometry (no forced OCR thrash); HTML `AGENT_VISION_PENDING` |
 

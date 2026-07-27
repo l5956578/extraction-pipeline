@@ -22,12 +22,21 @@ def main() -> None:
 
     parser = argparse.ArgumentParser(description="Prepare rotated table PNGs for agent vision")
     parser.add_argument(
+        "--job",
+        default=None,
+        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
+    )
+    parser.add_argument(
         "--force",
         action="store_true",
         help="Re-crop PNGs even if they already exist",
     )
     args = parser.parse_args()
 
+    from pipeline.config import load_job
+
+    ctx = load_job(args.job)
+    print(f"Job: {ctx.job_id}\n")
     print("=== Prepare rotated tables for agent vision (no chat Grok) ===\n")
     prepared = prepare_all_rotated_from_inventories(force=args.force)
     manifest = refresh_manifest_statuses()

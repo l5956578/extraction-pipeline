@@ -45,7 +45,9 @@ def _page_body_chars_md(md: str, page_num: int) -> int:
 
 def validate_figure_pages_prose(md_path: Path | None = None) -> list[str]:
     """Return list of human-readable failure strings (empty = ok)."""
-    md_path = md_path or (ROOT / "output" / "CEFR_Companion_Volume.md")
+    from pipeline.config import FINAL_DIR
+
+    md_path = md_path or (FINAL_DIR / "CEFR_Companion_Volume.md")
     if not md_path.exists():
         return [f"missing markdown: {md_path}"]
     md = md_path.read_text(encoding="utf-8")

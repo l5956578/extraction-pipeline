@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "id": "cefr-companion-2020",
+  "title": "CEFR Companion Volume (EN 2020)",
+  "status": "active",
+  "profile": "cefr_companion",
+  "source": {
+    "file": "source.pdf",
+    "original_filename": "CEFR Companion Volume_eng.pdf",
+    "published_filename": "4-CEFR-Companion-Volume-EN-2020.pdf",
+    "expected_page_count": 278,
+    "language": "en"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["context"],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 25,
+    "toc_page_range": [5, 9],
+    "levels": ["Pre-A1", "A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": true,
+      "agent_vision": true,
+      "figures": true,
+      "multipage_merge": true,
+      "callouts": true
+    }
+  },
+  "layout": {
+    "section_blocks": [
+      {
+        "id": "table_self_assessment_grid",
+        "display_name": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
+        "type": "section_block",
+        "product_tiers": ["base"],
+        "page_start": 177,
+        "page_end": 181
+      }
+    ],
+    "multipage_artifacts": {
+      "table_02_summary_descriptor_changes": {
+        "page_start": 24,
+        "page_end": 25,
+        "merge": "pdfplumber_all"
+      },
+      "scale_vocabulary_control": {
+        "page_start": 132,
+        "page_end": 133,
+        "merge": "pdfplumber_all"
+      }
+    },
+    "known_tables": {
+      "23": {
+        "id": "table_01_descriptive_scheme_updates",
+        "title": "Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions",
+        "type": "table"
+      },
+      "24": {
+        "id": "table_02_summary_descriptor_changes",
+        "title": "Table 2 – Summary of changes to the illustrative descriptors",
+        "type": "table"
+      },
+      "33": {
+        "id": "table_03_macro_functional_basis",
+        "title": "Table 3 – Macro-functional basis of CEFR categories for communicative language activities",
+        "type": "table"
+      }
+    },
+    "known_tables_by_index": [
+      {
+        "page": 35,
+        "index": 0,
+        "id": "callout_can_do_descriptors_as_competence",
+        "title": "“Can do” descriptors as competence",
+        "type": "callout"
+      },
+      {
+        "page": 35,
+        "index": 1,
+        "id": "table_04_communicative_language_strategies",
+        "title": "Table 4 – Communicative language strategies in the CEFR",
+        "type": "table"
+      },
+      {
+        "page": 29,
+        "index": 0,
+        "id": "callout_a_reminder_of_cefr_2001_chapters",
+        "title": "A reminder of CEFR 2001 chapters",
+        "type": "callout"
+      },
+      {
+        "page": 44,
+        "index": 0,
+        "id": "table_05_descriptor_use",
+        "title": "Table 5 – The use of CEFR illustrative descriptors for different purposes",
+        "type": "table"
+      }
+    ]
+  },
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "markdown",
+    "markdown_name": "CEFR_Companion_Volume.md"
+  }
+}

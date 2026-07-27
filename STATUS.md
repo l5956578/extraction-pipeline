@@ -25,11 +25,13 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-20 (RIE-005 re-derive ids from fixed titles; log-page Vision batch; gates green) |
-| **Branch** | `execute-plan/c0b4a280-pr-5-pipeline-re-run-and-documentation` |
-| **Deliverable** | `output/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
-| **Source PDF** | `input/CEFR Companion Volume_eng.pdf` (read-only) |
-| **Deliverables** | `output/` (was `final_output/`) — MD + assets + registries |
+| **Last updated** | 2026-07-27 (Phase A multi-job layout: `cefr-companion-2020` namespace) |
+| **Branch** | `master` |
+| **Active job** | `cefr-companion-2020` (default when `--job` omitted — Phase A only) |
+| **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
+| **Source PDF** | `input/cefr-companion-2020/source.pdf` (original name: `CEFR Companion Volume_eng.pdf`) |
+| **Sidecars** | `input/cefr-companion-2020/job.json`, `profiles/cefr_companion.json` |
+| **Deliverables** | `output/<job-id>/` — MD + assets + registries |
 
 ---
 
@@ -46,8 +48,8 @@ Extract the full CEFR Companion Volume PDF into **database-ready Markdown** suit
 | End-to-end pipeline (spans → inventory → extract → cleanup → merge → figures → format) | **Operational** |
 | Normal prose / tables / TOC / figures | **Working** (with known residual quality issues) |
 | Rotated tables (all inventory-flagged pages) | **Personal deep-audit complete** — **88** pages; 0 pending; 0 geometry fallback |
-| Appendix 5 domain examples (pp. 191–241) | **Done** — personal multi-pass; log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt` |
-| Non–Appx5 rotated scales (37 pages) | **Done** — personal multi-pass; log: `work/metadata/rotated_from_grok/_DEEP_AUDIT_LOG_NON_APPX5.txt`; rewrites: 104, 113, 119, 154, 162 |
+| Appendix 5 domain examples (pp. 191–241) | **Done** — personal multi-pass; log: `work/cefr-companion-2020/metadata/rotated_from_grok/_DEEP_AUDIT_LOG.txt` |
+| Non–Appx5 rotated scales (37 pages) | **Done** — personal multi-pass; log: `work/cefr-companion-2020/metadata/rotated_from_grok/_DEEP_AUDIT_LOG_NON_APPX5.txt`; rewrites: 104, 113, 119, 154, 162 |
 | Formatting postprocess | **Integrated** into merge / `iterate_format.py` (~4s) |
 | Isolated smoke harness | `../attempt4_rotation_smoke_test/` (historical; main is source of truth) |
 
@@ -56,21 +58,24 @@ Extract the full CEFR Companion Volume PDF into **database-ready Markdown** suit
 ## 3. Architecture (quick map)
 
 ```
-PDF
+PDF (input/<job-id>/source.pdf)
  → spans (span_detector)
- → inventories (reading_order per page)
+ → inventories (work/<job-id>/inventories — reading_order per page)
  → extract_chunk (prose_zone | pdfplumber | rotated agent-vision | multipage)
  → cleanup (chunk-level rules)
  → merge → apply_figures → post_process
- → output/CEFR_Companion_Volume.md
+ → output/<job-id>/CEFR_Companion_Volume.md   # Companion job markdown name
 ```
 
-**Contract:** `inventories/*_inventory.json` → `reading_order` is the extraction source of truth.
+**Multi-job layout (Phase A):** every document is a **job** under `input|work|output/<job-id>/`.  
+Shared engine: `pipeline/` + optional `profiles/*.json`. Per-PDF knowledge: `input/<job-id>/job.json` + inventories.
+
+**Contract:** `work/<job-id>/inventories/*_inventory.json` → `reading_order` is the extraction source of truth.
 
 **Rotated tables (default method `grok_vision`):**
 
-1. `prepare_rotated_for_grok.py` → PNG/JSON/handoff in `work/metadata/rotated_for_grok/`
-2. **Coding agent** (multimodal vision) writes `work/metadata/rotated_from_grok/{slug}.md`
+1. `prepare_rotated_for_grok.py` → PNG/JSON/handoff in `work/<job-id>/metadata/rotated_for_grok/`
+2. **Coding agent** (multimodal vision) writes `work/<job-id>/metadata/rotated_from_grok/{slug}.md`
 3. Extract assembles those files; **if missing** → geometry fallback + `AGENT_VISION_PENDING` HTML comment
 
 Chat/web Grok is **not** a pipeline step. Geometry/OCR are **fallback only**.
@@ -347,9 +352,9 @@ python finalize_after_grok.py
 | **`STATUS.md` (this file)** | **Single source of truth** — done / open / how to run |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) | Pipeline design & contracts |
 | [`README.md`](README.md) | Quick start |
-| [`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md) | Rotated vision procedure |
-| [`work/metadata/figures_handling.md`](work/metadata/figures_handling.md) | Figure render policy |
-| [`work/metadata/sqlite_schema_notes.md`](work/metadata/sqlite_schema_notes.md) | Downstream DB notes |
+| [`work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md) | Rotated vision procedure |
+| [`work/cefr-companion-2020/metadata/figures_handling.md`](work/cefr-companion-2020/metadata/figures_handling.md) | Figure render policy |
+| [`work/cefr-companion-2020/metadata/sqlite_schema_notes.md`](work/cefr-companion-2020/metadata/sqlite_schema_notes.md) | Downstream DB notes |
 | [`docs/archive/`](docs/archive/) | **Historical only** — attempts 2–4 debug logs, old plans |
 
 **Deprecated as source of truth:** `docs/archive/EXTRACTION_DEBUG_HISTORY.md` (history preserved; open bugs rolled into §5 here).

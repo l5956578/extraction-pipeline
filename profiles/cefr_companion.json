@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "cefr_companion",
+  "title": "CEFR Companion Volume family",
+  "description": "Shared defaults for Companion-class CEFR PDFs (rotated tables, figures, multipage merge, callouts).",
+  "extraction": {
+    "chunk_size": 25,
+    "levels": ["Pre-A1", "A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": true,
+      "agent_vision": true,
+      "figures": true,
+      "multipage_merge": true,
+      "callouts": true
+    }
+  },
+  "output": {
+    "mode": "markdown"
+  }
+}

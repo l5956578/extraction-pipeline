@@ -21,7 +21,7 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-from pipeline.config import FINAL_DIR, ROOT
+from pipeline.config import FINAL_DIR, METADATA_DIR, ROOT
 from pipeline.prose_format import (
     _format_level_callouts,
     fix_bold_markdown,
@@ -35,7 +35,7 @@ from pipeline.toc_format import (
 )
 
 FINAL_MARKDOWN = FINAL_DIR / "CEFR_Companion_Volume.md"
-RUN_LOG = ROOT / "work" / "metadata" / "last_format_run.txt"
+RUN_LOG = METADATA_DIR / "last_format_run.txt"
 
 # PDF list-marker artifacts only — never match a wrapped word like "form".
 _BULLET_MARKERS = re.compile(

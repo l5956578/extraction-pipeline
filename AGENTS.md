@@ -4,7 +4,7 @@ Before changing extraction, formatting, or rotated-table behavior:
 
 1. Read **[`STATUS.md`](STATUS.md)** (single source of truth: done / open / runbook).
 2. Read **[`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)** if changing design or contracts.
-3. For rotated tables, follow **[`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md)**.
+3. For rotated tables, follow **[`work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md)** (or the active job’s `work/<job-id>/metadata/`).
 
 Do **not** treat `docs/archive/**` as current requirements.
 
@@ -69,6 +69,8 @@ Hard rule: **prefer action over questions.** The user is not the agent’s memor
 | `STATUS.md` | Open / partial / fixed **status** |
 | `docs/RESOLVED_EXTRACTION_ISSUES.md` | **Re-apply** playbook for known-good fixes |
 
-## Deliverable
+## Deliverable / jobs
 
-`output/CEFR_Companion_Volume.md`
+- Companion: `output/cefr-companion-2020/CEFR_Companion_Volume.md`
+- Layout: `input|work|output/<job-id>/` + `profiles/` + `pipeline.config.load_job`
+- CLI: pass `--job <id>` (Phase A default: `cefr-companion-2020`)

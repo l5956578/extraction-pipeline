@@ -1,9 +1,9 @@
-# CEFR Companion Volume — Extraction Pipeline
+# Extraction Pipeline (multi-job)
 
 **Location:** `D:\y\lang-platform\pipelines\extraction-pipeline`  
-(Moved from `C:\Users\59565\Documents\Python Scripts\extraction-pipeline`. Nested under the lang-platform monorepo; this folder remains its own git root.)
+Nested under the lang-platform monorepo; this folder remains its own git root.
 
-Extracts the CEFR Companion Volume PDF into **database-ready Markdown**.
+General PDF→Markdown engine with **per-document jobs**. First production job: **CEFR Companion Volume (EN 2020)**.
 
 | Document | Role |
 |----------|------|
@@ -17,60 +17,77 @@ Extracts the CEFR Companion Volume PDF into **database-ready Markdown**.
 
 ```bash
 pip install -r requirements.txt
+# Phase A: --job defaults to cefr-companion-2020
 python run_pipeline.py --step all
+python run_pipeline.py --job cefr-companion-2020 --step postprocess
 ```
 
 ### Common commands
 
 ```bash
 # Full production extract (uses current inventories + rotated vision markdown)
-python -u run_production_extract.py
+python -u run_production_extract.py --job cefr-companion-2020
 
 # Format-only (~4s) — list spacing, footers, bold, etc.
-python iterate_format.py
+python iterate_format.py --job cefr-companion-2020
 
 # Rotated table PNG prep
-python prepare_rotated_for_grok.py
+python prepare_rotated_for_grok.py --job cefr-companion-2020
 
 # After agent vision markdown is written
-python finalize_after_grok.py
+python finalize_after_grok.py --job cefr-companion-2020
 ```
 
 ### Rotated tables
 
 Geometry/OCR are **not** production quality for rotated descriptor scales.  
-**Coding-agent vision** writes `work/metadata/rotated_from_grok/*.md`. See:
+**Coding-agent vision** writes `work/<job-id>/metadata/rotated_from_grok/*.md`. See:
 
 - [`STATUS.md`](STATUS.md) §6 (coverage)
-- [`work/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/metadata/ROTATED_TABLES_AGENT_VISION.md)
-
-**Appendix 5 (pp. 191–241)** still needs vision markdown (open item R1).
+- [`work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md`](work/cefr-companion-2020/metadata/ROTATED_TABLES_AGENT_VISION.md)
 
 ---
 
-## Output (shippable)
+## Jobs
 
-| Path | Description |
-|------|-------------|
-| `output/CEFR_Companion_Volume.md` | Final Markdown deliverable |
-| `output/manifest.json` | Navigation + product catalog |
-| `output/db_import_registry.json` | Artifact registry for ETL |
-| `output/assets/figures/` | Figure assets |
-
-Promotion (platform): **copy** from `output/` → `lang-platform/staging/pending/...` (see monorepo `docs/PROMOTION.md`). Do not promote intermediates.
-
----
-
-## Layout
+Each document is a **job id** (kebab-case), e.g. `cefr-companion-2020`:
 
 | Path | Role |
 |------|------|
-| `input/` | Source PDF only |
-| `output/` | Shippable deliverables |
-| `pipeline/` | Extractors, layout, cleanup, postprocess |
-| `inventories/` | Per-chunk `reading_order` contracts |
-| `work/raw_extraction/` / `work/cleaned/` / `work/chunks/` | Intermediate (not promoted) |
-| `work/metadata/` | QA, rotated tables, registries (not promoted) |
+| `input/<job-id>/source.pdf` | Working PDF name |
+| `input/<job-id>/job.json` | Required sidecar (`original_filename`, profile, layout) |
+| `input/<job-id>/notes.md` | Optional human notes |
+| `profiles/<profile>.json` | Shared family defaults (e.g. `cefr_companion`) |
+| `work/<job-id>/inventories/` | `reading_order` contracts |
+| `work/<job-id>/{chunks,raw_extraction,cleaned,metadata}/` | Intermediates (not promoted) |
+| `output/<job-id>/` | Shippable MD + assets + registries |
+
+CLI: `--job <id>` on entry scripts. **Phase A** defaults to `cefr-companion-2020` when omitted; later phases will require `--job`.
+
+---
+
+## Output (shippable) — Companion job
+
+| Path | Description |
+|------|-------------|
+| `output/cefr-companion-2020/CEFR_Companion_Volume.md` | Final Markdown deliverable |
+| `output/cefr-companion-2020/manifest.json` | Navigation + product catalog |
+| `output/cefr-companion-2020/db_import_registry.json` | Artifact registry for ETL |
+| `output/cefr-companion-2020/assets/figures/` | Figure assets |
+
+Promotion (platform): **copy** from `output/<job-id>/` → `lang-platform/staging/pending/extraction-pipeline/<job-id>/` (see monorepo `docs/PROMOTION.md`). Do not promote intermediates.
+
+---
+
+## Layout (engine + I/O)
+
+| Path | Role |
+|------|------|
+| `pipeline/` | General engine (JobContext via `pipeline.config.load_job`) |
+| `profiles/` | Shared profile JSON |
+| `input/<job-id>/` | Source PDF + sidecars |
+| `work/<job-id>/` | Inventories + intermediates |
+| `output/<job-id>/` | Shippable deliverables only |
 | `post-processing/` | Thin CLI only (`format_markdown.py`) |
 | `docs/archive/` | Historical notes (not current status) |
 

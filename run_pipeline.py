@@ -142,6 +142,11 @@ Keep `products` / `sessions` tables separate from content — link sessions to `
 def main():
     parser = argparse.ArgumentParser(description="CEFR PDF extraction pipeline")
     parser.add_argument(
+        "--job",
+        default=None,
+        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
+    )
+    parser.add_argument(
         "--step",
         choices=[
             "all", "spans", "chunks", "inventory", "extract", "cleanup", "validate",
@@ -150,6 +155,11 @@ def main():
         default="all",
     )
     args = parser.parse_args()
+
+    from pipeline.config import load_job
+
+    ctx = load_job(args.job)
+    print(f"Job: {ctx.job_id}  pdf={ctx.pdf_path.name}  output={ctx.final_dir}")
 
     steps = {
         "spans": step_spans,

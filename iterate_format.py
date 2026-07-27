@@ -34,9 +34,14 @@ def _log(*args) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description="Fast format iteration (no full extract)")
     parser.add_argument(
+        "--job",
+        default=None,
+        help="Job id under input|work|output/<job>/ (default: cefr-companion-2020)",
+    )
+    parser.add_argument(
         "--from-cleaned",
         action="store_true",
-        help="Re-merge work/cleaned/*.md into final, then postprocess",
+        help="Re-merge work/<job>/cleaned/*.md into final, then postprocess",
     )
     parser.add_argument(
         "--from-raw",
@@ -44,6 +49,11 @@ def main() -> None:
         help="Cleanup raw → cleaned, merge, then postprocess",
     )
     args = parser.parse_args()
+
+    from pipeline.config import load_job
+
+    ctx = load_job(args.job)
+    _log(f"Job: {ctx.job_id}  output={ctx.final_dir}")
 
     t0 = time.perf_counter()
 
@@ -74,7 +84,7 @@ def main() -> None:
     _log(f"Done in {elapsed:.1f}s")
     _log(f"  {result['input_lines']} → {result['output_lines']} lines")
     _log(f"  {result['output_path']}")
-    _log("Review: output/CEFR_Companion_Volume.md")
+    _log(f"Review: output/{ctx.job_id}/{ctx.markdown_name}")
 
 
 if __name__ == "__main__":
