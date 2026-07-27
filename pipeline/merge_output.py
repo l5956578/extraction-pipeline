@@ -7,13 +7,50 @@ import re
 from pathlib import Path
 
 import pipeline.config as cfg
-from pipeline.config import final_markdown_path, load_figures_registry
+from pipeline.config import final_markdown_path, load_figures_registry, require_active_job
 from pipeline.id_registry import build_registry
+from pipeline.utils import slugify
+
+
+def _document_shell() -> dict:
+    """Document H1 / db:id / nav from job.json output (+ source page count).
+
+    Companion values live in the Companion job sidecar — not hardcoded here.
+    """
+    ctx = require_active_job()
+    out = ctx.job_data.get("output") or {}
+    source = ctx.job_data.get("source") or {}
+    product = ctx.product or {}
+
+    title = out.get("document_title") or ctx.title
+    doc_id = out.get("document_id") or slugify(ctx.job_id.replace("-", "_"))
+    product_tier = out.get("product_tier") or (
+        (product.get("default_product_tiers") or ["context"])[0]
+    )
+    page_count = out.get("page_count") or source.get("expected_page_count")
+    if page_count is not None:
+        page_count = int(page_count)
+    pages_attr = f" pages=1-{page_count}" if page_count else ""
+
+    return {
+        "title": title,
+        "document_id": doc_id,
+        "product_tier": product_tier,
+        "page_count": page_count,
+        "pages_attr": pages_attr,
+        "navigation": list(out.get("navigation") or []),
+        "products": dict(out.get("products") or {}),
+    }
+
 
 def merge_markdown() -> str:
+    shell = _document_shell()
     parts = [
-        "# CEFR Companion Volume\n",
-        "<!-- db:id=cefr_companion_volume type=document product_tier=context pages=1-278 -->\n",
+        f"# {shell['title']}\n",
+        (
+            f"<!-- db:id={shell['document_id']} type=document "
+            f"product_tier={shell['product_tier']}{shell['pages_attr']} -->\n"
+        ),
     ]
     for md in sorted(cfg.CLEANED_DIR.glob("chunk_*.md")):
         text = md.read_text(encoding="utf-8")
@@ -29,50 +66,25 @@ def merge_markdown() -> str:
     print(f"Wrote {out}")
     return str(out)
 
+
 def build_manifest() -> dict:
     artifacts = build_registry()
-    navigation = [
-        {"id": "foreword", "title": "Foreword", "page": 11},
-        {"id": "chapter-1", "title": "Chapter 1: The CEFR in the light of its update", "page": 13},
-        {"id": "chapter-2", "title": "Chapter 2: Key aspects of the CEFR", "page": 27},
-        {"id": "chapter-3", "title": "Chapter 3: Communicative language activities and strategies", "page": 47},
-        {"id": "chapter-4", "title": "Chapter 4: Plurilingual and pluricultural competence", "page": 123},
-        {"id": "chapter-5", "title": "Chapter 5: Communicative language competences", "page": 129},
-        {"id": "chapter-6", "title": "Chapter 6: Signing competences", "page": 143},
-        {"id": "appendices", "title": "Appendices", "page": 171},
-    ]
-
-    products = {
-        "self_assessment_base": {
-            "artifact_id": "table_self_assessment_grid",
-            "display_name": "Self-Assessment Grid (Expanded with Online Interaction and Mediation)",
-            "pages": [177, 181],
-            "product_tier": "base",
-        },
-        "assessment_action_plan": {
-            "description": "Descriptor scales for assessment with action planning",
-            "product_tier": "assessment_action",
-        },
-        "detailed_assessment": {
-            "description": "Individual illustrative descriptor scales (à la carte)",
-            "product_tier": "detailed",
-        },
-    }
+    shell = _document_shell()
 
     manifest = {
-        "title": "CEFR Companion Volume",
-        "page_count": 278,
-        "navigation": navigation,
-        "products": products,
+        "title": shell["title"],
+        "page_count": shell["page_count"],
+        "navigation": shell["navigation"],
+        "products": shell["products"],
         "artifact_count": len(artifacts),
+        "job_id": require_active_job().job_id,
     }
     path = cfg.FINAL_DIR / "manifest.json"
     path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     return manifest
 
-def build_db_registry() -> list[dict]:
-    
 
+def build_db_registry() -> list[dict]:
     artifacts = build_registry()
     render_by_id = {f["id"]: f["render_as"] for f in load_figures_registry()}
     records = []
@@ -94,6 +106,7 @@ def build_db_registry() -> list[dict]:
     path.write_text(json.dumps(records, indent=2), encoding="utf-8")
     print(f"Wrote {path} ({len(records)} records)")
     return records
+
 
 def run_merge():
     merge_markdown()

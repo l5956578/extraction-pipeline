@@ -530,6 +530,13 @@ def _artifact_for_table_title(
     return None
 
 def _merge_multipage_body(gid: str, page_nums: list[int], art: ArtifactMeta | None, pdf_path) -> str:
+    from pipeline.config import feature_enabled
+
+    # When multipage_merge is off, extract the first page only (no cross-page join).
+    if not feature_enabled("multipage_merge"):
+        indices = [page_nums[0] - 1] if page_nums else []
+        return merge_pdfplumber_tables(indices, pdf_path) if indices else ""
+
     if gid in cfg.MULTIPAGE_ARTIFACTS:
         mp = cfg.MULTIPAGE_ARTIFACTS[gid]
         indices = list(range(mp["page_start"] - 1, mp["page_end"]))
@@ -551,12 +558,23 @@ def _extract_span_body(
     gid = span["group_id"]
     art = ctx.art_by_id.get(gid) or ctx.art_by_id.get(el.get("artifact_id", ""))
 
+    from pipeline.config import feature_enabled
+
     if el.get("extractor") == "section_block_merge":
+        if not feature_enabled("multipage_merge"):
+            # Single-page geometry for the span start only.
+            return merge_section_block(doc, page_nums[:1] or page_nums, cfg.PDF_PATH)
         return merge_section_block(doc, page_nums, cfg.PDF_PATH)
 
     if el.get("text_direction") == "ocr" or el.get("extractor") == "rotated_table":
+        if not feature_enabled("rotated_tables"):
+            return (
+                f"<!-- ROTATED_TABLES_DISABLED pages="
+                f"{page_nums[0]}-{page_nums[-1]} gid={gid} -->\n"
+            )
         method = el.get("rotated_extraction_method") or "grok_vision"
-        if method == "grok_vision":
+        use_vision = method == "grok_vision" and feature_enabled("agent_vision")
+        if use_vision:
             from pipeline.extractors.rotated_grok_vision import extract_rotated_span_via_grok
 
             title = fix_rotated_title(
@@ -578,7 +596,7 @@ def _extract_span_body(
                 f"<!-- AGENT_VISION_PENDING geometry_fallback pages="
                 f"{page_nums[0]}-{page_nums[-1]} gid={gid} -->\n{geo}"
             )
-        # Explicit geometry / hybrid override
+        # Explicit geometry / hybrid override, or agent_vision feature off
         return merge_rotated_pages(doc, page_nums, cfg.PDF_PATH, rotation=el.get("rotation", 90))
 
     return _merge_multipage_body(gid, page_nums, art, cfg.PDF_PATH)
@@ -656,8 +674,14 @@ def _extract_single_table(
     ctx: _ExtractContext,
 ) -> str:
     if el.get("extractor") == "rotated_table" or el.get("text_direction") == "ocr":
+        from pipeline.config import feature_enabled
+
+        if not feature_enabled("rotated_tables"):
+            gid = el.get("artifact_id") or "unknown"
+            return f"<!-- ROTATED_TABLES_DISABLED page={page_num} gid={gid} -->\n"
         method = el.get("rotated_extraction_method") or "grok_vision"
-        if method == "grok_vision":
+        use_vision = method == "grok_vision" and feature_enabled("agent_vision")
+        if use_vision:
             from pipeline.extractors.rotated_grok_vision import extract_single_rotated_via_grok
 
             gid = el.get("artifact_id") or "unknown"

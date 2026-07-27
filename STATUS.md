@@ -323,7 +323,7 @@ Vision markdown for all **88**: `work/cefr-companion-2020/metadata/rotated_from_
 
 ### Full rebuild (slow: minutes–tens of minutes)
 
-Default job is `cefr-companion-2020` when `--job` is omitted (Phase A). Paths below use that job id.
+`--job` is **required** on every CLI (no default). Companion example id: `cefr-companion-2020`.
 
 ```bash
 python run_pipeline.py --job cefr-companion-2020 --step spans

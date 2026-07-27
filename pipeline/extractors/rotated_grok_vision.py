@@ -553,6 +553,22 @@ def prepare_all_rotated_from_inventories(
     force: bool = False,
 ) -> list[dict[str, Any]]:
     """Scan inventories; prepare PNG handoff for every page in each rotated span."""
+    from pipeline.config import feature_enabled
+
+    if not feature_enabled("rotated_tables"):
+        print(
+            "prepare_rotated: skipped (extraction.features.rotated_tables is false)",
+            flush=True,
+        )
+        return []
+    if not feature_enabled("agent_vision"):
+        print(
+            "prepare_rotated: skipped (extraction.features.agent_vision is false; "
+            "geometry/OCR path only)",
+            flush=True,
+        )
+        return []
+
     inv_dir = inventories_dir or _cfg.INVENTORIES_DIR
     prepared: list[dict[str, Any]] = []
     seen_slugs: set[str] = set()

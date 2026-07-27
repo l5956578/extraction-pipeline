@@ -145,6 +145,15 @@ def update_db_registry():
     reg_path.write_text(json.dumps(records, indent=2), encoding="utf-8")
 
 def run_apply_figures():
+    from pipeline.config import feature_enabled
+
+    if not feature_enabled("figures"):
+        return {
+            "figures_applied": 0,
+            "skipped": True,
+            "reason": "extraction.features.figures is false",
+            "path": str(final_markdown_path()),
+        }
     md = final_markdown_path()
     result = apply_figures_to_markdown(md)
     update_db_registry()

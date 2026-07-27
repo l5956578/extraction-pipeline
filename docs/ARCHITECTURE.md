@@ -39,7 +39,14 @@ extraction-pipeline/
 - **No import-time load** — importing `pipeline.config` does not select a job (`get_active_job()` is `None` until bootstrap).
 - **Access pattern:** `import pipeline.config as cfg` then `cfg.PDF_PATH` / `cfg.FINAL_DIR` / `cfg.TOC_PAGE_RANGE` at **call time**. Do not `from pipeline.config import PDF_PATH` (freezes the binding).
 - **Layout SoT:** `input/<job>/job.json` + `profiles/<profile>.json` only (no Python `_DEFAULT_*` dual-write).
-- **Feature flags:** `extraction.features` (e.g. `callouts`) via `feature_enabled("callouts")`; Companion-hardcoded adjacent gates skip for other profiles.
+- **Feature flags:** `extraction.features` via `feature_enabled(name)`:
+  - `callouts` — blue-box detect + narrative/bbox callout emit
+  - `figures` — `run_apply_figures` stage
+  - `rotated_tables` / `agent_vision` — rotated extract + PNG prepare
+  - `multipage_merge` — cross-page table/section joins
+  - Companion-hardcoded adjacent gates: `profile == "cefr_companion"` (or `adjacent_companion_snippets`)
+- **Document shell:** merge H1 / `db:id` / navigation / products from `job.json` `output` (not engine hardcodes).
+- **Profile required:** `job.json` must declare `profile`; missing profile no longer defaults to Companion.
 - **One process ≈ one load:** same `job_id` returns a cached context; pass `load_job(id, reload=True)` after editing sidecars.
 
 CLI: `run_pipeline.py --job <id>`, `run_production_extract.py --job <id>`, `iterate_format.py --job <id>`.

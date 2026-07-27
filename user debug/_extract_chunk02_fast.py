@@ -1,19 +1,30 @@
-"""Fast chunk_02 extract without full-book span registry (local smoke only)."""
+"""Fast chunk_02 extract without full-book span registry (local smoke only).
+
+Phase B: bootstrap a job before reading path attributes.
+"""
 from __future__ import annotations
 
 import json
+import sys
 import time
 from pathlib import Path
 
+ROOT = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(ROOT))
+
 import fitz
 
-from pipeline.config import INVENTORIES_DIR, PDF_PATH, RAW_DIR
+from pipeline.bootstrap import bootstrap_job
+import pipeline.config as cfg
 from pipeline.extract_chunk import _ExtractContext, _el_fence, _extract_element
 
 
 def main() -> None:
-    inv = json.loads((INVENTORIES_DIR / "chunk_02_inventory.json").read_text(encoding="utf-8"))
-    doc = fitz.open(PDF_PATH)
+    bootstrap_job("cefr-companion-2020")
+    inv = json.loads(
+        (cfg.INVENTORIES_DIR / "chunk_02_inventory.json").read_text(encoding="utf-8")
+    )
+    doc = fitz.open(cfg.PDF_PATH)
     ctx = _ExtractContext({}, {})
     parts = [f"# chunk_02 (pages {inv['start_page']}-{inv['end_page']})\n"]
     t0 = time.time()
@@ -36,8 +47,8 @@ def main() -> None:
             parts.append(block)
     doc.close()
     content = "\n".join(parts)
-    RAW_DIR.mkdir(parents=True, exist_ok=True)
-    out = RAW_DIR / "chunk_02.md"
+    cfg.RAW_DIR.mkdir(parents=True, exist_ok=True)
+    out = cfg.RAW_DIR / "chunk_02.md"
     out.write_text(content, encoding="utf-8")
     print(f"Extracted {out.name} ({len(content)} chars) in {time.time() - t0:.1f}s", flush=True)
 

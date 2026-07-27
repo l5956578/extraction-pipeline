@@ -249,12 +249,19 @@ def load_job(job_id: str, *, reload: bool = False) -> JobContext:
             f"Job {resolved_id!r} has source.pdf but missing required {job_path}"
         )
 
-    profile_name = job_data.get("profile") or "cefr_companion"
+    profile_name = job_data.get("profile")
+    if not profile_name or not str(profile_name).strip():
+        raise ValueError(
+            f"job.json for {resolved_id!r} must declare a non-empty \"profile\" "
+            f"(e.g. \"cefr_companion\"). No silent Companion default."
+        )
+    profile_name = str(profile_name).strip()
     profile_path = PROFILES_DIR / f"{profile_name}.json"
     profile_data = _load_json(profile_path)
-    if not profile_data and not profile_path.exists():
-        # Soft: empty profile is ok if job is self-contained
-        profile_data = {}
+    if not profile_path.exists():
+        raise FileNotFoundError(
+            f"Profile {profile_name!r} for job {resolved_id!r} not found at {profile_path}"
+        )
 
     profile_extraction = profile_data.get("extraction") or {}
     job_extraction = job_data.get("extraction") or {}

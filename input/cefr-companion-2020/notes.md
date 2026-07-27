@@ -17,10 +17,10 @@
 - Known-good re-apply fixes: `docs/RESOLVED_EXTRACTION_ISSUES.md` (RIE) + match protocol
 - Architecture: `docs/ARCHITECTURE.md`
 
-## CLI (Phase A)
+## CLI (Phase B)
 
 ```bash
 python run_pipeline.py --job cefr-companion-2020 --step all
 python iterate_format.py --job cefr-companion-2020
-# --job defaults to cefr-companion-2020 when omitted (Phase A only)
+# --job is required on all entry scripts (no silent default)
 ```

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import re
+from pathlib import Path
 from typing import Any
 
 import fitz
@@ -257,9 +258,12 @@ def _artifact_element(
     art: Any | None,
     span_info: dict | None,
     table_index: int = 0,
-    pdf_path=cfg.PDF_PATH,
+    pdf_path: Path | None = None,
     attach_span: bool = False,
 ) -> dict[str, Any]:
+    # Resolve at call time — never freeze cfg.PDF_PATH in the default arg.
+    if pdf_path is None:
+        pdf_path = cfg.PDF_PATH
     display_title = None
     artifact_id = None
     artifact_type = "descriptor_scale"
@@ -758,12 +762,15 @@ def _span_continuation_order(
 def build_reading_order(
     page_num: int,
     page: fitz.Page,
-    pdf_path=cfg.PDF_PATH,
+    pdf_path: Path | None = None,
     span_info: dict | None = None,
     art: Any | None = None,
     content_type: str = "mixed",
 ) -> list[dict[str, Any]]:
     """Return ordered extractable elements for one PDF page."""
+    # Resolve at call time — never freeze cfg.PDF_PATH in the default arg.
+    if pdf_path is None:
+        pdf_path = cfg.PDF_PATH
     if page_num in cfg.TOC_PAGE_RANGE:
         return [{"seq": 0, "type": "toc", "extractor": "toc_layout"}]
 
