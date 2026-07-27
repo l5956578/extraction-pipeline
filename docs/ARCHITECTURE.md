@@ -70,6 +70,8 @@ Paths below are relative to the **active job** (`work/<job-id>/`, `output/<job-i
 6. figures    apply_figures (inject diagrams / PNG refs)
 7. format     pipeline/post_process.py (in-place on final MD)
 8. validate   output_validator / validators
+9. job_manifest  pipeline/job_manifest.py → JOB_MANIFEST.json + product_context.json
+                 (also after format-only; job-level product tags + registry pointer)
 ```
 
 Orchestration: `run_pipeline.py`  

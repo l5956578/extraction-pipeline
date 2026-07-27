@@ -113,6 +113,7 @@ def run_merge():
     build_manifest()
     build_db_registry()
     from pipeline.apply_figures import run_apply_figures
+    from pipeline.job_manifest import write_job_manifest
     from pipeline.output_validator import validate_final_output
     from pipeline.post_process import run_post_process
 
@@ -140,3 +141,5 @@ def run_merge():
         )
     else:
         print("Contract validation: passed")
+    # Refresh job-level promotion/ETL envelope (does not alter registry array).
+    write_job_manifest()

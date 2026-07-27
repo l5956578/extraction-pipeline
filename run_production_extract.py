@@ -58,6 +58,16 @@ def main() -> None:
     except Exception as exc:  # noqa: BLE001
         _log(f"postprocess: {exc}")
 
+    # JOB_MANIFEST is also written inside post_process / run_merge; ensure once more
+    # so production extract always leaves a current envelope even if postprocess skips.
+    try:
+        from pipeline.job_manifest import write_job_manifest
+
+        _log("=== JOB_MANIFEST ===")
+        _log(write_job_manifest(ctx))
+    except Exception as exc:  # noqa: BLE001
+        _log(f"job_manifest: {exc}")
+
     final = ctx.final_markdown
     t = final.read_text(encoding="utf-8")
     pages = re.findall(r"<!-- page:(\d+) -->", t)

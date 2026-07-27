@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "job_id": "cefr-companion-2020",
+  "title": "CEFR Companion Volume (EN 2020)",
+  "product": {
+    "framework": "cefr",
+    "audiences": [
+      "coach",
+      "student_portal",
+      "storehouse"
+    ],
+    "default_product_tiers": [
+      "context"
+    ],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "layers": {
+    "job_level": {
+      "source": "input/cefr-companion-2020/job.json → product",
+      "fields": [
+        "framework",
+        "audiences",
+        "default_product_tiers",
+        "skill_categories",
+        "promotion_target"
+      ]
+    },
+    "artifact_level": {
+      "source": "output/cefr-companion-2020/db_import_registry.json",
+      "shape": "array",
+      "field": "product_tiers",
+      "tier_vocabulary": [
+        "base",
+        "assessment_action",
+        "detailed",
+        "context"
+      ],
+      "record_count": 125
+    }
+  },
+  "db_import_registry": "db_import_registry.json",
+  "job_manifest": "JOB_MANIFEST.json"
+}

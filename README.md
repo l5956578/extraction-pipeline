@@ -88,10 +88,14 @@ CLI: `--job <id>` is **required** on all entry scripts (Phase B). Layout lives i
 |------|-------------|
 | `output/cefr-companion-2020/CEFR_Companion_Volume.md` | Final Markdown deliverable |
 | `output/cefr-companion-2020/manifest.json` | Navigation + product catalog |
-| `output/cefr-companion-2020/db_import_registry.json` | Artifact registry for ETL |
+| `output/cefr-companion-2020/db_import_registry.json` | Artifact registry for ETL (JSON **array**; per-row `product_tiers`) |
+| `output/cefr-companion-2020/JOB_MANIFEST.json` | Job-level promotion envelope + business tags (`product` from job.json) |
+| `output/cefr-companion-2020/product_context.json` | Job-level product + pointer to registry (does not wrap the array) |
 | `output/cefr-companion-2020/assets/figures/` | Figure assets |
 
-Promotion (platform): **copy** from `output/<job-id>/` → `lang-platform/staging/pending/extraction-pipeline/<job-id>/` (see monorepo `docs/PROMOTION.md`). Do not promote intermediates.
+**Phase D business tags:** job-level tags live in `input/<job-id>/job.json` → `product` (framework, audiences, default_product_tiers, skill_categories, promotion_target) and are re-emitted into `JOB_MANIFEST.json` / `product_context.json` by `pipeline/job_manifest.write_job_manifest`. Per-artifact `product_tiers` stay on each `db_import_registry.json` row. Regenerated after merge / format / production extract.
+
+Promotion (platform): **copy** from `output/<job-id>/` (including JOB_MANIFEST) → `lang-platform/staging/pending/extraction-pipeline/<job-id>/`; then to `production/<product.promotion_target>/` (Companion: `resources/cefr` → `production/resources/cefr/`). See monorepo `docs/PROMOTION.md`. Do not promote intermediates. Default action is **copy**.
 
 ---
 

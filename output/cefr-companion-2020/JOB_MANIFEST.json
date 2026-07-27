@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "job_id": "cefr-companion-2020",
+  "title": "CEFR Companion Volume (EN 2020)",
+  "status": "pipeline_output",
+  "job_status": "active",
+  "profile": "cefr_companion",
+  "version": "2026-07-27",
+  "generated_at": "2026-07-27T20:35:05+00:00",
+  "product": {
+    "framework": "cefr",
+    "audiences": [
+      "coach",
+      "student_portal",
+      "storehouse"
+    ],
+    "default_product_tiers": [
+      "context"
+    ],
+    "skill_categories": [],
+    "promotion_target": "resources/cefr"
+  },
+  "source": {
+    "file": "source.pdf",
+    "original_filename": "CEFR Companion Volume_eng.pdf",
+    "published_filename": "4-CEFR-Companion-Volume-EN-2020.pdf",
+    "sha256": "BFBD8C74090419AC4B9B352D6BA26E180713B31F45265D7D775B7C36DD7AD1B1",
+    "hash_verified_against": "4-CEFR-Companion-Volume-EN-2020.pdf",
+    "hash_verified_at": "2026-07-27",
+    "hash_match": true,
+    "expected_page_count": 278,
+    "language": "en"
+  },
+  "markdown": "CEFR_Companion_Volume.md",
+  "markdown_exists": true,
+  "assets": {
+    "figures_dir": "assets/figures",
+    "tables_dir": "assets/tables",
+    "figures": [
+      "assets/figures/figure_02_reception_production_interaction_mediation.png",
+      "assets/figures/figure_03_cefr_common_reference_levels.png",
+      "assets/figures/figure_04_rainbow.png",
+      "assets/figures/figure_05_conventional_six_colours.png",
+      "assets/figures/figure_06_fictional_profile_clil.png",
+      "assets/figures/figure_07_profile_postgraduate_sciences.png",
+      "assets/figures/figure_08_plurilingual_proficiency_fewer_categories.png",
+      "assets/figures/figure_09_overall_proficiency_one_language.png",
+      "assets/figures/figure_10_plurilingual_oral_comprehension.png"
+    ],
+    "tables": [],
+    "figure_count": 9,
+    "table_count": 0
+  },
+  "files": {
+    "db_import_registry": "db_import_registry.json",
+    "manifest": "manifest.json",
+    "product_context": "product_context.json",
+    "job_manifest": "JOB_MANIFEST.json"
+  },
+  "db_import_registry": {
+    "path": "db_import_registry.json",
+    "shape": "array",
+    "record_count": 125,
+    "note": "Per-artifact product_tiers live on each registry row. Job-level tags are under this manifest's product block (and product_context.json)."
+  },
+  "key_files": [
+    "CEFR_Companion_Volume.md",
+    "JOB_MANIFEST.json",
+    "product_context.json",
+    "manifest.json",
+    "db_import_registry.json",
+    "assets/figures/",
+    "assets/tables/"
+  ],
+  "promotion": {
+    "lifecycle_status": "pipeline_output",
+    "source_output": "output/cefr-companion-2020/",
+    "staging_pending": "staging/pending/extraction-pipeline/cefr-companion-2020/",
+    "promotion_target": "resources/cefr",
+    "production_resources": "production/resources/cefr",
+    "default_action": "copy"
+  }
+}

@@ -75,6 +75,7 @@ def main() -> None:
     from pipeline.post_process import run_post_process
 
     _log("=== postprocess (format only) ===")
+    # run_post_process also regenerates JOB_MANIFEST.json / product_context.json
     result = run_post_process()
     elapsed = time.perf_counter() - t0
     _log(f"Done in {elapsed:.1f}s")

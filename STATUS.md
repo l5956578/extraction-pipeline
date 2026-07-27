@@ -25,13 +25,32 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase C follow-up: engine-ready CLI gate + classic profile conservative) |
+| **Last updated** | 2026-07-27 (Phase D: JOB_MANIFEST + product_context for promotion / ETL) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
 | **Source PDF** | `input/cefr-companion-2020/source.pdf` (orig: `CEFR Companion Volume_eng.pdf`; published: `4-CEFR-Companion-Volume-EN-2020.pdf`; SHA256 match verified) |
 | **Sidecars** | `input/<job-id>/job.json`, `profiles/*.json` |
-| **Deliverables** | `output/<job-id>/` — MD + assets + registries (draft jobs empty) |
+| **Deliverables** | `output/<job-id>/` — MD + assets + registries + **JOB_MANIFEST.json** + **product_context.json** (draft jobs empty) |
+
+### Phase D — JOB_MANIFEST & business tags (2026-07-27)
+
+| Item | Detail |
+|------|--------|
+| **Writer** | `pipeline/job_manifest.py` → `write_job_manifest(ctx)` |
+| **Outputs** | `output/<job-id>/JOB_MANIFEST.json`, `output/<job-id>/product_context.json` |
+| **Hooks** | After merge (`run_merge`), after format (`run_post_process` / `iterate_format.py`), after full production extract |
+| **Lifecycle status** | `pipeline_output` = ready for **copy** into `staging/pending/extraction-pipeline/<job-id>/` |
+| **Promotion docs** | Monorepo [`docs/PROMOTION.md`](../../docs/PROMOTION.md) extraction section |
+
+**Business tags — two layers (do not break registry array contract):**
+
+| Layer | Source | Contents |
+|-------|--------|----------|
+| **Job-level** | `input/<job-id>/job.json` → `product` (copied into JOB_MANIFEST + product_context) | `framework`, `audiences`, `default_product_tiers`, `skill_categories`, `promotion_target` |
+| **Artifact-level** | each row of `output/<job-id>/db_import_registry.json` | `product_tiers` e.g. `base` / `assessment_action` / `detailed` / `context` |
+
+`db_import_registry.json` remains a JSON **array**. Job-level tags are **not** stuffed into that array; consumers read JOB_MANIFEST / product_context for job tags and the registry for per-artifact tiers.
 
 ---
 
