@@ -5,8 +5,7 @@
   "status": "pipeline_output",
   "job_status": "active",
   "profile": "cefr_companion",
-  "version": "2026-07-27",
-  "generated_at": "2026-07-27T20:35:05+00:00",
+  "generated_at": "2026-07-27T20:40:09+00:00",
   "product": {
     "framework": "cefr",
     "audiences": [
@@ -69,8 +68,7 @@
     "product_context.json",
     "manifest.json",
     "db_import_registry.json",
-    "assets/figures/",
-    "assets/tables/"
+    "assets/figures/"
   ],
   "promotion": {
     "lifecycle_status": "pipeline_output",

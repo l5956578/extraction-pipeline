@@ -24,7 +24,8 @@
         "default_product_tiers",
         "skill_categories",
         "promotion_target"
-      ]
+      ],
+      "note": "Stable keys are always present (lists default to []). Additional keys from job.json product pass through."
     },
     "artifact_level": {
       "source": "output/cefr-companion-2020/db_import_registry.json",

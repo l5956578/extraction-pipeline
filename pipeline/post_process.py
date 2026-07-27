@@ -2099,12 +2099,10 @@ def run_post_process(
         before_hash=before_hash,
     )
     # Keep JOB_MANIFEST / product_context current after format-only runs.
-    try:
-        from pipeline.job_manifest import write_job_manifest
+    # Fail loudly: envelope write errors must not look like a clean format success.
+    from pipeline.job_manifest import write_job_manifest
 
-        write_job_manifest()
-    except Exception as exc:  # noqa: BLE001 — format must not fail if envelope write fails
-        print(f"job_manifest skip: {exc}")
+    write_job_manifest()
     return {
         "input_lines": len(raw_bytes.decode("utf-8").splitlines()),
         "output_lines": len(cleaned.splitlines()),

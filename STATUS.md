@@ -47,10 +47,12 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | Layer | Source | Contents |
 |-------|--------|----------|
-| **Job-level** | `input/<job-id>/job.json` → `product` (copied into JOB_MANIFEST + product_context) | `framework`, `audiences`, `default_product_tiers`, `skill_categories`, `promotion_target` |
+| **Job-level** | `input/<job-id>/job.json` → `product` (copied into JOB_MANIFEST + product_context) | Stable keys: `framework`, `audiences`, `default_product_tiers`, `skill_categories`, `promotion_target` (+ any extra product keys pass through) |
 | **Artifact-level** | each row of `output/<job-id>/db_import_registry.json` | `product_tiers` e.g. `base` / `assessment_action` / `detailed` / `context` |
 
 `db_import_registry.json` remains a JSON **array**. Job-level tags are **not** stuffed into that array; consumers read JOB_MANIFEST / product_context for job tags and the registry for per-artifact tiers.
+
+**Envelope timestamps:** `generated_at` (UTC ISO-8601 write time) only — not a content version. Optional `content_version` is emitted only if set on the job sidecar. `write_job_manifest` failures **raise** (format/merge/production paths do not swallow them).
 
 ---
 
