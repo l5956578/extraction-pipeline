@@ -1,0 +1,507 @@
+<!-- page:3 -->
+Waystage 1990
+Council of Europe
+Conseil de l'Europe y x y
+x *
+* x
+* *
+wk yk
+J. A. van Ek and J. L. M. Trim
+3 CAMBRIDGE
+9) UNIVERSITY PRESS
+
+
+<!-- page:4 -->
+CAMBRIDGE UNIVERSITY PRESS
+
+Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, Sao Paulo
+Cambridge University Press
+
+The Edinburgh Building, Cambridge CB2 8RU, UK
+
+Published in the United States of America by Cambridge University Press, New York
+www.cambridge.org
+
+Information on this title: www.cambridge.org/9780521567077
+
+First published as Waystage 1990 by J.A. van Ek and J.L.M. Trim
+
+© Council of Europe 1991
+
+This revised and corrected edition first published 1998
+
+© Council of Europe
+
+This publication is in copyright. Subject to statutory exception
+
+and to the provisions of relevant collective licensing agreements,
+
+no reproduction of any part may take place without the written
+
+permission of Cambridge University Press.
+
+A catalogue record for this publication is available from the British Library
+ISBN 978-0-521-56707-7 paperback
+
+Transferred to digital printing 2007
+
+
+<!-- page:5 -->
+v
+
+Contents
+Page
+Preface 1
+Introduction 4
+1 The objective: description 10
+2 Components of the specification 12
+3 Language functions 15
+4 General notions 22
+5 Themes and specific notions 30
+6 Dealing with texts: reading and listening 42
+7 Writing 45
+8 Sociocultural competence 46
+9 Verbal exchange patterns 50
+10 Compensation strategies 56
+11 Learning to learn 60
+12 Degree of skill 65
+
+APPENDICES
+
+A Pronunciation and intonation 68
+B Grammatical summary 75
+C_ Word index 95,
+D_ Subject index 106
+
+
+<!-- page:6 -->
+
+
+<!-- page:7 -->
+1
+Preface
+Waystage 1990 is the latest, thoroughly revised, extended, corrected and
+reset version of Waystage: an intermediary objective below Threshold Level in
+a European unit/credit system of modern language learning by adults byJ. A.
+van Ek and L. G. Alexander, in association with M. A. Fitzpatrick. This
+work was first published by the Council of Europe in 1977 and
+republished in 1980 by Pergamon Press for and on behalf of the Council
+of Europe under the title Waystage English.
+Waystage was originally conceived in the context of the preparation for
+the broadcast-led Anglo-German multimedia co-production Follow Me.
+Overall, Follow Me was originally planned as a two-year English
+language course for use by the DVV (Deutscher Volkshochschulverband) in
+its adult education classes. The final objective was set as The Threshold
+Level, first produced for the Council of Europe by Dr J. A. van Ek, which
+sets down in specific detail, exemplified for English, what a language
+user needs to do by means of language in order to ‘communicate
+socially with people from other countries, exchanging information
+and opinion on everyday matters in a relatively straightforward way,
+and to conduct the necessary business of everyday living when abroad
+with a reasonable degree of independence’ (preface to Threshold, CUP
+1998). An experiment conducted in Vienna Volkshochschulen showed that
+the full attainment of this objective under the normal conditions of
+adult education would take a full two years. Yet, realistically, it was
+likely that local conditions would oblige broadcasting and education
+authorities in many countries to use only the first year of the course.
+Together with the Follow Me course designers, van Ek therefore
+examined carefully the content of The Threshold Level and extracted what
+were considered to be the most basic categories within each of its
+parameters ~ the most essential situations, topics and functions,
+inescapable general notions and their simplest and most basic lexical
+and grammatical exponents to enable the learners to cope at least
+minimally in those communicative situations which may be most
+directly relevant to them. This specification then provided the basis for
+the first year Follow Me course design drawn up for the Council of
+Europe by L. G. Alexander. At first Waystage was not considered a
+legitimate terminal objective in its own right, but rather as one of
+many possible intermediate objectives on the way to threshold level.
+However, by 1980, experience with Waystage had shown that whilst ‘we
+should not favour a “minimalism” which saw this first objective as a
+terminal goal for the mass of learners, it has in fact a coherence and
+breadth which make it a worthwhile objective in its own right’.
+(Waystage English p. viii) Learners who for one reason or another have
+only a strictly limited amount of time available for learning English
+will find its ‘cost-effectiveness’ very high.
+
+
+<!-- page:8 -->
+2 PREFACE
+In broadcasting terms, Follow Me was highly successful. First broadcast
+in 1979 to Germany, Austria and Switzerland, it has now been shown in
+some 70 countries to a combined audience of several hundred million
+learners. The success of this venture in international co-planning and
+co-production (notoriously difficult to achieve) was due, on the one
+hand, to the high professional expertise of the many partners involved
+in the planning, production, distribution and use of TV, radio and
+printed components, and on the other to what proved to be the
+universal relevance to language learners of the functional/notional
+framework set out in Waystage. However, no media product has an
+unlimited life. By 1989, it was time to plan for a replacement series,
+which BBC English again wished to situate in an international context
+under Council of Europe auspices. Meanwhile, a considerable amount
+of work had taken place within successive Council of Europe Modern
+Languages Projects towards the development of an enriched model for
+the specification of language teaching objectives, resulting in the
+publication in 1986-7 of J. A. van Ek’s two-volume study on Objectives for
+Foreign Language Learning. The revision of the original threshold level
+specification as applied to English, ‘to take account of developments in
+the fifteen years since it was conceived as a first pioneering
+experiment’ was included among the priority areas and themes for the
+Council for Cultural Co-operation programme Language Learning for
+European Citizenship initiated in 1989. BBC English expressed their
+willingness to support revision of The Threshold Level and also of
+Waystage, which would follow similar lines. A similar willingness was
+expressed by the University of Cambridge Local Examinations
+Syndicate in view of the relevance of this revision to their continuing
+programme of examination reform and by the British Council in the
+light of its more general concern for curriculum development in the
+teaching of English as a foreign language. A thorough revision was
+accordingly undertaken and carried out in 1989-90 and published by
+the Council of Europe in 1991. That version forms the basis for the
+present publication, which has been further revised, corrected and
+reset.
+The authors wish to acknowledge here with gratitude the support
+received from BBC English, UCLES, the British Council and the Council
+of Europe. We also wish to acknowledge our continuing indebtedness
+to L.G. Alexander and M. A. Fitzpatrick for the skill and judgement
+they brought to the fundamental task of honing down the original
+Threshold Level specification to produce the compact yet comprehensive
+Waystage. The results of that work are still apparent in the selection of
+functional and notional categories for Waystage.
+Furthermore, van Ek’s words in his introduction to Objectives for Foreign
+Language Learning are as relevant to Waystage as to Threshold Level: it is
+‘one of the results of many years of intensive collaboration and genuine
+interaction with colleagues from several European countries brought
+
+
+<!-- page:9 -->
+PREFACE 3
+together in the framework of successive modern language projects of
+the Council of Europe. The number of those who in some way or other,
+directly or indirectly, have contributed to our study is so large that we
+can only say to them collectively. “Thank you all”.’
+J. A. van Ek
+J.L.M.Trim
+
+
+<!-- page:10 -->
+4
+Introduction
+1 Target population and relation to
+
+Threshold 1990
+
+Waystage 1990 is an early learning objective designed for those who are
+interested in acquiring a general basic ability in English but who are
+unable or unwilling to commit themselves from the outset to an
+expenditure of time and energy that would take them to the level of
+competence described in a separate publication called Threshold 1990.
+Any learning objective is necessarily based on considerations of
+desirability and feasibility, the latter aspect providing the limits of the
+extent to which the former can be realised. What is, in our view,
+desirable for learners to be able to do in and with the foreign language,
+so as to be in a position to achieve the full mobility that a command of
+English may provide, is described by us in Threshold 1990. It has to be
+recognised, however, that for many beginning learners - and
+particularly for those with (only) little educational experience - the
+feasibility of mastering the learning load represented by that objective
+may seem to be very doubtful indeed. At the same time it cannot be
+denied that the achievement of a lower level of ability than threshold
+level might be of considerable value to them. Rather than deterring
+these potential learners by asking them to set their sights higher than
+they would consider to be reasonable, we would propose to them a
+reduced learning load of a weight which past experience has indicated
+to be generally acceptable and also manageable within a comparatively
+short time. Waystage 1990, then, is the result of our attempt to derive
+from Threshold 1990 a less demanding objective based on the same
+model and containing the same components. In spite of heavy
+reduction this objective should go a long way towards enabling the
+learners to satisfy their most urgent communication needs. The
+learning load involved is estimated to be about half of that required by
+Threshold 1990, which means that we think that, with proper guidance,
+the average learner should be able to master it in some 180-200
+learning hours, including independent work.
+The original Waystage, first published by the Council of Europe in 1977,
+was primarily designed as a halfway level, a point of articulation for
+courses leading up to threshold level. That it might also be a
+worthwhile objective in its own right was only a secondary
+consideration.
+Meanwhile it has become clear that for many learners the achievement
+of a level at this height is a thoroughly satisfying experience and that,
+in fact, a large number of them may not feel the need to go much
+
+
+<!-- page:11 -->
+INTRODUCTION 5
+beyond this in the same language. We have taken this into account in
+designing Waystage 1990. It is now primarily meant as a worthwhile
+objective in its own right and secondarily as an intermediate objective
+on the way towards threshold level. It remains a rigorous selection
+from Threshold Level, in this case Threshold 1990, but the consideration of
+immediate usefulness and widest possible scope has been paramount
+in this selection. Nevertheless, as the name indicates, it has also been
+conceived as a station on the way to Threshold 1990. In fact, containing
+all the components that also constitute the higher level, it will allow
+the smoothest possible transition to further learning for Threshold 1990.
+There can be no doubt that this transition will be made by many
+learners. We expect that the successful completion of a Waystage
+programme will be a strong incentive for the undertaking of the
+further learning effort required in order to reach the higher objective,
+and we also expect that this will be true for many learners who, at first,
+had no intention to do so.
+
+2 Economy
+
+What, at Waystage, the learners are supposed to be able to do in the
+foreign language is described in general terms in Chapter 1 of this
+document. The rest of it contains the specification of this ability. This
+specification will make it clear that, in spite of the modest height of
+Waystage 1990, the linguistic and other resources that the learners have
+at their disposal at this level will, in fact, give them a fairly wide range
+of action in the foreign language. This is largely due to the economy
+that has been practised in the selection of the learning content. This
+has invariably been chosen with a view to giving the widest
+communicative range with the simplest means. One consequence of
+the application of this criterion has been the inclusion of a fairly
+comprehensive grammatical apparatus. It is a characteristic of
+grammar that with a limited number of elements it provides the
+means for large numbers of combinations and variations. The
+acquisition of a grammatical system, even if at this level this can only
+bea restricted system, is, consequently, to be regarded as a highly
+productive - and economical - activity.
+
+3 Flexibility and adaptability
+
+Waystage 1990 has been designed for the largest single target group that
+may be identified, that of general beginners. A single objective for a
+target group of this size can only serve its purpose if it is highly flexible
+and adaptable to a variety of needs and interests. At the same time it
+should be recognised that, in spite of all the variety that may be
+
+
+<!-- page:12 -->
+6 INTRODUCTION
+expected, all members of the target group will have quite a lot in
+common. For one thing, they all want to acquire a general ability in the
+use of English. This means that they will all have to be able to ask
+questions and to provide information, to elicit opinions, views,
+preferences, and to express them, to refer to past, present and future
+events, to express reasons why and conditions under which something
+may come to pass and to understand others doing so, etc. Also, they
+will have to be familiar with certain social conventions and common
+assumptions inherent in manners of expression in the English
+language, and they will need to be aware of how cultural differences
+may be reflected in communicative behaviour. And then, of course,
+they will also need experience in coping with the inevitable occurrence
+of situations which overtax their resources. All these elements of
+communicative ability - and many more - are included in Waystage
+1990. Collectively, they constitute the general basic ability which we
+have attempted to describe and specify in this objective. In this respect,
+then, Waystage 1990 is an appropriate objective for anyone who wants to
+learn English for purposes of communication, whatever their special
+interests may be. However, it has a further potential. Through its
+comprehensive system of categorisation and the open-endedness of the
+various specifications it offers virtually unlimited possibilities for such
+expansions as may serve the purposes of particular sub-groups of the
+target population. Not only may the various categories be separately
+expanded, but several of them contain slots for the insertion of further
+(sets of) elements. Thus, for instance, if we would consider the sub-
+group of those who would wish to learn English particularly for
+professional purposes, text types of a professional nature may be added
+to the reading component, the writing component may be expanded as
+required — for example, with certain types of standard letters - the
+topic specification may be supplemented with further topics of
+professional interest, and open-ended lists within the topics can be
+filled in accordance with the needs and interests of particular learner
+groups.
+The adaptability of Waystage 1990 is a consequence of its open-
+endedness and of its internal flexibility. This flexibility in itself may be
+exploited in a variety of ways and with different emphases in
+accordance with the educational context in which the learning of the
+foreign language takes place and the effects that this learning is meant
+to produce. For the learning of a foreign language is an educational
+experience which may benefit the learners in several different ways. If
+undertaken as part of an overall educational programme, foreign
+language learning may, through the contacts it provides with another
+culture, play an essential role in widening the learners’ horizon, in
+stimulating their awareness of the potential validity of different value
+systems, of different ways of organising, categorising and expressing
+experience, etc. If viewed in the perspective of permanent education, a
+foreign language course may equip the learners with skills and insight
+
+
+<!-- page:13 -->
+INTRODUCTION 7
+that will facilitate the subsequent expansion of their ability in the
+foreign language concerned or the subsequent learning of one or more
+other foreign languages. If pursued in a social context, foreign
+language learning may contribute to the development of the learners’
+understanding of the complexities of personal interaction, and it may
+prepare them to function more effectively in social contacts, not only
+in the foreign language but also in their native language, etc.
+
+Many more of the potential benefits of foreign language learning are
+listed in Van Ek, Objectives for Foreign Language Learning, Vol. 1: Scope,
+Strasbourg 1986. Which of these learning effects, and how many of
+them, are explicitly or implicitly aimed at in a foreign language course,
+depends on the educational context in which the course is offered
+and/or taken, as well as on the educational views of those who provide
+the course and/or of those who take it.
+
+4 What is new in Waystage 1990?
+
+Waystage 1990 is designed to fit into a wide variety of educational
+contexts and to suit a wide variety of learning aims. In this respect it
+corresponds not only to Threshold 1990, but also to its predecessor, the
+1977 Waystage. The main difference is that now those components of
+communicative ability which particularly allow it to be related toa
+wider educational context are identified and explicitly incorporated
+into the objective. Thus, Waystage 1990 includes discourse strategies, a
+sociocultural component, compensation strategies, and a ‘learning-to-
+learn’ component. In addition, it contains numerous major and minor
+improvements in the specification of those categories which were
+already distinguished in the original Waystage as well as certain
+adjustments reflecting differences in assumptions as to foreign
+language needs in the 1990s as compared to the 1970s.
+
+Some of the improvements have been designed to make the
+specification more accessible. They include a redesigned grammatical
+inventory and the provision of a subject index. Other changes are of a
+more fundamental nature, such as the more liberal inclusion of items
+for ‘understanding’ only, the explicit treatment of selected intonation
+patterns, the addition of two new categories of language functions -
+‘structuring discourse’ and ‘communication repair’, and the
+introduction of several open-ended items in the list of specific notions.
+Such changes and additions as distinguish Waystage 1990 from its
+predecessor result from experiences gained in various applications of
+the original version and of the earlier Threshold Level as well as from the
+further development of insights into the nature of communicative
+ability and implications of all this for educational practice. Much of
+this we owe to the rich literature bearing on ‘communicative language
+
+
+<!-- page:14 -->
+8 INTRODUCTION
+learning and teaching’ that has been produced in the last fifteen years
+or so. As authors of a new threshold level version as well as of a new
+‘waystage version we are particularly indebted to all those who, since
+the original threshold level for English came out, have undertaken the
+development of parallel versions for other European languages and in
+each case contributed insights of their own.
+
+5 Learning load
+
+Waystage 1990 has more components than the old one and in some cases
+~ particularly ‘reading’ and ‘listening’ - it requires more of the learners
+than its predecessor did. At first sight, then, it might seem to represent
+
+a heavier learning load. It is our assumption, however, that in practice
+
+this will not be the case. The new components are largely concerned
+
+with the acquisition of strategies and the development of insights and
+
+awareness. Their incorporation will have a qualitative rather than a
+
+quantitative effect. It does not substantially increase the number of
+
+learning items but it will affect the presentation and practice of these
+items. It will involve, for instance, the selection of texts not only for
+
+(pragma-) linguistic relevance but also for sociocultural relevance or for
+
+relevance with regard to ‘coping strategies’. It will also mean that
+
+learning tasks will have to be made transparent enough for the learner
+to understand how the performance of these tasks may contribute to
+the achievement of his or her aims. The promotion of the development
+of various types of insight and awareness will require the introduction
+of teaching/learning procedures which are not yet commonly found in
+language courses. One such procedure is described in the recently
+developed ‘Stage 3 level’ brochure of the International Certificate
+
+Conference. It concerns the development of sociolinguistic awareness
+
+and appropriate strategies and consists of three steps:
+
+* exposure to a variety of situations in which such features as
+participant roles, setting, communicative goal, etc., significantly
+influence the choice of language forms;
+
+* stimulating awareness of this influence through observation,
+reflection, discussion;
+
+* involving the learner in similar situations for active practice.’
+
+The introduction of such a procedure into a language course, we
+
+assume, will make learning more effective rather than more
+
+demanding.
+1 Foreign Languages in Adult and Continuing Education; Specifications for Stage 3 Level of the
+International Certificate Conference Language Certificate System: English, third draft, Deutscher
+Volkshochschulverband e.V., Bonn-Frankfurt 1987.
+
+
+<!-- page:15 -->
+INTRODUCTION 9
+No more do higher demands with regard to ‘reading’ and ‘listening’
+necessarily increase the actual overall learning load. On the contrary: it
+is increasingly recognised that frequent exposure to texts - or the
+intensive practice of ‘receptive skills’ - will contribute substantially to
+the efficient development of productive ability as well. In fact, what we
+propose in Waystage 1990 is much more in agreement with current
+educational practice than the more modest requirements of the
+original version.
+Our conclusion is that, in terms of the average number of learning
+hours that may be required, the learning load of Waystage 1990 will
+correspond to that of the original version and that, as stated in section
+1 of this introduction, a total of 180-200 hours would seem to be a
+reasonable estimate.
+
+
+<!-- page:16 -->
+10
+1 The objective: description
+The learners will be able to use the foreign language for the following
+purposes:
+I carrying out certain transactions:
+
+1 making arrangements (planning, tickets, reservations, etc.) for:
+- travel
+- accommodation
+- appointments
+- leisure activities
+
+2 making purchases
+
+3 ordering food and drink
+
+Il giving and obtaining factual information:
+
+1 personal information (e.g. about name, address, place of origin,
+date of birth, occupation)
+
+2 non-personal information (e.g. about places and how to get there,
+about the time of day, about various facilities and services, about
+rules and regulations, about opening hours, about where and
+what to eat, etc.)
+
+Ill establishing and maintaining social and professional contacts,
+particularly:
+
+1 meeting people and, if strangers, making their acquaintance
+
+2 extending invitations and reacting to being invited
+
+3. proposing/arranging a course of action
+
+4 exchanging information, views, feelings, wishes, concerning
+matters of common interest, particularly those relating to:
+
+- personal life and circumstances
+
+- living conditions and environment
+- occupational activities and interests
+- leisure activities and social life

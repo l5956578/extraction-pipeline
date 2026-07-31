@@ -20,7 +20,7 @@ User read file 4 (Companion 2020) and learned it was an update to file 3 (CEFR E
 
 CEFR 2001 defines six proficiency levels. Waystage relates to early A levels; Threshold to B1. Companion 2020 updates 2001 (mediation, online interaction, expanded self-assessment, etc.).
 
-**Librarian navigation (2026-07-31):** Deep outlines + cross-book map live under [`docs/library/`](../docs/library/README.md) — start at `MASTER_LIBRARIAN.md` and `RELATIONSHIP_COMPANION_CEFR2001.md`. Companion MD is user-confirmed complete; CEFR 2001 is still draft (PDF + analysis dump only).
+**Librarian navigation (2026-07-31):** Outlines + relationship maps under [`docs/library/`](../docs/library/README.md) — start at `MASTER_LIBRARIAN.md` and `RELATIONSHIP_CEFR_FAMILY_4.md` (Companion, 2001, Threshold, Waystage). Companion MD is user-confirmed complete; 2001 / Threshold / Waystage are draft jobs (PDF + analysis dumps/OCR; production extract not run).
 
 ## Related materials (not Companion extras)
 
