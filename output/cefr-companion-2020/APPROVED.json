@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "job_id": "cefr-companion-2020",
+  "approved_version": "062",
+  "approved_path": "versions/062",
+  "approved_at": "2026-07-31T00:01:40.763005+00:00",
+  "notes": "Fig 19 re-crop: include Preparatory work + Consultation/Piloting top outer borders; caption excluded; soft mid-page flags documented as expected product shape",
+  "promotion_note": "Production promotion should copy from this approved version directory, not from the live output/ root."
+}

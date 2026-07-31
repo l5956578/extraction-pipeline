@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Residual minor; structural critical clear after restore.

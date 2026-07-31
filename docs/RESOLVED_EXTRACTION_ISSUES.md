@@ -36,6 +36,12 @@
 | [RIE-006](#rie-006--missing-blank-line-before-markdown-tables) | `table-blank-after-header` | Table renders as prose (no blank before `\|`) | postprocess |
 | [RIE-007](#rie-007--footnotes-glued-after-url-sanitize) | `footnote-not-glued-page` | `…url.24.ALTE` or multi-fn on one line | utils + postprocess |
 | [RIE-008](#rie-008--progressive-band-callout-garbage-p41-class) | `callout-formatting-preserved`, `replace-semantics` | Progressive blue-band dups / garbage in callout body | postprocess (+ extract) |
+| [RIE-009](#rie-009--bare-url-swallows-footnote-obsidian) | `url-footnote-angle-wrap` | `(https://…);5` autolink eats footnote | postprocess / book_qa |
+| [RIE-010](#rie-010--multipage-scale-table-must-be-single-full-grid) | `multipage-table-continuity` | Split or duplicated scale halves across pages | book_qa restitch |
+| [RIE-011](#rie-011--pre-fence-figure-leaf-soup) | `no-figure-soup-pre-fence` | Dual titles / bare leaves before figure fence | figure_inject + book_qa |
+| [RIE-012](#rie-012--blank-line-after-html-comment-before-table) | `obsidian-comment-table-gap` | Table after `-->` does not render | postprocess / book_qa |
+| [RIE-013](#rie-013--complex-figure-prefer-pdf-png-over-mermaid) | `figure-png-not-mermaid` | Wrong mermaid edges; user wants cropped PNG | figure assets |
+| [RIE-014](#rie-014--appendix-chrome-dropped-when-rotated-table-injects) | `appendix-header-with-rotated-table` | Appendix N + title missing above rotated multipage tables | book_qa |
 
 ---
 
@@ -214,6 +220,91 @@
 | **Related STATUS IDs** | L06-P41 |
 | **Date resolved** | 2026-07-19 |
 
+### RIE-009 — bare URL swallows footnote (Obsidian)
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `url-footnote-angle-wrap`, `url-sanitize` |
+| **Symptoms** | Footnote digits/punctuation glued into the URL token: `url))22`, `url),23`, `url”.34`, space inside path (`cm/ Pages/`), URL injected mid-title. User: this is **sanitization**, not merely client render. |
+| **Root cause** | Greedy URL tokenizers and link injectors absorb trailing footnotes/parens; some title links land mid-phrase. |
+| **Fix location** | `scripts/book_vision_qa/_fix_url_footnotes.py`; prefer emit `(<url>)trail` at source |
+| **Apply surface** | postprocess / book_qa |
+| **Chunks/pages verified** | User list: 16806ae621;5, mWYUH).10, bank-of-supplementary)16, 168073ff31)”.19 |
+| **Match criteria (CLEAR)** | Parenthesized bare URL immediately followed by optional punctuation and 1–2 digit footnote without `<…>` wrap |
+| **Ambiguous if** | Bibliography “available at https://…” lines without footnote glue |
+| **Re-apply steps** | 1. Run `_fix_url_footnotes.py` or equivalent. 2. Confirm zero unwrapped matches. 3. Spot-check in Obsidian Reading mode. |
+| **Do not** | Leave bare `(https://…)N` in body prose footnotes |
+| **Related STATUS IDs** | UV-03; `work/…/book_qa/USER_FOUND_ISSUES.md` batch 2 |
+| **Date resolved** | 2026-07-30 |
+
+### RIE-010 — multipage scale table must be single full grid
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `multipage-table-continuity` |
+| **Symptoms** | Same scale title on consecutive pages with complementary levels (HIGH-only then LOW-only), or full grid on start plus duplicate lower band on mid (user p.147-class). Grep gets partial or duplicate tables. |
+| **Root cause** | PDF page breaks + page-slice restores without product merge; strip heuristics that kept mid tables when prose_len large. |
+| **Fix location** | `scripts/book_vision_qa/_restitch_all_multipage.py`, `_stitch_multipage_tables.py`, `_stitch_self_assessment_one.py` |
+| **Apply surface** | book_qa (promote to postprocess gate when stable on a second job) |
+| **Chunks/pages verified** | Merged 54–57, 62–63, 65–66, 73–74, 82–83, 85–89, 91–92, 106–108, 114–115, 141–142; prior continuity strips on rotated multipage scales; self-assessment 177-only |
+| **Match criteria (CLEAR)** | Same scale header on N and N+1 with non-overlapping CEFR level sets that together form C↔A/Pre-A1; or mid table levels ⊆ start levels for same title |
+| **Ambiguous if** | Appendix 5 domain-example series; user-excepted p.16; two intentional full copies in different chapters (turntaking 88 vs 139) |
+| **Re-apply steps** | 1. Catalog high-only/low-only pairs. 2. Merge data rows onto start; set `pages=N-M` on `db:id`. 3. Strip mid table only; keep prose/fn/chrome. 4. Re-assert blank line after comments before tables. 5. Re-scan incomplete pairs = 0. |
+| **Do not** | Auto-merge Appendix 5 domains; drop mid-page prose while stripping; leave duplicate lower bands for “page parity” |
+| **Related STATUS IDs** | UV-09; `book_qa/PIPELINE_VS_VISION.md` |
+| **Date resolved** | 2026-07-30 |
+
+### RIE-011 — pre-fence figure leaf soup
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `no-figure-soup-pre-fence` (extends RIE-004) |
+| **Symptoms** | Dual-word bold titles and bare tree-leaf lines **before** `db:id=figure_*` / fence (Fig 16 p.129). |
+| **Root cause** | Dual-emit cleanup only scanned post-fence. |
+| **Fix location** | `scripts/book_vision_qa/_fix_user_qa_issues.py`; figure inject strip |
+| **Apply surface** | figure_inject + book_qa |
+| **Chunks/pages verified** | p.129 Figure 16 |
+| **Match criteria (CLEAR)** | Immediately before figure marker: repeated-word bold title and/or ≥4 short bare lines restating diagram leaves |
+| **Ambiguous if** | Legitimate prose list introducing the figure |
+| **Re-apply steps** | Scan window before each `db:id=figure_` / text fence; strip dual-title + bare leaf stack; keep figure body |
+| **Do not** | Only check after closing fence |
+| **Related STATUS IDs** | RIE-004; USER_FOUND_ISSUES batch 1 |
+| **Date resolved** | 2026-07-30 |
+
+### RIE-012 — blank line after HTML comment before table
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `obsidian-comment-table-gap` |
+| **Symptoms** | Table does not render in Obsidian when `|` row follows `-->` with no blank line. |
+| **Root cause** | Table parsing requires separation from preceding HTML block. |
+| **Fix location** | `scripts/book_vision_qa/_fix_user_qa_issues.py`; re-assert in restitch scripts |
+| **Apply surface** | postprocess / book_qa |
+| **Chunks/pages verified** | 26 sites book-wide (user batch 1) |
+| **Match criteria (CLEAR)** | `-->` immediately followed by `|` table row |
+| **Ambiguous if** | None for product MD |
+| **Re-apply steps** | After any restore/stitch: ensure blank line between `-->` and `|` |
+| **Do not** | Emit restores that glue comment to table |
+| **Related STATUS IDs** | USER_FOUND_ISSUES batch 1 |
+| **Date resolved** | 2026-07-30 |
+
+### RIE-013 — complex figure prefer PDF PNG over mermaid
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `figure-png-not-mermaid` |
+| **Symptoms** | Mermaid process diagrams with wrong edges (Fig 18 flow); user requests cropped PNG for Figs 18–20. |
+| **Root cause** | LLM mermaid reconstruction loses layout/edge fidelity vs PDF. |
+| **Fix location** | Crop from `source.pdf` → `assets/figures/figure_N_*.png`; replace fence with image embed; `render_as=png` |
+| **Apply surface** | figure assets + book_qa |
+| **Chunks/pages verified** | Figs 18, 19, 20; live mermaid fence count = 0 |
+| **Match criteria (CLEAR)** | User names figure; or mermaid for multi-phase research design; residual mermaid inventory when product wants PNG |
+| **Ambiguous if** | Simple diagram where mermaid is acceptable |
+| **Re-apply steps** | 1. Crop PDF region. 2. Save under assets/figures. 3. Replace mermaid with markdown image. 4. Set `render_as=png`. |
+| **Do not** | “Fix” complex process flow by editing mermaid without PNG ground truth |
+| **Related STATUS IDs** | UV-12; USER_FOUND_ISSUES batch 2 |
+| **Date resolved** | 2026-07-30 |
+
 ---
 
 ## Maintaining this ledger
@@ -225,4 +316,21 @@
 | STATUS marks item open again | Keep RIE for re-apply history; fix STATUS; do not delete RIE without cause |
 | Related to neighbor damage | Link `ADJACENT_ELEMENT_PROTECTION.md` in entry notes |
 
-**Next free id:** RIE-009
+### RIE-014 — appendix chrome dropped when rotated table injects
+
+| Field | Content |
+|-------|---------|
+| **Class / rule_ids** | `appendix-header-with-rotated-table` |
+| **Symptoms** | Multipage/rotated appendix table present but `Appendix N` + bold subheader missing (p.177 App 2, p.183 App 3, p.187 App 4). Artifact titled only by last column (Phonology / Argument) instead of full appendix name. |
+| **Root cause** | Rotated vision crops focused on table grid; inject overwrote page without reattaching left/top appendix chrome from full-page PNG. |
+| **Fix location** | book_qa restitch: prepend `Appendix N` + `**TITLE**` prose block; rename `db:id` / display title to appendix name; keep old id as `alias=` for soft inventory |
+| **Apply surface** | book_qa |
+| **Chunks/pages verified** | 177, 183–185, 187–189 |
+| **Match criteria (CLEAR)** | Page starts with table/`###` scale title while full-page PNG shows “Appendix N” + all-caps title beside/above table; TOC lists full appendix title |
+| **Ambiguous if** | Mid-span continuation pages that correctly only have table slices |
+| **Re-apply steps** | 1. Open full-page PNG (not rotated crop). 2. Restore Appendix N + subheader in same form as App 1 p.173. 3. Rename artifact to appendix title; alias legacy id. 4. Continuity notes on mid pages. |
+| **Do not** | Treat rotated table MD as the whole page; leave artifact named after a single column header |
+| **Related STATUS IDs** | UV-09, UV-18; USER_FOUND batch 4 |
+| **Date resolved** | 2026-07-30 |
+
+**Next free id:** RIE-015

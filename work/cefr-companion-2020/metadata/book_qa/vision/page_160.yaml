@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p160: Multipage artifact present (scale_sign_text_structure pages=158-160). Restored page-slice from rotated_from_grok/page_160_scale_sign_text_erutcurts.md. class=content_ok

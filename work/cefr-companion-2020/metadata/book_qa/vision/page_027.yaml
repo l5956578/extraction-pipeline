@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Vision QA page 27: PNG vs MD slice before <!-- page:27 -->. Content present; no critical missing prose, figure soup, or wrong callouts. Clear defects fixed this batch where applicable.

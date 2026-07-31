@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p166: Multipage artifact present (scale_presence_and_effect pages=166-167). class=content_ok

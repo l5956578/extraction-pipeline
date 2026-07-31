@@ -1,0 +1,9 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  FIXED: Stripped OCR soup dual-emit; kept RF dual tables (Managing interaction A1/Pre-A1 + Encouraging conceptual talk C2/B2+).
+  Page 233: Appendix 5 rotated domain table present; rf_overlap=1.0; local_overlap=0.975.
+  attempts: 1
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_233.png

@@ -1,0 +1,5 @@
+status: pass
+failures: []
+classification: content_present
+notes: >
+  §3.4 MEDIATION prose + Figure 14 text_diagram tree present; no dual-emit soup after fence.

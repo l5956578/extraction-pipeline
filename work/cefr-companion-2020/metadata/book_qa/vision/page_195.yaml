@@ -1,0 +1,9 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  FIXED: Stripped OCR soup dual-emit; kept RF Pre-A1 Online conversation; restored Goal-oriented C2/C1 second table from PDF vision.
+  Page 195: Appendix 5 rotated domain table present; rf_overlap=1.0; local_overlap=0.986.
+  attempts: 1
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_195.png

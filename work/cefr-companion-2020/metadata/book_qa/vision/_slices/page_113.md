@@ -1,0 +1,19 @@
+
+
+<!-- el:start type=artifact id=scale_leading_group_work page=113 -->
+
+| Level | Managing interaction | Encouraging conceptual talk |
+|-------|---------------------|----------------------------|
+| C2 | Can take on different roles according to the needs of the participants and requirements of the activity (resource person, mediator, supervisor, etc.) and provide appropriate individualised support.<br>Can recognise undercurrents in interaction and take appropriate steps to guide the direction of discussion. | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. |
+| C1 | Can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases.<br>Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). |
+| B2 | Can organise and manage collaborative group work efficiently.<br>Can monitor individual and group work non-intrusively, intervening to set a group back on task or to ensure even participation.<br>Can intervene supportively in order to focus people's attention on aspects of the task by asking targeted questions and inviting suggestions. | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another's information and ideas to come up with a concept or solution. |
+| | Can explain the different roles of participants in the collaborative process, giving clear instructions for group work.<br>Can explain ground rules of collaborative discussion in small groups that involves problem solving or the evaluation of alternative proposals.<br>Can intervene when necessary to set a group back on task with new instructions or to encourage more even participation. | Can formulate questions and feedback to encourage people to expand on their thinking and justify or clarify their opinions.<br>Can build on people's ideas and link them into coherent lines of thinking.<br>Can ask people to explain how an idea fits with the main topic under discussion. |
+| B1 | Can allocate turns in a discussion, inviting a participant to express their views. | Can ask people to elaborate on specific points they made in their initial explanation.<br>Can ask appropriate questions to check understanding of concepts that have been explained. |
+| | Can give simple, clear instructions to organise an activity. | Can ask questions to invite people to clarify their reasoning.<br>Can ask why someone thinks something, or how they think something would work. |
+| A2 | Can give very simple instructions to a co-operative group, given some help with formulation when necessary. | Can ask what somebody thinks of a certain idea. |
+| A1 | No descriptors available | Can use simple isolated words/signs and non-verbal signals to show interest in an idea. |
+| Pre-A1 | No descriptors available | No descriptors available |
+<!-- el:end id=scale_leading_group_work -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **113***
+

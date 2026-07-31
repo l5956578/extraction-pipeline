@@ -1,0 +1,7 @@
+{"page": 99, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 7999 vs PDF 3202 (possible dual-emit)"}
+{"page": 146, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 8744 vs PDF 3084 (possible dual-emit)"}
+{"page": 150, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 7670 vs PDF 2514 (possible dual-emit)"}
+{"page": 158, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 7511 vs PDF 3341 (possible dual-emit)"}
+{"page": 183, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 6831 vs PDF 2767 (possible dual-emit)"}
+{"page": 187, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 7086 vs PDF 2679 (possible dual-emit)"}
+{"page": 249, "severity": "minor", "kind": "md_much_longer_than_pdf", "detail": "MD norm 871 vs PDF 130 (possible dual-emit)"}

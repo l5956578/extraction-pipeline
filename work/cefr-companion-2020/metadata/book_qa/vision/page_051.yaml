@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  PDF top A1/Pre-A1 of live-audience correctly merged into p50 multipage table. Announcements intro + full scale table present. Odd-page caption OK.

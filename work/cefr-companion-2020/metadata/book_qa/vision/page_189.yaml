@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p189: Multipage artifact present (scale_argument pages=187-189). Restored page-slice from rotated_from_grok/page_189_scale_argument.md. class=content_ok

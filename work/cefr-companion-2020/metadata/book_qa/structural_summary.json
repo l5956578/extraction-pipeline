@@ -1,0 +1,17 @@
+{
+  "job_id": "cefr-companion-2020",
+  "md_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\output\\cefr-companion-2020\\CEFR_Companion_Volume.md",
+  "pdf_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\input\\cefr-companion-2020\\source.pdf",
+  "pages_audited": 278,
+  "finding_count": 7,
+  "pages_with_findings": 7,
+  "by_kind": {
+    "md_much_longer_than_pdf": 7
+  },
+  "by_severity": {
+    "minor": 7
+  },
+  "critical_pages": [],
+  "major_pages": [],
+  "findings_path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\work\\cefr-companion-2020\\metadata\\book_qa\\structural_findings.jsonl"
+}

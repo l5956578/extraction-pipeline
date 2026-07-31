@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Vision QA page 37: PNG vs MD slice before <!-- page:37 -->. Content present; no critical missing prose, figure soup, or wrong callouts. Clear defects fixed this batch where applicable.

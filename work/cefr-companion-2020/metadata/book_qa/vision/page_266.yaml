@@ -1,0 +1,8 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  Page 266: table present (Appendix 7/8 style); local_overlap=1.0.
+  attempts: 0
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_266.png

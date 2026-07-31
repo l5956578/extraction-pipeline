@@ -1,0 +1,8 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  Page 271: prose/back-matter OK; local_overlap=1.0; class=prose_ok.
+  attempts: 0
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_271.png

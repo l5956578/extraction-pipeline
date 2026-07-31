@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p167: Multipage artifact present (scale_presence_and_effect pages=166-167). MD fixed this batch (missing content / dual-emit / garbled grid). FIXED this batch: restored missing/garbled content into main MD. class=content_ok

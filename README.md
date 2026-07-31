@@ -23,14 +23,29 @@ python run_pipeline.py --job cefr-companion-2020 --step all
 python run_pipeline.py --job cefr-companion-2020 --step postprocess
 ```
 
+After any path that writes shippable live output, the suite **automatically**:
+
+1. Runs high-value regression (`pipeline/regression.py`)
+2. On hard-pass → creates `output/<job-id>/versions/00N/` (never overwrites prior)
+
 ### Common commands
 
 ```bash
 # Full production extract (uses current inventories + rotated vision markdown)
+# → live output → regression → versions/00N if pass
 python -u run_production_extract.py --job cefr-companion-2020
 
-# Format-only (~4s) — list spacing, footers, bold, etc.
+# Format-only (~4s) — list spacing, footers, bold, etc. (same auto-version hook)
 python iterate_format.py --job cefr-companion-2020
+python iterate_format.py --job cefr-companion-2020 --skip-regression
+
+# Manual regression / version snapshot
+python -m pipeline.regression --job cefr-companion-2020
+python -m pipeline.regression --job cefr-companion-2020 --no-version
+
+# Approve a version for production promotion
+python -m pipeline.approve --job cefr-companion-2020 --list
+python -m pipeline.approve --job cefr-companion-2020 --version 001
 
 # Rotated table PNG prep
 python prepare_rotated_for_grok.py --job cefr-companion-2020
@@ -62,6 +77,7 @@ Each document is a **job id** (kebab-case). Working source is always `source.<ex
 | `cefr-waystage-1990` | **draft** | `cefr_classic` | `page_png` |
 | `cefr-threshold-1990` | **draft** | `cefr_classic` | `page_png` |
 | `cefr-descriptors-2020` | **draft** | `tabular_db` | `tabular_db` |
+| `cefr-english-grammar-profile-online-202607` | **draft** | `tabular_db` | `tabular_db` |
 | `cefr-self-assessment-grid-cn` | **draft** | `markdown_import` | `markdown_import` |
 
 Full detail: [`STATUS.md` §1a](STATUS.md). Draft jobs have sources + empty `work/` scaffolding only — **not** production-extracted.
@@ -76,7 +92,9 @@ Full detail: [`STATUS.md` §1a](STATUS.md). Draft jobs have sources + empty `wor
 | `profiles/<profile>.json` | Shared family defaults (`cefr_companion`, `cefr_classic`, `tabular_db`, `markdown_import`) |
 | `work/<job-id>/inventories/` | `reading_order` contracts |
 | `work/<job-id>/{chunks,raw_extraction,cleaned,metadata}/` | Intermediates (not promoted) |
-| `output/<job-id>/` | Shippable MD + assets + registries |
+| `output/<job-id>/` | **Live** shippable MD + assets + registries (overwritten on iterate) |
+| `output/<job-id>/versions/00N/` | Append-only snapshots after regression pass |
+| `output/<job-id>/APPROVED.json` | Points at the version allowed for production promote |
 
 CLI: `--job <id>` is **required** on all entry scripts (Phase B). Layout lives in `job.json` + `profiles/*.json`.
 

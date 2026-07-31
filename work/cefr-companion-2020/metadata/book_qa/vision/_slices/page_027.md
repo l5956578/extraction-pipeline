@@ -1,0 +1,33 @@
+
+
+<!-- el:start type=prose id=prose_p027_s0 page=27 -->
+
+## Chapter 2
+**KEY ASPECTS OF THE CEFR FOR  TEACHING AND LEARNING**
+
+<!-- el:end id=prose_p027_s0 -->
+
+<!-- el:start type=prose id=prose_p027_s1 page=27 -->
+The Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) presents a comprehensive descriptive scheme of language proficiency and a set of Common Reference Levels (A1 to C2) defined in illustrative descriptor scales, plus options for curriculum design promoting plurilingual and intercultural education, further elaborated in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621) (Beacco et al. 2016a).
+
+One of the main principles of the CEFR is the promotion of the positive formulation of educational aims and outcomes at all levels. Its “can do” definition of aspects of proficiency provides a clear, shared roadmap for learning, and a far more nuanced instrument to gauge progress than an exclusive focus on scores in tests and examinations. This principle is based on the CEFR view of language as a vehicle for opportunity and success in social, educational and professional domains. This key feature contributes to the Council of Europe’s goal of quality inclusive education as a right of all citizens. The Council of Europe’s Committee of Ministers recommends the “use of the CEFR as a tool for coherent, transparent and effective plurilingual education in such a way as to promote democratic citizenship, social cohesion and intercultural dialogue”.21
+
+As well as being used as a reference tool by almost all member states of the Council of Europe and the European Union, the CEFR has also had – and continues to have – considerable influence beyond Europe. In fact, the CEFR is being used not only to provide transparency and clear reference points for assessment purposes but also, increasingly, to inform curriculum reform and pedagogy. This development reflects the forward-looking conceptual underpinning of the CEFR and has paved the way for a new phase of work around the CEFR, leading to the extension of the illustrative descriptors published in this edition. Before presenting the illustrative descriptors, however, a reminder of the purpose and nature of the CEFR is outlined. First, we consider the aims of the CEFR, its descriptive scheme and the action-oriented approach, then the Common Reference Levels and creation of profiles in relation to them, plus the illustrative descriptors themselves, and finally the concepts of plurilingualism/ pluriculturalism and mediation that were introduced to language education by the CEFR.
+<!-- el:end id=prose_p027_s2 -->
+
+<!-- el:start type=artifact id=callout_p027_0 page=27 -->
+> **Background to the CEFR**
+>
+> The CEFR was developed as a continuation of the Council of Europe’s work in language education during the 1970s and 1980s. The CEFR “action-oriented approach” builds on and goes beyond the communicative approach proposed in the mid-1970s in the publication “The Threshold Level”, the first functional/ notional specification of language needs.
+>
+> The CEFR and the related European Language Portfolio (ELP) that accompanied it were recommended by an intergovernmental symposium held in Switzerland in 1991. As its subtitle suggests, the CEFR is concerned principally with learning and teaching. It aims to facilitate transparency and coherence between the curriculum, teaching and assessment within an institution and transparency and coherence between institutions, educational sectors, regions and countries.
+>
+> The CEFR was piloted in provisional versions in 1996 and 1998 before being published in English (Cambridge University Press).
+<!-- el:end id=callout_p027_0 -->
+
+<!-- el:start type=footnote_zone id=footnote_zone_p027_s4 page=27 -->
+21.	 Recommendation CM/Rec(2008)7 of the Committee of Ministers on the use of the Council of Europe’s Common European Framework of Reference for Languages (CEFR) and the promotion of plurilingualism, available at https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805d2fb1.
+<!-- el:end id=footnote_zone_p027_s4 -->
+
+*Key aspects of the CEFR for teaching and learning ▶ Page **27***
+

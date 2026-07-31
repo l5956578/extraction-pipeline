@@ -1,0 +1,9 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  FIXED: Trimmed mega multipage dual-emit (pages=191-241 full dump) to Appendix 5 intro + rotated_from_grok p191 table only.
+  Page 191: Appendix 5 rotated domain table present; rf_overlap=1.0; local_overlap=0.984.
+  attempts: 1
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_191.png

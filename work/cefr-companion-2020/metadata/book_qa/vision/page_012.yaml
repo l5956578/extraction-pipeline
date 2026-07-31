@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Vision QA page 12: PDF thin/blank or chapter-divider; MD chrome-only is acceptable.

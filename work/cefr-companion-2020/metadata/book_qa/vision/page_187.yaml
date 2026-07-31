@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p187: Multipage artifact present (scale_argument pages=187-189). class=content_ok

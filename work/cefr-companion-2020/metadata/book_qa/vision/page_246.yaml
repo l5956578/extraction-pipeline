@@ -1,0 +1,8 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  Page 246: figure/diagram page; local_overlap=1.0.
+  attempts: 0
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_246.png

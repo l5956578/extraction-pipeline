@@ -1,0 +1,5 @@
+status: pass
+failures: []
+classification: content_present
+notes: >
+  Processing text rotated multipage table fully merged on p99 (pages=99-101). Matches PDF content; layout is upright MD table vs rotated PDF (expected product path).

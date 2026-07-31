@@ -1,0 +1,6 @@
+status: pass
+failures: []
+classification: restored_was_multipage_collapsed
+prior_class: multipage_collapsed
+notes: >
+  Was chrome-only multipage collapse; restored Online A2–Pre-A1 + Goal-oriented intro + C2/C1. Dual-emit soup cleaned.

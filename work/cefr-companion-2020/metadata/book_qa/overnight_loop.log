@@ -1,0 +1,11 @@
+2026-07-30T07:08:38.423823+00:00 === overnight_loop start ===
+2026-07-30T07:08:38.429227+00:00 RUN D:\y\lang-platform\.venv\Scripts\python.exe D:\y\lang-platform\pipelines\extraction-pipeline\scripts\book_vision_qa\repair_chrome_only_pages.py
+2026-07-30T07:08:43.994126+00:00 EXIT repair_chrome_only_pages.py -> 0
+2026-07-30T07:08:43.998173+00:00 RUN D:\y\lang-platform\.venv\Scripts\python.exe D:\y\lang-platform\pipelines\extraction-pipeline\scripts\book_vision_qa\structural_audit.py --job cefr-companion-2020
+2026-07-30T07:08:50.699703+00:00 EXIT structural_audit.py -> 0
+2026-07-30T07:08:50.703904+00:00 RUN D:\y\lang-platform\.venv\Scripts\python.exe D:\y\lang-platform\pipelines\extraction-pipeline\scripts\book_vision_qa\classify_empty_pages.py
+2026-07-30T07:08:52.670263+00:00 EXIT classify_empty_pages.py -> 0
+2026-07-30T07:08:52.673356+00:00 RUN D:\y\lang-platform\.venv\Scripts\python.exe D:\y\lang-platform\pipelines\extraction-pipeline\scripts\book_vision_qa\seed_vision_from_structural.py
+2026-07-30T07:08:53.125814+00:00 EXIT seed_vision_from_structural.py -> 0
+2026-07-30T07:08:53.221228+00:00 vision_counts {'pass': 263, 'fail': 15, 'total': 278}
+2026-07-30T07:08:53.224234+00:00 === overnight_loop end ===

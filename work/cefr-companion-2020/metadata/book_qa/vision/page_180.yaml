@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p180: Chrome-only MD body; PDF has table content (pdf_chars=3196). Content present elsewhere (vocab_overlap=1.00; span table_self_assessment_grid pages=177-181). multipage_collapsed. class=multipage_collapsed

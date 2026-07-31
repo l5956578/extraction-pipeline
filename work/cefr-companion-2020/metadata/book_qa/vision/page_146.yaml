@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p146: Multipage artifact present (scale_sign_language_repertoire pages=146-148). class=content_ok

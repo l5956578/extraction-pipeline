@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p154: Multipage artifact present (scale_sociolinguistic_appropriateness_and_cultural_repertoire pages=154-156). class=content_ok

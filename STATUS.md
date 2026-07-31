@@ -25,13 +25,13 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-27 (Phase D: JOB_MANIFEST + product_context for promotion / ETL) |
+| **Last updated** | 2026-07-29 (full re-run → versions/002; hard final-state pins; layout-table locks) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
-| **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~977 KB, pages 1–278) |
+| **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~994 KB, pages 1–278) |
 | **Source PDF** | `input/cefr-companion-2020/source.pdf` (orig: `CEFR Companion Volume_eng.pdf`; published: `4-CEFR-Companion-Volume-EN-2020.pdf`; SHA256 match verified) |
 | **Sidecars** | `input/<job-id>/job.json`, `profiles/*.json` |
-| **Deliverables** | `output/<job-id>/` — MD + assets + registries + **JOB_MANIFEST.json** + **product_context.json** (draft jobs empty) |
+| **Deliverables** | `output/<job-id>/` — live MD + assets + registries + **JOB_MANIFEST** + **product_context** + **`versions/00N/`** + **`APPROVED.json`** |
 
 ### Phase D — JOB_MANIFEST & business tags (2026-07-27)
 
@@ -40,8 +40,11 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 | **Writer** | `pipeline/job_manifest.py` → `write_job_manifest(ctx)` |
 | **Outputs** | `output/<job-id>/JOB_MANIFEST.json`, `output/<job-id>/product_context.json` |
 | **Hooks** | After merge (`run_merge`), after format (`run_post_process` / `iterate_format.py`), after full production extract |
-| **Lifecycle status** | `pipeline_output` = ready for **copy** into `staging/pending/extraction-pipeline/<job-id>/` |
-| **Promotion docs** | Monorepo [`docs/PROMOTION.md`](../../docs/PROMOTION.md) extraction section |
+| **Lifecycle status** | Live `pipeline_output` after each run; regression-passed snapshots under `versions/00N/`; production from **`APPROVED.json`** only |
+| **Regression** | `python -m pipeline.regression --job <id>` (auto after production extract / iterate_format / run_pipeline final-write steps) |
+| **Versioning** | `pipeline/versioning.py` → `output/<job-id>/versions/00N/` + `VERSION.json` |
+| **Approve** | `python -m pipeline.approve --job <id> --version 001` → `APPROVED.json` |
+| **Promotion docs** | Monorepo [`docs/PROMOTION.md`](../../docs/PROMOTION.md) — **no** top-level `staging/pending\|approved` for pipeline content |
 
 **Business tags — two layers (do not break registry array contract):**
 
@@ -77,6 +80,7 @@ Family notes: [`input/cefr-family-NOTES.md`](input/cefr-family-NOTES.md).
 | `cefr-waystage-1990` | **draft** | `cefr_classic` | `source.pdf` ← `1-CEFR-Level-Waystage-1990.pdf` | `page_png` | PNG preferred (intonation markers); engine may not implement yet |
 | `cefr-threshold-1990` | **draft** | `cefr_classic` | `source.pdf` ← `2-CEFR-Level-Threshold-1990.pdf` | `page_png` | Same as Waystage |
 | `cefr-descriptors-2020` | **draft** | `tabular_db` | `source.xlsx` | `tabular_db` | DB-oriented later; not PDF markdown |
+| `cefr-english-grammar-profile-online-202607` | **draft** | `tabular_db` | `source.xlsx` | `tabular_db` | English Grammar Profile Online; CEFR levels; single Data sheet; DB later |
 | `cefr-self-assessment-grid-cn` | **draft** | `markdown_import` | `source.md` | `markdown_import` | CN grid; pair with EN Companion grid later |
 
 **Do not** treat draft jobs as extracted. Full production extract of 2001/Waystage/Threshold is out of scope until scheduled.
@@ -249,7 +253,7 @@ Source: `user debug/log 01–06` (log **06** visual pass 2026-07-19).
 | C2-L1 | Mid-line dingbat list glue | **resolved** | postprocess mid-line split (not re-reported in log 03) |
 | C2-H1 | Inline hyperlinks without footnotes | **partial** | Multi-rect merge + known Guide/CARAP titles; parenthetical URLs attach when title in prose. Gate V-LINK-GUIDE green after chunk_02. Spot-check remaining pages later |
 | C2-U1 | Broken URLs (spaces inside URLs) | **partial** | `sanitize_urls_in_text` + V-URL-SPACE. **log 05:** also no longer glues next footnote (`…a2d.24.ALTE` fixed). Keep gate on every merge |
-| C2-T1 | Table 3 mis-id as scale | **resolved** | `table_03_…` (not re-reported) |
+| C2-T1 | Table 3 id / not scale or column-name | **fixed + gated** | Final state: `table_03_macro_functional_basis` (not `scale_reception` / `table_reception`). **Hard gates:** `V-TABLE-ID` + `V-KNOWN-TABLE`. Resync must not rewrite layout-pinned ids; `_repair_known_table_id_regressions` restores pins. |
 | C2-T2 | Callout as scale / wrong type | **partial** | Inventory types p.29/p.35 as `callout` via KNOWN_TABLES_BY_INDEX; extract emits blockquote |
 | C2-CO1 | Callout / sidebar format standard | **improved** | Blue-fill path in RO book-wide (inventories rebuilt). Chunks 03–09 re-extracted 2026-07-16. Residual QA possible |
 | C2-CO2 | p.30 plurilingual callout incomplete | **resolved** | **User confirmed 2026-07-16:** p.30–31 appear resolved. Full 4-para blockquote from blue fills; lead not list-glued. Gate V-CALLOUT-LEAD |
@@ -271,7 +275,7 @@ These are **not** optional commentary. They are logged requirements, policy, and
 |----|------|----------------------------------|--------|
 | UV-01 | **Product** | Callouts/sidebars/feature boxes (blue-background): standard markdown blockquote form with title in the quote, blank `>` between paragraphs, preserve internal formatting, apply to **all** such boxes in the document | open |
 | UV-02 | **Product / naming** | User does not own the code name (“callout”); agents must confirm terminology and still treat the visual element consistently | open |
-| UV-03 | **Process** | User should not have to find URL breaks, missing callout leads, figure trash, etc.; **validation** must catch regressions after a claimed fix | open (→ C2-V1) |
+| UV-03 | **Process** | User should not have to find URL breaks, missing callout leads, figure trash, etc.; **validation** must catch regressions after a claimed fix | open (→ C2-V1); rule: **no STATUS “resolved” without a hard gate on the final deliverable** |
 | UV-04 | **Process / trust** | Do not mark issues fixed when they are not; prior “resolved” claims for p.30 callout and p.31 order were wrong from the user’s view | open |
 | UV-05 | **Design** | Stop brittle, isolated patches that fight inventory→extract→assembly; prefer structure that matches the pipeline contract | open (→ E5) |
 | UV-06 | **Design / method** | When geometry/code is unreliable (callout bounds, figure crops, phrase-level `<br>`), **use agent-in-the-loop / multimodal judgment** rather than more fragile heuristics alone; user offered blue-background detection + agent loop — do not ignore | open |
@@ -282,6 +286,12 @@ These are **not** optional commentary. They are logged requirements, policy, and
 | UV-11 | **Table semantics** | `<br>` in cells is for phrases that “go together” as separate units; markdown soft-wrap is fine for long lines; extra space in the PDF may signal phrase breaks — if code cannot see that, use intelligence/loop, not wrong `<br>` everywhere | open (→ C2-T3) |
 | UV-12 | **Figure assets** | Finite number of figures; crops must be correct (full diagram); “there aren’t 500 images” — invest in getting each right (loop or better method) | open (→ C2-F3) |
 | UV-13 | **Regression caution** | When fixing figures on p.36, **do not break prose that is finally working** | standing constraint |
+| UV-14 | **Product / process** | Pipeline got **decent MD**; **Vision/PDF↔MD comparison** is required to finalize near-perfect product MD. Do not treat hard regression alone as finished book. Logged: `work/cefr-companion-2020/metadata/book_qa/PIPELINE_VS_VISION.md` | standing for all future extracts |
+| UV-15 | **Tables / grep** | Multipage scales must be **one full table + one `db:id`** on span start; no mid-page duplicate slices (p.147-class). Keep mid prose/fn/chrome. Exception p.16; Appx5 domain series needs user if mega-table wanted. RIE-010 | **resolved** on companion 2020 (Appx5 listed) |
+| UV-16 | **Obsidian render** | Bare URL+footnote glue; blank line after HTML comments before tables. RIE-009, RIE-012 | **resolved** companion 2020 |
+| UV-17 | **Figures 18–20** | Prefer PDF-cropped PNG over mermaid for process diagrams; list residual mermaids. RIE-013 | **resolved** (mermaid=0) |
+| UV-18 | **Formatting = product** | Vision/PNG is for structure (callout paragraphs, header line breaks, table columns), not text presence alone | standing |
+| UV-19 | **URL sanitization** | Footnotes/punctuation must not live inside URL tokens; full-book catalog required. Not “Obsidian-only.” RIE-009 | **resolved** companion batch 3 |
 
 ### P2 — Process / engineering debt
 
@@ -375,6 +385,7 @@ python run_pipeline.py --job cefr-companion-2020 --step inventory
 python prepare_rotated_for_grok.py --job cefr-companion-2020
 # Agent: vision-write any missing work/cefr-companion-2020/metadata/rotated_from_grok/*.md
 python -u run_production_extract.py --job cefr-companion-2020
+# → overwrites live output/ → regression → versions/00N/ if hard checks pass
 ```
 
 ### Format-only iteration (fast: ~4s)
@@ -382,6 +393,17 @@ python -u run_production_extract.py --job cefr-companion-2020
 ```bash
 python iterate_format.py --job cefr-companion-2020
 # or: python run_pipeline.py --job cefr-companion-2020 --step postprocess
+# both auto-run regression + version unless --skip-regression
+```
+
+### Regression / versioning / approve
+
+```bash
+python -m pipeline.regression --job cefr-companion-2020          # tests + versions/00N on pass
+python -m pipeline.regression --job cefr-companion-2020 --no-version
+python -m pipeline.approve --job cefr-companion-2020 --list
+python -m pipeline.approve --job cefr-companion-2020 --version 001 --notes "QA sign-off"
+# Production: copy from output/<job>/versions/00N/ only (see monorepo docs/PROMOTION.md)
 ```
 
 ### After adding rotated vision markdown
@@ -411,8 +433,8 @@ python finalize_after_grok.py --job cefr-companion-2020
 
 ## 10. Recommended next actions
 
-1. User PDF QA pass on final MD if desired.
-2. Validator hardening (Q2).
+1. User inspect `output/cefr-companion-2020/versions/001/` and approve when happy.
+2. Soft `output_validator` ID mismatches (table_01 vs slug IDs) — tighten golden IDs or alias map.
 3. Figure caption headers (Q1) if product requires them.
 4. Optional: tighten garbled span IDs (R3).
 
@@ -422,6 +444,7 @@ python finalize_after_grok.py --job cefr-companion-2020
 
 | Date | Event |
 |------|--------|
+| 2026-07-29 | Full Companion re-run; semantic diff vs baseline; **regression suite** + auto **`versions/00N/`** + **`APPROVED.json`**; docs drop top-level staging for pipeline content |
 | 2026-07-14 | Non–Appx5 **personal multi-pass deep-audit** (37 pages); rewrites 104/113/119/154/162; chunk_05+07 re-extract |
 | 2026-07-14 | Appendix 5 **personal multi-pass deep-audit** (191–241); chunk_08 re-extract; figures+postprocess; PENDING=0 |
 | 2026-07-14 | Appendix 5 agent vision (51 pages) + finalize; **all 88** rotated pages vision-complete |

@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p151: Multipage artifact present (scale_diagrammatical_accuracy pages=150-152). Restored page-slice from rotated_from_grok/page_151_scale_diagrammatical_accuracy.md. class=content_ok

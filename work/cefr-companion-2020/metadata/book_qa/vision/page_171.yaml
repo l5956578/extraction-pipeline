@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p171: PDF essentially blank (pdf_chars=19); MD chrome/blank matches. class=blank_or_cover

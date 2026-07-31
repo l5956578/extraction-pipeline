@@ -1,11 +1,15 @@
-# CEFR Companion Volume
-
-<!-- db:id=cefr_companion_volume type=document product_tier=context pages=1-278 -->
 
 <!-- el:start type=prose id=prose_p001_s0 page=1 -->
-**COMMON EUROPEAN  FRAMEWORK  OF REFERENCE  FOR LANGUAGES: LEARNING, TEACHING,  ASSESSMENT Companion volume**<!-- el:end id=prose_p001_s0 -->
+<!-- db:id=cefr_companion_volume type=document product_tier=context pages=1-278 -->
 
-Page **1**
+# CEFR Companion Volume
+
+**COMMON EUROPEAN FRAMEWORK OF REFERENCE FOR LANGUAGES: LEARNING, TEACHING, ASSESSMENT**
+
+Companion volume
+<!-- el:end id=prose_p001_s0 -->
+
+*Page **1***
 
 <!-- page:1 -->
 
@@ -13,7 +17,10 @@ Page **2**
 
 <!-- page:2 -->
 
-<!-- el:start type=prose id=prose_p003_s0 page=3 --> **COMMON EUROPEAN  FRAMEWORK  OF REFERENCE  FOR LANGUAGES:** LEARNING, TEACHING, ASSESSMENT
+<!-- el:start type=prose id=prose_p003_s0 page=3 -->
+**COMMON EUROPEAN FRAMEWORK OF REFERENCE FOR LANGUAGES:**
+
+LEARNING, TEACHING, ASSESSMENT
 
 Companion volume
 
@@ -37,18 +44,22 @@ Page **3**
 <!-- page:3 -->
 
 <!-- el:start type=prose id=prose_p004_s0 page=4 -->
-A preliminary version of this update to the **Common European Framework  of Reference for Languages: learning, teaching, assessment** was published online in English and French in 2018 as “Common European Framework of Reference for Languages: Learning, teaching, assessment: Companion Volume with New Descriptors” and “Cadre européen commun de référence pour les langues: apprendre, enseigner, évaluer : Volume complémentaire avec de nouveaux descripteurs”,respectively.
+A preliminary version of this update to the **Common European Framework of Reference for Languages: learning, teaching, assessment** was published online in English and French in 2018 as “Common European Framework of Reference for Languages: Learning, teaching, assessment: Companion Volume with New Descriptors” and “Cadre européen commun de référence pour les langues: apprendre, enseigner, évaluer : Volume complémentaire avec de nouveaux descripteurs”, respectively.
 
 This volume presents the key messages of the CEFR in a user-friendly form and contains all CEFR illustrative descriptors. For pedagogical use of the CEFR for learning, teaching and assessment, teachers and teacher educators will find it easier to access the CEFR Companion volume as the updated framework. The Companion volume provides the links and references to also consult the chapters of the 2001 edition, where necessary. Researchers wishing to interrogate the underlying concepts and guidance in CEFR chapters about specific areas should access the 2001 edition, which remains valid.
 
-French edition: **Cadre européen commun de référence  pour les langues : apprendre, enseigner, évaluer – Volume complémentaire** All rights reserved. No part of this publication may be translated, reproduced or transmitted, in any form or by any means, electronic (CD-Rom, internet, etc.) or mechanical, including photocopying, recording or any information storage or retrieval system, without prior permission in writing from the Directorate of Communication (F-67075 Strasbourg Cedex or publishing@coe.int).
+French edition:
+
+**Cadre européen commun de référence pour les langues : apprendre, enseigner, évaluer – Volume complémentaire**
+
+All rights reserved. No part of this publication may be translated, reproduced or transmitted, in any form or by any means, electronic (CD-Rom, internet, etc.) or mechanical, including photocopying, recording or any information storage or retrieval system, without prior permission in writing from the Directorate of Communication (F-67075 Strasbourg Cedex or publishing@coe.int).
 
 Cover design and layout: Documents and Publications Production Department (SPDP), Council of Europe
 
-ISBN 978-92-871-8621-8 © Council of Europe, April 2020 Printed at the Council of Europe Citation reference: Council of Europe (2020), **Common European Framework  of Reference for Languages: Learning,  teaching, assessment – Companion volume**, Council of Europe Publishing, Strasbourg, available at www.coe.int/lang-cefr.
+ISBN 978-92-871-8621-8 © Council of Europe, April 2020 Printed at the Council of Europe Citation reference: Council of Europe (2020), **Common European Framework of Reference for Languages: Learning, teaching, assessment – Companion volume**, Council of Europe Publishing, Strasbourg, available at www.coe.int/lang-cefr.
 <!-- el:end id=prose_p004_s0 -->
 
-Page **4**Page**4**Page**4**Page**4**
+Page **4**
 
 <!-- page:4 -->
 
@@ -87,7 +98,7 @@ Page **4**Page**4**Page**4**Page**4**
 - OVERALL READING COMPREHENSION — 54
 - READING CORRESPONDENCE — 54
 
-*﻿ ▶ Page **5***
+* ▶ Page **5***
 
 <!-- page:5 -->
 
@@ -105,7 +116,7 @@ Page **4**Page**4**Page**4**Page**4**
 - OVERALL ORAL PRODUCTION — 62
 - SUSTAINED MONOLOGUE: DESCRIBING EXPERIENCE — 62
 - SUSTAINED MONOLOGUE: GIVING INFORMATION — 63
-- SUSTAINED MONOLOGUE: PUTTING A CASE (E. G. IN A DEBATE) — 64
+- SUSTAINED MONOLOGUE: PUTTING A CASE (E.G. IN A DEBATE) — 64
 - PUBLIC ANNOUNCEMENTS — 64
 - ADDRESSING AUDIENCES — 65
 ##### 3.2.1.2. WRITTEN PRODUCTION — 66
@@ -183,7 +194,7 @@ Page **4**Page**4**Page**4**Page**4**
 ### 5.1. LINGUISTIC COMPETENCE — 130
 - GENERAL LINGUISTIC RANGE — 130
 
-*﻿ ▶ Page **7***
+* ▶ Page **7***
 
 <!-- page:7 -->
 
@@ -219,11 +230,10 @@ Page **4**Page**4**Page**4**Page**4**
 ## APPENDICES — 171
 ## APPENDIX 1: SALIENT FEATURES OF THE CEFR LEVELS — 173
 ## APPENDIX 2: SELF-ASSESSMENT GRID (EXPANDED WITH ONLINE INTERACTION AND MEDIATION) — 177
-## APPENDIX 3: QUALITATIVE FEATURES OF SPOKEN LANGUAGE (EXPANDED WITH PHONOLOGY)	 183
+## APPENDIX 3: QUALITATIVE FEATURES OF SPOKEN LANGUAGE (EXPANDED WITH PHONOLOGY) — 183
 ## APPENDIX 4: WRITTEN ASSESSMENT GRID — 187
-## APPENDIX 5: EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS OF ONLINE
-- INTERACTION AND MEDIATION ACTIVITIES — 191
-## APPENDIX 6: DEVELOPMENT AND VALIDATION OF THE EXTENDED ILLUSTRATIVE DESCRIPTORS	 243
+## APPENDIX 5: EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS OF ONLINE INTERACTION AND MEDIATION ACTIVITIES — 191
+## APPENDIX 6: DEVELOPMENT AND VALIDATION OF THE EXTENDED ILLUSTRATIVE DESCRIPTORS — 243
 ## APPENDIX 7: SUBSTANTIVE CHANGES TO SPECIFIC DESCRIPTORS PUBLISHED IN 2001 — 257
 ## APPENDIX 8: SUPPLEMENTARY DESCRIPTORS — 259
 ## APPENDIX 9: SOURCES FOR NEW DESCRIPTORS — 269
@@ -232,7 +242,6 @@ Page **4**Page**4**Page**4**Page**4**
 *Page **8** ▶ **CEFR – Companion volume***
 
 <!-- page:8 -->
-
 <!-- el:end id=toc_p008_s0 -->
 <!-- el:start type=toc id=toc_p009_s0 page=9 -->
 ## List of tables and figures
@@ -264,7 +273,8 @@ Page **4**Page**4**Page**4**Page**4**
 ### TABLE 4 – COMMUNICATIVE LANGUAGE STRATEGIES IN THE CEFR — 35
 ### TABLE 5 – THE DIFFERENT PURPOSES OF DESCRIPTORS — 44
 
-*﻿ ▶ Page **9***
+* ▶ Page **9***
+<!-- el:end id=toc_p009_s0 -->
 
 <!-- page:9 -->
 
@@ -272,48 +282,70 @@ Page **10**
 
 <!-- page:10 -->
 
-<!-- el:start type=prose id=prose_p011_s0 page=11 --> **FOREWORD**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)1 is one of the best-known and most used Council of Europe policy instruments. Through the European C (https://rm.coe.int/1680459f97)ultural Convention 50 European countries commit to encouraging “the study by its own nationals of the languages, history and civilisation” of other European countries. The CEFR has played and continues to play an important role in making this vision of Europe a reality.
+<!-- el:start type=prose id=prose_p011_s0 page=11 -->
+### FOREWORD
+
+The **Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)1 is one of the best-known and most used Council of Europe policy instruments. Through the European Cultural Convention 50 European countries commit to encouraging “the study by its own nationals of the languages, history and civilisation” of other European countries. The CEFR has played and continues to play an important role in making this vision of Europe a reality.
+
 Since its launch in 2001, the CEFR, together with its related instrument for learners, the European Language Portfolio (ELP),2 has been a central feature of the Council of Europe’s intergovernmental programmes in the field of education, including their initiatives to promote the right to quality education for all. Language education contributes to Council of Europe’s core mission “to achieve a greater unity between its members” and is fundamental to the effective enjoyment of the right to education and other individual human rights and the rights of minorities as well as, more broadly, to developing and maintaining a culture of democracy.
 
 The CEFR is intended to promote quality plurilingual education, facilitate greater social mobility and stimulate reflection and exchange between language professionals for curriculum development and in teacher education. Furthermore the CEFR provides a metalanguage for discussing the complexity of language proficiency for all citizens in a multilingual and intercultural Europe, and for education policy makers to reflect on learning objectives and outcomes that should be coherent and transparent. It has never been the intention that the CEFR should be used to justify a gate-keeping function of assessment instruments.
 
 The Council of Europe hopes that the development in this publication of areas such as mediation, plurilingual/ pluricultural competence and signing competences will contribute to quality inclusive education for all, and to the promotion of plurilingualism and pluriculturalism.
 
-Snežana Samardžić-Marković **Council of Europe Director General for Democracy**<!-- el:end id=prose_p011_s0 -->
+Snežana Samardžić-Marković
+
+**Council of Europe Director General for Democracy**
+
+<!-- el:end id=prose_p011_s0 -->
+
 1. www.coe.int/lang-cefr.
 2. www.coe.int/en/web/portfolio.
 
-Page **11**
+*▶ Page **11***
 
 <!-- page:11 -->
 
-Page **12**
+*Page **12***
 
 <!-- page:12 -->
 
-<!-- el:start type=prose id=prose_p013_s0 page=13 --> **PREFACE WITH ACKNOWLEDGEMENTS**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR) was published in 2001 (the European Year of Languages) after a comprehensive process of drafting, piloting and consultation. The CEFR has contributed to the implementation of the Council of Europe’s language education principles, including the promotion of reflective learning and learner autonomy.
-A comprehensive set of resources has been developed around the CEFR since its publication in order to support implementation and, like the CEFR itself, these resources are presented on the Council of Europe’s CEFR website.3 Building on the success of the CEFR and other projects a number of policy documents and resources that further develop the underlying educational principles and objectives of the CEFR are also available, not only for foreign/second languages but also for the languages of schooling and the development of curricula to promote (http://www.coe.int/lang-platform) plurilingual and intercultural education. Many of these are available on the Platform of resources and references for plurilingual and intercultural education,4 for example: **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621);5 A handbook for curriculum development and teacher education: the language dimension in all subjects (https://rm.coe.int/16806af387);6** f “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe”; (https://rm.coe.int/16802fc1c4)7 Others are available separately: policy guidelines and resources for the linguistic integration of adult migrants (http://www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines);8
+<!-- el:start type=prose id=prose_p013_s0 page=13 -->
+### PREFACE WITH ACKNOWLEDGEMENTS
 
-guidelines for intercultural education and an autobiography of intercultural encounters (http://www.coe.int/t/dg4/autobiography/default_en.asp);9 f **Reference framework of competences for democratic culture (https://go.coe.int/mWYUH)**.10 However, regardless of all this further material provided, the Council of Europe frequently received requests to continue to develop aspects of the CEFR, particularly the illustrative descriptors of second/foreign language proficiency. Requests were made asking the Council of Europe to complement the illustrative scales published in 2001 with descriptors for mediation, reactions to literature and online interaction, to produce versions for young learners and for signing competences, and to develop more detailed coverage in the descriptors for A1 and C levels.
+The **Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR) was published in 2001 (the European Year of Languages) after a comprehensive process of drafting, piloting and consultation. The CEFR has contributed to the implementation of the Council of Europe’s language education principles, including the promotion of reflective learning and learner autonomy.
+
+A comprehensive set of resources has been developed around the CEFR since its publication in order to support implementation and, like the CEFR itself, these resources are presented on the Council of Europe’s CEFR website.3 Building on the success of the CEFR and other projects a number of policy documents and resources that further develop the underlying educational principles and objectives of the CEFR are also available, not only for foreign/second languages but also for the languages of schooling and the development of curricula to promote plurilingual and intercultural education. Many of these are available on the Platform of resources and references for plurilingual and intercultural education,4 for example:
+
+- **Guide for the development and implementation of curricula for plurilingual and intercultural education** (<https://rm.coe.int/16806ae621>);5
+- **A handbook for curriculum development and teacher education: the language dimension in all subjects** (<https://rm.coe.int/16806af387>);6
+- “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe” (<https://rm.coe.int/16802fc1c4>);7
+
+Others are available separately:
+
+- policy guidelines and resources for the linguistic integration of adult migrants (<http://www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines>);8
+- guidelines for intercultural education and an autobiography of intercultural encounters (<http://www.coe.int/t/dg4/autobiography/default_en.asp>);9
+- **Reference framework of competences for democratic culture** (<https://go.coe.int/mWYUH>).10
+
+However, regardless of all this further material provided, the Council of Europe frequently received requests to continue to develop aspects of the CEFR, particularly the illustrative descriptors of second/foreign language proficiency. Requests were made asking the Council of Europe to complement the illustrative scales published in 2001 with descriptors for mediation, reactions to literature and online interaction, to produce versions for young learners and for signing competences, and to develop more detailed coverage in the descriptors for A1 and C levels.
 
 Much work done by other institutions and professional bodies since the publication of the CEFR has confirmed the validity of the initial research conducted under a Swiss National Science Foundation (SNSF) research project by Brian North and Günther Schneider. To respond to the requests received and in keeping with the open, dynamic character of the CEFR, the Education Policy Division (Language Policy Programme) therefore resolved to build on the widespread adoption and use of the CEFR to produce an extended version of the illustrative descriptors that replaces the ones contained in the body of the CEFR 2001 text. For this purpose, validated and calibrated descriptors were generously offered to the Council of Europe by a number of institutions in the field of language education.
 
 For mediation, an important concept introduced in the CEFR that has assumed even greater importance with the increasing linguistic and cultural diversity of our societies, however, no validated and calibrated descriptors existed. The development of descriptors for mediation was, therefore, the longest and most complex part of the project. Descriptor scales are here provided for mediating a text, for mediating concepts and for mediating communication, as well as for the related mediation strategies and plurilingual/pluricultural competences.
 <!-- el:end id=prose_p013_s0 -->
+
 3. www.coe.int/lang-cefr.
-4. www.coe.int/lang-platform. Beacco J.-C. et al. (2016a), **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621), Council
-5. of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae62
-1. Beacco J.-C. et al. (2016b), **A handbook for curriculum development and teacher education: the language dimension in all subjects**, Council
-6. of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806af387.
+4. www.coe.int/lang-platform.
+5. Beacco J.-C. et al. (2016a), **Guide for the development and implementation of curricula for plurilingual and intercultural education**, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae621.
+6. Beacco J.-C. et al. (2016b), **A handbook for curriculum development and teacher education: the language dimension in all subjects**, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806af387.
 7. Beacco J.-C. and Byram M. (2007), “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/16802fc1c4.
 8. www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines.
 9. www.coe.int/t/dg4/autobiography/default_en.asp.
-10.	 Council of Europe (2018), **Reference framework of competences for democratic culture**, Council of Europe Publishing, Strasbourg, available at https://go.coe.int/mWYUH, accessed 6 March 2020.
+10.  Council of Europe (2018), **Reference framework of competences for democratic culture**, Council of Europe Publishing, Strasbourg, available at https://go.coe.int/mWYUH, accessed 6 March 2020.
 
-Page **13**
+*Preface with acknowledgements ▶ Page **13***
 
 <!-- page:13 -->
-
 <!-- el:start type=prose id=prose_p014_s0 page=14 -->
 As part of the process of further developing the descriptors, an effort was made to make them modality-inclusive. The adaptation of the descriptors in this way is informed by the ECML’s pioneering PRO-Sign project. (http://www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx) In addition, illustrative descriptor scales specifically for signing competences are provided, again informed by SNSF research project No. 100015_156592.
 
@@ -326,71 +358,60 @@ This publication owes much to the contributions of members of the language teach
 Publication has been assisted by a project follow-up advisory group consisting of: Marisa Cavalli, Mirjam Egli Cuenat, Neus Figueras Casanovas, Francis Goullier, David Little, Günther Schneider and Joseph Sheils.
 
 In order to ensure complete coherence and continuity with the CEFR scales published in 2001, the Council of Europe asked the Eurocentres Foundation to once again take on responsibility for co-ordinating the further development of the CEFR descriptors, with Brian North co-ordinating the work. The Council of Europe wishes to express its gratitude to Eurocentres for the professionalism and reliability with which the work has been carried out.
-
-The entire process of updating and extending the illustrative descriptors took place in five stages or sub-projects: Stage 1:	 Filling gaps in the illustrative descriptor scales published in 2001with materials then available (2014-15)
-
-Authoring Group: Brian North, Tunde Szabo, Tim Goodier (Eurocentres Foundation)
-
-Sounding Board: Gilles Breton, Hanan Khalifa, Christine Tagliante, Sauli Takala
-
-Consultants: Coreen Docherty, Daniela Fasoglio, Neil Jones, Peter Lenz, David Little, Enrica Piccardo, Günther Schneider, Barbara Spinelli, Maria Stathopoulou, Bertrand Vittecoq
-
-Stage 2:	 Developing descriptor scales for areas missing in the 2001 set, in particular for mediation (2014-16)
-
-Authoring Group: Brian North, Tim Goodier, Enrica Piccardo, Maria Stathopoulou
-
-Sounding Board: Gilles Breton, Coreen Docherty, Hanan Khalifa, Ángeles Ortega, Christine Tagliante, Sauli Takala
-
-Consultants **(at meetings in June 2014, June 2015 and/or June 2016)**: Marisa Cavalli, Daniel Coste, Mirjam Egli Ceunat, Gudrun Erickson, Daniela Fasoglio, Vincent Folny, Manuela Ferreira Pinto, Glyn Jones, Neil Jones, Peter Lenz, David Little, Gerda Piribauer, Günther Schneider, Joseph Sheils, Belinda Steinhuber, Barbara Spinelli, Bertrand Vittecoq
 <!-- el:end id=prose_p014_s0 -->
-11.	 https://go.coe.int/mWYUH
+
+<!-- el:start type=prose id=prose_p014_stages page=14 -->
+<!-- book-qa: stages from user temp -->
+The entire process of updating and extending the illustrative descriptors took place in five stages or sub-projects:
+
+- Stage 1: Filling gaps in the illustrative descriptor scales published in 2001 with materials then available (2014-15)
+ - Authoring Group: Brian North, Tunde Szabo, Tim Goodier (Eurocentres Foundation)
+ - Sounding Board: Gilles Breton, Hanan Khalifa, Christine Tagliante, Sauli Takala
+ - Consultants: Coreen Docherty, Daniela Fasoglio, Neil Jones, Peter Lenz, David Little, Enrica Piccardo, Günther Schneider, Barbara Spinelli, Maria Stathopoulou, Bertrand Vittecoq
+- Stage 2:  Developing descriptor scales for areas missing in the 2001 set, in particular for mediation (2014-16)
+ - Authoring Group: Brian North, Tim Goodier, Enrica Piccardo, Maria Stathopoulou 
+ - Sounding Board: Gilles Breton, Coreen Docherty, Hanan Khalifa, Ángeles Ortega, Christine Tagliante, Sauli Takala
+ - Consultants **(at meetings in June 2014, June 2015 and/or June 2016)**: Marisa Cavalli, Daniel Coste, Mirjam Egli Ceunat, Gudrun Erickson, Daniela Fasoglio, Vincent Folny, Manuela Ferreira Pinto, Glyn Jones, Neil Jones, Peter Lenz, David Little, Gerda Piribauer, Günther Schneider, Joseph Sheils, Belinda Steinhuber, Barbara Spinelli, Bertrand Vittecoq
+
+11.  https://go.coe.int/mWYUH
+
+- Consultants **(at a meeting in June 2016 only)**: Sarah Breslin, Mike Byram, Michel Candelier, Neus Figueras Casanovas, Francis Goullier, Hanna Komorowska, Terry Lamb, Nick Saville, Maria Stoicheva, Luca Tomasi 
+- Stage 3: Developing a new scale for phonological control (2015-16)
+ - Authoring Group: Enrica Piccardo, Tim Goodier 
+ - Sounding Board: Brian North, Coreen Docherty 
+ - Consultants: Sophie Deabreu, Dan Frost, David Horner, Thalia Isaacs, Murray Munro
+- Stage 4: Developing descriptors for signing competences (2015-19)
+ - Authoring Group: Jörg Keller, Petrea Bürgin, Aline Meili, Dawei Ni
+ - Sounding Board: Brian North, Curtis Gautschi, Jean-Louis Brugeille, Kristin Snoddon
+ - Consultants: Patty Shores, Tobias Haug, Lorraine Leeson, Christian Rathmann, Beppie van den Bogaerde 
+- Stage 5: Collating descriptors for young learners (2014-16)
+ - Authoring Group: Tunde Szabo (Eurocentres Foundation)
+ - Sounding Board: Coreen Docherty, Tim Goodier, Brian North 
+ - Consultants: Angela Hasselgreen, Eli Moe 
+
+The Council of Europe wishes to thank the following institutions and projects for kindly making their validated descriptors available:
+<!-- el:end id=prose_p014_stages -->
 
 *Page **14** ▶ **CEFR – Companion volume***
 
 <!-- page:14 -->
+<!-- el:start type=prose id=prose_p015_ack page=15 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
 
-<!-- el:start type=prose id=prose_p015_s0 page=15 -->
-Consultants **(at a meeting in June 2016 only)**: Sarah Breslin, Mike Byram, Michel Candelier, Neus Figueras Casanovas, Francis Goullier, Hanna Komorowska, Terry Lamb, Nick Saville, Maria Stoicheva, Luca Tomasi
+| Organization / Project                           | Descriptors / Scales                                                                                                                    |
+| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| ALTE (Association of Language Testers in Europe) | Can do statements                                                                                                                       |
+| AMKKIA project (Finland)                         | Descriptors for grammar and vocabulary                                                                                                  |
+| Cambridge Assessment English                     | BULATS Summary of Typical Candidate Abilities Common Scales for Speaking and for Writing Assessment Scales for Speaking and for Writing |
+| CEFR-J project                                   | Descriptors for secondary school learners                                                                                               |
+| Eaquals                                          | Equaals bank of CEFR-related descriptors                                                                                                |
+| English Profile                                  | Descriptors for the C level                                                                                                             |
+| Lingualevel/IEF (Swiss project)                  | Descriptors for secondary school learners                                                                                               |
+| Pearson Education                                | Global Scale of English (GSE)                                                                                                           |
 
-Stage 3:	 Developing a new scale for phonological control (2015-16)
+The Council of Europe would also like to thank:
 
-Authoring Group: Enrica Piccardo, Tim Goodier
-
-Sounding Board: Brian North, Coreen Docherty
-
-Consultants: Sophie Deabreu, Dan Frost, David Horner, Thalia Isaacs, Murray Munro
-
-Stage 4:	 Developing descriptors for signing competences (2015-19)
-
-Authoring Group: Jörg Keller, Petrea Bürgin, Aline Meili, Dawei Ni
-
-Sounding Board: Brian North, Curtis Gautschi, Jean-Louis Brugeille, Kristin Snoddon
-
-Consultants: Patty Shores, Tobias Haug, Lorraine Leeson, Christian Rathmann, Beppie van den Bogaerde
-
-Stage 5:	 Collating descriptors for young learners (2014-16)
-
-Authoring Group: Tunde Szabo (Eurocentres Foundation)
-
-Sounding Board: Coreen Docherty, Tim Goodier, Brian North
-
-Consultants: Angela Hasselgreen, Eli Moe
-
-The Council of Europe wishes to thank the following institutions and projects for kindly making their validated descriptors available: ALTE (Association of Language Testers in Europe)
-
-AMKKIA project (Finland)
-
-Cambridge Assessment English
-
-CEFR-J project
-
-Eaquals
-
-English Profile
-
-Lingualevel/IEF (Swiss) project
-
-Pearson Education The Council of Europe would also like to thank: Pearson Education for kindly validating some 50 descriptors that were included from non-calibrated sources, principally from the Eaquals’ bank and the late John Trim’s translation of descriptors for the C levels in Profile Deutsch.
+Pearson Education for kindly validating some 50 descriptors that were included from non-calibrated sources, principally from the Eaquals’ bank and the late John Trim’s translation of descriptors for the C levels in Profile Deutsch.
 
 The Research Centre for Language Teaching, Testing and Assessment, National and Kapodistrian University of Athens (RCeL) for making available descriptors from the Greek Integrated Foreign Languages Curriculum.
 
@@ -398,190 +419,160 @@ Cambridge Assessment English, in particular Coreen Docherty, for the logistical 
 
 Cambridge Assessment English and the European Language Portfolio authors for making their descriptors available for the collation of descriptors for young learners.
 
-The Swiss National Science Foundation and the Max Bircher Stiftung for funding the research and development of the descriptors for signing competences.12 Can do statements Descriptors for grammar and vocabulary BULATS Summary of Typical Candidate Abilities Common Scales for Speaking and for Writing Assessment Scales for Speaking and for Writing Descriptors for secondary school learners Eaquals bank of CEFR-related descriptors Descriptors for the C level Descriptors for secondary school learners Global Scale of English (GSE)
-<!-- el:end id=prose_p015_s0 -->
-12.	 SNSF research project 100015_156592: Gemeinsamer Europäischer Referenzrahmen für Gebärdensprachen: Empirie-basierte Grundlagen für grammatische, pragmatische und soziolinguistische Deskriptoren in Deutschschweizer Gebärdensprache, conducted at the Zurich University of Applied Sciences (ZHAW, Winterthur). The SNSF provided some €385 000 for this research into signing competences.
+The Swiss National Science Foundation and the Max Bircher Stiftung for funding the research and development of the descriptors for signing competences.12 
+
+12.  SNSF research project 100015_156592: Gemeinsamer Europäischer Referenzrahmen für Gebärdensprachen: Empirie-basierte Grundlagen für grammatische, pragmatische und soziolinguistische Deskriptoren in Deutschschweizer Gebärdensprache, conducted at the Zurich University of Applied Sciences (ZHAW, Winterthur). The SNSF provided some €385 000 for this research into signing competences.
+<!-- el:end id=prose_p015_ack -->
 
 *Preface with acknowledgements ▶ Page **15***
 
 <!-- page:15 -->
-
-<!-- el:start type=prose id=prose_p016_s0 page=16 -->
-The PRO-Sign project team (European Centre for Modern Languages, ECML) for their assistance in finalising the descriptors for signing competences and in adapting the other descriptors for modality inclusiveness.13
+<!-- el:start type=prose id=prose_p016_ack page=16 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
+The PRO-Sign project team (European Centre for Modern Languages, ECML) for their assistance in finalising the descriptors for signing competences and in adapting the other descriptors for modality inclusiveness.13 
 
 The Department of Deaf Studies and Sign Language Interpreting at Humboldt-Universität zu Berlin for undertaking the translation of the whole document, including all the illustrative descriptors, into International Sign.
 
 The following readers, whose comments on an early version of the text on key aspects of the CEFR for learning, teaching and assessment greatly helped to structure it appropriately for readers with different degrees of familiarity with the CEFR: Sezen Arslan, Danielle Freitas, Angelica Galante, İsmail Hakkı Mirici, Nurdan Kavalki, Jean-Claude Lasnier, Laura Muresan, Funda Ölmez.
 
-Organisations, in alphabetical order, that facilitated the recruitment of institutes for the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/pluricultural competence: Cambridge Assessment English
+Organisations, in alphabetical order, that facilitated the recruitment of institutes for the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/pluricultural competence:
+- Cambridge Assessment English
+- CERCLES: European Confederation of Language Centres in Higher Education
+- CIEP: Centre international d’études pédagogiques
+- EALTA: European Association for Language Testing and Assessment
+- Eaquals: Evaluation and Accreditation of Quality in Language Services
+- FIPLV: International Federation of Language Teaching Associations
+- Instituto Cervantes
+- NILE (Norwich Institute for Language Education)
+- UNIcert
 
-CERCLES: European Confederation of Language Centres in Higher Education
+Institutes (organised in alphabetical order by country) that participated between February and November 2015 in the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/ pluricultural competence, and/or assisted in initial piloting. The Council of Europe also wishes to thank the many individual participants, all of whose institutes could not be included here.
 
-CIEP: Centre international d’études pédagogiques
+| Country                    | Institution / Organization                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                         |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Algeria**                | Institut Français d'Alger                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                         |
+| **Argentina**              | Academia Argüello, Córdoba<br>La Asociación de Ex Alumnos del Profesorado en Lenguas Vivas Juan R. Fernández <br>National University of Córdoba                                                                                                                                                                                     | St Patrick's School, Córdoba Universidad Nacional de La Plata, La Plata                                                                                                                                                                                                                                 |
+| **Austria**                | BBS (Berufsbildende Schule), Rohrbach BG/BRG (Bundesgymnasium/Bundesrealgymnasium), Hallein <br>CEBS (Center für berufsbezogene Sprachen des bmbf), Vienna<br>Federal Institute for Education Research (BIFIE), Vienna<br>HBLW Linz-Landwiedstraße <br>HLW (Höhere Lehranstalt für wirtschaftliche Berufe) Ferrarischule, Innsbruck | Institut Français d'Autriche-Vienne <br>International Language Centre of the University of Innsbruck <br>LTRGI (Language Testing Research Group Innsbruck), School of Education, University of Innsbruck <br>Language Centre of the University of Salzburg <br>Pädagogische Hochschule Niederösterreich |
+| **Bolivia**                | Alliance Française de La Paz                                                                                                                                                                                                                                                                                                        | -                                                                                                                                                                                                                                                                                                       |
+| **Bosnia and Herzegovina** | Anglia V Language School, Bijeljina                                                                                                                                                                                                                                                                                                 | Institut Français de Bosnie-Herzégovine                                                                                                                                                                                                                                                                 |
+| **Brazil**                 | Alliance Française <br>Alliance Française de Curitiba                                                                                                                                                                                                                                                                               | Instituto Cervantes do Recife                                                                                                                                                                                                                                                                           |
+| **Bulgaria**               | AVO Language and Examination Centre, Sofia                                                                                                                                                                                                                                                                                          | Sofia University St. Kliment Ohridski                                                                                                                                                                                                                                                                   |
 
-EALTA: European Association for Language Testing and Assessment
-
-Eaquals: Evaluation and Accreditation of Quality in Language Services
-
-FIPLV: International Federation of Language Teaching Associations
-
-Instituto Cervantes
-
-NILE (Norwich Institute for Language Education)
-
-UNIcert Institutes (organised in alphabetical order by country) that participated between February and November 2015 in the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/ pluricultural competence, and/or assisted in initial piloting. The Council of Europe also wishes to thank the many individual participants, all of whose institutes could not be included here. **Algeria**Institut Français d’Alger**Argentina** Academia Argüello, Córdoba La Asociación de Ex Alumnos del Profesorado en Lenguas Vivas Juan R. Fernández National University of Córdoba **Austria** BBS (Berufsbildende Schule), Rohrbach BG/BRG (Bundesgymnasium/Bundesrealgymnasium), Hallein CEBS (Center für berufsbezogene Sprachen des bmbf), Vienna Federal Institute for Education Research (BIFIE), Vienna HBLW Linz-Landwiedstraße HLW (Höhere Lehranstalt für wirtschaftliche Berufe) Ferrarischule, Innsbruck **Bolivia**Alliance Française de La Paz**Bosnia and Herzegovina**Anglia V Language School, Bijeljina**Brazil**Alliance Française Alliance Française de Curitiba**Bulgaria** AVO Language and Examination Centre, Sofia St Patrick’s School, Córdoba Universidad Nacional de La Plata, La Plata Institut Français d’Autriche-Vienne International Language Centre of the University of Innsbruck LTRGI (Language Testing Research Group Innsbruck), School of Education, University of Innsbruck Language Centre of the University of Salzburg Pädagogische Hochschule Niederösterreich Institut Français de Bosnie-Herzégovine Instituto Cervantes do Recife Sofia University St. Kliment Ohridski
-<!-- el:end id=prose_p016_s0 -->
-13.	 See www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx. Project team: Tobias Haug, Lorraine Leeson, Christian Rathmann, Beppie van den Bogaerde.
+13.  See www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx. Project team: Tobias Haug, Lorraine Leeson, Christian Rathmann, Beppie van den Bogaerde.
+<!-- el:end id=prose_p016_ack -->
 
 *Page **16** ▶ **CEFR – Companion volume***
 
 <!-- page:16 -->
+<!-- el:start type=prose id=prose_p017_ack page=17 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
 
-<!-- el:start type=prose id=prose_p017_s0 page=17 --> **Cameroon**Alliance Française de Bamenda**Canada**OISE (Ontario Institute for Studies in Education), University of Toronto**Chile**Alliance Française de La Serena**China** Alliance Française de Chine China Language Assessment, Beijing Foreign Studies University Guangdong University of Foreign Studies, School of Interpreting and Translation Studies **Colombia**Alliance Française de Bogota**Croatia**University of Split Croatian Defence Academy, Zagreb**Cyprus**Cyprus University of Technology**Czech Republic** Charles University, Prague (Institute for Language and Preparatory Studies) Masaryk University Language Centre, Brno **Egypt**Institut Français d’Egypt**Estonia**Foundation Innove, Tallinn**Finland** Aalto University Häme University of Applied Sciences Language Centre, University of Tampere Matriculation Examination Board National Board of Education **France** Alliance Française Alliance Française de Nice Alliance française Paris Ile-de-France British Council, Lyon CAVILAM (Centre d’Approches Vivantes des Langues et des Médias) – Alliance Française CIDEF (Centre international d’études françaises), Université catholique de l’Ouest CIEP (Centre international d’études pédagogiques) CLV (Centre de langues vivantes), Université Grenoble-Alpes Collège International de Cannes **Germany** Bundesarbeitsgemeinschaft Englisch an Gesamtschulen elc-European Language Competence, Frankfurt
-Frankfurt School of Finance & Management Fremdsprachenzentrum der Hochschulen im Land Bremen, Bremen University Georg-August-Universität Göttingen (Zentrale Einrichtung für Sprachen und Schlüsselqualifikationen) Goethe-Institut München Institut français d’Allemagne Language Centre, Neu-Ulm University of Applied Sciences (HNU) Institut Français du Cameroun, Yaoundé
-
-Heilongjiang University The Language Training and Testing Center, Taipei
-
-Tianjin Nankai University
-
-Universidad Surcolombiana
-
-X. Gimnazija “Ivan Supek” Ministry of Science, Education and Sports
-
-University of Cyprus
-
-National Institute of Education
-
-University of South Bohemia
-
-Instituto Cervantes de El Cairo
-
-Tampere University of Applied Sciences Turku University University of Eastern Finland University of Helsinki Language Centre University of Jyväskylä
-
-Crea-langues, France Eurocentres Paris France Langue French in Normandy ILCF (Institut de Langue et de Culture Françaises), Lyon
-
-INFREP (Institute National Formation Recherche Education Permanente) International House Nice ISEFE (Institut Savoisien d’Études Françaises pour Étrangers) Université de Franche-Comté
-
-Technische Hochschule Wildau Technische Universität Carolo-Wilhelmina zu Braunschweig (Sprachenzentrum) Technische Universität Darmstadt Technische Universität München (Sprachenzentrum)
-
-telc gGmbH Frankfurt
-
-Universität Freiburg (Sprachlehrinstitut) Universität Hohenheim (Sprachenzentrum) Universität Leipzig (Sprachenzentrum)
-<!-- el:end id=prose_p017_s0 -->
+| Country            | Institution / Organization                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cameroon**       | Alliance Française de Bamenda                                                                                                                                                                                                                                                                                                                                                                                                                                | Institut Français du Cameroun, Yaoundé                                                                                                                                                                                                                                                                                                                      |
+| **Canada**         | OISE (Ontario Institute for Studies in Education), University of Toronto                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                             |
+| **Chile**          | Alliance Française de La Serena                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                             |
+| **China**          | Alliance Française de Chine<br>China Language Assessment, Beijing Foreign Studies University<br>Guangdong University of Foreign Studies, School of Interpreting and Translation Studies                                                                                                                                                                                                                                                                      | Heilongjiang University<br>The Language Training and Testing Center, Taipei<br>Tianjin Nankai University                                                                                                                                                                                                                                                    |
+| **Colombia**       | Alliance Française de Bogota                                                                                                                                                                                                                                                                                                                                                                                                                                 | Universidad Surcolombiana                                                                                                                                                                                                                                                                                                                                   |
+| **Croatia**        | University of Split<br>Croatian Defence Academy, Zagreb                                                                                                                                                                                                                                                                                                                                                                                                      | X. Gimnazija "Ivan Supek"<br>Ministry of Science, Education and Sports                                                                                                                                                                                                                                                                                      |
+| **Cyprus**         | Cyprus University of Technology                                                                                                                                                                                                                                                                                                                                                                                                                              | University of Cyprus                                                                                                                                                                                                                                                                                                                                        |
+| **Czech Republic** | Charles University, Prague (Institute for Language and Preparatory Studies)<br>Masaryk University Language Centre, Brno                                                                                                                                                                                                                                                                                                                                      | National Institute of Education<br>University of South Bohemia                                                                                                                                                                                                                                                                                              |
+| **Egypt**          | Institut Français d'Égypte                                                                                                                                                                                                                                                                                                                                                                                                                                   | Instituto Cervantes de El Cairo                                                                                                                                                                                                                                                                                                                             |
+| **Estonia**        | Foundation Innove, Tallinn                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                             |
+| **Finland**        | Aalto University<br>Häme University of Applied Sciences<br>Language Centre, University of Tampere<br>Matriculation Examination Board<br>National Board of Education                                                                                                                                                                                                                                                                                          | Tampere University of Applied Sciences<br>Turku University<br>University of Eastern Finland<br>University of Helsinki Language Centre<br>University of Jyväskylä                                                                                                                                                                                            |
+| **France**         | Alliance Française<br>Alliance Française de Nice<br>Alliance française Paris Ile-de-France<br>British Council, Lyon<br>CAVILAM (Centre d'Approches Vivantes des Langues et des Médias) – Alliance Française<br>CIDEF (Centre international d'études françaises), Université catholique de l'Ouest<br>CIEP (Centre international d'études pédagogiques)<br>CLV (Centre de langues vivantes), Université Grenoble-Alpes<br>Collège International de Cannes     | Crea-langues, France<br>Eurocentres Paris<br>France Langue<br>French in Normandy<br>ILCF (Institut de Langue et de Culture Françaises), Lyon<br>INFREP (Institute National Formation Recherche Education Permanente)<br>International House Nice<br>ISEEE (Institut Savoisien d'Études Françaises pour Étrangers)<br>Université de Franche-Comté            |
+| **Germany**        | Bundesarbeitsgemeinschaft Englisch an Gesamtschulen<br>elc-European Language Competence, Frankfurt<br>Frankfurt School of Finance & Management<br>Fremdsprachenzentrum der Hochschulen im Land Bremen, Bremen University<br>Georg-August-Universität Göttingen (Zentrale Einrichtung für Sprachen und Schlüsselqualifikationen)<br>Goethe-Institut München<br>Institut français d'Allemagne<br>Language Centre, Neu-Ulm University of Applied Sciences (HNU) | Technische Hochschule Wildau<br>Technische Universität Carolo-Wilhelmina zu Braunschweig (Sprachenzentrum)<br>Technische Universität Darmstadt<br>Technische Universität München (Sprachenzentrum)<br>telc gGmbH Frankfurt<br>Universität Freiburg (Sprachlehrinstitut)<br>Universität Hohenheim (Sprachenzentrum)<br>Universität Leipzig (Sprachenzentrum) |
+<!-- el:end id=prose_p017_ack -->
 
 *Preface with acknowledgements ▶ Page **17***
 
 <!-- page:17 -->
+<!-- el:start type=prose id=prose_p018_ack page=18 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
 
-<!-- el:start type=prose id=prose_p018_s0 page=18 -->
-Instituto Cervantes de Munich Institut für Qualitätsentwicklung Mecklenburg-Vorpommern Justus-Liebig Universität Giessen (Zentrum für fremdsprachliche und berufsfeldorientierte Kompetenzen) Pädagogische Hochschule Heidelberg Pädagogische Hochschule Karlsruhe Ruhr-Universität Bochum, ZFA (Zentrum für Fremdsprachenausbildung ) Sprachenzentrum, Europa-Universität Viadrina Frankfurt (Oder) **Greece**Bourtsoukli Language Centre Hellenic American University in Athens**Hungary** ELTE ONYC Eötvös Lorand University Euroexam Budapest Business School Budapest University of Technology and Economics **India**ELT Consultants**Ireland**Alpha College, Dublin Galway Cultural Institute**Italy** Accento, Martina Franca, Apulia AISLi (Associazione Italiana Scuola di Lingue) Alliance Française Bennett Languages, Civitavecchia British School of Trieste British School of Udine Centro Lingue Estere Arma dei Carabinieri
-
-Centro Linguistio di Ateneo – Università di Bologna Centro Linguistico di Ateneo di Trieste
-
-CVCL (Centro per la Valutazione e le Certificazioni linguistiche) – Università per Stranieri di Perugia Free University of Bolzano, Language Study Unit Globally Speaking, Rome Institut Français de Milan Institute for Educational Research/LUMSA University, Rome **Japan**Alliance Française du Japon Institut Français du Japon**Latvia**Baltic International Academy, Department of Translation and Interpreting**Lebanon**Institut Français du Liban**Lithuania**Lithuanian University of Educational Sciences Ministry of Education and Science**Luxembourg**Ministry of Education, Children and Youth**Mexico** University of Guadalajara Universität Passau (Sprachenzentrum) Universität Regensburg (Zentrum für Sprache und Kommunikation) Universität Rostock (Sprachenzentrum)
-
-Universität des Saarlandes (Sprachenzentrum) University Language Centers in Berlin and Brandenburg VHS Siegburg
-
-RCeL: National and Kapodistrian University of Athens Vagionia Junior High School, Crete
-
-ECL Examinations, University of Pécs Tanárok Európai Egyyesülete, AEDE University of Debrecen University of Pannonia
-
-Fluency Center, Coimbatore
-
-NUI Galway Trinity College Dublin
-
-International House, Palermo Istituto Comprensivo di Campli Istituto Monti, Asti Liceo Scientifico “Giorgio Spezia”, Domodossola Padova University Language Centre Pisa University Language Centre Servizio Linguistico di Ateneo, Università Cattolica del Sacro Cuore, Milano Università degli Studi Roma Tre Università degli Studi di Napoli “Parthenope”/I. C. “Nino Cortese”, Casoria, Naples Università degli Studi di Parma
-
-University of Bologna Centro Linguistico di Ateneo, Università della Calabria University of Brescia Università per Stranieri di Siena
-
-Japan School of Foreign Studies, Osaka University Tokyo University of Foreign Studies, Japan
-
-University of Latvia
-
-Vilnius University
-
-University of Luxembourg
-<!-- el:end id=prose_p018_s0 -->
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                | Instituto Cervantes de Munich<br>Institut für Qualitätsentwicklung Mecklenburg-Vorpommern<br>Justus-Liebig Universität Giessen (Zentrum für fremdsprachliche und berufsfeldorientierte Kompetenzen)<br>Pädagogische Hochschule Heidelberg<br>Pädagogische Hochschule Karlsruhe<br>Ruhr-Universität Bochum, ZFA (Zentrum für Fremdsprachenbildung)<br>Sprachenzentrum, Europa-Universität Viadrina Frankfurt (Oder)                                                                                                                                                                                                                      | Universität Passau (Sprachenzentrum)<br>Universität Regensburg (Zentrum für Sprache und Kommunikation)<br>Universität Rostock (Sprachenzentrum)<br>Universität des Saarlandes (Sprachenzentrum)<br>University Language Centers in Berlin and Brandenburg<br>VHS Siegburg                                                                                                                                                                                                                                                                                                                                         |
+| **Greece**     | Boursoukli Language Centre<br>Hellenic American University in Athens                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | RCel: National and Kapodistrian University of Athens<br>Vagonia Junior High School, Crete                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Hungary**    | ELTE ONYC<br>Eötvös Lorand University<br>Euroexam<br>Budapest Business School<br>Budapest University of Technology and Economics                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | ECL Examinations, University of Pécs<br>Tanárképző Európái Egyesülete, AEDE<br>University of Debrecen<br>University of Pannonia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **India**      | ELT Consultants                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Fluency Center, Coimbatore                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Ireland**    | Alpha College, Dublin<br>Galway Cultural Institute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | NUI Galway<br>Trinity College Dublin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Italy**      | Accento, Martina Franca, Apulia<br>AISLI (Associazione Italiana Scuola di Lingue)<br>Alliance Française<br>Bennett Languages, Civitavecchia<br>British School of Trieste<br>British School of Udine<br>Centro Lingue Estere Arma dei Carabinieri<br>Centro Linguistico di Ateneo – Università di Bologna<br>Centro Linguistico di Ateneo di Trieste<br>CVCL (Centro per la Valutazione e le Certificazioni linguistiche) – Università per Stranieri di Perugia<br>Free University of Bolzano, Language Study Unit<br>Globally Speaking, Rome<br>Institut Français de Milan<br>Institute for Educational Research/LUMSA University, Rome | International House, Palermo<br>Istituto Comprensivo di Campili<br>Istituto Monti, Asti<br>Liceo Scientifico “Giorgio Spezia”, Domodossola<br>Padova University Language Centre<br>Pisa University Language Centre<br>Servizio Linguistico di Ateneo, Università Cattolica del Sacro Cuore, Milano<br>Università degli Studi Roma Tre<br>Università degli Studi di Napoli “Parthenope”/I.C. “Nino Cortese”, Casoria, Naples<br>Università degli Studi di Parma<br>University of Bologna<br>Centro Linguistico di Ateneo, Università della Calabria<br>University of Brescia<br>Università per Stranieri di Siena |
+| **Japan**      | Alliance Française du Japon<br>Institut Français du Japon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Japan School of Foreign Studies, Osaka University<br>Tokyo University of Foreign Studies, Japan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Latvia**     | Baltic International Academy, Department of Translation and Interpreting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | University of Latvia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Lebanon**    | Institut Français du Liban                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **Lithuania**  | Lithuanian University of Educational Sciences<br>Ministry of Education and Science                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Vilnius University                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| **Luxembourg** | Ministry of Education, Children and Youth                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | University of Luxembourg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Mexico**     | University of Guadalajara                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+<!-- el:end id=prose_p018_ack -->
 
 *Page **18** ▶ **CEFR – Companion volume***
 
 <!-- page:18 -->
+<!-- el:start type=prose id=prose_p019_ack page=19 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
 
-<!-- el:start type=prose id=prose_p019_s0 page=19 --> **Morocco**Institut Français de Maroc**Netherlands**Institut Français des Pays-Bas Cito**New Zealand**LSI (Language Studies International)**North Macedonia**AAB University Elokventa Language Centre**Norway**Department of Teacher Education and School Research, University of Oslo University of Bergen**Peru**Alliance Française au Peru**Poland** British Council, Warsaw
-Educational Research Institute, Warsaw Gama College, Kraków Instituto Cervantes, Kraków **Portugal** British Council, Lisbon Camões, Instituto da Cooperação e da Língua
-
-FCSH, NOVA University of Lisbon **Romania** ASE (Academia de Studii Economice din Bucuresti) Institut Français de Roumanie LINGUA Language Centre of Babeș-Bolyai, University Cluj-Napoca **Russia** Globus International Language Centres Lomonosov Moscow State University MGIMO (Moscow State Institute of International Relations) National Research University Higher Schools of Economics, Moscow **Saudi Arabia**ELC (English Language Center ), Taibah University, Madinah**Senegal**Institut Français de Dakar**Serbia**Centre Jules Verne Institut Français de Belgrade**Slovakia**Trnava University**Slovenia**Državni izpitni center**Spain** Alliance Française en Espagne British Council, Madrid British Institute of Seville Centro de Lenguas, Universitat Politècnica de València Consejería de Educación de la Junta de Andalucía
-
-Departament d’EnsenyamentGeneralitat de Catalunya SLO (Netherlands Institute for curriculum development) University of Groningen, Language Centre
-
-Worldwide School of English
-
-Language Center, South East European University MAQS (Macedonian Association for Quality Language Services), Queen Language School
-
-Vox – Norwegian Agency for Lifelong Learning
-
-USIL (Universidad San Ignacio de Loyola)
-
-Jagiellonian Language Center, Jagiellonian University, Kraków LANG LTC Teacher Training Centre, Warsaw Poznan University of Technology, Poland SWPS University of Social Sciences and Humanities, Poland
-
-IPG (Instituto Politécnico da Guarda) ISCAP – Instituto Superior de Contabilidade e Administração do Porto, Instituto Politécnico do Porto University of Aveiro
-
-Petroleum-Gas University of Ploiesti Universitatea Aurel Vlaicu din Arad
-
-Nizhny Novgorod Linguistics University Samara State University St Petersburg State University
-
-National Center for Assessment in Higher Education, Riyadh
-
-University of Belgrade
-
-EOI de Villanueva-Don Benito, Extremadura ILM (Instituto de Lenguas Modernas), Caceres Institut Français d’Espagne Instituto Britanico de Sevilla S. A. Instituto de Lenguas Modernas de la Universidad de Extremadura Lacunza International House, San Sebastián
-<!-- el:end id=prose_p019_s0 -->
+| Country             | Institution / Organization                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                 |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Morocco**         | Institut Français de Maroc                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                 |
+| **Netherlands**     | Institut Français des Pays-Bas<br>Cito                                                                                                                                                                                                                        | SLO (Netherlands Institute for curriculum development)<br>University of Groningen, Language Centre                                                                                                                                                                              |
+| **New Zealand**     | LSI (Language Studies International)                                                                                                                                                                                                                          | Worldwide School of English                                                                                                                                                                                                                                                     |
+| **North Macedonia** | AAB University<br>Elokventa Language Centre                                                                                                                                                                                                                   | Language Center, South East European University<br>MAQS (Macedonian Association for Quality Language Services), Queen Language School                                                                                                                                           |
+| **Norway**          | Department of Teacher Education and School Research, University of Oslo<br>University of Bergen                                                                                                                                                               | Vox – Norwegian Agency for Lifelong Learning                                                                                                                                                                                                                                    |
+| **Peru**            | Alliance Française au Peru                                                                                                                                                                                                                                    | USIL (Universidad San Ignacio de Loyola)                                                                                                                                                                                                                                        |
+| **Poland**          | British Council, Warsaw<br>Educational Research Institute, Warsaw<br>Gama College, Kraków<br>Instituto Cervantes, Kraków                                                                                                                                      | Jagiellonian Language Center, Jagiellonian University, Kraków<br>LANG LTC Teacher Training Centre, Warsaw<br>Poznan University of Technology, Poland<br>SWPS University of Social Sciences and Humanities, Poland                                                               |
+| **Portugal**        | British Council, Lisbon<br>Camões, Instituto da Cooperação e da Língua<br>FCSH, NOVA University of Lisbon                                                                                                                                                     | IPG (Instituto Politécnico da Guarda)<br>ISCAP – Instituto Superior de Contabilidade e Administração do Porto, Instituto Politécnico do Porto<br>University of Aveiro                                                                                                           |
+| **Romania**         | ASE (Academia de Studii Economice din Bucuresti)<br>Institut Français de Roumanie<br>LINGUA Language Centre of Babeș-Bolyai, University Cluj-Napoca                                                                                                           | Petroleum-Gas University of Ploiesti<br>Universitatea Aurel Vlaicu din Arad                                                                                                                                                                                                     |
+| **Russia**          | Globus International Language Centres<br>Lomonosov Moscow State University<br>MGIMO (Moscow State Institute of International Relations)<br>National Research University Higher Schools of Economics, Moscow                                                   | Nizhny Novgorod Linguistics University<br>Samara State University<br>St Petersburg State University                                                                                                                                                                             |
+| **Saudi Arabia**    | ELC (English Language Center), Taibah University, Madinah                                                                                                                                                                                                     | National Center for Assessment in Higher Education, Riyadh                                                                                                                                                                                                                      |
+| **Senegal**         | Institut Français de Dakar                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                 |
+| **Serbia**          | Centre Jules Verne<br>Institut Français de Belgrade                                                                                                                                                                                                           | University of Belgrade                                                                                                                                                                                                                                                          |
+| **Slovakia**        | Trnava University                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                 |
+| **Slovenia**        | Državni izpitni center                                                                                                                                                                                                                                        |                                                                                                                                                                                                                                                                                 |
+| **Spain**           | Alliance Française en Espagne<br>British Council, Madrid<br>British Institute of Seville<br>Centro de Lenguas, Universitat Politècnica de València<br>Consejería de Educación de la Junta de Andalucía<br>Departament d’Ensenyament- Generalitat de Catalunya | EOL de Villanueva-Don Benito, Extremadura<br>ILM (Instituto de Lenguas Modernas), Caceres<br>Institut Français d’Espagne<br>Instituto Británico de Sevilla S.A.<br>Instituto de Lenguas Modernas de la Universidad de Extremadura<br>Lacunza International House, San Sebastián |
+<!-- el:end id=prose_p019_ack -->
 
 *Preface with acknowledgements ▶ Page **19***
 
 <!-- page:19 -->
+<!-- el:start type=prose id=prose_p020_ack page=20 -->
+<!-- book-qa: user temp only 14-20 tables (PDF-aligned remap) -->
 
-<!-- el:start type=prose id=prose_p020_s0 page=20 -->
-EOI de Albacete EOI de Badajoz, Extremadura EOI de Catalunya EOI de Granada EOI de La Coruña, Galicia EOI de Málaga, Málaga EOI de Santa Cruz de Tenerife EOI de Santander EOI de Santiago de Compostela, Galicia EOI (Escola Oficial de Idiomas) de Vigo **Sweden**Instituto Cervantes Stockholm**Switzerland** Bell Switzerland
-
-Eurocentres Lausanne Sprachenzentrum der Universität Basel
-
-TLC (The Language Company) Internationa House Zurich-Baden **Thailand**Alliance Française Bangkok**Turkey**Çağ University, Mersin Ege University Hacettepe University, Ankara**Uganda**Alliance Française de Kampala**Ukraine** Institute of Philology, Taras Shevchenko National University of Kyiv Odessa National Mechnikov University **United Arab Emirates**Higher Colleges of Technology**United Kingdom** Anglia Examinations, Chichester College Cambridge Assessment English
-
-Eurocentres, Bournemouth
-
-Eurocentres, Brighton Eurocentres, London Experience English Instituto Cervantes de Mánchester International Study and Language Institute, University of Reading Kaplan International College, London NILE (Norwich Institute for Language Education) **United States of America** Alliance Française de Porto Rico Cambridge Michigan Language Assessments Columbia University, New York Eastern Michigan University **Uruguay** Centro Educativo Rowan, Montevideo Net Languages, Barcelona Universidad Antonio de Nebrija Universidad Europea de Madrid Universidad Internacional de La Rioja Universidad Católica de València Universidad de Cantabria Universidad de Jaén Universidad Pablo de Olavide, Sevilla Universidad Ramon Llull, Barcelona Universitat Autònoma de Barcelona
-
-University of Gothenburg
-
-UNIL (Université de Lausanne), EPFL (École polytechnique fédérale de Lausanne) Universität Fribourg ZHAW (Zürcher Hochschule für Angewandte Wissenschaften), Winterthu
-
-ID Bilkent University, Ankara Middle East Technical University, Ankara Sabancı University, Istanbul
-
-Sumy State University, Institute for Business Technologies
-
-Taras Shevchenko National University of Kyiv
-
-Pearson Education School of Modern Languages and Culture, University of Warwick Southampton Solent University, School of Business and Law St Giles International London Central Trinity College London University of Exeter University of Hull University of Liverpool
-
-University of Westminster Westminster Professional Language Centre
-
-ETS (Educational Testing Service) Purdue University University of Michigan
-<!-- el:end id=prose_p020_s0 -->
+|                              |                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                              | EOI de Albacete<br>EOI de Badajoz, Extremadura<br>EOI de Catalunya<br>EOI de Granada<br>EOI de La Coruña, Galicia<br>EOI de Málaga, Málaga<br>EOI de Santa Cruz de Tenerife<br>EOI de Santander<br>EOI de Santiago de Compostela, Galicia<br>EOI (Escola Oficial de Idiomas) de Vigo                                                                                           | Net Languages, Barcelona<br>Universidad Antonio de Nebrija<br>Universidad Europea de Madrid<br>Universidad Internacional de La Rioja<br>Universidad Católica de València<br>Universidad de Cantabria<br>Universidad de Jaén<br>Universidad Pablo de Olavide, Sevilla<br>Universidad Ramon Llull, Barcelona<br>Universitat Autònoma de Barcelona                      |
+| **Sweden**                   | Instituto Cervantes Stockholm                                                                                                                                                                                                                                                                                                                                                  | University of Gothenburg                                                                                                                                                                                                                                                                                                                                             |
+| **Switzerland**              | Bell Switzerland<br>Eurocentres Lausanne<br>Sprachenzentrum der Universität Basel<br>TLC (The Language Company) International House Zurich-Baden                                                                                                                                                                                                                               | UNIL (Université de Lausanne), EPFL (École polytechnique fédérale de Lausanne)<br>Universität Fribourg<br>ZHAW (Zürcher Hochschule für Angewandte Wissenschaften), Winterthur                                                                                                                                                                                        |
+| **Thailand**                 | Alliance Française Bangkok                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                      |
+| **Turkey**                   | Çağ University, Mersin<br>Ege University<br>Hacettepe University, Ankara                                                                                                                                                                                                                                                                                                       | ID Bilkent University, Ankara<br>Middle East Technical University, Ankara<br>Sabancı University, Istanbul                                                                                                                                                                                                                                                            |
+| **Uganda**                   | Alliance Française de Kampala                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                      |
+| **Ukraine**                  | Institute of Philology, Taras Shevchenko National University of Kyiv<br>Odesa National Mechnikov University                                                                                                                                                                                                                                                                    | Sumy State University, Institute for Business Technologies<br>Taras Shevchenko National University of Kyiv                                                                                                                                                                                                                                                           |
+| **United Arab Emirates**     | Higher Colleges of Technology                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                                                                                                                                      |
+| **United Kingdom**           | Anglia Examinations, Chichester College<br>Cambridge Assessment English<br>Eurocentres, Bournemouth<br>Eurocentres, Brighton<br>Eurocentres, London<br>Experience English<br>Instituto Cervantes de Manchester<br>International Study and Language Institute, University of Reading<br>Kaplan International College, London<br>NILE (Norwich Institute for Language Education) | Pearson Education<br>School of Modern Languages and Culture, University of Warwick<br>Southampton Solent University, School of Business and Law<br>St Giles International London Central<br>Trinity College London<br>University of Exeter<br>University of Hull<br>University of Liverpool<br>University of Westminster<br>Westminster Professional Language Centre |
+| **United States of America** | Alliance Française de Porto Rico<br>Cambridge Michigan Language Assessments<br>Columbia University, New York<br>Eastern Michigan University                                                                                                                                                                                                                                    | ETS (Educational Testing Service)<br>Purdue University<br>University of Michigan                                                                                                                                                                                                                                                                                     |
+| **Uruguay**                  | Centro Educativo Rowan, Montevideo                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                      |
+<!-- el:end id=prose_p020_ack -->
 
 *Page **20** ▶ **CEFR – Companion volume***
 
 <!-- page:20 -->
 
 <!-- el:start type=prose id=prose_p021_s0 page=21 -->
-Chapter 1 **INTRODUCTION**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)14 is part of the Council of Europe’s continuing work to ensure quality inclusive education as a right of all citizens. T (https://rm.coe.int/1680459f97)his update to the CEFR, first published online in 2018 in English and French as the “CEFR Companion Volume with New Descriptors”, updates and extends the CEFR, which was published as a book in 2001 and which is available in 40 languages at the time of writing. With this new, user-friendly version, the Council of Europe responds to the many comments that the 2001 edition was a very complex document that many language professionals found difficult to access. The key aspects of the CEFR vision are therefore explained in Chapter 2, which elaborates the key notions of the CEFR as a vehicle for promoting quality in second/foreign language teaching and learning as well as in plurilingual and intercultural education. The updated and extended version of the CEFR illustrative descriptors contained in this publication replaces the 2001 version of them.
+
+## Chapter 1
+
+### INTRODUCTION
+
+The **Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)14 is part of the Council of Europe’s continuing work to ensure quality inclusive education as a right of all citizens. This update to the CEFR, first published online in 2018 in English and French as the “CEFR Companion Volume with New Descriptors”, updates and extends the CEFR, which was published as a book in 2001 and which is available in 40 languages at the time of writing. With this new, user-friendly version, the Council of Europe responds to the many comments that the 2001 edition was a very complex document that many language professionals found difficult to access. The key aspects of the CEFR vision are therefore explained in Chapter 2, which elaborates the key notions of the CEFR as a vehicle for promoting quality in second/foreign language teaching and learning as well as in plurilingual and intercultural education. The updated and extended version of the CEFR illustrative descriptors contained in this publication replaces the 2001 version of them.
+
 Teacher educators and researchers will find it worthwhile to follow links and/or references given in Chapter 2 “Key aspects of the CEFR for teaching and learning” in order to also consult the chapters of the 2001 edition on, for example, full details of the descriptive scheme (CEFR 2001, Chapters 4 and 5). The updated and extended illustrative descriptors include all those from the CEFR 2001. The descriptor scales are organised according to the categories of the CEFR descriptive scheme. It is important to note that the changes and additions in this publication do not affect the construct described in the CEFR, or its Common Reference Levels.
 
 The CEFR in fact consists of far more than a set of common reference levels. As explained in Chapter 2, the CEFR broadens the perspective of language education in a number of ways, not least by its vision of the user/learner as a social agent, co-constructing meaning in interaction, and by the notions of mediation and plurilingual/ pluricultural competences. The CEFR has proved successful precisely because it encompasses educational values, a clear model of language-related competences and language use, and practical tools, in the form of illustrative descriptors, to facilitate the development of curricula and orientation of teaching and learning.
 <!-- el:end id=prose_p021_s0 -->
-14. **Common European Framework of Reference for Languages: Learning, teaching, assessment** (2001), Cambridge University Press, Cambridge, available at https://rm.coe.int/1680459f9
 
-Page **21**
+14. **Common European Framework of Reference for Languages: Learning, teaching, assessment** (2001), Cambridge University Press, Cambridge, available at https://rm.coe.int/1680459f97.
+
+*Introduction ▶ Page **21***
 
 <!-- page:21 -->
 
@@ -607,26 +598,28 @@ This CEFR Companion volume presents an extended version of the illustrative desc
 
 Small changes to formulations have been made to the descriptors to ensure that they are gender-neutral and modality-inclusive. Any substantive changes made to descriptors published in 2001 are listed in Appendix 7. The 2001 scales have been expanded with a selection of validated, calibrated descriptors from the institutions listed in the preface and by descriptors developed, validated, calibrated and piloted during a 2014-17 project to develop descriptors for mediation. The approach taken – both to the update of the descriptors published in 2001 and in the mediation project – is described in Appendix 6. Examples of contexts of use for the new illustrative descriptors for online interaction and for mediation activities, for the public, personal, occupational and educational domains, are provided in Appendix 5.
 
-In addition to the descriptors in this publication, a new collation of descriptors relevant for young learners, (https://www.coe.int/en/web/common-european-framework-reference-languages/bank-of-supplementary-descriptors)16 put together by the Eurocentres Foundation, is also available to assist with course planning and self-assessment. Here, a different approach was adopted: descriptors in the extended illustrative descriptors that are relevant for two age groups (7-1017 and 11-1518) were selected. Then a collation was made of the adaptations of these descriptors relevant to young learners, descriptors that appeared in the ELPs, complemented by assessment descriptors for young learners generously offered by Cambridge Assessment English.
+In addition to the descriptors in this publication, a new collation of descriptors relevant for young learners, (<https://www.coe.int/en/web/common-european-framework-reference-languages/bank-of-supplementary-descriptors>).16 put together by the Eurocentres Foundation, is also available to assist with course planning and self-assessment. Here, a different approach was adopted: descriptors in the extended illustrative descriptors that are relevant for two age groups (7-1017 and 11-1518) were selected. Then a collation was made of the adaptations of these descriptors relevant to young learners, descriptors that appeared in the ELPs, complemented by assessment descriptors for young learners generously offered by Cambridge Assessment English.
 
 The relationship between the CEFR descriptive scheme, the illustrative descriptors published in 2001 and the updates and additions provided in this publication is shown in Table 1. As can be seen, the descriptor scales for reception are presented before those for production, although the latter appear first in the 2001 CEFR text.
 <!-- el:end id=prose_p022_s0 -->
 
-15.	 www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx. PRO-Sign adaptations of CEFR descriptors are available in Czech, English, Estonian, German, Icelandic and Slovenian.
-16.	 Bank of supplementary descriptors, available at www.coe.int/en/web/common-european-framework-reference-languages/ bank-of-supplementary-descriptors.
-17.	 Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 1: Ages 7-10”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1688.
-18.	 Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 2: Ages 11-15”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1689.
+15.  www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx. PRO-Sign adaptations of CEFR descriptors are available in Czech, English, Estonian, German, Icelandic and Slovenian.
+16.  Bank of supplementary descriptors, available at www.coe.int/en/web/common-european-framework-reference-languages/ bank-of-supplementary-descriptors.
+17.  Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 1: Ages 7-10”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1688.
+18.  Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 2: Ages 11-15”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1689.
 
 *Page **22** ▶ **CEFR – Companion volume***
 
 <!-- page:22 -->
 
-<!-- el:start type=prose id=prose_p023_s0 page=23 --> **Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions**
+<!-- el:start type=prose id=prose_p023_s0 page=23 -->
+**Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions**
+
 <!-- el:end id=prose_p023_s0 -->
 
-<!-- el:start type=artifact id=table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions page=23 -->
-<!-- db:id=table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions type=table product_tier=context pages=23 -->
-### Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions | table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions
+<!-- el:start type=artifact id=table_01_descriptive_scheme_updates page=23 -->
+<!-- db:id=table_01_descriptive_scheme_updates type=table product_tier=context pages=23 -->
+### Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions | table_01_descriptive_scheme_updates
 
 | | In the 2001 descriptive scheme | In the<br>2001 descriptor scales | Descriptor scales updated in this publication | Descriptor scales added in this publication |
 | --- | --- | --- | --- | --- |
@@ -662,21 +655,24 @@ The relationship between the CEFR descriptive scheme, the illustrative descripto
 | Linguistic competence | | | | √ |
 | Sociolinguistic competence | | | | √ |
 | Pragmatic competence | | | | √ |
-<!-- el:end id=table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions -->
+<!-- el:end id=table_01_descriptive_scheme_updates -->
 
 *Introduction ▶ Page **23***
 
 <!-- page:23 -->
-
 <!-- el:start type=prose id=prose_p024_s0 page=24 -->
 ### 1.1. SUMMARY OF CHANGES TO THE ILLUSTRATIVE DESCRIPTORS
 
-Table 2 summarises the changes to the CEFR illustrative descriptors and also the rationale for these changes. A short description of the development project is given in Appendix 6, with a more complete version available in the paper by Brian North and Enrica Piccardo: “Developing illustrative descriptors of aspects of mediation for the CEFR (https://rm.coe.int/168073ff31)”.19 **Table 2 – Summary of changes to the illustrative descriptors**
+Table 2 summarises the changes to the CEFR illustrative descriptors and also the rationale for these changes. A short description of the development project is given in Appendix 6, with a more complete version available in the paper by Brian North and Enrica Piccardo: “Developing illustrative descriptors of aspects of mediation for the CEFR (<https://rm.coe.int/168073ff31>).19
+
+**Table 2 – Summary of changes to the illustrative descriptors**
+
 <!-- el:end id=prose_p024_s0 -->
 
-<!-- el:start type=artifact id=table_table_2_summary_of_changes_to_the_illustrative_descriptors page=24 -->
-<!-- db:id=scale_what_is_addressed_in_this_publication type=descriptor_scale product_tier=context pages=24-25 -->
-### What is addressed in this publication | scale_what_is_addressed_in_this_publication
+<!-- el:start type=artifact id=table_02_summary_descriptor_changes page=24 -->
+<!-- db:id=table_02_summary_descriptor_changes type=table product_tier=context pages=24-25 span_group=scale_what_is_addressed_in_this_publication -->
+<!-- span:group_id=scale_what_is_addressed_in_this_publication role=start pages=24-25 -->
+### Table 2 – Summary of changes to the illustrative descriptors | table_02_summary_descriptor_changes
 
 | What is addressed in this publication | Comments |
 | --- | --- |
@@ -697,25 +693,26 @@ Table 2 summarises the changes to the CEFR illustrative descriptors and also the
 | Sign languages | Descriptors have been rendered modality-inclusive. In addition, 14 scales specifically for signing competence are included. These were developed in a research project conducted in<br>Switzerland. |
 | Parallel project | |
 | Young learners | Two collations of descriptors for young learners from the European Language Portfolios (ELPs) are provided: for the 7-10 and 11-15 age groups respectively. At the moment, no young learner descriptors have been related to descriptors on the new scales, but the relevance for young learners is indicated. |
-<!-- el:end id=table_table_2_summary_of_changes_to_the_illustrative_descriptors -->
+<!-- el:end id=table_02_summary_descriptor_changes -->
 
-19.	 North B. and Piccardo E (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31.
+19.  North B. and Piccardo E (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31.
 
 *Page **24** ▶ **CEFR – Companion volume***
 
 <!-- page:24 -->
-
 <!-- el:start type=prose id=prose_p025_s1 page=25 -->
+<!-- table-continuity: full multipage table lives on page 24 (table_02 / summary descriptor changes); mid-page slice removed to keep single db:id for grep -->
+
 In addition to Chapter 2 “Key aspects of the CEFR for teaching and learning”, and the extended illustrative descriptors included in this publication, users may wish to consult the following two fundamental policy documents related to plurilingual, intercultural and inclusive education:
 
-- **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)** (Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chap (https://rm.coe.int/16806ae621)ter 8 on language diversification and the curriculum;
-- **Reference framework of competences for democratic culture** (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation includ (https://go.coe.int/mWYUH)ed in this publication.
+- **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621) (Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chapter 8 on language diversification and the curriculum;
+- **Reference framework of competences for democratic culture** (https://go.coe.int/mWYUH) (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation included in this publication.
 
-Users concerned with school education may also wish to consult the paper “Education, mobility, otherness – The (https://rm.coe.int/16807367ee) mediation functions of schools”,20 which helped the conceptualisation of mediation in the descriptor development project.
+Users concerned with school education may also wish to consult the paper “Education, mobility, otherness – The mediation functions of schools”,20 which helped the conceptualisation of mediation in the descriptor development project.
 <!-- el:end id=prose_p025_s1 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p025_s2 page=25 -->
-20.	 Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
+20. Coste D. and Cavalli M. (2015) “Education, mobility, otherness – The mediation functions of schools”, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee.
 <!-- el:end id=footnote_zone_p025_s2 -->
 
 *Introduction ▶ Page **25***
@@ -729,18 +726,23 @@ Page **26**
 <!-- page:26 -->
 
 <!-- el:start type=prose id=prose_p027_s0 page=27 -->
-Chapter 2 **KEY ASPECTS OF THE CEFR FOR  TEACHING AND LEARNING**<!-- el:end id=prose_p027_s0 -->
+
+## Chapter 2
+**KEY ASPECTS OF THE CEFR FOR TEACHING AND LEARNING**
+
+<!-- el:end id=prose_p027_s0 -->
 
 <!-- el:start type=prose id=prose_p027_s1 page=27 -->
-The Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) presents a comprehensive descriptive scheme of language proficiency and a set of Common Reference Levels (A1 to C2) defined in illustrative descriptor scales, plus options for curriculum design promoting plurilingual and intercultural education, further elaborated in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621)(Beacco et al. 2016a).
+The Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) presents a comprehensive descriptive scheme of language proficiency and a set of Common Reference Levels (A1 to C2) defined in illustrative descriptor scales, plus options for curriculum design promoting plurilingual and intercultural education, further elaborated in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621) (Beacco et al. 2016a).
 
 One of the main principles of the CEFR is the promotion of the positive formulation of educational aims and outcomes at all levels. Its “can do” definition of aspects of proficiency provides a clear, shared roadmap for learning, and a far more nuanced instrument to gauge progress than an exclusive focus on scores in tests and examinations. This principle is based on the CEFR view of language as a vehicle for opportunity and success in social, educational and professional domains. This key feature contributes to the Council of Europe’s goal of quality inclusive education as a right of all citizens. The Council of Europe’s Committee of Ministers recommends the “use of the CEFR as a tool for coherent, transparent and effective plurilingual education in such a way as to promote democratic citizenship, social cohesion and intercultural dialogue”.21
 
 As well as being used as a reference tool by almost all member states of the Council of Europe and the European Union, the CEFR has also had – and continues to have – considerable influence beyond Europe. In fact, the CEFR is being used not only to provide transparency and clear reference points for assessment purposes but also, increasingly, to inform curriculum reform and pedagogy. This development reflects the forward-looking conceptual underpinning of the CEFR and has paved the way for a new phase of work around the CEFR, leading to the extension of the illustrative descriptors published in this edition. Before presenting the illustrative descriptors, however, a reminder of the purpose and nature of the CEFR is outlined. First, we consider the aims of the CEFR, its descriptive scheme and the action-oriented approach, then the Common Reference Levels and creation of profiles in relation to them, plus the illustrative descriptors themselves, and finally the concepts of plurilingualism/ pluriculturalism and mediation that were introduced to language education by the CEFR.
-<!-- el:end id=prose_p027_s2 -->
+<!-- el:end id=prose_p027_s1 -->
 
 <!-- el:start type=artifact id=callout_p027_0 page=27 -->
-> **Background to the CEFR**>
+> **Background to the CEFR**
+>
 > The CEFR was developed as a continuation of the Council of Europe’s work in language education during the 1970s and 1980s. The CEFR “action-oriented approach” builds on and goes beyond the communicative approach proposed in the mid-1970s in the publication “The Threshold Level”, the first functional/ notional specification of language needs.
 >
 > The CEFR and the related European Language Portfolio (ELP) that accompanied it were recommended by an intergovernmental symposium held in Switzerland in 1991. As its subtitle suggests, the CEFR is concerned principally with learning and teaching. It aims to facilitate transparency and coherence between the curriculum, teaching and assessment within an institution and transparency and coherence between institutions, educational sectors, regions and countries.
@@ -749,10 +751,10 @@ As well as being used as a reference tool by almost all member states of the Cou
 <!-- el:end id=callout_p027_0 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p027_s4 page=27 -->
-21.	 Recommendation CM/Rec(2008)7 of the Committee of Ministers on the use of the Council of Europe’s Common European Framework of Reference for Languages (CEFR) and the promotion of plurilingualism, available at https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805d2fb1.
+21.  Recommendation CM/Rec(2008)7 of the Committee of Ministers on the use of the Council of Europe’s Common European Framework of Reference for Languages (CEFR) and the promotion of plurilingualism, available at https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805d2fb1.
 <!-- el:end id=footnote_zone_p027_s4 -->
 
-Page **27**
+*Key aspects of the CEFR for teaching and learning ▶ Page **27***
 
 <!-- page:27 -->
 
@@ -762,11 +764,11 @@ Page **27**
 <!-- el:end id=prose_p028_s0 -->
 
 <!-- el:start type=prose id=prose_p028_s1 page=28 -->
-The CEFR seeks to continue the impetus that Council of Europe projects have given to educational reform. The CEFR aims to help language professionals further improve the quality and effectiveness of language learning and teaching. The CEFR is not focused on assessment, as the word order in its subtitle – **Learning,  teaching, assessment**– makes clear.
+The CEFR seeks to continue the impetus that Council of Europe projects have given to educational reform. The CEFR aims to help language professionals further improve the quality and effectiveness of language learning and teaching. The CEFR is not focused on assessment, as the word order in its subtitle – **Learning, teaching, assessment** – makes clear.
 
 In addition to promoting the teaching and learning of languages as a means of communication, the CEFR brings a new, empowering vision of the learner. The CEFR presents the language user/learner as a “social agent”, acting in the social world and exerting agency in the learning process. This implies a real paradigm shift in both course planning and teaching by promoting learner engagement and autonomy.
 
-The CEFR’s action-oriented approach represents a shift away from syllabuses based on a linear progression through language structures, or a pre-determined set of notions and functions, towards syllabuses based on needs analysis, oriented towards real-life tasks and constructed around purposefully selected notions and functions. This promotes a “proficiency” perspective guided by “can do” descriptors rather than a “deficiency” perspective focusing on what the learners have not yet acquired. The idea is to design curricula and courses based on real-world communicative needs, organised around real-life tasks and accompanied by “can do” descriptors that communicate aims to learners. Fundamentally, the CEFR is a tool to assist the planning of curricula, courses and examinations by working backwards from what the users/learners need to be able to do in the language. The provision of a comprehensive descriptive scheme containing illustrative “can do” descriptor scales for as many aspects of the scheme as proves feasible (CEFR 2001 Chapters 4 and 5), plus associated content specifications published separately for different languages (Reference Level Descriptions – RLDs (http://www.coe.int/en/web/common-european-framework-reference-languages/reference-level-descriptions))22 is intended to provide a basis for such planning.
+The CEFR’s action-oriented approach represents a shift away from syllabuses based on a linear progression through language structures, or a pre-determined set of notions and functions, towards syllabuses based on needs analysis, oriented towards real-life tasks and constructed around purposefully selected notions and functions. This promotes a “proficiency” perspective guided by “can do” descriptors rather than a “deficiency” perspective focusing on what the learners have not yet acquired. The idea is to design curricula and courses based on real-world communicative needs, organised around real-life tasks and accompanied by “can do” descriptors that communicate aims to learners. Fundamentally, the CEFR is a tool to assist the planning of curricula, courses and examinations by working backwards from what the users/learners need to be able to do in the language. The provision of a comprehensive descriptive scheme containing illustrative “can do” descriptor scales for as many aspects of the scheme as proves feasible (CEFR 2001 Chapters 4 and 5), plus associated content specifications published separately for different languages (Reference Level Descriptions – RLDs (<http://www.coe.int/en/web/common-european-framework-reference-languages/reference-level-descriptions>).22 is intended to provide a basis for such planning.
 
 These aims were expressed in the CEFR 2001 as follows:
 <!-- el:end id=prose_p028_s1 -->
@@ -780,7 +782,7 @@ The stated aims of the CEFR are to:
 
 (CEFR 2001 Section 1.4)
 
-To further promote and facilitate co-operation, the CEFR also provides Common Reference Levels A1 to C2, defined by the illustrative descriptors. The Common Reference Levels were introduced in CEFR 2001 Chapter 3 and used for the descriptor scales distributed throughout CEFR 2001 Chapters 4 and 5. The provision of a common descriptive scheme, Common Reference Levels, and illustrative descriptors defining aspects of the scheme at
+To further promote and facilitate co-operation, the CEFR also provides Common Reference Levels A1 to C2, defined by the illustrative descriptors. The Common Reference Levels were introduced in CEFR 2001 Chapter 3 and used for the descriptor scales distributed throughout CEFR 2001 Chapters 4 and 5. The provision of a common descriptive scheme, Common Reference Levels, and illustrative descriptors defining aspects of the scheme at the different levels, is intended to provide a common metalanguage for the language education profession
 <!-- el:end id=prose_p028_s2 -->
 
 <!-- el:start type=artifact id=callout_p028_0 page=28 -->
@@ -798,15 +800,14 @@ To further promote and facilitate co-operation, the CEFR also provides Common Re
 <!-- el:end id=callout_p028_0 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p028_s4 page=28 -->
-22.	 www.coe.int/en/web/common-european-framework-reference-languages/reference-level-descriptions.
+22.  www.coe.int/en/web/common-european-framework-reference-languages/reference-level-descriptions.
 <!-- el:end id=footnote_zone_p028_s4 -->
 
 *Page **28** ▶ **CEFR – Companion volume***
 
 <!-- page:28 -->
-
 <!-- el:start type=prose id=prose_p029_s0 page=29 -->
-the different levels, is intended to provide a common metalanguage for the language education profession in order to facilitate communication, networking, mobility and the recognition of courses taken and examinations passed. In relation to examinations, the Council of Europe’s Language Policy Division has published a manual for relating language examinations to the CEFR (https://rm.coe.int/1680667a2d),23 now accompanied by a toolkit of accompanying material and a volume of case studies published by Cambridge University Press, together with a manual for language test development and examining (https://rm.coe.int/1680667a2b).24 The Council of Europe’s ECML has also produced **Relating language examinations  to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – Highlights (https://www.ecml.at/Portals/1/documents/ECML-resources/2011_10_10_relex._E_web.pdf?ver=2018-03-21-100940-823) from the Manual** 25 and provides capacity building to member states through its RELANG initiative (https://relang.ecml.at).26
+In relation to examinations, the Council of Europe’s Language Policy Division has published a manual for relating language examinations to the CEFR (<https://rm.coe.int/1680667a2d>).23 now accompanied by a toolkit of accompanying material and a volume of case studies published by Cambridge University Press, together with a manual for language test development and examining (<https://rm.coe.int/1680667a2b>).24 The Council of Europe’s ECML has also produced **Relating language examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual**.25 and provides capacity building to member states through its RELANG initiative (<https://relang.ecml.at>).26
 
 However, it is important to underline once again that the CEFR is a tool to facilitate educational reform projects, not a standardisation tool. Equally, there is no body monitoring or even co-ordinating its use. The CEFR itself states right at the very beginning:
 
@@ -824,13 +825,29 @@ The methodological message of the CEFR is that language learning should be direc
 <!-- el:start type=artifact id=callout_a_reminder_of_cefr_2001_chapters page=29 -->
 > **A reminder of CEFR 2001 chapters**
 >
-> *Chapter 1: The Common European Framework (https://www.ecml.at/Portals/1/documents/ECML-resources/2011_10_10_relex._E_web.pdf?ver=2018-03-21-100940-823) in its political and educational context Chapter 2: Approach adopted Chapter 3: Common Reference Levels Chapter 4: Language use and the language user/learner Chapter 5: The user/learner’s competences Chapter 6: Language learning and teaching Chapter 7: Tasks and their role in language teaching Chapter 8: Linguistic diversification and the curriculum Chapter 9: Assessment*
+> Chapter 1: The Common European Framework in its political and educational context
+>
+> Chapter 2: Approach adopted
+>
+> Chapter 3: Common Reference Levels
+>
+> Chapter 4: Language use and the language user/learner
+>
+> Chapter 5: The user/learner’s competences
+>
+> Chapter 6: Language learning and teaching
+>
+> Chapter 7: Tasks and their role in language teaching
+>
+> Chapter 8: Linguistic diversification and the curriculum
+>
+> Chapter 9: Assessment
 <!-- el:end id=callout_a_reminder_of_cefr_2001_chapters -->
 
-23.	 Council of Europe (2009), “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – A Manual”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2d.
-24.	 ALTE (2011), “Manual for language test development and examining – For use with the CEFR”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2b.
-25.	 Noijons J., Bérešová J., Breton G. et al. (2011), **Relating language examinations to the Common European Framework of Reference for  Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual**, Council of Europe Publishing, Strasbourg, available at: www.ecml.at/tabid/277/PublicationID/67/Default.aspx.
-26.	 Relating language curricula, tests and examinations to the Common European Framework of Reference (RELANG): https://relang.ecml.at/.
+23.  Council of Europe (2009), “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – A Manual”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2d.
+24.  ALTE (2011), “Manual for language test development and examining – For use with the CEFR”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2b.
+25.  Noijons J., Bérešová J., Breton G. et al. (2011), **Relating language examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual**, Council of Europe Publishing, Strasbourg, available at: www.ecml.at/tabid/277/PublicationID/67/Default.aspx.
+26.  Relating language curricula, tests and examinations to the Common European Framework of Reference (RELANG): https://relang.ecml.at/.
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **29***
 
@@ -873,17 +890,10 @@ Plurilingual competence as explained in the CEFR 2001 Section 1.3 involves the a
 *Page **30** ▶ **CEFR – Companion volume***
 
 <!-- page:30 -->
-
 <!-- el:start type=artifact id=callout_p031_0 page=31 -->
-> By a curious coincidence, 1996 was also the year in which the term “translanguaging” was first recorded (in relation to bilingual teaching in Wales).
+> By a curious coincidence, 1996 was also the year in which the term “translanguaging” was first recorded (in relation to bilingual teaching in Wales). Translanguaging is an action undertaken by plurilingual persons, where more than one language may be involved. A host of similar expressions now exist, but all are encompassed by the term plurilingualism.
 >
-> Translanguaging is an action undertaken by plurilingual persons, where more than one language may be involved.
->
-> A host of similar expressions now exist, but all are encompassed by the term plurilingualism.
->
-> Plurilingualism can in fact be considered from various perspectives: as a sociological or historical fact, as a personal characteristic or ambition, as an educational philosophy or approach, or – fundamentally – as the sociopolitical aim of preserving linguistic diversity.
->
-> All these perspectives are increasingly common across Europe.
+> Plurilingualism can in fact be considered from various perspectives: as a sociological or historical fact, as a personal characteristic or ambition, as an educational philosophy or approach, or – fundamentally – as the sociopolitical aim of preserving linguistic diversity. All these perspectives are increasingly common across Europe.
 <!-- el:end id=callout_p031_0 -->
 
 <!-- el:start type=prose id=prose_p031_s1 page=31 -->
@@ -897,23 +907,23 @@ Most of the references to plurilingualism in the CEFR are to “plurilingual and
 
 One of the reasons for promoting the development of plurilingualism and pluriculturalism is that experience of them:
 
-- “exploits pre-existing **sociolinguistic**and**pragmatic competences** which in turn develops them further;
+- “exploits pre-existing **sociolinguistic** and **pragmatic competences** which in turn develops them further;
 - leads to a better perception of what is general and what is specific concerning the linguistic organisation of different languages (form of metalinguistic, interlinguistic or so to speak “hyperlinguistic” awareness);
 - by its nature refines knowledge of how to learn and the capacity to enter into relations with others and new situations.
 
 It may, therefore, to some degree accelerate subsequent learning in the linguistic and cultural areas.” (CEFR 2001 Section 6.1.3.3)
 
-Neither pluriculturalism nor the notion of intercultural competence – referred to briefly in CEFR 2001 Sections 5.1.1.3 and 5.1.2.2 – is highly developed in the CEFR book. The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the **Guide for the development and  implementation of curricula for plurilingual and intercultural (https://rm.coe.int/16806ae621) education (https://rm.coe.int/16806ae621)** (Beacco et al. 2016a). In addition, a detailed taxonomy of aspects of plurilingual and pluricultural competence relevant to pluralistic approaches is available in the ECML’s Framework of reference for pluralistic approaches to languages and cultures (FREPA/CARAP). (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx)27
+Neither pluriculturalism nor the notion of intercultural competence – referred to briefly in CEFR 2001 Sections 5.1.1.3 and 5.1.2.2 – is highly developed in the CEFR book. The implications of plurilingualism and intercultural competence for curriculum design in relation to the CEFR are outlined in the **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621) (Beacco et al. 2016a). In addition, a detailed taxonomy of aspects of plurilingual and pluricultural competence relevant to pluralistic approaches is available in the ECML’s Framework of reference for pluralistic approaches to languages and cultures (FREPA/CARAP) (<http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx>).27
 
 ### 2.4. THE CEFR DESCRIPTIVE SCHEME
 
 In this section, we outline the descriptive scheme of the CEFR and point out which elements were further developed in the 2014-17 project. As mentioned above, a core aim of the CEFR is to provide a common descriptive metalanguage to talk about language proficiency. Figure 1 presents the structure of the CEFR descriptive scheme diagrammatically.
 
-After an introduction to relevant key concepts (CEFR 2001 Chapter 1), the CEFR approach is introduced in the very short CEFR 2001 Chapter 2. In any communicative situation, general competences (for example, knowledge of the world, sociocultural competence, intercultural competence, professional experience if any: CEFR 2001 Section 5.1) are always combined with communicative language competences (linguistic, sociolinguistic and pragmatic competences: CEFR 2001 Section 5.2) and strategies (some general, some communicative language strategies)
+After an introduction to relevant key concepts (CEFR 2001 Chapter 1), the CEFR approach is introduced in the very short CEFR 2001 Chapter 2. In any communicative situation, general competences (for example, knowledge of the world, sociocultural competence, intercultural competence, professional experience if any: CEFR 2001 Section 5.1) are always combined with communicative language competences (linguistic, sociolinguistic and pragmatic competences: CEFR 2001 Section 5.2) and strategies (some general, some communicative language strategies) in order to complete a task (CEFR 2001 Chapter 7).
 <!-- el:end id=prose_p031_s2 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p031_s3 page=31 -->
-27.	 http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx.
+27.  http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx.
 <!-- el:end id=footnote_zone_p031_s3 -->
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **31***
@@ -921,11 +931,11 @@ After an introduction to relevant key concepts (CEFR 2001 Chapter 1), the CEFR a
 <!-- page:31 -->
 
 <!-- el:start type=figure_page id=figure_01_structure_cefr_descriptive_scheme page=32 -->
-in order to complete a task (CEFR 2001 Chapter 7). Tasks often require some collaboration with others – hence the need for language. The example chosen in CEFR 2001 Chapter 2 to introduce this idea – moving – is one in which the use of language is only contingent on the task. In moving a wardrobe, some communication, preferably through language, is clearly advisable, but language is not the focus of the task. Similarly, tasks demanding greater sophistication of communication, such as agreeing on the preferred solution to an ethical problem, or holding a project meeting, focus on the task outcomes rather than the language used to achieve them.
+Tasks often require some collaboration with others – hence the need for language. The example chosen in CEFR 2001 Chapter 2 to introduce this idea – moving – is one in which the use of language is only contingent on the task. In moving a wardrobe, some communication, preferably through language, is clearly advisable, but language is not the focus of the task. Similarly, tasks demanding greater sophistication of communication, such as agreeing on the preferred solution to an ethical problem, or holding a project meeting, focus on the task outcomes rather than the language used to achieve them.
 
 The overall approach of the CEFR is summarised in a single paragraph:
 
-Language use, embracing language learning, comprises the actions performed by persons who as individuals and as social agents develop a range of **competences**, both**general**and in particular**communicative language competences**. They draw on the competences at their disposal in various contexts under various**conditions**and under various**constraints**to engage in**language activities**involving**language processes**to produce and/or receive**texts**in relation to**themes**in specific**domains**, activating those**strategies**which seem most appropriate for carrying out the**tasks** to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification of their competences. (CEFR 2001 Section 2.1)
+Language use, embracing language learning, comprises the actions performed by persons who as individuals and as social agents develop a range of **competences**, both **general** and in particular **communicative language competences**. They draw on the competences at their disposal in various contexts under various **conditions** and under various **constraints** to engage in **language activities** involving **language processes** to produce and/or receive **texts** in relation to **themes** in specific **domains**, activating those **strategies** which seem most appropriate for carrying out the **tasks** to be accomplished. The monitoring of these actions by the participants leads to the reinforcement or modification of their competences. (CEFR 2001 Section 2.1)
 
 Thus, in performing tasks, competences and strategies are mobilised in the performance and in turn further developed through that experience. In an “action-oriented approach”, which translates the CEFR descriptive scheme into practice, some collaborative tasks in the language classroom are therefore essential. This is why the CEFR 2001 includes a chapter on tasks. CEFR 2001 Chapter 7 discusses real-life tasks and pedagogic tasks, possibilities for compromise between the two, factors that make tasks simple or complex from a language point of view, conditions and constraints. The precise form that tasks in the classroom may take, and the dominance that they should have in the programme, is for users of the CEFR to decide. CEFR 2001 Chapter 6 surveys language teaching methodologies, pointing out that different approaches may be appropriate for different contexts. As a matter of fact, the CEFR scheme is highly compatible with several recent approaches to second language learning, including the task-based approach, the ecological approach and in general all approaches informed by sociocultural and socio-constructivist theories. Starting from a discussion of the place of plurilingualism in language education, CEFR 2001 Chapter 8 outlines alternative options for curriculum design, a process taken further in the **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)** (Beacco et al. 2016a). No matter what perspective is adopted, it is implicit that tasks in the language classroom should involve communicative language activities and strategies (CEFR 2001 Section 4.4) that also occur in the real world, like those listed in the CEFR descriptive scheme.
 
@@ -956,7 +966,7 @@ Overall language proficiency
 ```
 <!-- el:end id=figure_01_structure_cefr_descriptive_scheme -->
 
-28.	 From the ECEP project publication: Piccardo E. et al. (2011), **Pathways through assessing, learning and teaching in the CEFR**, Council of Europe Publishing, Strasbourg, available at http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf.
+28.  From the ECEP project publication: Piccardo E. et al. (2011), **Pathways through assessing, learning and teaching in the CEFR**, Council of Europe Publishing, Strasbourg, available at http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf.
 
 *Page **32** ▶ **CEFR – Companion volume***
 
@@ -965,17 +975,22 @@ Overall language proficiency
 <!-- el:start type=prose id=prose_p033_s0 page=33 -->
 With its communicative language activities and strategies, the CEFR replaces the traditional model of the four skills (listening, speaking, reading, writing), which has increasingly proved inadequate in capturing the complex reality of communication. Moreover, organisation by the four skills does not lend itself to any consideration of purpose or macro-function. The organisation proposed by the CEFR is closer to real-life language use, which is grounded in interaction in which meaning is co-constructed. Activities are presented under four modes of communication: reception, production, interaction and mediation.
 
-The development of the CEFR categories for communicative activities was considerably influenced by the distinction between transaction and interpersonal language use, and between interpersonal and ideational language use (development of ideas). This can be seen in Table 3. **Table 3 – Macro-functional basis of CEFR categories for communicative language activities**<!-- el:end id=prose_p033_s0 -->
+The development of the CEFR categories for communicative activities was considerably influenced by the distinction between transaction and interpersonal language use, and between interpersonal and ideational language use (development of ideas). This can be seen in Table 3.
 
-<!-- el:start type=artifact id=table_creative_interpersonal_language_use page=33 -->
-<!-- db:id=table_creative_interpersonal_language_use type=table product_tier=context pages=33 -->
-### Creative, interpersonal language use | table_creative_interpersonal_language_use
+**Table 3 – Macro-functional basis of CEFR categories for communicative language activities**
 
+<!-- el:end id=prose_p033_s0 -->
+
+<!-- el:start type=artifact id=table_03_macro_functional_basis page=33 -->
+<!-- db:id=table_03_macro_functional_basis type=table product_tier=context pages=33 -->
+### Table 3 – Macro-functional basis of CEFR categories for communicative language activities | table_03_macro_functional_basis
+
+| | Reception | Production | Interaction | Mediation |
 | --- | --- | --- | --- | --- |
 | Creative, interpersonal language use | e.g. Reading as a leisure activity | e.g. Sustained monologue: describing experience | e.g. Conversation | Mediating communication |
 | Transactional language use | e.g. Reading for information and argument | e.g. Sustained monologue: giving information | e.g. Obtaining goods and services<br>Information exchange | Mediating a text |
 | Evaluative, problem-solving language use | (merged with Reading for information and argument) | e.g. Sustained monologue: presenting a case (e.g. in a debate) | e.g. Discussion | Mediating concepts |
-<!-- el:end id=table_creative_interpersonal_language_use -->
+<!-- el:end id=table_03_macro_functional_basis -->
 
 <!-- el:start type=prose id=prose_p033_s2 page=33 -->
 With regard to the approach to language activities set out in Table 3, the following list of advantages of such a development beyond the four skills is taken from one of the preparatory studies written in the lead-up to the development of the CEFR:29
@@ -992,13 +1007,14 @@ With regard to the approach to language activities set out in Table 3, the follo
 - such relatively concrete contexts of use (tending towards supra-genres/speech events rather than abstract skills or functions) make the link to realistic assessment tasks in examinations easier to establish, and should help facilitate the provision of more concrete descriptors.
 <!-- el:end id=prose_p033_s2 -->
 
-29.	 North B. (1994) “Perspectives on language proficiency and aspects of competence: a reference paper defining categories and levels”, **CC-LANG** Vol. 94, No. 20, Council of Europe Publishing, Strasbourg.
+29.  North B. (1994) “Perspectives on language proficiency and aspects of competence: a reference paper defining categories and levels”, **CC-LANG** Vol. 94, No. 20, Council of Europe Publishing, Strasbourg.
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **33***
 
 <!-- page:33 -->
 
 <!-- el:start type=figure_page id=figure_02_reception_production_interaction_mediation page=34 -->
+One of the areas in which the CEFR has been most influential is in the recognition, in course aims and in the structure of oral examinations, of the fundamental distinction between production (= sustained monologue; long turns) and interaction (= conversational dialogue; short turns). When the CEFR 2001 was published, splitting writing in the same way by distinguishing between written production and written interaction did not meet with much public recognition. Indeed, the original version of CEFR Table 2 (self-assessment grid) was amended to merge written interaction and written production back into “writing”, giving rise to the widespread but false notion that the CEFR promotes a model of five skills.
 
 The development of e-mail, texting and social media since then shows that, as in many other areas, the CEFR was very forward-looking for its time. The fourth mode, mediation, was developed during the work of the original CEFR Authoring Group.30
 
@@ -1019,14 +1035,15 @@ The CEFR represents a departure from the traditional distinction made in applied
 The acquisition of proficiency is in fact seen as a circular process: by performing activities, the user/learner develops competences and acquires strategies. This approach embraces a view of competence as only existing when enacted in language use, reflecting both (a) the broader view of competence as action from applied psychology, particularly in relation to the world of work and professional training, and (b) the view taken nowadays in the sociocultural approach to learning. The CEFR “can do” descriptors epitomise this philosophy.
 <!-- el:end id=figure_02_reception_production_interaction_mediation -->
 
-30.	 The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
+30.  The original CEFR Authoring Group was John Trim, Daniel Coste, Brian North and Joseph Sheils.
 
 *Page **34** ▶ **CEFR – Companion volume***
 
 <!-- page:34 -->
 
 <!-- el:start type=artifact id=callout_can_do_descriptors_as_competence page=35 -->
-> **“Can do” descriptors as competence**>
+> **“Can do” descriptors as competence**
+>
 > The idea of scientifically calibrating “can do” descriptors to a scale of levels comes originally from the field of professional training for nurses. Tests were not very helpful in assessing a trainee nurse’s competence; what was needed was a systematic, informed observation by an expert nurse, guided by short descriptions of typical nursing competence at different levels of achievement.
 >
 > This “can do” approach was transferred to language teaching and learning in the work of the Council of Europe in the late 1970s. This happened through three channels: (a) needs-based language training for the world of work; (b) an interest in teacher assessment based on defined, communicative criteria, and (c) experimentation with self-assessment using “can do” descriptors as a way of increasing learner reflection and motivation. Nowadays “can do” descriptors are applied to more and more disciplines in many countries in what is often referred to as a competence-based approach.
@@ -1036,12 +1053,16 @@ The acquisition of proficiency is in fact seen as a circular process: by perform
 Communicative language strategies are thus seen in the CEFR as a kind of hinge between communicative language competences and communicative language activities and are attached to the latter in CEFR 2001 Section 4.4. The development of the descriptors for strategic competence was influenced by the model: plan, execute, monitor and repair. However, as can be seen from Table 4, descriptor scales were not developed for all categories. The categories in italics were also considered at the time of developing the CEFR descriptors published in 2001, but no descriptors were produced. For mediation, in the 2014-17 project, a decision was taken to develop descriptors only for execution strategies.
 <!-- el:end id=prose_p035_s1 -->
 
-<!-- el:start type=prose id=prose_p035_s2 page=35 --> **Table 4 – Communicative language strategies in the CEFR**<!-- el:end id=prose_p035_s2 -->
+<!-- el:start type=prose id=prose_p035_s2 page=35 -->
+**Table 4 – Communicative language strategies in the CEFR**
+
+<!-- el:end id=prose_p035_s2 -->
 
 <!-- el:start type=artifact id=table_04_communicative_language_strategies page=35 -->
 <!-- db:id=table_04_communicative_language_strategies type=table product_tier=context pages=35 -->
-### Planning | table_04_communicative_language_strategies
+### Table 4 – Communicative language strategies in the CEFR | table_04_communicative_language_strategies
 
+| | Reception | Production | Interaction | Mediation |
 | --- | --- | --- | --- | --- |
 | Planning | Framing | Planning | N/A | |
 | Execution | Inferring | Compensating | Turntaking<br>Co-operating | Linking to previous knowledge<br>Adapting language<br>Breaking down complicated information<br>Amplifying a dense text<br>Streamlining a text |
@@ -1057,7 +1078,7 @@ Treatment of mediation in the CEFR 2001 is not limited to cross-linguistic media
 
 - Section 2.1.3: “make communication possible between persons who are unable, for whatever reason, to communicate with each other directly”;
 - Section 4.4.4: “act as an intermediary between interlocutors who are unable to understand each other directly **–** normally (but not exclusively) speakers of different languages”;
-- Section 4.6.4: “Both input and output texts may be spoken or written and in L1 or L2.” **(Note: This does not  say that one is in L1 and one is in L2; it states they could both be in L1 or in L2).**
+- Section 4.6.4: “Both input and output texts may be spoken or written and in L1 or L2.” **(Note: This does not say that one is in L1 and one is in L2; it states they could both be in L1 or in L2).**
 <!-- el:end id=prose_p035_s4 -->
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **35***
@@ -1072,6 +1093,8 @@ The approach taken to mediation in the 2014-17 project to extend the CEFR illust
 The mediation descriptors are particularly relevant for the classroom in connection with small group, collaborative tasks. The tasks can be organised in such a way that learners have to share different inputs, explaining their information and working together in order to achieve a goal. They are even more relevant when this is undertaken in a CLIL context.
 
 ### 2.6. THE CEFR COMMON REFERENCE LEVELS
+
+The CEFR has two axes: a horizontal axis of categories for describing different activities and aspects of competence, which were outlined above, and a vertical axis representing progress in proficiency in those categories. To facilitate the organisation of courses and to describe progress, the CEFR presents the six Common Reference Levels shown in Figure 3. This arrangement provides a roadmap that allows user/learners to engage with relevant aspects of the descriptive scheme in a progressive way. However, the six levels are not intended to be absolute. Firstly, they can be grouped into three broad categories: Basic user (A1 and A2), Independent user (B1 and B2) and Proficient user (C1 and C2). Secondly, the six reference levels, which represent very broad bands of language proficiency, are very often subdivided.
 
 <!-- db:id=figure_03_cefr_common_reference_levels type=figure render_as=png product_tier=context pages=36 -->
 ### Figure 3 – CEFR Common Reference Levels | figure_03_cefr_common_reference_levels
@@ -1092,7 +1115,6 @@ All categories in the humanities and liberal arts are in any case conventional, 
 *Page **36** ▶ **CEFR – Companion volume***
 
 <!-- page:36 -->
-
 <!-- el:start type=prose id=prose_p037_s0 page=37 -->
 The Common Reference Levels are defined in detail by the illustrative descriptors in CEFR 2001 Chapters 4 and 5, but the major characteristics of the levels are summarised briefly in CEFR 2001 Section 3.6 (see Appendix 1) and in the three tables used to introduce the levels in CEFR 2001 Chapter 3:
 
@@ -1102,15 +1124,26 @@ The Common Reference Levels are defined in detail by the illustrative descriptor
 
 It should be emphasised that the top level in the CEFR scheme, C2, has no relation whatsoever with what is sometimes referred to as the performance of an idealised “native speaker”, or a “well-educated native speaker” or a “near native speaker”. Such concepts were not taken as a point of reference during the development of the levels or the descriptors. C2, the top level in the CEFR scheme, is introduced in the CEFR as follows:
 
-**Level C2**, whilst it has been termed**“Mastery”**, is not intended to imply native-speaker or near native-speaker competence. What is intended is to characterise the degree of precision, appropriateness and ease with the language which typifies the speech of those who have been highly successful learners. (CEFR 2001 Section 3.6) **Mastery**(Trim: “**comprehensive mastery**”; Wilkins: “ **Comprehensive Operational Proficiency**”), corresponds to the top examination objective in the scheme adopted by ALTE (Association of Language Testers in Europe). It could be extended to include the more developed intercultural competence above that level which is achieved by many language professionals. (CEFR 2001 Section 3.2)
+**Level C2**, whilst it has been termed **“Mastery”**, is not intended to imply native-speaker or near native-speaker competence. What is intended is to characterise the degree of precision, appropriateness and ease with the language which typifies the speech of those who have been highly successful learners. (CEFR 2001 Section 3.6)
+
+**Mastery** (Trim: “**comprehensive mastery**”; Wilkins: “**Comprehensive Operational Proficiency**”), corresponds to the top examination objective in the scheme adopted by ALTE (Association of Language Testers in Europe). It could be extended to include the more developed intercultural competence above that level which is achieved by many language professionals. (CEFR 2001 Section 3.2)
 
 A1, the bottom level in the CEFR 2001, is not the lowest imaginable level of proficiency in an additional language either. It is described in the CEFR as follows:
 <!-- el:end id=prose_p037_s0 -->
 
-<!-- el:start type=prose id=prose_p037_s1 page=37 --> **Level A1 (Breakthrough)**– is considered the lowest level of generative language use – the point at which the learner can**interact in a simple way, ask and answer  simple questions about themselves, where they live, people they know, and things they have, initiate and respond to  simple statements in areas of immediate need or on very familiar topics**, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases. (CEFR 2001 Section 3.6)
+<!-- el:start type=prose id=prose_p037_s1 page=37 -->
+**Level A1 (Breakthrough)** – is considered the lowest level of generative language use – the point at which the learner can **interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics**, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases. (CEFR 2001 Section 3.6)
 
-Level A1 **(Breakthrough)** is probably the lowest “level” of generative language proficiency which can be identified. Before this stage is reached, however, there may be a range of specific tasks which learners can perform effectively using a very restricted range of language and which are relevant to the needs of the learners concerned. The 1994-5 Swiss National Science Research Council Survey, which developed and scaled the illustrative descriptors, identified a band of language use, limited to the performance of isolated tasks, which can be presupposed in the definition of Level A1. In certain contexts, for example with young learners, it may be appropriate to elaborate such a “milestone”.
+**Level A1** (Breakthrough) is probably the lowest “level” of generative language proficiency which can be identified. Before this stage is reached, however, there may be a range of specific tasks which learners can perform effectively using a very restricted range of language and which are relevant to the needs of the learners concerned. The 1994-5 Swiss National Science Research Council Survey, which developed and scaled the illustrative descriptors, identified a band of language use, limited to the performance of isolated tasks, which can be presupposed in the definition of Level A1. In certain contexts, for example with young learners, it may be appropriate to elaborate such a “milestone”.
 <!-- el:end id=prose_p037_s1 -->
+
+<!-- el:start type=artifact id=callout_p037_0 page=37 -->
+> **Background to the CEFR levels**
+>
+> The six-level scheme is labelled upwards from A to C precisely because C2 is not the highest imaginable level for proficiency in an additional language. In fact, a scheme including a seventh level had been proposed by David Wilkins at an intergovernmental symposium held in 1977 to discuss a possible European unit credit scheme. The CEFR Working Party adopted Wilkins’ first six levels because Wilkins’ seventh level is beyond the scope of mainstream education.
+>
+> In the SNSF research project that empirically confirmed the levels and developed the CEFR illustrative descriptors published in 2001, the existence of this seventh level was confirmed. There were user/learners studying interpretation and translation at the University of Lausanne who were clearly above C2. Indeed, simultaneous interpreters at European institutions and professional translators operate at a level well above C2. For instance, C2 is the third of five levels for literary translation recently produced in the PETRA project. In addition many plurilingual writers display Wilkins’ seventh level of “ambilingual proficiency” without being bilingual from birth.
+<!-- el:end id=callout_p037_0 -->
 
 <!-- el:start type=prose id=prose_p037_s2 page=37 -->
 The following descriptors relate to simple, general tasks, which were scaled below Level A1, but can constitute useful objectives for beginners:
@@ -1122,26 +1155,6 @@ The following descriptors relate to simple, general tasks, which were scaled bel
 - can write a short, simple postcard (CEFR 2001 Section 3.5).
 <!-- el:end id=prose_p037_s2 -->
 
-<!-- el:start type=artifact id=callout_p037_0 page=37 -->
-> **Background to the CEFR**
->
-> The six-level scheme is labelled upwards from A to C precisely because C2 is not the highest imaginable level for proficiency in an additional language.
->
-> In fact, a scheme including a seventh level had been proposed by David Wilkins at an intergovernmental symposium held in 1977 to discuss a possible European unit credit scheme.
->
-> The CEFR Working Party adopted Wilkins’ first six levels because Wilkins’ seventh level is beyond the scope of mainstream education.
->
-> In the SNSF research project that empirically confirmed the levels and developed the CEFR illustrative descriptors published in 2001, the existence of this seventh level was confirmed.
->
-> There were user/ learners studying interpretation and translation at the University of Lausanne who were clearly above C2.
->
-> Indeed, simultaneous interpreters at European institutions and professional translators operate at a level well above C2.
->
-> For instance, C2 is the third of five levels for literary translation recently produced in the PETRA project.
->
-> In addition many plurilingual writers display Wilkins’ seventh level of “ambilingual proficiency” without being bilingual from birth.
-<!-- el:end id=callout_p037_0 -->
-
 *Key aspects of the CEFR for teaching and learning ▶ Page **37***
 
 <!-- page:37 -->
@@ -1151,7 +1164,12 @@ In the updated and extended set of descriptors in this document, the level refer
 
 The CEFR stresses that the levels are reference levels and that, in any given context, users may well want to subdivide them, illustrating ways in which this might be done in different contexts (CEFR 2001 Section 3.5). In the same section, the CEFR introduced the idea of the plus levels.
 
-Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly and slowly. **A2** Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment), provided people articulate clearly and slowly.
+In the illustrative descriptors a distinction is made between the “criterion levels” (for example A2 or A2.1) and the “plus levels” (for example A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as in this example for “Overall oral comprehension”.
+
+| Level | Illustrative Descriptors |
+| --- | --- |
+| A2 | Can understand enough to be able to meet needs of a concrete type, provided people articulate clearly and slowly. |
+| | Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment), provided people articulate clearly and slowly. |
 
 Plus levels represent a very strong competence at a level that does not yet reach the minimum standard for the next criterion level. Generally, features of the level above are starting to appear. Descriptors from the “plus levels” are not included in the three tables that introduce the CEFR levels in CEFR 2001 Chapter 3 (CEFR Tables 1, 2 and 3).
 
@@ -1182,19 +1200,18 @@ However, for a personal profile of proficiency, working with fewer categories is
 
 One can take things a stage further and create graphic plurilingual profiles for individual user/learners. Figure 8 shows a plurilingual profile inspired by a model developed in a Canadian project.33 Profiles for different languages are superimposed on each other in the same graphic. The figure shows a profile of “partial competences” not atypical of an adult user/learner: far stronger in reading in all languages.
 
-Such a profile can show the way in which the proficiency of any user/learner is almost always going to be uneven, partial. It will be influenced by home background, by the needs of the situation in which the person has found themselves, and by their experience, including transversal competences acquired in general education, in using other languages, in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical
+Such a profile can show the way in which the proficiency of any user/learner is almost always going to be uneven, partial. It will be influenced by home background, by the needs of the situation in which the person has found themselves, and by their experience, including transversal competences acquired in general education, in using other languages, in professional life. The profiles of any two user/learners at the same level are thus unlikely to be absolutely identical since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001 (Section 5.2) describes as their "general competences".
 <!-- el:end id=figure_07_profile_postgraduate_sciences -->
 
-31.	 The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
-32.	 Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
-33.	 LINCDIRE: LINguistic & Cultural DIversity REinvented, available at www.lincdireproject.org/.
+31.  The 1996 and 1998 provisional versions of the CEFR contained a diagram like Figures 6 and 7 to illustrate this analogy of language proficiency profiles as spatial, territorial; in the working group the particular diagram was referred to as “Antarctica” because of its shape. It was considered too complicated a concept for the time and was dropped from the published version.
+32.  Oral comprehension, oral production and oral interaction are each taken to include both spoken and signed modalities, as appropriate in the context.
+33.  LINCDIRE: LINguistic & Cultural DIversity REinvented, available at www.lincdireproject.org/.
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **39***
 
 <!-- page:39 -->
 
 <!-- el:start type=figure_page id=figure_08_plurilingual_proficiency_fewer_categories page=40 -->
-since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001 (Section 5.2) describes as their “general competences”.
 
 <!-- db:id=figure_08_plurilingual_proficiency_fewer_categories type=figure render_as=png product_tier=context pages=40 -->
 ### Figure 8 – A plurilingual proficiency profile with fewer categories | figure_08_plurilingual_proficiency_fewer_categories
@@ -1229,7 +1246,8 @@ The scales of illustrative descriptors consist of independent, stand-alone descr
 <!-- el:end id=prose_p041_s0 -->
 
 <!-- el:start type=artifact id=callout_p041_0 page=41 -->
-> **CEFR descriptor research project**>
+> **CEFR descriptor research project**
+>
 > The illustrative descriptors published in the CEFR 2001 were based on results from a Swiss National Science Foundation research project set up to develop and validate descriptors for the CEFR and the ELP and to give a picture of the development of language proficiency reached at the end of different school years in the Swiss educational system. The project described in this document, to develop an extended set of illustrative descriptors, replicated the approach taken in this Swiss project, which took place from 1993 to 1997. The methodology used in that original project, and described briefly in CEFR 2001 Appendix B, comprised three phases:
 >
 > **Intuitive phase:** Detailed analysis of existing descriptor scales and authoring of new descriptors.
@@ -1258,6 +1276,7 @@ In CEFR 2001 Section 3.4, the claim made for the validity of the illustrative de
 
 - draw, in their formulation, on the experience of many institutions active in the field of defining levels of proficiency;
 - have been developed in tandem with the descriptive scheme presented in CEFR 2001 Chapters 4 and 5 through an interaction between (a) the theoretical work of the Authoring Group; (b) the analysis of existing scales of proficiency; and (c) the practical workshops with teachers;
+- have been matched to the set of Common Reference Levels A1, A2, B1, B2, C1 and C2;
 - meet the criteria outlined in CEFR 2001 Appendix A for effective descriptors in that each is brief (up to 25 words), clear and transparent, positively formulated, describes something definite, and has independent, stand-alone integrity, not relying on the formulation of other descriptors for its interpretation;
 - have been found transparent, useful and relevant by groups of non-native and native-speaker teachers from a variety of educational sectors with very different profiles in terms of linguistic training and teaching experience;
 - are relevant to the description of actual learner achievement in lower and upper secondary, vocational and adult education, and could thus represent realistic objectives;
@@ -1319,6 +1338,8 @@ Whichever approach is taken, any resulting list of descriptors needs to be slimm
 
 In using the descriptors to make a list of learning objectives, one should bear in mind that the descriptors from different scales complement one another. One may wish to broaden the scope of a particular descriptor by presenting it linked to descriptors from one or two complementary scales that are relevant to the intended scope of the learning activity. For example, at B1, one might wish to create a broader educational objective for engaging with a text by associating the following descriptors from three different scales:
 
+- Can follow the plot of stories, simple novels and comics with a clear linear storyline and high frequency everyday language, given regular use of a dictionary (Reading as a leisure activity).
+- Can explain briefly the feelings and opinions that a work provoked in them (Expressing a personal response to creative texts (including literature)).
 - Can discuss in simple terms the way in which things that may look “strange” to them in another sociocultural context may well be “normal” for the other people concerned (Building on pluricultural repertoire).
 
 Descriptors can also be useful as a starting point for providing transparent criteria for assessment. CEFR 2001 Chapter 9 outlines different forms of assessment and ways in which descriptors can be useful in relation to them. In discussing the exploitation of descriptors in assessment, the CEFR makes the following point:
@@ -1327,9 +1348,9 @@ In discussing the use of descriptors it is essential to make a distinction betwe
 <!-- el:end id=prose_p043_s1 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p043_s2 page=43 -->
-1.	 Descriptors of communicative activities, which are located in Chapter 4.
+1.  Descriptors of communicative activities, which are located in Chapter 4.
 
-2.	 Descriptors of aspects of proficiency related to particular competences, which are located in Chapter 5.
+2.  Descriptors of aspects of proficiency related to particular competences, which are located in Chapter 5.
 
 The former are very suitable for teacher or self-assessment with regard to real-world tasks. Such teacher or self-assessments are made on the basis of a detailed picture of the learner’s language ability built up during the course concerned. They are attractive because they can help to focus both learners and teachers on an action-oriented approach. (CEFR 2001 Section 9.2.2)
 
@@ -1340,18 +1361,20 @@ The latter, descriptors of aspects of competences (CEFR 2001 Chapter 5), can be 
 
 <!-- page:43 -->
 
-<!-- el:start type=prose id=prose_p044_s0 page=44 --> **Table 5 – The different purposes of descriptors**
+<!-- el:start type=prose id=prose_p044_s0 page=44 -->
+**Table 5 – The different purposes of descriptors**
+
 <!-- el:end id=prose_p044_s0 -->
 
-<!-- el:start type=artifact id=table_table_5_the_use_of_cefr_illustrative_descriptors_for_different_sesoprup page=44 -->
-<!-- db:id=table_table_5_the_use_of_cefr_illustrative_descriptors_for_different_sesoprup type=table product_tier=context pages=44 -->
-### Table 5 – The use of CEFR illustrative descriptors for different sesoprup | table_table_5_the_use_of_cefr_illustrative_descriptors_for_different_sesoprup
+<!-- el:start type=artifact id=table_05_descriptor_use page=44 -->
+<!-- db:id=table_05_descriptor_use type=table product_tier=context pages=44 -->
+### Table 5 – The use of CEFR illustrative descriptors for different purposes | table_05_descriptor_use
 
 | | WHAT the user/learner can do (CEFR 2001 Chapter 4) | HOW WELL the user/ learner performs (CEFR<br>2001 Chapter 5) | Of relevance to |
 | --- | --- | --- | --- |
 | More complex descriptors | Constructor-oriented curriculum descriptors | Diagnostic-oriented assessment descriptors | Curriculum designers<br>Teachers |
 | Simpler descriptors | User-oriented learning aims and<br>“can do” learning outcomes | Self-assessment-oriented assessment descriptors | Learners<br>Parents/employers, etc. |
-<!-- el:end id=table_table_5_the_use_of_cefr_illustrative_descriptors_for_different_sesoprup -->
+<!-- el:end id=table_05_descriptor_use -->
 
 <!-- el:start type=prose id=prose_p044_s2 page=44 -->
 As mentioned, the primary function of descriptors is to facilitate the provision of transparent and coherent alignment between curriculum, teaching and assessment, particularly teacher assessment, and above all between the “language classroom world” and the real world. Real-world needs will relate to the main domains of language use: the public domain, the private domain, the occupational domain and the educational domain (CEFR 2001 Section 4.1.1; CEFR 2001 Table 5). These domains are illustrated in Appendix 5 with examples for the new scales for online and mediation activities.
@@ -1369,31 +1392,38 @@ The Council of Europe’s website contains links to many resources and articles 
 
 #### 2.10.1. Web resources
 
-“Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users (https://rm.coe.int/1680697848)”,34 available in English and French.
+“Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users (<https://rm.coe.int/1680697848>).34 available in English and French.
 
-“From communicative to action-oriented: a research pathway” (https://transformingfsl.ca/wp-content/uploads/2015/12/TAGGED_DOCUMENT_CSC605_Research_Guide_English_01.pdf),35 available in English and French.
+“From communicative to action-oriented: a research pathway” (<https://transformingfsl.ca/wp-content/uploads/2015/12/TAGGED_DOCUMENT_CSC605_Research_Guide_English_01.pdf>).35 available in English and French.
 
-A quality assurance matrix for CEFR use (http://www.ecml.at/CEFRqualitymatrix)36 (CEFR QualiMatrix), available in English and French.
+A quality assurance matrix for CEFR use (<http://www.ecml.at/CEFRqualitymatrix>).36 (CEFR QualiMatrix), available in English and French.
 
-CEFTrain (Common European Framework of Reference for Languages in Teacher Training). (http://www.helsinki.fi/project/ceftrain/index.php.35.html)37
+CEFTrain (Common European Framework of Reference for Languages in Teacher Training). (<http://www.helsinki.fi/project/ceftrain/index.php.35.html>).37
 <!-- el:end id=prose_p044_s2 -->
 
-34.	 Trim J. (ed.) (2001), “Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680697848.
-35.	 Piccardo E. (2014), “From communicative to action-oriented: a research pathway”.
-36.	 Available at www.ecml.at/CEFRqualitymatrix.
-37.	 www.helsinki.fi/project/ceftrain/index.php.35.html.
+34.  Trim J. (ed.) (2001), “Common European Framework of Reference for Languages: Learning, teaching, assessment – A Guide for Users”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680697848.
+35.  Piccardo E. (2014), “From communicative to action-oriented: a research pathway”.
+36.  Available at www.ecml.at/CEFRqualitymatrix.
+37.  www.helsinki.fi/project/ceftrain/index.php.35.html.
 
 *Page **44** ▶ **CEFR – Companion volume***
 
 <!-- page:44 -->
 
-<!-- el:start type=prose id=prose_p045_s0 page=45 --> **Council of Europe tools for language teaching – Common European framework and (https://rm.coe.int/168069ce6e) portfolios**,38 available in English and French.
+<!-- el:start type=prose id=prose_p045_s0 page=45 -->
+**Council of Europe tools for language teaching – Common European framework and portfolios** (<https://rm.coe.int/168069ce6e>).38 available in English and French.
 
-Equals “Practical resources for language teaching” (https://www.eaquals.org/our-expertise/cefr/our-work-practical-resources-for-language-teaching/).39 **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)**(Beacco et al. 2016a), available in English and French.**Pathways through assessing, learning and teaching in the CEFR (http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf)** (Piccardo et al. 2011), available in English and French.
+Equals “Practical resources for language teaching” (<https://www.eaquals.org/our-expertise/cefr/our-work-practical-resources-for-language-teaching/>).39
 
-PRO-Sign: Promoting Excellence in Sign Language Instruction. (http://www.ecml.at/ECML-Programme/Programme2016-2019/SignLanguageInstruction/tabid/1856/Default.aspx)40 **2.10.2. Books**Bourguignon C. (2010),**Pour enseigner les langues avec les CERCL – Clés et conseils**, Delagrave, Paris.
+**Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)** (Beacco et al. 2016a), available in English and French.**Pathways through assessing, learning and teaching in the CEFR (http://ecep.ecml.at/Portals/26/training-kit/files/2011_08_29_ECEP_EN.pdf)** (Piccardo et al. 2011), available in English and French.
 
-Lions-Olivieri M-L. and Liria P. (eds) (2009), **L’approche actionnelle dans l’enseignement des langues. Douze articles pour mieux  comprendre et faire le point**, Difusión-Maison des langues, Paris.
+PRO-Sign: Promoting Excellence in Sign Language Instruction. (<http://www.ecml.at/ECML-Programme/Programme2016-2019/SignLanguageInstruction/tabid/1856/Default.aspx>).40
+
+**2.10.2. Books**
+
+Bourguignon C. (2010), **Pour enseigner les langues avec les CERCL – Clés et conseils**, Delagrave, Paris.
+
+Lions-Olivieri M-L. and Liria P. (eds) (2009), **L’approche actionnelle dans l’enseignement des langues. Douze articles pour mieux comprendre et faire le point**, Difusión-Maison des langues, Paris.
 
 North B. (2014), **The CEFR in practice**, Cambridge University Press, Cambridge.
 
@@ -1401,21 +1431,26 @@ North B., Angelova M. and Rossner R. (2018), **Language course planning**, Oxfor
 
 Piccardo E. and North B. (2019), **The action-oriented approach: a dynamic vision of language education**, Multilingual Matters, Bristol.
 
-Rosen É. and Reinhardt C. (eds) (2010), **Le point sur le Cadre européen commun de référence pour les langues, Clé international, Paris.
+Rosen É. and Reinhardt C. (eds) (2010), **Le point sur le Cadre européen commun de référence pour les langues**, Clé international, Paris.
 <!-- el:end id=prose_p045_s0 -->
 
-38.	 Goullier F. (2007),**Council of Europe tools for language teaching – Common European framework and portfolios**, Les Editions Didier/ Council of Europe, Paris/Strasbourg, available at https://rm.coe.int/168069ce6e.
-39.	 Equals “Practical resources for language teaching”, available at www.eaquals.org/our-expertise/cefr/our-work-practical-resourcesfor-language-teaching/.
-40.	 www.ecml.at/ECML-Programme/Programme2016-2019/SignLanguageInstruction/tabid/1856/Default.aspx.
+38.  Goullier F. (2007), **Council of Europe tools for language teaching – Common European framework and portfolios**, Les Editions Didier/ Council of Europe, Paris/Strasbourg, available at https://rm.coe.int/168069ce6e.
+39.  Equals “Practical resources for language teaching”, available at www.eaquals.org/our-expertise/cefr/our-work-practical-resourcesfor-language-teaching/.
+40.  www.ecml.at/ECML-Programme/Programme2016-2019/SignLanguageInstruction/tabid/1856/Default.aspx.
 
 *Key aspects of the CEFR for teaching and learning ▶ Page **45***
 
 <!-- page:45 -->
 
-Page**46**<!-- page:46 -->
+Page **46**
 
+<!-- page:46 -->
 <!-- el:start type=figure_page id=figure_11_reception_activities_strategies page=47 -->
-Chapter 3**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: COMMUNICATIVE LANGUAGE**<!-- db:id=figure_11_reception_activities_strategies type=figure render_as=text_diagram product_tier=context pages=47 -->
+
+## Chapter 3
+**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: COMMUNICATIVE LANGUAGE ACTIVITIES AND STRATEGIES**
+
+<!-- db:id=figure_11_reception_activities_strategies type=figure render_as=text_diagram product_tier=context pages=47 -->
 ### Figure 11 – Reception activities and strategies | figure_11_reception_activities_strategies
 
 ```text
@@ -1440,12 +1475,12 @@ Reception
   └── Identifying cues and inferring
 ```
 
-### 3.1 RECEPTION
+### 3.1. RECEPTION
 
 Reception involves receiving and processing input: activating what are thought to be appropriate schemata in order to build up a representation of the meaning being expressed and a hypothesis as to the communicative intention behind it. Incoming co-textual and contextual cues are checked to see if they “fit” the activated schema – or suggest that an alternative hypothesis is necessary. In “oral reception”, the language user receives and processes live or recorded input produced by one or more other people. In “visual reception” (reading and watching) activities the user receives and processes as input written and signed texts produced by one or more people. In “audio-visual comprehension”, for which one scale (watching TV and film) is provided, the user watches TV, video or a film and uses multimedia, with or without subtitles, voiceovers or signing.
 <!-- el:end id=figure_11_reception_activities_strategies -->
 
-Page **47**
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **47***
 
 <!-- page:47 -->
 
@@ -1516,7 +1551,7 @@ This scale concerns two main situations: the first is when other participants in
 <!-- el:start type=prose id=prose_p050_s0 page=50 -->
 ### Understanding as a member of a live audience
 
-This scale concerns understanding a speaker addressing an audience,for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
+This scale concerns understanding a speaker addressing an audience, for example in a meeting or seminar, at a conference or lecture, on a guided tour, or at a wedding or other celebration. Understanding the speaker/signer as a member of an audience is in fact usually easier than “Understanding conversation between other people”, even though the user/learner is even further away from being a participant in the discourse. This is firstly because the more structured nature of a monologue means that it is easier to bridge over sections that one does not understand and pick up the thread again. Secondly, the speaker/signer is more likely to be using a neutral register and projecting well so as to maximise the ability of the audience to follow. Key concepts operationalised in the scale include the following:
 
 - following a talk accompanying real artefacts (for example on a guided tour) and visual aids (for example PowerPoint);
 - the degree of accommodation to the audience (speed of delivery, extent to which usage is simplified);
@@ -1545,6 +1580,30 @@ This scale concerns understanding a speaker addressing an audience,for example i
 *Page **50** ▶ **CEFR – Companion volume***
 
 <!-- page:50 -->
+<!-- el:start type=prose id=prose_p051_announcements_intro page=51 -->
+### Understanding announcements and instructions
+
+This scale involves a different type of extremely focused comprehension in which the aim is to catch specific information. The situation is complicated by the fact that the announcement or instructions may well be delivered by a (possibly faulty) public address system, or called out/signed some considerable distance away. Key concepts operationalised in the scale include the following:
+
+- understanding directions and detailed instructions;
+- catching the main point of announcements;
+- degree of clarity, from slow and clear to normal speed with audio and/or visual distortion.
+<!-- el:end id=prose_p051_announcements_intro -->
+
+<!-- el:start type=artifact id=scale_understanding_announcements_and_instructions page=51 -->
+<!-- db:id=scale_understanding_announcements_and_instructions type=descriptor_scale product_tier=assessment_action,detailed pages=51 -->
+### Understanding announcements and instructions | scale_understanding_announcements_and_instructions
+
+| | Understanding announcements and instructions |
+| --- | --- |
+| C2 | No descriptors available; see C1 |
+| C1 | Can extract specific information from poor quality, [audibly and/or visually] distorted public announcements, e.g. in a station or sports stadium, or on an old recording.<br>Can understand complex technical information, such as operating instructions or specifications for familiar products and services. |
+| B2 | Can understand announcements and messages on concrete and abstract topics delivered in standard language or a familiar variety at normal speed.<br>Can understand detailed instructions well enough to be able to follow them successfully. |
+| B1 | Can understand simple technical information, such as operating instructions for everyday equipment.<br>Can follow detailed directions.<br>Can understand public announcements at airports, stations and on planes, buses and trains, provided these are clearly articulated with minimum interference from [auditory/visual] background noise. |
+| A2 | Can understand and follow a series of instructions for familiar everyday activities such as sports, cooking, etc., provided they are delivered slowly and clearly.<br>Can understand straightforward announcements (e.g. of a cinema programme or sports event, that a train has been delayed), provided the delivery is slow and clear.<br>Can catch the main point in short, clear, simple messages and announcements.<br>Can understand simple directions on how to get from X to Y, by foot or public transport.<br>Can understand basic instructions on times, dates and numbers, etc., and on routine tasks and assignments to be carried out. |
+| A1 | Can understand instructions addressed carefully and slowly to them and follow short, simple directions.<br>Can understand when someone tells them slowly and clearly where something is, provided the object is in the immediate environment.<br>Can understand figures, prices and times given slowly and clearly in an announcement by loudspeaker, e.g. at a railway station or in a shop. |
+| Pre-A1 | Can understand short, simple instructions for actions such as “Stop”, “Close the door”, etc., provided they are delivered slowly face-to-face, accompanied by pictures or manual gestures and repeated if necessary. |
+<!-- el:end id=scale_understanding_announcements_and_instructions -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **51***
 
@@ -1582,7 +1641,9 @@ This scale involves broadcast audio and signed media and recorded materials unac
 <!-- el:end id=scale_understanding_audio_or_signed_media_and_recordings -->
 
 <!-- el:start type=prose id=prose_p052_s2 page=52 -->
-##### 3.1.1.2. Audio-visual comprehension**Watching TV, film and video**
+##### 3.1.1.2. Audio-visual comprehension
+
+**Watching TV, film and video**
 
 This scale includes live and recorded video material plus, at higher levels, film. Key concepts operationalised in the scale include the following:
 
@@ -1622,9 +1683,8 @@ Reading comprehension is taken to include both written and signed texts. The cat
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **53***
 
 <!-- page:53 -->
-
 <!-- el:start type=artifact id=scale_overall_reading_comprehension page=54 -->
-<!-- db:id=scale_overall_reading_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=54 -->
+<!-- db:id=scale_overall_reading_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=54-55 -->
 ### Overall reading comprehension | scale_overall_reading_comprehension
 
 | | Overall reading comprehension |
@@ -1639,7 +1699,8 @@ Reading comprehension is taken to include both written and signed texts. The cat
 | Pre-A1 | Can recognise familiar words/signs accompanied by pictures, such as a fast-food restaurant menu illustrated with photos or a picture book using familiar vocabulary. |
 <!-- el:end id=scale_overall_reading_comprehension -->
 
-<!-- el:start type=prose id=prose_p054_s2 page=54 -->**Reading correspondence**
+<!-- el:start type=prose id=prose_p054_s2 page=54 -->
+**Reading correspondence**
 
 This scale encompasses reading both personal and formal correspondence. Key concepts operationalised in the scale include the following:
 
@@ -1650,7 +1711,7 @@ This scale encompasses reading both personal and formal correspondence. Key conc
 <!-- el:end id=prose_p054_s2 -->
 
 <!-- el:start type=artifact id=scale_overall_reading_comprehension page=54 -->
-<!-- db:id=scale_reading_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=55 -->
+<!-- db:id=scale_reading_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=54-55 -->
 ### Reading correspondence | scale_reading_correspondence
 
 | | Reading correspondence |
@@ -1658,27 +1719,26 @@ This scale encompasses reading both personal and formal correspondence. Key conc
 | C2 | Can understand specialised, formal correspondence on a complex topic. |
 | C1 | Can understand any correspondence given the occasional use of a dictionary.<br>Can understand implicit as well as explicit attitudes, emotions and opinions expressed in e-mails, discussion forums, vlogs/blogs, etc., provided there are opportunities for rereading and they have access to reference tools.<br>Can understand slang, idiomatic expressions and jokes in private correspondence. |
 | B2 | Can read correspondence relating to their field of interest and readily grasp the essential meaning.<br>Can understand what is said in a personal e-mail or posting even where some colloquial language is used. |
-<!-- el:end id=scale_overall_reading_comprehension -->
-
-*Page **54** ▶ **CEFR – Companion volume***
-
-<!-- page:54 -->
-
-<!-- el:start type=artifact id=scale_reading_correspondence page=55 -->
-<!-- db:id=scale_reading_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=55 -->
-### Reading correspondence | scale_reading_correspondence
-
-| | Reading correspondence |
-| --- | --- |
 | B1 | Can understand formal correspondence on less familiar subjects well enough to redirect it to someone else. |
 | | Can understand the description of events, feelings and wishes in personal letters well enough to correspond regularly with a pen friend.<br>Can understand straightforward personal letters, e-mails or postings giving a relatively detailed account of events and experiences.<br>Can understand standard formal correspondence and online postings in their area of professional interest. |
 | A2 | Can understand a simple personal letter, e-mail or post in which the person writing is talking about familiar subjects (such as friends or family) or asking questions on these subjects.<br>Can understand basic types of standard routine letters and faxes (enquiries, orders, letters of confirmation, etc.) on familiar topics. |
 | | Can understand short, simple personal letters.<br>Can understand very simple formal e-mails and letters (e.g. confirmation of a booking or online purchase). |
 | A1 | Can understand short, simple messages on postcards.<br>Can understand short, simple messages sent via social media or e-mail (e.g. proposing what to do, when and where to meet). |
 | Pre-A1 | Can understand from a letter, card or e-mail the event to which they are being invited and the information given about day, time and location.<br>Can recognise times and places in very simple notes and text messages from friends or colleagues (e.g.<br>“Back at 4 o’clock” or “In the meeting room”), provided there are no abbreviations. |
+<!-- el:end id=scale_overall_reading_comprehension -->
+
+*Page **54** ▶ **CEFR – Companion volume***
+
+<!-- page:54 -->
+<!-- el:start type=artifact id=scale_reading_correspondence page=55 -->
+<!-- db:id=scale_reading_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=55-56 -->
+
+<!-- table-continuity: full multipage table lives on page 54 (Reading correspondence); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_reading_correspondence -->
 
-<!-- el:start type=prose id=prose_p055_s1 page=55 -->**Reading for orientation**
+<!-- el:start type=prose id=prose_p055_s1 page=55 -->
+**Reading for orientation**
 
 Reading for orientation – search reading – involves “skimming”: reading at speed in order to judge relevance and “scanning”: searching for specific information. In relation to signed texts, both functions are achieved by putting the video into “fast forward”. Key concepts operationalised in the scale include the following:
 
@@ -1690,7 +1750,7 @@ Reading for orientation – search reading – involves “skimming”: reading 
 <!-- el:end id=prose_p055_s1 -->
 
 <!-- el:start type=artifact id=scale_reading_correspondence page=55 -->
-<!-- db:id=scale_reading_for_orientation type=descriptor_scale product_tier=assessment_action,detailed pages=56 -->
+<!-- db:id=scale_reading_for_orientation type=descriptor_scale product_tier=assessment_action,detailed pages=55-56 -->
 ### Reading for orientation | scale_reading_for_orientation
 
 | | Reading for orientation |
@@ -1699,27 +1759,26 @@ Reading for orientation – search reading – involves “skimming”: reading 
 | C1 | No descriptors available; see B2 |
 | B2 | Can scan quickly through several sources (articles, reports, websites, books, etc.) in parallel, in both their own field and in related fields, and can identify the relevance and usefulness of particular sections for the task at hand. |
 | | Can scan quickly through long and complex texts, locating relevant details.<br>Can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile. |
-<!-- el:end id=scale_reading_correspondence -->
-
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **55***
-
-<!-- page:55 -->
-
-<!-- el:start type=artifact id=scale_reading_for_orientation page=56 -->
-<!-- db:id=scale_reading_for_orientation type=descriptor_scale product_tier=assessment_action,detailed pages=56 -->
-### Reading for orientation | scale_reading_for_orientation
-
-| | Reading for orientation |
-| --- | --- |
 | B1 | Can scan longer texts in order to locate desired information, and gather information from different parts of a text, or from different texts in order to fulfil a specific task.<br>Can scan through straightforward, factual texts in magazines, brochures or on the web, identify what they are about and decide whether they contain information that might be of practical use. |
 | | Can find and understand relevant information in everyday material, such as letters, brochures and short official documents.<br>Can pick out important information about preparation and usage on the labels on foodstuff and medicine.<br>Can assess whether an article, report or review is on the required topic.<br>Can understand the important information in simple, clearly drafted adverts in newspapers or magazines, provided there are not too many abbreviations. |
 | A2 | Can find specific information in practical, concrete, predictable texts (e.g. travel guidebooks, recipes), provided they are produced in simple language.<br>Can understand the main information in short and simple descriptions of goods in brochures and websites<br>(e.g. portable digital devices, cameras). |
 | | Can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus, reference lists and timetables.<br>Can locate specific information in lists and isolate the information required (e.g. use the Yellow Pages to find a service or tradesman).<br>Can understand everyday signs and notices, etc. in public places, such as streets, restaurants, railway stations; in workplaces, such as directions, instructions, hazard warnings. |
 | A1 | Can recognise familiar names, words/signs and very basic phrases on simple notices in the most common everyday situations.<br>Can understand store guides (information on which floors departments are on) and directions (e.g. where to find lifts).<br>Can understand basic hotel information (e.g. times when meals are served).<br>Can find and understand simple, important information in advertisements, programmes for special events, leaflets and brochures (e.g. what is proposed, costs, the date and place of the event, departure times). |
 | Pre-A1 | Can understand simple everyday signs such as “Parking”, “Station”, “Dining room”, “No smoking”, etc.<br>Can find information about places, times and prices on posters, flyers and notices. |
+<!-- el:end id=scale_reading_correspondence -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **55***
+
+<!-- page:55 -->
+<!-- el:start type=artifact id=scale_reading_for_orientation page=56 -->
+<!-- db:id=scale_reading_for_orientation type=descriptor_scale product_tier=assessment_action,detailed pages=56-57 -->
+
+<!-- table-continuity: full multipage table lives on page 55 (Reading for orientation); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_reading_for_orientation -->
 
-<!-- el:start type=prose id=prose_p056_s1 page=56 -->**Reading for information and argument**
+<!-- el:start type=prose id=prose_p056_s1 page=56 -->
+**Reading for information and argument**
 
 Reading for information and argument – detailed reading – involves careful study of a written or signed text that one has judged to be relevant for a purpose at hand. It is often associated with study and professional life. Key concepts operationalised in the scale include the following:
 
@@ -1729,25 +1788,13 @@ Reading for information and argument – detailed reading – involves careful s
 <!-- el:end id=prose_p056_s1 -->
 
 <!-- el:start type=artifact id=scale_reading_for_orientation page=56 -->
-<!-- db:id=scale_reading_for_information_and_argument type=descriptor_scale product_tier=assessment_action,detailed pages=57 -->
+<!-- db:id=scale_reading_for_information_and_argument type=descriptor_scale product_tier=assessment_action,detailed pages=56-57 -->
 ### Reading for information and argument | scale_reading_for_information_and_argument
 
 | | Reading for information and argument |
 | --- | --- |
 | C2 | Can understand the finer points and implications of a complex report or article even outside their area of specialisation. |
 | C1 | Can understand in detail a wide range of lengthy, complex texts likely to be encountered in social, professional or academic life, identifying finer points of detail including attitudes and implied as well as stated opinions. |
-<!-- el:end id=scale_reading_for_orientation -->
-
-*Page **56** ▶ **CEFR – Companion volume***
-
-<!-- page:56 -->
-
-<!-- el:start type=artifact id=scale_reading_for_information_and_argument page=57 -->
-<!-- db:id=scale_reading_for_information_and_argument type=descriptor_scale product_tier=assessment_action,detailed pages=57 -->
-### Reading for information and argument | scale_reading_for_information_and_argument
-
-| | Reading for information and argument |
-| --- | --- |
 | B2 | Can obtain information, ideas and opinions from highly specialised sources within their field.<br>Can understand specialised articles outside their field, provided they can use a dictionary occasionally to confirm their interpretation of terminology. |
 | | Can understand articles and reports concerned with contemporary problems in which particular stances or viewpoints are adopted.<br>Can recognise when a text provides factual information and when it seeks to convince readers of something.<br>Can recognise different structures in discursive text: contrasting arguments, problem–solution presentation and cause–effect relationships. |
 | B1 | Can understand straightforward, factual texts on subjects relating to their interests or studies.<br>Can understand short texts on subjects that are familiar or of current interest, in which people give their points of view (e.g. critical contributions to an online discussion forum or readers’ letters to the editor).<br>Can identify the main conclusions in clearly signalled argumentative texts.<br>Can recognise the line of argument in the treatment of the issue presented, though not necessarily in detail. |
@@ -1756,6 +1803,16 @@ Reading for information and argument – detailed reading – involves careful s
 | | Can understand texts describing people, places, everyday life and culture, etc., provided they use simple language.<br>Can understand information given in illustrated brochures and maps (e.g. the principal attractions of a city).<br>Can understand the main points in short news items on subjects of personal interest (e.g. sport, celebrities).<br>Can understand a short factual description or report within their own field, provided simple language is used and that it does not contain unpredictable detail.<br>Can understand most of what people say about themselves in a personal ad or post and what they say they like in other people. |
 | A1 | Can get an idea of the content of simpler informational material and short, simple descriptions, especially if there is visual support.<br>Can understand short texts on subjects of personal interest (e.g. news flashes about sports, music, travel or stories) composed in very simple language and supported by illustrations and pictures. |
 | Pre-A1 | Can understand the simplest informational material such as a fast-food restaurant menu illustrated with photos or an illustrated story formulated in very simple everyday words/signs. |
+<!-- el:end id=scale_reading_for_orientation -->
+
+*Page **56** ▶ **CEFR – Companion volume***
+
+<!-- page:56 -->
+<!-- el:start type=artifact id=scale_reading_for_information_and_argument page=57 -->
+<!-- db:id=scale_reading_for_information_and_argument type=descriptor_scale product_tier=assessment_action,detailed pages=57 -->
+
+<!-- table-continuity: full multipage table lives on page 56 (Reading for information and argument); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_reading_for_information_and_argument -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **57***
@@ -1789,7 +1846,8 @@ Reading instructions is a specialised form of reading for information, and again
 | Pre-A1 | Can understand very short, simple, instructions used in familiar everyday contexts (e.g. “No parking”, “No food or drink”), especially if there are illustrations. |
 <!-- el:end id=scale_reading_instructions -->
 
-<!-- el:start type=prose id=prose_p058_s2 page=58 -->**Reading as a leisure activity**
+<!-- el:start type=prose id=prose_p058_s2 page=58 -->
+**Reading as a leisure activity**
 
 This scale involves both fiction and non-fiction written and signed texts. These may include creative texts, different forms of literature, magazine and newspaper articles, blogs or biographies, among other types of text – depending on one’s interests. Key concepts operationalised in the scale include the following:
 
@@ -1856,7 +1914,7 @@ In reception, understanding progresses through a combination of bottom-up/top-do
 <!-- el:start type=prose id=prose_p060_s2 page=60 -->
 ### 3.2. PRODUCTION
 
-Production includes speaking, signing and writing activities. Oral production is a “long turn”, which may involve a short description or anecdote, or may imply a longer, more formal presentation. Productive activities have an important function in many academic and professional fields (for example oral presentations, written studies and reports – that may be transmitted in sign) and particular social value is attached to them. Judgments are made about the linguistic quality of what has been submitted in writing or in a signed video, and about the
+Production includes speaking, signing and writing activities. Oral production is a “long turn”, which may involve a short description or anecdote, or may imply a longer, more formal presentation. Productive activities have an important function in many academic and professional fields (for example oral presentations, written studies and reports – that may be transmitted in sign) and particular social value is attached to them. Judgments are made about the linguistic quality of what has been submitted in writing or in a signed video, and about the fluency and articulateness of expression in real time, especially when addressing an audience.
 <!-- el:end id=prose_p060_s2 -->
 
 *Page **60** ▶ **CEFR – Companion volume***
@@ -1864,7 +1922,7 @@ Production includes speaking, signing and writing activities. Oral production is
 <!-- page:60 -->
 
 <!-- el:start type=figure_page id=figure_12_production_activities_strategies page=61 -->
-fluency and articulateness of expression in real time, especially when addressing an audience. Ability in this more formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It involves learning the expectations and conventions of the genre concerned. Production strategies are employed to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated processes in natural language production.
+Ability in this more formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It involves learning the expectations and conventions of the genre concerned. Production strategies are employed to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated processes in natural language production.
 
 <!-- db:id=figure_12_production_activities_strategies type=figure render_as=text_diagram product_tier=context pages=61 -->
 ### Figure 12 – Production activities and strategies | figure_12_production_activities_strategies
@@ -1889,21 +1947,22 @@ Production
   └── Monitoring and repair
 ```
 
-Planning
+### 3.2.1. Production activities
 
-Compensating
+#### 3.2.1.1. Oral production
 
-Monitoring and repair
+The categories for oral production are organised in terms of three macro-functions (interpersonal, transactional, evaluative), with two more specialised genres: “Addressing audiences” and “Public announcements”. “Sustained monologue: describing experience” focuses mainly on descriptions and narratives while “Sustained monologue: putting a case (e.g. in a debate)” describes the ability to sustain an argument, which may well be made in a long turn in the context of normal conversation and discussion. “Sustained monologue: giving information” is a new 2018 scale, created by transferring certain descriptors from the scale for “Information exchange” that implied monologue rather than dialogue.
+
 <!-- el:end id=figure_12_production_activities_strategies -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **61***
 
 <!-- page:61 -->
-
 <!-- el:start type=artifact id=scale_overall_oral_production page=62 -->
-<!-- db:id=scale_overall_oral_production type=descriptor_scale product_tier=assessment_action,detailed pages=62 -->
+<!-- db:id=scale_overall_oral_production type=descriptor_scale product_tier=assessment_action,detailed pages=62-63 -->
 ### Overall oral production | scale_overall_oral_production
 
+| | Overall oral production |
 | --- | --- |
 | C2 | Can produce clear, smoothly flowing, well-structured discourse with an effective logical structure which helps the recipient to notice and remember significant points. |
 | C1 | Can give clear, detailed descriptions and presentations on complex subjects, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. |
@@ -1915,7 +1974,8 @@ Monitoring and repair
 | Pre-A1 | Can produce short phrases about themselves, giving basic personal information (e.g. name, address, family, nationality). |
 <!-- el:end id=scale_overall_oral_production -->
 
-<!-- el:start type=prose id=prose_p062_s2 page=62 -->**Sustained monologue: describing experience**
+<!-- el:start type=prose id=prose_p062_s2 page=62 -->
+**Sustained monologue: describing experience**
 
 This scale concerns narrative and description. It has many short descriptors from A1 to B1 reflecting a relatively direct link between communicative functions and the language used to express them. There is little or no information about quality of language, for which one needs to consult the scales for communicative language competences, which are relevant to spoken, signed and written modalities. Key concepts operationalised in the scale include the following:
 
@@ -1924,33 +1984,36 @@ This scale concerns narrative and description. It has many short descriptors fro
 <!-- el:end id=prose_p062_s2 -->
 
 <!-- el:start type=artifact id=scale_overall_oral_production page=62 -->
-<!-- db:id=scale_sustained_monologue_describing_experience type=descriptor_scale product_tier=assessment_action,detailed pages=63 -->
+<!-- db:id=scale_sustained_monologue_describing_experience type=descriptor_scale product_tier=assessment_action,detailed pages=62-63 -->
 ### Sustained monologue: describing experience | scale_sustained_monologue_describing_experience
 
+| | Sustained monologue: describing experience |
 | --- | --- |
 | C2 | Can give clear, smoothly flowing, elaborate and often memorable descriptions. |
 | C1 | Can give clear, detailed descriptions of complex subjects.<br>Can give elaborate descriptions and narratives, integrating sub-themes, developing particular points and rounding them off with an appropriate conclusion. |
 | B2 | Can give clear, detailed descriptions on a wide range of subjects related to their field of interest.<br>Can describe the personal significance of events and experiences in detail. |
 | B1 | Can clearly express feelings about something experienced and give reasons to explain those feelings. |
 | | Can give straightforward descriptions on a variety of familiar subjects within their field of interest.<br>Can reasonably fluently relate a straightforward narrative or description as a sequence of points.<br>Can give detailed accounts of experiences, describing feelings and reactions.<br>Can relate details of unpredictable occurrences, e.g. an accident.<br>Can relate the plot of a book or film and describe their reactions.<br>Can describe dreams, hopes and ambitions.<br>Can describe events, real or imagined.<br>Can narrate a story. |
+| A2 | Can tell a story or describe something in a simple list of points.<br>Can describe everyday aspects of their environment, e.g. people, places, a job or study experience.<br>Can give short, basic descriptions of events and activities.<br>Can describe plans and arrangements, habits and routines, past activities and personal experiences.<br>Can use simple descriptive language to make brief statements about and compare objects and possessions.<br>Can explain what they like or dislike about something. |
+| | Can describe their family, living conditions, educational background, present or most recent job.<br>Can describe people, places and possessions in simple terms.<br>Can express what they are good at and not so good at (e.g. sports, games, skills, subjects).<br>Can briefly describe what they plan to do at the weekend or during the holidays. |
+| A1 | Can describe themselves, what they do and where they live.<br>Can describe simple aspects of their everyday life in a series of simple sentences, using simple words/signs and basic phrases, provided they can prepare in advance. |
+| Pre-A1 | Can describe themselves (e.g. name, age, family), using simple words/signs and formulaic expressions, provided they can prepare in advance.<br>Can express how they are feeling using simple adjectives like “happy” or “tired”, accompanied by body language. |
 <!-- el:end id=scale_overall_oral_production -->
 
 *Page **62** ▶ **CEFR – Companion volume***
 
 <!-- page:62 -->
-
 <!-- el:start type=artifact id=scale_sustained_monologue_describing_experience page=63 -->
 <!-- db:id=scale_sustained_monologue_describing_experience type=descriptor_scale product_tier=assessment_action,detailed pages=63 -->
-### Sustained monologue: describing experience | scale_sustained_monologue_describing_experience
 
-| --- | --- |
-| A2 | Can tell a story or describe something in a simple list of points.<br>Can describe everyday aspects of their environment, e.g. people, places, a job or study experience.<br>Can give short, basic descriptions of events and activities.<br>Can describe plans and arrangements, habits and routines, past activities and personal experiences.<br>Can use simple descriptive language to make brief statements about and compare objects and possessions.<br>Can explain what they like or dislike about something. |
-| | Can describe their family, living conditions, educational background, present or most recent job.<br>Can describe people, places and possessions in simple terms.<br>Can express what they are good at and not so good at (e.g. sports, games, skills, subjects).<br>Can briefly describe what they plan to do at the weekend or during the holidays. |
-| A1 | Can describe themselves, what they do and where they live.<br>Can describe simple aspects of their everyday life in a series of simple sentences, using simple words/signs and basic phrases, provided they can prepare in advance. |
-| Pre-A1 | Can describe themselves (e.g. name, age, family), using simple words/signs and formulaic expressions, provided they can prepare in advance.<br>Can express how they are feeling using simple adjectives like “happy” or “tired”, accompanied by body language. |
+<!-- table-continuity: full multipage table lives on page 62 (Sustained monologue: describing experience); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_sustained_monologue_describing_experience -->
 
-<!-- el:start type=prose id=prose_p063_s1 page=63 -->**Sustained monologue: giving information**
+<!-- el:start type=prose id=prose_p063_s1 page=63 -->
+**Sustained monologue: giving information**
+
+Sustained monologue: giving information is a new scale concerned with explaining information to a recipient in a long turn. Although the recipient may well interrupt to ask for repetition and clarification, the information is clearly unidirectional; it is not an exchange. Key concepts operationalised in the scale include the following:
 
 - type of information: from a simple description of an object, or directions, through straightforward factual information on a familiar topic, to complex professional or academic procedures;
 - degree of precision: from simple descriptions, through explaining the main points with reasonable precision and communicating detailed information reliably, to making clear distinctions between ideas, concepts and things that closely resemble one another.
@@ -1958,6 +2021,7 @@ This scale concerns narrative and description. It has many short descriptors fro
 
 <!-- el:start type=artifact id=scale_sustained_monologue_describing_experience page=63 -->
 
+| | Sustained monologue: giving information |
 | --- | --- |
 | C2 | No descriptors available; see C1 |
 | C1 | Can communicate clearly detailed distinctions between ideas, concepts and things that closely resemble one other.<br>Can give instructions on carrying out a series of complex professional or academic procedures. |
@@ -1967,6 +2031,7 @@ This scale concerns narrative and description. It has many short descriptors fro
 | | Can report straightforward factual information on a familiar topic, for example to indicate the nature of a problem or to give detailed directions, provided they can prepare beforehand. |
 | A2 | Can give simple directions on how to get from X to Y, using basic expressions such as “turn right” and “go straight”, along with sequential connectors such as “first”, “then” and “next”. |
 | A1 | Can name an object and indicate its shape and colour while showing it to others using basic words/signs, phrases and formulaic expressions, provided they can prepare in advance. |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_sustained_monologue_describing_experience -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **63***
@@ -1997,9 +2062,12 @@ This scale describes the ability to sustain an argument. The descriptors publish
 | | Can express opinions on subjects relating to everyday life, using simple expressions.<br>Can briefly give reasons and explanations for opinions, plans and actions.<br>Can explain whether or not they approve of what someone has done and give reasons to justify this opinion. |
 | A2 | Can explain what they like or dislike about something, why they prefer one thing to another, making simple, direct comparisons. |
 | | Can present their opinion in simple terms, provided interlocutors are patient. |
+| A1 | No descriptors available |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_sustained_monologue_putting_a_case_e_g_in_a_debate -->
 
-<!-- el:start type=prose id=prose_p064_s2 page=64 -->**Public announcements**
+<!-- el:start type=prose id=prose_p064_s2 page=64 -->
+**Public announcements**
 
 Public announcements are a very specialised way of passing important information to a group of people, perhaps in a private capacity (for example at a wedding), perhaps while organising an event or outing, or in the manner of air cabin staff. Key concepts operationalised in the scale include the following:
 
@@ -2008,14 +2076,13 @@ Public announcements are a very specialised way of passing important information
 - need for preparation: from very short, rehearsed announcements to spontaneous and almost effortless fluency.
 <!-- el:end id=prose_p064_s2 -->
 
-41.	 Prosodic cues are, for example, stress and intonation for spoken languages, and non-manual elements for sign languages.
+41.  Prosodic cues are, for example, stress and intonation for spoken languages, and non-manual elements for sign languages.
 
 *Page **64** ▶ **CEFR – Companion volume***
 
 <!-- page:64 -->
-
 <!-- el:start type=artifact id=scale_public_announcements page=65 -->
-<!-- db:id=scale_public_announcements type=descriptor_scale product_tier=assessment_action,detailed pages=65 -->
+<!-- db:id=scale_public_announcements type=descriptor_scale product_tier=assessment_action,detailed pages=65-66 -->
 ### Public announcements | scale_public_announcements
 
 | | Public announcements |
@@ -2025,9 +2092,12 @@ Public announcements are a very specialised way of passing important information
 | B2 | Can deliver announcements on most general topics with a degree of clarity, fluency and spontaneity which causes no strain or inconvenience to the recipient. |
 | B1 | Can deliver short, rehearsed announcements on a topic pertinent to everyday occurrences in their field which, despite possible problems with stress and intonation (= non-manuals in a sign language), are nevertheless clearly intelligible. |
 | A2 | Can deliver very short, rehearsed announcements of predictable, learnt content which are intelligible to recipients who are prepared to concentrate. |
+| A1 | No descriptors available |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_public_announcements -->
 
-<!-- el:start type=prose id=prose_p065_s1 page=65 -->**Addressing audiences**
+<!-- el:start type=prose id=prose_p065_s1 page=65 -->
+**Addressing audiences**
 
 This scale involves giving an oral presentation at a public event, in a meeting, seminar or class. Although the talk is clearly prepared, it is not usually read word for word/sign for sign. Nowadays it is conventional to use visual aids like PowerPoint, but this need not be the case. After a presentation, it is customary to take questions spontaneously, answering in a short monologue, so this is included in the descriptors as well. Key concepts operationalised in the scale include the following:
 
@@ -2037,39 +2107,45 @@ This scale involves giving an oral presentation at a public event, in a meeting,
 <!-- el:end id=prose_p065_s1 -->
 
 <!-- el:start type=artifact id=scale_public_announcements page=65 -->
-<!-- db:id=scale_addressing_audiences type=descriptor_scale product_tier=assessment_action,detailed pages=66 -->
+<!-- db:id=scale_addressing_audiences type=descriptor_scale product_tier=assessment_action,detailed pages=65-66 -->
 ### Addressing audiences | scale_addressing_audiences
 
+| | Addressing audiences |
 | --- | --- |
 | C2 | Can present a complex topic confidently and articulately to an audience unfamiliar with it, structuring and adapting the talk flexibly to meet the audience’s needs.<br>Can handle difficult and even hostile questioning. |
 | C1 | Can give a clear, well-structured presentation on a complex subject, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples.<br>Can structure a longer presentation appropriately in order to help the audience follow the sequence of ideas and understand the overall argumentation.<br>Can speculate or hypothesise in presenting a complex subject, comparing and evaluating alternative proposals and arguments.<br>Can handle interjections well, responding spontaneously and almost effortlessly. |
 | B2 | Can give a clear, systematically developed presentation, with highlighting of significant points, and relevant supporting detail.<br>Can depart spontaneously from a prepared text and follow up interesting points raised by members of the audience, often showing remarkable fluency and ease of expression. |
 | | Can give a clear, prepared presentation, giving reasons in support of or against a particular point of view and giving the advantages and disadvantages of various options.<br>Can take a series of follow-up questions with a degree of fluency and spontaneity which poses no strain for either themselves or the audience. |
-<!-- el:end id=scale_public_announcements -->
-
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **65***
-
-<!-- page:65 -->
-
-<!-- el:start type=artifact id=scale_addressing_audiences page=66 -->
-<!-- db:id=scale_addressing_audiences type=descriptor_scale product_tier=assessment_action,detailed pages=66 -->
-### Addressing audiences | scale_addressing_audiences
-
-| --- | --- |
 | B1 | Can give a prepared presentation on a familiar topic within their field, outlining similarities and differences<br>(e.g. between products, countries/regions, plans). |
 | | Can give a prepared straightforward presentation on a familiar topic within their field which is clear enough to be followed without difficulty most of the time, and in which the main points are explained with reasonable precision.<br>Can take follow-up questions, but may have to ask for repetition if the delivery is rapid. |
 | A2 | Can give a short, rehearsed presentation on a topic pertinent to their everyday life, and briefly give reasons and explanations for opinions, plans and actions.<br>Can cope with a limited number of straightforward follow-up questions. |
 | | Can give a short, rehearsed, basic presentation on a familiar subject.<br>Can answer straightforward follow-up questions if they can ask for repetition and if some help with the formulation of their reply is possible. |
 | A1 | Can use a very short prepared text to deliver a rehearsed statement (e.g. to formally introduce someone, to propose a toast). |
+| Pre-A1 | No descriptors available |
+<!-- el:end id=scale_public_announcements -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **65***
+
+<!-- page:65 -->
+<!-- el:start type=artifact id=scale_addressing_audiences page=66 -->
+<!-- db:id=scale_addressing_audiences type=descriptor_scale product_tier=assessment_action,detailed pages=66 -->
+
+<!-- table-continuity: full multipage table lives on page 65 (Addressing audiences); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_addressing_audiences -->
 
 <!-- el:start type=prose id=prose_p066_s1 page=66 -->
 ##### 3.2.1.2. Written production
 
+In the categories for written production, the macro-functions “transactional language use” and “evaluative language use” are not separated because they are normally interwoven (“Reading for information and argument” also combined these two aspects). “Creative writing” is the equivalent of “Sustained monologue: describing experience”, and focuses on description and narrative. As an alternative to writing, signers sometimes produce and send a video.42
+
+**Overall written production**
+
 <!-- el:end id=prose_p066_s1 -->
 
 <!-- el:start type=artifact id=scale_addressing_audiences page=66 -->
 
+| | Overall written production |
 | --- | --- |
 | C2 | Can produce clear, smoothly flowing, complex texts in an appropriate and effective style and a logical structure which helps the reader identify significant points. |
 | C1 | Can produce clear, well-structured texts of complex subjects, underlining the relevant salient issues, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples, and rounding off with an appropriate conclusion.<br>Can employ the structure and conventions of a variety of genres, varying the tone, style and register according to addressee, text type and theme. |
@@ -2080,7 +2156,7 @@ This scale involves giving an oral presentation at a public event, in a meeting,
 | Pre-A1 | Can give basic personal information (e.g. name, address, nationality), perhaps with the use of a dictionary. |
 <!-- el:end id=scale_addressing_audiences -->
 
-42.	 The production of formal, signed texts on video is becoming increasingly common. The number of students in the primary, secondary and tertiary education who submit video-recorded assignments in a sign language has been rising rapidly. There are nowadays a number of MA and doctoral dissertations as well as other publications in various genres (e.g. storybooks, textbooks) produced in sign languages. Videoed statements, press releases and public announcements in sign are also increasingly common.
+42.  The production of formal, signed texts on video is becoming increasingly common. The number of students in the primary, secondary and tertiary education who submit video-recorded assignments in a sign language has been rising rapidly. There are nowadays a number of MA and doctoral dissertations as well as other publications in various genres (e.g. storybooks, textbooks) produced in sign languages. Videoed statements, press releases and public announcements in sign are also increasingly common.
 
 *Page **66** ▶ **CEFR – Companion volume***
 
@@ -2182,7 +2258,8 @@ This scale is concerned with mental preparation before speaking, signing or writ
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_planning -->
 
-<!-- el:start type=prose id=prose_p069_s2 page=69 -->**Compensating**
+<!-- el:start type=prose id=prose_p069_s2 page=69 -->
+**Compensating**
 
 Compensating is a strategy for maintaining communication when one cannot think of the appropriate expression. Key concepts operationalised in the scale include the following:
 
@@ -2282,17 +2359,19 @@ Interaction
   └── Asking for clarification
 ```
 
-Notes, messages Conversation and forms
 
-Obtaining goods and services
+### 3.3.1. Interaction activities
 
-Interviewing and being interviewed
+#### 3.3.1.1. Oral interaction
 
-Using telecommunications**3.3.1.1. Oral interaction**The other scales then follow:**Online  interaction**
+Oral interaction is understood to include both spoken interaction and live, face-to-face signing. The scales are once again organised by the three macro-functions “interpersonal”, “transactional” and “evaluative”, with certain specialised genres added on. The scales begin with “Understanding an interlocutor”. “Interlocutor” is a somewhat technical term that means the person with whom one is conversing directly in a dialogue. As mentioned before, the metaphor behind the scales for oral comprehension is that of a series of concentric circles. Here we are at the centre of those circles: the user/learner is actively involved in an interaction with the interlocutor.
 
-Online conversation Turntaking and discussion
+The other scales then follow:
 
-Asking for clarification
+- interpersonal: “Conversation”;
+- evaluative: “Informal discussion (with friends)”; “Formal discussion (meetings)”, “Goal-oriented collaboration”;
+- transactional: “Information exchange”, “Obtaining goods and services”, “Interviewing and being interviewed”, and “Using telecommunications”.
+
 <!-- el:end id=figure_13_interaction_activities_strategies -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **71***
@@ -2303,6 +2382,7 @@ Asking for clarification
 <!-- db:id=scale_overall_oral_interaction type=descriptor_scale product_tier=assessment_action,detailed pages=72 -->
 ### Overall oral interaction | scale_overall_oral_interaction
 
+| | Overall oral interaction |
 | --- | --- |
 | C2 | Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning. Can convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of modification devices. Can backtrack and restructure around a difficulty so smoothly that the interlocutor is hardly aware of it. |
 | C1 | Can express themselves fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies; only a conceptually difficult subject can hinder a natural, smooth flow of language. |
@@ -2316,7 +2396,8 @@ Asking for clarification
 | Pre-A1 | Can ask and answer questions about themselves and daily routines, using short, formulaic expressions and relying on gestures to reinforce the information. |
 <!-- el:end id=scale_overall_oral_interaction -->
 
-<!-- el:start type=prose id=prose_p072_s2 page=72 -->**Understanding an interlocutor**
+<!-- el:start type=prose id=prose_p072_s2 page=72 -->
+**Understanding an interlocutor**
 
 This scale concerns understanding a person with whom you are conversing directly in an interaction, with the possibility of negotiating meaning. Key concepts operationalised in the scale include the following:
 
@@ -2328,11 +2409,11 @@ This scale concerns understanding a person with whom you are conversing directly
 *Page **72** ▶ **CEFR – Companion volume***
 
 <!-- page:72 -->
-
 <!-- el:start type=artifact id=scale_understanding_an_interlocutor page=73 -->
-<!-- db:id=scale_understanding_an_interlocutor type=descriptor_scale product_tier=assessment_action,detailed pages=73 -->
+<!-- db:id=scale_understanding_an_interlocutor type=descriptor_scale product_tier=assessment_action,detailed pages=73-74 -->
 ### Understanding an interlocutor | scale_understanding_an_interlocutor
 
+| | Understanding an interlocutor |
 | --- | --- |
 | C2 | Can understand any interlocutor, even on abstract and complex topics of a specialist nature beyond their own field, given an opportunity to adjust to a less familiar variety. |
 | C1 | Can understand an interlocutor in detail on abstract and complex topics of a specialist nature beyond their own field, though they may need to confirm occasional details, especially if the variety is unfamiliar. |
@@ -2344,7 +2425,8 @@ This scale concerns understanding a person with whom you are conversing directly
 | Pre-A1 | Can understand simple questions that directly concern them (e.g. name, age and address), if the person is asking slowly and clearly.<br>Can understand simple personal information (e.g. name, age, place of residence, origin) when other people introduce themselves slowly and clearly, directly to them, and can understand questions on this theme addressed to them, though the questions may need to be repeated.<br>Can understand a number of familiar words/signs and recognise key information (e.g. numbers, prices, dates and days of the week), provided the delivery is very slow, with repetition if necessary. |
 <!-- el:end id=scale_understanding_an_interlocutor -->
 
-<!-- el:start type=prose id=prose_p073_s1 page=73 -->**Conversation**
+<!-- el:start type=prose id=prose_p073_s1 page=73 -->
+**Conversation**
 
 This scale concerns interaction with a primarily social function: the establishment and maintenance of personal relationships. Key concepts operationalised in the scale include the following:
 
@@ -2354,34 +2436,35 @@ This scale concerns interaction with a primarily social function: the establishm
 <!-- el:end id=prose_p073_s1 -->
 
 <!-- el:start type=artifact id=scale_understanding_an_interlocutor page=73 -->
-<!-- db:id=scale_conversation type=descriptor_scale product_tier=assessment_action,detailed pages=74 -->
+<!-- db:id=scale_conversation type=descriptor_scale product_tier=assessment_action,detailed pages=73-74 -->
 ### Conversation | scale_conversation
 
+| | Conversation |
 | --- | --- |
 | C2 | Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full social and personal life. |
 | C1 | Can use language flexibly and effectively for social purposes, including emotional, allusive and joking usage. |
 | B2 | Can establish a relationship with interlocutors through sympathetic questioning and expressions of agreement plus, if appropriate, comments about third parties or shared conditions.<br>Can indicate reservations and reluctance, state conditions when agreeing to requests or granting permission, and ask for understanding of their own position. |
 | | Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a<br>[audially/visually] noisy environment.<br>Can sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient language user.<br>Can convey degrees of emotion and highlight the personal significance of events and experiences. |
-<!-- el:end id=scale_understanding_an_interlocutor -->
-
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **73***
-
-<!-- page:73 -->
-
-<!-- el:start type=artifact id=scale_conversation page=74 -->
-<!-- db:id=scale_conversation type=descriptor_scale product_tier=assessment_action,detailed pages=74 -->
-### Conversation | scale_conversation
-
-| --- | --- |
 | B1 | Can start up a conversation and help keep it going by asking people relatively spontaneous questions about a special experience or event, expressing reactions and opinions on familiar subjects.<br>Can have relatively long conversations on subjects of common interest, provided the interlocutor makes an effort to support understanding. |
 | | Can enter unprepared into conversations on familiar topics.<br>Can follow clearly articulated language directed at them in everyday conversation, though will sometimes have to ask for repetition of particular words/signs.<br>Can maintain a conversation or discussion but may sometimes be difficult to follow when trying to express exactly what they would like to.<br>Can express and respond to feelings such as surprise, happiness, sadness, interest and indifference. |
 | A2 | Can establish social contact (e.g. greetings and farewells, introductions, giving thanks).<br>Can generally understand clear, standard language on familiar matters directed at them, provided they can ask for repetition or reformulation from time to time.<br>Can participate in short conversations in routine contexts on topics of interest.<br>Can express how they feel in simple terms, and express thanks.<br>Can ask for a favour (e.g. to borrow something), can offer a favour, and can respond if someone asks them to do a favour for them. |
 | | Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of their own accord, though they can be made to understand if the interlocutor will take the trouble.<br>Can use simple, everyday, polite forms of greeting and address.<br>Can converse in simple language with peers, colleagues or members of a host family, asking questions and understanding answers relating to most routine matters.<br>Can make and respond to invitations, suggestions and apologies.<br>Can express how they are feeling, using very basic stock expressions.<br>Can state what they like and dislike. |
 | A1 | Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to them in clear, slow and repeated language by a sympathetic interlocutor.<br>Can take part in a simple conversation of a basic factual nature on a predictable topic (e.g. their home country, family, school).<br>Can make an introduction and use basic greeting and leave-taking expressions.<br>Can ask how people are and react to news. |
 | Pre-A1 | Can understand and use basic, formulaic expressions such as “Yes”, “No”, “Excuse me”, “Please”, “Thank you”,<br>“No thank you”, “Sorry”.<br>Can recognise simple greetings.<br>Can greet people, state their name and take leave in a simple way. |
+<!-- el:end id=scale_understanding_an_interlocutor -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **73***
+
+<!-- page:73 -->
+<!-- el:start type=artifact id=scale_conversation page=74 -->
+<!-- db:id=scale_conversation type=descriptor_scale product_tier=assessment_action,detailed pages=74 -->
+
+<!-- table-continuity: full multipage table lives on page 73 (Conversation); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_conversation -->
 
-<!-- el:start type=prose id=prose_p074_s1 page=74 -->**Informal discussion (with friends)**
+<!-- el:start type=prose id=prose_p074_s1 page=74 -->
+**Informal discussion (with friends)**
 
 This scale includes aspects of both the interpersonal and evaluative use of language, since these tend to be interwoven in everyday interaction. Key concepts operationalised in the scale include the following:
 
@@ -2398,6 +2481,7 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 <!-- db:id=scale_informal_discussion_with_friends type=descriptor_scale product_tier=assessment_action,detailed pages=75 -->
 ### Informal discussion (with friends) | scale_informal_discussion_with_friends
 
+| | Informal discussion (with friends) |
 | --- | --- |
 | C2 | Can advise on or discuss sensitive issues without awkwardness, understanding colloquial references and dealing diplomatically with disagreement and criticism. |
 | C1 | Can easily follow and contribute to complex interactions between third parties in group discussion even on abstract, complex unfamiliar topics. |
@@ -2408,9 +2492,13 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 | A2 | Can generally identify the topic of discussion around them when it is conducted slowly and clearly.<br>Can exchange opinions and compare things and people using simple language.<br>Can discuss what to do in the evening or at the weekend.<br>Can make and respond to suggestions.<br>Can agree and disagree with others. |
 | | Can discuss everyday practical issues in a simple way when addressed clearly, slowly and directly.<br>Can discuss what to do, where to go and make arrangements to meet.<br>Can express opinions in a limited way. |
 | A1 | Can exchange likes and dislikes for sports, foods, etc., using a limited repertoire of expressions, when addressed clearly, slowly and directly. |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_informal_discussion_with_friends -->
 
-<!-- el:start type=prose id=prose_p075_s1 page=75 -->**Formal discussion (meetings)**
+<!-- el:start type=prose id=prose_p075_s1 page=75 -->
+**Formal discussion (meetings)**
+
+This scale is concerned with more formal discussion, mainly in a professional or academic context. Key concepts operationalised in the scale are very similar to those in informal discussion, but also include the following:
 
 - type of meeting and topics: from exchanges on practical problems to discussion of abstract, complex, unfamiliar issues;
 - ability to follow the discussion: from needing repetition and clarification to understanding points given prominence and keeping up with animated debate;
@@ -2425,6 +2513,7 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 <!-- db:id=scale_formal_discussion_meetings type=descriptor_scale product_tier=assessment_action,detailed pages=76 -->
 ### Formal discussion (meetings) | scale_formal_discussion_meetings
 
+| | Formal discussion (meetings) |
 | --- | --- |
 | C2 | Can hold their own in formal discussion of complex issues, putting an articulate and persuasive argument, at no disadvantage to other participants.<br>Can advise on/handle complex, delicate or contentious issues, provided they have the necessary specialised knowledge.<br>Can deal with hostile questioning confidently, hold on to the turn and diplomatically rebut counter-arguments. |
 | C1 | Can easily keep up with the debate, even on abstract, complex, unfamiliar topics.<br>Can argue a formal position convincingly, responding to questions and comments and answering complex lines of counter-argument fluently, spontaneously and appropriately.<br>Can restate, evaluate and challenge contributions from other participants about matters within their academic or professional competence.<br>Can make critical remarks or express disagreement diplomatically.<br>Can follow up questions by probing for more detail and can reformulate questions if these are misunderstood. |
@@ -2434,9 +2523,12 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 | | Can take part in routine formal discussion of familiar subjects which is clearly articulated in the standard form of the language or a familiar variety and which involves the exchange of factual information, receiving instructions or the discussion of solutions to practical problems.<br>Can follow argumentation and discussion on a familiar or predictable topic, provided the points are made in relatively simple language and/or repeated, and opportunity is given for clarification. |
 | A2 | Can generally follow changes of topic in formal discussion related to their field which is conducted slowly and clearly.<br>Can exchange relevant information and give their opinion on practical problems when asked directly, provided they receive some help with formulation and can ask for repetition of key points if necessary. |
 | | Can express what they think about things when addressed directly in a formal meeting, provided they can ask for repetition of key points if necessary. |
+| A1 | No descriptors available |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_formal_discussion_meetings -->
 
-<!-- el:start type=prose id=prose_p076_s1 page=76 -->**Goal-oriented co-operation**
+<!-- el:start type=prose id=prose_p076_s1 page=76 -->
+**Goal-oriented co-operation**
 
 This scale concerns collaborative, task-focused work, which is a daily occurrence in real life, especially in professional contexts. As with the conversation and discussion scales, this scale includes similar descriptors on the ability to follow discussion. Key concepts operationalised in the scale include the following:
 
@@ -2467,7 +2559,8 @@ This scale concerns collaborative, task-focused work, which is a daily occurrenc
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_goal_oriented_co_operation_cooking_together_discussing_a_document_organising_an_event_etc -->
 
-<!-- el:start type=prose id=prose_p077_s1 page=77 -->**Obtaining goods and services**
+<!-- el:start type=prose id=prose_p077_s1 page=77 -->
+**Obtaining goods and services**
 
 This scale mainly concerns service encounters in restaurants, shops, banks, etc. Effectively making a complaint appears at B1, and above this level the scale focuses on following up a complaint or problem and negotiating a solution. Key concepts operationalised in the scale include the following:
 
@@ -2497,7 +2590,8 @@ This scale mainly concerns service encounters in restaurants, shops, banks, etc.
 | Pre-A1 | Can make simple purchases and/or order food or drink when pointing or other gesture can support the verbal reference. |
 <!-- el:end id=scale_obtaining_goods_and_services -->
 
-<!-- el:start type=prose id=prose_p078_s1 page=78 -->**Information exchange**
+<!-- el:start type=prose id=prose_p078_s1 page=78 -->
+**Information exchange**
 
 This scale does not contain descriptors for the C levels, because merely exchanging factual information is no longer a main focus in learning objectives for proficient users. Key concepts operationalised in the scale include the following:
 
@@ -2596,12 +2690,11 @@ This new 2018 scale concerns use of the phone and internet-based apps for remote
 Written interaction concerns interactive communication through the medium of script or sign.43 There are two scales: “Correspondence” and “Notes, messages and forms”. The former focuses on an interpersonal exchange, while the latter concerns information transfer. In written interaction the language used is similar to oral language.
 <!-- el:end id=prose_p081_s2 -->
 
-43.	 The number of formal and informal video-recorded chats and message exchanges has been rising rapidly, most notably through WhatsApp. Signers may correspond in writing or sign – or even switch between the two. In some countries, signers can now send enquiries, comments and complaints to certain service providers through a dedicated web portal. In addition, there are an increasing number of online surveys in which signers can choose whether to answer the questions in writing or in their sign language. The verb “compose” is therefore used in this section to include the possibility of signing.
+43.  The number of formal and informal video-recorded chats and message exchanges has been rising rapidly, most notably through WhatsApp. Signers may correspond in writing or sign – or even switch between the two. In some countries, signers can now send enquiries, comments and complaints to certain service providers through a dedicated web portal. In addition, there are an increasing number of online surveys in which signers can choose whether to answer the questions in writing or in their sign language. The verb “compose” is therefore used in this section to include the possibility of signing.
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **81***
 
 <!-- page:81 -->
-
 <!-- el:start type=prose id=prose_p082_s0 page=82 -->
 In addition, most interactive situations are tolerant of some error and confusion and have some contextual support. There is usually an opportunity to use interaction strategies like asking for clarification or asking for help with formulation and to repair misunderstandings. Finally, the requirement to produce carefully structured, accurate text is less of a priority.
 
@@ -2609,7 +2702,7 @@ Online interaction is dealt with separately because it is multimodal (see next s
 <!-- el:end id=prose_p082_s0 -->
 
 <!-- el:start type=artifact id=scale_overall_written_interaction page=82 -->
-<!-- db:id=scale_overall_written_interaction type=descriptor_scale product_tier=assessment_action,detailed pages=82 -->
+<!-- db:id=scale_overall_written_interaction type=descriptor_scale product_tier=assessment_action,detailed pages=82-83 -->
 ### Overall written interaction | scale_overall_written_interaction
 
 | | Overall written interaction |
@@ -2624,7 +2717,8 @@ Online interaction is dealt with separately because it is multimodal (see next s
 | Pre-A1 | Can convey basic information (e.g. name, address, family) in short phrases on a form or in a note, with the use of a dictionary. |
 <!-- el:end id=scale_overall_written_interaction -->
 
-<!-- el:start type=prose id=prose_p082_s2 page=82 -->**Correspondence**
+<!-- el:start type=prose id=prose_p082_s2 page=82 -->
+**Correspondence**
 
 The 2001 scale concerned only personal correspondence. The update augments this with descriptors for formal correspondence, since this is an activity that some user/learners need to carry out. Key concepts operationalised in the scale therefore include the following:
 
@@ -2633,7 +2727,7 @@ The 2001 scale concerned only personal correspondence. The update augments this 
 <!-- el:end id=prose_p082_s2 -->
 
 <!-- el:start type=artifact id=scale_overall_written_interaction page=82 -->
-<!-- db:id=scale_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=83 -->
+<!-- db:id=scale_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=82-83 -->
 ### Correspondence | scale_correspondence
 
 | | Correspondence |
@@ -2641,18 +2735,6 @@ The 2001 scale concerned only personal correspondence. The update augments this 
 | C2 | Can compose virtually any type of correspondence necessary in the course of their professional life in an appropriate tone and style. |
 | C1 | Can express themselves with clarity and precision in personal correspondence, using language flexibly and effectively, including emotional, allusive and joking usage.<br>Can, with good expression and accuracy, compose formal correspondence such as letters of clarification, application, recommendation, reference, complaint, sympathy and condolence. |
 | B2+ | Can maintain a relationship through personal correspondence using the language fluently and effectively to give detailed descriptions of experiences, pose sympathetic questions and follow up issues of mutual interest.<br>Can in most cases understand idiomatic expressions and colloquialisms in correspondence and other communications and use the most common ones themselves as appropriate to the situation.<br>Can compose formal correspondence such as letters of enquiry, request, application and complaint using appropriate register, structure and conventions.<br>Can compose a forceful but polite letter of complaint, including supporting details and a statement of the desired outcome. |
-<!-- el:end id=scale_overall_written_interaction -->
-
-*Page **82** ▶ **CEFR – Companion volume***
-
-<!-- page:82 -->
-
-<!-- el:start type=artifact id=scale_correspondence page=83 -->
-<!-- db:id=scale_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=83 -->
-### Correspondence | scale_correspondence
-
-| | Correspondence |
-| --- | --- |
 | B2 | Can compose letters conveying degrees of emotion and highlighting the personal significance of events and experiences and commenting on the correspondent’s news and views.<br>Can use formality and conventions appropriate to the context when writing personal and professional letters and e-mails.<br>Can compose formal e-mails/letters of invitation, thanks or apology using appropriate registers and conventions.<br>Can compose non-routine professional letters, using appropriate structure and conventions, provided these are restricted to matters of fact.<br>Can obtain, by letter or e-mail, information required for a particular purpose, collate it and forward it by e-mail to other people. |
 | B1 | Can compose personal letters giving news and expressing thoughts about abstract or cultural topics such as music or film.<br>Can compose letters expressing different opinions and giving detailed accounts of personal feelings and experiences.<br>Can reply to an advertisement in writing and ask for further information on items that interest them.<br>Can compose basic formal e-mails/letters (e.g. to make a complaint and request action). |
 | | Can compose personal letters describing experiences, feelings and events in some detail.<br>Can compose basic e-mails/letters of a factual nature (e.g. to request information or to ask for and give confirmation).<br>Can compose a basic letter of application with limited supporting details. |
@@ -2660,9 +2742,20 @@ The 2001 scale concerned only personal correspondence. The update augments this 
 | | Can convey personal information of a routine nature, for example in a short e-mail or letter introducing themselves.<br>Can compose very simple personal letters expressing thanks and apology.<br>Can compose short, simple notes, e-mails and text messages (e.g. to send or reply to an invitation, to confirm or change an arrangement).<br>Can compose a short text in a greetings card (e.g. for someone’s birthday or to wish them a Happy New Year). |
 | A1 | Can compose messages and online postings as a series of very short sentences about hobbies and likes/ dislikes, using simple words and formulaic expressions, with reference to a dictionary.<br>Can compose a short, simple postcard.<br>Can compose a short, very simple message (e.g. a text message) to friends to give them a piece of information or to ask them a question. |
 | Pre-A1 | Can convey basic personal information in short phrases and sentences, with reference to a dictionary. |
+<!-- el:end id=scale_overall_written_interaction -->
+
+*Page **82** ▶ **CEFR – Companion volume***
+
+<!-- page:82 -->
+<!-- el:start type=artifact id=scale_correspondence page=83 -->
+<!-- db:id=scale_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=83 -->
+
+<!-- table-continuity: full multipage table lives on page 82 (Correspondence); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_correspondence -->
 
-<!-- el:start type=prose id=prose_p083_s1 page=83 -->**Notes, messages and forms**
+<!-- el:start type=prose id=prose_p083_s1 page=83 -->
+**Notes, messages and forms**
 
 This scale encompasses a range of transactional interactive writing. At the A levels it includes filling in forms with personal details. From A2 the focus is on taking or leaving messages and writing/signing short notes. Key concepts operationalised in the scale therefore include the following:
 
@@ -2700,7 +2793,12 @@ Online communication is always mediated through a machine, which implies that it
 - the need for more redundancy in messages;
 - the need to check that the message has been correctly understood;
 - ability to reformulate in order to help comprehension and deal with misunderstandings;
-- ability to handle emotional reactions.**Online conversation and discussion** This scalefocuses on conversation and discussion online as a multimodal phenomenon, with an emphasis on how interlocutors communicate online to handle both serious issues and social exchanges in an open-ended way. Key concepts operationalised in the scale include the following:
+- ability to handle emotional reactions.
+
+**Online conversation and discussion**
+
+This scalefocuses on conversation and discussion online as a multimodal phenomenon, with an emphasis on how interlocutors communicate online to handle both serious issues and social exchanges in an open-ended way. Key concepts operationalised in the scale include the following:
+
 - instances of simultaneous (real-time) and consecutive interaction, the latter allowing time to prepare a draft and/or consult aids;
 - participation in sustained interaction with one or more interlocutors;
 - composing posts and contributions for others to respond to;
@@ -2738,17 +2836,29 @@ Progression up the scale is characterised as follows: the move from lower to hig
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **85***
 
 <!-- page:85 -->
+<!-- el:start type=prose id=prose_p086_restored page=86 -->
+<!-- book-qa restore: page 86 content was chrome-only; reconstructed from PDF; dual-emit soup removed -->
 
-*Page **86** ▶ **CEFR – Companion volume***
+<!-- table-continuity: full multipage table lives on page 85 (Online conversation and discussion); mid-page slice removed to keep single db:id for grep -->
 
-<!-- page:86 -->
+### Goal-oriented online transactions and collaboration
 
-<!-- el:start type=artifact id=scale_goal_oriented_online_transactions_and_collaboration page=87 -->
-<!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=87 -->
+This scale focuses on the potentially collaborative nature of online interaction and transactions that have specific goals, as a regular feature of contemporary life. A rigid separation between written and oral does not really apply to online transactions, where multimodality is increasingly a key feature and resource, and the descriptors therefore assume the exploitation of different online media and tools according to context. Key concepts operationalised in the scale include the following:
+
+- purchasing goods and services online;
+- engaging in transactions requiring negotiation of conditions, in a service as well as client role;
+- participation in collaborative project work;
+- dealing with communication problems.
+
+Progression up the scale is characterised as follows: the move towards higher levels expands from basic transactions and information exchange at the A levels towards more sophisticated collaborative project work that is goal-oriented. This can be seen as a progression from filling in predictable online forms at Pre-A1, to solving various problems in order for the transaction to take place at the B levels, through to being able to participate in, and ultimately co-ordinate, group project work online at the C levels. One can also see such competences as progressing from reactive to proactive participation, and from simple to complex. Simple collaborative tasks appear at A2+, with a co-operative interlocutor, with small group project work from B1 and the ability to take a lead role in collaborative work from B2+. By C1, the user/learner can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks.
+
+<!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=86-87 -->
 ### Goal-oriented online transactions and collaboration | scale_goal_oriented_online_transactions_and_collaboration
 
 | | Goal-oriented online transactions and collaboration |
 | --- | --- |
+| C2 | Can resolve misunderstandings and deal effectively with frictions that arise during the collaborative process.<br>Can provide guidance and add precision to the work of a group at the redrafting and editing stages of collaborative work. |
+| C1 | Can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks.<br>Can deal with complex online transactions in a service role (e.g. applications with complicated requirements), adjusting language flexibly to manage discussions and negotiations.<br>Can participate in complex projects requiring collaborative writing and redrafting as well as other forms of online collaboration, following and relaying instructions with precision in order to reach the goal.<br>Can deal effectively with communication problems and cultural issues that arise in an online collaborative or transactional exchange by reformulating, clarifying and providing examples through media (visual, audio, graphic). |
 | B2 | Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task by reminding it of roles, responsibilities and deadlines in order to achieve established goals.<br>Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require negotiation of conditions and explanation of complicated details and special requirements.<br>Can deal with misunderstandings and unexpected problems that arise in online collaborative or transactional exchanges by responding politely and appropriately in order to help resolve the issue. |
 | | Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks. |
 | B1 | Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.<br>Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks. |
@@ -2757,18 +2867,27 @@ Progression up the scale is characterised as follows: the move from lower to hig
 | | Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.<br>Can ask basic questions about the availability of a product or feature.<br>Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor. |
 | A1 | Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number). |
 | Pre-A1 | Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support. |
+<!-- el:end id=prose_p086_restored -->
+
+*Page **86** ▶ **CEFR – Companion volume***
+
+<!-- page:86 -->
+<!-- el:start type=artifact id=scale_goal_oriented_online_transactions_and_collaboration page=87 -->
+<!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=87 -->
+
+<!-- table-continuity: full multipage table lives on page 86 (Goal-oriented online transactions and collaboration); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_goal_oriented_online_transactions_and_collaboration -->
 
 <!-- el:start type=prose id=prose_p087_s1 page=87 -->
 #### 3.3.2. Interaction strategies
 
-Three descriptor scales are offered for interaction strategies: “Taking the floor” (“Turntaking”), “Co-operating” and “Asking for clarification”**.**Notice that “Taking the floor” (“Turntaking”)**, ** is in fact repeated in the section on “Pragmatic competence”, since it is a crucial part of discourse competence. This is the only instance in which a scale in the CEFR is repeated. In the scale for “Co-operating”, there are two aspects – cognitive strategies: framing, planning and organising ideational content, and collaborative strategies: handling interpersonal, relational aspects. In the section for mediation, these two aspects are further developed in new scales for cognitive strategies (“Collaborating to construct meaning”) and collaborative strategies (“Facilitating collaborative interaction with peers”). In many respects, these two scales represent a further development of the 2001 scale for “Co-operating”. However, since they go considerably further than the more discourse-focused approach of the “Co-operating” scale, it was decided to keep them under mediation.
+Three descriptor scales are offered for interaction strategies: “Taking the floor” (“Turntaking”), “Co-operating” and “Asking for clarification”. Notice that “Taking the floor” (“Turntaking”) is in fact repeated in the section on “Pragmatic competence”, since it is a crucial part of discourse competence. This is the only instance in which a scale in the CEFR is repeated. In the scale for “Co-operating”, there are two aspects – cognitive strategies: framing, planning and organising ideational content, and collaborative strategies: handling interpersonal, relational aspects. In the section for mediation, these two aspects are further developed in new scales for cognitive strategies (“Collaborating to construct meaning”) and collaborative strategies (“Facilitating collaborative interaction with peers”). In many respects, these two scales represent a further development of the 2001 scale for “Co-operating”. However, since they go considerably further than the more discourse-focused approach of the “Co-operating” scale, it was decided to keep them under mediation.
 <!-- el:end id=prose_p087_s1 -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **87***
 
 <!-- page:87 -->
-
 <!-- el:start type=prose id=prose_p088_s0 page=88 -->
 ### Turntaking
 
@@ -2779,7 +2898,7 @@ This scale is concerned with the ability to take the initiative in discourse. As
 <!-- el:end id=prose_p088_s0 -->
 
 <!-- el:start type=artifact id=scale_turntaking page=88 -->
-<!-- db:id=scale_turntaking type=descriptor_scale product_tier=assessment_action,detailed pages=88 -->
+<!-- db:id=scale_turntaking type=descriptor_scale product_tier=assessment_action,detailed pages=88-89 -->
 ### Turntaking | scale_turntaking
 
 | | Turntaking |
@@ -2795,16 +2914,21 @@ This scale is concerned with the ability to take the initiative in discourse. As
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_turntaking -->
 
-<!-- el:start type=prose id=prose_p088_s2 page=88 -->**Co-operating**This scale concerns collaborative discourse moves intended to help a discussion develop. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p088_s2 page=88 -->
+**Co-operating**
+
+This scale concerns collaborative discourse moves intended to help a discussion develop. Key concepts operationalised in the scale include the following:
 
 - confirming comprehension (lower levels);
 - ability to give feedback and relate one’s own contribution to that of previous speakers/signers (higher levels);
 - summarising the point reached in the discussion in order to take stock (B levels);
-- inviting others to contribute.**Note:** This scale is developed further in the scales for “Facilitating collaborative interaction with peers” and “Collaborating to construct meaning”.
+- inviting others to contribute.
+
+**Note:** This scale is developed further in the scales for “Facilitating collaborative interaction with peers” and “Collaborating to construct meaning”.
 <!-- el:end id=prose_p088_s2 -->
 
 <!-- el:start type=artifact id=scale_turntaking page=88 -->
-<!-- db:id=scale_co_operating type=descriptor_scale product_tier=assessment_action,detailed pages=89 -->
+<!-- db:id=scale_co_operating type=descriptor_scale product_tier=assessment_action,detailed pages=88-89 -->
 ### Co-operating | scale_co_operating
 
 | | Co-operating |
@@ -2812,27 +2936,26 @@ This scale is concerned with the ability to take the initiative in discourse. As
 | C2 | Can link contributions skilfully to those of others, widen the scope of the interaction and help steer it towards an outcome. |
 | C1 | Can relate own contribution skilfully to that of others. |
 | B2+ | Can give feedback on and follow up statements and inferences and so help the development of the discussion.<br>Can summarise and evaluate the main points of discussion on matters within their academic or professional competence. |
-<!-- el:end id=scale_turntaking -->
-
-*Page **88** ▶ **CEFR – Companion volume***
-
-<!-- page:88 -->
-
-<!-- el:start type=artifact id=scale_co_operating page=89 -->
-<!-- db:id=scale_co_operating type=descriptor_scale product_tier=assessment_action,detailed pages=89 -->
-### Co-operating | scale_co_operating
-
-| | Co-operating |
-| --- | --- |
 | B2 | Can help the discussion along on familiar ground, confirming comprehension, inviting others in, etc.<br>Can summarise the point reached at a particular stage in a discussion and propose the next steps. |
 | B1 | Can exploit a basic repertoire of language and strategies to help keep a conversation or discussion going.<br>Can summarise the point reached in a discussion and so help focus the argument. |
 | | Can repeat back part of what someone has said to confirm mutual understanding and help keep the development of ideas on course.<br>Can invite others into the discussion. |
 | A2 | Can indicate when they are following. |
 | A1 | No descriptors available |
 | Pre-A1 | No descriptors available |
+<!-- el:end id=scale_turntaking -->
+
+*Page **88** ▶ **CEFR – Companion volume***
+
+<!-- page:88 -->
+<!-- el:start type=artifact id=scale_co_operating page=89 -->
+<!-- db:id=scale_co_operating type=descriptor_scale product_tier=assessment_action,detailed pages=89 -->
+
+<!-- table-continuity: full multipage table lives on page 88 (Co-operating); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_co_operating -->
 
-<!-- el:start type=prose id=prose_p089_s1 page=89 -->**Asking for clarification**
+<!-- el:start type=prose id=prose_p089_s1 page=89 -->
+**Asking for clarification**
 
 This scale concerns intervening in an interaction to indicate whether one is following or not, and to ask follow-up questions on certain points, to check comprehension. Key concepts operationalised in the scale include the following:
 
@@ -2861,7 +2984,10 @@ This scale concerns intervening in an interaction to indicate whether one is fol
 
 <!-- page:89 -->
 
-<!-- el:start type=figure_page id=figure_14_mediation_activities_strategies page=90 -->**3.4. MEDIATION**The development and validation of the scales for mediation is described in “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/168073ff31) (North and Piccardo 2016). The aim was to provide CEFR descriptors for a broader view of mediation, as presented in the paper “Education, mobility, otherness – The mediation functions of schools” (https://rm.coe.int/16807367ee) (Coste and Cavalli 2015).
+<!-- el:start type=figure_page id=figure_14_mediation_activities_strategies page=90 -->
+**3.4. MEDIATION**
+
+The development and validation of the scales for mediation is described in “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/168073ff31) (North and Piccardo 2016). The aim was to provide CEFR descriptors for a broader view of mediation, as presented in the paper “Education, mobility, otherness – The mediation functions of schools” (https://rm.coe.int/16807367ee) (Coste and Cavalli 2015).
 
 In mediation, the user/learner acts as a social agent who creates bridges and helps to construct or convey meaning, sometimes within the same language, sometimes across modalities (e.g. from spoken to signed or vice versa, in cross-modal communication) and sometimes from one language to another (cross-linguistic mediation). The focus is on the role of language in processes like creating the space and conditions for communicating and/or learning, collaborating to construct new meaning, encouraging others to construct or understand new meaning, and passing on new information in an appropriate form. The context can be social, pedagogic, cultural, linguistic or professional.
 
@@ -2898,19 +3024,8 @@ Mediation
   └── Strategies to simplify a text
     ├── Amplifying a dense text
     └── Streamlining a text
-```**Mediating  Mediating concepts a text Collaborating  Leading in a group group work**Relaying Facilitating Managing specific collaborative interaction information interaction with peers Encouraging Explaining conceptual data Collaborating talk to construct meaning Processing text
+```
 
-Translating a written text
-
-Note-taking
-
-Analysis and criticism of creative texts**Mediating  Strategies Strategies  commuto explain a  to simplify nication new concept a text**
-
-Facilitating Linking to Amplifying a pluricultural previous dense text space knowledge
-
-Acting as an Adapting Streamlining intermediary language a text
-
-Breaking Facilitating communicadown tion in delicate complicated situations and information disagreements
 <!-- el:end id=figure_14_mediation_activities_strategies -->
 
 *Page **90** ▶ **CEFR – Companion volume***
@@ -2952,13 +3067,13 @@ The scales for mediation are presented in three groups, reflecting the way in wh
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **91***
 
 <!-- page:91 -->
-
+<!-- table-continuity retained -->
 <!-- el:start type=prose id=prose_p092_s1 page=92 -->
 ##### 3.4.1.1. Mediating a text
 
 For all the descriptors in the scales in this section, Language A and Language B may be different languages, varieties or modalities of the same language, different registers of the same variety, or any combination of the above. However, they may also be identical: the CEFR 2001 is clear that mediation may also be in one language. Alternatively, mediation may involve several languages, varieties or modalities; there may be a Language C and even conceivably a Language D in the communicative situation concerned. The descriptors for mediation are equally applicable in each case. Users may thus wish to specify precisely which languages/varieties/modalities are involved when adapting the descriptors to their context. For ease of use, reference is made in the descriptors to just Language A and Language B.
 
-It is also important to underline that the illustrative descriptors offered in this section are not intended to describe the competences of professional interpreters and translators. The descriptors focus on language competences,
+It is also important to underline that the illustrative descriptors offered in this section are not intended to describe the competences of professional interpreters and translators. The descriptors focus on language competences, thinking of what a user/learner can do in this area in informal everyday situations.
 <!-- el:end id=prose_p092_s1 -->
 
 *Page **92** ▶ **CEFR – Companion volume***
@@ -2966,7 +3081,9 @@ It is also important to underline that the illustrative descriptors offered in t
 <!-- page:92 -->
 
 <!-- el:start type=prose id=prose_p093_s0 page=93 -->
-thinking of what a user/learner can do in this area in informal everyday situations. Translation and interpretation competences and strategies are an entirely different field.**Relaying specific information**
+Translation and interpretation competences and strategies are an entirely different field.
+
+**Relaying specific information**
 
 Relaying specific information refers to the way some particular piece of information of immediate relevance is extracted from the target text and relayed to someone else. Here, the emphasis is on the specific content that is relevant, rather than the main ideas or lines of argument presented in a text. “Relaying specific information” is related to “Reading for orientation” (although the information concerned may have been given orally in a public announcement or series of instructions). The user/learner scans the source text for the necessary information and then relays this to a recipient. Key concepts operationalised in the two scales include the following:
 
@@ -3003,12 +3120,14 @@ In the two scales, Language A and Language B may be different languages, varieti
 *Page **94** ▶ **CEFR – Companion volume***
 
 <!-- page:94 -->
+<!-- table-continuity: full multipage table lives on page 94 (relaying specific information); mid-page slice removed to keep single db:id for grep -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **95***
 
 <!-- page:95 -->
 
-<!-- el:start type=prose id=prose_p096_s0 page=96 -->**Explaining data**
+<!-- el:start type=prose id=prose_p096_s0 page=96 -->
+**Explaining data**
 
 This scalerefers to the transformation into a verbal text of information found in figures (graphs, diagrams, etc.). The user/learner might do this as part of a PowerPoint presentation, or when explaining to a friend or colleague the key information given in graphics accompanying an article, a weather forecast or financial information. Key concepts operationalised in the two scales include the following:
 
@@ -3044,9 +3163,10 @@ In the two scales, Language A and Language B may be different languages, varieti
 
 <!-- page:97 -->
 
-<!-- el:start type=prose id=prose_p098_s0 page=98 -->**Processing text**
+<!-- el:start type=prose id=prose_p098_s0 page=98 -->
+**Processing text**
 
-Processing text involves understanding the information and/or arguments included in the source text and then transferring these to another text, usually in a more condensed form, in a way that is appropriate to the context. In other words, the outcome represents a condensing and/or reformulating of the original information and arguments, focusing on the main points and ideas in the source text. The key word in the processing scales is “summarising”. Whereas in “Relaying specific information”the user/learner will almost certainly not read the whole text (unless the information required is well hidden!), in “Processing text” they have first to fully understand all the main points in the source text. “Processing text” is thus related to “Reading for information and argument” (sometimes called reading for detail, or careful reading), although the information concerned may have been given orally in a presentation or lecture. The user/learner may then choose to present the information to the recipient in a completely different order, depending on the goal of the communicative encounter. Key concepts operationalised in the two scales include the following:
+Processing text involves understanding the information and/or arguments included in the source text and then transferring these to another text, usually in a more condensed form, in a way that is appropriate to the context. In other words, the outcome represents a condensing and/or reformulating of the original information and arguments, focusing on the main points and ideas in the source text. The key word in the processing scales is “summarising”. Whereas in “Relaying specific information” the user/learner will almost certainly not read the whole text (unless the information required is well hidden!), in “Processing text” they have first to fully understand all the main points in the source text. “Processing text” is thus related to “Reading for information and argument” (sometimes called reading for detail, or careful reading), although the information concerned may have been given orally in a presentation or lecture. The user/learner may then choose to present the information to the recipient in a completely different order, depending on the goal of the communicative encounter. Key concepts operationalised in the two scales include the following:
 
 - summarising the main points in a source text;
 - collating such information and arguments from different sources;
@@ -3082,10 +3202,12 @@ In the two scales, Language A and Language B may be different languages, varieti
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **99***
 
 <!-- page:99 -->
+<!-- table-continuity: full multipage table lives on page 99 (processing text); mid-page slice removed to keep single db:id for grep -->
 
 *Page **100** ▶ **CEFR – Companion volume***
 
 <!-- page:100 -->
+<!-- table-continuity: full multipage table lives on page 99 (processing text); mid-page slice removed to keep single db:id for grep -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **101***
 
@@ -3093,7 +3215,10 @@ In the two scales, Language A and Language B may be different languages, varieti
 
 ---
 
-<!-- el:start type=prose id=prose_p102_s0 page=102 -->**Translating a written text**Translating a written text in speech or sign is a largely informal activity that is by no means uncommon in everyday personal and professional life. It is the process of spontaneously giving an oral translation of a written text, often a notice, letter, e-mail or other communication. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p102_s0 page=102 -->
+**Translating a written text**
+
+Translating a written text in speech or sign is a largely informal activity that is by no means uncommon in everyday personal and professional life. It is the process of spontaneously giving an oral translation of a written text, often a notice, letter, e-mail or other communication. Key concepts operationalised in the scale include the following:
 
 - providing a rough, approximate translation;
 - capturing the essential information;
@@ -3101,7 +3226,7 @@ In the two scales, Language A and Language B may be different languages, varieti
 
 Progression up the scale is characterised as follows: the scale moves from rough translation of routine everyday information in simple texts at the lower levels to translation with increasing fluency and accuracy of texts that become increasingly more complex. The distinction between levels A1 to B1 is almost solely the type of texts involved. By B2, the user/learner can provide oral translation of complex texts containing information and arguments on subjects within their fields of professional, academic and personal interest, and at the C levels they can fluently translate complex texts on a wide range of general and specialised subjects, capturing nuances and implications.
 
-“Translating a written text in writing” is by its very nature a more formal process than providing an impromptu oral translation. However, this CEFR descriptor scale is not intended to relate to the activities of professional translators or to their training. Indeed, translating competences are not addressed in the scale. Furthermore, professional translators, like professional interpreters, develop their competences through their career. The language level necessary for a translation also depends on the type of text. Literary translation, for example, requires a level at or above C2. As mentioned when discussing CEFR levels in the section on key aspects of the CEFR, C2 is not the highest definable level of second/foreign language proficiency. It is in fact the middle level of a scale of five levels for literary translation produced in the PETRA project. (https://petra-education.eu/)44 On the other hand, plurilingual user/learners with a more modest level of proficiency sometimes find themselves in a situation in which they are asked to provide a written translation of a text in their professional or personal context. Here they are being asked to reproduce the substantive message of the source text, rather than necessarily interpret the style and tone of the original into an appropriate style and tone in the translation, as a professional translator would be expected to do.
+“Translating a written text in writing” is by its very nature a more formal process than providing an impromptu oral translation. However, this CEFR descriptor scale is not intended to relate to the activities of professional translators or to their training. Indeed, translating competences are not addressed in the scale. Furthermore, professional translators, like professional interpreters, develop their competences through their career. The language level necessary for a translation also depends on the type of text. Literary translation, for example, requires a level at or above C2. As mentioned when discussing CEFR levels in the section on key aspects of the CEFR, C2 is not the highest definable level of second/foreign language proficiency. It is in fact the middle level of a scale of five levels for literary translation produced in the PETRA project. (<https://petra-education.eu/>).44 On the other hand, plurilingual user/learners with a more modest level of proficiency sometimes find themselves in a situation in which they are asked to provide a written translation of a text in their professional or personal context. Here they are being asked to reproduce the substantive message of the source text, rather than necessarily interpret the style and tone of the original into an appropriate style and tone in the translation, as a professional translator would be expected to do.
 
 In using the descriptors in this scale it is particularly important to specify the languages involved because the scale deliberately does not address the issue of translating into and from the first language. This is partly because of the fact that, for increasing numbers of plurilingual persons, “first language” and “best language” are not always synonymous. What the scale provides is a functional description of the language ability necessary to reproduce a source text in another language. Key concepts operationalised in the scale include the following:
 
@@ -3111,10 +3236,12 @@ In using the descriptors in this scale it is particularly important to specify t
 
 Progression up the scale is shown in a very similar way to the previous scale. At the lower levels, translating involves approximate translations of short texts containing information that is straightforward and familiar, whereas at the higher levels, the source texts become increasingly complex and the translation is more and more accurate and reflective of the original.
 
-In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties concerned/ modalities; in the latter case, users should simply remove the parts in brackets.**Note:** As in any case in which mediation across languages is involved, users may wish to complete the descriptor by specifying the languages concerned
+In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties concerned/ modalities; in the latter case, users should simply remove the parts in brackets.
+
+**Note:** As in any case in which mediation across languages is involved, users may wish to complete the descriptor by specifying the languages concerned
 <!-- el:end id=prose_p102_s0 -->
 
-44.	 https://petra-education.eu/.
+44.  https://petra-education.eu/.
 
 *Page **102** ▶ **CEFR – Companion volume***
 
@@ -3139,6 +3266,7 @@ In the two scales, Language A and Language B may be different languages, varieti
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **103***
 
 <!-- page:103 -->
+<!-- table-continuity: full multipage table lives on page 103 (translating written text); mid-page slice removed to keep single db:id for grep -->
 
 *Page **104** ▶ **CEFR – Companion volume***
 
@@ -3171,7 +3299,8 @@ This scale concerns the ability to grasp key information and write coherent note
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_note_taking_lectures_seminars_meetings_etc -->
 
-<!-- el:start type=prose id=prose_p105_s2 page=105 -->**Creative texts**
+<!-- el:start type=prose id=prose_p105_s2 page=105 -->
+**Creative texts**
 
 Creative texts are one of the main sources for “Reading as a leisure activity” and there are several descriptors related to the reading of literature in the scale with that title. However, creative texts are not confined to literature or indeed to script. Film, theatre, recitals and multimodal installations are just some of the other types of creative text, as works of imagination and cultural significance. Therefore, while some of the descriptors in this section do refer explicitly to scripted text and/or literature, many refer to “the work” concerned.
 <!-- el:end id=prose_p105_s2 -->
@@ -3190,7 +3319,9 @@ There are perhaps four main types of classic response:
 - analysis of certain aspects of the work including language, literary devices, context, characters, relationships, etc.
 - evaluation: giving a critical appraisal of technique, structure, the vision of the artist, the significance of the work, etc.
 
-There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.**Expressing a personal response to creative texts (including literature)**
+There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.
+
+**Expressing a personal response to creative texts (including literature)**
 
 This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
 
@@ -3221,22 +3352,43 @@ Progression up the scale is characterised as follows: at the lower levels the us
 *Page **106** ▶ **CEFR – Companion volume***
 
 <!-- page:106 -->
+<!-- el:start type=prose id=prose_p107_restored page=107 -->
+<!-- book-qa restore: page 107 content was chrome-only; reconstructed from PDF; dual-emit soup removed -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **107***
+<!-- table-continuity: full multipage table lives on page 106 (Expressing a personal response to creative texts); mid-page slice removed to keep single db:id for grep -->
 
-<!-- page:107 -->
+### Analysis and criticism of creative texts (including literature)
 
-<!-- el:start type=artifact id=scale_analysis_and_criticism_of_creative_texts_including_literature page=108 -->
-<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=108 -->
+This scale represents an approach more common at an upper secondary and university level. It concerns more formal, intellectual reactions. Aspects analysed include the significance of events in a novel, the treatment of the same themes in different works and other links between them, the extent to which a work follows conventions, and more global evaluation of the work as a whole. Key concepts operationalised in the scale include:
+
+- comparing different works;
+- giving a reasoned opinion of a work;
+- critically evaluating features of a work, including the effectiveness of its techniques.
+
+Progression up the scale is characterised as follows: there are no descriptors for A1 and A2. Until B2, the focus is on description rather than evaluation. At B2, the user/learner can analyse similarities and differences between works, giving a reasoned opinion and referring to the views of others. At C1, analysis becomes more subtle, concerned with the way the work engages the audience, the extent to which it is conventional, or whether it employs irony. At C2, the user/learner can recognise finer linguistic and stylistic subtleties, unpack connotations and give more critical appraisals of the way in which structure, language and rhetorical devices are exploited in a work of literature for a particular purpose.
+
+<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=107-108 -->
 ### Analysis and criticism of creative texts (including literature) | scale_analysis_and_criticism_of_creative_texts_including_literature
 
 | | Analysis and criticism of creative texts (including literature) |
 | --- | --- |
+| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.<br>Can recognise the finer subtleties of nuanced language, rhetorical effect and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.<br>Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.<br>Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. |
+| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres.<br>Can evaluate the extent to which a work follows the conventions of its genre.<br>Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). |
 | B2 | Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.<br>Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.<br>Can evaluate the way the work encourages identification with characters, giving examples.<br>Can describe the way in which different works differ in their treatment of the same theme. |
 | B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them.<br>Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. |
 | A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. |
 | A1 | No descriptors available |
 | Pre-A1 | No descriptors available |
+<!-- el:end id=prose_p107_restored -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **107***
+
+<!-- page:107 -->
+<!-- el:start type=artifact id=scale_analysis_and_criticism_of_creative_texts_including_literature page=108 -->
+<!-- db:id=scale_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=assessment_action,detailed pages=108 -->
+
+<!-- table-continuity: full multipage table lives on page 107 (Analysis and criticism of creative texts); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_analysis_and_criticism_of_creative_texts_including_literature -->
 
 <!-- el:start type=prose id=prose_p108_s1 page=108 -->
@@ -3263,14 +3415,19 @@ The two scales under “establishing conditions” focus on building and maintai
 
 <!-- page:108 -->
 
-<!-- el:start type=prose id=prose_p109_s0 page=109 -->**Facilitating collaborative interaction with peers**The user/learner contributes to successful collaboration in a group that they belong to, usually with a specific shared objective or communicative task in mind. They are concerned with making conscious interventions where appropriate to orient the discussion, balance contributions and help to overcome communication difficulties within the group. They do not have a designated lead role in the group, and are not concerned with creating a lead role for themselves, being concerned solely with successful collaboration. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p109_s0 page=109 -->
+**Facilitating collaborative interaction with peers**
+
+The user/learner contributes to successful collaboration in a group that they belong to, usually with a specific shared objective or communicative task in mind. They are concerned with making conscious interventions where appropriate to orient the discussion, balance contributions and help to overcome communication difficulties within the group. They do not have a designated lead role in the group, and are not concerned with creating a lead role for themselves, being concerned solely with successful collaboration. Key concepts operationalised in the scale include the following:
 
 - collaborative participation by consciously managing one’s own role and contributions to group communication;
 - active orientation of teamwork by helping to review key points and consider or define next steps;
 - use of questions and contributions to move the discussion forward in a productive way;
 - use of questions and turntaking to balance contributions from other group members with their own contributions.
 
-Progression up the scale is characterised as follows: at A2, the user/learner can collaborate actively in simple, shared tasks, provided someone helps them express their suggestions. At B1, the focus is on posing questions and inviting others to contribute. By B2, the learner/user can refocus the discussion, helping to define goals and comparing ways of achieving them. At C1, they can help steer a discussion tactfully towards a conclusion.**Collaborating to construct meaning**
+Progression up the scale is characterised as follows: at A2, the user/learner can collaborate actively in simple, shared tasks, provided someone helps them express their suggestions. At B1, the focus is on posing questions and inviting others to contribute. By B2, the learner/user can refocus the discussion, helping to define goals and comparing ways of achieving them. At C1, they can help steer a discussion tactfully towards a conclusion.
+
+**Collaborating to construct meaning**
 
 This scale is concerned with stimulating and developing ideas as a member of a group. It is particularly relevant to collaborative work in problem solving, brainstorming, concept development and project work.
 
@@ -3309,12 +3466,16 @@ Progression up the scale is characterised as follows: the scale moves from simpl
 *Page **110** ▶ **CEFR – Companion volume***
 
 <!-- page:110 -->
+<!-- table-continuity: full multipage table lives on page 110 (collaborating in a group); mid-page slice removed to keep single db:id for grep -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **111***
 
 <!-- page:111 -->
 
-<!-- el:start type=prose id=prose_p112_s0 page=112 -->**Managing interaction**This scale is intended for situations in which the user/learner has a designated lead role to organise communicative activity between members of a group or several groups, for example as a teacher, workshop facilitator, trainer or meeting chair. They have a conscious approach to managing phases of communication that may include both plenary communication with the whole group, and/or management of communication within and between sub-groups. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p112_s0 page=112 -->
+**Managing interaction**
+
+This scale is intended for situations in which the user/learner has a designated lead role to organise communicative activity between members of a group or several groups, for example as a teacher, workshop facilitator, trainer or meeting chair. They have a conscious approach to managing phases of communication that may include both plenary communication with the whole group, and/or management of communication within and between sub-groups. Key concepts operationalised in the scale include the following:
 
 - leading plenary activity;
 - giving instructions and checking understanding of communicative task objectives;
@@ -3322,7 +3483,9 @@ Progression up the scale is characterised as follows: the scale moves from simpl
 - reorienting communication in the group or sub-groups; intervening to put a group back on task;
 - adapting one’s own contributions and interactive role to support group communication, according to need.
 
-Progression up the scale is characterised as follows: at B1 the user/learner can give clear instructions, allocate turns, and bring participants in a group back to the task. These aspects are extended at B2 with explanations of different roles, ground rules and an ability to put a group back on task with new instructions or to encourage more balanced participation. Several descriptors on monitoring clustered at B2+; only one of these has been kept in the scale. By C1, the user/learner can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases, intervening diplomatically in order to redirect discussion, to prevent one person dominating or to confront disruptive behaviour. At C2, they can take on different roles as appropriate, recognise undercurrents and give appropriate guidance, and provide individualised support.**Encouraging conceptual talk**
+Progression up the scale is characterised as follows: at B1 the user/learner can give clear instructions, allocate turns, and bring participants in a group back to the task. These aspects are extended at B2 with explanations of different roles, ground rules and an ability to put a group back on task with new instructions or to encourage more balanced participation. Several descriptors on monitoring clustered at B2+; only one of these has been kept in the scale. By C1, the user/learner can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases, intervening diplomatically in order to redirect discussion, to prevent one person dominating or to confront disruptive behaviour. At C2, they can take on different roles as appropriate, recognise undercurrents and give appropriate guidance, and provide individualised support.
+
+**Encouraging conceptual talk**
 
 Encouraging conceptual talk involves providing scaffolding to enable another person or persons to themselves construct a new concept, rather than passively following a lead. The user/learner may do this as a member of a group, taking temporarily the role of facilitator, or they may have the designated role of an expert (for example, an animator, teacher, trainer or manager) who is leading the group in order to help them understand concepts. Key concepts operationalised in the scale include the following:
 
@@ -3393,8 +3556,9 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 *Page **114** ▶ **CEFR – Companion volume***
 
 <!-- page:114 -->
-
-<!-- el:start type=prose id=prose_p115_s1 page=115 -->**Acting as an intermediary in informal situations (with friends and colleagues)**
+<!-- table-continuity retained -->
+<!-- el:start type=prose id=prose_p115_s1 page=115 -->
+**Acting as an intermediary in informal situations (with friends and colleagues)**
 
 This scale is intended for situations in which the user/learner as a plurilingual individual mediates across languages and cultures to the best of their ability in an informal situation in the public, private, occupational or educational domain. The scale is therefore not concerned with the activities of professional interpreters. The mediation may be in one direction (for example, during a welcome speech) or in two directions (for example, during a conversation). Key concepts operationalised in the scale include the following:
 
@@ -3427,7 +3591,8 @@ Progression up the scale is characterised as follows: at the A levels, the user/
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_acting_as_an_intermediary_in_informal_situations_with_friends_and_colleagues -->
 
-<!-- el:start type=prose id=prose_p116_s1 page=116 -->**Facilitating communication in delicate situations and disagreements**
+<!-- el:start type=prose id=prose_p116_s1 page=116 -->
+**Facilitating communication in delicate situations and disagreements**
 
 This scale is intended for situations in which the user/learner may have a formal role to mediate in a disagreement between third parties, or may informally try to resolve a misunderstanding, delicate situation or disagreement between them. The user/learner is primarily concerned with clarifying what the problem is and what the parties want, helping them understand each other’s positions. They may well attempt to persuade the third parties to move closer to a resolution of the issue. They are not at all concerned with their own viewpoint, but seek balance in the representation of the viewpoints of the other parties involved in the discussion. Key concepts operationalised in the scale include the following:
 
@@ -3441,7 +3606,6 @@ This scale is intended for situations in which the user/learner may have a forma
 *Page **116** ▶ **CEFR – Companion volume***
 
 <!-- page:116 -->
-
 <!-- el:start type=prose id=prose_p117_s0 page=117 -->
 Progression up the scale is characterised as follows: at the A levels, the user/learner can recognise when disagreements occur. At B1, they can obtain explanations, demonstrate understanding of the issues and seek clarifications where necessary. At B2, they can outline the main issues and the positions of the parties concerned, identify common ground, highlight possible solutions and summarise what is agreed on. These skills are deepened at B2+, with the user/learner showing detailed awareness of the issues and eliciting possible solutions. At the C levels, they have the diplomatic and persuasive language to do this more effectively, guiding a delicate discussion sensitively.
 <!-- el:end id=prose_p117_s0 -->
@@ -3466,7 +3630,7 @@ Progression up the scale is characterised as follows: at the A levels, the user/
 <!-- el:start type=prose id=prose_p117_s2 page=117 -->
 #### 3.4.2. Mediation strategies
 
-The user/learner’s ability to mediate does not only involve being linguistically competent in the relevant language or languages; it also entails using mediation strategies that are appropriate in relation to the conventions, conditions and constraints of the communicative context. Mediation strategies are the techniques employed to clarify meaning and facilitate understanding. As a mediator, the user/learner may need to shuttle between people, between texts, between types of discourse and between languages, varieties or modalities, depending on the mediation context. The strategies here presented are communication strategies, that is, ways of helping people to understand, during the actual process of mediation. They concern the way source content is processed for the
+The user/learner’s ability to mediate does not only involve being linguistically competent in the relevant language or languages; it also entails using mediation strategies that are appropriate in relation to the conventions, conditions and constraints of the communicative context. Mediation strategies are the techniques employed to clarify meaning and facilitate understanding. As a mediator, the user/learner may need to shuttle between people, between texts, between types of discourse and between languages, varieties or modalities, depending on the mediation context. The strategies here presented are communication strategies, that is, ways of helping people to understand, during the actual process of mediation. They concern the way source content is processed for the recipient.
 <!-- el:end id=prose_p117_s2 -->
 
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **117***
@@ -3474,19 +3638,31 @@ The user/learner’s ability to mediate does not only involve being linguistical
 <!-- page:117 -->
 
 <!-- el:start type=prose id=prose_p118_s0 page=118 -->
-recipient. For instance, is it necessary to elaborate it, to condense it, to paraphrase it, to simplify it, to illustrate it with metaphors or visuals? The strategies are presented separately because they apply to many of the activities.**3.4.2.1. Strategies to explain a new concept Linking to previous knowledge**Establishing links to previous knowledge is a significant part of the mediation process since it is an essential part of the learning process. The mediator may explain new information by making comparisons, by describing how it relates to something the recipient already knows or by helping recipients activate previous knowledge, for example. Links may be made to other texts, relating new information and concepts to previous material, and to background knowledge of the world. Key concepts operationalised in the scale include the following:
+For instance, is it necessary to elaborate it, to condense it, to paraphrase it, to simplify it, to illustrate it with metaphors or visuals? The strategies are presented separately because they apply to many of the activities.
+
+**3.4.2.1. Strategies to explain a new concept**
+
+**Linking to previous knowledge**
+
+Establishing links to previous knowledge is a significant part of the mediation process since it is an essential part of the learning process. The mediator may explain new information by making comparisons, by describing how it relates to something the recipient already knows or by helping recipients activate previous knowledge, for example. Links may be made to other texts, relating new information and concepts to previous material, and to background knowledge of the world. Key concepts operationalised in the scale include the following:
 
 - posing questions to encourage people to activate prior knowledge;
 - making comparisons and/or links between new and prior knowledge;
 - providing examples and definitions.
 
-Progression up the scale is characterised as follows: there is a progression from comparison to familiar everyday experience at B1, through awareness raising with clear explanations of links at B2, to extended, spontaneous definition of complex concepts that draw on previous knowledge at C2.**Adapting language**The user/learner may need to employ shifts in use of language, style and/or register in order to incorporate the content of a text into a new text of a different genre and register. This may be done through the inclusion of synonyms, similes, simplification or paraphrasing. Key concepts operationalised in the scale include the following:
+Progression up the scale is characterised as follows: there is a progression from comparison to familiar everyday experience at B1, through awareness raising with clear explanations of links at B2, to extended, spontaneous definition of complex concepts that draw on previous knowledge at C2.
+
+**Adapting language**
+
+The user/learner may need to employ shifts in use of language, style and/or register in order to incorporate the content of a text into a new text of a different genre and register. This may be done through the inclusion of synonyms, similes, simplification or paraphrasing. Key concepts operationalised in the scale include the following:
 
 - paraphrasing;
 - adapting delivery;
 - explaining technical terminology.
 
-Progression up the scale is characterised as follows: from A2 to B2 the user/learner can exploit paraphrasing and simplification to make the content of texts more accessible. B2 descriptors concern paraphrasing difficult concepts and technical topics comprehensible with paraphrasing, and conscious adaptation of the language used. At the C levels, concepts are technical or complex, and the user/learner is able to present the content in a different genre or register that is appropriate for the audience and purpose.**Breaking down complicated information**
+Progression up the scale is characterised as follows: from A2 to B2 the user/learner can exploit paraphrasing and simplification to make the content of texts more accessible. B2 descriptors concern paraphrasing difficult concepts and technical topics comprehensible with paraphrasing, and conscious adaptation of the language used. At the C levels, concepts are technical or complex, and the user/learner is able to present the content in a different genre or register that is appropriate for the audience and purpose.
+
+**Breaking down complicated information**
 
 Understanding can often be enhanced by breaking down complicated information into constituent parts, and showing how these parts fit together to give the whole picture. Key concepts operationalised in the scale include the following:
 
@@ -3521,18 +3697,26 @@ Progression up the scale is characterised as follows: at B1 the user/learner can
 *The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **119***
 
 <!-- page:119 -->
+<!-- table-continuity: full multipage table lives on page 119 (strategies explain new concept); mid-page slice removed to keep single db:id for grep -->
 
 *Page **120** ▶ **CEFR – Companion volume***
 
 <!-- page:120 -->
 
-<!-- el:start type=prose id=prose_p121_s0 page=121 -->**3.4.2.2. Strategies to simplify a text Amplifying a dense text**Density of information is often an obstacle to understanding. This scale is concerned with the expansion of the input source through the inclusion of helpful information, examples, details, background information, reasoning and explanatory comments. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p121_s0 page=121 -->
+**3.4.2.2. Strategies to simplify a text**
+
+**Amplifying a dense text**
+
+Density of information is often an obstacle to understanding. This scale is concerned with the expansion of the input source through the inclusion of helpful information, examples, details, background information, reasoning and explanatory comments. Key concepts operationalised in the scale include the following:
 
 - using repetition and redundancy, for example by paraphrasing in different ways;
 - modifying style to explain things more explicitly;
 - giving examples.
 
-Progression up the scale is characterised as follows: at B1 and B2 the emphasis is on providing repetition and further examples, whereas at the C levels the focus is more on elaboration and explanation, adding helpful detail.**Streamlining a text**
+Progression up the scale is characterised as follows: at B1 and B2 the emphasis is on providing repetition and further examples, whereas at the C levels the focus is more on elaboration and explanation, adding helpful detail.
+
+**Streamlining a text**
 
 This scale is concerned with the opposite to “Amplifying” in the scale above, namely pruning a written text to its essential message(s). This may involve expressing the same information more economically by eliminating repetition and digressions, and excluding those sections of the source that do not add relevant new information. However, it may also involve regrouping the source ideas in order to highlight important points, to draw conclusions or to compare and contrast them. Key concepts operationalised in the scale include the following:
 
@@ -3565,7 +3749,11 @@ Progression up the scale is characterised as follows: highlighting may be simply
 <!-- page:122 -->
 
 <!-- el:start type=figure_page id=figure_15_plurilingual_pluricultural_competence page=123 -->
-Chapter 4**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: PLURILINGUAL AND  PLURICULTURAL COMPETENCE**The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states:
+
+## Chapter 4
+**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: PLURILINGUAL AND PLURICULTURAL COMPETENCE**
+
+The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states:
 
 the plurilingual approach emphasises the fact that as an individual person’s experience of language in its cultural contexts expands, from the language of the home to that of society at large and then to the languages of other peoples (whether learnt at school or college, or by direct experience), he or she does not keep these languages and cultures in strictly separated mental compartments, but rather builds up a communicative competence to which all knowledge and experience of language contributes and in which languages interrelate and interact. (CEFR 2001 Section 1.3)
 
@@ -3577,7 +3765,9 @@ Plurilingual and pluricultural competence
 ├── Building on pluricultural repertoire
 ├── Plurilingual comprehension
 └── Building on plurilingual repertoire
-```** Plurilingual and pluricultural  competence Building Building  Plurilingual on pluricultural  on plurilingual comprehension repertoire repertoire **The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation to language education, considering that:
+```
+
+The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation to language education, considering that:
 
 the aim of language education is profoundly modified. It is no longer seen as simply to achieve “mastery” of one or two, or even three languages, each taken in isolation, with the “ideal native speaker” as the ultimate model. Instead, the aim is to develop a linguistic repertory, in which all linguistic abilities have a place. (CEFR 2001 Section 1.3)
 
@@ -3590,7 +3780,9 @@ In the development of descriptors, the following points mentioned specifically i
 - barriers between languages can be overcome in communication, and different languages can be used purposefully for conveying messages in the same situation.
 <!-- el:end id=figure_15_plurilingual_pluricultural_competence -->
 
-Page**123**<!-- page:123 -->
+Page **123**
+
+<!-- page:123 -->
 
 <!-- el:start type=prose id=prose_p124_s0 page=124 -->
 Other concepts were also taken into consideration after analysing recent literature:
@@ -3604,7 +3796,11 @@ Other concepts were also taken into consideration after analysing recent literat
 
 The reason for associating descriptors in this area with CEFR levels is to provide support to curriculum developers and teachers in their efforts (a) to broaden the perspective of language education in their context and (b) to acknowledge and value the linguistic and cultural diversity of their learners. The provision of descriptors in levels is intended to facilitate the selection of relevant plurilingual/pluricultural aims, which are also realistic in relation to the language level of the user/learners concerned.
 
-This area is the subject of the framework of reference for pluralistic approaches to languages and cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx) (FREPA/CARAP), which lists different aspects of plurilingual and intercultural competences in a hypertextual structure independent of language level, organised according to three broad areas: knowledge (**savoir**), attitudes (**savoir-être**) and skills (**savoir-faire**). Users may wish to consult FREPA/CARAP for further reflection and for access to related training materials in this area.**Building on pluricultural repertoire**
+The scale “Facilitating pluricultural space” is included in the section “Mediating communication”, rather than here, because it focuses on a more proactive role as an intercultural mediator. The three scales in this section describe aspects of the broader conceptual area concerning plurilingual and intercultural education.
+
+This area is the subject of the framework of reference for pluralistic approaches to languages and cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx) (FREPA/CARAP), which lists different aspects of plurilingual and intercultural competences in a hypertextual structure independent of language level, organised according to three broad areas: knowledge ( **savoir**), attitudes ( **savoir-être**) and skills ( **savoir-faire**). Users may wish to consult FREPA/CARAP for further reflection and for access to related training materials in this area.
+
+**Building on pluricultural repertoire**
 
 Many notions that appear in the literature and descriptors for intercultural competence are included, for example:
 
@@ -3636,14 +3832,15 @@ Progression up the scale is characterised as follows: at the A levels the user/l
 | --- | --- |
 | C2 | Can initiate and control their actions and forms of expression according to context, showing awareness of cultural differences and making subtle adjustments in order to prevent and/or repair misunderstandings and cultural incidents. |
 | C1 | Can identify differences in sociolinguistic/-pragmatic conventions, critically reflect on them and adjust their communication accordingly.<br>Can sensitively explain the background to and interpret and discuss aspects of cultural values and practices drawing on intercultural encounters, reading, film, etc.<br>Can deal with ambiguity in cross-cultural communication and express their reactions constructively and culturally appropriately in order to bring clarity. |
-| B2 |** Can describe and evaluate the viewpoints and practices of their own and other social groups, showing awareness of the implicit values on which judgments and prejudices are frequently based.<br> **Can explain their interpretation of the cultural assumptions, preconceptions, stereotypes and prejudices of their own community and of other communities that they are familiar with.<br>** Can interpret and explain a document or event from another culture and relate it to documents or events from their own culture(s) and/or from cultures with which they are familiar.<br> **Can discuss the objectivity and balance of information and opinions expressed in the media about their own and other communities.<br>Can identify and reflect on similarities and differences in culturally determined behavioural patterns (e.g. gestures and speech volume or, for sign languages, sign size) and discuss their significance in order to negotiate mutual understanding.<br>Can, in an intercultural encounter, recognise that what one normally takes for granted in a particular situation is not necessarily shared by others, and can react and express themselves appropriately.<br>Can generally interpret cultural cues appropriately in the culture concerned.<br>Can reflect on and explain particular ways of communicating in their own and other cultures, and the risks of misunderstanding they generate. |
+| B2 | **Can describe and evaluate the viewpoints and practices of their own and other social groups, showing awareness of the implicit values on which judgments and prejudices are frequently based.<br>** Can explain their interpretation of the cultural assumptions, preconceptions, stereotypes and prejudices of their own community and of other communities that they are familiar with.<br> **Can interpret and explain a document or event from another culture and relate it to documents or events from their own culture(s) and/or from cultures with which they are familiar.<br>** Can discuss the objectivity and balance of information and opinions expressed in the media about their own and other communities.<br>Can identify and reflect on similarities and differences in culturally determined behavioural patterns (e.g. gestures and speech volume or, for sign languages, sign size) and discuss their significance in order to negotiate mutual understanding.<br>Can, in an intercultural encounter, recognise that what one normally takes for granted in a particular situation is not necessarily shared by others, and can react and express themselves appropriately.<br>Can generally interpret cultural cues appropriately in the culture concerned.<br>Can reflect on and explain particular ways of communicating in their own and other cultures, and the risks of misunderstanding they generate. |
 | B1 | Can generally act according to conventions regarding posture, eye contact and distance from others.<br>Can generally respond appropriately to the most commonly used cultural cues.<br>Can explain features of their own culture to members of another culture or explain features of the other culture to members of their own culture.<br>Can explain in simple terms how their own values and behaviours influence their views of other people’s values and behaviours.<br>Can discuss in simple terms the way in which things that may look “strange” to them in another sociocultural context may well be “normal” for the other people concerned.<br>Can discuss in simple terms the way their own culturally determined actions may be perceived differently by people from other cultures. |
 | A2 | Can recognise and apply basic cultural conventions associated with everyday social exchanges (e.g. different greetings, rituals).<br>Can act appropriately in everyday greetings, farewells and expressions of thanks and apology, although they have difficulty coping with any departure from the routine.<br>Can recognise that their behaviour in an everyday transaction may convey a message different from the one they intend, and can try to explain this simply.<br>Can recognise when difficulties occur in interaction with members of other cultures, even though they may not be sure how to behave in the situation. |
 | A1 | Can recognise differing ways of numbering, measuring distance, telling the time, etc. even though they may have difficulty applying this in even simple everyday transactions of a concrete type. |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_building_on_pluricultural_repertoire -->
 
 <!-- el:start type=prose id=prose_p125_s1 page=125 -->
-Descriptors marked with asterisks (**) represent a high level for B2. They may also be suitable for the C levels.
+Descriptors marked with asterisks ( **) represent a high level for B2. They may also be suitable for the C levels.
 <!-- el:end id=prose_p125_s1 -->
 
 *The CEFR Illustrative Descriptor Scales: plurilingual and pluricultural competence ▶ Page **125***
@@ -3671,11 +3868,13 @@ to the use of co-text and contextual or genre-related clues. A more analytical a
 
 exploiting similarities, recognising “false friends” and exploiting parallel sources in different languages. There
 
-are no descriptors for the C levels, perhaps because the sources used focused on the A and B levels. **Note:** What is calibrated in this scale is the practical functional ability to exploit plurilingualism for comprehension. In any particular context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
+are no descriptors for the C levels, perhaps because the sources used focused on the A and B levels.
+
+**Note:** What is calibrated in this scale is the practical functional ability to exploit plurilingualism for comprehension. In any particular context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
 
 For example, the B1 descriptor:
 
-Can deduce the message of a text by exploiting what they have understood from texts on the same theme in **different languages** (e.g. news in brief, museum brochures, online reviews)
+Can deduce the message of a text by exploiting what they have understood from texts on the same theme in**different languages**(e.g. news in brief, museum brochures, online reviews)
 
 might be presented as:
 
@@ -3694,13 +3893,17 @@ Can deduce the message of a text in German by exploiting what they have understo
 | B1 | Can use what they have understood in one language to understand the topic and main message of a text in another language (e.g. when reading short newspaper articles in different languages on the same theme).<br>Can use parallel translations of texts (e.g. magazine articles, stories, passages from novels) to develop comprehension in different languages.<br>Can deduce the message of a text by exploiting what they have understood from texts on the same theme in different languages (e.g. news in brief, museum brochures, online reviews).<br>Can extract information from documents in different languages in their field (e.g. to include in a presentation).<br>Can recognise similarities and contrasts between the way concepts are expressed in different languages, in order to distinguish between identical uses of the same word/sign and “false friends”.<br>Can use their knowledge of contrasting grammatical structures and functional expressions of languages in their plurilingual repertoire in order to support comprehension. |
 | A2 | Can understand short, clearly articulated announcements by piecing together what they understand from the available versions in different languages.<br>Can understand short, clearly expressed messages and instructions by piecing together what they understand from the versions in different languages.<br>Can use simple warnings, instructions and product information given in parallel in different languages to find relevant information. |
 | A1 | Can recognise internationalisms and words/signs common to different languages (e.g. haus/hus/house) to:<br>- deduce the meaning of simple signs and notices;<br>- identify the probable message of a short, simple text;<br>- follow in outline short, simple social exchanges conducted very slowly and clearly in their presence;<br>- deduce what people are trying to say directly to them, provided the articulation is very slow and clear, with repetition if necessary. |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_plurilingual_comprehension -->
 
 *Page **126** ▶ **CEFR – Companion volume***
 
 <!-- page:126 -->
 
-<!-- el:start type=prose id=prose_p127_s1 page=127 --> **Building on plurilingual repertoire** In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p127_s1 page=127 -->
+**Building on plurilingual repertoire**
+
+In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
 
 - flexible adaptation to the situation;
 - anticipation as to when and to what extent the use of several languages is useful and appropriate;
@@ -3709,7 +3912,9 @@ Can deduce the message of a text in German by exploiting what they have understo
 - explaining and clarifying in different languages;
 - encouraging people to use different languages by giving an example.
 
-Progression up the scale is characterised as follows: at the A levels, the focus is on exploiting all possible resources in order to handle a simple everyday transaction. From the B levels, language begins to be manipulated creatively, with the user/learner alternating flexibly between languages at B2 in order to make others feel more comfortable, provide clarifications, communicate specialised information and in general increase the efficiency of communication. At the C levels this focus continues, with the addition of an ability to gloss and explain sophisticated abstract concepts in different languages. Overall there is also a progression from embedding single words/signs from other languages to explaining particularly apt expressions, and exploiting metaphors for effect. **Note:** What is calibrated in this scale is the practical functional ability to exploit plurilingualism. In any particular
+Progression up the scale is characterised as follows: at the A levels, the focus is on exploiting all possible resources in order to handle a simple everyday transaction. From the B levels, language begins to be manipulated creatively, with the user/learner alternating flexibly between languages at B2 in order to make others feel more comfortable, provide clarifications, communicate specialised information and in general increase the efficiency of communication. At the C levels this focus continues, with the addition of an ability to gloss and explain sophisticated abstract concepts in different languages. Overall there is also a progression from embedding single words/signs from other languages to explaining particularly apt expressions, and exploiting metaphors for effect.
+
+**Note:** What is calibrated in this scale is the practical functional ability to exploit plurilingualism. In any particular
 
 context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
 
@@ -3736,7 +3941,7 @@ Can make use of English, Spanish and French during collaborative interaction, in
 | --- | --- |
 | C2 | Can interact in a multilingual context on abstract and specialised topics by alternating flexibly between languages in their plurilingual repertoire and if necessary explaining the different contributions made.<br>Can explore similarities and differences between metaphors and other figures of speech in the languages in their plurilingual repertoire, either for rhetorical effect or for fun. |
 | C1 | Can alternate between languages flexibly to facilitate communication in a multilingual context, summarising and glossing in different languages in their plurilingual repertoire contributions to the discussion and texts referred to.<br>Can participate effectively in a conversation in two or more languages in their plurilingual repertoire, adjusting to the changes of language and catering to the needs and linguistic skills of the interlocutors.<br>Can use and explain specialised terminology from another language in their plurilingual repertoire more familiar to the interlocutor(s), in order to improve understanding in a discussion of abstract and specialised topics.<br>Can respond spontaneously and flexibly in the appropriate language when someone else changes to another language in their plurilingual repertoire.<br>Can support comprehension and discussion of a text spoken, signed or written in one language by explaining, summarising, clarifying and expanding it in another language in their plurilingual repertoire. |
-| B2 | **Can recognise the extent to which it is appropriate to make flexible use of different languages in their plurilingual repertoire in a specific situation, in order to increase the efficiency of communication.<br>** Can alternate efficiently between languages in their plurilingual repertoire in order to facilitate comprehension with and between third parties who lack a common language.<br> **Can introduce into an utterance an expression from another language in their plurilingual repertoire that is particularly apt for the situation/concept being discussed, explaining it for the interlocutor when necessary.<br>Can alternate between languages in their plurilingual repertoire in order to communicate specialised information and issues on a subject in their field of interest to different interlocutors.<br>Can make use of different languages in their plurilingual repertoire during collaborative interaction, in order to clarify the nature of a task, the main steps, the decisions to be taken and the outcomes expected.<br>Can make use of different languages in their plurilingual repertoire to encourage other people to use the language in which they feel more comfortable. |
+| B2 | ** Can recognise the extent to which it is appropriate to make flexible use of different languages in their plurilingual repertoire in a specific situation, in order to increase the efficiency of communication.<br> ** Can alternate efficiently between languages in their plurilingual repertoire in order to facilitate comprehension with and between third parties who lack a common language.<br> ** Can introduce into an utterance an expression from another language in their plurilingual repertoire that is particularly apt for the situation/concept being discussed, explaining it for the interlocutor when necessary.<br>Can alternate between languages in their plurilingual repertoire in order to communicate specialised information and issues on a subject in their field of interest to different interlocutors.<br>Can make use of different languages in their plurilingual repertoire during collaborative interaction, in order to clarify the nature of a task, the main steps, the decisions to be taken and the outcomes expected.<br>Can make use of different languages in their plurilingual repertoire to encourage other people to use the language in which they feel more comfortable. |
 | B1 | Can exploit creatively their limited repertoire in different languages in their plurilingual repertoire for everyday contexts, in order to cope with an unexpected situation. |
 | A2 | Can mobilise their limited repertoire in different languages in order to explain a problem or to ask for help or clarification.<br>Can use simple words/signs and phrases from different languages in their plurilingual repertoire to conduct a simple, practical transaction or information exchange.<br>Can use a simple word/sign from another language in their plurilingual repertoire to make themselves understood in a routine everyday situation, when they cannot think of an adequate expression in the language being used. |
 | A1 | Can use a very limited repertoire in different languages to conduct a very basic, concrete, everyday transaction with a collaborative interlocutor. |
@@ -3744,7 +3949,7 @@ Can make use of English, Spanish and French during collaborative interaction, in
 <!-- el:end id=scale_building_on_plurilingual_repertoire -->
 
 <!-- el:start type=prose id=prose_p128_s1 page=128 -->
-Descriptors marked with asterisks (**) represent a high level for B2. They may also be suitable for the C levels.
+Descriptors marked with asterisks ( **) represent a high level for B2. They may also be suitable for the C levels.
 <!-- el:end id=prose_p128_s1 -->
 
 *Page **128** ▶ **CEFR – Companion volume***
@@ -3752,27 +3957,12 @@ Descriptors marked with asterisks (**) represent a high level for B2. They may a
 <!-- page:128 -->
 
 <!-- el:start type=figure_page id=figure_16_communicative_language_competences page=129 -->
-Chapter 5 **THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES:** As stated in the first chapter when discussing the CEFR descriptive scheme, the view of competence in the CEFR does not come solely from applied linguistics but also from applied psychology and sociopolitical approaches. However, the different competence models developed in applied linguistics from the early 1980s on did influence the CEFR. Although they organised them in different ways, in general these models shared four main aspects: strategic competence; linguistic competence; pragmatic competence (comprising both discourse and functional/actional competence) and sociocultural competence (including sociolinguistic competence). Since strategic competence is dealt with in relation to activities, the CEFR presents descriptor scales for aspects of communicative language competence in CEFR 2001 Section 5.2 under three headings: “Linguistic competence”, “Pragmatic competence” and “Sociolinguistic competence”. These aspects, or parameters of description, are always intertwined in any language use; they are not separate “components” and cannot be isolated from each other. **Sociolinguistic  Linguistic competence competence** Sociolinguistic General linguistic range appropriateness
 
-Vocabulary range
+## Chapter 5
+**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES:**
 
-Grammatical accuracy
+As stated in the first chapter when discussing the CEFR descriptive scheme, the view of competence in the CEFR does not come solely from applied linguistics but also from applied psychology and sociopolitical approaches. However, the different competence models developed in applied linguistics from the early 1980s on did influence the CEFR. Although they organised them in different ways, in general these models shared four main aspects: strategic competence; linguistic competence; pragmatic competence (comprising both discourse and functional/actional competence) and sociocultural competence (including sociolinguistic competence). Since strategic competence is dealt with in relation to activities, the CEFR presents descriptor scales for aspects of communicative language competence in CEFR 2001 Section 5.2 under three headings: “Linguistic competence”, “Pragmatic competence” and “Sociolinguistic competence”. These aspects, or parameters of description, are always intertwined in any language use; they are not separate “components” and cannot be isolated from each other.
 
-Vocabulary control
-
-Phonological control
-
-Orthographic control **Pragmatic competence** Flexibility
-
-Turntaking
-
-Thematic development
-
-Coherence and cohesion
-
-Propositional precision
-
-Fluency
 
 <!-- db:id=figure_16_communicative_language_competences type=figure render_as=text_diagram product_tier=context pages=129 -->
 ### Figure 16 – Communicative language competences | figure_16_communicative_language_competences
@@ -3807,7 +3997,9 @@ Page **129**
 
 Descriptors are available for different aspects of linguistic competence: “Range” (subdivided: “Morpho-syntactic range”, later renamed “General linguistic range”, and “Vocabulary range”); “Control” (subdivided: “Grammatical accuracy” and “Vocabulary control”), “Phonological control” and “Orthographic control”. The range/control distinction is a common one that reflects the need to take account of the complexity of the language used rather than just registering mistakes. “Phonological control” is presented as a grid with the categories “Overall phonological control”, “Sound articulation” and “Prosodic features” (stress and intonation).
 
-The features of language used successfully at different levels are sometimes called “criterial features” but these are particular to different languages. Research in corpus linguistics is beginning to shed light on the nature of these features, and learners’ accuracy in using them, but results cannot easily be generalised across languages or across the linguistic backgrounds of the learners concerned. **General linguistic range**
+The features of language used successfully at different levels are sometimes called “criterial features” but these are particular to different languages. Research in corpus linguistics is beginning to shed light on the nature of these features, and learners’ accuracy in using them, but results cannot easily be generalised across languages or across the linguistic backgrounds of the learners concerned.
+
+**General linguistic range**
 
 Since the primary evidence for second language acquisition (that is, progress) is the emergence of new forms and not their mastery, the “range” of language at the user/learner’s disposal is a primary concern. Secondly, attempting to use more complex language, taking risks and moving beyond one’s comfort zone are essential parts of the learning process. When learners are tackling more complex tasks, their control of their language naturally suffers, and this is a healthy process. Learners will tend to have less control over more difficult, more recently learnt morphology and syntax than when they stay within their linguistic comfort zone, and this needs to be taken into consideration when viewing (lack of) accuracy.
 
@@ -3839,12 +4031,37 @@ Key concepts operationalised in the scale include the following:
 *Page **130** ▶ **CEFR – Companion volume***
 
 <!-- page:130 -->
+<!-- el:start type=prose id=prose_p131_vocabulary_range page=131 -->
+### Vocabulary range
+
+This scale concerns the breadth and variety of expressions used. It is generally acquired through reading widely. Key concepts operationalised in the scale include the following:
+
+- range of settings – from A1 to B2, then unrestricted;
+- type of language: from a basic repertoire of words/signs and phrases to a very broad lexical repertoire including idiomatic expressions and colloquialisms.
+
+Note: Vocabulary range is taken to apply to both reception and production. For sign languages, established and productive vocabulary is implied from A2+ to C2, with established vocabulary at A1 and A2.
+<!-- el:end id=prose_p131_vocabulary_range -->
+
+<!-- el:start type=artifact id=scale_vocabulary_range page=131 -->
+<!-- db:id=scale_vocabulary_range type=descriptor_scale product_tier=assessment_action,detailed pages=131-132 -->
+### Vocabulary range | scale_vocabulary_range
+
+| | Vocabulary range |
+| --- | --- |
+| C2 | Has a good command of a very broad lexical repertoire including idiomatic expressions and colloquialisms; shows awareness of connotative levels of meaning. |
+| C1 | Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions; little obvious searching for expressions or avoidance strategies.<br>Can select from several vocabulary options in almost all situations by exploiting synonyms of even words/signs less commonly encountered.<br>Has a good command of common idiomatic expressions and colloquialisms; can play with words/signs fairly well.<br>Can understand and use appropriately the range of technical vocabulary and idiomatic expressions common to their area of specialisation. |
+| B2 | Can understand and use the main technical terminology of their field, when discussing their area of specialisation with other specialists.<br>Has a good range of vocabulary for matters connected to their field and most general topics.<br>Can vary formulation to avoid frequent repetition, but lexical gaps can still cause hesitation and circumlocution. |
+| B1 | Has a good range of vocabulary related to familiar topics and everyday situations.<br>Has sufficient vocabulary to express themselves with some circumlocutions on most topics pertinent to their everyday life such as family, hobbies and interests, work, travel, and current events. |
+| A2 | Has sufficient vocabulary to conduct routine, everyday transactions involving familiar situations and topics.<br>Has a sufficient vocabulary for the expression of basic communicative needs.<br>Has a sufficient vocabulary for coping with simple survival needs. |
+| A1 | Has a basic vocabulary repertoire of words/signs and phrases related to particular concrete situations. |
+| Pre-A1 | No descriptors available |
+<!-- el:end id=scale_vocabulary_range -->
 
 *The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **131***
 
 <!-- page:131 -->
-
-<!-- el:start type=prose id=prose_p132_s0 page=132 --> **Grammatical accuracy**
+<!-- el:start type=prose id=prose_p132_s0 page=132 -->
+**Grammatical accuracy**
 
 This scale concerns both the user/learner’s ability to recall “prefabricated” expressions correctly and the capacity to focus on grammatical forms while articulating thought. This is difficult because, when formulating thoughts or performing more demanding tasks, the user/learner has to devote the majority of their mental processing capacity to fulfilling the task. This is why accuracy tends to drop during complex tasks. In addition, research in English, French and German suggests that inaccuracy increases at around B1 as the learner is beginning to use language more independently and creatively. The fact that accuracy does not increase in a linear manner is reflected in the descriptors. Key concepts operationalised in the scale include the following:
 
@@ -3853,31 +4070,20 @@ This scale concerns both the user/learner’s ability to recall “prefabricated
 - degree of control (B2 to C2).
 <!-- el:end id=prose_p132_s0 -->
 
-<!-- el:start type=artifact id=scale_vocabulary_control page=132 -->
-<!-- db:id=scale_vocabulary_control type=descriptor_scale product_tier=assessment_action,detailed pages=132-133 -->
-### Vocabulary control | scale_vocabulary_control
+<!-- el:start type=artifact id=scale_grammatical_accuracy page=132 -->
+<!-- db:id=scale_grammatical_accuracy type=descriptor_scale product_tier=assessment_action,detailed pages=132 -->
+### Grammatical accuracy | scale_grammatical_accuracy
 
-| | Grammatical accuracy |
+| Level | Grammatical accuracy |
 | --- | --- |
-| C2 | Maintains consistent grammatical control of complex language, even while attention is otherwise engaged<br>(e.g. in forward planning, in monitoring others’ reactions). |
+| C2 | Maintains consistent grammatical control of complex language, even while attention is otherwise engaged (e.g. in forward planning, in monitoring others’ reactions). |
 | C1 | Consistently maintains a high degree of grammatical accuracy; errors are rare and difficult to spot. |
-| B2 | Good grammatical control; occasional “slips” or non-systematic errors and minor flaws in sentence structure may still occur, but they are rare and can often be corrected in retrospect. |
-| | Shows a relatively high degree of grammatical control. Does not make mistakes which lead to misunderstanding.<br>Has a good command of simple language structures and some complex grammatical forms, although they tend to use complex structures rigidly with some inaccuracy. |
-| B1 | Communicates with reasonable accuracy in familiar contexts; generally good control, though with noticeable mother-tongue influence. Errors occur, but it is clear what they are trying to express. |
-| | Uses reasonably accurately a repertoire of frequently used “routines” and patterns associated with more predictable situations. |
+| B2 | Good grammatical control; occasional “slips” or non-systematic errors and minor flaws in sentence structure may still occur, but they are rare and can often be corrected in retrospect.<br>Shows a relatively high degree of grammatical control. Does not make mistakes which lead to misunderstanding.<br>Has a good command of simple language structures and some complex grammatical forms, although they tend to use complex structures rigidly with some inaccuracy. |
+| B1 | Communicates with reasonable accuracy in familiar contexts; generally good control, though with noticeable mother-tongue influence. Errors occur, but it is clear what they are trying to express.<br>Uses reasonably accurately a repertoire of frequently used “routines” and patterns associated with more predictable situations. |
 | A2 | Uses some simple structures correctly, but still systematically makes basic mistakes; nevertheless, it is usually clear what they are trying to say. |
 | A1 | Shows only limited control of a few simple grammatical structures and sentence patterns in a learnt repertoire. |
 | Pre-A1 | Can employ very simple principles of word/sign order in short statements. |
-| | Vocabulary control |
-| C2 | Consistently correct and appropriate use of vocabulary. |
-| C1 | Uses less common vocabulary idiomatically and appropriately.<br>Occasional minor slips, but no significant vocabulary errors. |
-| B2 | Lexical accuracy is generally high, though some confusion and incorrect word/sign choice does occur without hindering communication. |
-| | Vocabulary control |
-| B1 | Shows good control of elementary vocabulary but major errors still occur when expressing more complex thoughts or handling unfamiliar topics and situations.<br>Uses a wide range of simple vocabulary appropriately when discussing familiar topics. |
-| A2 | Can control a narrow repertoire dealing with concrete, everyday needs. |
-| A1 | No descriptors available |
-| Pre-A1 | No descriptors available |
-<!-- el:end id=scale_vocabulary_control -->
+<!-- el:end id=scale_grammatical_accuracy -->
 
 <!-- el:start type=prose id=prose_p132_s2 page=132 -->
 ### Vocabulary control
@@ -3888,11 +4094,27 @@ This scale concerns the user/learner’s ability to choose an appropriate expres
 - degree of control (B2 to C2).
 <!-- el:end id=prose_p132_s2 -->
 
+<!-- el:start type=artifact id=scale_vocabulary_control page=132 -->
+<!-- db:id=scale_vocabulary_control type=descriptor_scale product_tier=assessment_action,detailed pages=132-133 -->
+### Vocabulary control | scale_vocabulary_control
+
+| Level | Vocabulary control |
+| --- | --- |
+| C2 | Consistently correct and appropriate use of vocabulary. |
+| C1 | Uses less common vocabulary idiomatically and appropriately.<br>Occasional minor slips, but no significant vocabulary errors. |
+| B2 | Lexical accuracy is generally high, though some confusion and incorrect word/sign choice does occur without hindering communication. |
+| B1 | Shows good control of elementary vocabulary but major errors still occur when expressing more complex thoughts or handling unfamiliar topics and situations.<br>Uses a wide range of simple vocabulary appropriately when discussing familiar topics. |
+| A2 | Can control a narrow repertoire dealing with concrete, everyday needs. |
+| A1 | No descriptors available |
+| Pre-A1 | No descriptors available |
+<!-- el:end id=scale_vocabulary_control -->
+
 *Page **132** ▶ **CEFR – Companion volume***
 
 <!-- page:132 -->
 
-<!-- el:start type=prose id=prose_p133_s1 page=133 --> **Phonological control**
+<!-- el:start type=prose id=prose_p133_s1 page=133 -->
+**Phonological control**
 
 The 2001 scale has been replaced in this publication. The description of phonology in CEFR 2001 Section 5.2.1.4 is clear, thorough and sufficiently broad to encompass more recent reflections on aspects of phonology in second/foreign language education. However, the 2001 scale did not capture this conceptual apparatus and the progression appeared unrealistic, particularly in moving from B1 (“Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur”) to B2 (“Has a clear, natural, pronunciation and intonation”). In fact, the phonology scale was the least successful of those calibrated in the original research behind the descriptors published in 2001.
 
@@ -3903,7 +4125,7 @@ In language teaching, the phonological control of an idealised native speaker ha
 - accentedness, accent and deviation from a “norm”;
 - intelligibility, accessibility of meaning for interlocutors, covering also the interlocutors’ perceived difficulty in understanding (normally referred to as “comprehensibility”).
 
-However,because of a certain overlapping between sub-categories the scale operationalises the above-mentioned concepts into three categories:
+However, because of a certain overlapping between sub-categories the scale operationalises the above-mentioned concepts into three categories:
 
 - overall phonological control (replacing the existing scale);
 - sound articulation;
@@ -3925,7 +4147,7 @@ The focus is on the ability to effectively use prosodic features to convey meani
 <!-- el:end id=prose_p133_s1 -->
 
 <!-- el:start type=footnote_zone id=footnote_zone_p133_s2 page=133 -->
-45.	 Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https://rm.coe.int/168073fff9.
+45.  Piccardo E. (2016), “Phonological Scale Revision Process Report”, Education Policy Division, Council of Europe, available at https://rm.coe.int/168073fff9.
 <!-- el:end id=footnote_zone_p133_s2 -->
 
 *The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **133***
@@ -3949,6 +4171,15 @@ The focus is on the ability to effectively use prosodic features to convey meani
 *Page **134** ▶ **CEFR – Companion volume***
 
 <!-- page:134 -->
+<!-- el:start type=prose id=prose_p135_restored page=135 -->
+<!-- table-continuity: full multipage table lives on page 134 (phonological control); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 135 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_135_scale_phonological_control.md -->
+
+<!-- el:end id=prose_p135_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **135***
 
@@ -3982,7 +4213,9 @@ This scale concerns the ability to copy, spell and use layout and punctuation. K
 <!-- el:start type=prose id=prose_p136_s2 page=136 -->
 ### 5.2. SOCIOLINGUISTIC COMPETENCE
 
-Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. Since language is a sociocultural phenomenon, much of what is contained in the CEFR, particularly in respect of the sociocultural, is also of relevance to sociolinguistic competence. The matters treated here are those specifically relating to language use that are not dealt with elsewhere: linguistic markers of social relations; politeness conventions; register differences; and dialect and accent. **Sociolinguistic appropriateness**
+Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. Since language is a sociocultural phenomenon, much of what is contained in the CEFR, particularly in respect of the sociocultural, is also of relevance to sociolinguistic competence. The matters treated here are those specifically relating to language use that are not dealt with elsewhere: linguistic markers of social relations; politeness conventions; register differences; and dialect and accent.
+
+**Sociolinguistic appropriateness**
 
 One scale is offered for “Sociolinguistic appropriateness”. Key concepts operationalised in the scale include the following:
 
@@ -4017,7 +4250,7 @@ One scale is offered for “Sociolinguistic appropriateness”. Key concepts ope
 <!-- el:start type=prose id=prose_p137_s1 page=137 -->
 ### 5.3. PRAGMATIC COMPETENCE
 
-A simple way of understanding the linguistic/pragmatic distinction is to say that linguistic competence is concerned with language usage (as in “correct usage”) and hence with language resources and knowledge of the language as a system, whereas pragmatic competence is concerned with actual language use in the (co-) construction of text. Pragmatic competence is thus primarily concerned with the user/learner’s knowledge of the principles of language use according to which messages are:
+A simple way of understanding the linguistic/pragmatic distinction is to say that linguistic competence is concerned with language usage (as in “correct usage”) and hence with language resources and knowledge of the language as a system, whereas pragmatic competence is concerned with actual language use in the (co-) construction of text. Pragmatic competence is thus primarily concerned with the user/learner’s knowledge of the principles of language use according to which messages are:
 
 - organised, structured and arranged (“discourse competence”);
 - used to perform communicative functions (“functional competence”);
@@ -4062,10 +4295,15 @@ Flexibility is concerned with the ability to adapt language learnt to new situat
 
 <!-- page:138 -->
 
-<!-- el:start type=prose id=prose_p139_s0 page=139 --> **Turntaking** Turntaking is concerned with the ability to take the discourse initiative. This ability can be viewed both as an interaction strategy (to take the floor) or as an integral aspect of discourse competence. For this reason this scale also appears in the section “Interaction strategies”. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p139_s0 page=139 -->
+**Turntaking**
+
+Turntaking is concerned with the ability to take the discourse initiative. This ability can be viewed both as an interaction strategy (to take the floor) or as an integral aspect of discourse competence. For this reason this scale also appears in the section “Interaction strategies”. Key concepts operationalised in the scale include the following:
 
 - initiating, maintaining and ending conversation;
-- intervening in an existing conversation or discussion, often using a prefabricated expression to do so, or to gain time to think. **Note:** This scale is repeated under “Interaction strategies”.
+- intervening in an existing conversation or discussion, often using a prefabricated expression to do so, or to gain time to think.
+
+**Note:** This scale is repeated under “Interaction strategies”.
 <!-- el:end id=prose_p139_s0 -->
 
 <!-- el:start type=artifact id=scale_turntaking page=139 -->
@@ -4085,7 +4323,8 @@ Flexibility is concerned with the ability to adapt language learnt to new situat
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_turntaking -->
 
-<!-- el:start type=prose id=prose_p139_s2 page=139 --> **Thematic development**
+<!-- el:start type=prose id=prose_p139_s2 page=139 -->
+**Thematic development**
 
 This scale is concerned with the way in which ideas are logically presented in a text and related to each other in a clear rhetorical structure. It also involves following relevant discourse conventions. Key concepts operationalised in the scale include the following:
 
@@ -4116,7 +4355,8 @@ This scale is concerned with the way in which ideas are logically presented in a
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_thematic_development -->
 
-<!-- el:start type=prose id=prose_p140_s1 page=140 --> **Coherence and cohesion**
+<!-- el:start type=prose id=prose_p140_s1 page=140 -->
+**Coherence and cohesion**
 
 Coherence and cohesion refer to the way in which the separate elements of a text are interwoven into a coherent whole by exploiting linguistic devices such as referencing, substitution, ellipsis and other forms of textual cohesion, plus logical and temporal connectors and other forms of discourse markers. Both cohesion and coherence operate at the level of the sentence/utterance and at the level of the complete text. Key concepts operationalised in the scale include the following:
 
@@ -4128,9 +4368,8 @@ Coherence and cohesion refer to the way in which the separate elements of a text
 *Page **140** ▶ **CEFR – Companion volume***
 
 <!-- page:140 -->
-
 <!-- el:start type=artifact id=scale_coherence_and_cohesion page=141 -->
-<!-- db:id=scale_coherence_and_cohesion type=descriptor_scale product_tier=assessment_action,detailed pages=141 -->
+<!-- db:id=scale_coherence_and_cohesion type=descriptor_scale product_tier=assessment_action,detailed pages=141-142 -->
 ### Coherence and cohesion | scale_coherence_and_cohesion
 
 | | Coherence and cohesion |
@@ -4147,7 +4386,8 @@ Coherence and cohesion refer to the way in which the separate elements of a text
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_coherence_and_cohesion -->
 
-<!-- el:start type=prose id=prose_p141_s1 page=141 --> **Propositional precision**
+<!-- el:start type=prose id=prose_p141_s1 page=141 -->
+**Propositional precision**
 
 This scale concerns the ability to pinpoint how to formulate what one wishes to express. It concerns the extent to which the user/learner can communicate detail and shades of meaning, and can avoid compromising their ideally intended message. Key concepts operationalised in the scale include the following:
 
@@ -4157,7 +4397,7 @@ This scale concerns the ability to pinpoint how to formulate what one wishes to 
 <!-- el:end id=prose_p141_s1 -->
 
 <!-- el:start type=artifact id=scale_coherence_and_cohesion page=141 -->
-<!-- db:id=scale_propositional_precision type=descriptor_scale product_tier=assessment_action,detailed pages=142 -->
+<!-- db:id=scale_propositional_precision type=descriptor_scale product_tier=assessment_action,detailed pages=141-142 -->
 ### Propositional precision | scale_propositional_precision
 
 | | Propositional precision |
@@ -4165,26 +4405,25 @@ This scale concerns the ability to pinpoint how to formulate what one wishes to 
 | C2 | Can convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of qualifying devices (e.g. adverbs expressing degree, clauses expressing limitations).<br>Can give emphasis, differentiate and eliminate ambiguity. |
 | C1 | Can qualify opinions and statements precisely in relation to degrees of, for example, certainty/uncertainty, belief/doubt, likelihood, etc.<br>Can make effective use of linguistic modality to signal the strength of a claim, an argument or a position. |
 | B2 | Can pass on detailed information reliably.<br>Can communicate the essential points even in more demanding situations, though their language lacks expressive power and idiomaticity. |
-<!-- el:end id=scale_coherence_and_cohesion -->
-
-*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **141***
-
-<!-- page:141 -->
-
-<!-- el:start type=artifact id=scale_propositional_precision page=142 -->
-<!-- db:id=scale_propositional_precision type=descriptor_scale product_tier=assessment_action,detailed pages=142 -->
-### Propositional precision | scale_propositional_precision
-
-| | Propositional precision |
-| --- | --- |
 | B1 | Can explain the main points in an idea or problem with reasonable precision. |
 | | Can convey simple, straightforward information of immediate relevance, getting across the point they feel is most important.<br>Can express the main point they want to make comprehensibly. |
 | A2 | Can communicate what they want to say in a simple and direct exchange of limited information on familiar and routine matters, but in other situations they generally have to compromise the message. |
 | A1 | Can communicate basic information about personal details and needs of a concrete type in a simple way. |
 | Pre-A1 | Can communicate very basic information about personal details in a simple way. |
+<!-- el:end id=scale_coherence_and_cohesion -->
+
+*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **141***
+
+<!-- page:141 -->
+<!-- el:start type=artifact id=scale_propositional_precision page=142 -->
+<!-- db:id=scale_propositional_precision type=descriptor_scale product_tier=assessment_action,detailed pages=142 -->
+
+<!-- table-continuity: full multipage table lives on page 141 (Propositional precision); mid-page slice removed to keep single db:id for grep -->
+
 <!-- el:end id=scale_propositional_precision -->
 
-<!-- el:start type=prose id=prose_p142_s1 page=142 --> **Fluency**
+<!-- el:start type=prose id=prose_p142_s1 page=142 -->
+**Fluency**
 
 Fluency, as discussed above, has a broader, holistic meaning (= articulate speaker/signer) and a narrower, technical and more psycholinguistic meaning (= accessing one’s repertoire). The broader interpretation would include “Propositional precision”, “Flexibility”, and at least to some extent “Thematic development” and “Coherence/ cohesion”. For this reason, the scale below focuses more on the narrower, more traditional view of fluency. Key concepts operationalised in the scale include the following:
 
@@ -4214,7 +4453,11 @@ Fluency, as discussed above, has a broader, holistic meaning (= articulate speak
 <!-- page:142 -->
 
 <!-- el:start type=prose id=prose_p143_s0 page=143 -->
-Chapter 6 **THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: SIGNING COMPETENCES** Many of the CEFR descriptors, especially those for communicative language activities, are as applicable to sign languages as they are to spoken languages, since sign languages are used to fulfil the same communicative functions. Hence these descriptors are modality-neutral, and modifications have been made to the formulation to emphasise this. However, there are obviously ways in which sign languages differ substantially from spoken languages. Fundamentally, they involve grammatical competences in the use of space, which we term “diagrammatical competence”. They also involve a broadened notion of the term “text”, namely for video-recorded signing that is not based on a written script. These competences go far beyond the paralinguistic features of communication through spoken language. The signing space is typically used to establish and later refer to relevant persons, places and objects in a form of spatial mapping. Sign languages then have syntax, semantics, morphology and phonology just like any other language. These differ of course from one sign language to another, as there are different sign languages in different countries, and sometimes more than one sign language in the same country. But there are certain common features such as the use of indexing, pronouns and classifier constructions. In addition, non-manual elements (facial expression, body orientation, head movement, etc.) and constructed action are used extensively in addition to hand and arm movements that are more traditionally considered to be the articulators of sign languages.
+
+## Chapter 6
+**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES: SIGNING COMPETENCES**
+
+Many of the CEFR descriptors, especially those for communicative language activities, are as applicable to sign languages as they are to spoken languages, since sign languages are used to fulfil the same communicative functions. Hence these descriptors are modality-neutral, and modifications have been made to the formulation to emphasise this. However, there are obviously ways in which sign languages differ substantially from spoken languages. Fundamentally, they involve grammatical competences in the use of space, which we term “diagrammatical competence”. They also involve a broadened notion of the term “text”, namely for video-recorded signing that is not based on a written script. These competences go far beyond the paralinguistic features of communication through spoken language. The signing space is typically used to establish and later refer to relevant persons, places and objects in a form of spatial mapping. Sign languages then have syntax, semantics, morphology and phonology just like any other language. These differ of course from one sign language to another, as there are different sign languages in different countries, and sometimes more than one sign language in the same country. But there are certain common features such as the use of indexing, pronouns and classifier constructions. In addition, non-manual elements (facial expression, body orientation, head movement, etc.) and constructed action are used extensively in addition to hand and arm movements that are more traditionally considered to be the articulators of sign languages.
 
 For communication, and reflecting contact with spoken language users, the repertoire of lexical and productive signs is supplemented by literally spelling out words or names using fingerspelling. Roughly, each letter of the spoken language script corresponds to a handshape. In due course, it may become lexicalised and phonologised. Fingerspelling, however, is a means of conveying something unfamiliar, for example a proper name, or a concept that does not have an established sign in the sign language used. Thus, fingerspelling is one of several contact phenomena that facilitate access to the written knowledge of spoken languages. Furthermore, fingerspelling is used to borrow new expressions from spoken languages, which may eventually also become lexicalised.
 
@@ -4226,7 +4469,6 @@ A few of the descriptors calibrated for signing competences are of a more global
 Page **143**
 
 <!-- page:143 -->
-
 <!-- el:start type=figure_page id=figure_17_signing_competences page=144 -->
 <!-- db:id=figure_17_signing_competences type=figure render_as=text_diagram product_tier=context pages=144 -->
 ### Figure 17 – Signing competences | figure_17_signing_competences
@@ -4245,25 +4487,19 @@ Signing competences
   ├── Presence and effect (productive)
   ├── Processing speed (receptive)
   └── Signing fluency (productive)
-``` **Signing competences** Sign language repertoire Sociolinguistic (receptive/productive) appropriateness and cultural repertoire (receptive/productive) Diagrammatical accuracy (receptive/productive **6.1. LINGUISTIC COMPETENCE** Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary. **Sign language repertoire**
+```
+
+**6.1. LINGUISTIC COMPETENCE**
+
+Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary.
+
+**Sign language repertoire**
 
 These two scales incorporate language resources that are accessed in both sign language comprehension and production, for example in the combination of non-manual features with classifier handshapes to indicate reference and possibly hand motion and orientation to express other aspects of the intended meaning.
 
-Sign languages draw extensively on productive sign formation. As for spoken languages, the sign language lexicon consists of two sets of entries: established lexical items and productive elements used in the formation of (new) signs or forms respectively. Established signs have a fixed citation form, which is typically cited in dictionaries of sign languages. Elements of the productive lexicon combine in productive relationships between a narrow set of handshapes that operate in signing space to generate new, dynamic descriptions of events. The threedimensional spatial nature of many expressions allows for variable, yet precise formulations. Learners progress in the use of these competences according to the multifaceted needs of expression by acquiring combinatory restrictions as well as principles for stylistic/aesthetic purposes.
+Sign languages draw extensively on productive sign formation. As for spoken languages, the sign language lexicon consists of two sets of entries: established lexical items and productive elements used in the formation of (new) signs or forms respectively. Established signs have a fixed citation form, which is typically cited in dictionaries of sign languages. Elements of the productive lexicon combine in productive relationships between a narrow set of handshapes that operate in signing space to generate new, dynamic descriptions of events. The three-dimensional spatial nature of many expressions allows for variable, yet precise formulations. Learners progress in the use of these competences according to the multifaceted needs of expression by acquiring combinatory restrictions as well as principles for stylistic/aesthetic purposes.
 
-Because of the high proportion of productive elements in sign languages, reception demands a high degree of processing of the simultaneously provided morpho-phonological and morpho-syntactic sub-structures, as well as bearing in mind the given contexts for spatial reference. In short, productive sign creation combines meaning-bearing elements that, in the respective combinations, cannot be found in the sign language lexicon, and comprehension demands a re-analysis of such signs. To meet particular communication needs – which encompass more than just a global understanding of what a message is about – learners have to reapply grammatical rules for productive signing, reapply combinatory restrictions, keep track of spatial assignments, and consider the applicability of principles for stylistic-aesthetic purposes. Such sign language comprehension
-
-Sign text structure (receptive/productive)
-
-Setting and perspectives (receptive/productive)
-
-Language awareness and interpretation (receptive)
-
-Presence and effect (productive)
-
-Processing speed (receptive)
-
-Signing fluency (productive)
+Because of the high proportion of productive elements in sign languages, reception demands a high degree of processing of the simultaneously provided morpho-phonological and morpho-syntactic sub-structures, as well as bearing in mind the given contexts for spatial reference. In short, productive sign creation combines meaning-bearing elements that, in the respective combinations, cannot be found in the sign language lexicon, and comprehension demands a re-analysis of such signs. To meet particular communication needs – which encompass more than just a global understanding of what a message is about – learners have to reapply grammatical rules for productive signing, reapply combinatory restrictions, keep track of spatial assignments, and consider the applicability of principles for stylistic-aesthetic purposes. Such sign language comprehension processes are reported by learners to be less facilitated by lexical resources than is the case in the comprehension processes of many spoken languages.
 <!-- el:end id=figure_17_signing_competences -->
 
 *Page **144** ▶ **CEFR – Companion volume***
@@ -4271,8 +4507,6 @@ Signing fluency (productive)
 <!-- page:144 -->
 
 <!-- el:start type=prose id=prose_p145_s0 page=145 -->
-processes are reported by learners to be less facilitated by lexical resources than is the case in the comprehension processes of many spoken languages.
-
 Key concepts operationalised in the two scales include:
 
 - knowledge of basic forms, parts of speech, and meanings of manual signs, including registers and variants;
@@ -4313,16 +4547,35 @@ Key concepts operationalised in the two scales include:
 *Page **146** ▶ **CEFR – Companion volume***
 
 <!-- page:146 -->
+<!-- el:start type=prose id=prose_p147_restored page=147 -->
+<!-- table-continuity: full multipage table lives on page 146 (sign language repertoire); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 147 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_147_scale_sign_language_repertoire.md -->
+
+<!-- el:end id=prose_p147_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **147***
 
 <!-- page:147 -->
+<!-- el:start type=prose id=prose_p148_restored page=148 -->
+<!-- table-continuity: full multipage table lives on page 146 (sign language repertoire); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 148 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_148_scale_sign_language_repertoire.md -->
+
+<!-- el:end id=prose_p148_restored -->
 
 *Page **148** ▶ **CEFR – Companion volume***
 
 <!-- page:148 -->
 
-<!-- el:start type=prose id=prose_p149_s0 page=149 --> **Diagrammatical accuracy**
+<!-- el:start type=prose id=prose_p149_s0 page=149 -->
+**Diagrammatical accuracy**
 
 Diagrammatical accuracy describes the correctness, accuracy, precision and complexity of syntactic expressions. Taken together, these aspects determine the comprehensibility of the intended meanings of the signed expressions. The competences here relate to manual and non-manual elements; they encompass knowledge and observation of syntactic rules and principles, use of signing space, the bodily expression necessary, head motions and so on. Receptive competences include correctly analysing parts of speech, spatial relations of structured expressions, particular contributions of clausal and phrasal functions, non-manual markings (e.g. to indicate scope, spatial reference, topicalised phrases).
 
@@ -4362,9 +4615,9 @@ Key concepts operationalised in the productive scale include:
 | C2 | No descriptors available; see B2+ | No descriptors available; see B2+ |
 | C1 | No descriptors available; see B2+ | No descriptors available; see B2+ |
 | B2 | Can distinguish the various temporal relationships between the actions and events (simultaneous events, previous event, subsequent event).<br>Can distinguish between whether an action involves several people (objects) or many actions involve one person (subject).<br>Can distinguish between direct and indirect speech in signed texts.<br>Can understand statements that contain predicates that take no agent, e.g., “the water is flowing now”.<br>Can recognise rhetorical questions even if linguistically expressed in a very economical way, e.g., by raising the eyebrows.<br>Can assign classifiers to the correct reference object (e.g., animals) through the context.<br>Can understand aspectual modulations (e.g., staggering, fast, creeping or rolling movements). | Can situate the different contents/actions in the text sensibly in the signing space in order to structure the text.<br>Can maintain full consistency in the reference using indexing, productive signs, in short texts. |
-| | Can distinguish on the basis of grammatical signals between statements about real and imaginary events.<br>Can keep apart the characters and their actions even in longer texts.<br>Can recognise sentences as units and indicate how many sentences a short text contains.<br>Can understand verbal aspect (e.g., completion, repetition, continuation, result of actions). | Can use the signing space in a conscious manner, e.g. using the right side for <for> and the left side for <against> reasons.<br>Can use a large or a small signing space, dependent on the situation.<br>Can link productive signing with indicators of time (timelines).<br>Can employ appropriate timelines in order to indicate the point in time or the duration of an event (for temporal relations: simultaneously, beforehand/afterwards, after another).<br>Can express how one does something: <<with X> <without Y>.<br>Can express different temporal relationships (for example, three relationships: simultaneously; before and after; one after another).<br>Can employ upper body posture when indicating time reference, e.g. lean forward for future.<br>Can exploit an appropriate timeline in order to place past, present and future events in the correct relationship to each other.<br>Can exploit variation in the sign order of subject, verb, object in a sentence in order to highlight something (e.g. SVO, SOV, OSV). |
-| B1 | Can infer the time, duration or sequence of an event from the timelines employed.<br>Can understand modified lexical signs. | Can express rhetorical questions in an economical manner, e.g. using just the eyebrows.<br>Can express why one does something (aim <<in order to …>>).<br>Can link two phrases to yield the meaning relation of <<although>> and <<despite>>.<br>Can indicate a rhetorical question correctly by leaving a slight pause between the question and the answer.<br>Can establish relationships in the signing space and later reuse these.<br>Can focus on one point on a timeline and/or use temporal adverbials in order to locate an event correctly in past, present or future time.<br>Can make comparisons using adjectives, including superlative forms, e.g. through use of productive signs, changing size, or speed of hand movement. |
-| | Can correctly interpret events in a timeline (past, present or future).<br>Can understand statements indicating intentions (aims, <<in order to …>>).<br>Can use non-manual signals to distinguish for example, wh-questions from yes/no questions, or assertions from yes/no questions.<br>Can correctly interpret indexical reference to persons, provided they have been properly introduced and situated.<br>Can identify various strategies for expressing the comparative and superlative of adjectives and understand their meaning (e.g., through changes in the size or speed of the sign or through the correct use of classifiers). | Can situate objects/people in the signing space by indexing and later referencing them with pronouns.<br>Can correctly direct eye gaze in the signing space in order to refer to previously introduced objects or people.<br>Can correctly use different sentence types (statements, questions, imperatives).<br>Can mark questions appropriately, using non-manual markers relevant (e.g. upper body posture plus mimic, eyebrows).<br>Can employ the relevant non-manual elements for the description of a shape.<br>Can employ constructed action in order to convey meaning.<br>Can incorporate number marking into a sign (e.g. to indicate number of persons moving, number of days).<br>Can present a simple temporal sequence by using the signing space.<br>Can support referencing to events in a passage of time with non-manual features (e.g. to distinguish events that are close in time as opposed to events that are distant in time).<br>Can express cause and effect (reason for something). |
+| | Can distinguish on the basis of grammatical signals between statements about real and imaginary events.<br>Can keep apart the characters and their actions even in longer texts.<br>Can recognise sentences as units and indicate how many sentences a short text contains.<br>Can understand verbal aspect (e.g., completion, repetition, continuation, result of actions). | Can use the signing space in a conscious manner, e.g. using the right side for <for> and the left side for <against> reasons.<br>Can use a large or a small signing space, dependent on the situation.<br>Can link productive signing with indicators of time (timelines).<br>Can employ appropriate timelines in order to indicate the point in time or the duration of an event (for temporal relations: simultaneously, beforehand/afterwards, after another).<br>Can express how one does something: <with X> <without Y>.<br>Can express different temporal relationships (for example, three relationships: simultaneously; before and after; one after another).<br>Can employ upper body posture when indicating time reference, e.g. lean forward for future.<br>Can exploit an appropriate timeline in order to place past, present and future events in the correct relationship to each other.<br>Can exploit variation in the sign order of subject, verb, object in a sentence in order to highlight something (e.g. SVO, SOV, OSV). |
+| B1 | Can infer the time, duration or sequence of an event from the timelines employed.<br>Can understand modified lexical signs. | Can express rhetorical questions in an economical manner, e.g. using just the eyebrows.<br>Can express why one does something (aim <in order to …>).<br>Can link two phrases to yield the meaning relation of <although> and <despite>.<br>Can indicate a rhetorical question correctly by leaving a slight pause between the question and the answer.<br>Can establish relationships in the signing space and later reuse these.<br>Can focus on one point on a timeline and/or use temporal adverbials in order to locate an event correctly in past, present or future time.<br>Can make comparisons using adjectives, including superlative forms, e.g. through use of productive signs, changing size, or speed of hand movement. |
+| | Can correctly interpret events in a timeline (past, present or future).<br>Can understand statements indicating intentions (aims, <in order to …>).<br>Can use non-manual signals to distinguish for example, wh-questions from yes/no questions, or assertions from yes/no questions.<br>Can correctly interpret indexical reference to persons, provided they have been properly introduced and situated.<br>Can identify various strategies for expressing the comparative and superlative of adjectives and understand their meaning (e.g., through changes in the size or speed of the sign or through the correct use of classifiers). | Can situate objects/people in the signing space by indexing and later referencing them with pronouns.<br>Can correctly direct eye gaze in the signing space in order to refer to previously introduced objects or people.<br>Can correctly use different sentence types (statements, questions, imperatives).<br>Can mark questions appropriately, using non-manual markers relevant (e.g. upper body posture plus mimic, eyebrows).<br>Can employ the relevant non-manual elements for the description of a shape.<br>Can employ constructed action in order to convey meaning.<br>Can incorporate number marking into a sign (e.g. to indicate number of persons moving, number of days).<br>Can present a simple temporal sequence by using the signing space.<br>Can support referencing to events in a passage of time with non-manual features (e.g. to distinguish events that are close in time as opposed to events that are distant in time).<br>Can express cause and effect (reason for something). |
 | A2 | Can recognise and understand condition and consequence in if-then sentences.<br>Can understand clause linkages that express <even if>/<nevertheless> relations.<br>Can understand conditional sentences, i.e. under what conditions (<if>) a consequence (<then>) occurs.<br>Can understand how sameness <same-as> and difference <different-from> are expressed.<br>Can understand differences in meaning that indicate whether actions are carried out by one person or several people, e.g., a person goes v. many people go. | Can express the conditions under which one does certain things (<if … then>).<br>Can mark verb agreement consistently, maintaining concordance.<br>Can express a non-causal sequence (e.g. <and then …> <and so …> <next …> <after that …>). |
 | | Can identify different types of sentence and their meaning through the word order (statements, questions, orders).<br>Can correctly interpret classifier constructions in simple sentences, provided they are clearly signed.<br>Can correctly interpret verb agreement.<br>Can understand the meaning of basic causal relations (e.g., “I'm late because I got stuck in the traffic”).<br>Can recognise and understand modified handshapes.<br>Can understand indirect messages (questions, requests, wishes, rejection, etc.).<br>Can distinguish between and understand different ways of expressing negation. | Can describe the environment (e.g. landscape) with depicting signs.<br>Can use canonical space effectively to place focus on important elements.<br>Can produce accurate handshapes not only in isolated signs but also in sentences.<br>Can use <if … then> sentences.<br>Can express lists and sequences <and …, … plus>).<br>Can employ productive signs correctly in simple sentences. |
 | A1 | Can understand an utterance as a direct request, question or order and respond accordingly.<br>Can understand the forms and sizes of objects (e.g., the form of a pyramid) and identify the objects.<br>Can understand different plural forms with simple signs (e.g., plural by means of numbers or by repetition).<br>Can understand lists and sequences (<and>/<both-and>/<and then> meanings).<br>Can understand productively expressed time indicators (<day-before-yesterday>, <3-years-ago>, etc.), when the time references are clearly indicated.<br>Can understand from descriptions of manipulated objects how a signer sets/lays them down or places them. | Can use personal pronouns correctly.<br>Can construct simple sentences with SVO and SOV patterns.<br>Can represent the thickness of an object by using productive signs.<br>Can construct a simple sentence using lexical signs.<br>Can form plurals through use of repetition or by marking a number. |
@@ -4373,10 +4626,28 @@ Key concepts operationalised in the productive scale include:
 *Page **150** ▶ **CEFR – Companion volume***
 
 <!-- page:150 -->
+<!-- el:start type=prose id=prose_p151_restored page=151 -->
+<!-- table-continuity: full multipage table lives on page 150 (diagrammatical accuracy); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 151 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_151_scale_diagrammatical_accuracy.md -->
+
+<!-- el:end id=prose_p151_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **151***
 
 <!-- page:151 -->
+<!-- el:start type=prose id=prose_p152_restored page=152 -->
+<!-- table-continuity: full multipage table lives on page 150 (diagrammatical accuracy); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 152 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_152_scale_diagrammatical_accuracy.md -->
+
+<!-- el:end id=prose_p152_restored -->
 
 *Page **152** ▶ **CEFR – Companion volume***
 
@@ -4384,7 +4655,12 @@ Key concepts operationalised in the productive scale include:
 
 ---
 
-<!-- el:start type=prose id=prose_p153_s0 page=153 --> **6.2. SOCIOLINGUISTIC COMPETENCE** In this scale some elements of sociocultural knowledge have been included, since it is difficult to draw a hard and fast line between the two concepts. In the SNSF research project, a number of descriptors for specific knowledge of aspects relevant to deaf communities were calibrated. Despite being important for understanding local culture, shared knowledge and values, and the meaning of particular signs, some topics that relate to regional culture have been placed in the supplementary descriptors in Appendix 9 and should be interpreted and exemplified by regional values relevant wherever needed. **Sociolinguistic appropriateness and cultural repertoire**
+<!-- el:start type=prose id=prose_p153_s0 page=153 -->
+**6.2. SOCIOLINGUISTIC COMPETENCE**
+
+In this scale some elements of sociocultural knowledge have been included, since it is difficult to draw a hard and fast line between the two concepts. In the SNSF research project, a number of descriptors for specific knowledge of aspects relevant to deaf communities were calibrated. Despite being important for understanding local culture, shared knowledge and values, and the meaning of particular signs, some topics that relate to regional culture have been placed in the supplementary descriptors in Appendix 9 and should be interpreted and exemplified by regional values relevant wherever needed.
+
+**Sociolinguistic appropriateness and cultural repertoire**
 
 This scale is the equivalent of the one for sociolinguistic appropriateness under communicative language competences. In addition to sociolinguistic appropriateness (register, politeness conventions, etc.) some more general elements of cultural and regional knowledge are included.
 
@@ -4438,16 +4714,39 @@ Key concepts operationalised in the productive scale include the following:
 *Page **154** ▶ **CEFR – Companion volume***
 
 <!-- page:154 -->
+<!-- el:start type=prose id=prose_p155_restored page=155 -->
+<!-- table-continuity: full multipage table lives on page 154 (sociolinguistic appropriateness); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 155 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_155_scale_sociolinguistic_appropriateness_and_cultural_repertoire.md -->
+
+<!-- el:end id=prose_p155_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **155***
 
 <!-- page:155 -->
+<!-- el:start type=prose id=prose_p156_restored page=156 -->
+<!-- table-continuity: full multipage table lives on page 154 (sociolinguistic appropriateness); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 156 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_156_scale_sociolinguistic_appropriateness_and_cultural_repertoire.md -->
+
+<!-- el:end id=prose_p156_restored -->
 
 *Page **156** ▶ **CEFR – Companion volume***
 
 <!-- page:156 -->
 
-<!-- el:start type=prose id=prose_p157_s0 page=157 --> **6.3. PRAGMATIC COMPETENCE** Pragmatic competences cover discourse competences in different media, such as the ability to create personal meaning in the context of a face-to-face or a written discourse and to capture the intentions of language action (e.g. of indirect acts of speech), as well as functional competences such as processing and comprehension even of implicit meaning. These competences also relate to language awareness (metalanguage). Pairs of descriptor scales are available for “Sign text structure” and “Setting and perspectives”. In addition there are two other receptive scales, “Language awareness and interpretation” and “Processing speed”, as well as two other productive scales: “Presence and effect” and “Signing fluency”. **Sign text structure**
+<!-- el:start type=prose id=prose_p157_s0 page=157 -->
+**6.3. PRAGMATIC COMPETENCE**
+
+Pragmatic competences cover discourse competences in different media, such as the ability to create personal meaning in the context of a face-to-face or a written discourse and to capture the intentions of language action (e.g. of indirect acts of speech), as well as functional competences such as processing and comprehension even of implicit meaning. These competences also relate to language awareness (metalanguage). Pairs of descriptor scales are available for “Sign text structure” and “Setting and perspectives”. In addition there are two other receptive scales, “Language awareness and interpretation” and “Processing speed”, as well as two other productive scales: “Presence and effect” and “Signing fluency”.
+
+**Sign text structure**
 
 The focus of this pair of scales is on the ability of the user/learner not only to grasp and understand the structure of different types of text but also to shape and structure their contributions. Sign text structure relates to the scales for “Coherence” and “Thematic development” under “Communicative language competences”.
 
@@ -4500,16 +4799,41 @@ Key concepts operationalised in the productive scale include the following:
 *Page **158** ▶ **CEFR – Companion volume***
 
 <!-- page:158 -->
+<!-- el:start type=prose id=prose_p159_restored page=159 -->
+<!-- table-continuity: full multipage table lives on page 158 (sign text structure); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 159 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_159_scale_sign_text_structure.md -->
+
+**Sign text structure**
+
+**Receptive**
+
+**Productive**
+
+<!-- el:end id=prose_p159_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **159***
 
 <!-- page:159 -->
+<!-- el:start type=prose id=prose_p160_restored page=160 -->
+<!-- table-continuity: full multipage table lives on page 158 (sign text structure); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 160 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_160_scale_sign_text_structure.md -->
+
+<!-- el:end id=prose_p160_restored -->
 
 *Page **160** ▶ **CEFR – Companion volume***
 
 <!-- page:160 -->
 
-<!-- el:start type=prose id=prose_p161_s0 page=161 --> **Setting and perspectives**
+<!-- el:start type=prose id=prose_p161_s0 page=161 -->
+**Setting and perspectives**
 
 A key aspect of sign languages is the use of spatial reference. This requires clearly establishing contexts for interpretation by creating a setting. To do so, the three-dimensional signing space is systematically divided. Discourse referents and particular relations must be placed unambiguously within the signing space. Establishing references serves two main functions: it is a means to establish reference relations within sentences (clauses) and it provides a context of interpretation for a text. Sign languages typically clearly introduce the context and setting of a text at the beginning of the interaction or production in order to establish reference points within the three-dimensional signing space. Once established, these reference points remain in place until a new setting is introduced, or an animate referent moves through space. Consistency of spatial relations is therefore essential in order to produce a coherent, unambiguous contribution.
 
@@ -4556,6 +4880,15 @@ Key concepts operationalised in the productive scale include the following:
 *Page **162** ▶ **CEFR – Companion volume***
 
 <!-- page:162 -->
+<!-- el:start type=prose id=prose_p163_restored page=163 -->
+<!-- table-continuity: full multipage table lives on page 162 (setting and perspectives); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 163 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_163_scale_setting_and_perspectives.md -->
+
+<!-- el:end id=prose_p163_restored -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **163***
 
@@ -4566,7 +4899,7 @@ Key concepts operationalised in the productive scale include the following:
 
 This scale includes descriptors for competences that enable a correct interpretation of perceived acts of communication as well as of their functions. These competences allow the identification of the respective functions of texts (convincing, amusing, persuading, affecting, etc.) to establish expectations of a text, to understand and evaluate the presence of the signer, and to distinguish different levels of communication. The competences also include the comprehension and assessment of stylistic means, connotative meanings and conscious prosodic signals.
 
-Metalinguistic competences allow for evaluative attributions of specific signs and expressions perceived,for example as an aesthetic contribution or a rhetorical reply. They are applied in the interpretation of a signer’s productions as, for example, in a text making an appeal or request, or in a formal text, and they are applied in reflections on signing.
+Metalinguistic competences allow for evaluative attributions of specific signs and expressions perceived, for example as an aesthetic contribution or a rhetorical reply. They are applied in the interpretation of a signer’s productions as, for example, in a text making an appeal or request, or in a formal text, and they are applied in reflections on signing.
 
 Over and above accessing lexical and productive repertoires, these competences encompass the ability to understand different types of signed statements, such as variation in tempo and style that are not part of the lexicon. Also, in contrast to authors of written text, the author of a signed text usually remains visible: videoed sign texts are not alienated from authors, and the conveyed meanings are not detached from the authors unless they use technological techniques (e.g. an avatar). Therefore, the appearance of the signer may be substantially important for the interpretation of a signed text. Indeed, this is a feature that videoed texts share with face-to-face interactions.
 
@@ -4598,11 +4931,12 @@ Key concepts operationalised in the scale include the following:
 | A1 | Can distinguish between positive and negative attitudes on the basis of non-manual cues (e.g., eyebrows together v. high eyebrows).<br>Can understand the direct acceptance or rejection of requests/demands. |
 <!-- el:end id=scale_language_awareness_and_interpretation -->
 
-48.	 This is an instance of “body partitioning”.
+48.  This is an instance of “body partitioning”.
 
 *Page **164** ▶ **CEFR – Companion volume***
 
 <!-- page:164 -->
+<!-- table-continuity: full multipage table lives on page 164 (language awareness); mid-page slice removed to keep single db:id for grep -->
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **165***
 
@@ -4645,17 +4979,30 @@ Key concepts operationalised in the scale include the following:
 *Page **166** ▶ **CEFR – Companion volume***
 
 <!-- page:166 -->
+<!-- el:start type=prose id=prose_p167_processing_speed page=167 -->
+### Processing speed
 
-*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **167***
+This scale includes competences that describe the ease or effort in comprehending a sign language. The processing speed may depend on familiar versus unfamiliar signs, on the degree of grammatical complexity or on the familiarity with fingerspelling, to give examples. The scale therefore captures how different competences of other scales can be used, how automatised competences already are and how many resources must be allocated in interpretation or are available for further processing of messages. The individual’s experience of challenging communication, depending on the language used, relates to this. Processing speed indicates the level of training of a recipient and how well they can grasp and understand conveyed information.
 
-<!-- page:167 -->
+Key concepts operationalised in the scale include the following:
 
-<!-- el:start type=artifact id=scale_processing_speed page=168 -->
-<!-- db:id=scale_processing_speed type=descriptor_scale product_tier=assessment_action,detailed pages=168 -->
+- strain of comprehending texts and expressions of differing length, explicitness and complexity;
+- ability to assess the signing speed, regularity and rhythm of others and to monitor oneself;
+- ability to capture actions that are produced with different articulators simultaneously;
+- ability to follow actions with several characters and complex settings;
+- ability to follow messages or texts even if the transitions between the different parts of the text are smoothly signed;
+- ability to understand fluently produced fingerspelling;
+- ability to follow the content despite assimilations, interruptions, gaps, pauses, production errors or unclear signing.
+<!-- el:end id=prose_p167_processing_speed -->
+
+<!-- el:start type=artifact id=scale_processing_speed page=167 -->
+<!-- db:id=scale_processing_speed type=descriptor_scale product_tier=assessment_action,detailed pages=167-168 -->
 ### Processing speed | scale_processing_speed
 
 | | Processing speed |
 | --- | --- |
+| C2 | Can follow texts that are enacted in parallel (e.g., with two signers).<br>Can keep track of who is to take the next turn when several signers are involved, for example, in a panel discussion, by monitoring requests for a turn.<br>Can list the various aspects mentioned in a text even if the signer mentions them quickly one after the other.<br>Can easily understand fluently fingerspelled signs, even if they do not see every letter but perhaps only ergonomic word shapes. |
+| C1 | Can follow a long fluidly signed text.<br>Can follow complicated reports without difficulty.<br>Can easily understand complex actions and relationships between objects/persons/places that are described using various classifier constructions.<br>Can follow how people react to one another’s communication behaviour even when several signers are involved, for example in a panel discussion.<br>Can understand a signed text even if the signer uses only one hand.<br>Can follow a text even when it contains several unknown signs.<br>Can understand a text even when certain signs or sentences are incomplete or not visible.<br>Can spot signing errors and correct them for themselves without query. |
 | B2 | Can follow unexpected news or video messages without preparation. |
 | | Can easily understand descriptions of actions even if the signer uses different classifier constructions (e.g., manipulators, substitutors).<br>Can follow even unexpected twists in a text.<br>Can understand rhythmically presented movement sequences and actions, and recognise their aesthetic quality. |
 | B1 | Can follow a long and slowly signed text, provided it is shown several times.<br>Can follow the narration of a well-known story without difficulty.<br>Can recognise and imitate various handshapes, even when the signer uses them in rapid succession.<br>Can spot signing errors and ask for more precision or clarification. |
@@ -4665,21 +5012,23 @@ Key concepts operationalised in the scale include the following:
 | A1 | Can understand short, slowly and clearly signed texts in one go. |
 <!-- el:end id=scale_processing_speed -->
 
-<!-- el:start type=prose id=prose_p168_s1 page=168 --> **Signing fluency**
+*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **167***
 
-This scale is a direct equivalent of the scale for fluency under communicative language competences. Key
+<!-- page:167 -->
+<!-- el:start type=prose id=prose_p168_signing_fluency page=168 -->
+### Signing fluency
 
-concepts operationalised in the scale include the following:
+This scale is a direct equivalent of the scale for fluency under communicative language competences. Key concepts operationalised in the scale include the following:
 
 - the pace, regularity and rhythm of signing;
 - ability to pause where appropriate;
 - ability to articulate simultaneous constructions with different articulators;
 - ability to articulate signs one after another with smooth transitions and without distortion;
 - ability to fingerspell in a fluid sequence to express words for unknown signs (A levels) or context-dependent emphasis (B level and beyond), or as a means of bilingual contact signing (all levels).
-<!-- el:end id=prose_p168_s1 -->
+<!-- el:end id=prose_p168_signing_fluency -->
 
-<!-- el:start type=artifact id=scale_processing_speed page=168 -->
-<!-- db:id=scale_signing_fluency type=descriptor_scale product_tier=assessment_action,detailed pages=169 -->
+<!-- el:start type=artifact id=scale_signing_fluency page=168 -->
+<!-- db:id=scale_signing_fluency type=descriptor_scale product_tier=assessment_action,detailed pages=168-169 -->
 ### Signing fluency | scale_signing_fluency
 
 | | Signing fluency |
@@ -4688,26 +5037,22 @@ concepts operationalised in the scale include the following:
 | C1 | Can sign rapidly in a steady rhythm.<br>Can sign a longer text fluently and rhythmically.<br>Can employ an extended hold of a sign (hold) as a rhetorical or prosodic feature. |
 | B2 | Can sign at a fluent pace, even though some pauses for planning are still necessary.<br>Can relate fluently in a sign language a story that they know.<br>Can hold a sign with one hand in order to demonstrate something static (hold), while simultaneously using the other hand to continue signing.49 |
 | | Can sign at a comfortable pace, without needing to think about the individual signs.<br>Can use pauses for effect at appropriate points.<br>Can rhythmically represent the stages of a movement or activity (e.g. leaves falling down, hail).<br>Can fingerspell fluently, connecting or blending elements smoothly. |
-<!-- el:end id=scale_processing_speed -->
-
-49.	 These constructions are also known as “fragment buoys”.
-
-*Page **168** ▶ **CEFR – Companion volume***
-
-<!-- page:168 -->
-
-<!-- el:start type=artifact id=scale_signing_fluency page=169 -->
-<!-- db:id=scale_signing_fluency type=descriptor_scale product_tier=assessment_action,detailed pages=169 -->
-### Signing fluency | scale_signing_fluency
-
-| | Signing fluency |
-| --- | --- |
 | B1 | Can sign a fluent transition between related points. |
 | | Can sign a short text rhythmically.<br>Can employ sequences of handshapes and/or the handshapes for fingerspelling fluently. |
 | A2 | Can sign a simple sentence rhythmically. |
 | | Can indicate the end of a sentence clearly by leaving a pause. |
 | A1 | No descriptors available |
 <!-- el:end id=scale_signing_fluency -->
+
+49.  These constructions are also known as “fragment buoys”.
+
+*Page **168** ▶ **CEFR – Companion volume***
+<!-- db:id=scale_processing_speed type=descriptor_scale product_tier=context pages=167-168 -->
+<!-- multipage continuation of Processing speed; full scale on p.167 -->
+
+<!-- page:168 -->
+<!-- table-continuity: full multipage table lives on page 168 (signing fluency); mid-page slice removed to keep single db:id for grep -->
+
 
 *The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **169***
 
@@ -4726,7 +5071,11 @@ Page **172**
 <!-- page:172 -->
 
 <!-- el:start type=prose id=prose_p173_s0 page=173 -->
-Appendix 1 **SALIENT FEATURES OF THE CEFR LEVELS** Level A1 is considered the lowest level of generative language use – the point at which the learner can “interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics”, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
+Appendix 1
+
+**SALIENT FEATURES OF THE CEFR LEVELS**
+
+Level A1 is considered the lowest level of generative language use – the point at which the learner can “interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics”, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
 
 Level A2 does appear to reflect the level referred to by the “Waystage” specification. It is at this level that the majority of descriptors stating social functions are to be found, like “use simple everyday polite forms of greeting and address”; “greet people, ask how they are and react to news”; “handle very short social exchanges”; “ask and answer questions about what people do at work and in free time”; “make and respond to invitations”; “discuss what to do, where to go and make arrangements to meet”; “make and accept offers”. Here too are to be found descriptors on getting out and about: the simplified cut-down version of the full set of transactional specifications in “The Threshold Level” for adults living abroad, like: “make simple transactions in shops, post offices or banks”; “get simple information about travel”; “use public transport: buses, trains, and taxis, ask for basic information, ask and give directions, and buy tickets”; “ask for and provide everyday goods and services”.
 
@@ -4744,7 +5093,7 @@ The subsequent band seems to be a “strong Threshold” (B1+). The same two mai
 
 Level B2 represents a new level as far above B1 (“Threshold”) as A2 (“Waystage”) is below it. It is intended to reflect the “Vantage Level” specification. The metaphor is that having been progressing slowly but steadily across the intermediate plateau, the user/learner finds they have arrived somewhere, things look different, they acquire a new perspective, can look around them in a new way. This concept does seem to be borne out to a considerable extent by the descriptors calibrated at this level. They represent quite a break with the content so far. For example, at the lower end of the band there is a focus on effective argument: “account for and sustain their opinions in discussion by providing relevant explanations, arguments and comments”; “explain a viewpoint on a topical issue giving the advantages and disadvantages of various options”; “construct a chain of reasoned argument”; “develop an argument giving reasons in support of or against a particular point of view”; “explain a problem and make it clear that their counterpart in a negotiation must make a concession”; “speculate about causes, consequences, hypothetical situations”; “take an active part in informal discussion in familiar contexts, commenting, putting their point of view clearly, evaluating alternative proposals and making and responding to hypotheses”. Secondly, running right through the level there are two new focuses. The first is being able to more than hold your own in social discourse: for example, “converse naturally, fluently and effectively”; “understand in detail what is said to them in the standard language even in an [audially/visually] noisy environment”; “initiate discourse, take their turn when appropriate and end conversation when they need to, though they may not always do this elegantly”; “use stock phrases (e.g. “That’s a difficult question to answer”) to gain time and keep the turn while formulating what to say”; “interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party”; “adjust to the changes of direction, style and emphasis normally found in conversation”; “sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient user”. The second new focus is a new degree of language awareness: “correct mistakes if they have led to misunderstandings”; “make a note of their recurrent mistakes and consciously monitor their language”; “generally correct slips and errors if they become conscious of them”; “plan what is to be said and the means to say it, considering the effect on the recipient(s)” **.** In all, this does seem to be a new threshold for a language learner to cross.
 
-At the next band – representing a “strong Vantage” (B2+) performance– the focus on argument, effective social discourse and on language awareness that appears at B2 (“Vantage” **)**continues**.** However, the focus on argument and social discourse can also be interpreted as a new focus on discourse skills. This new degree of discourse competence shows itself in conversational management (co-operating strategies): “give feedback on and follow up statements and inferences by others and so help the development of discussion”; “relate own contribution skilfully to those of others”. It is also apparent in relation to coherence/cohesion: “use a limited number of cohesive devices to link sentences together smoothly into clear, connected discourse”; “use a variety of linking expressions efficiently to mark clearly the relationships between ideas”; “develop an argument systematically with appropriate highlighting of significant points, and relevant supporting detail”. Finally, it is at this band that there is a concentration of items on “negotiating”: “outline a case for compensation, using persuasive language and simple arguments to demand satisfaction”; “state clearly the limits to a concession”.
+At the next band – representing a “strong Vantage” (B2+) performance– the focus on argument, effective social discourse and on language awareness that appears at B2 (“Vantage” **) **continues**.** However, the focus on argument and social discourse can also be interpreted as a new focus on discourse skills. This new degree of discourse competence shows itself in conversational management (co-operating strategies): “give feedback on and follow up statements and inferences by others and so help the development of discussion”; “relate own contribution skilfully to those of others”. It is also apparent in relation to coherence/cohesion: “use a limited number of cohesive devices to link sentences together smoothly into clear, connected discourse”; “use a variety of linking expressions efficiently to mark clearly the relationships between ideas”; “develop an argument systematically with appropriate highlighting of significant points, and relevant supporting detail”. Finally, it is at this band that there is a concentration of items on “negotiating”: “outline a case for compensation, using persuasive language and simple arguments to demand satisfaction”; “state clearly the limits to a concession”.
 
 Level C1, seems to be characterised by good access to a broad range of language, which allows fluent, spontaneous communication, as illustrated by the following examples: “Can express themselves fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies”; “only a conceptually difficult subject can hinder a natural, smooth flow of language”. The discourse skills characterising the previous band continue to be evident at Level C1, with an emphasis on more fluency, for example: “select a suitable phrase from a fluent repertoire of discourse functions to preface their remarks in order to get the floor, or to gain time and keep it while thinking”; “produce clear, smoothly flowing, well-structured language, showing controlled use of organisational patterns, connectors and cohesive devices”.
 <!-- el:end id=prose_p174_s0 -->
@@ -4752,24 +5101,24 @@ Level C1, seems to be characterised by good access to a broad range of language,
 *Page **174** ▶ **CEFR – Companion volume***
 
 <!-- page:174 -->
-
 <!-- el:start type=prose id=prose_p175_s0 page=175 -->
 Level C2 is not intended to imply native-speaker or near native-speaker competence. What is intended is to characterise the degree of precision, appropriateness and ease with the language that typifies the speech of those who have been highly successful learners. Descriptors calibrated here include: “convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of modification devices”; “has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning”; “backtrack and restructure around a difficulty so smoothly the interlocutor is hardly aware of it”.
 
-TheCommon Reference Levels can be presented and exploited in a number of different formats, in varying degrees of detail. Yet the existence of fixed points of common reference offers transparency and coherence, a tool for future planning and a basis for further development. The Common Reference Levels are summarised in the following table:
+The Common Reference Levels can be presented and exploited in a number of different formats, in varying degrees of detail. Yet the existence of fixed points of common reference offers transparency and coherence, a tool for future planning and a basis for further development. The Common Reference Levels are summarised in the following table:
 <!-- el:end id=prose_p175_s0 -->
 
-<!-- el:start type=artifact id=scale_proifcient_resu page=175 -->
+<!-- el:start type=artifact id=scale_proficient_user alias=scale_proifcient_resu page=175 -->
+<!-- db:id=table_common_reference_levels_global type=descriptor_scale product_tier=base pages=175 -->
 
-| Level | Descriptor |
-|-------|------------|
-| C2 | Can understand virtually all types of texts. Can summarise information from different oral and written sources, reconstructing arguments and accounts in a coherent presentation. Can express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations. |
-| C1 | Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express themselves fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices. |
-| B2 | Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in their field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. |
-| B1 | Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise while travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans. |
-| A2 | Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of their background, immediate environment and matters in areas of immediate need. |
-| A1 | Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce themselves and others and can ask and answer questions about personal details such as where someone lives, people they know and things they have. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help. |
-<!-- el:end id=scale_proifcient_resu -->
+| | | |
+| --- | --- | --- |
+| **Proficient user** | **C2** | Can understand virtually all types of texts. Can summarise information from different oral and written sources, reconstructing arguments and accounts in a coherent presentation. Can express themselves spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations. |
+| | **C1** | Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express themselves fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices. |
+| **Independent user** | **B2** | Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in their field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. |
+| | **B1** | Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise while travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans. |
+| **Basic user** | **A2** | Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of their background, immediate environment and matters in areas of immediate need. |
+| | **A1** | Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce themselves and others and can ask and answer questions about personal details such as where someone lives, people they know and things they have. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help. |
+<!-- el:end id=scale_proficient_user -->
 
 *Salient features of the CEFR levels ▶ Page **175***
 
@@ -4778,6 +5127,11 @@ TheCommon Reference Levels can be presented and exploited in a number of differe
 Page **176**
 
 <!-- page:176 -->
+<!-- el:start type=prose id=prose_appendix_2_header page=177 -->
+Appendix 2
+
+**SELF-ASSESSMENT GRID (EXPANDED WITH ONLINE INTERACTION AND MEDIATION)**
+<!-- el:end id=prose_appendix_2_header -->
 
 <!-- el:start type=artifact id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation page=177 -->
 <!-- db:id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation type=section_block product_tier=base pages=177-181 -->
@@ -4785,75 +5139,70 @@ Page **176**
 
 ## Reception
 
-| 2C | some ,speed delivered familiar whether diiffculty<br>,broadcast understanding<br>.accent have oral natural get when fo<br>I ,language the provided kind on ot fast ro have with time even live any ta ni<br>I | sa literary specialised such structurally including dengis/written fo ease forms<br>,texts linguistically with and all<br>,manuals complex ,abstract ,language virtually read<br>.works articles can the ro<br>I |
+| Level | Oral comprehension | Reading comprehension |
 | --- | --- | --- |
-| 1C | iflms not when clearly<br>.explicitly even much and understand and are understand and too programmes implied relationships not talk television signalled structured si extended without ti<br>.effort when can only can<br>I I | technical .style<br>.ifeld not even articles understand appreciating literary complex understand od fo ym they ,instructions longer specialised distinctions and ot and factual relate when and can ,texts long can<br>I I |
-| 2B | most reasonably fo<br>.language ni the .programmes current provided lines follow and iflms understand understand understand complex talk and and fo si standard majority news .familiar topic argument lectures extended affairs can can even can<br>VT the<br>I I I | literary and ro which contemporary concerned understand stances adopt articles contemporary<br>.viewpoints writers ni particular problems read reports<br>.prose can with can the<br>I I |
-| 1B | encountered si interest ro clear the slow and delivery personal affairs ro no ro VT point fo understand ,school matters language fo understand professional programmes radio .etc familiar points relatively the fo current main ,leisure ,work regularly standard<br>.clear when topics many can main can the ni no<br>I I | ni ,events texts the wishes mainly<br>.letters understand .language -job frequency understand fo and description ro consist personal everyday feelings related high can that can fo<br>I I |
-| 2A | and<br>,clear main ,information and very personal related frequency<br>.announcements messages understand local most the<br>,short the .)employment personal .g.e( catch ,geography ,shopping relevance immediate fo vocabulary and ni areas highest phrases simple point can family basic can ot<br>I I | personal menus ,short and<br>,speciifc understand ,timetables ,advertisements sa everyday<br>,prospectuses such ni very simple information predictable .texts<br>,material ifnd read<br>.letters simple simple short can can can and<br>I I I |
-| 1A | familiar and basic when concrete concerning<br>.clearly ngis/kaeps family very recognise surroundings and immediate ym and slowly people ,myself phrases words can<br>I | posters example /words simple<br>.catalogues understand and for very ,names notices ,sentences and familiar ni signs can ro no<br>I |
-| Reception | comprehension<br>Oral | comprehension<br>Reading |
+| A1 | I can recognise familiar words and very basic phrases concerning myself, my family and immediate concrete surroundings when people speak/sign slowly and clearly. | I can understand familiar names, words/ signs and very simple sentences, for example on notices and posters or in catalogues. |
+| A2 | I can understand phrases and the highest frequency vocabulary related to areas of most immediate personal relevance (e.g. very basic personal and family information, shopping, local geography, employment). I can catch the main point in short, clear, simple messages and announcements. | I can read very short, simple texts. I can find specific, predictable information in simple everyday material, such as advertisements, prospectuses, menus and timetables, and I can understand short simple personal letters. |
+| B1 | I can understand the main points of clear standard language on familiar matters regularly encountered in work, school, leisure, etc. I can understand the main point of many radio or TV programmes on current affairs or topics of personal or professional interest when the delivery is relatively slow and | clear. I can understand texts that consist mainly of high frequency everyday or job- related language. I can understand the description of events, feelings and wishes in personal letters. |
+| B2 | I can understand extended talk and lectures and follow even complex lines of argument provided the topic is reasonably familiar. I can understand most TV news and current affairs programmes. I can understand the majority of films in standard language. | I can read articles and reports concerned with contemporary problems in which the writers adopt particular stances or viewpoints. I can understand contemporary literary prose. |
+| C1 | I can understand extended talk even when it is not clearly structured and when relationships are only implied and not signalled explicitly. I can understand television programmes and films without too much effort. | I can understand long and complex factual and literary texts, appreciating distinctions of style. I can understand specialised articles and longer technical instructions, even when they do not relate to my field. |
+| C2 | I have no difficulty in understanding any kind of oral language, whether live or broadcast, even when delivered at fast natural speed, provided I have some time to get familiar with the accent. | I can read with ease virtually all forms of the written/signed language, including abstract, structurally or linguistically complex texts, such as manuals, specialised articles and literary works. |
 
 ## Production
 
-| 2C | .points notice helps logical with the style lfowing ,clear remember that ot a ro a recipient effective and appropriate ni description present signiifcant structure argument smoothly context can and the na<br>I | professional remember that effective a complex .style text recipient present ,clear<br>.works .points structure ro appropriate lfowing and reports produce produce produce literary fo summaries signiifcant and the with na that smoothly reviews notice logical articles ,letters can helps case can na can ro ni<br>I I I |
+| Level | Oral production | Written production |
 | --- | --- | --- |
-| 1C | descriptions appropriate developing subjects<br>,clear off points -sub rounding present<br>.conclusion integrating complex particular na ,themes detailed with and can fo<br>I | .mind style different detailed some dstructure-llew ni<br>,report ni myself the a the what I subjects ta ni ni expressing have ot texts produce .issues eb a fo produce view express appropriate ot underlining ro expositions reader I fo salient consider essay complex .length points fo kinds can can ,text ,clear can na<br>I I I |
-| 2B | ym descriptions and giving ot fo ,clear fo<br>.options disadvantages advantages a a .interest related range issue no explain present viewpoint wide subjects detailed various topical fo can ifeld a can the no<br>I I | particular fo giving no essay .interests subjects support ,clear passing a na no<br>.view a information ro produce ym range fo text produce against ni ,report ot fo reasons related detailed point can wide can ro ro<br>I I |
-| 1B | .reactions .ambitions phrases fo story .plans ,dreams and plot for give and describe ni way ym iflm the narrate a and explanations and brielfy and ym experiences simple connect describe book ro relate can opinions reasons can hopes ,events order ot can a a ro I I ni I | .interest familiar no text straightforward personal are produce that connected topics fo can ro<br>I |
-| 2A | recent sentences ym simple fo most and educational ,conditions ,people family series ni background and describe ro other ym use a present phrases living terms can<br>.job ym and ot<br>I | with and series and connectors linked phrases<br>”but“ a produce<br>.”because“ ,”and“ sentences simple simple can like fo<br>I |
-| 1A | sentences<br>I where people simple and describe and use phrases<br>.know live can ot<br>I I | and simple phrases produce<br>.sentences isolated can<br>I |
-| Production | production<br>Oral | production<br>Written |
+| A1 | I can use simple phrases and sentences to describe where I live and people I know. | I can produce simple isolated phrases and sentences. |
+| A2 | I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job. | I can produce a series of simple phrases and sentences linked with simple connectors like “and”, “but” and “because”. |
+| B1 | I can connect phrases in a simple way in order to describe experiences and events, my dreams, hopes and ambitions. I can briefly give reasons and explanations for opinions and plans. I can narrate a story or relate the plot of a book or film and describe my reactions. | I can produce straightforward connected text on topics that are familiar or of personal interest. |
+| B2 | I can present clear, detailed descriptions on a wide range of subjects related to my field of interest. I can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. | I can produce clear, detailed text on a wide range of subjects related to my interests. I can produce an essay or report, passing on information or giving reasons in support of or against a particular point of view. |
+| C1 | I can present clear, detailed descriptions of complex subjects integrating sub- themes, developing particular points and rounding off with an appropriate conclusion. | I can express myself in clear, well-structured text, expressing points of view at some length. I can produce detailed expositions of complex subjects in an essay or a report, underlining what I consider to be the salient issues. I can produce different kinds of texts in a style appropriate to the reader I have in mind. |
+| C2 | I can present a clear, smoothly flowing description or argument in a style appropriate to the context and with an effective logical structure that helps the recipient notice and remember significant points. | I can produce clear, smoothly flowing text in an appropriate style. I can produce complex letters, reports or articles that present a case with an effective logical structure that helps the recipient notice and remember significant points. I can produce summaries and reviews of professional or literary works. |
 
 ## Interaction
 
-| 2C | the are smoothly around and problem .precisely fI convey myself .colloquialisms expressions with have a<br>.ti people any fo backtrack fo familiarity and ro part aware other diiffculty os restructure have a meaning shades and express idiomatic discussion conversation effortlessly ni take lfuently hardly that can od ifner can and good can<br>I I I I | sensitively emotional tone adjusting ,misunderstandings effectively fo myself<br>.appropriate and and communication possible anticipate .interaction any type style ni appropriate express language ,reactions and deal virtually and lfexibly issues with and can tone na can sa ni<br>I I |
+| Level | Oral interaction | Written and online interaction |
 | --- | --- | --- |
-| 1C | .purposes effectively ideas for fo relate with language searching and those contribution and opinions formulate professional and and .expressions much spontaneously lfuently express ot<br>.others skilfully precision social lfexibly use obvious without myself can can can ym and for<br>I I I | cultural .effectively register ym and express communication effectively other adapting clarity abstract and and no understand arise<br>.exemplifying and and can contributions fo intentions clarifying and with implications that problems deal language ,precision and ,complex issues lfexibly myself issues with can can the yb<br>I I |
-| 2B | language users<br>.views and ,contexts active regular lfuency discussion with with spontaneity ym for .possible na target interact sustaining accounting familiar take interaction makes degree fo part ni can quite the that and can ni I fo a I | generally linking justify em others misunderstandings handling ot support and the ,disagreements contributions with<br>.collaboration ,experiences events signiifcance fo highlight .evitarepo-oc are allow complex the ,people interact and and ,language provided and several ideas ,facts can time avoid theirs can ym ro<br>I I |
-| 1B | everyday ro ,familiar unprepared<br>.)events travel interest no .spoken the travelling most conversation ot where<br>,work ,family are likely with current pertinent ot personal that enter language si area while situations deal<br>,hobbies<br>.g.e( topics and into can na arise can life fo ni<br>I I | .concepts graphs aids provided no with a some and clariifcations give provided ,events about respond and more ,images visual working ro and interact ni comments for .beforehand prepare impressions ,experiences interact complex clarify statistics sa are ,project group .detail questions can simple ask ,feelings such there can can can can and ot ot a I I I I |
-| 2A | conversation ot even short usually routine enough and communicate<br>,exchanges very no exchange<br>.myself understand t’nac handle topics information and requiring and the I .activities simple simple though familiar going keep social can direct tasks can<br>I fo a ni I | supportive shared can simple .questions doing basic<br>.interlocutor with a collaborate ni a instructions and follow simple ordering ,goods transactions such complete answers ot ,thanks apology ro comments with responding what I ,need what I ma expressing how I ,interaction engage ni social task can can and ,feel can sa ot ro<br>I I |
-| 1A | immediate ni answer .express what I help ta a repeat ro si provided questions person a<br>.topics very and things ni no and ot formulate rate ot way interact familiar ro fo ask trying rephrase prepared other simple slower simple need areas can can ma em the<br>I I | comments with very images ot .way how sa<br>.details ,purchase a simply simple can about greetings ,short forms complete and and<br>.media ,posts react ot did statements post personal ni very respond ,ti iflling simple can other can liked what I simple can and a ni<br>I I I I |
-| Interaction | interaction<br>Oral | interaction online<br>Written and |
+| A1 | I can interact in a simple way provided the other person is prepared to repeat or rephrase things at a slower rate and help me formulate what I am trying to express. I can ask and answer simple questions in areas of immediate need or on very familiar topics. I can post short, | simple greetings as statements about what I did and how I liked it, and can respond to comments in a very simple way. I can react simply to other posts, images and media. I can complete a very simple purchase, filling in forms with personal details. |
+| A2 | I can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar topics and activities. I can handle very short social exchanges, even though I can’t usually understand enough to keep the conversation going myself. I can engage in basic | social interaction, expressing how I feel, what I am doing or what I need, and responding to comments with thanks, apology or answers to questions. I can complete simple transactions such as ordering goods, can follow simple instructions and can collaborate in a shared task with a supportive interlocutor. |
+| B1 | I can deal with most situations likely to arise while travelling in an area where the language is spoken. I can enter unprepared into conversation on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). I can interact about | experiences, events, impressions and feelings, provided I can prepare beforehand. I can ask for or give simple clarifications and can respond to comments and questions in some detail. I can interact with a group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts. |
+| B2 | I can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible. I can take an active part in discussion in familiar contexts, accounting for and sustaining my views. I can interact with | several people, linking my contributions to theirs and handling misunderstandings or disagreements, provided the others avoid complex language, allow me time and are generally co-operative. I can highlight the significance of facts, events and experiences, justify ideas and support collaboration. |
+| C1 | I can express myself fluently and spontaneously without much obvious searching for expressions. I can use language flexibly and effectively for social and professional purposes. I can formulate ideas and opinions with precision and relate my contribution skilfully to those of others. I can understand | the intentions and implications of other contributions on complex, abstract issues and can express myself with clarity and precision, adapting my language and register flexibly and effectively. I can deal effectively with communication problems and cultural issues that arise by clarifying and exemplifying. |
+| C2 | I can take part effortlessly in any conversation or discussion and have a good familiarity with idiomatic expressions and colloquialisms. I can express myself fluently and convey finer shades of meaning precisely. If I do have a problem I can backtrack and restructure around the difficulty so smoothly that other people are hardly aware of it. I can express myself | in an appropriate tone and style in virtually any type of interaction. I can anticipate and deal effectively with possible misunderstandings, issues and emotional reactions, adjusting language and tone flexibly and sensitively as appropriate. |
 
 ## Mediation
 
-| 2C | irony dstructure-llew evaluative arguments ,clear<br>,understatement .g.e( sociocultural ,precisely most way<br>.)sarcasm ,register implications pointing and ,presented the explain ni conveying nuances and language aspects fo ,lfuent facts can and use out and are<br>I | order way agreement various ,reasoning elaborate encouraging abstract discussion ro ni and fo the solution contributions ,summarising development the evaluating complex guide<br>.forward create linking their others ot ,topics ni a a ideas can for ot no fo<br>I |
-| --- | --- | --- |
-| 1C | check ifelds ni<br>I technical provided they ,texts ideas language -well clearly occasionally own not complex signiifcant ni ym lfuently convey<br>.concepts particular ,interest ro structured ot whether relate ,long can can the and fo<br>I | steer multiple order perspectives a have reporting that towards and ,summarising logical ,group acknowledge helping ,view and others ni different questions series fo contributions<br>.conclusion pu elaborating stimulate a discussion ,reasoning guiding tactfully fo weighing what no a different points asking<br>,said build open can no ot ni<br>I |
-| 2B | academic<br>.interest texts detailed fo contained signiifcant ,reliably ifelds dstructure-llew but and personal ,professional information convey complex arguments ym<br>)s(tniop the within can and .g.e ni<br>I | pose na considering ideas develop .opinions and expand other invite into ro fo fo thinking members and encourage sides lines them s’elpoep further ot from that participation their people different ,thinking coherent link their reactions questions<br>.issue other can clarify group can and no ask<br>I I |
-| 1B | personal<br>.interest are texts dstructure-llew given ni that informational fo subjects information convey current ro familiar<br>,clear can ro no<br>I | mutual has part fo can fo check appropriate have speciifc ro ot )s(nosaer ,contribute other contribute and ask deifne a task<br>.understanding conifrm someone back and understanding ot they no views the invite .expertise terms ot repeat concepts questions ask .made points elaborate their clarify people ot others ot basic help said what can can their can for ot ni<br>I I I |
-| 2A | no main fo<br>.language clearly ni are ,interest subjects texts involved ni the these simple convey expressed immediate provided everyday<br>)s(tniop simple<br>,short can<br>I | certain forward move from repetition provided I making what practical what a reformulation and collaborate fo discussion ot ni understanding think ask way suggestions make .time for ,responses suggestions ,think asking<br>,simple<br>.ideas people can simple ot ask others ,tasks and the can time can can ro ni<br>I I |
-| 1A | and and predictable given posters simple signs<br>.programmes information convey<br>,notices like ,short ,simple texts can ni<br>I | contributions and they ask idea that I ym simple idea<br>.think em whether and na conifrm show and simple other they understand simply express .understand ni na ot sngis/sdrow ,short invite others ot interest signals use .phrases s’elpoep what very can and can using can<br>I I I |
-| Mediation | text a<br>Mediating | Mediating concepts |
+| Level | Mediating a text | Mediating concepts | Mediating communication |
+| --- | --- | --- | --- |
+| A1 | I can convey simple, predictable information given in short, simple texts like signs and notices, posters and programmes. | I can invite other people’s contributions using short, simple phrases. I can use simple words/signs and signals to show my interest in an idea and to confirm that I understand. I can express an idea very simply and ask others whether they understand me and what they think. | I can facilitate communication by showing my welcome and interest with simple words/signs and non-verbal signals, by inviting others to contribute and indicating whether I understand. I can communicate other people’s personal details and very simple, predictable information, provided other people help me with formulation. |
+| A2 | I can convey the main point(s) involved in short, simple texts on everyday subjects of immediate interest, provided these are expressed clearly in simple language. | I can collaborate in simple, practical tasks, asking what others think, making suggestions and understanding responses, provided I can ask for repetition or reformulation from time to time. I can make suggestions in a simple way to move the discussion forward and can ask what people think of certain ideas. | I can contribute to communication by using simple words/signs to invite people to explain things, indicating when I understand and/or agree. I can communicate the main point of what is said in predictable, everyday situations about personal wants and needs. I can recognise when people disagree or when difficulties occur and can use simple phrases to seek compromise and agreement. |
+| B1 | I can convey information given in clear, well-structured informational texts on subjects that are familiar or of personal or current interest. | I can help define a task in basic terms and ask others to contribute their expertise. I can invite other people to contribute, to clarify the reason(s) for their views or to elaborate on specific points they have made. I can ask appropriate questions to check understanding of concepts and can repeat back part of what someone has said to confirm mutual understanding. | I can support a shared culture by introducing people, exchanging information about priorities, and making simple requests for confirmation and/or clarification. I can communicate the main sense of what is said on subjects of personal interest, provided speakers articulate clearly and I can pause to plan how to express things. |
+| B2 | I can convey detailed information and arguments reliably, e.g. the significant point(s) contained in complex but well-structured texts within my fields of professional, academic and personal interest. | I can encourage participation and pose questions that invite reactions from other group members or ask people to expand on their thinking and clarify their opinions. I can further develop other people’s ideas and link them into coherent lines of thinking, considering different sides of an issue. | I can encourage a shared culture by adapting the way I proceed, by expressing appreciation of different ideas, feelings and viewpoints, and by inviting participants to react to each other’s ideas. I can communicate the significance of important statements and viewpoints on subjects within my fields of interest, provided speakers give clarifications if needed. |
+| C1 | I can convey clearly and fluently in well-structured language the significant ideas in long, complex texts, whether or not they relate to my own fields of interest, provided I can occasionally check particular technical concepts. | I can acknowledge different perspectives in guiding a group, asking a series of open questions that build on different contributions in order to stimulate logical reasoning, reporting on what others have said, summarising, elaborating and weighing up multiple points of view, and tactfully helping steer discussion towards a conclusion. | I can mediate a shared culture by managing ambiguity, demonstrating sensitivity to different viewpoints and heading off misunderstandings. I can communicate significant information clearly, fluently and concisely, and explain cultural references. I can use persuasive language diplomatically. |
+| C2 | I can explain in clear, fluent, well-structured language the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm). | I can guide the development of ideas in a discussion of complex abstract topics, encouraging others to elaborate on their reasoning, summarising, evaluating and linking the various contributions in order to create agreement for a solution or way forward. | I can mediate effectively and naturally between members of my own and other communities, taking account of sociocultural and sociolinguistic differences and communicating finer shades of meaning. |
 
-## Mediation
 
-| 2C | ifner<br>.meaning and fo between communicating and sociolinguistic sociocultural account ,communities other fo ym and mediate fo differences and members naturally effectively shades taking own can<br>I |
-| --- | --- |
-| 1C | explain information shared persuasive .references and communicate .misunderstandings viewpoints managing<br>.diplomatically and lfuently heading off ot demonstrating communication mediate a language use ,concisely signiifcant different sensitivity ,ambiguity yb cultural ,clearly culture can can can and<br>I I I |
-| 2B | ot statements fi speakers ym no fo communicate s’rehto participants yb ,proceed adapting clariifcations<br>,interest within viewpoints signiifcance and ,ideas fo communication encourage expressing each ,viewpoints and appreciation important yb<br>.needed provided fo subjects ot inviting feelings different way I culture shared give ifelds and the can .ideas react the can yb<br>I a I |
-| 1B | how I the making introducing shared<br>.things plan and speakers ,interest subjects what communicate ro/dna for about exchanging clearly requests communication a ot personal sense fo .clariifcation conifrmation and information support express pause articulate provided no ,priorities yb said simple ,people culture main can can can ot fo si<br>I I |
-| 2A | the compromise and phrases ot use diiffculties disagree ro recognise when personal wants situations ,predictable what communicate ro/dna when I ,things people /words communication yb contribute ot can fo invite simple<br>.agreement .needs point understand seek simple occur and when people can and about everyday said ni main can .agree indicating explain signs ot using can si ot<br>I I I |
-| 1A | em provided .understand welcome<br>.formulation help ,simple details communicate contribute inviting labrev-non sngis/sdrow with communication yb people ,information predictable s’elpoep indicating interest ym facilitate yb very personal whether I ot showing others ,signals simple with other and other can and and and can<br>I I |
-| Mediation | communication<br>Mediating |
 <!-- el:end id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation -->
 
-Page **177**
+*Self-assessment grid (expanded with online interaction and mediation) ▶ Page **177***
 
 <!-- page:177 -->
+<!-- table-continuity: full multipage self-assessment grid lives on page 177 (table_self_assessment_grid_expanded_with_online_interaction_and_mediation); page-slice removed for single db:id grep -->
 
 *Page **178** ▶ **CEFR – Companion volume***
 
 <!-- page:178 -->
+<!-- table-continuity: full multipage self-assessment grid lives on page 177 (table_self_assessment_grid_expanded_with_online_interaction_and_mediation); page-slice removed for single db:id grep -->
 
 *Self-assessment grid (expanded with online interaction and mediation) ▶ Page **179***
 
 <!-- page:179 -->
+<!-- table-continuity: full multipage self-assessment grid lives on page 177 (table_self_assessment_grid_expanded_with_online_interaction_and_mediation); page-slice removed for single db:id grep -->
 
 *Page **180** ▶ **CEFR – Companion volume***
 
 <!-- page:180 -->
+<!-- table-continuity: full multipage self-assessment grid lives on page 177 (table_self_assessment_grid_expanded_with_online_interaction_and_mediation); page-slice removed for single db:id grep -->
 
 *Self-assessment grid (expanded with online interaction and mediation) ▶ Page **181***
 
@@ -4864,10 +5213,15 @@ Page **177**
 Page **182**
 
 <!-- page:182 -->
+<!-- el:start type=prose id=prose_appendix_3_header page=183 -->
+Appendix 3
 
-<!-- el:start type=artifact id=scale_phonology page=183 -->
-<!-- db:id=scale_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-185 -->
-### Phonology | scale_phonology
+**QUALITATIVE FEATURES OF SPOKEN LANGUAGE (EXPANDED WITH PHONOLOGY)**
+<!-- el:end id=prose_appendix_3_header -->
+
+<!-- el:start type=artifact id=table_qualitative_features_of_spoken_language_expanded_with_phonology alias=scale_phonology page=183 -->
+<!-- db:id=table_qualitative_features_of_spoken_language_expanded_with_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-185 -->
+### Qualitative features of spoken language (expanded with phonology) | table_qualitative_features_of_spoken_language_expanded_with_phonology
 
 | Level | Range | Accuracy | Fluency | Interaction | Coherence | Phonology |
 |-------|-------|----------|---------|-------------|-----------|-----------|
@@ -4877,15 +5231,33 @@ Page **182**
 | B1 | Has enough language to get by, with sufficient vocabulary to express themselves with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel and current events. | Uses reasonably accurately a repertoire of frequently used "routines" and patterns associated with more predictable situations. | Can keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production. | Can initiate, maintain and close simple face-to-face conversation on topics that are familiar or of personal interest. Can repeat part of what someone has said to confirm mutual understanding. | Can link a series of shorter, discrete simple elements into a connected, linear sequence of points. | Pronunciation is generally intelligible; can approximate intonation and stress at both utterance and word levels. However, accent is usually influenced by the other language(s) they speak. |
 | A2 | Uses basic sentence patterns with memorised phrases, groups of a few words/signs and formulae in order to communicate limited information in simple everyday situations. | Uses some simple structures correctly, but still systematically makes basic mistakes. | Can make themselves understood in very short utterances, even though pauses, false starts and reformulation are very evident. | Can ask and answer questions and respond to simple statements. Can indicate when they are following but is rarely able to understand enough to keep conversation going of their own accord. | Can link groups of words with simple connectors like "and", "but" and "because". | Pronunciation is generally clear enough to be understood, but conversational partners will need to ask for repetition from time to time. A strong influence from the other language(s) they speak on stress, rhythm and intonation may affect intelligibility, requiring collaboration from interlocutors. Nevertheless, pronunciation of familiar words is clear. |
 | A1 | Has a very basic repertoire of words/signs and simple phrases related to personal details and particular concrete situations. | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. | Can manage very short, isolated, mainly pre-packaged utterances, with much pausing to search for expressions, to articulate less familiar words, and to repair communication. | Can ask and answer questions about personal details. Can interact in a simple way but communication is totally dependent on repetition, rephrasing and repair. | Can link words/signs or groups of words/signs with very basic linear connectors like "and" or "then". | Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by interlocutors used to dealing with speakers of the language group concerned. Can reproduce correctly a limited range of sounds as well as stress on simple, familiar words and phrases. |
-<!-- el:end id=scale_phonology -->
+<!-- el:end id=table_qualitative_features_of_spoken_language_expanded_with_phonology -->
 
 Page **183**
 
 <!-- page:183 -->
+<!-- el:start type=prose id=prose_p184_restored page=184 -->
+<!-- table-continuity: full multipage table lives on page 183 (qualitative features of spoken language (Appendix 3)); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 184 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_184_scale_phonology.md -->
+
+<!-- el:end id=prose_p184_restored -->
 
 *Page **184** ▶ **CEFR – Companion volume***
 
 <!-- page:184 -->
+<!-- el:start type=prose id=prose_p185_restored page=185 -->
+<!-- table-continuity: full multipage table lives on page 183 (qualitative features of spoken language (Appendix 3)); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 185 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_185_scale_phonology.md -->
+
+<!-- el:end id=prose_p185_restored -->
 
 *Qualitative features of spoken language (expanded with phonology) ▶ Page **185***
 
@@ -4894,10 +5266,15 @@ Page **183**
 Page **186**
 
 <!-- page:186 -->
+<!-- el:start type=prose id=prose_appendix_4_header page=187 -->
+Appendix 4
 
-<!-- el:start type=artifact id=scale_argument page=187 -->
-<!-- db:id=scale_argument type=descriptor_scale product_tier=assessment_action,context pages=187-189 -->
-### Argument | scale_argument
+**WRITTEN ASSESSMENT GRID**
+<!-- el:end id=prose_appendix_4_header -->
+
+<!-- el:start type=artifact id=table_written_assessment_grid alias=scale_argument page=187 -->
+<!-- db:id=table_written_assessment_grid type=descriptor_scale product_tier=assessment_action,context pages=187-189 -->
+### Written assessment grid | table_written_assessment_grid
 
 | Level | Overall | Range | Coherence | Accuracy | Description | Argument |
 |-------|---------|-------|-----------|----------|-------------|----------|
@@ -4907,15 +5284,33 @@ Page **186**
 | B1 | Can write straightforward connected texts on a range of familiar subjects within their field of interest, by linking a series of shorter discrete elements into a linear sequence. The texts are understandable but occasional unclear expressions and/or inconsistencies may cause a break-up in reading. | Has enough language to get by, with sufficient vocabulary to express themselves with some circumlocutions on topics such as family, hobbies and interests, work, travel and current events. | Can link a series of shorter discrete elements into a connected, linear text. | Uses reasonably accurately a repertoire of frequently used "routines" and patterns associated with more common situations. Occasionally makes errors that the reader usually can interpret correctly on the basis of the context. | Can write accounts of experiences, describing feelings and reactions in simple connected text.<br>Can write a description of an event or recent trip – real or imagined.<br>Can narrate a story.<br>Can write straightforward, detailed descriptions on a range of familiar subjects within their field of interest. | Can write short, simple essays on topics of interest.<br>Can summarise, report and give their opinion on accumulated factual information on familiar routine and non-routine matters within their field, with some confidence.<br>Can write very brief reports in a standard conventionalised format, which pass on routine factual information and state reasons for actions. |
 | A2 | Can write a series of simple phrases and sentences linked with simple connectors like "and", "but" and "because". Longer texts may contain expressions and show coherence problems that make the text hard to understand. | Uses basic sentence patterns with memorised phrases, groups of a few words and formulae in order to communicate limited information, mainly in everyday situations. | Can link groups of words with simple connectors like "and", "but" and "because". | Uses simple structures correctly, but still systematically makes basic mistakes. Errors may sometimes cause misunderstandings. | Can write very short, basic descriptions of events, past activities and personal experiences.<br>Can write short, simple, imaginary biographies and simple poems about people. | |
 | A1 | Can write simple isolated phrases and sentences. Longer texts contain coherence problems that make the text very hard or impossible to understand. | Has a very basic repertoire of words and simple phrases related to personal details and particular concrete situations. | Can link words or groups of words with very basic linear connectors like "and" and "then". | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. Errors may cause misunderstandings. | Can write simple phrases and sentences about themselves and imaginary people, where they live and what they do, etc. | |
-<!-- el:end id=scale_argument -->
+<!-- el:end id=table_written_assessment_grid -->
 
 Page **187**
 
 <!-- page:187 -->
+<!-- el:start type=prose id=prose_p188_restored page=188 -->
+<!-- table-continuity: full multipage table lives on page 187 (written assessment grid (Appendix 4)); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 188 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_188_scale_argument.md -->
+
+<!-- el:end id=prose_p188_restored -->
 
 *Page **188** ▶ **CEFR – Companion volume***
 
 <!-- page:188 -->
+<!-- el:start type=prose id=prose_p189_restored page=189 -->
+<!-- table-continuity: full multipage table lives on page 187 (written assessment grid (Appendix 4)); mid-page slice removed to keep single db:id for grep -->
+
+
+<!-- book-qa restore: page 189 content was chrome-only; reconstructed from PDF + rotated_from_grok -->
+
+<!-- restored from rotated_from_grok/page_189_scale_argument.md -->
+
+<!-- el:end id=prose_p189_restored -->
 
 *Written assessment grid ▶ Page **189***
 
@@ -4924,22 +5319,33 @@ Page **187**
 Page **190**
 
 <!-- page:190 -->
+<!-- el:start type=prose id=prose_p191_appendix5_intro page=191 -->
+Appendix 5
 
-<!-- el:start type=prose id=prose_p191_s0 page=191 -->
-for the four domains set out in CEFR 2001 Section 4.1.1. These examples are intended to assist educators in selecting activities appropriate to their learners for each descriptor.
+**EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS OF ONLINE INTERACTION AND MEDIATION ACTIVITIES**
 
-The examples were validated in a series of distance workshops carried out during Phase 3 of the validation, from November to December 2015. **EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS  OF ONLINE INTERACTION AND MEDIATION ACTIVITIES** Appendix 5
-<!-- el:end id=prose_p191_s0 -->
+As an extra resource for users of the scales, the Authoring Group produced the following examples elaborating the descriptors for online interaction and mediation activities for the four domains set out in CEFR 2001 Section 4.1.1. These examples are intended to assist educators in selecting activities appropriate to their learners for each descriptor.
 
-<!-- el:start type=artifact id=scale_online_interaction page=191 -->
-<!-- db:id=scale_online_interaction type=descriptor_scale product_tier=detailed,context pages=191-241 -->
-### Online conversation and discussion | scale_online_interaction
+The examples were validated in a series of distance workshops carried out during Phase 3 of the validation, from November to December 2015.
+
+Domain examples use four columns that all fall under **Situation (and roles)** (CEFR 2001 Section 4.1.1): **Personal**, **Public**, **Occupational**, and **Educational**. Markdown cannot represent the PDF’s spanning header over those four columns, so that label is stated here once for the whole appendix rather than as a merged table cell. The four column headers are repeated on each scale table below.
+<!-- el:end id=prose_p191_appendix5_intro -->
+
+
+## Online interaction
+
+Online interaction is the first umbrella group in this appendix. It covers more than one illustrative scale: as the tables change, the **type of online interaction** changes (conversation and discussion → goal-oriented transactions and collaboration). Each table’s second column still names the scale; the headings between tables mark the shift.
+
+<!-- el:start type=artifact id=table_app5_online_conversation_and_discussion alias=scale_online_interaction page=191 -->
+<!-- db:id=table_app5_online_conversation_and_discussion type=descriptor_scale product_tier=detailed,context pages=191-195 -->
+### Online conversation and discussion | table_app5_online_conversation_and_discussion
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
+|-------|------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can express themselves with clarity and precision in real-time online discussion, adjusting language flexibly and sensitively to context, including emotional, allusive and joking usage.<br>Can anticipate and deal effectively with possible misunderstandings (including cultural ones), communication issues and emotional reactions in an online discussion.<br>Can easily and quickly adapt their register and style to suit different online environments, communication purposes and speech acts. | in an online political or philosophical discussion held by friends/enthusiasts such as an online book club forum | as a moderator or contributor in an online public policy forum | as a convenor for a union online forum and/or website | as a lead contributor in an online hang-out space for co-researchers at a university |
-| C1 | Can engage in real-time online exchanges with several participants, understanding the communicative intentions and cultural implications of the various contributions.<br>Can participate effectively in live, online professional or academic discussion, asking for and giving further clarification of complex, abstract issues as necessary. | in an online political or philosophical discussion held by friends/enthusiasts, such as an online book club forum | participating in a chat thread held as a follow-up to a public presentation | in an interdepartmental chat in a large corporation | as a student contributor to an open online course or forum |
-| | | | | in an online meeting to discuss long-term company strategy, or in an online professional development session for teachers | as a student contributor to an open online course or forum (e.g. a massive online open course – MOOC) |
+| C1 | Can engage in real-time online exchanges with several participants, understanding the communicative intentions and cultural implications of the various contributions.<br>Can participate effectively in live, online professional or academic discussion, asking for and giving further clarification of complex, abstract issues as necessary. | in an online political or philosophical discussion held by friends/enthusiasts, such as an online book club forum | participating in a chat thread held as a follow-up to a public presentation | in an interdepartmental chat in a large corporation;<br>in an online meeting to discuss long-term company strategy, or in an online professional development session for teachers | as a student contributor to an open online course or forum (e.g. a massive online open course – MOOC) |
 | C1 | Can adapt their register according to the context of online interaction, moving from one register to the other within the same exchange if necessary. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues | during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
 | | Can evaluate, restate and challenge arguments in professional or academic live online chat and discussion. | [not applicable] | in a special interest online forum evaluating content and issues | as a consultant participating in an online business or project meeting | participating in an online discussion forum for a college debating society |
 | B2+ | Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues<br>in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation<br>during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
@@ -4955,417 +5361,121 @@ The examples were validated in a series of distance workshops carried out during
 | A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. | making contact online with remote friends and/or family – also as a possible language classroom simulation | public postings to a festival/event website – also as a possible language classroom simulation | as a contributor to a simple departmental social feed – also as a possible language classroom simulation | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
 | | Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. | making contact online with remote friends and/or family – also as a possible language classroom simulation | | | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
 | Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
-| B2+ | Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task by reminding it of roles, responsibilities and deadlines in order to achieve established goals.<br>Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require negotiation of conditions and explanation of complicated details and special requirements. | [not applicable] | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
-| | Can deal with misunderstandings and unexpected problems that arise in online collaborative or transactional exchanges by responding politely and appropriately in order to help resolve the issue. | | reporting a public services issue online to the local council (e.g. a waste-collection issue) | in an online staff meeting on implementing new procedures | in a straightforward online collaborative activity at school/university |
-| B2 | Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks. | | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
-| B1+ | Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.<br>Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks. | | reporting a public services issue online to the local council (e.g. a waste-collection issue) | participating in a well-structured online seminar introducing new procedures | in a straightforward online collaborative activity at school/university |
-| B1 | Can engage in online collaborative or transactional exchanges that require simple clarification or explanation of relevant details, such as registering for a course, tour or event, or applying for membership. | | making a tour booking or enrolling in an association or event online | | |
-| | Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.<br>Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online. | | as a member of a community group organising environmental improvement | | |
-| A2+ | Can use formulaic language to respond to routine problems arising in online transactions (e.g. concerning availability of models and special offers, delivery dates, addresses).<br>Can interact online with a supportive partner in a simple collaborative task, responding to basic instructions and seeking clarification, provided there are visual aids such as images, statistics or graphs to clarify the concepts involved. | [not applicable] | ordering goods online with use of a chat window<br>assisting simple online planning and promotion of a public event such as a street party | completing simple interdepartmental orders and requests | enrolling in a course online<br>in a teacher-guided online collaborative activity at school |
-| A2 | Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.<br>Can ask basic questions about the availability of a product or feature. | | ordering goods online | | enrolling in a course online |
-| | Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor. | | [not applicable] | in completing a task over Skype with a colleague from another country | in a teacher-guided online collaborative activity at school |
-| A1 | Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number). | | ordering goods by completing a simple order form with familiar words and illustrations | completing a simple interdepartmental form with familiar words and illustrations | enrolling in a course online, but likely only as a language classroom simulation |
-| Pre-A1 | Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support. | | ordering goods by completing a simple tick-box order form with familiar words and illustrations | completing a simple interdepartmental tick-box form with familiar words and illustrations | |
-| C2 | No descriptors available: see C1 | | | | |
-| C1 | Can explain (in Language B) the relevance of specific information found in a particular section of a long, complex text (in Language A). | in an article, website, book or talk face-to-face or online concerning current affairs or an area of personal interest or concern | from presentations at public meetings, from public documents explaining policy changes, political speeches | a business report, article, regulation or workplace policy | an article, book, reference book or lecture/presentation |
-| B2+ | Can relay (in Language B) which presentations given (in Language A) at a conference, or which articles in a book (in Language A), are particularly relevant for a specific purpose. | web talk/self-help group explanations (e.g. how to repair your printer); articles related to a particular theme or current issue of interest | presentations at public meetings, from public documents explaining policy changes<br>a press conference, on various web talk sites, in relation to a particular issue | a trade fair, a professional conference, reports and newspaper articles in relation to a particular project | an academic conference, various web talk sites, from academic books and journals in relation to a particular project |
-| B2 | Can relay (in Language B) the main point(s) contained in formal correspondence and/or reports (in Language A) on general subjects and on subjects related to their fields of interest. | a notice, announcement, letter or e-mail outlining policies, regulations or procedures (e.g. related to housing, insurance, rent/mortgage, employment or health care) | a notice or announcement made by a public authority or facility like a library, swimming pool, etc. outlining regulations or procedures | a letter, e-mail or notice outlining why a meeting had to be cancelled, whether someone is for or against an idea and why, workplace policies or regulations | a letter, e-mail or notice outlining university policies, procedures or regulations |
-| B1 | Can relay (in Language B) the content of public announcements and messages delivered clearly at normal speed (in Language A). | on the radio or TV | in a station, airport, sports stadium, at political rallies/events, alerts, warnings or instructions that may be given at an accident site or construction zone | at a trade fair or conference, at a factory, warehouse, refinery, on a ship, during safety drills | during a university event/lecture, which may take place in a large auditorium |
-| | Can relay (in Language B) the contents of detailed instructions or directions, provided these are clearly articulated (in Language A). | on the radio or TV, from a passer-by (e.g. travel/route information), instructions from a friend over the phone on how to get to a party | instructions at airports, stations and on planes, buses and trains, or on how to use simple equipment such as a hotel safe, directions on how to get from X to Y, a travel itinerary | instructions given in a meeting on how to perform a work task, or operate simple equipment; instructions, particularly on safety procedures, given at a trade fair or conference, at a factory, warehouse, on a ship | academic regulations, policies/procedures, course/assignment requirements given by a professor/teacher; instructions on how to use simple research tools to complete a school task or on how to conduct a simple experiment |
-| | Can relay (in Language B) specific information given in straightforward informational texts (e.g. leaflets, brochure entries, notices and letters or e-mails) (in Language A). | leaflets, brochures, guidebooks, websites, details of a housing agreement | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, club/association rules, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, the terms of a commercial offer, equipment operational instructions, safety procedures | school policies and regulations, a course outline, steps involved in completing an assignment/school task, a list of assignments as well as relevant criteria, notices, exam regulations, conditions for participation in an exchange programme |
-| A2+ | Can relay (in Language B) the point made in a clear announcement (in Language A) concerning familiar everyday subjects, though they may have to simplify the message and search for words/signs. | on the TV or radio, announcements about weddings, births and changes to circumstances | weather reports, train platform changes, how to purchase tickets for an event | announcements about changes to job responsibilities, information about new workplace procedures | information about an upcoming test at school, such as when it is and what will be tested; details about an upcoming school trip |
-| | Can relay (in Language B) specific, relevant information contained in short, simple texts, labels and notices (in Language A) on familiar subjects. | news about the family from a personal letter or e-mail | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, safety procedures, location, date and time of a meeting stated in an e-mail/letter | news about school activities from a flyer or leaflet |
-| A2 | Can relay (in Language B) the point made in short, clear, simple messages, instructions and announcements, provided these are expressed slowly and clearly in simple language (in Language A). | announcements of personal interest such as weddings or births, changes to employment or living circumstances, simple messages left for family or housemates about meeting times or requests to complete tasks such as taking out the rubbish | at airports, stations and on planes, trains and buses about routes, times of arrival or departure, changes in platform or gate, weather forecasts | simple messages left by customers or colleagues for others, announcements about changes to job procedures | information about a school trip or exchange programme, messages about school opening/closing times in response to inclement weather, information about class tasks or homework |
-| | Can relay (in Language B) in a simple way a series of short, simple instructions, provided the original speech (in Language A) is clearly and slowly articulated. | a recipe, how to use a basic household appliance, how to assemble a piece of furniture | how to get from X to Y, directions provided by a traffic or parking official | how to operate office equipment such as changing the toner on a photocopier or downloading software | instructions concerning a homework assignment, or a simple experiment |
-| A1 | Can relay (in Language B) simple, predictable information about times and places given in short, simple statements (delivered in Language A). | TV schedule announcements about upcoming programmes of interest | the location and starting time of an event/performance, travel itineraries | the location and starting/finishing time of a meeting; information about work hours, breaks, the location of toilets, drink machines | the location and time of a school excursion or after-school activity, the location of the canteen, toilets and water fountains |
-| | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly. | restaurant reservations, dinner invitations including date and time | notices on bulletin boards/walls about when a store opens/closes, location of toilets | a meeting location and time from an e-mail | school timetable, the meeting location for a school trip |
-| Pre-A1 | Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
-| C2 | No descriptors available: see B2+ | | | | |
-| C1 | No descriptors available: see B2+ | | | | |
-| B2+ | Can relay in writing (in Language B) which presentations at a conference (given in Language A) were relevant, pointing out which would be worth detailed consideration. | [not applicable] | from a press conference, on various web talk sites, in relation to a particular issue | from a trade fair, a professional conference, in relation to a particular project | from an academic conference, on various web talk sites, in relation to a particular project |
-| | Can relay in writing (in Language B) the relevant point(s) contained in propositionally complex but well-structured texts (in Language A) within their fields of professional, academic and personal interest. | | public regulations such as housing or tax laws, a notice or announcement made by a public authority | from a business report, regulation or workplace policy | information from an article, website, notes taken from a lecture, or a presentation delivered by a university professor |
-| | Can relay in writing (in Language B) the relevant point(s) contained in an article (in Language A) from an academic or professional journal. | | in relation to a particular issue that is the subject of a community meeting | from a report, business article | information from an article, book or journal for a classmate or a professor |
-| B2 | Can relay in a written report (in Language B) relevant decisions that were taken in a meeting (in Language A). | | from a club | from a business meeting | from a meeting of student representatives |
-| | Can relay in writing (in Language B) the significant point(s) contained in formal correspondence (in Language A). | a rental agreement or insurance policy for a friend or family member | terms and conditions for a trip or service | in a circular sent to employees, in a letter from a partner giving notice or stating new conditions; in a complaint | in a circular sent by a school principal to parents; in a reply from an organisation to a request for information sent during a project |
-| B1 | Can relay in writing (in Language B) specific information points contained in texts delivered in Language A on familiar subjects (e.g. calls, announcements and instructions). | a short message, an e-mail to a friend mentioning the reason they will be late | a notice or announcement made by a public authority | customer orders, queries or complaints, changes to work schedule or procedures, how to operate office equipment | changes to school opening/closing times as a result of inclement weather, changes to class location or meeting place for a class trip |
-| | Can relay in writing (in Language B) specific, relevant information contained in straightforward informational texts (in Language A) on familiar subjects. | instructions on how to use household appliances taken from a manual, messages for family or housemates sent in an e-mail, information e-mailed about when and where to meet a friend/family member | from e-mails, letters about events or schedules | quantities and delivery times from an e-mailed order, tasks and deadlines for the person concerned from the minutes to a meeting, relevant steps in simple user instructions for a piece of equipment | e-mail instructions about a school trip, a task assignment or details of course requirements taken from a course syllabus |
-| | Can relay in writing (in Language B) specific information given in a straightforward recorded message (left in Language A), provided the topics concerned are familiar and the delivery is slow and clear. | a message about the time and place of a meeting, a request to complete a household task such as preparing a meal or taking out the rubbish | queue at the embassy, answering machine: request for call back from an administration or public office, bank | simple customer orders, queries or complaints, telephone message for a colleague, changes to work procedures | about school timetables or schedule changes |
-| A2+ | Can relay in writing (in Language B) specific information contained in short, simple informational texts (in Language A), provided the texts concern concrete, familiar subjects and are composed in simple everyday language. | from newspapers, instructions on appliances or medicine | brochures, websites, adverts, posters, schedules | about a work task, instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | about a school task, test or homework assignment found in a course syllabus, how to do a simple experiment in a science class from a handout, about a museum visit or other school trip described in a leaflet |
-| A2 | Can list (in Language B) the main points of short, clear, simple messages and announcements (given in Language A), provided they are clearly and slowly articulated. | simple telephone messages for family or housemates, announcements of personal interest for family or friends | directions on how to get from X to Y, which train platform or flight gate and at what time, about a train or flight delay | telephone message for a colleague, changes to work procedures | school timetables, schedules or openings/closings, task roles as part of a group assignment, homework assigned |
-| | Can list (in Language B) specific information contained in simple texts (in Language A) on everyday subjects of immediate interest or need. | household manuals, instructions on how to prepare a meal | advertisements, prospectuses, brochures, leaflets, travel itineraries, timetables, directions | manual instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | textbooks, class readings, about a school task, test or homework assignment, how to do a simple experiment in a science class, about a museum visit or other school trip |
-| A1 | Can list (in Language B) names, numbers, prices and very simple information of immediate interest in oral texts (in Language A), provided the articulation is very slow and clear, with repetition. | from a TV channel repeatedly demonstrating products | announcements about when a store opens/closes | a short, simple telephone message for a colleague | a simple, short telephone message about a change to a timetable, schedule or meeting point |
-| Pre-A1 | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information, schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
-| C2 | Can interpret and describe clearly and reliably (in Language B) various forms of empirical data and visually organised information (with text in Language A) from conceptually complex research concerning academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visual data from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | diagrams/visual data from published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
-| C1 | Can interpret and describe clearly and reliably (in Language B) the salient points and details contained in complex diagrams and other visually organised information (with text in Language A) on complex academic or professional topics. | | | | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
-| B2 | Can interpret and describe reliably (in Language B) detailed information contained in complex diagrams, charts and other visually organised information (with text in Language A) on topics in their fields of interest. | a diagram in an article of personal interest; a process diagram for a household device or piece of leisure software, explained to a friend or family member | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting | graphs, charts and tables referenced in employee training or company reports | graphs, bar charts or diagrams in a formal class presentation, at secondary school/college/university |
-| B1+ | Can interpret and describe (in Language B) detailed information in diagrams in their fields of interest (with text in Language A), even though lexical gaps may cause hesitation or imprecise formulation. | | | | |
-| B1 | Can interpret and describe (in Language B) overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), even though lexical limitations cause difficulty with formulation at times. | trends represented in household bills or personal finances, explained to a friend or family member | weather report (statistics and trends) when determining the best dates for a community event, basic financial trends presented during a community/club meeting, diagrammatic displays in a science museum | trends represented in a graph or bar chart during a business meeting or responsibilities represented in a company organogram used for employee training | general trends found in graphs, bar charts or diagrams, used in pair or group work at secondary school/college/university |
-| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
-| A2 | No descriptors available | | | | |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C1 | Can interpret and present clearly and reliably in writing (in Language B) the salient, relevant points contained in complex diagrams and other visually organised data (with text in Language A) on complex academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
-| B2 | Can interpret and present reliably in writing (in Language B) detailed information from diagrams and visually organised data in their fields of interest (with text in Language A). | instructions and diagram left for a house-sitter to operate a complex appliance | health and safety procedures (e.g. at a hospital, factory, library) | an internal (company) report/memo on the significant points contained in a visual attachment such as a graph, bar chart or numeric table | written assignment accompanying technical visual information provided for a school/university project |
-| B1+ | Can interpret and present in writing (in Language B) the overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), explaining the important points in more detail, given the help of a dictionary or other reference materials. | trends represented in household bills or personal finances, for family members | simple weather data or basic financial data posted as part of an online discussion for a community/club event | an e-mail describing the main features of a visual attachment such as a graph or bar chart | a simple class assignment summarising a survey or demographic data |
-| B1 | Can describe in simple sentences (in Language B) the main facts shown in visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A). | an e-mail giving simple local directions represented on a map | simple demographic information or trends posted in an online community/club discussion forum | instructions for a simple office procedure represented in a flow chart | a simple written narrative accompanying a picture or pictures as a classroom assignment |
-| A2 | No descriptors available | | | | |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can explain (in Language B) inferences when links or implications are not made explicit (in Language A), and point out the sociocultural implications of the form of expression (e.g. understatement, irony, sarcasm). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-| | Can summarise (in Language B) long, demanding texts (in Language A). | current affairs programmes, articles in a magazine or newspaper | a forum discussion involving several participants, political speeches, sermons, opinions and documents | a presentation at a conference, seminar or meeting, a report, contract, regulations | a web talk, a lecture at an academic conference or seminar, academic articles and books |
-| C1 | Can summarise (in Language B) discussion (in Language A) on matters within their academic or professional competence, elaborating and weighing up different points of view and identifying the most significant points. | discussions, current affairs programmes | a forum discussion involving several participants | a meeting or seminar | a forum discussion, round table or colloquium involving several participants |
-| | Can summarise clearly in well-structured language (in Language B) the main points made in complex texts (in Language A) in fields of specialisation other than their own, although they may occasionally check particular technical concepts. | newspaper editorials and commentaries, TV news and current affairs programmes | laws, public legal documents, regulations, presentations, speeches, sermons | a technical report addressed to a specialised audience, a business letter, a contract, a regulation, conference presentations | instructional material, a textbook, a reader, a dictionary, papers in academic journals, lectures, conference presentations and discussions, web talks |
-| | Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-| C1 | Can exploit information and arguments from a complex text (in Language A) to discuss a topic (in Language B), glossing with evaluative comments, adding their opinion, etc. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | a political tract, a public policy document; a forum discussion, presentation, a political speech, sermon | technical reports, professional articles, specifications, contracts | instructional material, a textbook, a reader, a paper in an academic journal, lectures, conference presentations and discussions, web talks |
-| | Can explain (in Language B) the attitude or opinion expressed in a source text (in Language A) on a specialised topic, supporting inferences they make with reference to specific passages in the original. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | | | |
-| B2+ | Can summarise clearly in well-structured language (in Language B) the information and arguments contained in complex texts (in Language A) on a wide range of subjects related to their fields of interest and specialisation. | | presentations, (political) speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
-| | Can summarise (in Language B) the main points of complex discussions (in Language A), weighing up the different points of view presented. | a discussion on family occasions, TV news and current affairs programmes, talk shows | a formal discussion between several participants | in meetings, briefing or orientation sessions | a panel at an academic conference involving several speakers |
-| B2 | Can synthesise and report (in Language B) information and arguments from a number of sources (in Language A). | on current affairs: web talks or interviews, TV news and analysis, documentaries, articles | at a town hall or political meeting: news items, interviews or documentaries on the issue at hand | in a report, at a meeting: media coverage of a company/government announcement/policy | when undertaking a project: web talks, lectures, vox pop interviews, surveys, blogs, documentaries |
-| B2 | Can summarise (in Language B) a wide range of factual and imaginative texts (in Language A), commenting on and discussing contrasting points of view and the main themes. | books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | a political tract, a public policy document, a novel, short story | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books, novels, short stories |
-| | Can summarise (in Language B) the important points made in longer, complex texts (in Language A) on subjects of current interest, including their fields of special interest. | | a political tract, a public policy document | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books |
-| | Can recognise the intended audience of a text (in Language A) on a topic of interest and explain (in Language B) the purpose, attitudes and opinion of the author. | from websites, current affairs programmes, documentaries, newspaper articles and editorials | in interviews, announcements, policy statements | presentations at conferences, reports, specialised articles | talks by visiting speakers, websites and web talks, documentaries, articles |
-| | Can summarise (in Language B) extracts from news items, interviews or documentaries containing opinions, arguments and discussions (in Language A). | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | in team or strategy meetings | as part of a group project |
-| | Can summarise (in Language B) the plot and sequence of events in a film or play (in Language A). | in an informal discussion with friends | [not applicable] | [not applicable] | in a lesson, as part of a project |
-| B1+ | Can summarise (in Language B) the main points made in long texts (in Language A) on topics in their fields of interest, provided they can check the meaning of certain expressions. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
-| | Can summarise (in Language B) a short narrative or article, talk, discussion, interview or documentary (in Language A) and answer further questions about details. | discussions with friends, documentaries, short narratives, articles in newspaper or magazines | a talk at a public meeting, an interview, public notices | presentations or discussions at conferences, seminars or meetings, newspaper articles | web talks, documentaries and discussions, articles of academic relevance, short narratives |
-| | Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else. | informal discussions, prospectuses, advertisements, programmes in theatres, song lyrics | public notices and announcements, notes from meetings, relevant reports in newspapers and magazines | reports, meetings, letters and e-mails, notes from meetings, press coverage | web talks, instructions for carrying out tasks, articles on related topic |
-| B1 | Can summarise (in Language B) the main points made in clear, well-structured texts (in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | personal letters, short articles, brochures, advertisements | short articles, short official letters, public statements and notices, regulations, leaflets, event programmes | presentations and demonstrations, reports, business letters | talks by visiting speakers, web talks, descriptions, narratives, textbook entries, websites, news summaries, short articles |
-| | Can summarise simply (in Language B) the main information content of straightforward texts (in Language A) on familiar subjects (e.g. a short record of an interview, magazine article, travel brochure). | a short written interview or magazine article, a travel brochure, letters, e-mails, newspaper news summaries | | reports, business letters and e-mails | descriptions, textbook narratives, websites, news summaries, short articles |
-| | Can summarise (in Language B) the main points made during a conversation (in Language A) on a subject of personal or current interest, provided people articulated clearly. | a conversation exchanging news and talking about plans, news exchanged at a wedding | points made in informal conversation with a public official | a consultation with an expert, an auditor, a consultant | what an authority consulted said in relation to a request, what a person interviewed for a project said |
-| | Can summarise (in Language B) the main points made in long texts delivered orally (in Language A) on topics in their fields of interest, provided they can listen or view several times. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, a round-table discussion, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
-| | Can summarise (in Language B) the main points or events in TV programmes and video clips (in Language A), provided they can view them several times. | a scene in a film, novella or sitcom | a current affairs programme on the subject of a public meeting | a news extract, interview or public statement relevant to the institution | a scene in a documentary, an interview |
-| A2+ | Can report (in Language B) the main points made in simple TV or radio news items (in Language A) reporting events, sports, accidents, etc., provided the topics concerned are familiar and the delivery is slow and clear. | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | [not applicable] | as part of a project involving collecting information from media sources |
-| A2+ | Can report in simple sentences (in Language B) the information contained in clearly structured, short, simple texts (in Language A) that have illustrations or tables. | "who, when, where" information in a news item | options for a concert or sport event, information in notices and posters, timetables, graffiti, programmes, tickets | the details of a work schedule | an illustrated story, a simple informational text about a country, with tables of information |
-| | Can summarise (in Language B) the main point(s) in simple, short informational texts (in Language A) on familiar topics. | "who, when, where" information in a news item, website/brochures, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | reports of annual financial performance | details of tasks and assignments, descriptions of courses or examinations |
-| A2 | Can convey (in Language B) the main point(s) contained in clearly structured, short, simple texts (in Language A), supplementing their limited repertoire with other means (e.g. gestures, drawings, words/signs from other languages) in order to do so. | weather reports, very simple assembly instructions | information about times and costs of transport, availability of services | [not applicable] | weather reports, short illustrated descriptions of places, very simple picture stories |
-| A1 | Can convey (in Language B) simple, predictable information given in short, very simple signs and notices, posters and programmes (in Language A). | notes on teenagers' doors, information pinned to the fridge, e.g. whose turn it is to cook/clean/wash up | signs and notices giving directions, posters and programmes announcing and giving times of events | signs and notices giving locations and/or warnings, notices with schedules | class lists, information on events in the social programme |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can explain in writing (in Language B) the way facts and arguments are presented in a text (in Language A), particularly when someone else's position is being reported, drawing attention to the use of understatement, veiled criticism, irony and sarcasm.<br>Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result. | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-| C1 | Can summarise in writing (in Language B) long, complex texts (in Language A), interpreting the content appropriately, provided they can occasionally check the precise meaning of unusual, technical terms. | | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference, business proposals | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals |
-| | Can summarise in writing a long and complex text (in Language A) (e.g. an academic article, article providing political analysis, novel extract, editorial, literary review, report or extract from a scientific book) for a specific audience, respecting the style and register of the original. | | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-| B2+ | Can summarise in writing (in Language B) the main content of well-structured but propositionally complex texts (in Language A) on subjects within their fields of professional, academic and personal interest. | a discussion on family occasions, TV news and current affairs programmes, talk shows | presentations, speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
-| | Can compare, contrast and synthesise in writing (in Language B) the information and viewpoints contained in academic and professional publications (in Language A) in their fields of special interest. | [not applicable] | public policy documents | professional journals and newspapers, policy documents, technical reports | academic articles, reviews, books |
-| B2 | Can explain in writing (in Language B) the viewpoint articulated in a complex text (in Language A), supporting inferences they make with reference to specific information in the original.<br>Can summarise in writing (in Language B) the main content of complex texts (in Language A) on subjects related to their fields of interest and specialisation. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
-| B1+ | Can summarise in writing (in Language B) the information and arguments contained in texts (in Language A) on subjects of general or personal interest. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
-| B1 | Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated. | a telephone call, a web talk, news bulletins, documentaries, personal letters, informational brochures, short articles | a presentation at a public meeting, public statements or notices | a video-recorded presentation at a meeting, a briefing session for a task, reports and business letters | an orientation session, instructions for an assignment, a talk by a visiting speaker, narratives and short articles |
-| B1 | Can paraphrase short passages in a simple fashion, using the original text wording and ordering. | personal letters, short articles, brochures, advertisements, website texts | short official letters, public statements and notices, regulations, leaflets providing information about changes to services, event programmes | reports, business letters | narratives, textbook entries, websites, news summaries, short articles |
-| A2+ | Can list as a series of bullet points (in Language B) the relevant information contained in short simple texts (in Language A), provided the texts concern concrete, familiar subjects and contain only simple everyday language.<br>Can pick out and reproduce key words and phrases or short sentences from a short text within the learner's limited competence and experience. | "who, when, where" information in a news item, website/brochure descriptions, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | notices, regulations, instructions for a task | details of tasks and assignments, descriptions of courses or examinations, textbook extracts |
-| A2 | Can use simple language to convey (in Language B) the main point(s) contained in very short texts (in Language A) on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the text remains comprehensible.<br>Can copy out short texts in printed or clearly handwritten format. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner on a printer | simple, short narratives, general academic regulations such as for an exam |
-| A1 | Can, with the help of a dictionary, convey (in Language B) the meaning of simple phrases (in Language A) on familiar and everyday themes.<br>Can copy out single words and short texts presented in standard printed format. | | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can provide fluent oral translation (into Language B) of abstract texts (written in Language A) on a wide range of subjects of personal, academic and professional interest, successfully conveying evaluative aspects and arguments, including the nuances and implications associated with them. | specialised magazine articles and reports on matters of personal interest | public policy document, declarations, rules or regulations | professional publications, technical reports, contracts, press releases | academic projects and related documents |
-| C1 | Can provide fluent oral translation (into Language B) of complex written texts (written in Language A) on a wide range of general and specialised topics, capturing most nuances. | | | | |
-| B2+ | Can provide oral translation (into Language B) of complex texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest. | newspaper or magazine articles on current issues of personal interest | texts accompanying artworks at a museum or exhibition, municipal regulations such as recycling, parking, etc. | technical reports related to their profession | academic articles and reports, regulations |
-| B1+ | Can provide oral translation (into Language B) of texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest, provided they are written in uncomplicated, standard language. | | | | |
-| B1 | Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | e-mails or letters with news from friends/relatives | simple reports such as a witness statement to an accident | a CV and presentation letter from a job or internship applicant | brochure(s) describing extracurricular activities available, including conditions |
-| | | | notices about changes to public services such as parking regulations or rubbish collection | an extended CV and presentation letter from a job or internship applicant | |
-| A2+ | Can provide an approximate oral translation (into Language B) of short, simple everyday texts (e.g. brochure entries, notices, instructions, letters or e-mails) (written in Language A). | | | | |
-| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
-| | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
-| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
-| Pre-A1 | No descriptors available | | | | |
-| C1 | Can translate (into Language B) abstract texts on social, academic and professional subjects in their field (written in Language A), successfully conveying evaluative aspects and arguments, including many of the implications associated with them, though some expression may be over-influenced by the original. | letters, articles in a magazine or newspaper, short stories | speeches, sermons, policy documents | scientific, technical, financial or project reports, regulations, articles and other professional publications | academic papers and books, literary criticism |
-| B2+ | Can produce clearly organised translations (from Language A into Language B) that reflect normal language usage but may be over-influenced by the order, paragraphing, punctuation and particular formulations of the original. | letters, articles in a magazine or newspaper, some colloquial writings | | | academic papers and books, novels, short stories, plays |
-| B2 | Can produce translations (into Language B) that closely follow the sentence and paragraph structure of the original text (in Language A), conveying the main points of the source text accurately, though the translation may read awkwardly. | letters with news, articles of general interest | public documents describing general regulations, guidebook entries, statements of opinion | straightforward letters, instructions, reports on subjects in their field | straightforward narratives, general academic regulations |
-| B1+ | Can produce approximate translations (from Language A into Language B) of straightforward, factual texts that are written in uncomplicated, standard language, closely following the structure of the original, although linguistic errors may occur; the translation remains comprehensible. | | | straightforward letters, instructions, reports on subjects in their field | general academic regulations |
-| B1 | Can produce approximate translations (from Language A into Language B) of information contained in short, factual texts written in uncomplicated, standard language; despite errors, the translation remains comprehensible. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner in a printer | simple, short narratives, general academic regulations such as for an exam |
-| A2 | Can use simple language to provide an approximate translation (from Language A into Language B) of very short texts on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the translation remains comprehensible. | | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
-| A1 | Can, with the help of a dictionary, translate simple words/signs and phrases (from Language A into Language B), but may not always select the appropriate meaning. | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can, while continuing to participate in a meeting or seminar, create reliable notes (or minutes) for people who are not present, even when the subject matter is complex and/or unfamiliar. | [not applicable] | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting or a training seminar | in a seminar or discussion forum |
-| | Is aware of the implications and allusions of what is said and can take notes on them as well as on the actual words used.<br>Can take notes selectively, paraphrasing and abbreviating successfully to capture abstract concepts and relationships between ideas. | | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
-| C1 | Can take detailed notes during a lecture on topics in their field of interest, recording the information so accurately and so closely to the original that the notes could also be useful to other people. | | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
-| | Can make decisions about what to note down and what to omit as the lecture or seminar proceeds, even on unfamiliar matters. | | at a public meeting, at a committee/club/association meeting, during a seminar or lecture on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
-| | Can select relevant, detailed information and arguments on complex, abstract topics from multiple oral sources (e.g. lectures, podcasts, formal discussions and debates, interviews), provided the delivery is at normal speed. | in researching a topic of personal interest | in researching an area for an association, pressure group, political party, etc. | in researching an area for a report or presentation | in researching an area for a paper or seminar presentation |
-| B2 | Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike them as important, even though they tend to concentrate on the actual formulation and therefore to miss some information. | [not applicable] | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
-| | Can take accurate notes in meetings and seminars on most matters likely to arise within their field of interest. | | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, a training seminar | in a seminar or discussion forum |
-| B1+ | Can take notes during a lecture which are precise enough for their own use at a later date, provided the topic is within their field of interest and the lecture is clear and well structured. | | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
-| B1 | Can take notes as a list of key points during a straightforward lecture, provided the topic is familiar, and the lecture is both formulated in simple language and articulated clearly. | | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
-| | Can note down routine instructions in a meeting on a familiar subject, provided these are formulated in simple language and they are given sufficient time to do so. | | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at an internal meeting or a training seminar | in a seminar or discussion forum |
-| A2 | Can take simple notes at a presentation/demonstration where the subject matter is familiar and predictable and the presenter allows for clarification and note-taking. | | at a fair/shopping centre demonstration of a new product of interest | at a professional conference, fair or training seminar | [not applicable] |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | No descriptors available: see C1 | | | | |
-| C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a novel, short story, play, poem, read or studied as a member of a cultural circle organised by a cultural institute or club | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
-| | Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. | a novel or short story just read, a play, film or musical just seen – in discussion with friends | a film or other cultural/artistic artefact at a screening or exhibition organised by a cultural institute or club | [not applicable] | |
-| B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments.<br>Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other literary work studied in class |
-| | Can describe their emotional response to a work and elaborate on the way in which it has evoked this response.<br>Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. | | | [not applicable] | |
-| B1 | Can explain why certain parts or aspects of a work especially interested them.<br>Can explain in some detail which character they most identified with and why.<br>Can relate events in a story, film or play to similar events they have experienced or heard about.<br>Can relate the emotions experienced by a character to emotions they have experienced.<br>Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why.<br>Can explain briefly the feelings and opinions that a work provoked in them.<br>Can describe the personality of a character.<br>Can describe a character’s feelings and explain the reasons for them. | a simpler short story or novel just read, a film, musical or other show just seen – with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of/references to heritage literature (e.g. Cervantes, Shakespeare) studied at school or works of well-known film stars | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework, a video story watched in class |
-| A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language.<br>Can state in simple language which aspects of a work especially interested them.<br>Can state whether they liked a work or not and explain why in simple language. | [not applicable] | [not applicable] | [not applicable] | a simple story, fairy/folk tale or poem read in class |
-| A1 | Can use simple words/signs to state how a work made them feel. | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.<br>Can recognise the finer subtleties of nuanced language, rhetorical effect, and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.<br>Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.<br>Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. | [not applicable] | in writing a review of a novel, film, writer’s or artist’s life work for the journal or blog of a cultural circle organised by a cultural institute or club | [not applicable] | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
-| C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres.<br>Can evaluate the extent to which a work follows the conventions of its genre.<br>Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). | | | | |
-| B2 | Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.<br>Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.<br>Can evaluate the way the work encourages identification with characters, giving examples.<br>Can describe the way in which different works differ in their treatment of the same theme. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | | a novel, poem, play, short story or other literary work studied in class |
-| B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | [not applicable] | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework |
-| | Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. | [not applicable] | [not applicable] | | |
-| A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. | | | | a simple story, fairy/folk tale or poem read in class |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | No descriptors available: see C1 | | | | |
-| C1 | Can show sensitivity to different perspectives within a group, acknowledging contributions and formulating any reservations, disagreements or criticisms in such a way as to avoid or minimise any offence.<br>Can develop the interaction and tactfully help steer it towards a conclusion. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a member/chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
-| B2+ | Can, based on people’s reactions, adjust the way they formulate questions and/or intervene in a group interaction.<br>Can act as rapporteur in a group discussion, noting ideas and decisions, discussing these with the group and later giving a summary of the group’s view(s) in a plenary. | | | | during a collaborative task in a class at school/university; in community-of-practice work for teacher development |
-| B2 | Can ask questions to stimulate discussion on how to organise collaborative work.<br>Can help define goals for teamwork and compare options for how to achieve them.<br>Can refocus a discussion by suggesting what to consider next, and how to proceed. | during an exchange with friends, family members, colleagues met in informal circumstances to choose between possible solutions to a problem | at community meetings dealing with a specific issue, with visual support | | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
-| B1+ | Can collaborate on a shared task, e.g. formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches.<br>Can collaborate in simple, shared tasks and work towards a common goal in a group by asking and answering straightforward questions.<br>Can define the task in basic terms in a discussion and ask others to contribute their expertise and experience. | | at a community meeting dealing with a straightforward issue, with visual support | during a relatively straightforward business transaction; during committee meetings between colleagues | |
-| B1 | Can invite other people in a group to contribute their views. | during a short exchange with friends, family members, colleagues met in informal circumstances for instance to ask for advice before choosing among possible solutions to a problem | at a community meeting dealing with a straightforward issue, with visual support | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during committee meetings | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
-| A2+ | Can collaborate in simple, shared tasks, provided other participants articulate slowly and one or more people help them contribute and express their suggestions. | during a short exchange with friends, family members | [not applicable] | during a straightforward business transaction | during a simple collaborative task in a class at school/university |
-| A2 | Can collaborate in simple, practical tasks, asking what others think, making suggestions and understanding responses, provided they can ask for repetition or reformulation from time to time. | | | | |
-| A1 | Can invite others’ contributions to very simple tasks using short, simple phrases prepared in advance. Can indicate that they understand and ask whether others understand. | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can summarise, evaluate and link the various contributions in order to facilitate agreement on a solution or a way forward. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/moderator of a group during focus group meetings; during a business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
-| C1 | Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, summarising, elaborating and weighing up multiple points of view. | | at community meetings dealing with a specific issue, with visual support | | |
-| | Can evaluate problems, challenges and proposals in a collaborative discussion in order to decide on the way forward.<br>Can highlight inconsistencies in thinking, and challenge others’ ideas in the process of trying to reach a consensus. | | | | in completing a group problem-solving task or project or in a class debate |
-| B2+ | Can highlight the main issue that needs to be resolved in a complex task and the important aspects that need to be taken into account. | in helping a friend plan how to resolve a financial or family problem, when planning a family event, e.g. a wedding or anniversary party | as a member/chair/moderator of a planning meeting for a (political) campaign or project and/or an event set up by a club | as a chair/member of a strategy meeting or project-planning meeting | when organising a group assignment such as writing a collective review or designing a research project, in planning an exchange visit or project |
-| | Can contribute to collaborative decision making and problem solving, expressing and co-developing ideas, explaining details and making suggestions for future action.<br>Can help organise the discussion in a group by reporting what others have said, summarising, elaborating and weighing up different points of view. | when planning a complicated outing, holiday or project with family and friends | | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | when planning, with classmates/colleagues, a group assignment or project, an educational outing or exchange visit |
-| B2 | Can further develop other people’s ideas and opinions. | a conversation with family or friends to plan a themed or staged social event such as a (surprise) party | as a member of a club in a community meeting to organise a public event | | in completing a group problem-solving task or project, or in a class debate; in community-of-practice work for teacher development |
-| | Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, a house renovation | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | | |
-| B2 | Can consider two different sides of an issue, giving arguments for and against, and propose a solution or compromise. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, during a house renovation, or during a domestic dispute between housemates | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project or in a class debate; in community-of-practice work for teacher development |
-| B1+ | Can organise the work in a straightforward collaborative task by stating the aim and explaining in a simple manner the main issue that needs to be resolved.<br>Can use questions, comments and simple reformulations to maintain the focus of a discussion. | in a discussion with flatmates or friends about how to reorganise arrangements in an apartment, how to repair something, how to organise an event | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | at a project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project, or in a class debate |
-| B1 | Can ask a group member to give the reason(s) for their views.<br>Can repeat part of what someone has said to confirm mutual understanding and help keep the development of ideas on course. | | | | |
-| A2+ | Can ensure that the person they are addressing understands what they mean by asking appropriate questions. | in a discussion of options for an evening out, when organising a party or when deciding on house rules | [not applicable] | during collaborative work on a project | in completing a group problem-solving task or project |
-| A2 | Can make simple remarks and pose occasional questions to indicate that they are following.<br>Can make suggestions in a simple way. | | | | |
-| A1 | Can express an idea and ask what others think, using very simple words/signs and phrases, provided they can prepare in advance. | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can take on different roles according to the needs of the participants and requirements of the activity (resource person, mediator, supervisor, etc.) and provide appropriate individualised support. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation meetings/sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
-| | Can recognise undercurrents in interaction and take appropriate steps to guide the direction of discussion. | during a short exchange with friends, family members met in informal circumstances | | | |
-| C1 | Can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases. | [not applicable] | | | |
-| | Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. | | | at a meeting on procedures, during collaborative work on a project | |
-| B2+ | Can organise and manage collaborative group work efficiently. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
-| | Can monitor individual and group work non-intrusively, intervening to set a group back on task or to ensure even participation. | | | at a meeting on procedures, during collaborative work on a project | |
-| | Can intervene supportively in order to focus people’s attention on aspects of the task by asking targeted questions and inviting suggestions. | | | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | |
-| B2 | Can explain the different roles of participants in the collaborative process, giving clear instructions for group work.<br>Can explain ground rules of collaborative discussion in small groups that involves problem solving or the evaluation of alternative proposals. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | as a chair/member of a group during focus group meetings; during committee meetings | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
-| B1+ | Can intervene when necessary to set a group back on task with new instructions or to encourage more even participation. | | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project | during a clearly structured collaborative activity at school/university |
-| B1 | Can allocate turns in a discussion, inviting a participant to express their views. | | residents meeting to agree routine terms of upkeep, etc. | as a team member at a meeting of a small task force | |
-| A2 | Can give simple, clear instructions to organise an activity.<br>Can give very simple instructions to a co-operative group, given some help with formulation when necessary. | | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project, at a staff meeting on introducing new procedures/equipment | |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
+<!-- el:end id=table_app5_online_conversation_and_discussion -->
 
-| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
-|-------|----------------------------|----------|--------|--------------|-------------|
-| C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
-| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). | | | | |
-| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. | | | | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
-| B2 | Can formulate questions and feedback to encourage people to expand on their thinking and justify or clarify their opinions.<br>Can build on people’s ideas and link them into coherent lines of thinking.<br>Can ask people to explain how an idea fits with the main topic under discussion. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
-| B1+ | Can ask people to elaborate on specific points they made in their initial explanation. | when discussing films, plays and other forms of entertainment with friends/relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | during project team meetings and brainstorming sessions; during collaborative work on a project | when engaging in class debates or discussion |
-| B1 | Can ask appropriate questions to check understanding of concepts that have been explained. | [not applicable] | [not applicable] | | in simple class debates or discussions with (fellow) students |
-| | Can ask questions to invite people to clarify their reasoning.<br>Can ask why someone thinks something, or how they think something would work. | when discussing social and personal issues with friends and relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | | |
-| A2 | Can ask what somebody thinks of a certain idea. | when discussing options with family, friends or housemates for an evening out, when organising a party | at a community meeting | during team meetings; during collaborative work on a project | when engaging in simple class discussions |
-| A1 | Can use simple isolated words/signs and non-verbal signals to show interest in an idea. | in a discussion of options for an evening out | [not applicable] | [not applicable] | in a simple group activity |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences.<br>Can guide a sensitive discussion effectively, identifying nuances and undercurrents. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
-| C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings.<br>Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. | when breaking/delivering news on delicate issues from third parties | at a multicultural guidance and counselling session concerning for instance marriage, divorce, child custody | when discussing the terms of a multilateral contract, when explaining the laws or regulations in another country | when teaching a university course to a multicultural class |
-| B2+ | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
-| | Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. | when discussing with friends and/or relatives social or personal issues or ways to act in an informal multicultural setting | when interacting with individuals and/or groups in the neighbourhood | helping colleagues from a different cultural background find a way through work-related problems | in supporting inclusive education |
-| | Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. | in potentially conflicting private situations involving persons from different cultures or backgrounds | in peer interaction at public events (e.g. festivals, talks, demonstrations)<br>when conducting or moderating a public debate on multicultural issues | when discussing the implementation of international commercial policies with colleagues | as an instructor when dealing with conflicts between students on an international campus |
-| B2 | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. | when presented to, or introducing someone to, a new group of friends/people sharing interests | in peer interaction at public events (e.g. festivals, talks, demonstrations) | when escorting colleagues from other countries around town or company premises | as an instructor when teaching a multicultural primary class at intercultural centres |
-| | Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. | when organising shared activities with friends or roommates | in joint activities with travel mates during a trip, in peer interaction at public events (e.g. festivals, talks, demonstrations) | in discussions with colleagues about simple tasks, working hours, holidays | with schoolmates in academic activities |
-| B2 | Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. | when organising shared activities with friends or roommates | during a multicultural community meeting | when discussing the implementation of international commercial policies with colleagues | at a seminar in a multicultural educational setting |
-| B1+ | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. | in everyday conversations with friends and relatives from different cultural backgrounds | during holidays, with locals | between colleagues during work-related telephone exchanges or conversations | with schoolmates in out-of-school activities |
-| | Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. | when organising shared activities with friends or roommates | during a multicultural community meeting | in discussions with colleagues about simple tasks, working hours, holidays | at a seminar in a multicultural educational setting |
-| B1 | Can support an intercultural exchange using a limited repertoire to introduce people from different cultural backgrounds and to ask and answer questions, showing awareness that some questions may be perceived differently in the cultures concerned.<br>Can help develop a shared communication culture, by exchanging information in a simple way about values and attitudes to language and culture. | in a simple informal conversation between friends/relatives and visitors | in simple exchanges and conversations at restaurants | when introducing newcomers into the workplace | as an instructor when welcoming students into the school’s sports team |
-| A2 | Can contribute to an intercultural exchange, using simple words/signs to ask people to explain things and to get clarification of what they say, while exploiting a limited repertoire to express agreement, to invite, to thank, etc. | | | | |
-| A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. | | | when a newcomer is introduced into the workplace | as a student welcoming a new person who joins the group |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can communicate in a clear, fluent, well-structured way (in Language B) the sense of what is said (in Language A) on a wide range of general and specialised topics, maintaining appropriate style and register, conveying finer shades of meaning and elaborating on sociocultural implications. | in a discussion with friends/relatives, guests/hosts (e.g. on politics, literature)<br>at a gathering with guests | during a public lecture, at a political rally or meeting, at a (religious) ceremony | at a management meeting, a social or cultural event during a work-related visit in another country | at a school event such as an awards evening with parents, at a welcome address or presentation to visiting guests from other schools, in webinars, debates and discussions |
-| C1 | Can communicate fluently (in Language B) the sense of what is said (in Language A) on a wide range of subjects of personal, academic and professional interest, conveying significant information clearly and concisely as well as explaining cultural references. | interpretation, at a formal gathering with guests, of complex ceremonies, statements, conversations, or discussions | at a public meeting, at an intercultural event | during discussions on organisational matters such as international conferences or events, contract negotiations | during an interview as part of a research project, at a conference or seminar |
-| | Can mediate (between Language A and Language B) conveying detailed information, drawing the attention of both sides to background information and sociocultural cues, and posing clarification and follow-up questions or statements as necessary. | with visiting guests/relatives from another country | | | |
-| B2+ | Can communicate (in Language B) the sense of what is said in a welcome address, anecdote or presentation in their field (in Language A), interpreting cultural cues appropriately and giving additional explanations when necessary, provided the presenter stops frequently in order to allow time for them to do so. | in discussions with relatives/friends on matters such as studying or working abroad | during a guided visit | with visiting partners or clients, in a discussion in an international team about organisation, project and resource planning | in a parent–teacher meeting to discuss a child’s school performance, with an academic in discussion of their specialised field |
-| B2 | Can communicate (in Language B) the sense of what is said (in Language A) on subjects within their fields of interest, conveying and when necessary explaining the significance of important statements and viewpoints, provided the interlocutors give clarifications if needed. | in a conversation with friends/relatives, guests/hosts about important current affairs | during a guided visit (e.g. an exhibition) | during a visit to company/factory/university premises<br>at dinner with visiting colleagues | in a parent–teacher meeting to discuss a child’s school performance; during a school exchange with visiting principals, teachers or students<br>at a school event or parents’ day |
-| B1+ | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects within their fields of interest, conveying straightforward factual information and explicit cultural references, provided they can prepare beforehand and the interlocutors articulate clearly in everyday language. | in everyday conversations with friends and relatives (e.g. on family, work, daily events) | in casual conversations with other travellers during a trip or holiday (e.g. on travel, hobbies, interests) | in everyday conversations with colleagues/workmates (e.g. on interests, work, daily events) | during a school exchange – incoming and outgoing, in a parent–teacher meeting to discuss a child’s school performance |
-| B1 | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects of personal interest, while following important politeness conventions, provided the interlocutors articulate clearly and they can ask for clarification and pause to plan how to express things. | in a conversation between friends/relatives and visitors to make arrangements for an outing<br>interpreting on the telephone for relatives and friends when applying for a service such as the internet or utilities | at a restaurant with guests, conversing about background, hobbies, education<br>at a public office offering services, such as a licensing office | at the workplace to organise a leaving party<br>during a visit from a client | with a new student from their country of origin |
-| A2+ | Can communicate (in Language B) the overall sense of what is said (in Language A) in everyday situations, following basic cultural conventions and conveying the essential information, provided it is articulated clearly and they can ask for repetition and clarification. | | | | |
-| A2 | Can communicate (in Language B) the main point of what is said (in Language A) in predictable everyday situations, conveying back and forth information about personal wants and needs, provided other people help with formulation. | during the introduction of a visitor/guest to family/friend circles | at a public office offering services, such as a licensing office | during a visit from a client | |
-| A1 | Can communicate (in Language B) other people’s personal details and very simple, predictable information (in Language A), provided other people help with formulation. | | | | |
-| Pre-A1 | No descriptors available | | | | |
-| C2 | Can deal tactfully with a disruptive participant, framing any remarks diplomatically in relation to the situation and cultural perceptions.<br>Can confidently take a firm but diplomatic stance over an issue of principle, while showing respect for the viewpoints of others. | in a disagreement between friends or family members discussing personal or social issues | in a situation with intercommunal conflict tensions | in collaborative work that takes a difficult turn<br>in negotiations, in discussions about cuts and restructuring | in cases of disruptive classroom behaviour<br>in cases of bullying or racial/gender-aggravated school violence |
-| C1 | Can demonstrate sensitivity to different viewpoints, using repetition and paraphrase to demonstrate a detailed understanding of each party’s requirements for an agreement.<br>Can formulate a diplomatic request to each side in a disagreement to determine what is central to their position, and what they may be willing to give up under certain circumstances.<br>Can use persuasive language to suggest that parties in disagreement shift towards a new position. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
-| B2+ | Can elicit possible solutions from parties in disagreement in order to help them to reach consensus, formulating open-ended, neutral questions to minimise embarrassment or offence. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | during an incident on a package holiday or a public event | in the resolution of organisational and functional conflicts | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
-| | Can help the parties in a disagreement better understand each other by restating and reframing their positions more clearly and by prioritising needs and goals. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | |
-| | Can formulate a clear and accurate summary of what has been agreed and what is expected from each of the parties. | | in disputes regarding an accident | at collective bargaining or labour arbitration | |
-| B2 | Can, by asking questions, identify areas of common ground and invite each side to highlight possible solutions. | | helping others with complaints about bills or services at shops, transport, banks | during minor disputes at the workplace | |
-| B2 | Can outline the main points in a disagreement with reasonable precision and explain the positions of the parties involved. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
-| | Can summarise the statements made by the two sides, highlighting areas of agreement and obstacles to agreement. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | as a member/chair/moderator at a community meeting to discuss social policies or safety and security problems | during preparatory meetings to examine and revise an agenda or an action plan | |
-| B1+ | Can ask parties in a disagreement to explain their point of view, and can respond briefly to their explanations, provided the topic is familiar to them and the parties express themselves clearly. | in arguments between flatmates over household responsibilities or home improvements | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | when dealing with everyday negative interactions between classmates |
-| B1 | Can demonstrate their understanding of the key issues in a disagreement on a topic familiar to them and make simple requests for confirmation and/or clarification. | | | | |
-| A2 | Can recognise when people disagree or when difficulties occur in interaction, and adapt memorised, simple phrases to seek compromise and agreement. | in arguments between flatmates over household responsibilities | in an argument at a party, on an outing, at a public place like a station or museum | when two people in the workplace have an argument about how to do something, or a task not completed | when fellow students start arguing, or are left out, during group work |
-| A1 | Can recognise when people disagree, or when someone has a problem, and can use memorised, simple expressions (e.g. “I understand” or “Are you okay?”) to indicate sympathy. | when a flatmate is upset, perhaps during or after an argument | | when a colleague is upset, perhaps during or after an argument | |
-| Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_online_interaction -->
-
-Page **191**
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **191***
 
 <!-- page:191 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=192 -->
-
-| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
-| C1 | Can adapt their register according to the context of online interaction, moving from one register to the other within the same exchange if necessary. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues | during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
-| | Can evaluate, restate and challenge arguments in professional or academic live online chat and discussion. | [not applicable] | in a special interest online forum evaluating content and issues | as a consultant participating in an online business or project meeting | participating in an online discussion forum for a college debating society |
-| B2+ | Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues<br>in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation<br>during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
-<!-- el:end id=scale_online_interaction -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Online conversation and discussion** lives on page 191 (table_app5_online_conversation_and_discussion); page 192 PDF level-slice not duplicated -->
 
 *Page **192** ▶ **CEFR – Companion volume***
 
 <!-- page:192 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=193 -->
-
-| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
-| B2 | Can participate actively in an online discussion, stating and responding to opinions on topics of interest at some length, provided contributors avoid unusual or complex language and allow time for responses. | in a critical discussion of arts or music with friends online | in a public online discussion forum/comment thread held by a broadcasting/news agency | in a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in a discussion with other students at another school in an e-twinning project |
-| | Can engage in online exchanges between several participants, effectively linking their contributions to previous ones in the thread, provided a moderator helps manage the discussion. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a contributor to a forum about a commercial software or gaming website<br>as a participant in an online support group website for social or personal issues | in a staff committee meeting held online, or as a participant in an online focus group meeting | in a collaborative meeting with students from another school in an e-twinning project |
-| | Can recognise misunderstandings and disagreements that arise in an online interaction and deal with them, provided the interlocutor(s) are willing to co-operate. | in a discussion on a social networking site | in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation | |
-| B1+ | Can engage in real-time online exchanges with more than one participant, recognising the communicative intentions of each contributor, but may not understand details or implications without further explanation. | | as a contributor to a forum about a commercial software or gaming website | in a staff committee meeting held online, or as a participant in an online focus group meeting | |
-| | Can post online accounts of social events, experiences and activities referring to embedded links and media and sharing personal feelings. | making contact online with remote friends and/or family to catch up in detail on personal news and plans | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a departmental online social events feed in a corporation | as a contributor to a university student union social events feed |
-| B1 | Can post a comprehensible contribution in an online discussion on a familiar topic of interest, provided they can prepare the text beforehand and use online tools to fill gaps in language and check accuracy. | | as a contributor to the reviews and issues area of a commercial software or gaming website | as a participant in a simple online focus group meeting | in an online forum for students studying the same subjects |
-| | Can make personal online postings about experiences, feelings and events and respond individually to the comments of others in some detail, though lexical limitations sometimes cause repetition and inappropriate formulation. | | as a forum contributor to an events website connected to a public/cultural festival | as a contributor to a professional development forum | |
-<!-- el:end id=scale_online_interaction -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Online conversation and discussion** lives on page 191 (table_app5_online_conversation_and_discussion); page 193 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **193***
 
 <!-- page:193 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=194 -->
-
-| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
-| A2+ | Can introduce themselves and manage simple exchanges online, asking and answering questions and exchanging ideas on predictable everyday topics, provided enough time is allowed to formulate responses, and that they interact with one interlocutor at a time.<br>Can make short descriptive online postings about everyday matters, social activities and feelings, with simple key details.<br>Can comment on other people's online postings, provided they are written/signed in simple language, reacting to embedded media by expressing feelings of surprise, interest and indifference in a simple way. | making contact online with remote friends and/or family to catch up on personal news and plans | as a contributor to an online travel advice service | as a contributor to a simple departmental online forum on familiar topics | in the Q&A section of a school learning platform |
-| A2 | Can engage in basic social communication online (e.g. a simple message on a virtual card for special occasions, sharing news and making/confirming arrangements to meet).<br>Can make brief positive or negative comments online about embedded links and media using a repertoire of basic language, though they will generally have to refer to an online translation tool and other resources. | | public postings to a festival/event website | | |
-| A1 | Can formulate very simple messages and personal online postings as a series of very short sentences about hobbies, likes/dislikes, etc., relying on the aid of a translation tool. | making contact online with remote friends and/or family – also as a possible language classroom simulation | public postings to a festival/event website – also as a possible language classroom simulation | as a contributor to a simple departmental social feed – also as a possible language classroom simulation | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
-| | Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. | making contact online with remote friends and/or family – also as a possible language classroom simulation | | | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
-<!-- el:end id=scale_online_interaction -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Online conversation and discussion** lives on page 191 (table_app5_online_conversation_and_discussion); page 194 PDF level-slice not duplicated -->
 
 *Page **194** ▶ **CEFR – Companion volume***
 
 <!-- page:194 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Online conversation and discussion** lives on page 191 (table_app5_online_conversation_and_discussion); page 195 PDF level-slice not duplicated -->
 
-<!-- el:start type=artifact id=scale_online_interaction page=195 -->
+Still under **Online interaction**. Descriptors now concern **goal-oriented online transactions and collaboration** rather than open conversation and discussion. Domain columns remain Situation (and roles): Personal / Public / Occupational / Educational.
 
-| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
-| Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
-<!-- el:end id=scale_online_interaction -->
+<!-- el:start type=artifact id=table_app5_goal_oriented_online_transactions_and_collaboration page=195 -->
+<!-- db:id=table_app5_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=detailed,context pages=195-197 -->
+### Goal-oriented online transactions and collaboration | table_app5_goal_oriented_online_transactions_and_collaboration
 
-<!-- el:start type=prose id=prose_p195_s1 page=195 -->
-as the lead researcher in a collaborative research collaborative research programme requiring programme requiring online data collection as a participant in a data collection and **Educational** online qualitative [not applicable] and evaluation
-
-evaluation
-
-as a project manager using procedures across multiple online tools to co-ordinate travel agent or enrolment the introduction of new systems across multiple tools to co-ordinate the educational institution as the facilitator in an **Occupational** as personal assistant, project using online introduction of new online collaborative as a participant in a secretary for an **Situation (and roles)** remote sites locations project
-
-a social intervention a social intervention as the convenor for as the convenor for non-governmental non-governmental advice service and/ project organised project organised moderator of an online (e.g. by a online (e.g. by a online citizens’ **Public** or Q&A forum organisation) organisation) as voluntary
-
-### Online interaction **Personal**[not applicable]
-
-with frictions that arise during the collaborative process. providing examples through media (visual, audio, graphic). adjusting language flexibly to manage discussions and role (e.g. applications with complicated requirements), Can deal with complex online transactions in a service online, formulating and revising detailed instructions, Can deal effectively with communication problems and transactional exchange by reformulating, clarifying and Can provide guidance and add precision to the work forms of online collaboration, following and relaying Can co-ordinate a group that is working on a project instructions with precision in order to reach the goal. collaborative writing and redrafting as well as other Can resolve misunderstandings and deal effectively providing clarifications in order to accomplish the cultural issues that arise in an online collaborative or of a group at the redrafting and editing stages of **Goal-oriented online transactions**evaluating proposals from team members, and Can participate in complex projects requiring**and collaboration** collaborative work.
-
-negotiations. shared tasks. **C2 C1**classroom simulation**Educational**as a language**Occupational**[not applicable] **Situation (and roles)**on a social network site**Public**### Online interaction
-
-on a social network site **Personal** Can post simple online greetings, using basic formulaic
-
-occupation), provided they can select them from a **Online conversation and discussion** themselves (e.g. relationship status, nationality, Can post online short simple statements about menu and/or refer to an online translation tool.
-
-expressions and emoticons. **Pre-A1**
-<!-- el:end id=prose_p195_s2 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=195 -->
-
-| Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
-| Pre-A1 | Can post simple online greetings, using basic formulaic expressions and emoticons.<br>Can post online short simple statements about themselves (e.g. relationship status, nationality, occupation), provided they can select them from a menu and/or refer to an online translation tool. | on a social network site | on a social network site | [not applicable] | as a language classroom simulation |
-<!-- el:end id=scale_online_interaction -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **195***
-
-<!-- page:195 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=196 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Goal-oriented online transactions and collaboration | Personal | Public | Occupational | Educational |
-|-------|------------------------------------------------------|----------|--------|--------------|-------------|
+|-------|-----------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can resolve misunderstandings and deal effectively with frictions that arise during the collaborative process.<br>Can provide guidance and add precision to the work of a group at the redrafting and editing stages of collaborative work. | [not applicable] | as the convenor for a social intervention project organised online (e.g. by a non-governmental organisation) | as the facilitator in an online collaborative project | as the lead researcher in a collaborative research programme requiring online qualitative data collection and evaluation |
+| C1 | Can co-ordinate a group that is working on a project online, formulating and revising detailed instructions, evaluating proposals from team members, and providing clarifications in order to accomplish the shared tasks. |  |  | as a project manager using online tools to co-ordinate the introduction of new systems across multiple remote sites |  |
+|  | Can deal with complex online transactions in a service role (e.g. applications with complicated requirements), adjusting language flexibly to manage discussions and negotiations. |  | as voluntary moderator of an online citizens' advice service and/or Q&A forum | as personal assistant, travel agent or enrolment secretary for an educational institution | [not applicable] |
+|  | Can participate in complex projects requiring collaborative writing and redrafting as well as other forms of online collaboration, following and relaying instructions with precision in order to reach the goal.<br>Can deal effectively with communication problems and cultural issues that arise in an online collaborative or transactional exchange by reformulating, clarifying and providing examples through media (visual, audio, graphic). |  | as the convenor for a social intervention project organised online (e.g. by a non-governmental organisation) | as a participant in a project using online tools to co-ordinate the introduction of new procedures across multiple locations | as a participant in a collaborative research programme requiring online data collection and evaluation |
 | B2+ | Can take a lead role in online collaborative work within their area(s) of expertise, keeping the group on task by reminding it of roles, responsibilities and deadlines in order to achieve established goals.<br>Can engage in online collaborative or transactional exchanges within their area(s) of expertise that require negotiation of conditions and explanation of complicated details and special requirements. | [not applicable] | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
 | | Can deal with misunderstandings and unexpected problems that arise in online collaborative or transactional exchanges by responding politely and appropriately in order to help resolve the issue. | | reporting a public services issue online to the local council (e.g. a waste-collection issue) | in an online staff meeting on implementing new procedures | in a straightforward online collaborative activity at school/university |
 | B2 | Can collaborate online with a group that is working on a project, justifying proposals, seeking clarification and playing a supportive role in order to accomplish shared tasks. | | as a team leader in a social intervention project organised online (e.g. by a non-governmental organisation) | leading group task(s) in an online professional development project, involving collaborative work with a clearly defined goal | in a clearly structured online collaborative activity at school/university |
 | B1+ | Can engage in online transactions that require an extended exchange of information, provided the interlocutor(s) avoid complex language and are willing to repeat and reformulate when necessary.<br>Can interact online with a group that is working on a project, following straightforward instructions, seeking clarification and helping to accomplish the shared tasks. | | reporting a public services issue online to the local council (e.g. a waste-collection issue) | participating in a well-structured online seminar introducing new procedures | in a straightforward online collaborative activity at school/university |
 | B1 | Can engage in online collaborative or transactional exchanges that require simple clarification or explanation of relevant details, such as registering for a course, tour or event, or applying for membership. | | making a tour booking or enrolling in an association or event online | | |
 | | Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.<br>Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online. | | as a member of a community group organising environmental improvement | | |
-<!-- el:end id=scale_online_interaction -->
-
-*Page **196** ▶ **CEFR – Companion volume***
-
-<!-- page:196 -->
-
-<!-- el:start type=artifact id=scale_online_interaction page=197 -->
-
-| Level | Goal-oriented online transactions and collaboration | Personal | Public | Occupational | Educational |
-|-------|------------------------------------------------------|----------|--------|--------------|-------------|
 | A2+ | Can use formulaic language to respond to routine problems arising in online transactions (e.g. concerning availability of models and special offers, delivery dates, addresses).<br>Can interact online with a supportive partner in a simple collaborative task, responding to basic instructions and seeking clarification, provided there are visual aids such as images, statistics or graphs to clarify the concepts involved. | [not applicable] | ordering goods online with use of a chat window<br>assisting simple online planning and promotion of a public event such as a street party | completing simple interdepartmental orders and requests | enrolling in a course online<br>in a teacher-guided online collaborative activity at school |
 | A2 | Can make simple online transactions (e.g. ordering goods or enrolling in a course) by filling in an online form or questionnaire, providing personal details and confirming acceptance of terms and conditions, declining extra services, etc.<br>Can ask basic questions about the availability of a product or feature. | | ordering goods online | | enrolling in a course online |
 | | Can respond to simple instructions and ask simple questions in order to accomplish a shared task online with the help of a supportive interlocutor. | | [not applicable] | in completing a task over Skype with a colleague from another country | in a teacher-guided online collaborative activity at school |
 | A1 | Can complete a very simple online purchase or application, providing basic personal information (e.g. name, e-mail or telephone number). | | ordering goods by completing a simple order form with familiar words and illustrations | completing a simple interdepartmental form with familiar words and illustrations | enrolling in a course online, but likely only as a language classroom simulation |
 | Pre-A1 | Can make selections (e.g. choosing a product, size, colour) in a simple online purchase or application form, provided there is visual support. | | ordering goods by completing a simple tick-box order form with familiar words and illustrations | completing a simple interdepartmental tick-box form with familiar words and illustrations | |
-<!-- el:end id=scale_online_interaction -->
+<!-- el:end id=table_app5_goal_oriented_online_transactions_and_collaboration -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **195***
+
+<!-- page:195 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Goal-oriented online transactions and collaboration** lives on page 195 (table_app5_goal_oriented_online_transactions_and_collaboration); page 196 PDF level-slice not duplicated -->
+
+*Page **196** ▶ **CEFR – Companion volume***
+
+<!-- page:196 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Goal-oriented online transactions and collaboration** lives on page 195 (table_app5_goal_oriented_online_transactions_and_collaboration); page 197 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **197***
 
 <!-- page:197 -->
+## Mediating a text
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=198 -->
+Mediating a text holds the same structural role for mediation that **Online interaction** held above: several related scales share the four domain columns (**Situation (and roles)**: Personal / Public / Occupational / Educational). As scales change, the **type of text** and mediation activity changes (relaying information, explaining data, processing text, translating, note-taking, responding to creative texts, analysis and criticism). Column headers name each scale; section prose marks those shifts so the reader can delineate tables more clearly than the PDF layout alone.
+
+<!-- el:start type=artifact id=table_app5_relaying_specific_information_in_speech_or_sign alias=scale_mediating_a_text page=198 -->
+<!-- db:id=table_app5_relaying_specific_information_in_speech_or_sign type=descriptor_scale product_tier=detailed,context pages=198-201 -->
+### Relaying specific information in speech or sign | table_app5_relaying_specific_information_in_speech_or_sign
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------|----------|--------|--------------|-------------|
+|-------|-------------------------------------------------|----------|--------|--------------|-------------|
 | C2 | No descriptors available: see C1 | | | | |
 | C1 | Can explain (in Language B) the relevance of specific information found in a particular section of a long, complex text (in Language A). | in an article, website, book or talk face-to-face or online concerning current affairs or an area of personal interest or concern | from presentations at public meetings, from public documents explaining policy changes, political speeches | a business report, article, regulation or workplace policy | an article, book, reference book or lecture/presentation |
 | B2+ | Can relay (in Language B) which presentations given (in Language A) at a conference, or which articles in a book (in Language A), are particularly relevant for a specific purpose. | web talk/self-help group explanations (e.g. how to repair your printer); articles related to a particular theme or current issue of interest | presentations at public meetings, from public documents explaining policy changes<br>a press conference, on various web talk sites, in relation to a particular issue | a trade fair, a professional conference, reports and newspaper articles in relation to a particular project | an academic conference, various web talk sites, from academic books and journals in relation to a particular project |
 | B2 | Can relay (in Language B) the main point(s) contained in formal correspondence and/or reports (in Language A) on general subjects and on subjects related to their fields of interest. | a notice, announcement, letter or e-mail outlining policies, regulations or procedures (e.g. related to housing, insurance, rent/mortgage, employment or health care) | a notice or announcement made by a public authority or facility like a library, swimming pool, etc. outlining regulations or procedures | a letter, e-mail or notice outlining why a meeting had to be cancelled, whether someone is for or against an idea and why, workplace policies or regulations | a letter, e-mail or notice outlining university policies, procedures or regulations |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **198** ▶ **CEFR – Companion volume***
-
-<!-- page:198 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=199 -->
-
-| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------|----------|--------|--------------|-------------|
 | B1 | Can relay (in Language B) the content of public announcements and messages delivered clearly at normal speed (in Language A). | on the radio or TV | in a station, airport, sports stadium, at political rallies/events, alerts, warnings or instructions that may be given at an accident site or construction zone | at a trade fair or conference, at a factory, warehouse, refinery, on a ship, during safety drills | during a university event/lecture, which may take place in a large auditorium |
 | | Can relay (in Language B) the contents of detailed instructions or directions, provided these are clearly articulated (in Language A). | on the radio or TV, from a passer-by (e.g. travel/route information), instructions from a friend over the phone on how to get to a party | instructions at airports, stations and on planes, buses and trains, or on how to use simple equipment such as a hotel safe, directions on how to get from X to Y, a travel itinerary | instructions given in a meeting on how to perform a work task, or operate simple equipment; instructions, particularly on safety procedures, given at a trade fair or conference, at a factory, warehouse, on a ship | academic regulations, policies/procedures, course/assignment requirements given by a professor/teacher; instructions on how to use simple research tools to complete a school task or on how to conduct a simple experiment |
 | | Can relay (in Language B) specific information given in straightforward informational texts (e.g. leaflets, brochure entries, notices and letters or e-mails) (in Language A). | leaflets, brochures, guidebooks, websites, details of a housing agreement | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, club/association rules, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, the terms of a commercial offer, equipment operational instructions, safety procedures | school policies and regulations, a course outline, steps involved in completing an assignment/school task, a list of assignments as well as relevant criteria, notices, exam regulations, conditions for participation in an exchange programme |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **199***
-
-<!-- page:199 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=200 -->
-
-| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------|----------|--------|--------------|-------------|
 | A2+ | Can relay (in Language B) the point made in a clear announcement (in Language A) concerning familiar everyday subjects, though they may have to simplify the message and search for words/signs. | on the TV or radio, announcements about weddings, births and changes to circumstances | weather reports, train platform changes, how to purchase tickets for an event | announcements about changes to job responsibilities, information about new workplace procedures | information about an upcoming test at school, such as when it is and what will be tested; details about an upcoming school trip |
 | | Can relay (in Language B) specific, relevant information contained in short, simple texts, labels and notices (in Language A) on familiar subjects. | news about the family from a personal letter or e-mail | leaflets, information panels in museums or galleries, notices identifying immediate public hazards, travel itineraries, times and locations of club/association meetings, information about a sale or promotion | possible products that meet a requirement, safety procedures, location, date and time of a meeting stated in an e-mail/letter | news about school activities from a flyer or leaflet |
 | A2 | Can relay (in Language B) the point made in short, clear, simple messages, instructions and announcements, provided these are expressed slowly and clearly in simple language (in Language A). | announcements of personal interest such as weddings or births, changes to employment or living circumstances, simple messages left for family or housemates about meeting times or requests to complete tasks such as taking out the rubbish | at airports, stations and on planes, trains and buses about routes, times of arrival or departure, changes in platform or gate, weather forecasts | simple messages left by customers or colleagues for others, announcements about changes to job procedures | information about a school trip or exchange programme, messages about school opening/closing times in response to inclement weather, information about class tasks or homework |
 | | Can relay (in Language B) in a simple way a series of short, simple instructions, provided the original speech (in Language A) is clearly and slowly articulated. | a recipe, how to use a basic household appliance, how to assemble a piece of furniture | how to get from X to Y, directions provided by a traffic or parking official | how to operate office equipment such as changing the toner on a photocopier or downloading software | instructions concerning a homework assignment, or a simple experiment |
-<!-- el:end id=scale_mediating_a_text -->
+| A1 | Can relay (in Language B) simple, predictable information about times and places given in short, simple statements (delivered in Language A). | TV schedule announcements about upcoming programmes of interest | the location and starting time of an event/performance, travel itineraries | the location and starting/finishing time of a meeting; information about work hours, breaks, the location of toilets, drink machines | the location and time of a school excursion or after-school activity, the location of the canteen, toilets and water fountains |
+| | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly. | restaurant reservations, dinner invitations including date and time | notices on bulletin boards/walls about when a store opens/closes, location of toilets | a meeting location and time from an e-mail | school timetable, the meeting location for a school trip |
+| Pre-A1 | Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
+<!-- el:end id=table_app5_relaying_specific_information_in_speech_or_sign -->
+
+*Page **198** ▶ **CEFR – Companion volume***
+
+<!-- page:198 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Relaying specific information in speech or sign** lives on page 198 (table_app5_relaying_specific_information_in_speech_or_sign); page 199 PDF level-slice not duplicated -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **199***
+
+<!-- page:199 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Relaying specific information in speech or sign** lives on page 198 (table_app5_relaying_specific_information_in_speech_or_sign); page 200 PDF level-slice not duplicated -->
 
 *Page **200** ▶ **CEFR – Companion volume***
 
 <!-- page:200 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=201 -->
-
-| Level | Relaying specific information in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------|----------|--------|--------------|-------------|
-| A1 | Can relay (in Language B) simple, predictable information about times and places given in short, simple statements (delivered in Language A). | TV schedule announcements about upcoming programmes of interest | the location and starting time of an event/performance, travel itineraries | the location and starting/finishing time of a meeting; information about work hours, breaks, the location of toilets, drink machines | the location and time of a school excursion or after-school activity, the location of the canteen, toilets and water fountains |
-| | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly. | restaurant reservations, dinner invitations including date and time | notices on bulletin boards/walls about when a store opens/closes, location of toilets | a meeting location and time from an e-mail | school timetable, the meeting location for a school trip |
-| Pre-A1 | Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Relaying specific information in speech or sign** lives on page 198 (table_app5_relaying_specific_information_in_speech_or_sign); page 201 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **201***
 
 <!-- page:201 -->
+Still under **Mediating a text**. Shift from relaying in speech/sign to **relaying specific information in writing**. Domain columns unchanged (Situation and roles).
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=202 -->
+<!-- el:start type=artifact id=table_app5_relaying_specific_information_in_writing page=202 -->
+<!-- db:id=table_app5_relaying_specific_information_in_writing type=descriptor_scale product_tier=detailed,context pages=202-204 -->
+### Relaying specific information in writing | table_app5_relaying_specific_information_in_writing
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
 |-------|------------------------------------------|----------|--------|--------------|-------------|
@@ -5376,105 +5486,64 @@ expressions and emoticons. **Pre-A1**
 | | Can relay in writing (in Language B) the relevant point(s) contained in an article (in Language A) from an academic or professional journal. | | in relation to a particular issue that is the subject of a community meeting | from a report, business article | information from an article, book or journal for a classmate or a professor |
 | B2 | Can relay in a written report (in Language B) relevant decisions that were taken in a meeting (in Language A). | | from a club | from a business meeting | from a meeting of student representatives |
 | | Can relay in writing (in Language B) the significant point(s) contained in formal correspondence (in Language A). | a rental agreement or insurance policy for a friend or family member | terms and conditions for a trip or service | in a circular sent to employees, in a letter from a partner giving notice or stating new conditions; in a complaint | in a circular sent by a school principal to parents; in a reply from an organisation to a request for information sent during a project |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **202** ▶ **CEFR – Companion volume***
-
-<!-- page:202 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=203 -->
-
-| Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
-|-------|------------------------------------------|----------|--------|--------------|-------------|
 | B1 | Can relay in writing (in Language B) specific information points contained in texts delivered in Language A on familiar subjects (e.g. calls, announcements and instructions). | a short message, an e-mail to a friend mentioning the reason they will be late | a notice or announcement made by a public authority | customer orders, queries or complaints, changes to work schedule or procedures, how to operate office equipment | changes to school opening/closing times as a result of inclement weather, changes to class location or meeting place for a class trip |
 | | Can relay in writing (in Language B) specific, relevant information contained in straightforward informational texts (in Language A) on familiar subjects. | instructions on how to use household appliances taken from a manual, messages for family or housemates sent in an e-mail, information e-mailed about when and where to meet a friend/family member | from e-mails, letters about events or schedules | quantities and delivery times from an e-mailed order, tasks and deadlines for the person concerned from the minutes to a meeting, relevant steps in simple user instructions for a piece of equipment | e-mail instructions about a school trip, a task assignment or details of course requirements taken from a course syllabus |
 | | Can relay in writing (in Language B) specific information given in a straightforward recorded message (left in Language A), provided the topics concerned are familiar and the delivery is slow and clear. | a message about the time and place of a meeting, a request to complete a household task such as preparing a meal or taking out the rubbish | queue at the embassy, answering machine: request for call back from an administration or public office, bank | simple customer orders, queries or complaints, telephone message for a colleague, changes to work procedures | about school timetables or schedule changes |
 | A2+ | Can relay in writing (in Language B) specific information contained in short, simple informational texts (in Language A), provided the texts concern concrete, familiar subjects and are composed in simple everyday language. | from newspapers, instructions on appliances or medicine | brochures, websites, adverts, posters, schedules | about a work task, instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | about a school task, test or homework assignment found in a course syllabus, how to do a simple experiment in a science class from a handout, about a museum visit or other school trip described in a leaflet |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **203***
-
-<!-- page:203 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=204 -->
-
-| Level | Relaying specific information in writing | Personal | Public | Occupational | Educational |
-|-------|------------------------------------------|----------|--------|--------------|-------------|
 | A2 | Can list (in Language B) the main points of short, clear, simple messages and announcements (given in Language A), provided they are clearly and slowly articulated. | simple telephone messages for family or housemates, announcements of personal interest for family or friends | directions on how to get from X to Y, which train platform or flight gate and at what time, about a train or flight delay | telephone message for a colleague, changes to work procedures | school timetables, schedules or openings/closings, task roles as part of a group assignment, homework assigned |
 | | Can list (in Language B) specific information contained in simple texts (in Language A) on everyday subjects of immediate interest or need. | household manuals, instructions on how to prepare a meal | advertisements, prospectuses, brochures, leaflets, travel itineraries, timetables, directions | manual instructions on how to operate simple equipment, about safety procedures, job requirements posted in an advertisement | textbooks, class readings, about a school task, test or homework assignment, how to do a simple experiment in a science class, about a museum visit or other school trip |
 | A1 | Can list (in Language B) names, numbers, prices and very simple information of immediate interest in oral texts (in Language A), provided the articulation is very slow and clear, with repetition. | from a TV channel repeatedly demonstrating products | announcements about when a store opens/closes | a short, simple telephone message for a colleague | a simple, short telephone message about a change to a timetable, schedule or meeting point |
 | Pre-A1 | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information, schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_relaying_specific_information_in_writing -->
+
+*Page **202** ▶ **CEFR – Companion volume***
+
+<!-- page:202 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Relaying specific information in writing** lives on page 202 (table_app5_relaying_specific_information_in_writing); page 203 PDF level-slice not duplicated -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **203***
+
+<!-- page:203 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Relaying specific information in writing** lives on page 202 (table_app5_relaying_specific_information_in_writing); page 204 PDF level-slice not duplicated -->
 
 *Page **204** ▶ **CEFR – Companion volume***
 
 <!-- page:204 -->
+<!-- el:start type=artifact id=table_app5_explaining_data_in_graphs_diagrams_etc_in_speech_or_sign page=205 -->
+<!-- db:id=table_app5_explaining_data_in_graphs_diagrams_etc_in_speech_or_sign type=descriptor_scale product_tier=detailed,context pages=205-206 -->
+### Explaining data (in graphs, diagrams, etc.) in speech or sign | table_app5_explaining_data_in_graphs_diagrams_etc_in_speech_or_sign
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=205 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
+|-------|---------------------------------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can interpret and describe clearly and reliably (in Language B) various forms of empirical data and visually organised information (with text in Language A) from conceptually complex research concerning academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visual data from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | diagrams/visual data from published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
 | C1 | Can interpret and describe clearly and reliably (in Language B) the salient points and details contained in complex diagrams and other visually organised information (with text in Language A) on complex academic or professional topics. | | | | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
 | B2 | Can interpret and describe reliably (in Language B) detailed information contained in complex diagrams, charts and other visually organised information (with text in Language A) on topics in their fields of interest. | a diagram in an article of personal interest; a process diagram for a household device or piece of leisure software, explained to a friend or family member | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting | graphs, charts and tables referenced in employee training or company reports | graphs, bar charts or diagrams in a formal class presentation, at secondary school/college/university |
 | B1+ | Can interpret and describe (in Language B) detailed information in diagrams in their fields of interest (with text in Language A), even though lexical gaps may cause hesitation or imprecise formulation. | | | | |
 | B1 | Can interpret and describe (in Language B) overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), even though lexical limitations cause difficulty with formulation at times. | trends represented in household bills or personal finances, explained to a friend or family member | weather report (statistics and trends) when determining the best dates for a community event, basic financial trends presented during a community/club meeting, diagrammatic displays in a science museum | trends represented in a graph or bar chart during a business meeting or responsibilities represented in a company organogram used for employee training | general trends found in graphs, bar charts or diagrams, used in pair or group work at secondary school/college/university |
-<!-- el:end id=scale_mediating_a_text -->
+| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
+| A2 | No descriptors available |  |  |  |  |
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=table_app5_explaining_data_in_graphs_diagrams_etc_in_speech_or_sign -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **205***
 
 <!-- page:205 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Explaining data (in graphs, diagrams, etc.) in speech or sign** lives on page 205 (table_app5_explaining_data_in_graphs_diagrams_etc_in_speech_or_sign); page 206 PDF level-slice not duplicated -->
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
+Still under **Mediating a text**. Shift to **explaining data in writing** (after speech/sign).
 
-| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
-| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
-| A2 | No descriptors available | | | | |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:start type=artifact id=table_app5_explaining_data_in_graphs_diagrams_etc_in_writing page=206 -->
+<!-- db:id=table_app5_explaining_data_in_graphs_diagrams_etc_in_writing type=descriptor_scale product_tier=detailed,context pages=206-207 -->
+### Explaining data (in graphs, diagrams, etc.) in writing | table_app5_explaining_data_in_graphs_diagrams_etc_in_writing
 
-<!-- el:start type=prose id=prose_p206_s1 page=206 -->
-or master’s dissertation that includes empirical as part of a PhD thesis **Educational** data
-
-financial report, market for senior management development activities data from a company corporate report or **Occupational**from research and**Text (and discourse environment)** research or other
-
-[not applicable] **Public**### Mediating a text**Personal**[not applicable]
-
-A) from conceptually complex research on academic or various forms of empirical data (with text in Language Can interpret and present in writing (in Language B) **Explaining data (in graphs,  diagrams, etc.) in writing**professional topics.**C2** features of graphs, bar at secondary school/ such as population/ pair or group work charts or diagrams **Educational** over time, used in college/university weather changes
-
-work process or activity toner of a photocopier company organogram representing a simple such as changing the **Occupational**responsibilities as or basic roles and**Text (and discourse environment)** represented in a
-
-a flow chart
-
-floor plan of a building metro route map, or a historic weather data basic financial trends the best dates for a when determining or shopping centre a community/club community event, presented during meeting, a bus or **Public**### Mediating a text
-
-features of a household to a friend or family diagram, identified activities, the main device shown in a planning outdoor **Personal** consulted when a weather map
-
-member
-
-(with text in Language A), even though pauses, false starts Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) **Explaining data (in graphs, diagrams,  etc.) in speech or sign**and reformulation may be very evident.**No descriptors available No descriptors available No descriptors available Pre-A1 A2+ A2 A1**
-<!-- el:end id=prose_p206_s2 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
-
-| Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------------------|----------|--------|--------------|-------------|
-| A2+ | Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart) (with text in Language A), even though pauses, false starts and reformulation may be very evident. | a weather map consulted when planning outdoor activities, the main features of a household device shown in a diagram, identified to a friend or family member | historic weather data when determining the best dates for a community event, basic financial trends presented during a community/club meeting, a bus or metro route map, or a floor plan of a building or shopping centre | a flow chart representing a simple work process or activity such as changing the toner of a photocopier or basic roles and responsibilities as represented in a company organogram | features of graphs, bar charts or diagrams such as population/weather changes over time, used in pair or group work at secondary school/college/university |
-| A2 | No descriptors available | | | | |
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **206** ▶ **CEFR – Companion volume***
-
-<!-- page:206 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=207 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Explaining data (in graphs, diagrams, etc.) in writing | Personal | Public | Occupational | Educational |
 |-------|--------------------------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can interpret and present in writing (in Language B) various forms of empirical data (with text in Language A) from conceptually complex research on academic or professional topics. | [not applicable] | [not applicable] | data from a company financial report, market research or other corporate report or from research and development activities for senior management | as part of a PhD thesis or master's dissertation that includes empirical data |
 | C1 | Can interpret and present clearly and reliably in writing (in Language B) the salient, relevant points contained in complex diagrams and other visually organised data (with text in Language A) on complex academic or professional topics. | diagrams/visual data on topics of personal interest such as medical research or environmental data for family or friends; economic data presented graphically to accompany a newspaper article | diagrams/visuals from corporate or public sector reports that are relevant for a community policy or planning meeting; data included in presentations at public meetings | detailed analysis of financials, a market survey or government diagrams/visual data presented in a meeting | visual data included in published academic research or collected as part of a research project presented in a lecture or academic conference/round-table event |
 | B2 | Can interpret and present reliably in writing (in Language B) detailed information from diagrams and visually organised data in their fields of interest (with text in Language A). | instructions and diagram left for a house-sitter to operate a complex appliance | health and safety procedures (e.g. at a hospital, factory, library) | an internal (company) report/memo on the significant points contained in a visual attachment such as a graph, bar chart or numeric table | written assignment accompanying technical visual information provided for a school/university project |
 | B1+ | Can interpret and present in writing (in Language B) the overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), explaining the important points in more detail, given the help of a dictionary or other reference materials. | trends represented in household bills or personal finances, for family members | simple weather data or basic financial data posted as part of an online discussion for a community/club event | an e-mail describing the main features of a visual attachment such as a graph or bar chart | a simple class assignment summarising a survey or demographic data |
@@ -5482,13 +5551,21 @@ member
 | A2 | No descriptors available | | | | |
 | A1 | No descriptors available | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_explaining_data_in_graphs_diagrams_etc_in_writing -->
+
+*Page **206** ▶ **CEFR – Companion volume***
+
+<!-- page:206 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Explaining data (in graphs, diagrams, etc.) in writing** lives on page 206 (table_app5_explaining_data_in_graphs_diagrams_etc_in_writing); page 207 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **207***
 
 <!-- page:207 -->
+<!-- el:start type=artifact id=table_app5_processing_text_in_speech_or_sign page=208 -->
+<!-- db:id=table_app5_processing_text_in_speech_or_sign type=descriptor_scale product_tier=detailed,context pages=208-212 -->
+### Processing text in speech or sign | table_app5_processing_text_in_speech_or_sign
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=208 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
 |-------|-----------------------------------|----------|--------|--------------|-------------|
@@ -5497,31 +5574,11 @@ member
 | C1 | Can summarise (in Language B) discussion (in Language A) on matters within their academic or professional competence, elaborating and weighing up different points of view and identifying the most significant points. | discussions, current affairs programmes | a forum discussion involving several participants | a meeting or seminar | a forum discussion, round table or colloquium involving several participants |
 | | Can summarise clearly in well-structured language (in Language B) the main points made in complex texts (in Language A) in fields of specialisation other than their own, although they may occasionally check particular technical concepts. | newspaper editorials and commentaries, TV news and current affairs programmes | laws, public legal documents, regulations, presentations, speeches, sermons | a technical report addressed to a specialised audience, a business letter, a contract, a regulation, conference presentations | instructional material, a textbook, a reader, a dictionary, papers in academic journals, lectures, conference presentations and discussions, web talks |
 | | Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **208** ▶ **CEFR – Companion volume***
-
-<!-- page:208 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=209 -->
-
-| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | C1 | Can exploit information and arguments from a complex text (in Language A) to discuss a topic (in Language B), glossing with evaluative comments, adding their opinion, etc. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | a political tract, a public policy document; a forum discussion, presentation, a political speech, sermon | technical reports, professional articles, specifications, contracts | instructional material, a textbook, a reader, a paper in an academic journal, lectures, conference presentations and discussions, web talks |
 | | Can explain (in Language B) the attitude or opinion expressed in a source text (in Language A) on a specialised topic, supporting inferences they make with reference to specific passages in the original. | books, newspaper articles, commentaries and editorials, specialised articles; TV news and current affairs programmes, talk shows | | | |
 | B2+ | Can summarise clearly in well-structured language (in Language B) the information and arguments contained in complex texts (in Language A) on a wide range of subjects related to their fields of interest and specialisation. | | presentations, (political) speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
 | | Can summarise (in Language B) the main points of complex discussions (in Language A), weighing up the different points of view presented. | a discussion on family occasions, TV news and current affairs programmes, talk shows | a formal discussion between several participants | in meetings, briefing or orientation sessions | a panel at an academic conference involving several speakers |
 | B2 | Can synthesise and report (in Language B) information and arguments from a number of sources (in Language A). | on current affairs: web talks or interviews, TV news and analysis, documentaries, articles | at a town hall or political meeting: news items, interviews or documentaries on the issue at hand | in a report, at a meeting: media coverage of a company/government announcement/policy | when undertaking a project: web talks, lectures, vox pop interviews, surveys, blogs, documentaries |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **209***
-
-<!-- page:209 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=210 -->
-
-| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | B2 | Can summarise (in Language B) a wide range of factual and imaginative texts (in Language A), commenting on and discussing contrasting points of view and the main themes. | books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | a political tract, a public policy document, a novel, short story | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books, novels, short stories |
 | | Can summarise (in Language B) the important points made in longer, complex texts (in Language A) on subjects of current interest, including their fields of special interest. | | a political tract, a public policy document | technical reports, professional articles, specifications, contracts | papers in academic journals, reference books |
 | | Can recognise the intended audience of a text (in Language A) on a topic of interest and explain (in Language B) the purpose, attitudes and opinion of the author. | from websites, current affairs programmes, documentaries, newspaper articles and editorials | in interviews, announcements, policy statements | presentations at conferences, reports, specialised articles | talks by visiting speakers, websites and web talks, documentaries, articles |
@@ -5530,90 +5587,88 @@ member
 | B1+ | Can summarise (in Language B) the main points made in long texts (in Language A) on topics in their fields of interest, provided they can check the meaning of certain expressions. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
 | | Can summarise (in Language B) a short narrative or article, talk, discussion, interview or documentary (in Language A) and answer further questions about details. | discussions with friends, documentaries, short narratives, articles in newspaper or magazines | a talk at a public meeting, an interview, public notices | presentations or discussions at conferences, seminars or meetings, newspaper articles | web talks, documentaries and discussions, articles of academic relevance, short narratives |
 | | Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else. | informal discussions, prospectuses, advertisements, programmes in theatres, song lyrics | public notices and announcements, notes from meetings, relevant reports in newspapers and magazines | reports, meetings, letters and e-mails, notes from meetings, press coverage | web talks, instructions for carrying out tasks, articles on related topic |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **210** ▶ **CEFR – Companion volume***
-
-<!-- page:210 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=211 -->
-
-| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | B1 | Can summarise (in Language B) the main points made in clear, well-structured texts (in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | personal letters, short articles, brochures, advertisements | short articles, short official letters, public statements and notices, regulations, leaflets, event programmes | presentations and demonstrations, reports, business letters | talks by visiting speakers, web talks, descriptions, narratives, textbook entries, websites, news summaries, short articles |
 | | Can summarise simply (in Language B) the main information content of straightforward texts (in Language A) on familiar subjects (e.g. a short record of an interview, magazine article, travel brochure). | a short written interview or magazine article, a travel brochure, letters, e-mails, newspaper news summaries | | reports, business letters and e-mails | descriptions, textbook narratives, websites, news summaries, short articles |
 | | Can summarise (in Language B) the main points made during a conversation (in Language A) on a subject of personal or current interest, provided people articulated clearly. | a conversation exchanging news and talking about plans, news exchanged at a wedding | points made in informal conversation with a public official | a consultation with an expert, an auditor, a consultant | what an authority consulted said in relation to a request, what a person interviewed for a project said |
 | | Can summarise (in Language B) the main points made in long texts delivered orally (in Language A) on topics in their fields of interest, provided they can listen or view several times. | long telephone calls, TV current affairs programmes, documentaries, web talks | speeches, talks at public meetings | a presentation or lecture, a round-table discussion, relevant documentaries or current affairs programmes | university lectures, relevant documentaries or current affairs programmes, web talks |
 | | Can summarise (in Language B) the main points or events in TV programmes and video clips (in Language A), provided they can view them several times. | a scene in a film, novella or sitcom | a current affairs programme on the subject of a public meeting | a news extract, interview or public statement relevant to the institution | a scene in a documentary, an interview |
 | A2+ | Can report (in Language B) the main points made in simple TV or radio news items (in Language A) reporting events, sports, accidents, etc., provided the topics concerned are familiar and the delivery is slow and clear. | in an informal discussion with friends, chat on social media | an informal discussion in a public place (e.g. airport, restaurant) | [not applicable] | as part of a project involving collecting information from media sources |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **211***
-
-<!-- page:211 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=212 -->
-
-| Level | Processing text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | A2+ | Can report in simple sentences (in Language B) the information contained in clearly structured, short, simple texts (in Language A) that have illustrations or tables. | "who, when, where" information in a news item | options for a concert or sport event, information in notices and posters, timetables, graffiti, programmes, tickets | the details of a work schedule | an illustrated story, a simple informational text about a country, with tables of information |
 | | Can summarise (in Language B) the main point(s) in simple, short informational texts (in Language A) on familiar topics. | "who, when, where" information in a news item, website/brochures, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | reports of annual financial performance | details of tasks and assignments, descriptions of courses or examinations |
 | A2 | Can convey (in Language B) the main point(s) contained in clearly structured, short, simple texts (in Language A), supplementing their limited repertoire with other means (e.g. gestures, drawings, words/signs from other languages) in order to do so. | weather reports, very simple assembly instructions | information about times and costs of transport, availability of services | [not applicable] | weather reports, short illustrated descriptions of places, very simple picture stories |
 | A1 | Can convey (in Language B) simple, predictable information given in short, very simple signs and notices, posters and programmes (in Language A). | notes on teenagers' doors, information pinned to the fridge, e.g. whose turn it is to cook/clean/wash up | signs and notices giving directions, posters and programmes announcing and giving times of events | signs and notices giving locations and/or warnings, notices with schedules | class lists, information on events in the social programme |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_processing_text_in_speech_or_sign -->
+
+*Page **208** ▶ **CEFR – Companion volume***
+
+<!-- page:208 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in speech or sign** lives on page 208 (table_app5_processing_text_in_speech_or_sign); page 209 PDF level-slice not duplicated -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **209***
+
+<!-- page:209 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in speech or sign** lives on page 208 (table_app5_processing_text_in_speech_or_sign); page 210 PDF level-slice not duplicated -->
+
+*Page **210** ▶ **CEFR – Companion volume***
+
+<!-- page:210 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in speech or sign** lives on page 208 (table_app5_processing_text_in_speech_or_sign); page 211 PDF level-slice not duplicated -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **211***
+
+<!-- page:211 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in speech or sign** lives on page 208 (table_app5_processing_text_in_speech_or_sign); page 212 PDF level-slice not duplicated -->
 
 *Page **212** ▶ **CEFR – Companion volume***
 
 <!-- page:212 -->
+Still under **Mediating a text**. Shift to **processing text in writing**.
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=213 -->
+<!-- el:start type=artifact id=table_app5_processing_text_in_writing page=213 -->
+<!-- db:id=table_app5_processing_text_in_writing type=descriptor_scale product_tier=detailed,context pages=213-215 -->
+### Processing text in writing | table_app5_processing_text_in_writing
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Processing text in writing | Personal | Public | Occupational | Educational |
-|-------|---------------------------|----------|--------|--------------|-------------|
+|-------|----------------------------|----------|--------|--------------|-------------|
 | C2 | Can explain in writing (in Language B) the way facts and arguments are presented in a text (in Language A), particularly when someone else's position is being reported, drawing attention to the use of understatement, veiled criticism, irony and sarcasm.<br>Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result. | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
 | C1 | Can summarise in writing (in Language B) long, complex texts (in Language A), interpreting the content appropriately, provided they can occasionally check the precise meaning of unusual, technical terms. | | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference, business proposals | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals |
 | | Can summarise in writing a long and complex text (in Language A) (e.g. an academic article, article providing political analysis, novel extract, editorial, literary review, report or extract from a scientific book) for a specific audience, respecting the style and register of the original. | | contributions at a town hall meeting, a public debate, a forum discussion, a political meeting, a political tract, a public policy document, a legal opinion | a presentation at a conference, seminar or meeting, a professional publication, a technical report, a conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **213***
-
-<!-- page:213 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=214 -->
-
-| Level | Processing text in writing | Personal | Public | Occupational | Educational |
-|-------|---------------------------|----------|--------|--------------|-------------|
 | B2+ | Can summarise in writing (in Language B) the main content of well-structured but propositionally complex texts (in Language A) on subjects within their fields of professional, academic and personal interest. | a discussion on family occasions, TV news and current affairs programmes, talk shows | presentations, speeches, sermons | conference presentations | lectures, conference presentations and discussions, web talks |
 | | Can compare, contrast and synthesise in writing (in Language B) the information and viewpoints contained in academic and professional publications (in Language A) in their fields of special interest. | [not applicable] | public policy documents | professional journals and newspapers, policy documents, technical reports | academic articles, reviews, books |
 | B2 | Can explain in writing (in Language B) the viewpoint articulated in a complex text (in Language A), supporting inferences they make with reference to specific information in the original.<br>Can summarise in writing (in Language B) the main content of complex texts (in Language A) on subjects related to their fields of interest and specialisation. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
 | B1+ | Can summarise in writing (in Language B) the information and arguments contained in texts (in Language A) on subjects of general or personal interest. | documentaries, current affairs programmes, articles in a magazine or newspaper, novels, short stories, plays | a forum discussion involving several participants, blogs, speeches, sermons, legal pleas, opinions and documents, policy documents | a presentation at a conference, seminar, meeting, briefing session or press conference, a report, a contract, regulations, articles | a web talk, a lecture, an academic seminar, academic papers and books, novels, short stories, plays |
 | B1 | Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated. | a telephone call, a web talk, news bulletins, documentaries, personal letters, informational brochures, short articles | a presentation at a public meeting, public statements or notices | a video-recorded presentation at a meeting, a briefing session for a task, reports and business letters | an orientation session, instructions for an assignment, a talk by a visiting speaker, narratives and short articles |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Page **214** ▶ **CEFR – Companion volume***
-
-<!-- page:214 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=215 -->
-
-| Level | Processing text in writing | Personal | Public | Occupational | Educational |
-|-------|---------------------------|----------|--------|--------------|-------------|
 | B1 | Can paraphrase short passages in a simple fashion, using the original text wording and ordering. | personal letters, short articles, brochures, advertisements, website texts | short official letters, public statements and notices, regulations, leaflets providing information about changes to services, event programmes | reports, business letters | narratives, textbook entries, websites, news summaries, short articles |
 | A2+ | Can list as a series of bullet points (in Language B) the relevant information contained in short simple texts (in Language A), provided the texts concern concrete, familiar subjects and contain only simple everyday language.<br>Can pick out and reproduce key words and phrases or short sentences from a short text within the learner's limited competence and experience. | "who, when, where" information in a news item, website/brochure descriptions, simple guide entries | information panels in museums, institutional leaflets (e.g. hospital, police) | notices, regulations, instructions for a task | details of tasks and assignments, descriptions of courses or examinations, textbook extracts |
 | A2 | Can use simple language to convey (in Language B) the main point(s) contained in very short texts (in Language A) on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the text remains comprehensible.<br>Can copy out short texts in printed or clearly handwritten format. | letters with news | public notices, guidebook entries | simple work instructions such as how to change the toner on a printer | simple, short narratives, general academic regulations such as for an exam |
 | A1 | Can, with the help of a dictionary, convey (in Language B) the meaning of simple phrases (in Language A) on familiar and everyday themes.<br>Can copy out single words and short texts presented in standard printed format. | | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_processing_text_in_writing -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **213***
+
+<!-- page:213 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in writing** lives on page 213 (table_app5_processing_text_in_writing); page 214 PDF level-slice not duplicated -->
+
+*Page **214** ▶ **CEFR – Companion volume***
+
+<!-- page:214 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Processing text in writing** lives on page 213 (table_app5_processing_text_in_writing); page 215 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **215***
 
 <!-- page:215 -->
+<!-- el:start type=artifact id=table_app5_translating_a_written_text_in_speech_or_sign page=216 -->
+<!-- db:id=table_app5_translating_a_written_text_in_speech_or_sign type=descriptor_scale product_tier=detailed,context pages=216-217 -->
+### Translating a written text in speech or sign | table_app5_translating_a_written_text_in_speech_or_sign
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=216 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|---------------------------------------------|----------|--------|--------------|-------------|
+|-------|----------------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can provide fluent oral translation (into Language B) of abstract texts (written in Language A) on a wide range of subjects of personal, academic and professional interest, successfully conveying evaluative aspects and arguments, including the nuances and implications associated with them. | specialised magazine articles and reports on matters of personal interest | public policy document, declarations, rules or regulations | professional publications, technical reports, contracts, press releases | academic projects and related documents |
 | C1 | Can provide fluent oral translation (into Language B) of complex written texts (written in Language A) on a wide range of general and specialised topics, capturing most nuances. | | | | |
 | B2+ | Can provide oral translation (into Language B) of complex texts (written in Language A) containing information and arguments on subjects within their fields of professional, academic and personal interest. | newspaper or magazine articles on current issues of personal interest | texts accompanying artworks at a museum or exhibition, municipal regulations such as recycling, parking, etc. | technical reports related to their profession | academic articles and reports, regulations |
@@ -5621,76 +5676,28 @@ member
 | B1 | Can provide an approximate oral translation (into Language B) of clear, well-structured informational texts (written in Language A) on subjects that are familiar or of personal interest, although lexical limitations cause difficulty with formulation at times. | e-mails or letters with news from friends/relatives | simple reports such as a witness statement to an accident | a CV and presentation letter from a job or internship applicant | brochure(s) describing extracurricular activities available, including conditions |
 | | | | notices about changes to public services such as parking regulations or rubbish collection | an extended CV and presentation letter from a job or internship applicant | |
 | A2+ | Can provide an approximate oral translation (into Language B) of short, simple everyday texts (e.g. brochure entries, notices, instructions, letters or e-mails) (written in Language A). | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
+|  | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
+| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=table_app5_translating_a_written_text_in_speech_or_sign -->
 
 *Page **216** ▶ **CEFR – Companion volume***
 
 <!-- page:216 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Translating a written text in speech or sign** lives on page 216 (table_app5_translating_a_written_text_in_speech_or_sign); page 217 PDF level-slice not duplicated -->
 
-<!-- el:start type=prose id=prose_p217_s0 page=217 -->
-course/class exchanges notices on books or posters, timetables **Educational** signs and notices, exam instructions
+Still under **Mediating a text**. Shift to **translating a written text in writing**.
 
-basic health and safety basic health and safety notices, instructions, **Occupational**signs and notices, regulations at the**Text (and discourse environment)** posters, leaflets
+<!-- el:start type=artifact id=table_app5_translating_a_written_text_in_writing page=217 -->
+<!-- db:id=table_app5_translating_a_written_text_in_writing type=descriptor_scale product_tier=detailed,context pages=217-218 -->
+### Translating a written text in writing | table_app5_translating_a_written_text_in_writing
 
-regulations workplace
-
-instructions on how to information on posters posters, programmes, purchase a travel card directions, notices, signs and notices, **Public** leaflets
-
-### Mediating a text
-
-devices, instructions on products or electronic how to use a medicine
-
-e-mails and letters personal news in **Personal**[not applicable] labels on food
-
-subjects that is written in simple sentences (in Language A) (written in Language A) that are encountered on signs and (e.g. personal news, short narratives, directions, notices or Language B) of short, simple texts (e.g. notices on familiar Language B) of simple everyday words/signs and phrases Language B) of routine information on familiar everyday **Translating a written text in speech or sign** subjects) (written in Language A), capturing the most Can provide a simple, rough, oral translation (into Can provide a simple, rough oral translation (into Can provide a simple, rough oral translation (into
-
-notices, posters, programmes, leaflets, etc. **No descriptors available**essential point. instructions).**Pre-A1 A2 A1**<!-- el:end id=prose_p217_s0 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
-
-| Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|---------------------------------------------|----------|--------|--------------|-------------|
-| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
-| | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
-| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
-| Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
-
-<!-- el:start type=prose id=prose_p217_s2 page=217 --> **Educational** academic papers
-
-publications, technical **Occupational**reports, contracts,**Text (and discourse environment)** press releases professional
-
-document, a legal a political tract, **Public** a public policy
-
-opinion
-
-### Mediating a text
-
-addressed to a general articles, commentaries or other publications educated readership specialised articles, letters, newspaper **Personal** and editorials,
-
-provided subject matter accuracy is checked by a specialist Can translate (into Language B) technical material outside
-
-their field of specialisation (written in Language A), **Translating written text in writing**in the field concerned.**C2**
-<!-- el:end id=prose_p217_s2 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
-
-| Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
-|-------|---------------------------------------------|----------|--------|--------------|-------------|
-| A2 | Can provide a simple, rough, oral translation (into Language B) of short, simple texts (e.g. notices on familiar subjects) (written in Language A), capturing the most essential point. | labels on food products or electronic devices, instructions on how to use a medicine | instructions on how to purchase a travel card | basic health and safety regulations at the workplace | notices on books or course/class exchanges |
-| | Can provide a simple, rough oral translation (into Language B) of routine information on familiar everyday subjects that is written in simple sentences (in Language A) (e.g. personal news, short narratives, directions, notices or instructions). | personal news in e-mails and letters | directions, notices, information on posters | notices, instructions, basic health and safety regulations | exam instructions |
-| A1 | Can provide a simple, rough oral translation (into Language B) of simple everyday words/signs and phrases (written in Language A) that are encountered on signs and notices, posters, programmes, leaflets, etc. | [not applicable] | signs and notices, posters, programmes, leaflets | signs and notices, posters, leaflets | signs and notices, posters, timetables |
-| Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **217***
-
-<!-- page:217 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=218 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Translating a written text in writing | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------|----------|--------|--------------|-------------|
+|-------|---------------------------------------|----------|--------|--------------|-------------|
+| C2 | Can translate (into Language B) technical material outside their field of specialisation (written in Language A), provided subject matter accuracy is checked by a specialist in the field concerned. | letters, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | a political tract, a public policy document, a legal opinion | professional publications, technical reports, contracts, press releases | academic papers |
 | C1 | Can translate (into Language B) abstract texts on social, academic and professional subjects in their field (written in Language A), successfully conveying evaluative aspects and arguments, including many of the implications associated with them, though some expression may be over-influenced by the original. | letters, articles in a magazine or newspaper, short stories | speeches, sermons, policy documents | scientific, technical, financial or project reports, regulations, articles and other professional publications | academic papers and books, literary criticism |
 | B2+ | Can produce clearly organised translations (from Language A into Language B) that reflect normal language usage but may be over-influenced by the order, paragraphing, punctuation and particular formulations of the original. | letters, articles in a magazine or newspaper, some colloquial writings | | | academic papers and books, novels, short stories, plays |
 | B2 | Can produce translations (into Language B) that closely follow the sentence and paragraph structure of the original text (in Language A), conveying the main points of the source text accurately, though the translation may read awkwardly. | letters with news, articles of general interest | public documents describing general regulations, guidebook entries, statements of opinion | straightforward letters, instructions, reports on subjects in their field | straightforward narratives, general academic regulations |
@@ -5699,13 +5706,21 @@ their field of specialisation (written in Language A), **Translating written tex
 | A2 | Can use simple language to provide an approximate translation (from Language A into Language B) of very short texts on familiar and everyday themes that contain the highest frequency vocabulary; despite errors, the translation remains comprehensible. | | public notices, transportation information | simple instructions and reports on subjects in their field | simple narratives, academic regulations |
 | A1 | Can, with the help of a dictionary, translate simple words/signs and phrases (from Language A into Language B), but may not always select the appropriate meaning. | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_translating_a_written_text_in_writing -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **217***
+
+<!-- page:217 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Translating a written text in writing** lives on page 217 (table_app5_translating_a_written_text_in_writing); page 218 PDF level-slice not duplicated -->
 
 *Page **218** ▶ **CEFR – Companion volume***
 
 <!-- page:218 -->
+<!-- el:start type=artifact id=table_app5_note_taking_lectures_seminars_meetings_etc page=219 -->
+<!-- db:id=table_app5_note_taking_lectures_seminars_meetings_etc type=descriptor_scale product_tier=detailed,context pages=219-220 -->
+### Note-taking (lectures, seminars, meetings, etc.) | table_app5_note_taking_lectures_seminars_meetings_etc
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=219 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Note-taking (lectures, seminars, meetings, etc.) | Personal | Public | Occupational | Educational |
 |-------|--------------------------------------------------|----------|--------|--------------|-------------|
@@ -5714,16 +5729,6 @@ their field of specialisation (written in Language A), **Translating written tex
 | C1 | Can take detailed notes during a lecture on topics in their field of interest, recording the information so accurately and so closely to the original that the notes could also be useful to other people. | | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
 | | Can make decisions about what to note down and what to omit as the lecture or seminar proceeds, even on unfamiliar matters. | | at a public meeting, at a committee/club/association meeting, during a seminar or lecture on a topic of interest | at a management meeting, professional conference or training seminar | in a seminar or discussion forum, while attending a lecture |
 | | Can select relevant, detailed information and arguments on complex, abstract topics from multiple oral sources (e.g. lectures, podcasts, formal discussions and debates, interviews), provided the delivery is at normal speed. | in researching a topic of personal interest | in researching an area for an association, pressure group, political party, etc. | in researching an area for a report or presentation | in researching an area for a paper or seminar presentation |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **219***
-
-<!-- page:219 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=220 -->
-
-| Level | Note-taking (lectures, seminars, meetings, etc.) | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------|----------|--------|--------------|-------------|
 | B2 | Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike them as important, even though they tend to concentrate on the actual formulation and therefore to miss some information. | [not applicable] | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture, watching a web talk |
 | | Can take accurate notes in meetings and seminars on most matters likely to arise within their field of interest. | | at a public meeting, at a committee/club/association meeting, during a seminar on a topic of interest | at a management meeting, a training seminar | in a seminar or discussion forum |
 | B1+ | Can take notes during a lecture which are precise enough for their own use at a later date, provided the topic is within their field of interest and the lecture is clear and well structured. | | during a public lecture on a topic of interest | at a professional conference or training seminar | while attending a lecture or watching a web talk |
@@ -5732,70 +5737,78 @@ their field of specialisation (written in Language A), **Translating written tex
 | A2 | Can take simple notes at a presentation/demonstration where the subject matter is familiar and predictable and the presenter allows for clarification and note-taking. | | at a fair/shopping centre demonstration of a new product of interest | at a professional conference, fair or training seminar | [not applicable] |
 | A1 | No descriptors available | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_note_taking_lectures_seminars_meetings_etc -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **219***
+
+<!-- page:219 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Note-taking (lectures, seminars, meetings, etc.)** lives on page 219 (table_app5_note_taking_lectures_seminars_meetings_etc); page 220 PDF level-slice not duplicated -->
 
 *Page **220** ▶ **CEFR – Companion volume***
 
 <!-- page:220 -->
+<!-- el:start type=artifact id=table_app5_expressing_a_personal_response_to_creative_texts_including_literature page=221 -->
+<!-- db:id=table_app5_expressing_a_personal_response_to_creative_texts_including_literature type=descriptor_scale product_tier=detailed,context pages=221-222 -->
+### Expressing a personal response to creative texts (including literature) | table_app5_expressing_a_personal_response_to_creative_texts_including_literature
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=221 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Expressing a personal response to creative texts (including literature) | Personal | Public | Occupational | Educational |
-|-------|------------------------------------------------------------------------|----------|--------|--------------|-------------|
+|-------|-------------------------------------------------------------------------|----------|--------|--------------|-------------|
 | C2 | No descriptors available: see C1 | | | | |
 | C1 | Can describe in detail a personal interpretation of a work, outlining their reactions to certain features and explaining their significance. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a novel, short story, play, poem, read or studied as a member of a cultural circle organised by a cultural institute or club | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
 | | Can outline a personal interpretation of a character in a work: their psychological/emotional state, the motives for their actions and the consequences of these actions. | a novel or short story just read, a play, film or musical just seen – in discussion with friends | a film or other cultural/artistic artefact at a screening or exhibition organised by a cultural institute or club | [not applicable] | |
 | B2 | Can give a clear presentation of their reactions to a work, developing their ideas and supporting them with examples and arguments.<br>Can give a personal interpretation of the development of a plot, the characters and themes in a story, novel, film or play. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of the literature, film industry or major cultural artefacts of the other person's country | a novel, poem, play, short story or other literary work studied in class |
 | | Can describe their emotional response to a work and elaborate on the way in which it has evoked this response.<br>Can express in some detail their reactions to the form of expression, style and content of a work, explaining what they appreciated and why. | | | [not applicable] | |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **221***
-
-<!-- page:221 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=222 -->
-
-| Level | Expressing a personal response to creative texts (including literature) | Personal | Public | Occupational | Educational |
-|-------|--------------------------------------------------------------------------|----------|--------|--------------|-------------|
 | B1 | Can explain why certain parts or aspects of a work especially interested them.<br>Can explain in some detail which character they most identified with and why.<br>Can relate events in a story, film or play to similar events they have experienced or heard about.<br>Can relate the emotions experienced by a character to emotions they have experienced.<br>Can describe the emotions they experienced at a certain point in a story, e.g. the point(s) in a story when they became anxious for a character, and explain why.<br>Can explain briefly the feelings and opinions that a work provoked in them.<br>Can describe the personality of a character.<br>Can describe a character’s feelings and explain the reasons for them. | a simpler short story or novel just read, a film, musical or other show just seen – with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | in socialising with foreign partners or clients: casual discussion of/references to heritage literature (e.g. Cervantes, Shakespeare) studied at school or works of well-known film stars | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework, a video story watched in class |
 | A2 | Can express their reactions to a work, reporting their feelings and ideas in simple language.<br>Can state in simple language which aspects of a work especially interested them.<br>Can state whether they liked a work or not and explain why in simple language. | [not applicable] | [not applicable] | [not applicable] | a simple story, fairy/folk tale or poem read in class |
 | A1 | Can use simple words/signs to state how a work made them feel. | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_expressing_a_personal_response_to_creative_texts_including_literature -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **221***
+
+<!-- page:221 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Expressing a personal response to creative texts (including literature)** lives on page 221 (table_app5_expressing_a_personal_response_to_creative_texts_including_literature); page 222 PDF level-slice not duplicated -->
 
 *Page **222** ▶ **CEFR – Companion volume***
 
 <!-- page:222 -->
+<!-- el:start type=artifact id=table_app5_analysis_and_criticism_of_creative_texts_including_literature page=223 -->
+<!-- db:id=table_app5_analysis_and_criticism_of_creative_texts_including_literature type=descriptor_scale product_tier=detailed,context pages=223-224 -->
+### Analysis and criticism of creative texts (including literature) | table_app5_analysis_and_criticism_of_creative_texts_including_literature
 
-<!-- el:start type=artifact id=scale_mediating_a_text page=223 -->
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Analysis and criticism of creative texts (including literature) | Personal | Public | Occupational | Educational |
-|-------|----------------------------------------------------------------|----------|--------|--------------|-------------|
+|-------|-----------------------------------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can give a critical appraisal of work of different periods and genres (e.g. novels, poems and plays), appreciating subtle distinctions of style and implicit as well as explicit meaning.<br>Can recognise the finer subtleties of nuanced language, rhetorical effect, and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), interpreting and “unpacking” meanings and connotations.<br>Can critically evaluate the way in which structure, language and rhetorical devices are exploited in a work for a particular purpose and give a reasoned argument concerning their appropriateness and effectiveness.<br>Can give a critical appreciation of deliberate breaches of linguistic conventions in a piece of writing. | [not applicable] | in writing a review of a novel, film, writer’s or artist’s life work for the journal or blog of a cultural circle organised by a cultural institute or club | [not applicable] | a novel, poem, play, short story or other classical or contemporary work studied in a literature course |
 | C1 | Can critically appraise a wide variety of texts including literary works of different periods and genres.<br>Can evaluate the extent to which a work follows the conventions of its genre.<br>Can describe and comment on ways in which the work engages the audience (e.g. by building up and subverting expectations). | | | | |
 | B2 | Can compare two works, considering themes, characters and scenes, exploring similarities and contrasts and explaining the relevance of the connections between them.<br>Can give a reasoned opinion of a work, showing awareness of the thematic, structural and formal features and referring to the opinions and arguments of others.<br>Can evaluate the way the work encourages identification with characters, giving examples.<br>Can describe the way in which different works differ in their treatment of the same theme. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | | a novel, poem, play, short story or other literary work studied in class |
-<!-- el:end id=scale_mediating_a_text -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **223***
-
-<!-- page:223 -->
-
-<!-- el:start type=artifact id=scale_mediating_a_text page=224 -->
-
-| Level | Analysis and criticism of creative texts (including literature) | Personal | Public | Occupational | Educational |
-|-------|----------------------------------------------------------------|----------|--------|--------------|-------------|
 | B1 | Can point out the most important episodes and events in a clearly structured narrative in everyday language and explain the significance of events and the connections between them. | a novel or short story just read, a play, film, musical or other show just seen, paintings or sculptures in a gallery, cultural artefacts in a museum – in discussion with friends | a more straightforward novel or short story read as a member of a foreign language reading circle organised by a teacher or cultural institute | [not applicable] | a simpler short story, fairy/folk tale or extract from a novel read in class or for homework |
 | | Can describe the key themes and characters in short narratives involving familiar situations that contain only high frequency everyday language. | [not applicable] | [not applicable] | | |
 | A2 | Can identify and briefly describe, in basic formulaic language, the key themes and characters in short, simple narratives involving familiar situations that contain only high frequency everyday language. | | | | a simple story, fairy/folk tale or poem read in class |
 | A1 | No descriptors available | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_a_text -->
+<!-- el:end id=table_app5_analysis_and_criticism_of_creative_texts_including_literature -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **223***
+
+<!-- page:223 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Analysis and criticism of creative texts (including literature)** lives on page 223 (table_app5_analysis_and_criticism_of_creative_texts_including_literature); page 224 PDF level-slice not duplicated -->
 
 *Page **224** ▶ **CEFR – Companion volume***
 
 <!-- page:224 -->
+## Mediating concepts
 
-<!-- el:start type=artifact id=scale_mediating_concepts page=225 -->
+Still under domain examples with **Situation (and roles)** columns. Mediating concepts groups scales for collaborative interaction, constructing meaning, managing interaction, and encouraging conceptual talk. As tables change, the **mediation activity type** changes; column headers name each scale.
+
+<!-- el:start type=artifact id=table_app5_facilitating_collaborative_interaction_with_peers alias=scale_mediating_concepts page=225 -->
+<!-- db:id=table_app5_facilitating_collaborative_interaction_with_peers type=descriptor_scale product_tier=detailed,context pages=225-226 -->
+### Facilitating collaborative interaction with peers | table_app5_facilitating_collaborative_interaction_with_peers
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Facilitating collaborative interaction with peers | Personal | Public | Occupational | Educational |
 |-------|---------------------------------------------------|----------|--------|--------------|-------------|
@@ -5804,58 +5817,38 @@ their field of specialisation (written in Language A), **Translating written tex
 | B2+ | Can, based on people’s reactions, adjust the way they formulate questions and/or intervene in a group interaction.<br>Can act as rapporteur in a group discussion, noting ideas and decisions, discussing these with the group and later giving a summary of the group’s view(s) in a plenary. | | | | during a collaborative task in a class at school/university; in community-of-practice work for teacher development |
 | B2 | Can ask questions to stimulate discussion on how to organise collaborative work.<br>Can help define goals for teamwork and compare options for how to achieve them.<br>Can refocus a discussion by suggesting what to consider next, and how to proceed. | during an exchange with friends, family members, colleagues met in informal circumstances to choose between possible solutions to a problem | at community meetings dealing with a specific issue, with visual support | | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
 | B1+ | Can collaborate on a shared task, e.g. formulating and responding to suggestions, asking whether people agree, and proposing alternative approaches.<br>Can collaborate in simple, shared tasks and work towards a common goal in a group by asking and answering straightforward questions.<br>Can define the task in basic terms in a discussion and ask others to contribute their expertise and experience. | | at a community meeting dealing with a straightforward issue, with visual support | during a relatively straightforward business transaction; during committee meetings between colleagues | |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **225***
-
-<!-- page:225 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=226 -->
-
-| Level | Facilitating collaborative interaction with peers | Personal | Public | Occupational | Educational |
-|-------|---------------------------------------------------|----------|--------|--------------|-------------|
 | B1 | Can invite other people in a group to contribute their views. | during a short exchange with friends, family members, colleagues met in informal circumstances for instance to ask for advice before choosing among possible solutions to a problem | at a community meeting dealing with a straightforward issue, with visual support | as a chair/member of a group during focus group meetings; during a relatively straightforward business transaction; during committee meetings | during a simple collaborative task in a class at school/university; in community-of-practice work with the support of other teachers |
 | A2+ | Can collaborate in simple, shared tasks, provided other participants articulate slowly and one or more people help them contribute and express their suggestions. | during a short exchange with friends, family members | [not applicable] | during a straightforward business transaction | during a simple collaborative task in a class at school/university |
 | A2 | Can collaborate in simple, practical tasks, asking what others think, making suggestions and understanding responses, provided they can ask for repetition or reformulation from time to time. | | | | |
 | A1 | Can invite others’ contributions to very simple tasks using short, simple phrases prepared in advance. Can indicate that they understand and ask whether others understand. | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_concepts -->
+<!-- el:end id=table_app5_facilitating_collaborative_interaction_with_peers -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **225***
+
+<!-- page:225 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Facilitating collaborative interaction with peers** lives on page 225 (table_app5_facilitating_collaborative_interaction_with_peers); page 226 PDF level-slice not duplicated -->
 
 *Page **226** ▶ **CEFR – Companion volume***
 
 <!-- page:226 -->
+Still under **Mediating concepts**. Shift from facilitating collaborative interaction to **collaborating to construct meaning**.
 
-<!-- el:start type=artifact id=scale_mediating_concepts page=227 -->
+<!-- el:start type=artifact id=table_app5_collaborating_to_construct_meaning page=227 -->
+<!-- db:id=table_app5_collaborating_to_construct_meaning type=descriptor_scale product_tier=detailed,context pages=227-229 -->
+### Collaborating to construct meaning | table_app5_collaborating_to_construct_meaning
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
+|-------|------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can summarise, evaluate and link the various contributions in order to facilitate agreement on a solution or a way forward. | during an exchange with friends, family members, colleagues met in informal circumstances to discuss an issue they are aware of | as a chair/moderator at a community/association meeting; a fundraising event; a Q&A session in a public presentation of a project (e.g. for a new building/facility) | as a chair/moderator of a group during focus group meetings; during a business transaction; during programme meetings; during committee meetings | as a lecturer/instructor at a conference during Q&A time; during a previously organised debate in a class at school/university; in community-of-practice work for teacher development |
 | C1 | Can frame a discussion to decide on a course of action with a partner or group, reporting on what others have said, summarising, elaborating and weighing up multiple points of view. | | at community meetings dealing with a specific issue, with visual support | | |
 | | Can evaluate problems, challenges and proposals in a collaborative discussion in order to decide on the way forward.<br>Can highlight inconsistencies in thinking, and challenge others’ ideas in the process of trying to reach a consensus. | | | | in completing a group problem-solving task or project or in a class debate |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **227***
-
-<!-- page:227 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=228 -->
-
-| Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | B2+ | Can highlight the main issue that needs to be resolved in a complex task and the important aspects that need to be taken into account. | in helping a friend plan how to resolve a financial or family problem, when planning a family event, e.g. a wedding or anniversary party | as a member/chair/moderator of a planning meeting for a (political) campaign or project and/or an event set up by a club | as a chair/member of a strategy meeting or project-planning meeting | when organising a group assignment such as writing a collective review or designing a research project, in planning an exchange visit or project |
 | | Can contribute to collaborative decision making and problem solving, expressing and co-developing ideas, explaining details and making suggestions for future action.<br>Can help organise the discussion in a group by reporting what others have said, summarising, elaborating and weighing up different points of view. | when planning a complicated outing, holiday or project with family and friends | | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | when planning, with classmates/colleagues, a group assignment or project, an educational outing or exchange visit |
 | B2 | Can further develop other people’s ideas and opinions. | a conversation with family or friends to plan a themed or staged social event such as a (surprise) party | as a member of a club in a community meeting to organise a public event | | in completing a group problem-solving task or project, or in a class debate; in community-of-practice work for teacher development |
 | | Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, a house renovation | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | | |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Page **228** ▶ **CEFR – Companion volume***
-
-<!-- page:228 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=229 -->
-
-| Level | Collaborating to construct meaning | Personal | Public | Occupational | Educational |
-|-------|-----------------------------------|----------|--------|--------------|-------------|
 | B2 | Can consider two different sides of an issue, giving arguments for and against, and propose a solution or compromise. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, during a house renovation, or during a domestic dispute between housemates | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | as a member of a strategy meeting or project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project or in a class debate; in community-of-practice work for teacher development |
 | B1+ | Can organise the work in a straightforward collaborative task by stating the aim and explaining in a simple manner the main issue that needs to be resolved.<br>Can use questions, comments and simple reformulations to maintain the focus of a discussion. | in a discussion with flatmates or friends about how to reorganise arrangements in an apartment, how to repair something, how to organise an event | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | at a project-planning meeting; during collaborative work on a project | in completing a group problem-solving task or project, or in a class debate |
 | B1 | Can ask a group member to give the reason(s) for their views.<br>Can repeat part of what someone has said to confirm mutual understanding and help keep the development of ideas on course. | | | | |
@@ -5863,113 +5856,74 @@ their field of specialisation (written in Language A), **Translating written tex
 | A2 | Can make simple remarks and pose occasional questions to indicate that they are following.<br>Can make suggestions in a simple way. | | | | |
 | A1 | Can express an idea and ask what others think, using very simple words/signs and phrases, provided they can prepare in advance. | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_concepts -->
+<!-- el:end id=table_app5_collaborating_to_construct_meaning -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **227***
+
+<!-- page:227 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Collaborating to construct meaning** lives on page 227 (table_app5_collaborating_to_construct_meaning); page 228 PDF level-slice not duplicated -->
+
+*Page **228** ▶ **CEFR – Companion volume***
+
+<!-- page:228 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Collaborating to construct meaning** lives on page 227 (table_app5_collaborating_to_construct_meaning); page 229 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **229***
 
 <!-- page:229 -->
+Still under **Mediating concepts**. Shift to **managing interaction**.
 
-<!-- el:start type=artifact id=scale_mediating_concepts page=230 -->
+<!-- el:start type=artifact id=table_app5_managing_interaction page=230 -->
+<!-- db:id=table_app5_managing_interaction type=descriptor_scale product_tier=detailed,context pages=230-233 -->
+### Managing interaction | table_app5_managing_interaction
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Managing interaction | Personal | Public | Occupational | Educational |
-|-------|---------------------|----------|--------|--------------|-------------|
+|-------|----------------------|----------|--------|--------------|-------------|
 | C2 | Can take on different roles according to the needs of the participants and requirements of the activity (resource person, mediator, supervisor, etc.) and provide appropriate individualised support. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation meetings/sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
 | | Can recognise undercurrents in interaction and take appropriate steps to guide the direction of discussion. | during a short exchange with friends, family members met in informal circumstances | | | |
 | C1 | Can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases. | [not applicable] | | | |
 | | Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. | | | at a meeting on procedures, during collaborative work on a project | |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Page **230** ▶ **CEFR – Companion volume***
-
-<!-- page:230 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=231 -->
-
-| Level | Managing interaction | Personal | Public | Occupational | Educational |
-|-------|---------------------|----------|--------|--------------|-------------|
 | B2+ | Can organise and manage collaborative group work efficiently. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects, at partnering institutions | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
 | | Can monitor individual and group work non-intrusively, intervening to set a group back on task or to ensure even participation. | | | at a meeting on procedures, during collaborative work on a project | |
 | | Can intervene supportively in order to focus people’s attention on aspects of the task by asking targeted questions and inviting suggestions. | | | at consultation sessions on policy/structure change in an organisation; at professional development sessions; during work on complex collaborative projects within another business, at partnering institutions | |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **231***
-
-<!-- page:231 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=232 -->
-
-| Level | Managing interaction | Personal | Public | Occupational | Educational |
-|-------|----------------------|----------|--------|--------------|-------------|
 | B2 | Can explain the different roles of participants in the collaborative process, giving clear instructions for group work.<br>Can explain ground rules of collaborative discussion in small groups that involves problem solving or the evaluation of alternative proposals. | [not applicable] | as a member/chair/moderator at a community meeting; at a political/volunteer/charity/association meeting or sports event, at a local, regional, national, international level | as a chair/member of a group during focus group meetings; during committee meetings | during activities implying group/pair work, collaborative tasks, think/pair/share, project work at school/university or in teacher education; parent/student assembly, organising for instance a protest/opposition, a school trip; at a PhD workshop |
 | B1+ | Can intervene when necessary to set a group back on task with new instructions or to encourage more even participation. | | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project | during a clearly structured collaborative activity at school/university |
 | B1 | Can allocate turns in a discussion, inviting a participant to express their views. | | residents meeting to agree routine terms of upkeep, etc. | as a team member at a meeting of a small task force | |
 | A2 | Can give simple, clear instructions to organise an activity.<br>Can give very simple instructions to a co-operative group, given some help with formulation when necessary. | | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project, at a staff meeting on introducing new procedures/equipment | |
-<!-- el:end id=scale_mediating_concepts -->
+| A1 | No descriptors available |  |  |  |  |
+| Pre-A1 | No descriptors available |  |  |  |  |
+<!-- el:end id=table_app5_managing_interaction -->
+
+*Page **230** ▶ **CEFR – Companion volume***
+
+<!-- page:230 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Managing interaction** lives on page 230 (table_app5_managing_interaction); page 231 PDF level-slice not duplicated -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **231***
+
+<!-- page:231 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Managing interaction** lives on page 230 (table_app5_managing_interaction); page 232 PDF level-slice not duplicated -->
 
 *Page **232** ▶ **CEFR – Companion volume***
 
 <!-- page:232 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Managing interaction** lives on page 230 (table_app5_managing_interaction); page 233 PDF level-slice not duplicated -->
 
-<!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
+Still under **Mediating concepts**. Shift to **encouraging conceptual talk**.
 
-| Level | Managing interaction | Personal | Public | Occupational | Educational |
-|-------|----------------------|----------|--------|--------------|-------------|
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
+<!-- el:start type=artifact id=table_app5_encouraging_conceptual_talk page=233 -->
+<!-- db:id=table_app5_encouraging_conceptual_talk type=descriptor_scale product_tier=detailed,context pages=233-234 -->
+### Encouraging conceptual talk | table_app5_encouraging_conceptual_talk
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
-|-------|----------------------------|----------|--------|--------------|-------------|
+|-------|-----------------------------|----------|--------|--------------|-------------|
 | C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
-| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). | | | | |
-| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. | | | | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
-<!-- el:end id=scale_mediating_concepts -->
-
-<!-- el:start type=prose id=prose_p233_s1 page=233 -->
-conference during Q&A lecturer/instructor at a **Educational** in class debates or in class debates or lesson, engaging lesson, engaging seminar, giving a seminar, giving a discussions; as a when leading a when leading a
-
-discussions
-
-time
-
-brainstorming sessions team meetings and lead during project **Occupational**when taking the**Situation (and roles)**meeting discussing details of an action at a community**Public**### Mediating concepts
-
-plan
-
-issues with friends and
-
-social and political when discussing **Personal** relatives
-
-another’s information and ideas to come up with a concept discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate Can ask a series of open questions that build on different (e.g. hypothesising, inferring, analysing, justifying and Can encourage members of a group to describe and contributions in order to stimulate logical reasoning Can encourage members of a group to build on one Can effectively lead the development of ideas in a **Encouraging conceptual talk** elaborate on their thinking.
-
-on their reasoning.
-
-predicting). or solution. **B2+ C1 C2**<!-- el:end id=prose_p233_s1 -->
-
-<!-- el:start type=prose id=prose_p233_s2 page=233 --> **Educational Occupational Situation (and roles) Public**### Mediating concepts**Personal Managing interaction No descriptors available No descriptors available Pre-A1 A1**
-<!-- el:end id=prose_p233_s2 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
-
-| Level | Managing interaction | Personal | Public | Occupational | Educational |
-|-------|----------------------|----------|--------|--------------|-------------|
-| A1 | No descriptors available | | | | |
-| Pre-A1 | No descriptors available | | | | |
-
-| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
-|-------|----------------------------|----------|--------|--------------|-------------|
-| C2 | Can effectively lead the development of ideas in a discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate on their reasoning. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions |
-| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). | | | | |
-| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. | | | | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
-<!-- el:end id=scale_mediating_concepts -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **233***
-
-<!-- page:233 -->
-
-<!-- el:start type=artifact id=scale_mediating_concepts page=234 -->
-
-| Level | Encouraging conceptual talk | Personal | Public | Occupational | Educational |
-|-------|----------------------------|----------|--------|--------------|-------------|
+| C1 | Can ask a series of open questions that build on different contributions in order to stimulate logical reasoning (e.g. hypothesising, inferring, analysing, justifying and predicting). |  |  |  |  |
+| B2+ | Can encourage members of a group to describe and elaborate on their thinking.<br>Can encourage members of a group to build on one another’s information and ideas to come up with a concept or solution. |  |  |  | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
 | B2 | Can formulate questions and feedback to encourage people to expand on their thinking and justify or clarify their opinions.<br>Can build on people’s ideas and link them into coherent lines of thinking.<br>Can ask people to explain how an idea fits with the main topic under discussion. | when discussing social and political issues with friends and relatives | at a community meeting discussing details of an action plan | when taking the lead during project team meetings and brainstorming sessions | when leading a seminar, giving a lesson, engaging in class debates or discussions; as a lecturer/instructor at a conference during Q&A time |
 | B1+ | Can ask people to elaborate on specific points they made in their initial explanation. | when discussing films, plays and other forms of entertainment with friends/relatives | in attending a public consultation meeting about local issues such as transport, planning applications or community policy/events | during project team meetings and brainstorming sessions; during collaborative work on a project | when engaging in class debates or discussion |
 | B1 | Can ask appropriate questions to check understanding of concepts that have been explained. | [not applicable] | [not applicable] | | in simple class debates or discussions with (fellow) students |
@@ -5977,43 +5931,35 @@ predicting). or solution. **B2+ C1 C2**<!-- el:end id=prose_p233_s1 -->
 | A2 | Can ask what somebody thinks of a certain idea. | when discussing options with family, friends or housemates for an evening out, when organising a party | at a community meeting | during team meetings; during collaborative work on a project | when engaging in simple class discussions |
 | A1 | Can use simple isolated words/signs and non-verbal signals to show interest in an idea. | in a discussion of options for an evening out | [not applicable] | [not applicable] | in a simple group activity |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_concepts -->
+<!-- el:end id=table_app5_encouraging_conceptual_talk -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **233***
+
+<!-- page:233 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Encouraging conceptual talk** lives on page 233 (table_app5_encouraging_conceptual_talk); page 234 PDF level-slice not duplicated -->
 
 *Page **234** ▶ **CEFR – Companion volume***
 
 <!-- page:234 -->
+## Mediating communication
 
-<!-- el:start type=artifact id=scale_mediating_communication page=235 -->
+The last umbrella group: pluricultural space, informal intermediary roles, and delicate situations / disagreements. Domain columns remain **Situation (and roles)**. Scale titles in the table header mark each activity type.
+
+<!-- el:start type=artifact id=table_app5_facilitating_pluricultural_space alias=scale_mediating_communication page=235 -->
+<!-- db:id=table_app5_facilitating_pluricultural_space type=descriptor_scale product_tier=detailed,context pages=235-237 -->
+### Facilitating pluricultural space | table_app5_facilitating_pluricultural_space
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
-|-------|--------------------------------|----------|--------|--------------|-------------|
+|-------|----------------------------------|----------|--------|--------------|-------------|
 | C2 | Can mediate effectively and naturally between members of their own and other communities, taking account of sociocultural and sociolinguistic differences.<br>Can guide a sensitive discussion effectively, identifying nuances and undercurrents. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
 | C1 | Can act as a mediator in intercultural encounters, contributing to a shared communication culture by managing ambiguity, offering advice and support, and heading off misunderstandings.<br>Can anticipate how people might misunderstand what has been said or written and can help maintain positive interaction by commenting on and interpreting different cultural perspectives on the issue concerned. | when breaking/delivering news on delicate issues from third parties | at a multicultural guidance and counselling session concerning for instance marriage, divorce, child custody | when discussing the terms of a multilateral contract, when explaining the laws or regulations in another country | when teaching a university course to a multicultural class |
-<!-- el:end id=scale_mediating_communication -->
-
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **235***
-
-<!-- page:235 -->
-
-<!-- el:start type=artifact id=scale_mediating_communication page=236 -->
-
-| Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
-|-------|--------------------------------|----------|--------|--------------|-------------|
 | B2+ | Can exploit knowledge of sociocultural conventions in order to establish a consensus on how to proceed in a particular situation that is unfamiliar to everyone involved. | in multicultural gatherings or celebrations of personal relevance with friends and/or family | during a multicultural community meeting, when shopping, travelling or dealing with public affairs in a multicultural environment | during a meeting at senior management level in a multinational setting | at a seminar in a multicultural educational setting |
 | | Can, in intercultural encounters, demonstrate appreciation of perspectives other than that of their own worldview, and express themselves in a way appropriate to the context. | when discussing with friends and/or relatives social or personal issues or ways to act in an informal multicultural setting | when interacting with individuals and/or groups in the neighbourhood | helping colleagues from a different cultural background find a way through work-related problems | in supporting inclusive education |
 | | Can clarify misunderstandings and misinterpretations during intercultural encounters, suggesting how things were actually meant in order to clear the air and move the discussion forward. | in potentially conflicting private situations involving persons from different cultures or backgrounds | in peer interaction at public events (e.g. festivals, talks, demonstrations)<br>when conducting or moderating a public debate on multicultural issues | when discussing the implementation of international commercial policies with colleagues | as an instructor when dealing with conflicts between students on an international campus |
 | B2 | Can encourage a shared communication culture by expressing understanding and appreciation of different ideas, feelings and viewpoints, and inviting participants to contribute and react to each other’s ideas. | when presented to, or introducing someone to, a new group of friends/people sharing interests | in peer interaction at public events (e.g. festivals, talks, demonstrations) | when escorting colleagues from other countries around town or company premises | as an instructor when teaching a multicultural primary class at intercultural centres |
 | | Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. | when organising shared activities with friends or roommates | in joint activities with travel mates during a trip, in peer interaction at public events (e.g. festivals, talks, demonstrations) | in discussions with colleagues about simple tasks, working hours, holidays | with schoolmates in academic activities |
-<!-- el:end id=scale_mediating_communication -->
-
-*Page **236** ▶ **CEFR – Companion volume***
-
-<!-- page:236 -->
-
-<!-- el:start type=artifact id=scale_mediating_communication page=237 -->
-
-| Level | Facilitating pluricultural space | Personal | Public | Occupational | Educational |
-|-------|--------------------------------|----------|--------|--------------|-------------|
 | B2 | Can, when collaborating with people from other cultures, adapt the way they work in order to create shared procedures. | when organising shared activities with friends or roommates | during a multicultural community meeting | when discussing the implementation of international commercial policies with colleagues | at a seminar in a multicultural educational setting |
 | B1+ | Can support communication across cultures by initiating conversation, showing interest and empathy by asking and answering simple questions, and expressing agreement and understanding. | in everyday conversations with friends and relatives from different cultural backgrounds | during holidays, with locals | between colleagues during work-related telephone exchanges or conversations | with schoolmates in out-of-school activities |
 | | Can act in a supportive manner in intercultural encounters, recognising the feelings and different worldviews of other members of the group. | when organising shared activities with friends or roommates | during a multicultural community meeting | in discussions with colleagues about simple tasks, working hours, holidays | at a seminar in a multicultural educational setting |
@@ -6021,44 +5967,59 @@ predicting). or solution. **B2+ C1 C2**<!-- el:end id=prose_p233_s1 -->
 | A2 | Can contribute to an intercultural exchange, using simple words/signs to ask people to explain things and to get clarification of what they say, while exploiting a limited repertoire to express agreement, to invite, to thank, etc. | | | | |
 | A1 | Can facilitate an intercultural exchange by showing a welcoming attitude and interest with simple words/signs and non-verbal signals, by inviting others to contribute, and by indicating whether they understand when addressed directly. | | | when a newcomer is introduced into the workplace | as a student welcoming a new person who joins the group |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_communication -->
+<!-- el:end id=table_app5_facilitating_pluricultural_space -->
+
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **235***
+
+<!-- page:235 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Facilitating pluricultural space** lives on page 235 (table_app5_facilitating_pluricultural_space); page 236 PDF level-slice not duplicated -->
+
+*Page **236** ▶ **CEFR – Companion volume***
+
+<!-- page:236 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Facilitating pluricultural space** lives on page 235 (table_app5_facilitating_pluricultural_space); page 237 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **237***
 
 <!-- page:237 -->
+Still under **Mediating communication**. Shift from pluricultural space to **acting as an intermediary in informal situations**.
 
-<!-- el:start type=artifact id=scale_mediating_communication page=238 -->
+<!-- el:start type=artifact id=table_app5_acting_as_intermediary_in_informal_situations_with_friends_and_colleagues page=238 -->
+<!-- db:id=table_app5_acting_as_intermediary_in_informal_situations_with_friends_and_colleagues type=descriptor_scale product_tier=detailed,context pages=238-239 -->
+### Acting as intermediary in informal situations (with friends and colleagues) | table_app5_acting_as_intermediary_in_informal_situations_with_friends_and_colleagues
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Acting as intermediary in informal situations (with friends and colleagues) | Personal | Public | Occupational | Educational |
-|-------|----------------------------------------------------------------------------|----------|--------|--------------|-------------|
+|-------|-----------------------------------------------------------------------------|----------|--------|--------------|-------------|
 | C2 | Can communicate in a clear, fluent, well-structured way (in Language B) the sense of what is said (in Language A) on a wide range of general and specialised topics, maintaining appropriate style and register, conveying finer shades of meaning and elaborating on sociocultural implications. | in a discussion with friends/relatives, guests/hosts (e.g. on politics, literature)<br>at a gathering with guests | during a public lecture, at a political rally or meeting, at a (religious) ceremony | at a management meeting, a social or cultural event during a work-related visit in another country | at a school event such as an awards evening with parents, at a welcome address or presentation to visiting guests from other schools, in webinars, debates and discussions |
 | C1 | Can communicate fluently (in Language B) the sense of what is said (in Language A) on a wide range of subjects of personal, academic and professional interest, conveying significant information clearly and concisely as well as explaining cultural references. | interpretation, at a formal gathering with guests, of complex ceremonies, statements, conversations, or discussions | at a public meeting, at an intercultural event | during discussions on organisational matters such as international conferences or events, contract negotiations | during an interview as part of a research project, at a conference or seminar |
 | | Can mediate (between Language A and Language B) conveying detailed information, drawing the attention of both sides to background information and sociocultural cues, and posing clarification and follow-up questions or statements as necessary. | with visiting guests/relatives from another country | | | |
 | B2+ | Can communicate (in Language B) the sense of what is said in a welcome address, anecdote or presentation in their field (in Language A), interpreting cultural cues appropriately and giving additional explanations when necessary, provided the presenter stops frequently in order to allow time for them to do so. | in discussions with relatives/friends on matters such as studying or working abroad | during a guided visit | with visiting partners or clients, in a discussion in an international team about organisation, project and resource planning | in a parent–teacher meeting to discuss a child’s school performance, with an academic in discussion of their specialised field |
 | B2 | Can communicate (in Language B) the sense of what is said (in Language A) on subjects within their fields of interest, conveying and when necessary explaining the significance of important statements and viewpoints, provided the interlocutors give clarifications if needed. | in a conversation with friends/relatives, guests/hosts about important current affairs | during a guided visit (e.g. an exhibition) | during a visit to company/factory/university premises<br>at dinner with visiting colleagues | in a parent–teacher meeting to discuss a child’s school performance; during a school exchange with visiting principals, teachers or students<br>at a school event or parents’ day |
-<!-- el:end id=scale_mediating_communication -->
-
-*Page **238** ▶ **CEFR – Companion volume***
-
-<!-- page:238 -->
-
-<!-- el:start type=artifact id=scale_mediating_communication page=239 -->
-
-| Level | Acting as intermediary in informal situations (with friends and colleagues) | Personal | Public | Occupational | Educational |
-|-------|----------------------------------------------------------------------------|----------|--------|--------------|-------------|
 | B1+ | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects within their fields of interest, conveying straightforward factual information and explicit cultural references, provided they can prepare beforehand and the interlocutors articulate clearly in everyday language. | in everyday conversations with friends and relatives (e.g. on family, work, daily events) | in casual conversations with other travellers during a trip or holiday (e.g. on travel, hobbies, interests) | in everyday conversations with colleagues/workmates (e.g. on interests, work, daily events) | during a school exchange – incoming and outgoing, in a parent–teacher meeting to discuss a child’s school performance |
 | B1 | Can communicate (in Language B) the main sense of what is said (in Language A) on subjects of personal interest, while following important politeness conventions, provided the interlocutors articulate clearly and they can ask for clarification and pause to plan how to express things. | in a conversation between friends/relatives and visitors to make arrangements for an outing<br>interpreting on the telephone for relatives and friends when applying for a service such as the internet or utilities | at a restaurant with guests, conversing about background, hobbies, education<br>at a public office offering services, such as a licensing office | at the workplace to organise a leaving party<br>during a visit from a client | with a new student from their country of origin |
 | A2+ | Can communicate (in Language B) the overall sense of what is said (in Language A) in everyday situations, following basic cultural conventions and conveying the essential information, provided it is articulated clearly and they can ask for repetition and clarification. | | | | |
 | A2 | Can communicate (in Language B) the main point of what is said (in Language A) in predictable everyday situations, conveying back and forth information about personal wants and needs, provided other people help with formulation. | during the introduction of a visitor/guest to family/friend circles | at a public office offering services, such as a licensing office | during a visit from a client | |
 | A1 | Can communicate (in Language B) other people’s personal details and very simple, predictable information (in Language A), provided other people help with formulation. | | | | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_communication -->
+<!-- el:end id=table_app5_acting_as_intermediary_in_informal_situations_with_friends_and_colleagues -->
+
+*Page **238** ▶ **CEFR – Companion volume***
+
+<!-- page:238 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Acting as intermediary in informal situations (with friends and colleagues)** lives on page 238 (table_app5_acting_as_intermediary_in_informal_situations_with_friends_and_colleagues); page 239 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **239***
 
 <!-- page:239 -->
+Still under **Mediating communication**. Shift to **facilitating communication in delicate situations and disagreements**.
 
-<!-- el:start type=artifact id=scale_mediating_communication page=240 -->
+<!-- el:start type=artifact id=table_app5_facilitating_communication_in_delicate_situations_and_disagreements page=240 -->
+<!-- db:id=table_app5_facilitating_communication_in_delicate_situations_and_disagreements type=descriptor_scale product_tier=detailed,context pages=240-241 -->
+### Facilitating communication in delicate situations and disagreements | table_app5_facilitating_communication_in_delicate_situations_and_disagreements
+
+<!-- book-qa: Appendix 5 stitched full scale (was multipage domain slices); Situation (and roles) = Personal/Public/Occupational/Educational columns -->
 
 | Level | Facilitating communication in delicate situations and disagreements | Personal | Public | Occupational | Educational |
 |-------|---------------------------------------------------------------------|----------|--------|--------------|-------------|
@@ -6068,16 +6029,6 @@ predicting). or solution. **B2+ C1 C2**<!-- el:end id=prose_p233_s1 -->
 | | Can help the parties in a disagreement better understand each other by restating and reframing their positions more clearly and by prioritising needs and goals. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | |
 | | Can formulate a clear and accurate summary of what has been agreed and what is expected from each of the parties. | | in disputes regarding an accident | at collective bargaining or labour arbitration | |
 | B2 | Can, by asking questions, identify areas of common ground and invite each side to highlight possible solutions. | | helping others with complaints about bills or services at shops, transport, banks | during minor disputes at the workplace | |
-<!-- el:end id=scale_mediating_communication -->
-
-*Page **240** ▶ **CEFR – Companion volume***
-
-<!-- page:240 -->
-
-<!-- el:start type=artifact id=scale_mediating_communication page=241 -->
-
-| Level | Facilitating communication in delicate situations and disagreements | Personal | Public | Occupational | Educational |
-|-------|---------------------------------------------------------------------|----------|--------|--------------|-------------|
 | B2 | Can outline the main points in a disagreement with reasonable precision and explain the positions of the parties involved. | in a disagreement between housemates about house rules, when discussing with relatives decisions about responsibilities and measures concerning child or elderly care | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | in mediating in dysfunctional group work, when organising and managing peer mediation, or in a disagreement between two groups of students |
 | | Can summarise the statements made by the two sides, highlighting areas of agreement and obstacles to agreement. | in disputes with landlords/tenants (e.g. over financial responsibility for damage in a flat) | as a member/chair/moderator at a community meeting to discuss social policies or safety and security problems | during preparatory meetings to examine and revise an agenda or an action plan | |
 | B1+ | Can ask parties in a disagreement to explain their point of view, and can respond briefly to their explanations, provided the topic is familiar to them and the parties express themselves clearly. | in arguments between flatmates over household responsibilities or home improvements | in arguments affecting third parties at restaurants, cinemas or other public places | when dealing with everyday negative interactions between employees | when dealing with everyday negative interactions between classmates |
@@ -6085,7 +6036,12 @@ predicting). or solution. **B2+ C1 C2**<!-- el:end id=prose_p233_s1 -->
 | A2 | Can recognise when people disagree or when difficulties occur in interaction, and adapt memorised, simple phrases to seek compromise and agreement. | in arguments between flatmates over household responsibilities | in an argument at a party, on an outing, at a public place like a station or museum | when two people in the workplace have an argument about how to do something, or a task not completed | when fellow students start arguing, or are left out, during group work |
 | A1 | Can recognise when people disagree, or when someone has a problem, and can use memorised, simple expressions (e.g. “I understand” or “Are you okay?”) to indicate sympathy. | when a flatmate is upset, perhaps during or after an argument | | when a colleague is upset, perhaps during or after an argument | |
 | Pre-A1 | No descriptors available | | | | |
-<!-- el:end id=scale_mediating_communication -->
+<!-- el:end id=table_app5_facilitating_communication_in_delicate_situations_and_disagreements -->
+
+*Page **240** ▶ **CEFR – Companion volume***
+
+<!-- page:240 -->
+<!-- table-continuity: Appendix 5 full domain-example table for **Facilitating communication in delicate situations and disagreements** lives on page 240 (table_app5_facilitating_communication_in_delicate_situations_and_disagreements); page 241 PDF level-slice not duplicated -->
 
 *Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **241***
 
@@ -6098,52 +6054,58 @@ Page **242**
 <!-- page:242 -->
 
 <!-- el:start type=prose id=prose_p243_s0 page=243 -->
-Appendix 6 **DEVELOPMENT AND VALIDATION OF THE  EXTENDED ILLUSTRATIVE DESCRIPTORS UPDATING THE 2001 SCALES** The illustrative descriptor scales published in 2001 are among the most widely exploited aspects of the CEFR and the relevance of the descriptors has remained remarkably stable over time. Therefore, the approach taken was to supplement the 2001 set rather than change the descriptors in it. There are, however, substantive changes to a small number of descriptors in the scales from CEFR 2001 Chapters 4 and 5. The amendment of a small number of “absolute” statements at C2 is intended to better reflect the fact that the CEFR illustrative descriptors do not take an idealised native speaker as a reference point for the competence of a user/learner. These small changes are included in the extended set of illustrative descriptors published here, and are listed in Appendix 7. The working method adopted began with a small Authoring Group from the Eurocentres Foundation that selected, incorporated and, where necessary, adapted relevant calibrated materials drawn from the sources cited in the preface. In a series of meetings with a small group of experts that acted as a Sounding Board, the resulting set of descriptors was refined before being submitted to a larger group of consultants for review. **NEW SCALES** At this stage of the project, new scales were added for “Reading as a leisure activity” (under “Written reception”), for “Using telecommunications” (under “Spoken interaction”) and for “Sustained monologue: giving information” (under “Spoken production”). Certain existing descriptors defining more monologic speech were also moved from the scale “Information exchange” to the “Sustained monologue: giving information” scale during this process. **PRE-A1** Pre-A1 represents a “milestone” halfway towards Level A1, a band of proficiency at which the learner has not yet acquired a generative capacity, but relies upon a repertoire of words and formulaic expressions. The existence of a band of proficiency below A1 is referred to at the beginning of CEFR 2001 Section 3.5. A short list of descriptors is given there that had been calibrated below A1 in the SNSF research project that had developd the illustrative descriptors. A fuller description of the competences of learners at A1 and the inclusion of a level below A1 was important for users as evidenced by the number of descriptor projects that focused on these lower levels. Therefore, a band of proficiency labelled Pre-A1 is included in the majority of the scales. **PHONOLOGY** For “Phonological control”, which was an existing CEFR 2001 (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) scale, a completely new set of descriptors was developed /see “Phonological Scale Revision Process Report” (Piccardo 2016). Phonology had been the least successful scale developed in the research behind the descriptors published in 2001. The phonology scale was the only CEFR illustrative descriptor scale for which a native-speaker norm, albeit implicit, had been adopted. In an update, it appeared more appropriate to focus on intelligibility as the primary construct in phonological control, in line with current research, especially in the context of providing descriptors for building on plurilingual/ pluricultural repertoires. The resulting phonology project followed all three validation phases described below in relation to other new scales, with over 250 informants involved in each phase. **YOUNG LEARNERS** The collated descriptors for young learners are available on the CEFR website. There is a recognised need for instruments to better support CEFR alignment of teaching and learning for young learners. However, a conscious decision was taken to avoid parallel design and calibration of new descriptors for young learners during this project, as young learner descriptors are largely derived and adapted from the CEFR illustrative descriptors, according to age and context. Moreover, a great deal of work has already been done in this area by professionals across the member states in the design and validation of European Language Portfolios for young learners. Therefore, the approach adopted for young learners was to collect and collate descriptors for young learners
+Appendix 6
+
+**DEVELOPMENT AND VALIDATION OF THE EXTENDED ILLUSTRATIVE DESCRIPTORS UPDATING THE 2001 SCALES**
+
+The illustrative descriptor scales published in 2001 are among the most widely exploited aspects of the CEFR and the relevance of the descriptors has remained remarkably stable over time. Therefore, the approach taken was to supplement the 2001 set rather than change the descriptors in it. There are, however, substantive changes to a small number of descriptors in the scales from CEFR 2001 Chapters 4 and 5. The amendment of a small number of “absolute” statements at C2 is intended to better reflect the fact that the CEFR illustrative descriptors do not take an idealised native speaker as a reference point for the competence of a user/learner. These small changes are included in the extended set of illustrative descriptors published here, and are listed in Appendix 7. The working method adopted began with a small Authoring Group from the Eurocentres Foundation that selected, incorporated and, where necessary, adapted relevant calibrated materials drawn from the sources cited in the preface. In a series of meetings with a small group of experts that acted as a Sounding Board, the resulting set of descriptors was refined before being submitted to a larger group of consultants for review.
+
+**NEW SCALES**
+
+At this stage of the project, new scales were added for “Reading as a leisure activity” (under “Written reception”), for “Using telecommunications” (under “Spoken interaction”) and for “Sustained monologue: giving information” (under “Spoken production”). Certain existing descriptors defining more monologic speech were also moved from the scale “Information exchange” to the “Sustained monologue: giving information” scale during this process.
+
+**PRE-A1**
+
+Pre-A1 represents a “milestone” halfway towards Level A1, a band of proficiency at which the learner has not yet acquired a generative capacity, but relies upon a repertoire of words and formulaic expressions. The existence of a band of proficiency below A1 is referred to at the beginning of CEFR 2001 Section 3.5. A short list of descriptors is given there that had been calibrated below A1 in the SNSF research project that had developd the illustrative descriptors. A fuller description of the competences of learners at A1 and the inclusion of a level below A1 was important for users as evidenced by the number of descriptor projects that focused on these lower levels. Therefore, a band of proficiency labelled Pre-A1 is included in the majority of the scales.
+
+**PHONOLOGY**
+
+For “Phonological control”, which was an existing CEFR 2001 (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) scale, a completely new set of descriptors was developed /see “Phonological Scale Revision Process Report” (Piccardo 2016). Phonology had been the least successful scale developed in the research behind the descriptors published in 2001. The phonology scale was the only CEFR illustrative descriptor scale for which a native-speaker norm, albeit implicit, had been adopted. In an update, it appeared more appropriate to focus on intelligibility as the primary construct in phonological control, in line with current research, especially in the context of providing descriptors for building on plurilingual/ pluricultural repertoires. The resulting phonology project followed all three validation phases described below in relation to other new scales, with over 250 informants involved in each phase.
+
+**YOUNG LEARNERS**
+
+The collated descriptors for young learners are available on the CEFR website. There is a recognised need for instruments to better support CEFR alignment of teaching and learning for young learners. However, a conscious decision was taken to avoid parallel design and calibration of new descriptors for young learners during this project, as young learner descriptors are largely derived and adapted from the CEFR illustrative descriptors, according to age and context. Moreover, a great deal of work has already been done in this area by professionals across the member states in the design and validation of European Language Portfolios for young learners. Therefore, the approach adopted for young learners was to collect and collate descriptors for young learners and organise these into the two main age groups (7 to 10 and 11 to 15) that were represented by the majority of validated ELP samples available.
 <!-- el:end id=prose_p243_s0 -->
 
 Page **243**
 
 <!-- page:243 -->
-
 <!-- el:start type=figure_page id=figure_18_young_learner_project_design page=244 -->
-and organise these into the two main age groups (7 to 10 and 11 to 15) that were represented by the majority of validated ELP samples available.
-
 Though not fully comprehensive, the project brings together a representative selection of ELP descriptors for young learners from a range of Council of Europe member states, using in particular materials drawn from accredited models in the Council of Europe ELP bank and/or samples registered on the Council of Europe website, along with young learner assessment descriptors supplied by Cambridge Assessment English. These were individually aligned to the illustrative descriptors published in 2001 according to level, identifying meaningful correspondences between young learner descriptors and CEFR illustrative descriptors, and presented to the Sounding Board of experts for document peer review. This collation and alignment is intended to support further development of young learner curricula, portfolios and assessment instruments, with an awareness of lifelong learning leading to competences described in the CEFR.
 
 In addition, the extended illustrative descriptors were included in the document for educators to consider for relevance to young learner programmes. Guidance judgments were added as to the proposed relevance of each of the extended CEFR illustrative descriptors to each of the two age groups. These judgments were also ratified by the Sounding Board through peer review, and in a separate consultative workshop.
 
 The descriptors51 are presented in two documents, one for each age group. The documents have an identical structure, presenting the descriptors by level, starting with Pre-A1, and filtering out non-relevant CEFR illustrative descriptors that have been evaluated as clearly beyond the typical cognitive, social or experiential capacity of the age group (mainly at the higher levels). The documents thus show what CEFR descriptor the young learner descriptor is related to along with an indication of the relevance of a CEFR descriptor to the age group if no young learner descriptor examples are yet available. Additionally, an archive document retains all the mapped descriptors together for both age groups, organised by scale.
 
-<!-- db:id=figure_18_young_learner_project_design type=figure render_as=mermaid product_tier=context pages=244 -->
+<!-- db:id=figure_18_young_learner_project_design type=figure render_as=png product_tier=context pages=244 -->
 ### Figure 18 – Development design of Young Learner Project | figure_18_young_learner_project_design
 
-```mermaid
-flowchart TD
-  PW[Preparatory work] --> IC[Initial collation of validated ELP and assessment descriptors]
-  IC --> CS[Categorisation of sources]
-  CS --> EC1[Expert consultation]
-  PW --> DEV[Development]
-  DEV --> JC[Judgement of correspondences to 2001 illustrative descriptors]
-  JC --> SCR[Steering committee review of collation format]
-  SCR --> AD[Addition of extended set descriptors with judgements of relevance]
-  DEV --> QV[Qualitative validation]
-  QV --> EC2[Expert consultation - peer review]
-  EC2 --> RW[Rework / expert workshop]
-  QV --> SRD[Separate reference documents for each age group]
-  SRD --> FU[Final updates]
-  QV --> FIN[Finalisation]
-  FIN --> FU
-  FU --> OUT[A new collation of descriptors for young learners]
-``` **Initial collation  of validated ELP & assessment  Preparatory descriptors work**Shortlist of 35 sources evaluated / collated from 19 member states**Judgement of  correspondences to 2001 illustrative  descriptors Development**By main researcher, according to validated Young Learner descriptor levels**Expert  consultation Qualitative**Peer review of Young**validation**Learner descriptor alignment and judgments of relevance**Separate  reference documents for  each age group**Introduction chapter**Finalisation** Reorganisation of descriptors by level rather than scale Archive version retained with both age groups organised by scale **Categorisation  Expert consultation of sources**Relevant age Sources aligned groups finalised by age group**Addition of  Steering extended set  committee descriptors  review of with judgments  collation format of relevance** By members of CEFR Extended descriptors extended set expert evaluated for relevance authoring group to each age group **Rework / expert  workshop**Update of alignments, judgments of relevance and comments**Final updates**Adjustments to final**A new collation**document versions**of descriptors for**to reflect validated changes to the**young learners** extended set of CEFR illustrative descriptors
+![Figure 18 – Development design of Young Learner Project](assets/figures/figure_18_young_learner_project_design.png)
+
+<!-- figure render: png assets/figures/figure_18_young_learner_project_design.png (diagram-only crop; caption/prose excluded) -->
+
 <!-- el:end id=figure_18_young_learner_project_design -->
 
-51.	 Bank of supplementary descriptors, www.coe.int/en/web/common-european-framework-reference-languages/bank-ofsupplementary-descriptors.
+51.  Bank of supplementary descriptors, www.coe.int/en/web/common-european-framework-reference-languages/bank-ofsupplementary-descriptors.
 
 *Page **244** ▶ **CEFR – Companion volume***
 
 <!-- page:244 -->
 
-<!-- el:start type=prose id=prose_p245_s0 page=245 --> **MEDIATION The conceptual approach to mediation** The 1996 provisional version of the CEFR, published during the last stages of the Swiss research project, sketched out categories for illustrative descriptor scales for mediation to complement those for reception, interaction and production. However, no project was set up to develop them. One important aim of the current update, therefore, was to finally provide such descriptor scales for mediation, given the increasing relevance of this area in education. In the consideration of mediation, descriptors for building on plurilingual and pluricultural repertoires were also added. It was to the validation of these new descriptors for mediation, online interaction, reactions to literature and building on plurilingual/pluricultural repertoires that the institutions listed in the preface contributed.
+<!-- el:start type=prose id=prose_p245_s0 page=245 -->
+**MEDIATION The conceptual approach to mediation**
+
+The 1996 provisional version of the CEFR, published during the last stages of the Swiss research project, sketched out categories for illustrative descriptor scales for mediation to complement those for reception, interaction and production. However, no project was set up to develop them. One important aim of the current update, therefore, was to finally provide such descriptor scales for mediation, given the increasing relevance of this area in education. In the consideration of mediation, descriptors for building on plurilingual and pluricultural repertoires were also added. It was to the validation of these new descriptors for mediation, online interaction, reactions to literature and building on plurilingual/pluricultural repertoires that the institutions listed in the preface contributed.
 
 The main focus in developing new scales was on mediation, for aspects of which 23 descriptor scales are now available (mediation activities: 18; mediation strategies: 5). The approach taken to mediation was broader than that presented in CEFR 2001, in which Section 2.1.3 introduced mediation as the fourth category of communicative language activities, in addition to reception, interaction and production:
 
@@ -6179,7 +6141,11 @@ Finally, consideration of cross-linguistic and cultural mediation led to an inte
 <!-- page:245 -->
 
 <!-- el:start type=prose id=prose_p246_s0 page=246 -->
-The aim of developing descriptors for plurilingual and pluricultural competence (https://rm.coe.int/168069d29b) linked to CEFR levels is to encourage teachers to include the acquisition of plurilingual and pluricultural competence, appropriate to the proficiency level of their learners, in their planning. **METHODOLOGY ADOPTED** The project emulated and further extended the methodologies employed in the original CEFR descriptor research by Brian North and Günther Schneider in Switzerland. It followed a similar mixed methods research design, with qualitative and quantitative development, as summarised in Figure 12. An extensive review of relevant literature was followed by an intuitive authoring phase, with feedback from a Sounding Board. This was followed between February 2015 and February 2016 by three phases of validation activities with around 1 000 people. The validation was then followed between July 2016 and February 2017 by three rounds of consultation, with piloting between January 2017 and July 2017.
+The aim of developing descriptors for plurilingual and pluricultural competence (https://rm.coe.int/168069d29b) linked to CEFR levels is to encourage teachers to include the acquisition of plurilingual and pluricultural competence, appropriate to the proficiency level of their learners, in their planning.
+
+**METHODOLOGY ADOPTED**
+
+The project emulated and further extended the methodologies employed in the original CEFR descriptor research by Brian North and Günther Schneider in Switzerland. It followed a similar mixed methods research design, with qualitative and quantitative development, as summarised in Figure 12. An extensive review of relevant literature was followed by an intuitive authoring phase, with feedback from a Sounding Board. This was followed between February 2015 and February 2016 by three phases of validation activities with around 1 000 people. The validation was then followed between July 2016 and February 2017 by three rounds of consultation, with piloting between January 2017 and July 2017.
 
 The methodology followed for the development and validation of the new scales mirrored that undertaken in the original Swiss research (see CEFR 2001 Appendix B), but on a larger scale. Like the original research the project had three broad phases:
 
@@ -6187,15 +6153,21 @@ The methodology followed for the development and validation of the new scales mi
 - checking and improving the categories and quality of the descriptors (qualitative phase);
 - calibrating the best descriptors to a mathematical scale and confirming the cut-offs between the levels (quantitative phase).
 
-The above tasks took place between January 2014 and March 2016, followed by consultation and piloting. **PREPARATORY WORK** The first step was to collect existing instruments and articles related to mediation; at this point the mediation descriptors from Profile Deutsch and some other sources were translated into English. In a series of liaison meetings with Daniel Coste and Marisa Cavalli, the authors of “Education, mobility, otherness – The mediation functions of schools” (Coste and Cavalli 2015), a set of initial categories was developed and an initial collection of descriptors for mediating text and mediating concepts was collected and drafted. The main categories into which scales were grouped in the early stages were:
+The above tasks took place between January 2014 and March 2016, followed by consultation and piloting.
+
+**PREPARATORY WORK**
+
+The first step was to collect existing instruments and articles related to mediation; at this point the mediation descriptors from Profile Deutsch and some other sources were translated into English. In a series of liaison meetings with Daniel Coste and Marisa Cavalli, the authors of “Education, mobility, otherness – The mediation functions of schools” (Coste and Cavalli 2015), a set of initial categories was developed and an initial collection of descriptors for mediating text and mediating concepts was collected and drafted. The main categories into which scales were grouped in the early stages were:
 
 - cognitive mediation (facilitating access to knowledge, awareness and skills);
 - interpersonal mediation (establishing and maintaining relationships; defining roles and conventions in order to enhance receptivity, avoid/resolve conflict and negotiate compromise);
 - textual mediation (transmitting information and argument: clarifying, summarising, translating, etc.).
 
-The full initial collection also included a number of draft scales related to aspects of institutional mediation (for example: integrating newcomers, dealing with stakeholders as an institution, developing and maintaining institutional relationships), together with a number of scales on different aspects of mediation by teachers – both aspects reflecting the focus of Coste and Cavalli on the mediation role of schools. However, at the first consultative meeting, held in July 2014, there was a consensus that these scales were in effect recycling aspects of interaction and production already present in the CEFR, rather than breaking new ground. For this reason, development was focused on the above-mentioned categories of conceptual, interpersonal and textual mediation. The collection was reworked for an expert meeting that set up an Authoring Group in September 2014. **DEVELOPMENT**
+The full initial collection also included a number of draft scales related to aspects of institutional mediation (for example: integrating newcomers, dealing with stakeholders as an institution, developing and maintaining institutional relationships), together with a number of scales on different aspects of mediation by teachers – both aspects reflecting the focus of Coste and Cavalli on the mediation role of schools. However, at the first consultative meeting, held in July 2014, there was a consensus that these scales were in effect recycling aspects of interaction and production already present in the CEFR, rather than breaking new ground. For this reason, development was focused on the above-mentioned categories of conceptual, interpersonal and textual mediation. The collection was reworked for an expert meeting that set up an Authoring Group in September 2014.
 
-The Authoring Group then conducted a thorough literature review and redrafted the initial collection in a series of meetings between September 2014 and February 2015. Sub-groups worked on online interaction, plurilingual/pluricultural competence and phonology. Work on plurilingual and pluricultural competences arose naturally from consideration of cross-linguistic mediation, particularly in the role of intermediaries. Work on phonology was undertaken because the existing CEFR 2001 scale for phonological control, alone among the CEFR illustrative scales, took an implied native speaker as a point of reference and set up unrealistic expectations (B2: “Has acquired a natural pronunciation and intonation”). This was considered incompatible with a plurilingual perspective. A Sounding Board closely supported the work of the Authoring Group with input materials and feedback. In February 2015, a set of 427 draft descriptors for online interaction, mediation activities and strategies and for plurilingual/pluricultural competence were ready for the first round of validation activities. Since work on
+**DEVELOPMENT**
+
+The Authoring Group then conducted a thorough literature review and redrafted the initial collection in a series of meetings between September 2014 and February 2015. Sub-groups worked on online interaction, plurilingual/pluricultural competence and phonology. Work on plurilingual and pluricultural competences arose naturally from consideration of cross-linguistic mediation, particularly in the role of intermediaries. Work on phonology was undertaken because the existing CEFR 2001 scale for phonological control, alone among the CEFR illustrative scales, took an implied native speaker as a point of reference and set up unrealistic expectations (B2: “Has acquired a natural pronunciation and intonation”). This was considered incompatible with a plurilingual perspective. A Sounding Board closely supported the work of the Authoring Group with input materials and feedback. In February 2015, a set of 427 draft descriptors for online interaction, mediation activities and strategies and for plurilingual/pluricultural competence were ready for the first round of validation activities. Since work on plurilingual/pluricultural competence and phonology started later, only some of the descriptors for the former and none of those for the latter were included at this point.
 <!-- el:end id=prose_p246_s0 -->
 
 *Page **246** ▶ **CEFR – Companion volume***
@@ -6203,7 +6175,13 @@ The Authoring Group then conducted a thorough literature review and redrafted th
 <!-- page:246 -->
 
 <!-- el:start type=prose id=prose_p247_s0 page=247 -->
-plurilingual/pluricultural competence and phonology started later, only some of the descriptors for the former and none of those for the latter were included at this point. The phonology descriptors were first tried out in a workshop in June 2015 and in consultation with phonology experts. **QUALITATIVE VALIDATION** By this stage, 137 institutes had been recruited to take part in validation. This first phase took place at these institutions from February to March 2015 during face-to-face workshop sessions, in which almost 1 000 people took part. The task was a more systematic version of the one used in the 32 workshops in the original CEFR descriptor research project. Participants discussed in pairs some 60 descriptors for three to five related areas, decided what area they were describing, rated them for (a) clarity, (b) pedagogic relevance and (c) relation to real-world language use, and suggested improvements to formulation. Following this, some 60 descriptors were dropped, including one entire scale. Very many of the other descriptors were reformulated, usually shortened, and two new scales (“Spoken translation of written text”; “Breaking down complicated information”) were drafted at the suggestion of workshop participants. It was at this point that some of the detail being removed from descriptors was put into examples for different domains (see Appendix 5). Qualitative validation for phonology, in which 250 project participants took part online in the same (familiar) activities, came much later in the year, in November and December 2015. **QUANTITATIVE VALIDATION**
+The phonology descriptors were first tried out in a workshop in June 2015 and in consultation with phonology experts.
+
+**QUALITATIVE VALIDATION**
+
+By this stage, 137 institutes had been recruited to take part in validation. This first phase took place at these institutions from February to March 2015 during face-to-face workshop sessions, in which almost 1 000 people took part. The task was a more systematic version of the one used in the 32 workshops in the original CEFR descriptor research project. Participants discussed in pairs some 60 descriptors for three to five related areas, decided what area they were describing, rated them for (a) clarity, (b) pedagogic relevance and (c) relation to real-world language use, and suggested improvements to formulation. Following this, some 60 descriptors were dropped, including one entire scale. Very many of the other descriptors were reformulated, usually shortened, and two new scales (“Spoken translation of written text”; “Breaking down complicated information”) were drafted at the suggestion of workshop participants. It was at this point that some of the detail being removed from descriptors was put into examples for different domains (see Appendix 5). Qualitative validation for phonology, in which 250 project participants took part online in the same (familiar) activities, came much later in the year, in November and December 2015.
+
+**QUANTITATIVE VALIDATION**
 
 In the next phase, 189 institutions took part, with a total of 1 294 participants from 45 countries. Again, each participating institution organised a face-to-face workshop. After familiarisation activities similar to those recommended in the Council of Europe’s manual entitled “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (https://rm.coe.int/1680667a2d) (Council of Europe 2009) participants took part in a standard-setting workshop in which, individually and after discussion, they assigned draft descriptors to CEFR levels. The full range of CEFR proficiency bands from the initial CEFR descriptor research was used for this purpose (= 10 bands from Pre-A1 to C2). Participants wrote their decisions on PDF printouts and only at the end did they enter their considered, final, individual decisions into an online survey.
 
@@ -6213,7 +6191,7 @@ A matrix of this type was used for each of the validation phases, with a conscio
 
 Results from the preliminary quantitative analysis were discussed at a consultative meeting in July 2015, following which 36 descriptors were dropped and about half relegated to recalibration, usually after amendments. A major issue was a lack of descriptors at A1 and A2 for mediation and plurilingual/pluricultural competence. An effort was made to draft these before the following phase.
 
-The main quantitative data collection then followed in an online survey conducted in English and French between October and December 2015. This time respondents replied individually to the question: “Could you, or a person whom you are thinking of, do what is described in the descriptor?” They were asked to do this three times, for their different plurilingual personae and/or for people whom they knew very well (partners, children, etc.), and this resulted in 3 503 usable responses from about 1 500 people. The task was a slightly adapted replication of the one used in the calibration of the descriptors published in 2001, which was based on teacher assessment with descriptors of a representative sample of students in their classes. Two analyses were carried out: a global analysis with all the descriptors and a second analysis in which each main category was analysed separately. Decisions about the level of each descriptor were then made on the basis of all of the information available.
+The main quantitative data collection then followed in an online survey conducted in English and French between October and December 2015. This time respondents replied individually to the question: “Could you, or a person whom you are thinking of, do what is described in the descriptor?” They were asked to do this three times, for their different plurilingual personae and/or for people whom they knew very well (partners, children, etc.), and this resulted in 3 503 usable responses from about 1 500 people. The task was a slightly adapted replication of the one used in the calibration of the descriptors published in 2001, which was based on teacher assessment with descriptors of a representative sample of students in their classes. Two analyses were carried out: a global analysis with all the descriptors and a second analysis in which each main category was analysed separately. Decisions about the level of each descriptor were then made on the basis of all of the information available.
 
 Quantitative validation for phonology followed in January 2016, with 272 people taking part. There were two tasks: (a) assigning to levels, and (b) assessing learner performances in video clips (“Can the learner in the video do what is described in the descriptor?”). Different standard-setting techniques were employed; again, readers are referred to “Phonological Scale Revision Process Report” (Piccardo 2016) for details.
 <!-- el:end id=prose_p247_s0 -->
@@ -6221,8 +6199,9 @@ Quantitative validation for phonology followed in January 2016, with 272 people 
 *Development and validation of the extended illustrative descriptors ▶ Page **247***
 
 <!-- page:247 -->
-
-<!-- el:start type=artifact id=scale_the_rasch_model page=248 -->
+<!-- el:start type=artifact id=callout_the_rasch_model page=248 -->
+> **The Rasch Model**
+>
 > The Rasch Model is named after a Danish mathematician, George Rasch. It is the most commonly used of a family of probability models that operationalise latent trait theory (also called item response theory – IRT). The model analyses the extent to which an item “fits” in the underlying construct (= latent trait) that is being measured. It also estimates on a mathematical scale, firstly difficulty values (= how difficult each item is) and secondly, ability values (= how competent each person is in the trait in question). The model is used for many purposes but two of the main ones are:
 >
 > - building banks of items for tests;
@@ -6234,67 +6213,52 @@ Quantitative validation for phonology followed in January 2016, with 272 people 
 > The main advantage of the Rasch Model is that, unlike with classical test theory, the values obtained are generalisable to other groups that can be considered to be part of the same overall population (that is, sufficiently share the same characteristics).
 >
 > The objective scaling and the potential generalisability of the scale values obtained makes the model particularly suitable for determining at which level one should situate “can do” descriptors on a common framework scale like the CEFR levels.
-<!-- el:end id=scale_the_rasch_model -->
+<!-- el:end id=callout_the_rasch_model -->
 
-<!-- el:start type=prose id=prose_p248_s1 page=248 --> **FURTHER VALIDATION OF PLURILINGUAL AND PLURICULTURAL COMPETENCE (https://rm.coe.int/168069d29b)**
+<!-- el:start type=prose id=prose_p248_s1 page=248 -->
+**FURTHER VALIDATION OF PLURILINGUAL AND PLURICULTURAL COMPETENCE**
 
 Finally, an extra survey was carried out in February 2016 for three reasons. Firstly, it was an opportunity to include descriptors for reception strategies and plurilingual comprehension, mostly adapted from the MIRIADI Project;52 secondly, the task in the main online survey had not worked well for plurilingualism, so the extra survey re-ran this with a different task; finally, it was an opportunity to add more descriptors for pluricultural competence, particularly at lower levels. The survey was carried out in two completely separate parallel versions. From among the project participants, 267 volunteers completed one form, while 62 experts in plurilingual education completed the other. The results were then contrasted and it was established that there was no statistically significant difference between them. The calibrations to levels were also extremely compatible with the existing CEFR 2001 scale for sociolinguistic appropriateness.
 <!-- el:end id=prose_p248_s1 -->
 
-52.	 www.miriadi.net/en/miriadi-plan.
+52.  www.miriadi.net/en/miriadi-plan.
 
 *Page **248** ▶ **CEFR – Companion volume***
 
 <!-- page:248 -->
-
 <!-- el:start type=figure_page id=figure_19_multimethod_research_design page=249 -->
-<!-- db:id=figure_19_multimethod_research_design type=figure render_as=mermaid product_tier=context pages=249 -->
+<!-- db:id=figure_19_multimethod_research_design type=figure render_as=png product_tier=context pages=249 -->
 ### Figure 19 – Multimethod developmental research design | figure_19_multimethod_research_design
 
-```mermaid
-flowchart TB
-  subgraph prep [Preparatory work]
-    IC[Initial collection]
-    CM[Consultative meeting]
-    RV1[Revision]
-    EM[Expert meeting]
-  end
-  subgraph dev [Development]
-    MED[Mediation track]
-    PLU[Plurilingual track]
-    PHO[Phonology track]
-  end
-  subgraph qual [Qualitative validation]
-    WS1[Workshops - 140 workshops, 999 participants]
-    RV2[Revision - 60 descriptors dropped]
-    OS1[Online survey - 250 responses]
-  end
-  subgraph quant [Quantitative validation]
-    WS2[Workshops - 189 workshops, 1294 responses]
-    OS2[Online survey - 3503 responses]
-    DA[Data analysis - Rasch scaling and standard-setting]
-  end
-  subgraph consult [Consultation and Piloting]
-    PC[Pre-consultation]
-    FC[Formal consultation]
-    PIL[Piloting]
-    DIS[Dissemination]
-  end
-  prep --> dev --> qual --> quant --> consult
-```
+![Figure 19 – Multimethod developmental research design](assets/figures/figure_19_multimethod_research_design.png)
+
+<!-- figure render: png assets/figures/figure_19_multimethod_research_design.png (diagram-only; includes prep + consultation/piloting top borders; caption excluded) -->
+
 <!-- el:end id=figure_19_multimethod_research_design -->
 
 *Development and validation of the extended illustrative descriptors ▶ Page **249***
 
 <!-- page:249 -->
 
-<!-- el:start type=prose id=prose_p250_s0 page=250 --> **ISSUES AND RESPONSES** A great amount of feedback was given by participants in the validation activities in 2015, in consultation meetings and during the wider consultation and piloting in 2016-17. This section focuses on some of the key issues that were raised over the duration of the project and how each one was addressed. **RELATIONSHIP OF MEDIATION SCALES TO CEFR 2001 SCALES** Although the focus in the project was to provide descriptors for activities and strategies that were not already covered by CEFR 2001 descriptor scales, some aspects of the mediation scales, particularly at lower levels, are reminiscent of the kinds of activities described in existing CEFR scales. This is because some aspects of mediation, in the broader interpretation now being adopted, are already present in the illustrative descriptor scales published in 2001. The new scales under “Mediating a text” for “Relaying specific information”, “Explaining data” and “Processing text”, for example, are an elaboration of concepts introduced in the existing scale for “Processing text” under “Text” in CEFR 2001 Section 4.6.3. Similarly, the scales particularly concerning group interaction in “Facilitating collaborative interaction with peers”, “Collaborating to construct meaning” and “Encouraging conceptual talk”, are in many ways a further development of concepts in the existing scale “Co-operating strategies under interaction strategies”. This underlines the difficulty of any scheme of categorisation. We should never underestimate the fact that categories are convenient, invented artefacts that make it easier for us to interpret the world. Boundaries are fuzzy and overlap is inevitable. **CROSS-LINGUISTIC MEDIATION**
+<!-- el:start type=prose id=prose_p250_s0 page=250 -->
+**ISSUES AND RESPONSES**
+
+A great amount of feedback was given by participants in the validation activities in 2015, in consultation meetings and during the wider consultation and piloting in 2016-17. This section focuses on some of the key issues that were raised over the duration of the project and how each one was addressed.
+
+**RELATIONSHIP OF MEDIATION SCALES TO CEFR 2001 SCALES**
+
+Although the focus in the project was to provide descriptors for activities and strategies that were not already covered by CEFR 2001 descriptor scales, some aspects of the mediation scales, particularly at lower levels, are reminiscent of the kinds of activities described in existing CEFR scales. This is because some aspects of mediation, in the broader interpretation now being adopted, are already present in the illustrative descriptor scales published in 2001. The new scales under “Mediating a text” for “Relaying specific information”, “Explaining data” and “Processing text”, for example, are an elaboration of concepts introduced in the existing scale for “Processing text” under “Text” in CEFR 2001 Section 4.6.3. Similarly, the scales particularly concerning group interaction in “Facilitating collaborative interaction with peers”, “Collaborating to construct meaning” and “Encouraging conceptual talk”, are in many ways a further development of concepts in the existing scale “Co-operating strategies under interaction strategies”. This underlines the difficulty of any scheme of categorisation. We should never underestimate the fact that categories are convenient, invented artefacts that make it easier for us to interpret the world. Boundaries are fuzzy and overlap is inevitable.
+
+**CROSS-LINGUISTIC MEDIATION**
 
 Earlier versions of the descriptors had experimented with various formulations seeking to take account of this point. However, making clear distinctions proved to be remarkably difficult. “Mother tongue” and “first language” and “language of schooling” are often not synonymous and even expressions like “source language” and “target language” proved confusing (for example when mediating from another language one may be mediating to the mother tongue; the other language is in such a case the source language and the mother tongue would be the target language). Attempts to cater to these variations also meant that at one point the collection of descriptors unnecessarily tripled in size, with very minor changes in formulation.
 
 Therefore, the project group decided to take the line that, as with the illustrative descriptors published in 2001, what is calibrated is the perceived difficulty of the functional language ability irrespective of what languages are involved. It is recommended that those languages be specified by the user as part of the adaptation of the descriptors for practical use.
 
 The scales for “Mediating a text” contain a reference to “Language A” and “Language B”: broad terms for mediated communication sources and communication outputs respectively. It is stated in the notes that mediation may be within one language or across languages, varieties or registers (or any combination of these), and that the user may wish to state the specific languages concerned. Equally, the user may wish to provide examples relevant to their context, perhaps inspired by those presented in Appendix 5 for the four domains of language use: public, personal, occupational and educational.
+
+
+For example, the first descriptor on the scale for “Relaying specific information in speech or sign”:
 
 Can explain (in Language B) the relevance of specific information given in a particular section of a long, complex text (in Language A).
 
@@ -6311,7 +6275,18 @@ All the descriptors for mediating a text involve integrated skills, a mixture of
 
 <!-- page:250 -->
 
-Similarly, the profiles of user/learners at, for example, B1 will differ greatly in relation to “Building on plurilingual/ pluricultural repertoire”, dependent on their personal trajectories and the experience and competences acquired along the way. Therefore, rather than seeking to eliminate the influence of individual differences, the approach taken in the descriptors acknowledges that they are a key contributing factor to learners’ unique profiles of communicative ability. **GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES  IN BUILDING ON PLURICULTURAL REPERTOIRE** As with mediating, using one’s pluricultural repertoire involves a range of general competences (CEFR 2001 Section 5.1), usually in close conjunction with pragmatic and sociolinguistic competences (CEFR 2001 Section 5.2.2 and 5.2.3). Thus in this scale, as in the mediation scales and many other CEFR scales, competences other than language competences come into play. The boundaries between knowledge of the world, sociocultural knowledge and intercultural awareness are not really clear-cut, as the CEFR 2001 explains. Nor are those between practical skills and know-how – which includes social skills – and sociocultural knowledge or intercultural skills and know-how. The field of socio-pragmatics also studies aspects of these areas from a more “linguistic” point of view. What is more important than possible overlap between categories is the fact that the user/learner calls on all these various aspects, merged with the appropriate communicative language competence, in the creation of meaning in a communicative situation. Some are more likely than others to be able to do this to the extent permitted by a given language proficiency level, perhaps because of their differing aptitudes and experience. **CONSULTATION AND PILOTING**
+<!-- el:start type=prose id=prose_p251_s0 page=251 -->
+**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES**
+
+In any CEFR descriptor scale, the descriptors at a particular level define what can reasonably be achieved when the user/learner has a communicative language competence (CEFR 2001 Section 5.2) in the language(s) concerned corresponding to the CEFR level given, provided the person concerned also has the personal characteristics, knowledge, cognitive maturity and experience – that is to say the general competences (CEFR 2001 Section 5.1) – necessary to do so successfully. The CEFR scales are intended to be used to profile ability. It is unlikely that all users who are globally “B1” are capable of doing exactly what is defined at B1 on all CEFR descriptor scales, no more and no less. It is far more likely that people whose overall level is at B1 will in fact be A2 or A2+ in relation to some activities and B1+ or even B2 in relation to others, depending upon their personal profile of general competences, in turn dependent on age, experience, etc. This is the case with many existing CEFR 2001 descriptor scales that concern cognitive abilities like “Note-taking”, “Reading for information and argument”, “Formal discussion (meetings)”, “Sustained monologue: addressing audiences”, and producing “Reports and essays”. It is equally the case with many mediation activities. Some of the scales under mediating a text (for example “Processing text”) or mediation strategies (for example “Streamlining text”) involve activities requiring a degree of cognitive sophistication that may also not be shared equally by everyone. Furthermore, the scales for mediating communication require interpersonal skills that are not shared equally, partly due to experience.
+
+Similarly, the profiles of user/learners at, for example, B1 will differ greatly in relation to “Building on plurilingual/ pluricultural repertoire”, dependent on their personal trajectories and the experience and competences acquired along the way. Therefore, rather than seeking to eliminate the influence of individual differences, the approach taken in the descriptors acknowledges that they are a key contributing factor to learners’ unique profiles of communicative ability.
+
+**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES IN BUILDING ON PLURICULTURAL REPERTOIRE**
+
+As with mediating, using one’s pluricultural repertoire involves a range of general competences (CEFR 2001 Section 5.1), usually in close conjunction with pragmatic and sociolinguistic competences (CEFR 2001 Section 5.2.2 and 5.2.3). Thus in this scale, as in the mediation scales and many other CEFR scales, competences other than language competences come into play. The boundaries between knowledge of the world, sociocultural knowledge and intercultural awareness are not really clear-cut, as the CEFR 2001 explains. Nor are those between practical skills and know-how – which includes social skills – and sociocultural knowledge or intercultural skills and know-how. The field of socio-pragmatics also studies aspects of these areas from a more “linguistic” point of view. What is more important than possible overlap between categories is the fact that the user/learner calls on all these various aspects, merged with the appropriate communicative language competence, in the creation of meaning in a communicative situation. Some are more likely than others to be able to do this to the extent permitted by a given language proficiency level, perhaps because of their differing aptitudes and experience.
+
+**CONSULTATION AND PILOTING**
 
 The development and validation described above were then followed by a process of consultation and piloting in three phases:
 
@@ -6319,6 +6294,7 @@ The development and validation described above were then followed by a process o
 - pre-consultation online survey with experts;
 - formal consultation.
 
+After a meeting with Council of Europe experts in June 2016 and a detailed pre-consultation online survey of CEFR experts in the summer of 2016, the descriptors were revised before a formal consultation took place in English and French between October 2016 and February 2017. There were two parallel surveys of individuals and institutions. Some 500 individual informants completed the survey, together with a number of invited institutions and curriculum or assessment agencies. Among other questions, respondents were asked to state to what extent they found each of the new scales to be helpful and to comment on the descriptors. All the proposed new scales were considered to be helpful or very helpful by 80% of the respondents, with the institutions/agencies tending to give a more positive response. The most popular new scales concerned mediating a text, collaborating in small groups and online interaction. There was a considerable difference of opinion between individuals and institutions on two descriptor scales: “Goal-oriented online transactions and collaboration” and “Building on plurilingual repertoire”. While 96% of the institutions found these two scales helpful or very helpful, only 81% to 82% of individuals did so.
 <!-- el:end id=prose_p251_s0 -->
 
 *Development and validation of the extended illustrative descriptors ▶ Page **251***
@@ -6328,9 +6304,11 @@ The development and validation described above were then followed by a process o
 <!-- el:start type=prose id=prose_p252_s0 page=252 -->
 In the formal consultation, two thirds of the respondents definitely welcomed the fact that the descriptor scales for mediation moved beyond the area of classic modern language teaching (to Content and Language Integrated Learning – CLIL, and Language of Schooling), with over 90% of both individuals and institutions agreeing to some extent. A great number of comments and suggestions were received, which have helped to finalise descriptor formulations, scale titles and the way in which the scales are presented.
 
-Piloting took place between February and June 2017, with results continuing to feed into formulation of and presentation of the descriptor scales. The vast majority of the pilots selected descriptors from relevant scales in order to inform the design of communicative tasks in the classroom, and then used the descriptors to observe the language use of the learners. Feedback on the descriptors was very positive, with some useful suggestions for small revisions. The most popular areas for piloting were collaborating in small groups, mediating a text and plurilingual/pluricultural competence. In one pilot, the two descriptor scales for online interaction were also presented in a separate survey of 1 175 Italian teachers of English who were completing an online course in use of digital resources.53 Of these respondents, 94.8% found the descriptors very clear or quite clear, and 80.8% reported that they were very easy or quite easy to use for self-assessment.
+Piloting took place between February and June 2017, with results continuing to feed into formulation of and presentation of the descriptor scales. The vast majority of the pilots selected descriptors from relevant scales in order to inform the design of communicative tasks in the classroom, and then used the descriptors to observe the language use of the learners. Feedback on the descriptors was very positive, with some useful suggestions for small revisions. The most popular areas for piloting were collaborating in small groups, mediating a text and plurilingual/pluricultural competence. In one pilot, the two descriptor scales for online interaction were also presented in a separate survey of 1 175 Italian teachers of English who were completing an online course in use of digital resources.53 Of these respondents, 94.8% found the descriptors very clear or quite clear, and 80.8% reported that they were very easy or quite easy to use for self-assessment.
 
-At the same time as the formal consultation, a questionnaire was also sent to Council of Europe member states asking about use of the CEFR in their countries, familiarity with support materials recently provided by the Council of Europe’s Education Policy Division (Language Policy Programme) and their reaction to the proposed new descriptor scales. Member states were also asked to suggest institutions for piloting. Results were very positive, except for some reservations concerning the use of the CEFR in initial teacher education – only half of the respondents saying it has been highly helpful. As might be expected, the dimensions of the CEFR most often referred to in official documents and implemented in practice were the descriptors (83% highly so), the levels (75% highly so) and the action-oriented approach (63% highly so). To the question of whether they welcomed the new scales, the positive response was highest for plurilingual/pluricultural competence (79%), followed by online interaction (75%), mediation (63%) and literature (58%). **INCORPORATION OF DESCRIPTORS FOR SIGN LANGUAGES**
+At the same time as the formal consultation, a questionnaire was also sent to Council of Europe member states asking about use of the CEFR in their countries, familiarity with support materials recently provided by the Council of Europe’s Education Policy Division (Language Policy Programme) and their reaction to the proposed new descriptor scales. Member states were also asked to suggest institutions for piloting. Results were very positive, except for some reservations concerning the use of the CEFR in initial teacher education – only half of the respondents saying it has been highly helpful. As might be expected, the dimensions of the CEFR most often referred to in official documents and implemented in practice were the descriptors (83% highly so), the levels (75% highly so) and the action-oriented approach (63% highly so). To the question of whether they welcomed the new scales, the positive response was highest for plurilingual/pluricultural competence (79%), followed by online interaction (75%), mediation (63%) and literature (58%).
+
+**INCORPORATION OF DESCRIPTORS FOR SIGN LANGUAGES**
 
 People who are born deaf may acquire a sign language as their first language given appropriate input by their parents and peers. Sign languages are not merely a form of gesturally-based communication, and not simply a different medium through which a spoken language is expressed. Linguistic research has provided ample evidence that sign languages are human languages in their own right, like spoken languages, and display linguistic features, means, rules and restrictions like those found in spoken language. Those features include language acquisition, processing, loss and all the other psychological processes and language-specific representations that also apply in spoken languages.
 
@@ -6341,13 +6319,12 @@ However, one should also remember that the CEFR descriptors, which express an ab
 Ever since the CEFR was introduced, there has been a need to define common learning targets, curricula and levels for education in sign languages. The CEFR is in fact increasingly used in order to structure courses in sign language. Most deaf children (95%) are born to hearing parents so, although the community of deaf people is small, there is a great need for such courses, not just for the families of deaf children, but also for educational purposes (interpreters, deaf migrants, hard-of-hearing people, teachers, linguists, etc.). In addition, the CEFR is starting to play a role in relation to the training and qualifications of sign language teachers and interpreters and, most particularly, in working towards official recognition of sign languages and the qualifications of sign language professionals. The initiative to include descriptors for sign language in the CEFR therefore received strong support from a number of associations in the community of the deaf.
 <!-- el:end id=prose_p252_s0 -->
 
-53.	 “Techno-CLIL 2017”, moderators: Letizia Cinganotto and Daniela Cuccurullo, https://moodle4teachers.org/enrol/index.php?id=90.
-54.	 The Council of Europe wishes to thank the SNSF for providing the approximately €385 000 that made the project possible.
+53.  “Techno-CLIL 2017”, moderators: Letizia Cinganotto and Daniela Cuccurullo, https://moodle4teachers.org/enrol/index.php?id=90.
+54.  The Council of Europe wishes to thank the SNSF for providing the approximately €385 000 that made the project possible.
 
 *Page **252** ▶ **CEFR – Companion volume***
 
 <!-- page:252 -->
-
 <!-- el:start type=prose id=prose_p253_s0 page=253 -->
 The ZHAW55 sign language project “Common European Framework of Reference for Sign Languages: development of descriptors for Swiss-German Sign Language” operated to a different timescale, with the research completed in June 2019, three years after the completion of the main descriptor project. Again, the sign language project followed a mixed-method, developmental research design that combined intuitive, qualitative and quantitative analyses. However, as the signing community is small, the sign language project took place on a smaller scale. The three main phases of the project are outlined in Figure 20.
 
@@ -6355,57 +6332,61 @@ The approach was entirely data-based. Rather than adapting existing CEFR descrip
 
 Furthermore, a simple validation experiment in the project demonstrated that hearing non-signers and deaf non-teachers had a significantly different interpretation of the level a descriptor refers to in comparison to deaf teachers. Therefore, the descriptors were calibrated only by deaf sign language instructors either born deaf or with L1-competence attributed by the community on the basis of their signed forms (videos).
 
-The descriptors were then grouped into categories. Initially it had been intended to produce scales for different types of text (narrative, descriptive, explanatory, etc.).56 However, very many of the descriptors were identified as relevant for several text types because they treated transversal competences. Finally, therefore, in a workshop undertaken by the project team, the descriptors were grouped into sets on the basis of similarity. Three separate groups sorted the descriptors into piles that appeared to describe related competences. A final categorisation was then negotiated. The characteristics of each set were examined and refined, leading to the definition of categories for nine scales as follows: **Linguistic competence:** 1. Sign language repertoire (receptive/productive);
+The descriptors were then grouped into categories. Initially it had been intended to produce scales for different types of text (narrative, descriptive, explanatory, etc.).56 However, very many of the descriptors were identified as relevant for several text types because they treated transversal competences. Finally, therefore, in a workshop undertaken by the project team, the descriptors were grouped into sets on the basis of similarity. Three separate groups sorted the descriptors into piles that appeared to describe related competences. A final categorisation was then negotiated. The characteristics of each set were examined and refined, leading to the definition of categories for nine scales as follows:
 
-2. Diagrammatical accuracy (receptive/productive). **Sociolinguistic competence**:
+**Linguistic competence:**
 
-Sociolinguistic appropriateness and cultural repertoire (receptive/productive). **Pragmatic competence:**<!-- el:end id=prose_p253_s0 -->
+1. Sign language repertoire (receptive/productive);
+2. Diagrammatical accuracy (receptive/productive).
 
-3.
+**Sociolinguistic competence:**
+
+3. Sociolinguistic appropriateness and cultural repertoire (receptive/productive).
+
+**Pragmatic competence:**
+
 4. Sign text structure (receptive/productive);
 5. Setting and perspectives (receptive/productive);
 6. Language awareness and interpretation (receptive);
 7. Presence and effect (productive) (in German: Auftritt and Wirkung);
 8. Processing speed (receptive);
 9. Signing fluency (productive).
-55.	 Zurich University of Applied Sciences Authoring Group: Jörg Keller, Petrea Bürgin, Aline Meili and Dawei Ni.
-56.	 Keller J. et al. (2017), “Auf dem Weg zum Gemeinsamen Europäischen Referenzrahmen (GER) für Gebärdensprachen. Empirie-basierte Bestimmung von Deskriptoren für Textkompetenz am Beispiel der Deutschschweizer Gebärdensprache (DSGS)”, **Das Zeichen**, No. 105 , pp. 86-97; Keller J. et al. (2018), “Deskriptoren zur gebärdensprachlichen Textstrukturierung im GER für Gebärdensprachen”, **Das Zeichen**, No. 109 , pp. 242-5. Keller J. (2019), “Deskriptoren für Textkompetenz in Gebärdensprachen”, in Barras M. et al. (eds), **IDT 2017, Band 2**. Berlin: ESV, pp. 111-117.
+<!-- el:end id=prose_p253_s0 -->
+55.  Zurich University of Applied Sciences Authoring Group: Jörg Keller, Petrea Bürgin, Aline Meili and Dawei Ni.
+56.  Keller J. et al. (2017), “Auf dem Weg zum Gemeinsamen Europäischen Referenzrahmen (GER) für Gebärdensprachen. Empirie-basierte Bestimmung von Deskriptoren für Textkompetenz am Beispiel der Deutschschweizer Gebärdensprache (DSGS)”, **Das Zeichen**, No. 105 , pp. 86-97; Keller J. et al. (2018), “Deskriptoren zur gebärdensprachlichen Textstrukturierung im GER für Gebärdensprachen”, **Das Zeichen**, No. 109 , pp. 242-5. Keller J. (2019), “Deskriptoren für Textkompetenz in Gebärdensprachen”, in Barras M. et al. (eds), **IDT 2017, Band 2**. Berlin: ESV, pp. 111-117.
 
 *Development and validation of the extended illustrative descriptors ▶ Page **253***
 
 <!-- page:253 -->
-
 <!-- el:start type=figure_page id=figure_20_sign_language_project_phases page=254 -->
-<!-- db:id=figure_20_sign_language_project_phases type=figure render_as=mermaid product_tier=context pages=254 -->
+<!-- db:id=figure_20_sign_language_project_phases type=figure render_as=png product_tier=context pages=254 -->
 ### Figure 20 – The phases of the sign language project | figure_20_sign_language_project_phases
 
-```mermaid
-flowchart LR
-  PW[Preparatory work] --> IT[Identifying text types]
-  IT --> IE[Identifying experts for text types]
-  IE --> FS[Filming expert signers]
-  DEV[Development] --> FD[Formulating descriptors]
-  FD --> VD[Validating descriptors with signers]
-  VAL[Validating] --> CC[Checking categories]
-  CC --> CAL[Calibrating to CEFR levels]
-  CAL --> OUT[Sign language descriptors]
-  PW --> DEV --> VAL
-``` **Preparatory Identifying work text types Formulating Development descriptors Checking Validating categories** The final step was calibration to CEFR levels. To create a scale of descriptors, the Rasch Model was used, as in the mediation and phonology projects and the original CEFR descriptor project. However, this time it was videos of the descriptors being signed that provided the data. Videos were provided for this purpose in both Swiss-German Sign Language and International Sign (IS). The latter is a contact lingua franca, used in this case for signers from different European countries who took part. Following a successful trial of the rating scale by the project group, respondents to online surveys were asked to rate the degree of difficulty that a descriptor represented on a 4-point rating scale from 1 (not difficult) to 4 (very difficult).
+![Figure 20 – The phases of the sign language project](assets/figures/figure_20_sign_language_project_phases.png)
 
-The entire dataset (N = 223) was checked for cases with very few or no evaluations, which were then removed. Sample sizes and distributions of completed evaluations were then checked for the two main groups (Swiss and European). In the Swiss group, N = 53, with nearly all evaluating all descriptors in the entire set of over 300. In the European group, N = 37, with all participants evaluating a subset of all descriptors, resulting in a mean of 15 assessments per descriptor57 in addition to the 53 from the Swiss-German group.
+<!-- figure render: png assets/figures/figure_20_sign_language_project_phases.png (diagram-only crop; caption excluded) -->
+<!-- el:end id=figure_20_sign_language_project_phases -->
+
+<!-- el:start type=prose id=prose_p254_s1 page=254 -->
+The final step was calibration to CEFR levels. To create a scale of descriptors, the Rasch Model was used, as in the mediation and phonology projects and the original CEFR descriptor project. However, this time it was videos of the descriptors being signed that provided the data. Videos were provided for this purpose in both Swiss-German Sign Language and International Sign (IS). The latter is a contact lingua franca, used in this case for signers from different European countries who took part. Following a successful trial of the rating scale by the project group, respondents to online surveys were asked to rate the degree of difficulty that a descriptor represented on a 4-point rating scale from 1 (not difficult) to 4 (very difficult).
+
+The entire dataset (N = 223) was checked for cases with very few or no evaluations, which were then removed. Sample sizes and distributions of completed evaluations were then checked for the two main groups (Swiss and European). In the Swiss group, N = 53, with nearly all evaluating all descriptors in the entire set of over 300. In the European group, N = 37, with all participants evaluating a subset of all descriptors, resulting in a mean of 15 assessments per descriptor57 in addition to the 53 from the Swiss-German group.
 
 As mentioned above while briefly describing the Rasch Model, descriptors will be more accurately placed at the right level if persons and items for whom the data does not fit the model (because they are improbable) are removed from the data. This step was followed in this project as in the main project.
 
-The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/168073ff31) (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting method based on expert judgment was used.58 **Validating  descriptors with signers Calibrating to  Sign language CEFR levels descriptors**<!-- el:end id=figure_20_sign_language_project_phases -->
+The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (<https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/168073ff31>) (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (<https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9>) (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting method based on expert judgment was used.58
+<!-- el:end id=prose_p254_s1 -->
 
-57.	 While small, these values meet the minimum **a priori** requirements for 95% confidence intervals on difficulty parameters to within +/− 1 logit: see Linacre J. (1994), “Sample size and item calibration stability”, **Rasch Measurement Transactions** Vol. 7, No. 4, p. 328. The Standard Error of Measurement for the sign language descriptors is greater than for the other descriptors, but calibration on the scale is intuitively sensible. In a few cases, descriptors within the margin of error to the next proficiency band have been moved to that adjacent band on the basis of collective expert judgment.
-58.	 The method used was a variant of the “Bookmark Method” explained in “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (Council of Europe 2009).
+57.  While small, these values meet the minimum **a priori** requirements for 95% confidence intervals on difficulty parameters to within +/− 1 logit: see Linacre J. (1994), “Sample size and item calibration stability”, *Rasch Measurement Transactions* Vol. 7, No. 4, p. 328. The Standard Error of Measurement for the sign language descriptors is greater than for the other descriptors, but calibration on the scale is intuitively sensible. In a few cases, descriptors within the margin of error to the next proficiency band have been moved to that adjacent band on the basis of collective expert judgment.
+
+58.  The method used was a variant of the “Bookmark Method” explained in “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (Council of Europe 2009).
 
 *Page **254** ▶ **CEFR – Companion volume***
 
 <!-- page:254 -->
 
-<!-- el:start type=prose id=prose_p255_s0 page=255 --> **FINALISATION**
+<!-- el:start type=prose id=prose_p255_s0 page=255 -->
+**FINALISATION**
 
 The feedback received in the various phases of validation, consultation and piloting between February 2015 and June 2017 was very helpful in identifying and eliminating less successful descriptors and scales, and in revising formulations. The process is documented in an archive available to researchers on the Council of Europe’s website. The definitive version of the descriptors included in this document has taken account of all the feedback received.
 
@@ -6419,50 +6400,69 @@ Since very many descriptors were validated for certain levels of some scales, es
 Page **256**
 
 <!-- page:256 -->
+<!-- el:start type=prose id=prose_appendix_7_header page=257 -->
+Appendix 7
 
-<!-- el:start type=prose id=prose_p257_s0 page=257 -->
-Appendix 7 **SUBSTANTIVE CHANGES TO SPECIFIC  DESCRIPTORS PUBLISHED IN 2001**<!-- el:end id=prose_p257_s0 -->
+**SUBSTANTIVE CHANGES TO SPECIFIC DESCRIPTORS PUBLISHED IN 2001**
 
-<!-- el:start type=artifact id=scale_overall_listening_oral_comprehension page=257 -->
-<!-- db:id=scale_overall_listening_oral_comprehension type=descriptor_scale product_tier=context pages=257 -->
-### Overall listening oral comprehension | scale_overall_listening_oral_comprehension
+In the table below, text marked with ~~double tildes~~ is **deleted** relative to the 2001 CEFR wording (struck through in the PDF). Text marked with _single underscores_ (italics) is **added** in this Companion volume (shown in red in the PDF).
+<!-- el:end id=prose_appendix_7_header -->
 
-| Overall listening oral comprehension | |
+<!-- el:start type=artifact id=table_appendix_7_substantive_changes_2001 alias=scale_overall_listening_oral_comprehension page=257 -->
+<!-- db:id=table_appendix_7_substantive_changes_2001 type=descriptor_scale product_tier=context pages=257 -->
+### Substantive changes to specific descriptors published in 2001 | table_appendix_7_substantive_changes_2001
+
+| | |
 | --- | --- |
-| C2 | Can understand with ease virtually Has no difficulty with any kind of spoken/signers language, whether live or broadcast, delivered at fast native natural speed. |
-| Understanding conversation between other native people | |
-| B2+ | Can keep up with an animated conversation between native speakers/signers of the target language. |
-| B2 | Can with some effort catch much of what is said around them, but may find it difficult to participate effectively in discussion with several native speakers/signers of the target language who do not modify their language in any way. |
-| Listening Understanding as a member of a live audience | |
-| C2 | Can follow specialised lectures and presentations employing a high degree of colloquialism, regional usage or unfamiliar terminology. |
-| C2 | Can understand and interpret critically virtually all forms of the written language types of written/signed texts including abstract, structurally complex, or highly colloquial literary and non-literary writings. |
-| B2 | Can interact with a degree of fluency and spontaneity that makes regular interaction, and sustained relationships with speakers/signers of the target language native speakers quite possible without imposing strain on either party. Can highlight the personal significance of events and experiences, account for and sustain views clearly by providing relevant explanations and arguments. |
-| Understanding a native speaker an interlocutor | |
-| C2 | Can understand any native-speaker interlocutor, even on abstract and complex topics of a specialist nature beyond their own field, given an opportunity to adjust to a non-standard less familiar variety accent or dialect. |
-| B2 | Can sustain relationships with users of the target language native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with another native proficient speaker/signer. |
-| B2+ | Can keep up with an animated discussion between native speakers/signers of the target language. |
-| B2 | Can with some effort catch much of what is said around them in discussion, but may find it difficult to participate effectively in discussion with several native speakers/signers of the target language who do not modify their language in any way. |
-| C2 | Can hold their own in formal discussion of complex issues, putting forward an articulate and persuasive argument, at no disadvantage to native speakers other participants. |
-| Interviewing and being interviewed | |
-| C2 | Can keep up their side of the dialogue extremely well, structuring the talk and interacting authoritatively with complete effortless fluency as interviewer or interviewee, at no disadvantage to native speakers. other participants. |
-| Sociolinguistic appropriateness | |
-| C2 | Can mediate effectively and naturally between speakers/signers of the target language and of their own community of origin, taking account of sociocultural and sociolinguistic differences. |
-| C2 | Appreciates fully virtually all the sociolinguistic and sociocultural implications of language used by native proficient speakers/signers of the target language and can react accordingly. |
-| B2 | Can sustain relationships with users of the target language native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with another native proficient speaker. |
-| Spoken Fluency | |
-| B2 | Can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language native speakers quite possible without imposing strain on either party. |
-<!-- el:end id=scale_overall_listening_oral_comprehension -->
+| **Overall ~~listening~~ _oral_ comprehension** | |
+| C2 | ~~Can understand with ease virtually~~ _Has no difficulty with_ any kind of spoken/_signers_ language, whether live or broadcast, delivered at fast ~~native~~ _natural_ speed. |
+| **Understanding conversation between other ~~native~~ people** | |
+| B2+ | Can keep up with an animated conversation between ~~native~~ speakers/_signers of the target language_. |
+| B2 | Can with some effort catch much of what is said around them, but may find it difficult to participate effectively in discussion with several ~~native speakers~~ _speakers/signers of the target language_ who do not modify their language in any way. |
+| **~~Listening~~ Understanding as a member of a live audience** | |
+| C2 | Can follow specialised lectures and presentations employing ~~a high degree of~~ colloquialism, regional usage or unfamiliar terminology. |
+| **Overall reading comprehension** | |
+| C2 | Can understand ~~and interpret critically~~ virtually all ~~forms of the written language~~ _types of written/signed texts_ including abstract, structurally complex, or highly colloquial literary and non-literary writings. |
+| **Overall oral interaction** | |
+| B2 | Can interact with a degree of fluency and spontaneity that makes regular interaction, and sustained relationships with ~~native speakers~~ _speakers/signers of the target language_ quite possible without imposing strain on either party. Can highlight the personal significance of events and experiences, account for and sustain views clearly by providing relevant explanations and arguments. |
+| **Understanding ~~a native speaker~~ _an interlocutor_** | |
+| C2 | Can understand any ~~native-speaker~~ interlocutor, even on abstract and complex topics of a specialist nature beyond their own field, given an opportunity to adjust to a ~~non-standard~~ less familiar ~~variety~~ accent or dialect. |
+| **Conversation** | |
+| B2 | Can sustain relationships with ~~native speakers~~ _users of the target language_ without unintentionally amusing or irritating them or requiring them to behave other than they would with another ~~native~~ proficient speaker/_signer_. |
+| **Informal discussion (with friends)** | |
+| B2+ | Can keep up with an animated discussion between ~~native~~ speakers/_signers of the target language_. |
+| B2 | Can with some effort catch much of what is said around them in discussion, but may find it difficult to participate effectively in discussion with several ~~native speakers~~ _speakers/signers of the target language_ who do not modify their language in any way. |
+| **Formal discussion (meetings)** | |
+| C2 | Can hold _their_ own in formal discussion of complex issues, putting forward an articulate and persuasive argument, at no disadvantage to ~~native speakers~~ _other participants_. |
+| **Interviewing and being interviewed** | |
+| C2 | Can keep up _their_ side of the dialogue extremely well, structuring the talk and interacting authoritatively with ~~complete effortless~~ fluency as interviewer or interviewee, at no disadvantage to ~~native speakers~~ _other participants_. |
+| **Sociolinguistic appropriateness** | |
+| C2 | Can mediate effectively and naturally between ~~speakers~~ _speakers/signers_ of the target language and of _their own_ community ~~of origin~~, taking account of sociocultural and sociolinguistic differences. |
+| C2 | Appreciates ~~fully~~ virtually all the sociolinguistic and sociocultural implications of language used by ~~native~~ proficient speakers/_signers of the target language_ and can react accordingly. |
+| B2 | Can sustain relationships with ~~native speakers~~ _users of the target language_ without unintentionally amusing or irritating them or requiring them to behave other than they would with another ~~native~~ proficient speaker. |
+| **~~Spoken~~ Fluency** | |
+| B2 | Can interact with a degree of fluency and spontaneity that makes regular interaction with ~~native speakers~~ _users of the target language_ quite possible without imposing strain on either party. |
+<!-- el:end id=table_appendix_7_substantive_changes_2001 -->
 
-Page **257**
+*Substantive changes to specific descriptors published in 2001 ▶ Page **257***
 
 <!-- page:257 -->
-
-Page **258**
+*Page **258** ▶ **CEFR – Companion volume***
 
 <!-- page:258 -->
 
 <!-- el:start type=prose id=prose_p259_s0 page=259 -->
-Appendix 8 **SUPPLEMENTARY DESCRIPTORS** The descriptors in this appendix were also developed, validated and calibrated in the project to develop descriptors for mediation. They have been excluded from the extended illustrative descriptors for one of three reasons: because of redundancy, because it had not been possible to develop descriptors for a sufficient range of levels, or because of comments in the consultation phases. They will be added to the bank of supplementary descriptors on the Council of Europe website. **SCALES**<!-- el:end id=prose_p259_s0 -->
+Appendix 8
+
+**SUPPLEMENTARY DESCRIPTORS**
+
+The descriptors in this appendix were also developed, validated and calibrated in the project to develop descriptors for mediation. They have been excluded from the extended illustrative descriptors for one of three reasons: because of redundancy, because it had not been possible to develop descriptors for a sufficient range of levels, or because of comments in the consultation phases. They will be added to the bank of supplementary descriptors on the Council of Europe website.
+
+~~asdf~~
+
+**SCALES**
+
+<!-- el:end id=prose_p259_s0 -->
 
 <!-- el:start type=artifact id=scale_interpreting page=259 -->
 <!-- db:id=scale_interpreting type=descriptor_scale product_tier=context pages=259 -->
@@ -6488,6 +6488,7 @@ Page **259**
 | A2 | Can interpret informally in everyday situations, conveying the essential information, provided the speakers articulate clearly in standard language and that they can ask for repetition and clarification.<br>Can interpret informally in predictable everyday situations, passing back and forth information about personal wants and needs, provided the speakers help with formulation.<br>Can interpret simply in an interview, conveying straightforward information on familiar topics, provided they can prepare beforehand and that the speakers articulate clearly.<br>Can indicate in a simple fashion that somebody else might be able to help in interpreting. |
 | --- | --- |
 | A1 | Can communicate with simple words and gestures what basic needs a third party has in a particular situation. |
+| Pre-A1 | No descriptors available |
 <!-- el:end id=scale_a2 -->
 
 <!-- el:start type=artifact id=scale_a2 page=260 -->
@@ -6500,13 +6501,16 @@ Page **259**
 | B1 | Can recognise when their comprehension difficulty is caused by a regional variety of pronunciation. |
 <!-- el:end id=scale_a2 -->
 
-<!-- el:start type=prose id=prose_p260_s2 page=260 --> **INDIVIDUAL DESCRIPTORS**
+<!-- el:start type=prose id=prose_p260_s2 page=260 -->
+**INDIVIDUAL DESCRIPTORS**
+
 <!-- el:end id=prose_p260_s2 -->
 
 <!-- el:start type=artifact id=scale_a2 page=260 -->
 <!-- db:id=scale_online_conversation_and_discussion type=descriptor_scale product_tier=assessment_action,detailed pages=85-86 -->
 ### Online conversation and discussion | scale_online_conversation_and_discussion
 
+| Online conversation and discussion | |
 | --- | --- |
 | C2 | Can use with precision colloquialisms, humorous language, idiomatic abbreviations and/or specialised register to enhance the impact of comments made in an online discussion. |
 | C1 | Can express their ideas and opinions with precision in an online discussion on a complex subject or specialised topic related to their field, presenting and responding to complex lines of argument convincingly.<br>Can critically evaluate online comments and express negative reactions diplomatically. |
@@ -6740,7 +6744,9 @@ Page **259**
 | B1 | Can use an apt word from another language that the interlocutor speaks, when they cannot think of an adequate expression in the language being spoken. |
 <!-- el:end id=scale_b2 -->
 
-<!-- el:start type=prose id=prose_p265_s1 page=265 --> **SIGN LANGUAGE COMPETENCES**
+<!-- el:start type=prose id=prose_p265_s1 page=265 -->
+**SIGN LANGUAGE COMPETENCES**
+
 <!-- el:end id=prose_p265_s1 -->
 
 <!-- el:start type=artifact id=scale_sign_language_repertoire page=265 -->
@@ -6851,23 +6857,27 @@ Page **268**
 <!-- page:268 -->
 
 <!-- el:start type=prose id=prose_p269_s0 page=269 -->
-Appendix 9 **SOURCES FOR NEW DESCRIPTORS**Abbe A., Gulick L. M. V. and Herman J. L. (2007),**Cross-cultural competence in army leaders: a conceptual and empirical foundation**, United States Army Research Institute for the Behavioral and Social Sciences, Arlington, VA, available at www.dtic.mil/docs/ citations/ADA476072, accessed 9 September 2019.
+Appendix 9
 
-Alberta Teachers of English as a Second Language (2005), **Section 7. Intercultural Communicative Competence. ATESL Adult ESL  Curriculum Framework**, Alberta Teachers of English as a Second Language, Figure 2, Adapted Intercultural Knowledge and Skills Strand of the Massachusetts Curriculum Framework, available at www.atesl.ca/resources/resource-library/, accessed 9 September 2019.
+**SOURCES FOR NEW DESCRIPTORS**
 
-Alexander R. (2008), “Culture, dialogue and learning: an emerging pedagogy”, in Mercer N. and Hodgkinson S. (eds), **Exploring  talk in schools**, Sage, London, pp. 91-114.
+Abbe A., Gulick L. M. V. and Herman J. L. (2007), **Cross-cultural competence in army leaders: a conceptual and empirical foundation**, United States Army Research Institute for the Behavioral and Social Sciences, Arlington, VA, available at www.dtic.mil/docs/ citations/ADA476072, accessed 9 September 2019.
+
+Alberta Teachers of English as a Second Language (2005), **Section 7. Intercultural Communicative Competence. ATESL Adult ESL Curriculum Framework**, Alberta Teachers of English as a Second Language, Figure 2, Adapted Intercultural Knowledge and Skills Strand of the Massachusetts Curriculum Framework, available at www.atesl.ca/resources/resource-library/, accessed 9 September 2019.
+
+Alexander R. (2008), “Culture, dialogue and learning: an emerging pedagogy”, in Mercer N. and Hodgkinson S. (eds), **Exploring talk in schools**, Sage, London, pp. 91-114.
 
 ALTE Can Do Statements 2001, Appendix D in the CEFR 2001, available at www.coe.int/en/web/common-european-frameworkreference-languages (http://www.coe.int/en/web/common-european-framework-reference-languages), accessed 9 September 2019.
 
 Association of American Colleges and Universities, **Intercultural Knowledge and Competence Value Rubric**, available at www. aacu.org/value/rubrics/intercultural-knowledge, accessed 9 September 2019.
 
-Barrett M. (2013), “Intercultural competence: a distinctive hallmark of interculturalism?”, in Barrett M. (ed.), **Interculturalism  and multiculturalism: similarities and differences**, Council of Europe Publishing, Strasbourg, pp. 147-68.
+Barrett M. (2013), “Intercultural competence: a distinctive hallmark of interculturalism?”, in Barrett M. (ed.), **Interculturalism and multiculturalism: similarities and differences**, Council of Europe Publishing, Strasbourg, pp. 147-68.
 
 Barrett M. (2014), “Competences for democratic culture and intercultural dialogue (CDCID)”, 3rd meeting of the Ad hoc group of experts, Strasbourg, Council of Europe, 16 and 17 June, Phase One of CDCID: Collation of Existing Competence Schemes, CDCID 3/2014 – Doc.4.0.
 
-Barrett M. et al. (2014), **Developing intercultural competence through education**, Pestalozzi Series No. 3, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16808ce258, accessed 9 September 2019.
+Barrett M. et al. (2014), **Developing intercultural competence through education**, Pestalozzi Series No. 3, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16808ce258, accessed 9 September 2019.
 
-Beacco J.-C., Porquier R. and Bouquet S. (2004), **Niveau B2 pour le français : Un référentiel**, Didier, Paris.
+Beacco J.-C., Porquier R. and Bouquet S. (2004), **Niveau B2 pour le français : Un référentiel**, Didier, Paris.
 
 Beacco J.-C. et al. (2006), **Niveau A1.1 pour le français/référentiel DILF livre**, Didier, Paris.
 
@@ -6877,13 +6887,13 @@ Byram M. (1997), **Teaching and assessing intercultural communicative competence
 
 Cambridge Assessment Scales for Speaking: see www.cambridgeenglish.org/exams-and-tests/cambridge-english-scale/, accessed 9 September 2019.
 
-Cambridge Common Scale for Writing: Overall Writing Scales, available in, for example **Cambridge English Business Certificates.  Handbook for teachers for exams from 2016**, available at www.cambridgeenglish.org/images/business-english-certificateshandbook-for-teachers.pdf (http://www.cambridgeenglish.org/images/business-english-certificates-handbook-for-teachers.pdf), accessed 9 September 2019.
+Cambridge Common Scale for Writing: Overall Writing Scales, available in, for example **Cambridge English Business Certificates. Handbook for teachers for exams from 2016**, available at www.cambridgeenglish.org/images/business-english-certificateshandbook-for-teachers.pdf (http://www.cambridgeenglish.org/images/business-english-certificates-handbook-for-teachers.pdf), accessed 9 September 2019.
 
 Cambridge Overall Speaking Scales.
 
 Cambridge Overall Writing Scales.
 
-CARAP/FREPA, **A Framework of Reference for Pluralistic Approaches to Languages and Cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx)**, available at http://carap.ecml.at, accessed 9 September 2019.
+CARAP/FREPA, ** A Framework of Reference for Pluralistic Approaches to Languages and Cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx) **, available at http://carap.ecml.at, accessed 9 September 2019.
 
 CEFR-J project for Japanese secondary school learners of English, 2011: for an update, see http://events.cambridgeenglish.org/alte-2014/docs/presentations/alte2014-masashi-negishi.pdf, accessed 9 September 2019; see also Negishi, Takada and Tono (2013).
 <!-- el:end id=prose_p269_s0 -->
@@ -6905,7 +6915,9 @@ Corcoll López C. and González-Davies M. (2016), “Switching codes in the plur
 
 Council of Europe, **Autobiography of intercultural encounters**, available at www.coe.int/lang-autobiography, accessed 9 September 2019.
 
-Creese A. and Blackledge A. (2010), “Translanguaging in the bilingual classroom: a pedagogy for learning and teaching?”, **Modern Language Journal** Vol. 94, No. I, pp. 103-15.
+Creese A. and Blackledge A. (2010), “Translanguaging in the bilingual classroom: a pedagogy for learning and teaching?”,
+
+**Modern Language Journal** Vol. 94, No. I, pp. 103-15.
 
 Dunbar S. (1992), “Integrating language and content: a case study”, **TESL Canada Journal** Vol. 10, No. 1, pp. 62-70.
 
@@ -6929,17 +6941,19 @@ GCSE: UK General Certificate of Secondary Education, assessment criteria for Eng
 
 Glaboniat M. et al. (2005), **Profile deutsch A1 – C2. Lernzielbestimmungen, Kannbeschreibungen, Kommunikative Mittel**, Langenscheidt, Munich.
 
-Gollob R., Krapf P. and Weidinger W. (eds) (2010), **Educating for democracy: background materials on democratic citizenship and  human rights education for teachers**, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16802f727b, accessed 9 September 2019.
+Gollob R., Krapf P. and Weidinger W. (eds) (2010), ** Educating for democracy: background materials on democratic citizenship and human rights education for teachers **, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16802f727b, accessed 9 September 2019.
 
-Green A. (2012a), **Language functions revisited: theoretical and empirical bases for language construct definition across the ability  range**, English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
+Green A. (2012a), ** Language functions revisited: theoretical and empirical bases for language construct definition across the ability range **, English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
 
-Green A. (2012b), “Performance conditions added to descriptors”, appendix to **Language functions revisited: theoretical and  empirical bases for language construct definition across the ability range**. English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
+Green A. (2012b), “Performance conditions added to descriptors”, appendix to ** Language functions revisited: theoretical and empirical bases for language construct definition across the ability range **. English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
 
 Grindal K. (1997), **EDC: Basic Concepts and Core Competences: The approach in Norway**, Council of Europe Publishing, Strasbourg.
 
 GSE (Global Scale of English: Pearson), available at www.pearson.com/english/about/gse/learning-objectives.html, accessed 9 September 2019.
 
-Hardman F. (2008), “Teachers’ use of feedback in whole-class and group-based talk”, in Mercer N. and Hodgkinson S. (eds), **Exploring talk in schools**,Sage, London, pp. 131-50.
+Hardman F. (2008), “Teachers’ use of feedback in whole-class and group-based talk”, in Mercer N. and Hodgkinson S. (eds),
+
+**Exploring talk in schools**, Sage, London, pp. 131-50.
 
 HarmoS: EDK (Schweizerischer Konferenz der Kantonalen Erziehungsdirektoren) (2008), Projekt Bildungsstandards HarmoS: Vorschläge für Basisstandards Fremdsprachen, available at www.edk.ch/dyn/11659.php, accessed 9 September 2019.
 <!-- el:end id=prose_p270_s0 -->
@@ -6949,11 +6963,11 @@ HarmoS: EDK (Schweizerischer Konferenz der Kantonalen Erziehungsdirektoren) (200
 <!-- page:270 -->
 
 <!-- el:start type=prose id=prose_p271_s0 page=271 -->
-Himmelmann G. (2003), Zukunft, Fachidentität und Standards der politischen Bildung, Institut für Sozialwissenschaften, TU Braunschweig, Braunschweig [unpublished, summarised in Byram, 2008, **From foreign language education to education for  intercultural citizenship,** Multilingual Matters, Toronto].
+Himmelmann G. (2003), Zukunft, Fachidentität und Standards der politischen Bildung, Institut für Sozialwissenschaften, TU Braunschweig, Braunschweig [unpublished, summarised in Byram, 2008, **From foreign language education to education for intercultural citizenship,** Multilingual Matters, Toronto].
 
 Hodel H., Pädagogischer Hochschule Luzern: Descriptors for Literature 2007. Descriptors for Literature 2013 (Personal communication: work in progress in HarmoS-related national project on objectives for school years).
 
-Huber J., Mompoint-Gaillard P. and Lázár I. (eds) (2014), **TASKs for democracy: developing competences for sustainable democratic  societies**, Council of Europe Publishing, Strasbourg.
+Huber J., Mompoint-Gaillard P. and Lázár I. (eds) (2014), **TASKs for democracy: developing competences for sustainable democratic societies**, Council of Europe Publishing, Strasbourg.
 
 INCA Project (2004), Intercultural Competence Assessment, INCA Assessor Manual, available at ec.europa.eu/migrant-integration/ librarydoc/the-inca-project-intercultural-competence-assessment, accessed 9 September 2019.
 
@@ -6961,53 +6975,53 @@ Interagency Language Roundtable, Scale of Proficiency, available at www.govtilr.
 
 Jørgensen J. N. et al. (2011), “Polylanguaging in superdiversity”, **Diversities** Vol. 13, No. 2, pp. 22-37, available at www.unesco. org/shs/diversities/vol13/issue2/art2, (http://www.unesco.org/shs/diversities/vol13/issue2/art2) accessed 9 September 2019.
 
-Karwacka-Vögele K. (2012), “Towards indicators for intercultural understanding”, in Huber J. (ed.), **Intercultural competence for  all: preparation for living in a heterogeneous world**, Council of Europe Publishing, Strasbourg, pp. 51-60.
+Karwacka-Vögele K. (2012), “Towards indicators for intercultural understanding”, in Huber J. (ed.), **Intercultural competence for all: preparation for living in a heterogeneous world**, Council of Europe Publishing, Strasbourg, pp. 51-60.
 
 King J. and Chetty R. (2014), “Codeswitching: linguistic and literacy understanding of teaching dilemmas in multilingual classrooms”, **Linguistics and Education** Vol. 25, pp. 40-50.
 
 Koch L. [co-author of Swiss ELP 2000 (CH-2000)], Proposed additional descriptors for reading in a secondary school context (unpublished).
 
-Lázár I. et al. (eds), **Developing and assessing intercultural communicative competence. A guide for language teachers and  teacher educators**, Council of Europe Publishing, Strasbourg/Graz, available at http://archive.ecml.at/mtp2/publications/B1_ICCinTE_E_internet.pdf, accessed 9 September 2019.
+Lázár I. et al. (eds), ** Developing and assessing intercultural communicative competence. A guide for language teachers and teacher educators **, Council of Europe Publishing, Strasbourg/Graz, available at http://archive.ecml.at/mtp2/publications/B1_ICCinTE_E_internet.pdf, accessed 9 September 2019.
 
-Lenz P. and Berthele R. (2010), “Assessment in plurilingual and intercultural education”, Satellite Study No. 2 accompanying Beacco J.-C. et al. (2016a), **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)**, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16805a1e55, accessed 9 September 2019.59
+Lenz P. and Berthele R. (2010), “Assessment in plurilingual and intercultural education”, Satellite Study No. 2 accompanying Beacco J.-C. et al. (2016a), ** Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621) **, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16805a1e55, accessed 9 September 2019.59
 
-Lewis G., Jones B. and Baker C. (2012), “Translanguaging: developing its conceptualisation and contextualisation”, **Educational  Research and Evaluation** Vol. 18, No. 7, pp. 655-70.
+Lewis G., Jones B. and Baker C. (2012), “Translanguaging: developing its conceptualisation and contextualisation”, **Educational Research and Evaluation** Vol. 18, No. 7, pp. 655-70.
 
 LICI Project, **Handbook: language in content instruction**, available at www.yumpu.com/en/document/view/17817415/ language-in-content-instruction-lici-project, accessed 9 September 2019.
 
 Lingualevel/IEF (Swiss) project for 13-15 year olds, 2009, available at www.lingualevel.ch, accessed 9 September 2019.
 
-Lüdi G. (2014), “Dynamics and management of linguistic diversity in companies and institutes of higher education: results from the DYLAN project”, in Gromes P. and Hu A. (eds), **Plurilingual Education: policies – practices – language development**,  Studies on Linguistic Diversity 3, John Benjamins, Hamburg, pp. 113-18.
+Lüdi G. (2014), “Dynamics and management of linguistic diversity in companies and institutes of higher education: results from the DYLAN project”, in Gromes P. and Hu A. (eds), **Plurilingual Education: policies – practices – language development**, Studies on Linguistic Diversity 3, John Benjamins, Hamburg, pp. 113-18.
 
-Mercer N. and Dawes L. (2008), “The value of exploratory talk”, in Mercer N. and Hodgkinson S. (eds), **Exploring talk in schools**,  Sage, London, pp. 55-72.
+Mercer N. and Dawes L. (2008), “The value of exploratory talk”, in Mercer N. and Hodgkinson S. (eds), **Exploring talk in schools**, Sage, London, pp. 55-72.
 
 MIRIADI Project, Skills reference data on multilingual communication in intercomprehension, available at www.miriadi.net/ en/printpdf/book/export/html/746 (http://www.miriadi.net/en/printpdf/book/export/html/746), accessed 9 September 2019.
 
-National Institute for Dispute Resolution (1995), “Performance-based assessment: a methodology, for use in selecting, training and evaluating mediators”, Washington DC, available at www.convenor.com/uploads/2/3/4/8/23485882/method. pdf (https://www.convenor.com/uploads/2/3/4/8/23485882/method.pdf), accessed 9 September 2019.
+National Institute for Dispute Resolution (1995), “Performance-based assessment: a methodology, for use in selecting, training and evaluating mediators”, Washington DC, available at www.convenor.com/uploads/2/3/4/8/23485882/method.pdf (https://www.convenor.com/uploads/2/3/4/8/23485882/method.pdf), accessed 9 September 2019.
 
 Negishi M., Takada T. and Tono Y. (2013), “A progress report on the development of the CEFR-J”, in Galaczi E. D. and Weir C. J. (2013) (eds), **Exploring Language Frameworks: proceedings of the ALTE Krak** ó **w Conference, July 2011**, Studies in Language Testing Series No. 36, Cambridge University Press, Cambridge, pp. 135-63.
 
-Neuner G. (2012), “The dimensions of intercultural education”, in Huber J. (ed.), **Intercultural competence for all: preparation  for living in a heterogeneous world**, Pestalozzi Series No. 2, Council of Europe Publishing, Strasbourg, pp. 11-49, available at https://rm.coe.int/16808ce20c, accessed 9 September 2019.
+Neuner G. (2012), “The dimensions of intercultural education”, in Huber J. (ed.), **Intercultural competence for all: preparation for living in a heterogeneous world**, Pestalozzi Series No. 2, Council of Europe Publishing, Strasbourg, pp. 11-49, available at https://rm.coe.int/16808ce20c, accessed 9 September 2019.
 <!-- el:end id=prose_p271_s0 -->
 
-59.	 The document was prepared for the Policy Forum “The right of learners to quality and equity in education – The role of linguistic and intercultural competence”, which took place in Geneva, Switzerland from 2 to 4 November 2010.
+59.  The document was prepared for the Policy Forum “The right of learners to quality and equity in education – The role of linguistic and intercultural competence”, which took place in Geneva, Switzerland from 2 to 4 November 2010.
 
 *Sources for new descriptors ▶ Page **271***
 
 <!-- page:271 -->
 
 <!-- el:start type=prose id=prose_p272_s0 page=272 -->
-Newby D. et al. (2006), “European Portfolio for Student Teachers of Languages”,EPOSTL, European Centre for Modern Languages, Council of Europe Publishing, Strasbourg, available at www.ecml.at/tabid/277/PublicationID/16/Default.aspx, accessed 9 September 2019.
+Newby D. et al. (2006), “European Portfolio for Student Teachers of Languages”, EPOSTL, European Centre for Modern Languages, Council of Europe Publishing, Strasbourg, available at www.ecml.at/tabid/277/PublicationID/16/Default.aspx, accessed 9 September 2019.
 
 North-South Centre of the Council of Europe (2012), “Global education guidelines. A handbook for educators to understand and implement global education”, North-South Centre of the Council of Europe, Lisbon, available at https://rm.coe.int/168070eb85, accessed 9 September 2019.
 
 Oatley K. (1994), “A taxonomy of the emotions of literary response and a theory of identification in fictional narrative”, **Poetics** Vol. 23, pp. 53-74.
 
-OECD (2005), “The definition and selection of key competencies. Executive summar (http://www.oecd.org/pisa/35070367.pdf)y”, Organisation for Economic Co-operation and Development/DeSeCo, Paris, available at www.oecd.org/pisa/35070367.pdf, accessed 9 September 2019.
+OECD (2005), “The definition and selection of key competencies. Executive summary” (<http://www.oecd.org/pisa/35070367.pdf>), Organisation for Economic Co-operation and Development/DeSeCo, Paris, available at www.oecd.org/pisa/35070367.pdf, accessed 9 September 2019.
 
-Pierce K. M. and Gilles C. (2008), “From exploratory talk to critical conversations”, in Mercer N. and Hodgkinson S. (eds), **Exploring  talk in schools**, Sage, London, pp. 37-54.
+Pierce K. M. and Gilles C. (2008), “From exploratory talk to critical conversations”, in Mercer N. and Hodgkinson S. (eds), **Exploring talk in schools**, Sage, London, pp. 37-54.
 
-Purves A. C. (1971), “The evaluation of learning in literature”, in Bloom B. S., Hastings J. T. and G. F Madaus (eds), **Handbook of  formative and summative evaluation of student learning**, McGraw-Hill, New York, pp. 699-766.
+Purves A. C. (1971), “The evaluation of learning in literature”, in Bloom B. S., Hastings J. T. and G. F Madaus (eds), **Handbook of formative and summative evaluation of student learning**, McGraw-Hill, New York, pp. 699-766.
 
 Research Centre for Language Teaching, Testing and Assessment, National and Kapodistrian University of Athens, Mediation descriptors related to the mediation tasks in the Greek KPG examinations.
 
@@ -7017,57 +7031,63 @@ Takala S. (unpublished), AMMKIA: Finnish Project.
 
 Thompson S., Hillman K. and De Bortoli L. (2013), **A Teacher’s Guide to PISA Reading Literacy**, ACER, Melbourne, available at www.acer.org/files/PISA_Thematic_Report_-_Reading_-_web.pdf, accessed 9 September 2019.
 
-Trim J. L. M, “C1 Level Can Do Specifications for Profile Deutsch”, Appendix A, in Green A. (2012), **Language functions revisited:  theoretical and empirical bases for language construct definition across the ability range**, English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
+Trim J. L. M, “C1 Level Can Do Specifications for Profile Deutsch”, Appendix A, in Green A. (2012), ** Language functions revisited: theoretical and empirical bases for language construct definition across the ability range **, English Profile Studies, Volume 2, UCLES/Cambridge University Press, Cambridge.
 
-Tuning Educational Structures in Europe (n.d.-a), **Approaches to teaching, learning and assessment in competences based degree  programmes**, available at http://tuningacademy.org/?lang=en, accessed 9 September 2019.
+Tuning Educational Structures in Europe (n.d.-a), **Approaches to teaching, learning and assessment in competences based degree programmes**, available at http://tuningacademy.org/?lang=en, accessed 9 September 2019.
 
 Tuning Educational Structures in Europe (n.d.-b), **Generic competences**, available at http://tuningacademy.org/?lang=en, accessed 9 September 2019.
 
 Tuning Educational Structures in Europe (n.d.-c), **Education – Specific competences**, available at http://tuningacademy.org/?lang=en, accessed 9 September 2019.
 
-Vacca J. S. (2008), “Using scaffolding techniques to teach a social studies lesson about Buddha to sixth graders”, **Journal of  Adolescent and Adult Literacy** Vol. 51, No. 8, pp. 652-8.
+Vacca J. S. (2008), “Using scaffolding techniques to teach a social studies lesson about Buddha to sixth graders”, **Journal of Adolescent and Adult Literacy** Vol. 51, No. 8, pp. 652-8.
 
 Vollmer H. and Thürmann E. (2016), “Language sensitive teaching of so-called non-language subjects: a checklist”, in Beacco J.-C. et al. (eds), **A handbook for curriculum development and teacher training – The language dimension in all subjects**, Council of Europe Publishing, Strasbourg.60
 
-Walqui A. (2006), “Scaffolding instruction for English language learners: a conceptual framework”, **International Journal of  Bilingual Education and Bilingualism** Vol. 9, No. 2, pp. 159-80.
+Walqui A. (2006), “Scaffolding instruction for English language learners: a conceptual framework”, **International Journal of Bilingual Education and Bilingualism** Vol. 9, No. 2, pp. 159-80.
 
-Webb N. (2009), “The teacher’s role in promoting collaborative dialogue in the classroom”, **British Journal of Educational  Psychology** Vol. 78, No. 1, pp. 1-28.
+Webb N. (2009), “The teacher’s role in promoting collaborative dialogue in the classroom”, **British Journal of Educational Psychology** Vol. 78, No. 1, pp. 1-28.
 
 Zwiers J. (2008), **Building academic language**, Jossey-Bass, San Francisco.
 <!-- el:end id=prose_p272_s0 -->
 
-60.	 . An extended version of this checklist has been published in German: Thürmann, Eike and Vollmer, Helmut Johannes (2012), “Schulsprache und Sprachsensibler Fachunterricht: Eine Checkliste mit Erläuterungen”, in Röhner C. and Hövelbrinks B. (eds), **Fachbezogene Sprachförderung in Deutsch als Zweitsprache**, Juventa, Weinheim, pp. 212-33.
+60. An extended version of this checklist has been published in German: Thürmann, Eike and Vollmer, Helmut Johannes (2012), “Schulsprache und Sprachsensibler Fachunterricht: Eine Checkliste mit Erläuterungen”, in Röhner C. and Hövelbrinks B. (eds), **Fachbezogene Sprachförderung in Deutsch als Zweitsprache**, Juventa, Weinheim, pp. 212-33.
 
 *Page **272** ▶ **CEFR – Companion volume***
 
 <!-- page:272 -->
 
 <!-- el:start type=prose id=prose_p273_s0 page=273 -->
-Appendix 10 **ONLINE RESOURCES** ALTE (2011), “Manual for language test development and examining – For use with the CEFR”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2b, accessed 9 September 2019.
+Appendix 10
+
+**ONLINE RESOURCES**
+
+ALTE (2011), “Manual for language test development and examining – For use with the CEFR”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2b, accessed 9 September 2019.
 
 Bank of supplementary descriptors, available at www.coe.int/en/web/common-european-framework-reference-languages/ bank-of-supplementary-descriptors, accessed 9 September 2019.
 
-Barrett M. et al. (2016), **Competences for democratic culture: living together as equals in culturally diverse democratic societies**, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ccc07, accessed 10 December 2019.
+Barrett M. et al. (2016), ** Competences for democratic culture: living together as equals in culturally diverse democratic societies **, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ccc07, accessed 10 December 2019.
 
-Beacco J.-C. et al. (2016a), **Guide for the development and implementation of curricula for plurilingual and intercultural education** (https://rm.coe.int/16806ae621), Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae621, accessed 9 September 2019.
+Beacco J.-C. et al. (2016a), ** Guide for the development and implementation of curricula for plurilingual and intercultural education **, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae621, accessed 9 September 2019.
 
 Beacco J.-C. et al. (2016b), **A Handbook for Curriculum Development and Teacher Training: the language dimension in all subjects**, Council of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806af387, accessed 9 September 2019.
 
-Beacco J.-C. and Byram M. (2007), **From Linguistic Diversity to Plurilingual Education: guide for the development of language  education policies in Europe**, Language Policy Division, Council of Europe, available at https://rm.coe.int/16802fc1c4, accessed 9 September 2019.
+Beacco J.-C. and Byram M. (2007), ** From Linguistic Diversity to Plurilingual Education: guide for the development of language education policies in Europe **, Language Policy Division, Council of Europe, available at https://rm.coe.int/16802fc1c4, accessed 9 September 2019.
 
 CEFR QualiMatrix, A quality assurance matrix for CEFR use, available at www.ecml.at/CEFRqualitymatrix, accessed 9 September 2019.
 
-CEFTrain (Common European Framework of Reference for Languages in Teacher Training): www.helsinki.fi/project/ceftrain/ index.php.35.html, accessed 9 September 2019. **Competences for Democratic Culture**: available at www.coe.int/competences, accessed 9 September 2019.
+CEFTrain (Common European Framework of Reference for Languages in Teacher Training): www.helsinki.fi/project/ceftrain/ index.php.35.html, accessed 9 September 2019.
+
+**Competences for Democratic Culture**: available at www.coe.int/competences, accessed 9 September 2019.
 
 Coste D. and Cavalli M. (2015) **Education, Mobility, Otherness – the mediation functions of schools**, Language Policy Unit, Council of Europe, Strasbourg, available at https://rm.coe.int/16807367ee, accessed 9 September 2019.
 
-Committee of Ministers, Recommendation CM/Rec(2008)7 on the use of the Council of Europe’s Common European Framework of Reference for Languages (CEFR) and the promotion of plurilingualism, available at https://search.coe.int/cm/ Pages/result_details.aspx?ObjectId=09000016805d2fb1, accessed 9 September 2019.
+Committee of Ministers, Recommendation CM/Rec(2008)7 on the use of the Council of Europe’s Common European Framework of Reference for Languages (CEFR) and the promotion of plurilingualism, available at https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016805d2fb1, accessed 9 September 2019.
 
 Committee of Ministers, recommendations on language and language learning: available at www.coe.int/en/web/commoneuropean-framework-reference-languages/recommendations, accessed 9 September 2019.
 
 Council of Europe (2001), **Common European Framework of Reference for Languages: Learning, teaching, assessment**, Cambridge University Press, Cambridge, available at https://rm.coe.int/1680459f97, accessed 9 September 2019.
 
-Council of Europe (2009a), **Relating Language Examinations to the Common European Framework of Reference for Languages:  Learning, teaching, assessment (CEFR) – a manual**, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2d, accessed 9 September 2019.
+Council of Europe (2009a), ** Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – a manual **, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/1680667a2d, accessed 9 September 2019.
 
 Council of Europe (2009b), **Autobiography of Intercultural Encounters**, available at www.coe.int/t/dg4/autobiography/ default_en.asp, accessed 9 September 2019.
 
@@ -7093,9 +7113,9 @@ European Language Portfolio (ELP): www.coe.int/en/web/portfolio, accessed 9 Sept
 
 FREPA/CARAP, **A Framework of Reference for Pluralistic Approaches to Languages and Cultures**, available at http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx, accessed 9 September 2019.
 
-Goodier T. (ed.) (2018), **Collated Representative Samples of Descriptors of Language Competences Developed for Young  Learners – resource for educators, Volume 1: Ages 7-10**, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1688, accessed 9 September 2019.
+Goodier T. (ed.) (2018), ** Collated Representative Samples of Descriptors of Language Competences Developed for Young Learners – resource for educators, Volume 1: Ages 7-10**, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1688, accessed 9 September 2019.
 
-Goodier T. (ed.) (2018), **Collated Representative Samples of Descriptors of Language Competences Developed for Young Learners  – resource for educators, Volume 2: Ages 11-15**, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1689, accessed 9 September 2019.
+Goodier T. (ed.) (2018), ** Collated Representative Samples of Descriptors of Language Competences Developed for Young Learners – resource for educators, Volume 2: Ages 11-15**, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1689, accessed 9 September 2019.
 
 Goullier F. (2007), **Council of Europe Tools for Language Teaching – Common European framework and portfolios**, Didier/Council of Europe, Paris/Strasbourg, available at https://rm.coe.int/168069ce6e, accessed 9 September 2019.
 
@@ -7105,7 +7125,7 @@ LINCDIRE: LINguistic & Cultural DIversity REinvented, available at www.lincdirep
 
 MIRIADI Project Plan: available at www.miriadi.net/en/miriadi-plan, accessed 9 September 2019.
 
-Noijons J., Bérešová J., Breton G. et al. (2011), **Relating Language Examinations to the Common European Framework of Reference  for Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual**, Council of Europe Publishing, Strasbourg, available at: www.ecml.at/tabid/277/PublicationID/67/Default.aspx, accessed 9 September 2019.
+Noijons J., Bérešová J., Breton G. et al. (2011), ** Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, teaching, assessment (CEFR) – Highlights from the Manual **, Council of Europe Publishing, Strasbourg, available at: www.ecml.at/tabid/277/PublicationID/67/Default.aspx, accessed 9 September 2019.
 
 North B. and Piccardo E. (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31, accessed 9 September 2019.
 
@@ -7133,13 +7153,172 @@ Trim J. (ed.) (2001), “Common European Framework of Reference for Languages: L
 *Page **274** ▶ **CEFR – Companion volume***
 
 <!-- page:274 -->
+<!-- el:start type=prose id=prose_p275_s0 page=275 -->
+**Sales agents for publications of the Council of Europe**
 
-<!-- el:start type=prose id=prose_p275_s0 page=275 --> **Sales agents for publications of the Council of Europe Agents de vente des publications du Conseil de l’Europe BELGIUM/BELGIQUE FINLAND/FINLANDE** La Librairie Européenne - Akateeminen Kirjakauppa The European Bookshop PO Box 128 Rue de l’Orme, 1 Keskuskatu 1 BE-1040 BRUXELLES FI-00100 HELSINKI Tel.: + 32 (0)2 231 04 35 Tel.: + 358 (0)9 121 4430 Fax: + 32 (0)2 735 08 60 Fax: + 358 (0)9 121 4242 E-mail: info@libeurop.eu E-mail: akatilaus@akateeminen.com http://www.libeurop.be http://www.akateeminen.com
+*Agents de vente des publications du Conseil de l’Europe*
 
-Jean De Lannoy/DL Services **FRANCE** c/o Michot Warehouses Please contact directly / Bergense steenweg 77 Merci de contacter directement Chaussée de Mons Council of Europe Publishing BE-1600 SINT PIETERS LEEUW Éditions du Conseil de l’Europe Fax: + 32 (0)2 706 52 27 F-67075 STRASBOURG Cedex E-mail: jean.de.lannoy@dl-servi.com Tel.: + 33 (0)3 88 41 25 81 http://www.jean-de-lannoy.be Fax: + 33 (0)3 88 41 39 10 E-mail: publishing@coe.int **CANADA** http://book.coe.int Renouf Publishing Co. Ltd. 22-1010 Polytek Street Librairie Kléber CDN-OTTAWA, ONT K1J 9J1 1, rue des Francs-Bourgeois Tel.: + 1 613 745 2665 F-67000 STRASBOURG Fax: + 1 613 745 7660 Tel.: + 33 (0)3 88 15 78 88 Toll-Free Tel.: (866) 767-6766 Fax: + 33 (0)3 88 15 78 80 E-mail: order.dept@renoufbooks.com E-mail: librairie-kleber@coe.int http://www.renoufbooks.com http://www.librairie-kleber.com **CROATIA/CROATIE NORWAY/NORVÈGE** Robert’s Plus d.o.o. Akademika Marasoviçeva 67 Postboks 84 Blindern HR-21000 SPLIT NO-0314 OSLO Tel.: + 385 21 315 800, 801, 802, 803 Tel.: + 47 2 218 8100 Fax: + 385 21 315 804 Fax: + 47 2 218 8103 E-mail: robertsplus@robertsplus.hr E-mail: support@akademika.no http://www.akademika.no **CZECH REPUBLIC/  RÉPUBLIQUE TCHÈQUE POLAND/POLOGNE** Suweco CZ, s.r.o. Ars Polona JSC Klecakova 347 25 Obroncow Street CZ-180 21 PRAHA 9 PL-03-933 WARSZAWA Tel.: + 420 2 424 59 204 Tel.: + 48 (0)22 509 86 00 Fax: + 420 2 848 21 646 Fax: + 48 (0)22 509 86 10 E-mail: import@suweco.cz E-mail: arspolona@arspolona.com.pl http://www.suweco.cz http://www.arspolona.com.pl **DENMARK/DANEMARK  PORTUGAL** GAD Marka Lda Vimmelskaftet 32 Rua dos Correeiros 61-3 DK-1161 KØBENHAVN K PT-1100-162 LISBOA Tel.: + 45 77 66 60 00 Tel: 351 21 3224040 Fax: + 45 77 66 60 01 Fax: 351 21 3224044 E-mail: reception@gad.dk E-mail: apoio.clientes@marka.pt http://www.gad.dk www.marka.pt **Council of Europe Publishing/Éditions du Conseil de l’Europe** F-67075 STRASBOURG Cedex Tel.: + 33 (0)3 88 41 25 81 – Fax: + 33 (0)3 88 41 39 10 – E-mail: publishing@coe.int – Website: http://book.coe.int **RUSSIAN FEDERATION/  FÉDÉRATION DE RUSSIE** Ves Mir 17b, Butlerova ul. - Office 338 RU-117342 MOSCOW Tel.: + 7 495 739 0971 Fax: + 7 495 739 0971 E-mail: orders@vesmirbooks.ru http://www.vesmirbooks.ru **SWITZERLAND/SUISSE** Planetis Sàrl 16, chemin des Pins CH-1273 ARZIER Tel.: + 41 22 366 51 77 Fax: + 41 22 366 51 78 E-mail: info@planetis.ch **TAIWAN** Tycoon Information Inc. 5th Floor, No. 500, Chang-Chun Road Taipei, Taiwan Tel.: 886-2-8712 8886 Fax: 886-2-8712 4747, 8712 4777 E-mail: info@tycoon-info.com.tw orders@tycoon-info.com.tw **UNITED KINGDOM/ROYAUME-UNI** The Stationery Office Ltd PO Box 29 GB-NORWICH NR3 1GN Tel.: + 44 (0)870 600 5522 Fax: + 44 (0)870 600 5533 E-mail: book.enquiries@tso.co.uk http://www.tsoshop.co.uk **UNITED STATES and CANADA/  ÉTATS-UNIS et CANADA** Manhattan Publishing Co 670 White Plains Road USA-10583 SCARSDALE, NY Tel: + 1 914 472 4650 Fax: + 1 914 472 4316 E-mail: coe@manhattanpublishing.com http://www.manhattanpublishing.com
+**BELGIUM/BELGIQUE**
+La Librairie Européenne -
+The European Bookshop
+Rue de l’Orme, 1
+BE-1040 BRUXELLES
+Tel.: + 32 (0)2 231 04 35
+Fax: + 32 (0)2 735 08 60
+E-mail: info@libeurop.eu
+http://www.libeurop.be
+Jean De Lannoy/DL Services
+c/o Michot Warehouses
+Bergense steenweg 77
+Chaussée de Mons
+BE-1600 SINT PIETERS LEEUW
+Fax: + 32 (0)2 706 52 27
+E-mail: jean.de.lannoy@dl-servi.com
+http://www.jean-de-lannoy.be
+
+**CANADA**
+Renouf Publishing Co. Ltd.
+22-1010 Polytek Street
+CDN-OTTAWA, ONT K1J 9J1
+Tel.: + 1 613 745 2665
+Fax: + 1 613 745 7660
+Toll-Free Tel.: (866) 767-6766
+E-mail: order.dept@renoufbooks.com
+http://www.renoufbooks.com
+
+**CROATIA/CROATIE**
+Robert’s Plus d.o.o.
+Marasoviçeva 67
+HR-21000 SPLIT
+Tel.: + 385 21 315 800, 801, 802, 803
+Fax: + 385 21 315 804
+E-mail: robertsplus@robertsplus.hr
+
+**CZECH REPUBLIC/**
+**RÉPUBLIQUE TCHÈQUE**
+Suweco CZ, s.r.o.
+Klecakova 347
+CZ-180 21 PRAHA 9
+Tel.: + 420 2 424 59 204
+Fax: + 420 2 848 21 646
+E-mail: import@suweco.cz
+http://www.suweco.cz
+
+**DENMARK/DANEMARK**
+**GAD**
+Vimmelskaftet 32
+DK-1161 KØBENHAVN K
+Tel.: + 45 77 66 60 00
+Fax: + 45 77 66 60 01
+E-mail: reception@gad.dk
+http://www.gad.dk
+
+**FINLAND/FINLANDE**
+Akateeminen Kirjakauppa
+PO Box 128
+Keskuskatu 1
+FI-00100 HELSINKI
+Tel.: + 358 (0)9 121 4430
+Fax: + 358 (0)9 121 4242
+E-mail: akatilaus@akateeminen.com
+http://www.akateeminen.com
+
+**FRANCE**
+Please contact directly /
+Merci de contacter directement
+Council of Europe Publishing
+Éditions du Conseil de l’Europe
+F-67075 STRASBOURG Cedex
+Tel.: + 33 (0)3 88 41 25 81
+Fax: + 33 (0)3 88 41 39 10
+E-mail: publishing@coe.int
+http://book.coe.int
+Librairie Kléber
+1, rue des Francs-Bourgeois
+F-67000 STRASBOURG
+Tel.: + 33 (0)3 88 15 78 88
+Fax: + 33 (0)3 88 15 78 80
+E-mail: librairie-kleber@coe.int
+http://www.librairie-kleber.com
+
+**NORWAY/NORVÈGE**
+Akademika
+Postboks 84 Blindern
+NO-0314 OSLO
+Tel.: + 47 2 218 8100
+Fax: + 47 2 218 8103
+E-mail: support@akademika.no
+http://www.akademika.no
+
+**POLAND/POLOGNE**
+Ars Polona JSC
+25 Obroncow Street
+PL-03-933 WARSZAWA
+Tel.: + 48 (0)22 509 86 00
+Fax: + 48 (0)22 509 86 10
+E-mail: arspolona@arspolona.com.pl
+http://www.arspolona.com.pl
+
+**PORTUGAL**
+Marka Lda
+Rua dos Correeiros 61-3
+PT-1100-162 LISBOA
+Tel: 351 21 3224040
+Fax: 351 21 3224044
+E mail: apoio.clientes@marka.pt
+www.marka.pt
+
+**RUSSIAN FEDERATION/**
+**FÉDÉRATION DE RUSSIE**
+Ves Mir
+17b, Butlerova ul. - Office 338
+RU-117342 MOSCOW
+Tel.: + 7 495 739 0971
+Fax: + 7 495 739 0971
+E-mail: orders@vesmirbooks.ru
+http://www.vesmirbooks.ru
+
+**SWITZERLAND/SUISSE**
+Planetis Sàrl
+16, chemin des Pins
+CH-1273 ARZIER
+Tel.: + 41 22 366 51 77
+Fax: + 41 22 366 51 78
+E-mail: info@planetis.ch
+
+**TAIWAN**
+Tycoon Information Inc.
+5th Floor, No. 500, Chang-Chun Road
+Taipei, Taiwan
+Tel.: 886-2-8712 8886
+Fax: 886-2-8712 4747, 8712 4777
+E-mail: info@tycoon-info.com.tw
+orders@tycoon-info.com.tw
+
+**UNITED KINGDOM/ROYAUME-UNI**
+The Stationery Office Ltd
+PO Box 29
+GB-NORWICH NR3 1GN
+Tel.: + 44 (0)870 600 5522
+Fax: + 44 (0)870 600 5533
+E-mail: book.enquiries@tso.co.uk
+http://www.tsoshop.co.uk
+UNITED STATES and CANADA/
+ÉTATS-UNIS et CANADA
+Manhattan Publishing Co
+670 White Plains Road
+USA-10583 SCARSDALE, NY
+Tel: + 1 914 472 4650
+Fax: + 1 914 472 4316
+E-mail: coe@manhattanpublishing.com
+http://www.manhattanpublishing.com
+Council of Europe Publishing/Éditions du Conseil de l’Europe
+F-67075 STRASBOURG Cedex
+Tel.: + 33 (0)3 88 41 25 81 – Fax: + 33 (0)3 88 41 39 10 – E-mail: publishing@coe.int – Website: http://book.coe.int
+
 <!-- el:end id=prose_p275_s0 -->
 
-Page **275**
+*Page **275***
 
 <!-- page:275 -->
 
@@ -7172,12 +7351,18 @@ The CEFR Companion volume represents another step in a process of engagement wit
 - enhance intercultural dialogue, and thus mutual understanding, social cohesion and democracy;
 - protect linguistic and cultural diversity in Europe; and - promote the right to quality education for all.
 
-PREMS  058220 **EDUCATION FOR DEMOCRACY www.coe.int/lang-cefr ENG** The Council of Europe is the continent’s leading human rights organisation. It comprises 47 member states, including all members of the European Union. All Council of Europe member states have signed up to the European Convention on Human Rights, a treaty designed to protect human rights, democracy and the rule of law. The European Court of Human Rights oversees the implementation of the Convention in the member states. **http://book.coe.int** ISBN 978-92-871-8621-8 €35/US$70
+PREMS 058220
+
+**EDUCATION FOR DEMOCRACY www.coe.int/lang-cefr ENG**
+
+The Council of Europe is the continent’s leading human rights organisation. It comprises 47 member states, including all members of the European Union. All Council of Europe member states have signed up to the European Convention on Human Rights, a treaty designed to protect human rights, democracy and the rule of law. The European Court of Human Rights oversees the implementation of the Convention in the member states.
+
+**http://book.coe.int** ISBN 978-92-871-8621-8 €35/US$70
 
 9 789287 186218
 <!-- el:end id=prose_p278_s0 -->
 
-Page **278**Page**278**Page**278**Page**278**
+Page **278**
 
 <!-- page:278 -->
 

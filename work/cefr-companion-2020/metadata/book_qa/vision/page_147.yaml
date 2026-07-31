@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p147: Multipage artifact present (scale_sign_language_repertoire pages=146-148). Restored page-slice from rotated_from_grok/page_147_scale_sign_language_repertoire.md. class=content_ok

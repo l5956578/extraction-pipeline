@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p168: Multipage artifact present (scale_processing_speed pages=167-168). MD fixed this batch (missing content / dual-emit / garbled grid). FIXED this batch: restored missing/garbled content into main MD. class=content_ok

@@ -1,0 +1,9 @@
+status: pass
+failures:
+  []
+classification: book_vision_qa
+notes: >
+  FIXED: Stripped OCR soup dual-emit; kept RF Translating speech/sign A2–Pre-A1; restored Translating written text in writing C2 from PDF vision.
+  Page 217: Appendix 5 rotated domain table present; rf_overlap=1.0; local_overlap=0.981.
+  attempts: 1
+snapshot: work/cefr-companion-2020/metadata/qa_snapshots/page_217.png

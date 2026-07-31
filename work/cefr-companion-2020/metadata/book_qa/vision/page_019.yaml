@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Vision QA page 19: PNG vs MD slice before <!-- page:19 -->. Content present; no critical missing prose, figure soup, or wrong callouts.

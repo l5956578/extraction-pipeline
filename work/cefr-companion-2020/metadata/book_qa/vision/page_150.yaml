@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p150: Multipage artifact present (scale_diagrammatical_accuracy pages=150-152). class=content_ok

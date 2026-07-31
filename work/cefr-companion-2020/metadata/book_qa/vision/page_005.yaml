@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  Vision QA page 5: PNG vs MD slice. Content matches; BOM in caption removed this batch.

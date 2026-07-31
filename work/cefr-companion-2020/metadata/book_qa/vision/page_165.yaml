@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p165: Multipage artifact present (scale_language_awareness_and_interpretation pages=164-165). MD fixed this batch (missing content / dual-emit / garbled grid). class=content_ok

@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p153: MD body matches PDF layout intent (md_core=2871, pdf_chars=2970). class=content_ok

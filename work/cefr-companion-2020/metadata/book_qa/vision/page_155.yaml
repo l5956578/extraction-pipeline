@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p155: Multipage artifact present (scale_sociolinguistic_appropriateness_and_cultural_repertoire pages=154-156). Restored page-slice from rotated_from_grok/page_155_scale_sociolinguistic_ssenetairporppa_and_larutluc_repertoire.md. class=content_ok

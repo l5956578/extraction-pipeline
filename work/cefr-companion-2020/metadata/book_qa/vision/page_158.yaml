@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p158: Multipage artifact present (scale_sign_text_structure pages=158-160). class=content_ok

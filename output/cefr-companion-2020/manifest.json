@@ -62,5 +62,6 @@
       "product_tier": "detailed"
     }
   },
-  "artifact_count": 125
+  "artifact_count": 125,
+  "job_id": "cefr-companion-2020"
 }

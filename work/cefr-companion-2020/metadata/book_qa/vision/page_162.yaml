@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p162: Multipage artifact present (scale_setting_and_perspectives pages=162-163). class=content_ok

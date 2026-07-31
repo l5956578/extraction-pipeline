@@ -1,0 +1,21 @@
+
+
+<!-- el:start type=artifact id=scale_strategies_to_explain_a_new_concept page=119 -->
+<!-- db:id=scale_strategies_to_explain_a_new_concept type=descriptor_scale product_tier=assessment_action,detailed pages=119-120 -->
+### Strategies to explain a new concept | scale_strategies_to_explain_a_new_concept
+
+| Level | Linking to previous knowledge | Adapting language | Breaking down complicated information |
+|-------|------------------------------|-------------------|--------------------------------------|
+| C2 | Can introduce complex concepts (e.g. scientific notions) by providing extended definitions and explanations that draw on previous knowledge that can be assumed. | Can adapt the language of a very wide range of texts in order to present the main content in a register and degree of sophistication and detail appropriate to the audience concerned. | Can facilitate understanding of a complex issue by explaining the relationship of parts to the whole and encourage different ways of approaching it. |
+| C1 | Can spontaneously pose a series of questions to encourage people to think about their prior knowledge of an abstract issue and to help them establish a link to what is going to be explained. | Can explain technical terminology and difficult concepts when communicating with non-experts about matters within their own field of specialisation.<br>Can adapt their language (e.g. syntax, idiomaticity, jargon) in order to make a complex specialist topic accessible to recipients who are not familiar with it.<br>Can paraphrase and interpret complex, technical texts, using suitably non-technical language for a recipient who does not have specialist knowledge. | Can facilitate understanding of a complex issue by highlighting and categorising the main points, presenting them in a logically connected pattern, and reinforcing the message by repeating the key aspects in different ways. |
+| B2 | Can clearly explain the connections between the goals of the session and the personal or professional interests and experiences of the participant(s). | Can explain technical topics within their field, using suitably non-technical language for a recipient who does not have specialist knowledge.<br>Can make a specific, complex piece of information in their field clearer and more explicit for others by paraphrasing it in simpler language. | Can make a complicated issue easier to understand by presenting the components of the argument separately. |
+| | Can formulate questions and give feedback to encourage people to make connections to previous knowledge and experiences.<br>Can explain a new concept or procedure by comparing and contrasting it to one that people are already familiar with. | Can make accessible for others the main contents of a text on a subject of interest (e.g. an essay, a forum discussion, a presentation) by paraphrasing in simpler language. | Can make a complicated process easier to understand by breaking it down into a series of smaller steps. |
+| B1 | Can explain how something works by providing examples that draw on people's everyday experiences. | Can paraphrase more simply the main points made in short, straightforward texts on familiar subjects (e.g. short magazine articles, interviews) to make the contents accessible for others. | Can make a short instructional or informational text easier to understand by presenting it as a list of separate points. |
+| | Can show how new information is related to what people are familiar with by asking simple questions. | Can paraphrase short passages in a simple fashion, using the original order of the text. | Can make a set of instructions easier to understand by repeating them slowly, a few words/signs at a time, employing verbal and non-verbal emphasis to facilitate understanding. |
+| A2 | No descriptors available | Can repeat the main point of a simple message on an everyday subject, using different formulation to help someone else understand it. | No descriptors available |
+| A1 | No descriptors available | No descriptors available | No descriptors available |
+| Pre-A1 | No descriptors available | No descriptors available | No descriptors available |
+<!-- el:end id=scale_strategies_to_explain_a_new_concept -->
+
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **119***
+

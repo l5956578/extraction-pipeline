@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p169: Page-slice table restored for multipage span (scale_signing_fluency pages=168-169). MD fixed this batch (missing content / dual-emit / garbled grid). class=content_ok

@@ -1,0 +1,6 @@
+status: pass
+failures: []
+classification: restored_was_multipage_collapsed
+prior_class: multipage_collapsed
+notes: >
+  Was chrome-only; restored B1–Pre-A1 continuation. Dual-emit truncated soup removed. Full scale also on p99.

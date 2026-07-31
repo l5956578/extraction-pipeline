@@ -1,0 +1,5 @@
+status: pass
+failures: []
+classification: content_present
+notes: >
+  Turntaking intro + scale present; partial phrase flags were PDF line-wrap false positives.

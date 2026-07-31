@@ -1,0 +1,66 @@
+since they reflect the life experience of the person concerned as well as their inherent abilities, what the CEFR 2001
+(Section 5.2) describes as their “general competences”.
+Figure 8 – A plurilingual proficiency profile with fewer categories
+Listening
+Reading
+Oral
+interaction
+Oral production
+Written
+interaction
+Written
+production
+German
+French
+Spanish
+Italian
+C2
+C1
+B2
+B1
+A2
+A1
+In practice, there is a tendency to use more linear diagrams to profile an individual’s CEFR language proficiency.
+Figure 9 shows proficiency in one language in relation to the CEFR “overall” descriptor scales, and Figure 10
+shows a profile across languages for oral comprehension. Graphics similar to these appear in versions of the ELP.
+Earlier ELPs profiled ability in one language after another (as in the example in Figure 9), while some later ones
+show the plurilingual profile for overall proficiency in each communicative language activity (as in Figure 10).
+Figure 9 – A proficiency profile – overall proficiency in one language
+Spanish
+Pre-A1
+A1
+A2
+A2+
+B1
+B1+
+B2
+B2+
+C1
+Oral comprehension
+Reading comprehension
+Oral interaction
+Written interaction
+Oral production
+Written production
+Mediation
+Graphic profiles have been associated with the CEFR and the ELP since their earliest versions in the late 1990s.
+Nowadays, it is of course far easier to produce them from a spreadsheet (for example, Excel) and with the many
+web tools available. However, such graphic profiles only have meaning if one can assume a familiarity with the
+levels and categories concerned on the part of the reader. The CEFR illustrative descriptors can bring that familiarity.
+Figure 10 – A plurilingual proficiency profile – Oral comprehension across languages
+Pre-A1
+A1
+A2
+A2+
+B1
+B1+
+B2
+B2+
+C1
+C2
+Above C2
+English
+German
+French
+Spanish
+Italian

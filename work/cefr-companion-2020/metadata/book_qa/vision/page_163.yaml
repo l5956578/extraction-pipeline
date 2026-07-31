@@ -1,0 +1,4 @@
+status: pass
+failures: []
+notes: >
+  p163: Multipage artifact present (scale_setting_and_perspectives pages=162-163). Restored page-slice from rotated_from_grok/page_163_scale_setting_and_perspectives.md. class=content_ok
