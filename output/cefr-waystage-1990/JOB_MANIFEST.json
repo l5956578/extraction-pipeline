@@ -2,9 +2,9 @@
   "job_id": "cefr-waystage-1990",
   "status": "approved_md",
   "deliverable": "output/cefr-waystage-1990/Waystage_1990.md",
-  "approved_version": "002",
-  "extraction": "vision_ocr_assembly_v2",
+  "approved_version": "003",
+  "extraction": "layout_aware_format_v3",
   "approved": true,
-  "generated_at": "2026-07-31T09:54:54.669331+00:00",
-  "notes": "Companion conventions; App A nuclear tones Vision (1990); CEFR2001 T1/T2 stitched"
+  "generated_at": "2026-07-31T18:14:01.846414+00:00",
+  "notes": "Format v3: real paragraphs, lists, headers, Unicode tone marks"
 }

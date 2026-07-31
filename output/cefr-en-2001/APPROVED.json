@@ -1,7 +1,7 @@
 {
-  "approved_version": "002",
-  "approved_at": "2026-07-31T09:50:33.612281+00:00",
-  "path": "versions/002/CEFR_EN_2001.md",
+  "approved_version": "003",
+  "approved_at": "2026-07-31T18:13:24.899371+00:00",
+  "path": "versions/003/CEFR_EN_2001.md",
   "product": "cefr-en-2001",
-  "notes": "Vision+OCR polish iteration 2 \u2014 nuclear tones structured; Companion conventions applied"
+  "notes": "Format pass v3: real lists/paragraphs/headers; PDF-like intonation marks"
 }

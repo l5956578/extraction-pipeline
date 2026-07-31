@@ -1,7 +1,7 @@
 {
-  "approved_version": "002",
-  "approved_at": "2026-07-31T09:49:06.648625+00:00",
-  "path": "versions/002/Waystage_1990.md",
+  "approved_version": "003",
+  "approved_at": "2026-07-31T18:12:00.720727+00:00",
+  "path": "versions/003/Waystage_1990.md",
   "product": "cefr-waystage-1990",
-  "notes": "Vision+OCR polish iteration 2 \u2014 nuclear tones structured; Companion conventions applied"
+  "notes": "Format pass v3: real lists/paragraphs/headers; PDF-like intonation marks"
 }
