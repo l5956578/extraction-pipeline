@@ -24,7 +24,7 @@ Never show PDF leaf numbers as page numbers.
 | `vertical_band_table` | Left vertical band becomes first column (UNDERSTANDING / SPEAKING / WRITING) | Vertical text ignored or spelled letter-by-letter |
 | `rotated_table` | Companion path or PNG | Prose soup of cells |
 | `figure_tree` | Cropped PNG under `assets/figures/` if text diagram fails | Bad spacing text-diagram pretending to be figure |
-| `intonation_exponents` | Unicode tone inventory only (see INTONATION_NOTATION.md) | ASCII `'` used as tone (collides with contractions) |
+| `intonation_exponents` | Unicode tone inventory only (see docs/vision_extract/INTONATION_NOTATION.md) | ASCII `'` used as tone (collides with contractions) |
 | `section_header_numbered` | `### 1 Target Group` not `1. list item` | Numbered headers parsed as lists |
 | `emdash_emphasis` | Inline `– and many more –` | False bullets |
 | `two_column_list` | Multi-pass Vision; reading order left then right or by number | Cut mid-sentence / half page missing |
@@ -43,7 +43,7 @@ Mode values: UNDERSTANDING (Listening, Reading); SPEAKING (Spoken Interaction, S
 
 ## Intonation pages (must multi-pass Vision ≥3)
 
-Catalog paths: `docs/library/INTONATION_PAGE_INDEX.md`  
+Catalog paths: `docs/vision_extract/INTONATION_PAGE_INDEX.md`  
 Any page with nuclear tone exponents: re-read PNG, re-check MD marks vs App A legend.
 
 ## QA checklist (agent, not human)

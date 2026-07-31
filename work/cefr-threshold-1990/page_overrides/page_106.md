@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 106 = document p.100 | multipass politeness maxims + intonation -->
 <!-- el:start type=prose id=prose_p106 page=100 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 **a)** adding *please* when you call for action by the partner;
 

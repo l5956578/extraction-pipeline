@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 104 = document p.98 | multipass ≥3 politeness maxims + intonation -->
 <!-- el:start type=prose id=prose_p104 page=98 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
 some cases, the use of a politeness marker is so usual that we have included it directly in the suggested exponent. However, to have attempted to do so in all cases would have both overloaded the specification and been in fact too directive and even misleading. We have preferred to state the principles and to leave it to learners, under guidance from their teachers, to apply them appropriately.
 

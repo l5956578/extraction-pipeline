@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 108 = document p.102 | multipass politeness closing + intonation -->
 <!-- el:start type=prose id=prose_p108 page=102 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 or to repeat it, usually in a stronger form:
 

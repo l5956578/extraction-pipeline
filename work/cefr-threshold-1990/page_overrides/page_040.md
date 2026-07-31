@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 40 = document p.34 | multipass intonation -->
 <!-- el:start type=prose id=prose_p040 page=34 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.19.2** NP + *be* (not) permitted ●
 

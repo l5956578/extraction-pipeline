@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 111 = document p.105 | multipass compensation strategies II–III + intonation -->
 <!-- el:start type=prose id=prose_p111 page=105 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 2. carry out the operation described in I.2, provided that the contextual clues are presented in such a way that they are recognisable as such and interpretable in linear sequence without necessitating backtracking and reconsideration of the context;
 

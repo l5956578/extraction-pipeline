@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 112 = document p.106 | multipass compensation strategies IV–V + intonation -->
 <!-- el:start type=prose id=prose_p112 page=106 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 ### IV As a writer, the learner can:
 

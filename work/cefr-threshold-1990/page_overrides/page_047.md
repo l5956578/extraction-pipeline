@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 47 = document p.41 | multipass intonation -->
 <!-- el:start type=prose id=prose_p047 page=41 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **3.12.5** I'm afraid I can't + VPinf
 

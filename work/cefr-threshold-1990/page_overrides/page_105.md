@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 105 = document p.99 | multipass ≥3 politeness maxims + intonation -->
 <!-- el:start type=prose id=prose_p105 page=99 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
 declining offers and invitations, saying that the partner is obliged to do something, prohibiting and withholding permission, expressing displeasure, dislike, dissatisfaction, disappointment and disapproval. The maxim implies such strategies as:
 

@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 53 = document p.47 | multipass intonation -->
 <!-- el:start type=prose id=prose_p053 page=47 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 6.15 spelling out a word or expression
 

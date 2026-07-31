@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 51 = document p.45 | multipass intonation -->
 <!-- el:start type=prose id=prose_p051 page=45 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **5.22.1.1** (Can I speak to) + personal name + please?
 

@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 107 = document p.101 | multipass politeness offers + intonation -->
 <!-- el:start type=prose id=prose_p107 page=101 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 - by expressing obligation or necessity;  
   e.g. You ˈmust let ˎme ·carry that ·case.

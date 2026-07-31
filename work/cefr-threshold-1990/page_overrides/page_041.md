@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 41 = document p.35 | multipass intonation -->
 <!-- el:start type=prose id=prose_p041 page=35 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 2.27 expressing preference
 

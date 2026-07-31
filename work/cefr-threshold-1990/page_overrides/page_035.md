@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 35 = document p.29 | multipass 3× intonation two-column -->
 <!-- el:start type=prose id=prose_p035 page=29 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **1.3.5** positive statements (with intensifying *do*)
 

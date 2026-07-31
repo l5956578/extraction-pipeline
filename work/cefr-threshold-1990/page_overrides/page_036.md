@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 36 = document p.30 | multipass intonation -->
 <!-- el:start type=prose id=prose_p036 page=30 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.1.6.4** (ˎYes) I ˈthink/beˈlieve ˎso.
 

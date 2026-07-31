@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 34 = document p.28 | multipass 3× intonation + two-column -->
 <!-- el:start type=prose id=prose_p034 page=28 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (no ASCII apostrophe-as-tone) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (no ASCII apostrophe-as-tone) -->
 
 in the meaning that would normally be assigned to it if it were used in isolation. *‘You should go now’* fulfils the function of ‘advising others to do something’ directly, whereas *‘It’s getting late’* – in its conventional meaning fulfilling the function of ‘reporting’ – may serve the same purpose indirectly. The possibilities for the indirect fulfilment of language functions vary in accordance with the situational and the linguistic context of a communicative act. This variation is such that a systematic description and selection on behalf of our objective is not possible. The exponents we propose, therefore, are on the whole those which may be considered to fulfil the functions concerned directly. This does not mean that the indirect fulfilment of language functions should be avoided in course materials designed for *Threshold Level*. On the contrary, an attempt to do so might lead to highly unnatural language use.
 

@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 46 = document p.40 | multipass intonation -->
 <!-- el:start type=prose id=prose_p046 page=40 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 3.5 warning others to do something or to refrain from doing something
 

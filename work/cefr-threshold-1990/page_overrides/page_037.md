@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 37 = document p.31 | multipass intonation -->
 <!-- el:start type=prose id=prose_p037 page=31 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.6.2.3** + *wh* clause
 

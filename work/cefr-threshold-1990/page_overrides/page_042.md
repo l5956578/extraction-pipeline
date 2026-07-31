@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 42 = document p.36 | multipass intonation -->
 <!-- el:start type=prose id=prose_p042 page=36 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.34.2** How do you like NP/VP gerund
 

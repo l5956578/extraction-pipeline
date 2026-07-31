@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 45 = document p.39 | multipass intonation -->
 <!-- el:start type=prose id=prose_p045 page=39 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 2.57 expressing regret, sympathy
 

@@ -165,6 +165,6 @@ Single-page Level×Descriptor scales (not multipage halves). Doc pages = PDF −
 
 ## 6. Related docs
 
-- `docs/library/ELEMENT_CATALOG_CONTRACT.md` — page formula + RIE-010 + vertical band  
+- `docs/vision_extract/ELEMENT_CATALOG_CONTRACT.md` — page formula + RIE-010 + vertical band  
 - `docs/RESOLVED_EXTRACTION_ISSUES.md` — RIE-010  
 - `work/cefr-en-2001/page_overrides/page_03{5,6,7,8}.md`, `page_05{7,8}.md`

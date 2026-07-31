@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 55 = document p.49 | multipass intonation -->
 <!-- el:start type=prose id=prose_p055 page=49 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 ready (as in ˈWhen will it be ˎready?)
 

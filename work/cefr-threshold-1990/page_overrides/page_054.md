@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 54 = document p.48 | multipass intonation -->
 <!-- el:start type=prose id=prose_p054 page=48 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 ## 6 General notions
 

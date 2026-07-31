@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 44 = document p.38 | multipass intonation -->
 <!-- el:start type=prose id=prose_p044 page=38 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.48.2** Are you worried (about NP)?
 

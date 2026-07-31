@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 50 = document p.44 | multipass intonation -->
 <!-- el:start type=prose id=prose_p050 page=44 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 5.11 asking someone to change the theme
 

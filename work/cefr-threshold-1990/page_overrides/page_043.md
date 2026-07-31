@@ -1,6 +1,6 @@
 <!-- vision: Threshold PDF leaf 43 = document p.37 | multipass intonation -->
 <!-- el:start type=prose id=prose_p043 page=37 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.39.6** I don't care (+ *that* clause/*if* clause)
 
