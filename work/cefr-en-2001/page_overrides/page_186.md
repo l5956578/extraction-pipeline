@@ -1,0 +1,14 @@
+<!-- el:start type=prose id=prose_p186 page=186 -->
+<!-- vision: CEFR 2001 PDF page 186 -->
+
+## 9 Assessment
+
+### 9.1 Introduction
+
+Assessment is used in this chapter in the sense of the assessment of the proficiency of the language user. All language tests are a form of assessment, but there are also many forms of assessment (e.g. checklists used in continuous assessment; informal teacher observation) which would not be described as tests. Evaluation is a term which is again broader than assessment. All assessment is a form of evaluation, but in a language programme a number of things are evaluated other than learner proficiency. These may include the effectiveness of particular methods or materials, the kind and quality of discourse actually produced in the programme, learner/teacher satisfaction, teaching effectiveness, etc. This chapter is concerned with assessment, and not with broader issues of programme evaluation. There are three concepts that are traditionally seen as fundamental to any discussion of assessment: validity, reliability and feasibility. It is useful in relation to the discussion in this chapter to have an overview of what is meant by these terms, how they relate to one another, and how they are relevant to the Framework. Validity is the concept with which the Framework is concerned. A test or assessment procedure can be said to have validity to the degree that it can be demonstrated that what is actually assessed (the construct) is what, in the context concerned, should be assessed, and that the information gained is an accurate representation of the proficiency of the candidates(
+
+s) concerned.
+
+Reliability, on the other hand, is a technical term. It is basically the extent to which the same rank order of candidates is replicated in two separate (real or simulated) administrations of the same assessment. What is in fact more important than reliability is the accuracy of decisions made in relation to a standard. If the assessment reports results as pass/fail or Levels A2+/B1/B1+, how accurate are these decisions? The accuracy of the decisions will depend on the validity of the particular standard (e.g. Level B1) for the context. It will also depend on the validity of the criteria used to reach the decision and the validity of the procedures with which those criteria were developed. If two different organisations or regions use criteria related to the same standards in order to inform their assessment decisions for the same skill, if the standards themselves are valid and appropriate for the two contexts concerned, and if the standards are interpreted consistently in the design of the assessment tasks and the interpretation of the performances, the results in the two systems will correlate. Traditionally the correlation between two tests thought to assess the same construct is known as ‘concurrent validity’.
+
+<!-- el:end id=prose_p186 -->

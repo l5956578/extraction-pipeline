@@ -1,0 +1,90 @@
+<!-- el:start type=prose id=prose_p172 page=172 -->
+<!-- vision: Threshold PDF page 172 -->
+
+- know vb: 5.2.5, 5.2.6, 5.2.13.1.6, 5.2.13.3.1, 5.5.2.1.2, 6.6.1
+- Lien
+- labourer n: 7.1.10
+- lady n:5.5.1.1.1, 7.1.6
+- lake n: 7.2.7
+- lamb n: 7.10.1
+- lamp n: 7.2.3
+- Tand n:7.2.7
+- language n: 7.13.1
+- large adj: 6.2.8.1
+- last adj: 6.3.3, 6.3.13
+- last adv: 6.2.7
+- late adj: 6.3.6
+- lately adv: 6.3.13
+- later adv: 5.5.26, 6.3.8, 6.3.9, 6.3.15
+- laugh vb: 6.6.2
+- laundry n: 7.7.3
+- lavatory n: 7.2.2, 7.4.4
+- law n: 7.6.6
+- lawn n:7.4.7
+- lawyer n: 7.6.6
+- lazy adj: 7.1.14
+- Ibs (pounds) n: 6.2.8.4
+- leader n: 7.6.5
+- Jearn vb: 7.3.5, 7.4.6, 7.8.1
+- leather n: 6.5.1.14
+- leave n: 6.2.4
+- lecture n: 7.8.1
+- left n, adj and adv: 6.2.5, 7.5.3, 7.6.5
+- leg n: 7.7.1
+- leisure n: 7.4.1
+- lemon n:7.10.1
+- lend vb: 7.11.4
+- lesson n:7.8.1
+- let vb: 5.3.9.1, 7.2.4
+- let’s vb: 5.3.1.1
+- letter n: 7.1.1, 7.6.3, 7.11.1
+- letter-box n:7.11.1
+- level adj: 7.5.3
+- level crossing n: 7.5.3
+- liberal n and adj:7.6.5
+- library n: 7.4.6
+- licence n: 7.5.8
+- lie down vb: 6.2.4
+- lift n: 7.2.2, 7.5.5
+- light adj: 6.2.8.3, 6.2.8.4, 6.5.1.4, 6.5.1.9
+- light n: 7.5.3, 7.11.8
+- lightning n: 7.14.1
+- like vb: 5.2.23, 5.2.24, 5.2.32, 5.2.33, 5.2.34, 5.2.36.3, 5.2.36.4, 5.3.10.1, 5.3.11.7, 5.3.14.1, 5.5.4.1, 5.6.12.2, 6.5.2.4, 6.5.2.6
+- like adj: 6.7.4.2
+- likely adj: 5.2.9.4, 5.2.9.6, 5.2.9.7, 5.2.10.1, 5.2.10.2
+- limit n: 7.5.3
+- line n: 5.5.23.1
+- Lisbon n: 7.1.2
+- listen vb: 6.5.1.5, 7.4.3
+- litre n: 6.2.8.5 (a) little pron: 6.4.2, 6.4.3, 7.13.1
+- live vb: 7.1.2, 7.7.4
+- living adj: 7.1.10
+- living room n: 7.2.2
+- locker n: 7.5.6
+- long adj: 5.1.4.2.1, 6.2.8.2, 6.2.8.3
+- look vb: 5.3.5.1, 6.5.1.4, 6.5.1.11, 7.7.2
+- lorry n: 7.5.2
+- lose vb: 7.4.7, 7.5.3, 7.11.5
+- lost property office n: 7.5.1
+- lot n: 6.4.2
+- a lot pron: 6.4.3
+- loud adj: 6.5.1.5
+- lounge n: 7.5.1, 7.5.5
+- love n and vb: 5.2.32.3, 5.3.11.7, 5.4.7.2, 5.5.28.1.3
+- lovely adj: 5.2.29.1
+- lover n:7.6.1
+- low adj: 6.2.8.1, 6.2.8.3, 6.5.2.1
+- luggage n: 7.5.1, 7.5.6
+- lunch n: 7.3.1, 7.10.1
+- lung n:7.7.1
+
+### M [em]
+
+- Madam n: 5.4.7.1, 5.5.27.2.1
+- magazine n:7.4.8
+- mail n: 7.11.1
+- main adj: 7.5.3, 7.10.1
+- make vb: 6.1.1, 6.5.1.14, 7.3.1, 7.4.6
+- male n and adj: 7.1.6
+
+<!-- el:end id=prose_p172 -->

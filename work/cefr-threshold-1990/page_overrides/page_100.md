@@ -1,0 +1,26 @@
+<!-- el:start type=prose id=prose_p100 page=100 -->
+<!-- vision: Threshold PDF page 100 -->
+
+## 11 Sociocultural competence
+
+Sociocultural competence
+
+Items 4 and 6 of the extended characterisation are concerned with
+
+‘sociocultural competence’, the aspect of communicative ability which involves those specific features of a society and its culture which are manifest in the communicative behaviour of the members of this society. These features may be classified as ‘social conventions’ (4a),
+
+‘social rituals’ (4b) and ‘universal experiences’ (6). The degree of familiarity with them which is required for successful communication depends on the circumstances in which the communication takes place. It will probably be higher in contacts with native speakers of the foreign language (especially when the learner is a temporary resident rather than a visitor) than when the foreign language is used as lingua franca. The Threshold Level is designed to suit all these types of contacts.
+
+This means, on the one hand, that in attempting to indicate what may be expected of a learner at this level we have to focus on the more predictable type of contact, that with native speakers of the foreign language and particularly with such native speakers in their own country. On the other hand it means that an alertness has to be stimulated in the learners to unexpected sociocultural differences between their communication partners and themselves. This applies particularly when English is in use as a medium of international communication between non-native speakers from different cultures.
+
+Learners cannot take it for granted that their interlocutor will share either their own values, attitudes, beliefs and social conventions or those of Anglo-Saxon peoples. They will need to be alert to signs of cultural differences, to be tolerant of such differences and be prepared to operate whatever strategies may be needed to establish a proper basis for communication by raising cultural differences into consciousness.
+
+A first approach to a specification of sociocultural competence for
+
+Threshold Level is to be found in items 4 and 6 of the extended characterisation. The formulations chosen there are deliberately openended and exemplificatory. This will be the same in the present specification so that it may suit the needs and interests of our highly heterogeneous target population, further concretisations to be undertaken for each sub-group individually. The selection we present below has been made with the utmost economy, taking into account the overall height of the Threshold Level.
+
+Parts of the specification of sociocultural competence will correspond to most other components of the Threshold Level in that they will describe what the learners can do in the foreign language. Other parts, however, will be formulated in terms of the learners’ ‘awareness of or
+
+‘familiarity with’ certain aspects of the foreign culture. An attempt to formulate these parts as well in terms of the learners’ behaviour
+
+<!-- el:end id=prose_p100 -->

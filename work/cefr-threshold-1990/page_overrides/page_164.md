@@ -1,0 +1,92 @@
+<!-- el:start type=prose id=prose_p164 page=164 -->
+<!-- vision: Threshold PDF page 164 -->
+
+- arrive vb: 6.2.4
+- art n:7.4.5
+- article n:7.4.8
+- as prep: 6.7.3.9
+- as ... aS conj: 6.7.4.2
+- as well as conj: 6.7.6.1
+- ashtray n: 7.9.4
+- Asia n:7.5.4
+- ask vb: 5.5.11.1, 6.6.2
+- at prep: 6.2.2, 6.3.3
+- at all adv: 5.2.13.3.2, 5.2.33, 5.2.39, 5.2.50.2, 5.2.52.5
+- Athens n: 7.1.2
+- at least adv: 6.4.2
+- attack n and vb: 7.6.7
+- attention n: 5.5.20.1
+- aunt n: 7.1.11
+- Australia n:7.5.4
+- autumn n: 6.3.2
+- away adv: 6.1.2, 6.2.3, 6.2.5
+- B pis
+- baby n: 6.5.1.10, 7.5.1.11
+- back n: 7.4.4, 7.7.1
+- back adv: 5.5.26, 6.2.5
+- bad adv: 6.5.1.6, 6.5.1.7, 6.5.2.2, 7.1.14
+- badly adv: 6.7.3.9
+- bag n:7.5.6
+- baggage n: 7.5.1, 7.5.6
+- bake vb: 7.10.1
+- baker n: 7.1.10, 7.9.1
+- balcony n: 7.5.5
+- bald adj: 7.1.15
+- ball n: 7.4.7
+- ballet n: 7.4.4
+- ball-pen n: 7.6.3
+- ball-point adj: 7.6.3
+- banana n: 7.10.1
+- bandage n: 7.7.4
+- bank n: 7.11.4
+- bank-note n: 7.9.6
+- bar n: 7.5.1, 7.10.2
+- baseball n: 7.4.7
+- basement n: 7.2.2
+- Basle n: 7.1.2
+- bath n: 7.2.6, 7.3.1
+- bathroom n: 7.2.2
+- battle n: 7.6.7
+- be vb: 5.1.1.3, 5.1.1.4, 6.1.1.3, 6.2.1, 6.5.2.1, 7.2.4
+- be from vb: 7.1.9
+- beach n: 7.2.7
+- beans n: 7.10.1
+- beautiful adj: 7.1.15
+- because conj: 5.1.5.2.5, 6.7.6.4, 6.7.6.6
+- become vb: 6.1.1, 6.3.27, 7.3.5
+- bed n: 7.2.3. 7.3.1, 7.5.5
+- bedroom n: 7.2.2
+- beef n: 7.10.1
+- beer n: 7.10.1
+- before prep: 6.2.2, 6.2.7, 6.3.3, 6.3.7, 6.3.13
+- beg vb: 5.2.51.7, 5.6.2.1
+- begin vb: 6.3.24
+- behind prep: 6.2.2
+- believe vb: 5.2.1.6.4, 5.2.1.7.5, 5.2.13.2.4, 5.2.14.2, 6.6.1, 7.1.12
+- belong vb: 6.7.5.1.
+- below prep: 6.2.2
+- belt n: 7.5.3
+- benefit n: 7.3.2
+- beside prep: 6.2.2
+- best adj: 5.5.28.1.2, 6.5.2.2
+- better adj: 5.2.35.5.1, 5.4.4.3.1, 6.5.1.11, 6.5.2.2, 6.5.2.7
+- between prep: 6.2.2, 6.2.7
+- bicycle n: 7.5.2
+- big adj: 6.2.8.1., 6.2.8.6
+- bike n: 7.5.2
+- bill n: 7.5.5, 7.10.2
+- biography n: 7.4.6
+- bird n: 7.2.8
+- biro n: 7.6.3
+- birthday n: 7.1.4
+- bit n: 5.2.52.5, 6.4.3
+- bitter adj: 6.5.1.6
+- black adj: 6.5.1.9
+- blanket n: 7.2.3
+- blouse n: 7.9.3
+- blue adj: 6.5.1.9, 7.5.3
+- board n: 7.5.5
+- board vb: 7.5.1
+- boarding-pass n: 7.5.1
+
+<!-- el:end id=prose_p164 -->

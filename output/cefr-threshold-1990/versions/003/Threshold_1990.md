@@ -4,7 +4,7 @@
 # Threshold 1990
 
 <!-- source: input/cefr-threshold-1990/source.pdf -->
-<!-- extraction: layout-aware Vision/OCR format (Companion conventions) -->
+<!-- extraction: layout-aware + Vision page_overrides (Companion conventions) -->
 <!-- intonation marks: LF=ˎ HF=ˋ LR=ˏ HR=ˊ FR=ˇ head=ˈ stress=· -->
 <!-- el:end id=prose_p001_doc -->
 
@@ -27,11 +27,7 @@ Threshold 1990
 <!-- el:start type=prose id=prose_p003 page=3 -->
 Threshold 1990
 
-Council of Europe Conseil de I'Europe * * *
-
-- *
-  - *
-  - * * * *
+Council of Europe Conseil de I'Europe * * * - * - * - * * * *
 
 J. A. van Ek and]. L. M. Trim
 
@@ -70,43 +66,37 @@ CAMBRIDGE UNIVERSITY PRESS
 
 <!-- page:4 -->
 
-<!-- el:start type=prose id=prose_p005 page=5 -->
-V
-
-A
-
-B c D
+<!-- el:start type=toc id=toc_threshold_p005 page=5 -->
+<!-- db:id=threshold_table_of_contents type=toc product_tier=context pages=5 -->
+<!-- vision: Table of contents with page numbers (PDF page 5 / roman v) -->
 
 ## Table of contents
 
-## Preface
+| | Page |
+| --- | ---: |
+| Preface | 1 |
+| Introduction | 4 |
+| 1 The objective: levels of specificity | 10 |
+| 2 The objective: general characterisation | 11 |
+| 3 The objective: extended characterisation | 12 |
+| 4 The objective: components of the specification | 22 |
+| 5 Language functions | 27 |
+| 6 General notions | 48 |
+| 7 Specific notions | 59 |
+| 8 Verbal exchange patterns | 82 |
+| 9 Dealing with texts: reading and listening | 88 |
+| 10 Writing | 92 |
+| 11 Sociocultural competence | 94 |
+| 12 Compensation strategies | 103 |
+| 13 Learning to learn | 107 |
+| 14 Degree of skill | 112 |
+| **APPENDICES** | |
+| A Pronunciation and intonation | 115 |
+| B Grammatical summary | 125 |
+| C Word index | 157 |
+| D Subject index | 178 |
 
-## Introduction
-
-The objective: levels of specificity The objective: general characterisation The objective: extended characterisation The objective: components of the specification
-
-## Language functions
-
-## General notions
-
-## Specific notions
-
-Verbal exchange patterns Dealing with texts: reading and listening Writing
-
-Sociocultural competence Compensation strategies Learning to learn Degree of skill
-
-APPENDICES
-
-## Pronunciation and intonation
-
-## Grammatical summary
-
-Word index
-
-Subject index
-
-Page
-<!-- el:end id=prose_p005 -->
+<!-- el:end id=toc_threshold_p005 -->
 
 *Page **5***
 
@@ -180,19 +170,23 @@ The Council of Europe wishes to acknowledge the important financial contribution
 <!-- page:9 -->
 
 <!-- el:start type=prose id=prose_p010 page=10 -->
+<!-- db:id=threshold_introduction type=section product_tier=context pages=10-11 -->
+<!-- vision: Introduction — numbered section HEADS not lists (PDF page 10 / book p.4) -->
+
 ## Introduction
 
-## Target Group
+### 1 Target Group
 
-Spread all over the world, there are hundreds of millions of people for whom English is the key that may unlock the door of the space assigned to them by birth and upbringing. A command of this language will enable them to extend their mental horizons beyond almost any geographical or cultural limitations, and, if so desired, also physically to cross the threshold into the world outside. That, in fact, hundreds of millions are prepared to make an effort to this purpose has been shown by the success of the BBC’S multi-media course Follow Me!, which in the late 1970s and early 1980s actually attracted such numbers.
+Spread all over the world, there are hundreds of millions of people for whom English is the key that may unlock the door of the space assigned to them by birth and upbringing. A command of this language will enable them to extend their mental horizons beyond almost any geographical or cultural limitations, and, if so desired, also physically to cross the threshold into the world outside. That, in fact, hundreds of millions are prepared to make an effort to this purpose has been shown by the success of the BBC’s multi-media course *Follow Me!*, which in the late 1970s and early 1980s actually attracted such numbers.
 
-It is for this target group that Threshold Level 1990 has been developed. They will be genuine beginners or so-called ‘false beginners’ (i.e. those who have acquired some familiarity with the foreign language but feel they need a fresh start). They are interested in acquiring a general basic ability in English even though, individually, each of them may have their own specific needs and wishes and many of them may eventually want to go much further than this basic level. Finally, their motivation is assumed to be practical rather than academic.
+It is for this target group that *Threshold Level 1990* has been developed. They will be genuine beginners or so-called ‘false beginners’ (i.e. those who have acquired some familiarity with the foreign language but feel they need a fresh start). They are interested in acquiring a general basic ability in English even though, individually, each of them may have their own specific needs and wishes and many of them may eventually want to go much further than this basic level. Finally, their motivation is assumed to be practical rather than academic.
 
-2. Criteria
+### 2 Criteria
 
 An objective designed for such numbers as referred to above has to be flexible enough to allow of a large variety of concretisations in accordance with the specific circumstances of different groups or individuals. It has to be suitable for utilisation in the design of courses for mass audiences as well as in the development of learning materials tailored to satisfy the needs of small groups or individuals. It has to provide for contacts with native speakers of English as well as with native speakers of other languages who use English as an international medium of communication. And, finally, it has to be manageable within a reasonable time by at least the large majority of those who are prepared to make a genuine effort.
 
 An objective for a target group as large and varied as the one we have in mind is necessarily based on assumptions as to what communicative needs the members of this group are likely to have in common. It cannot, therefore, directly cater for such needs and interests as are shared by only a minority of this group, however large this minority
+
 <!-- el:end id=prose_p010 -->
 
 *Page **10***
@@ -200,18 +194,14 @@ An objective for a target group as large and varied as the one we have in mind i
 <!-- page:10 -->
 
 <!-- el:start type=prose id=prose_p011 page=11 -->
+<!-- vision: Adaptability section — em-dashes are emphasis NOT bullets (PDF page 11 / book p.5) -->
+
 may be. At the same time, it would fall short of its purpose if it did not at least provide a framework in which any expansions required for such sub-groups might be harmoniously accommodated.
 
-## Adaptability
+### 3 Adaptability
 
-By way of exemplification we shall consider, in the present section, the relevance of Threshold Level 1990 to the needs of what is likely to be a substantial subgroup of the overall target population, namely those who will have to use the foreign language particularly for professional purposes. As a general objective Threshold Level 1990 does not specifically cater for the needs of this sub-group. Yet, the ability to use English for professional purposes is, first and foremost, the ability to use English. In using English for professional purposes, no less than for any other purpose, people will have to be able to ask questions and to provide information, to elicit opinions, views, preferences, and to express them, to refer to past, present and future events, to express reasons why and conditions under which something may come to pass and to understand others doing so, etc. Also, they will have to be familiar with certain social conventions and common assumptions inherent in manners of expression in the English language, and they will need to be aware of how cultural differences may be reflected in communicative behaviour. And then, of course, they will also need experience in coping with the inevitable occurrence of situations which overtax their linguistic or sociocultural resources. All these
+By way of exemplification we shall consider, in the present section, the relevance of *Threshold Level 1990* to the needs of what is likely to be a substantial sub-group of the overall target population, namely those who will have to use the foreign language particularly for professional purposes. As a general objective *Threshold Level 1990* does not specifically cater for the needs of this sub-group. Yet, the ability to use English for professional purposes is, first and foremost, the ability to use English. In using English for professional purposes, no less than for any other purpose, people will have to be able to ask questions and to provide information, to elicit opinions, views, preferences, and to express them, to refer to past, present and future events, to express reasons why and conditions under which something may come to pass and to understand others doing so, etc. Also, they will have to be familiar with certain social conventions and common assumptions inherent in manners of expression in the English language, and they will need to be aware of how cultural differences may be reflected in communicative behaviour. And then, of course, they will also need experience in coping with the inevitable occurrence of situations which overtax their linguistic or sociocultural resources. All these elements of communicative ability – and many more – are included in *Threshold Level 1990*. Collectively, they constitute the general basic ability which we have attempted to describe and specify in this objective. In our view, this ability is required by all those who wish to use English with a certain measure of confidence in a range of ‘normal’ communication situations, i.e. in situations for which it is never possible to predict exactly what one will need to be able to say or write and what one will be required to understand. In this respect, then, *Threshold Level 1990* is also an appropriate objective for those who wish to be able to use English particularly for professional purposes. However, it has further potential. Through its comprehensive system of categorisation and the open-endedness of the various specifications it offers virtually unlimited possibilities for such expansions as may serve the purposes of particular sub-groups of the target population. Not only may the various categories be separately expanded, but several of them contain slots for the insertion of further (sets of) elements. Thus, for instance, on behalf of those who wish to learn English particularly for professional purposes, text types of a professional nature may be added to the reading component, the writing component may be
 
-elements of communicative ability
-
-- and many more
-- are included in
-
-Threshold Level 1990. Collectively, they constitute the general basic ability which we have attempted to describe and specify in this objective. In our view, this ability is required by all those who wish to use English with a certain measure of confidence in a range of ‘normal’ communication situations, i.e. in situations for which it is never possible to predict exactly what one will need to be able to say or write and what one will be required to understand. In this respect, then, Threshold Level 1990 is also an appropriate objective for those who wish to be able to use English particularly for professional purposes. However, it has further potential. Through its comprehensive system of categorisation and the open-endedness of the various specifications it offers virtually unlimited possibilities for such expansions as may serve the purposes of particular sub-groups of the target population. Not only may the various categories be separately expanded, but several of them contain slots for the insertion of further (sets of) elements. Thus, for instance, on behalf of those who wish to learn English particularly for professional purposes, text types of a professional nature may be added to the reading component, the writing component may be
 <!-- el:end id=prose_p011 -->
 
 *Page **11***
@@ -396,9 +386,7 @@ enquire, in writing or speech, about accommodation to rent, e.g.
 
 assault, robbery) equipment, etc.
 
-- the number, type and size of rooms
-  - the cost (per week, month or year) and terms of letting
-  - the charges, services and amenities provided (e.g. local taxes, gas,
+- the number, type and size of rooms - the cost (per week, month or year) and terms of letting - the charges, services and amenities provided (e.g. local taxes, gas,
 
 - the arrangements for repairs and maintenance make and confirm inventories of contents and their condition
 
@@ -4712,9 +4700,12 @@ Pecks examples are brief and businesslike, in a situation where choice is extrem
 <!-- page:93 -->
 
 <!-- el:start type=prose id=prose_p094 page=94 -->
-In item 3 of the extended characterisation the ability to deal with written and spoken texts that is expected of learners at Threshold Level is related
+In item 3 of the extended characterisation the ability to deal with written and spoken texts that is expected of learners at Threshold Level is related - and confined - to texts relevant to certain specified situations and to certain specified topics. What the learners can do with regard to these
 
-- and confined - to texts relevant to certain specified situations and to certain specified topics. What the learners can do with regard to these texts - the ‘tasks’ they can perform - is described in the same item as
+texts
+
+- the ‘tasks’ they can perform
+- is described in the same item as
 
 ‘understanding the gist and/or relevant details’. In carrying out these tasks the learners may have to use certain interpretation strategies as listed under item 5 of the extended characterisation:
 
@@ -4784,7 +4775,7 @@ The present specification is the specification of an objective, not of the conte
 <!-- page:97 -->
 
 <!-- el:start type=prose id=prose_p098 page=98 -->
-10. Writing
+## 10 Writing
 
 The objective for writing at Threshold Level is very limited. It is assumed that for this skill the actual needs of the majority of the members of the target group who are expected to be temporaryvisitors do not go beyond the ability to fill in certain forms, to write a few types of standard letter, and to write simple personal letters on subjects of common interest to themselves and friends or acquaintances. All this falls strictly within items 1 and 2 of the extended characterisation. It may be specified as follows:
 
@@ -5951,9 +5942,7 @@ martied/single (7.1.7) 4.4.3.2 (of pisylabie adjectives openvclosed (6.5.1.12) d
 
 #### 4.3.2.1 polar 4.4.3.3 (of some other disyllabics)
 
-old/young (6.5.1.10) adj+er long/short (6.2.8.2) ‘a ‘quieter room large @/small (6.2.8.1) .
-
-- 4.4.3.4 (of other polysyllabic wide/narrow @ (6.2.8.1) adjectives) more + adj
+old/young (6.5.1.10) adj+er long/short (6.2.8.2) ‘a ‘quieter room large @/small (6.2.8.1) . - 4.4.3.4 (of other polysyllabic wide/narrow @ (6.2.8.1) adjectives) more + adj
 
 #### 4.3.2.2 neutralised polar a-more ‘comfortable chair
 
@@ -6276,9 +6265,7 @@ Of the many combinations 7.5.1.6 (+ from) origin (7.1.9) which are possible, lea
 
 #### 7.4.2.2 present continuous Nock <i
 
-(6.3.12, 21) ‘Judi ‘Dench | is ‘Lady Mac,beth. ‘Are you listening to me? 7.5.1.10 (perfective aspect + to)
-
-- to visit (6.2.1)
+(6.3.12, 21) ‘Judi ‘Dench | is ‘Lady Mac,beth. ‘Are you listening to me? 7.5.1.10 (perfective aspect + to) - to visit (6.2.1)
 
 ### 74.23 past continuous (63.1 3, 18) She has ‘never -been to London.
 
@@ -6776,7 +6763,7 @@ GRAMMATICAL SUMMARY 147
 
 complementising verbs I ‘quite en joy | -travelling by air. forget, remember (5.2.7, 8) stop, finish (6.3.25) I'll never forget -meeting the At ‘last it has -stopped raining. -Prime Minister. . ten oe icy 4.5.3.3 in prepositional phrases @ ae intend, preter nee ‘don’t be lieve | in punishing b ae ers criving | to «going -little ,children. y train ‘Don’t leave | without 'paying the bill.
 
-46. Use
+## 46 Use
 
 Learners at Threshold Level should be able to understand the verb phrases listed above and to use them productively as exponents of the functional and notional categories set out in Chapters 5, 6 and 7. It will be seen that since the verb phrase comprises everything in the sentence apart from the subject NP it is capable of very great complexity. The ability of learners at Threshold Level to process complex syntactic structures receptively is limited and their ability to produce them very much more so. Whilst it is not possible to list in extenso the combinations a learner at Threshold Level will be able to understand or produce beyond the relatively fixed collocations which are the direct exponents of particular functions, it is recommended that meaningful content should be spread over a number of relatively simple sentences, or, in the case of conversation, a number of relatively simple contributions from the partners in turn, rather than organised into longer and more complex sentences. B5 Adverbial phrase B6__ Preposition phrase (Note We mean by this a
 
@@ -7064,9 +7051,7 @@ tag with falling intonation Where + interrogative conducive to the answer ‘no�
 
 #### 2.2.2 special questions (wh) .
 
-- 2.2.2.10 an adverbial of reason requiring an answer - consisting in or containing: (or relative declarative
-
-sentence)
+— 2.2.2.10 an adverbial of reason requiring an answer - consisting in or containing: (or relative declarative sentence)
 
 #### 2.2.2.1 a subject NP (human) Why + auxiliary +
 
@@ -7560,13 +7545,7 @@ WORD INDEX 175 ae violin n: 7.4.4 U Gur] visa n: 7.5.7 ugh! int: 5.2.33.1 visit 
 <!-- el:start type=prose id=prose_p182 page=182 -->
 ## 176 APPENDIX C
 
-west n, adj and adv: 6.2.1, 6.2.5 work vb: 5.2.36.1, 7.1.10, 7.11.8 wet adj: 6.5.1.2 worker n: 7.1.10 what pron: 5.1.4.3, 5.2.24.1, 5.5.12.1, working hours n: 7.3.2 5.5.12.2, 6.8.1.1 (un)worried adj: 5.2.46.4, 5.2.48.3 when adv: 5.1.4.2.1, 5.1.5.2.1, 6.3.3 worry n and vb: 5.2.47.3, 5.2.48 where adv: 5.1.4.2.1, 5.1.5.2.2, 5.5.12.3, worse adj: 6.5.2.2 6.2.1, 6.2.2 worst adj: 6.5.2.2 which adj: 5.1.4.3, 6.8.1.1, 6.8.1.2 would ('d) vb: 5.2.24.1, 5.2.24.2, 5.3.3, while conj: 6.3.10 5.3.10.1 white adj: 6.5.1.9 wound n and vb: 7.7.4 who pron: 5.1.4.3, 6.8.1.1, 6.8.1.2 wrap up vb: 7.9.1 whom pron: 6.8.1.1, 6.8.1.2 write vb: 5.6.8.1, 6.6.2, 7.1.1, 7.4.6, 7.6.3, whose adj: 5.1.4.3, 6.8.1.1, 6.8.1.2 7.13.1 why adv: 5.1.4.2.1, 5.1.3.2.5, 5.2.5.1.2, writing n:7.8.2 5.2.28.1, 5.3.1.6, 5.3.1.7, 5.3.4.3, 6.7.6.4, wrong adj: 5.2.2.3, 6.5.2.3, 6.5.2.7 6.7.6.6 wide adj:6.2.8.1 X leks) widow n: 7.1.7 widowed adj:7.1.7 Y [wail widower n: 7.1.7 . wife n:7.1.11 yard meee et 10 will vb: 5.2.9.8, 5.2.10.3, 5.2.25.2, x tllow adj. 65:19 5.3.13.1, 5.5.2.10, 6.3.11 yes int: 5.1.3.4, 5.1.5.1, 5.2.1.6.1, 5.2.1.6.4, win vb: 7.4.7 5.2.2.5.4,5.2.21.1, 5.3.1.1, 5.5.13.2 wind n7.144 yesterday n and adv: 6.3.3, 6.3.13 window n: 7.2.2 .
-
-- . yet adv: 6.3.7 wine n:7.10.1 you pron: 5.1.1.1, 5.3.7.1, 6.8.2 wing n: 7.6.5 you know int: 5.6.10.5 winter n: 6.3.2 ung adj:6.5.1.10 wish n and vb:5.5.28.1.2 young ad).
-
-. . your adj: 6.7.5.1, 6.8.1.1 with prep: 6.2.2, 6.7.5.1, 6.7.6.3 . 7 yours pron: 6.7.5.1, 6.8.1.2 without prep: 6.7.5.1, 6.7.6.3 :
-
-- : yourself pron: 6.8.1.2 witness n and vb: 7.6.6 youth n:7.5.5 woman n: 7.1.6 wonder vb: 5.2.13.3.3, 6.6.1 < a. wonderful adj:5.2.29.1 Z (zed, American zi] wood n: 6.5.1.14, 7.2.7 Zero n: 6.2.8.7 wool n:6.5.1.14 zone n:7.5.3 word n: 7.11.3 Z00 n: 7.5.4 work n: 7.3.1, 7.3.2
+west n, adj and adv: 6.2.1, 6.2.5 work vb: 5.2.36.1, 7.1.10, 7.11.8 wet adj: 6.5.1.2 worker n: 7.1.10 what pron: 5.1.4.3, 5.2.24.1, 5.5.12.1, working hours n: 7.3.2 5.5.12.2, 6.8.1.1 (un)worried adj: 5.2.46.4, 5.2.48.3 when adv: 5.1.4.2.1, 5.1.5.2.1, 6.3.3 worry n and vb: 5.2.47.3, 5.2.48 where adv: 5.1.4.2.1, 5.1.5.2.2, 5.5.12.3, worse adj: 6.5.2.2 6.2.1, 6.2.2 worst adj: 6.5.2.2 which adj: 5.1.4.3, 6.8.1.1, 6.8.1.2 would ('d) vb: 5.2.24.1, 5.2.24.2, 5.3.3, while conj: 6.3.10 5.3.10.1 white adj: 6.5.1.9 wound n and vb: 7.7.4 who pron: 5.1.4.3, 6.8.1.1, 6.8.1.2 wrap up vb: 7.9.1 whom pron: 6.8.1.1, 6.8.1.2 write vb: 5.6.8.1, 6.6.2, 7.1.1, 7.4.6, 7.6.3, whose adj: 5.1.4.3, 6.8.1.1, 6.8.1.2 7.13.1 why adv: 5.1.4.2.1, 5.1.3.2.5, 5.2.5.1.2, writing n:7.8.2 5.2.28.1, 5.3.1.6, 5.3.1.7, 5.3.4.3, 6.7.6.4, wrong adj: 5.2.2.3, 6.5.2.3, 6.5.2.7 6.7.6.6 wide adj:6.2.8.1 X leks) widow n: 7.1.7 widowed adj:7.1.7 Y [wail widower n: 7.1.7 . wife n:7.1.11 yard meee et 10 will vb: 5.2.9.8, 5.2.10.3, 5.2.25.2, x tllow adj. 65:19 5.3.13.1, 5.5.2.10, 6.3.11 yes int: 5.1.3.4, 5.1.5.1, 5.2.1.6.1, 5.2.1.6.4, win vb: 7.4.7 5.2.2.5.4,5.2.21.1, 5.3.1.1, 5.5.13.2 wind n7.144 yesterday n and adv: 6.3.3, 6.3.13 window n: 7.2.2 . - . yet adv: 6.3.7 wine n:7.10.1 you pron: 5.1.1.1, 5.3.7.1, 6.8.2 wing n: 7.6.5 you know int: 5.6.10.5 winter n: 6.3.2 ung adj:6.5.1.10 wish n and vb:5.5.28.1.2 young ad). . . your adj: 6.7.5.1, 6.8.1.1 with prep: 6.2.2, 6.7.5.1, 6.7.6.3 . 7 yours pron: 6.7.5.1, 6.8.1.2 without prep: 6.7.5.1, 6.7.6.3 : - : yourself pron: 6.8.1.2 witness n and vb: 7.6.6 youth n:7.5.5 woman n: 7.1.6 wonder vb: 5.2.13.3.3, 6.6.1 < a. wonderful adj:5.2.29.1 Z (zed, American zi] wood n: 6.5.1.14, 7.2.7 Zero n: 6.2.8.7 wool n:6.5.1.14 zone n:7.5.3 word n: 7.11.3 Z00 n: 7.5.4 work n: 7.3.1, 7.3.2
 <!-- el:end id=prose_p182 -->
 
 *Page **182***

@@ -1,59 +1,48 @@
 # Extraction status — Threshold, Waystage, CEFR 2001
 
 **Date:** 2026-07-31  
-**Method:** Layout-aware format extract (block paragraphs, real lists/headers) + Vision App A — not Companion multi-week engine.  
-**Standard target:** Companion-class product MD — page markers, **real paragraphs**, **bullet/numbered lists**, clean headers, PDF-like intonation marks, stitched tables.
+**Method:** **Full-book Vision page overrides** (every PDF page) + assembly.  
+**Standard:** Match page structure — paragraphs, headers, lists, tables, intonation marks.
 
-## Deliverables
+## Deliverables (APPROVED v004)
 
-| Job | MD | Pages | APPROVED | Notes |
-|-----|-----|------:|----------|-------|
-| cefr-threshold-1990 | `output/cefr-threshold-1990/Threshold_1990.md` | 192 | **versions/003** | Layout blocks → paragraphs; lists as MD lists; App A Vision with Unicode tones **ˎ ˋ ˏ ˊ ˇ** |
-| cefr-waystage-1990 | `output/cefr-waystage-1990/Waystage_1990.md` | 120 | **versions/003** | OCR + format pass; same App A five-tone Unicode system |
-| cefr-en-2001 | `output/cefr-en-2001/CEFR_EN_2001.md` | 273 | **versions/003** | Layout blocks; bullet lists; Table 1 + stitched Table 2; section heads |
+| Job | MD | Pages | Overrides | Notes |
+|-----|-----|------:|----------:|-------|
+| cefr-threshold-1990 | `output/cefr-threshold-1990/Threshold_1990.md` | 192 | **192/192** | TOC table; `### 1 Target Group` / `2 Criteria` / `3 Adaptability` as headers; App A tones ˎˋˏˊˇ |
+| cefr-waystage-1990 | `output/cefr-waystage-1990/Waystage_1990.md` | 120 | **120/120** | Full Vision (image PDF); same tone system App A |
+| cefr-en-2001 | `output/cefr-en-2001/CEFR_EN_2001.md` | 273 | **273/273** | Title/TOC/Prefatory fixed; Ch 3 scales/tables; all chapters via Vision |
 
-## Companion lessons applied
+## How it works
 
-| Lesson | How applied |
-|--------|-------------|
-| `<!-- page:N -->` after each page body | All three books |
-| Prose `el:start` / `el:end` wrappers | Per-page blocks |
-| `db:id` on document + key sections/tables | Nuclear tones, major sections, CEFR tables/figure |
-| Multipage tables → one full grid / one `db:id` | CEFR 2001 Table 2 self-assessment stitched |
-| Blank line before tables | Polish pass |
-| **Real paragraphs** (not wall-of-text) | PDF text **blocks** → paragraph breaks |
-| **Bullet / numbered / lettered lists** | Detected and emitted as MD lists |
-| Headers not split / not mid-sentence | Size+pattern; reject lowercase mid-sentence “headings” |
-| Intonation marks look like the book | Unicode **ˎ ˋ ˏ ˊ ˇ** (above/below) + **ˈ** head + **·** stress |
-| Page PNG evidence retained | `work/<job>/page_renders/` |
+1. Agent Vision-reads `work/<job>/page_renders/page_NNN.png`
+2. Writes `work/<job>/page_overrides/page_NNN.md` (truth for that page)
+3. `format_extract.build_book` assembles product MD preferring overrides over OCR soup
+4. Snapshot `versions/004/` + `APPROVED.json`
 
-## Nuclear tones (both 1990 books) — Vision verified
+## Nuclear tones (Threshold + Waystage App A)
 
-| # | Name | Mark | Position |
-|---|------|------|----------|
-| 1 | Low falling | **ˎ** | Below line |
-| 2 | High falling | **ˋ** | Above line |
-| 3 | Low rising | **ˏ** | Below line |
-| 4 | High rising | **ˊ** | Above line |
-| 5 | Falling-rising | **ˇ** | Above line (v-shape) |
-
-Also: head **ˈ**, secondary stress **·**, minor `|`, major `||`. Full uses by sentence type in App A body.
+| Mark | Tone |
+|------|------|
+| **ˎ** | Low falling (below) |
+| **ˋ** | High falling (above) |
+| **ˊ** | High rising (above) |
+| **ˏ** | Low rising (below) |
+| **ˇ** | Falling-rising (v above) |
+| **ˈ** | Head |
+| **·** | Secondary stress |
 
 ## Scripts
 
-| Script | Role |
-|--------|------|
-| `scripts/vision_extract/format_extract.py` | **Primary** layout-aware format → MD v003 |
-| `scripts/vision_extract/assemble_book_md.py` | Earlier render/OCR seed |
-| `scripts/vision_extract/fix_cefr2001_tables.py` | Table 1/2 stitch helpers |
+- `scripts/vision_extract/format_extract.py` — assemble with overrides
+- `scripts/vision_extract/native_page_overrides.py` — layout base (Vision upgrades replace)
+- Parallel Vision agents covered all page ranges for three books
 
 ## Residual honesty
 
-- Waystage remains OCR-based (image PDF); multi-column vocabulary pages can still be imperfect.  
-- CEFR 2001 Table 3 auto quality lower than stitched Table 2.  
-- A few soft-hyphen artifacts may remain on wrapped PDF lines.  
-- Re-run: `python scripts/vision_extract/format_extract.py`
+- Dense two-column notion/grammar index pages may still have residual OCR noise inside Vision-structured shells.
+- Companion-class polish continues by rewriting individual `page_overrides/page_NNN.md` and re-running build.
+- Re-run: `python -c "import sys; sys.path.insert(0,'scripts/vision_extract'); import format_extract as fe; ..."`
 
 ## APPROVED
 
-All three jobs: `APPROVED.json` → **`versions/003`**.
+All three: **`versions/004`**.

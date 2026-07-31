@@ -4,7 +4,7 @@
 # Waystage 1990
 
 <!-- source: input/cefr-waystage-1990/source.pdf -->
-<!-- extraction: layout-aware Vision/OCR format (Companion conventions) -->
+<!-- extraction: layout-aware + Vision page_overrides (Companion conventions) -->
 <!-- intonation marks: LF=ˎ HF=ˋ LR=ˏ HR=ˊ FR=ˇ head=ˈ stress=· -->
 <!-- el:end id=prose_p001_doc -->
 
@@ -27,8 +27,9 @@ Waystage 1990
 <!-- el:start type=prose id=prose_p003 page=3 -->
 Waystage 1990 Council of Europe Conseil de l'Europe y x y x * * x * * wk yk J. A. van Ek and J. L. M. Trim
 
-3. CAMBRIDGE
-9. UNIVERSITY PRESS
+## 3 CAMBRIDGE
+
+9) UNIVERSITY PRESS
 <!-- el:end id=prose_p003 -->
 
 *Page **3***
@@ -65,21 +66,35 @@ Transferred to digital printing 2007
 
 <!-- page:4 -->
 
-<!-- el:start type=prose id=prose_p005 page=5 -->
-v
+<!-- el:start type=toc id=toc_waystage_p005 page=5 -->
+<!-- db:id=waystage_table_of_contents type=toc product_tier=context pages=5 -->
+<!-- vision: Contents with page numbers (PDF page 5) -->
 
 ## Contents
 
-Page Preface 1 Introduction 4 The objective: description 10 Components of the specification 12 Language functions 15 General notions 22 Themes and specific notions 30 Dealing with texts: reading and listening 42
+| | Page |
+| --- | ---: |
+| Preface | 1 |
+| Introduction | 4 |
+| 1 The objective: description | 10 |
+| 2 Components of the specification | 12 |
+| 3 Language functions | 15 |
+| 4 General notions | 22 |
+| 5 Themes and specific notions | 30 |
+| 6 Dealing with texts: reading and listening | 42 |
+| 7 Writing | 45 |
+| 8 Sociocultural competence | 46 |
+| 9 Verbal exchange patterns | 50 |
+| 10 Compensation strategies | 56 |
+| 11 Learning to learn | 60 |
+| 12 Degree of skill | 65 |
+| **APPENDICES** | |
+| A Pronunciation and intonation | 68 |
+| B Grammatical summary | 75 |
+| C Word index | 95 |
+| D Subject index | 106 |
 
-7. Writing 45
-
-Sociocultural competence 46 Verbal exchange patterns 50 Compensation strategies 56 Learning to learn 60 Degree of skill 65
-
-APPENDICES
-
-A Pronunciation and intonation 68 B Grammatical summary 75 C_ Word index 95, D_ Subject index 106
-<!-- el:end id=prose_p005 -->
+<!-- el:end id=toc_waystage_p005 -->
 
 *Page **5***
 
@@ -104,7 +119,7 @@ Waystage 1990 is the latest, thoroughly revised, extended, corrected and reset v
 <!-- page:7 -->
 
 <!-- el:start type=prose id=prose_p008 page=8 -->
-2. PREFACE
+## 2 PREFACE
 
 In broadcasting terms, Follow Me was highly successful. First broadcast in 1979 to Germany, Austria and Switzerland, it has now been shown in some 70 countries to a combined audience of several hundred million learners. The success of this venture in international co-planning and co-production (notoriously difficult to achieve) was due, on the one hand, to the high professional expertise of the many partners involved in the planning, production, distribution and use of TV, radio and printed components, and on the other to what proved to be the universal relevance to language learners of the functional/notional framework set out in Waystage. However, no media product has an unlimited life. By 1989, it was time to plan for a replacement series, which BBC English again wished to situate in an international context under Council of Europe auspices. Meanwhile, a considerable amount of work had taken place within successive Council of Europe Modern Languages Projects towards the development of an enriched model for the specification of language teaching objectives, resulting in the publication in 1986-7 of J. A. van Ek’s two-volume study on Objectives for Foreign Language Learning. The revision of the original threshold level specification as applied to English, ‘to take account of developments in the fifteen years since it was conceived as a first pioneering experiment’ was included among the priority areas and themes for the Council for Cultural Co-operation programme Language Learning for European Citizenship initiated in 1989. BBC English expressed their willingness to support revision of The Threshold Level and also of Waystage, which would follow similar lines. A similar willingness was expressed by the University of Cambridge Local Examinations Syndicate in view of the relevance of this revision to their continuing programme of examination reform and by the British Council in the light of its more general concern for curriculum development in the teaching of English as a foreign language. A thorough revision was accordingly undertaken and carried out in 1989-90 and published by the Council of Europe in 1991. That version forms the basis for the present publication, which has been further revised, corrected and reset. The authors wish to acknowledge here with gratitude the support received from BBC English, UCLES, the British Council and the Council of Europe. We also wish to acknowledge our continuing indebtedness to L.G. Alexander and M. A. Fitzpatrick for the skill and judgement they brought to the fundamental task of honing down the original Threshold Level specification to produce the compact yet comprehensive Waystage. The results of that work are still apparent in the selection of functional and notional categories for Waystage. Furthermore, van Ek’s words in his introduction to Objectives for Foreign Language Learning are as relevant to Waystage as to Threshold Level: it is ‘one of the results of many years of intensive collaboration and genuine interaction with colleagues from several European countries brought
 <!-- el:end id=prose_p008 -->
@@ -138,7 +153,7 @@ Waystage 1990 is an early learning objective designed for those who are interest
 <!-- el:start type=prose id=prose_p011 page=11 -->
 INTRODUCTION 5 beyond this in the same language. We have taken this into account in designing Waystage 1990. It is now primarily meant as a worthwhile objective in its own right and secondarily as an intermediate objective on the way towards threshold level. It remains a rigorous selection from Threshold Level, in this case Threshold 1990, but the consideration of immediate usefulness and widest possible scope has been paramount in this selection. Nevertheless, as the name indicates, it has also been conceived as a station on the way to Threshold 1990. In fact, containing all the components that also constitute the higher level, it will allow the smoothest possible transition to further learning for Threshold 1990. There can be no doubt that this transition will be made by many learners. We expect that the successful completion of a Waystage programme will be a strong incentive for the undertaking of the further learning effort required in order to reach the higher objective, and we also expect that this will be true for many learners who, at first, had no intention to do so.
 
-2. Economy
+## 2 Economy
 
 What, at Waystage, the learners are supposed to be able to do in the foreign language is described in general terms in Chapter 1 of this document. The rest of it contains the specification of this ability. This specification will make it clear that, in spite of the modest height of Waystage 1990, the linguistic and other resources that the learners have at their disposal at this level will, in fact, give them a fairly wide range of action in the foreign language. This is largely due to the economy that has been practised in the selection of the learning content. This has invariably been chosen with a view to giving the widest communicative range with the simplest means. One consequence of the application of this criterion has been the inclusion of a fairly comprehensive grammatical apparatus. It is a characteristic of grammar that with a limited number of elements it provides the means for large numbers of combinations and variations. The acquisition of a grammatical system, even if at this level this can only bea restricted system, is, consequently, to be regarded as a highly
 
@@ -287,7 +302,9 @@ DESCRIPTION 1" The learners will be able to carry out the above communicative ac
 Such contact may occur:
 
 - inacountry or region where the foreign language is the native language
+
 - in the learner's own country
+
 - inacountry or region outside the learner’s own country, where the foreign language is not the native language
 
 The learners will primarily be able to function in contacts involving the oral use of the foreign language, mainly face-to-face contacts but also those requiring the use of the telephone or of public media. Secondarily, where appropriate, they will be able to understand the substance and/or relevant details of written texts and to express themselves in writing. Both the text types to be understood and those to be produced will be specified subsequently.
@@ -797,9 +814,7 @@ NP + can(not)... factitive as subject of
 
 #### 5.2.9 abnormality
 
-strange 7.3.3 dative
-
-- a. dative as indirect object
+strange 7.3.3 dative - a. dative as indirect object
 
 #### 5.2.10 facility, difficulty (as in: He 'gave me a book.)
 
@@ -855,7 +870,7 @@ and, but also ®, too (as in: John is -leaving | too.)
 <!-- el:start type=prose id=prose_p035 page=35 -->
 GENERAL NOTIONS 29
 
-8. Deixis
+## 8 Deixis
 
 Deixis is the grammatical system for referring or identifying by means of linguistic items belonging to closed sets the reference of which is dependent upon the context of the utterance (e.g. time, place, persons involved). Deixis may be definite or indefinite (he vs. someone), nonanaphoric or anaphoric (i.e. referring to something mentioned before) (Why don’t you come? vs. I'll buy those books because I need them.).
 
@@ -1006,7 +1021,7 @@ electricity horse, insect gas plant heating fower telephone water grass
 <!-- el:start type=prose id=prose_p041 page=41 -->
 THEMES AND SPECIFIC NOTIONS 35
 
-3. Daily life
+## 3 Daily life
 
 The learners can describe their daily routines, at home and at work; obtain/ understand similar information from others; exchange views on these matters.
 
@@ -1036,7 +1051,7 @@ to play to play She is -playing in Cats. I’ve 'never played | hockey. He -play
 
 toread France | in '6 8. to study . “ tolearn 47 press book newspaper magazine a6 sports ‘Let's -buy some -maga,zines. sport(s) icture names of sports Le ti t e.g. baseball, football, tennis, advertisement! swimming
 
-5. Travel
+## 5 Travel
 
 The learners can use means of public transport, obtain tickets, refer to means of private transport, make use of the road traffic system, refer to holiday trips, make use of accommodation facilities for travellers, refer to travel documents; talk about these matters and activities with others.
 
@@ -1094,7 +1109,7 @@ razor chemist soap medicine toothbrush Do you -take any medicine? towel appointm
 
 ill Insurance to feel ill
 
-8. Shopping
+## 8 Shopping
 
 The learners can use shopping facilities, particularly obtaining foodstuffs, clothes and household articles, pay for things bought; exchange information and views on these matters.
 
@@ -1156,7 +1171,7 @@ I'd -like some ‘roast chicken. jam salad to drink meat coffee names of kinds o
 <!-- el:start type=prose id=prose_p046 page=46 -->
 40 5 THEMES AND SPECIFIC NOTIONS drink 9.2 eating and drinking out ‘Would you -like a ,drink? restaurant beer café juice pub water menu wine bill
 
-10. Services
+## 10 Services
 
 The learners can refer to, inquire about and make use of postal services, telephone and telegraph, bank, police, medical services, carmaintenance services and petrol stations.
 
@@ -1176,7 +1191,7 @@ bank to repair to change to work I'd -like to «change '500 francs. My ,brakes -
 
 police to check policeman tyres police station full to steal tolose I've ‘lost my ,pass-port.
 
-11. Places
+## 11 Places
 
 The learners can ask the way and give strangers directions. See General Notions 2.1-5 and Specific Notions 1.2 and 5.3.
 <!-- el:end id=prose_p046 -->
@@ -1188,7 +1203,7 @@ The learners can ask the way and give strangers directions. See General Notions 
 <!-- el:start type=prose id=prose_p047 page=47 -->
 THEMES AND SPECIFIC NOTIONS 4
 
-12. Language
+## 12 Language
 
 The learners can refer to foreign language ability and deal with problems of understanding and expression.
 
@@ -1200,7 +1215,7 @@ expression not at all See Language Functions well 6.1-10 and General Notions | c
 
 toread dictionary to speak question to understand clear names of languages It's 'not clear to me. e.g. English, French, German, to explain Spanish mistake to write
 
-13. Weather
+## 13. Weather
 
 The learners can obtain relevant information from a weather forecast and exchange information and views on weather conditions.
 
@@ -1278,7 +1293,7 @@ Announcements/information through public address systems at bus stations, railwa
 <!-- page:50 -->
 
 <!-- el:start type=prose id=prose_p051 page=51 -->
-7. Writing
+## 7 Writing
 
 The text types learners may be expected to be able to produce at Waystage may be specified as follows:
 
@@ -2948,9 +2963,7 @@ or state beginning inthe past g >.>. 1 time when (3.1.4,5, 4.3.3) (4.3.18) ay . 
 
 ## 744 present continuous ‘Please -tell me -where you live.
 
-TAA action in progress at time of 8.2.2.3 reason, cause because (4.7.6.4) speaking (4.3.12, 4.3.18) (| 'work) be-cause | have to. It is ‘snowing.
-
-- 8.2.2.4 condition if (4.7.6.8)
+TAA action in progress at time of 8.2.2.3 reason, cause because (4.7.6.4) speaking (4.3.12, 4.3.18) (| 'work) be-cause | have to. It is ‘snowing. - 8.2.2.4 condition if (4.7.6.8)
 
 #### 7.4.4.2 temporariness (4.3.21) ‘don’t «mind | if you smoke
 

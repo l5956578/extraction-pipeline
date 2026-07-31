@@ -1,0 +1,86 @@
+<!-- el:start type=prose id=prose_p174 page=174 -->
+<!-- vision: Threshold PDF page 174 -->
+
+- navy n: 7.6.7
+- Near prep: 6.2.3
+- necessarily adv: 5.2.11.1, 5.2.12.1
+- necessary adj: 5.2.11.1, 5.2.12.1
+- neck n:7.7.1
+- need vb: 5.2.11.3, 5.2.35.4, 5.2.37.4
+- neighbourhood n: 6.2.3
+- network n: 7.4.3
+- never adv: 5.2.4.3, 6.3.17, 6.8.2
+- new adj: 6.5.1.10
+- news n: 7.4.3
+- newspaper n: 7.4.8
+- next adj and adv: 6.3.3, 6.3.9, 6.3.11
+- next (to) prep: 6.2.2
+- nice adj: 5.2.29.2, 5.2.32.1, 5.2.33.2, 5.2.35.3, 5.2.49.3, 5.2.55.2, 5.3.11.3, 6.5.1.6, 6.5.1.7, 6.5.2.4, 7.1.14
+- night n: 6.3.2
+- night-club n: 7.4.4
+- no adv: 5.1.3.2, 5.1.5.1, 5.2.1.7.1, 5.2.2.4.1, 5.2.4.2, 5.2.22.1, 5.3.12.1, 5.5.3.1, 5.5.13.2, 6.4.2
+- nobody pron: 5.2.4.3, 6.8.2
+- noise n: 6.5.1.5
+- noon n: 6.3.1
+- normal adj: 6.5.2.12
+- north n and adv: 6.2.1, 6.2.5
+- not adv: 5.2.1.7.2, 5.2.1.7.3, 5.2.1.7.5, 5.2.2.2, 5.2.2.4.2, 5.2.2.4.3, 5.2.4.3
+- not at all adv: 5.2.52.1, 7.13.1
+- note n and vb: 5.5.8.4.2, 7.6.3
+- note paper n: 7.6.3
+- nothing pron: 5.2.4.3, 6.8.2
+- novel n: 7.4.6
+- now adv: 5.3.6.2, 6.3.3, 6.3.12, 7.5.3, 6.8.1.2
+- nowhere adv: 6.2.1, 6.8.2
+- nuclear adj: 7.6.7
+- number n: 7.1.2
+- nurse n and vb: 7.1.10, 7.7.5
+- nut 1: 7.10.1
+- nylon n:6.5.1.14
+- Orv
+- occupation n: 7.1.10
+- o'clock adj: 6.3.1
+- odour n: 6.5.1.7
+- of prep: 5.6.2.1
+- of course adv: 5.2.1.7.2, 5.2.21.6
+- off prep and adv: 6.2.5, 6.3.1.9, 7.2.5, 7.3.2
+- office n: 7.1.10, 7.4.4, 7.5.1, 7.5.4, 7.11.1
+- officer n: 7.6.7
+- often adv: 6.3.17
+- oh! int: 5.5.13.5
+- oh dear! int: 5.2.30.1, 5.2.57.7
+- oil n: 7.10.1, 7.11.9
+- old adj: 6.5.1.10, 7.4.5
+- omelette n: 7.10.1
+- on prep and adv: 6.2.2, 6.2.5, 6.3.3, 6.3.19, 6.7.6.9, 7.2.5
+- once adv: 6.3.17, 6.3.23
+- one pron: 5.1.1.1, 7.5.3
+- one n and adj: 6.8.1.2
+- one-way adj: 7.5.3
+- only adv: 6.3.23, 6.7.6.9
+- open adj and vb: 6.5.1.12, 7.4.5, 7.5.7
+- opening hours n: 7.4.5
+- opera n: 7.4.4
+- operate vb: 7.7.4
+- operation n: 7.7.4
+- operator n: 7.11.2
+- opinion n: 5.5.5.2, 5.5.12.2
+- opposite prep: 6.2.2
+- or conj: 5.2.28.1, 5.2.28.2, 6.7.6.2
+- orange 1: 7.10.1
+- orange adj: 6.5.1.9
+- order n and vb: 6.5.1.11, 6.7.6.7, 7.10.2, 7.11.2
+- ordinary adj: 6.5.2.12
+- other adj: 6.7.4.1, 6.8.1.2
+- ought vb: 5.2.53.2, 5.3.4.2, 6.5.2.3
+- ounce (02) n: 6.2.8.4
+- out adv: 5.3.5.1, 6.2.5
+- out of prep: 6.2.6, 7.11.2
+- out of order adj: 7.11.2
+- outside adv and prep: 6.2.1, 6.2.2
+- over adv and prep: 6.2.2
+- own vb and adj: 6.7.5.1
+- owner 11: 6.7.5.1
+- oz (ounce) n: 6.2.8.4
+
+<!-- el:end id=prose_p174 -->

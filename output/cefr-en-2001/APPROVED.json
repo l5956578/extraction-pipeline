@@ -1,7 +1,7 @@
 {
-  "approved_version": "003",
-  "approved_at": "2026-07-31T18:13:24.899371+00:00",
-  "path": "versions/003/CEFR_EN_2001.md",
+  "approved_version": "004",
+  "approved_at": "2026-07-31T18:59:32.530602+00:00",
+  "path": "versions/004/CEFR_EN_2001.md",
   "product": "cefr-en-2001",
-  "notes": "Format pass v3: real lists/paragraphs/headers; PDF-like intonation marks"
+  "notes": "All pages via Vision page_overrides (585 pages across 3 books)"
 }

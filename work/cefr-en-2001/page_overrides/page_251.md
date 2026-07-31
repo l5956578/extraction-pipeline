@@ -1,0 +1,13 @@
+<!-- el:start type=prose id=prose_p251 page=251 -->
+<!-- vision: CEFR 2001 PDF page 251 -->
+<!-- multipage-table: Document C3 LISTENING elaborated scales pages=251-252 -->
+
+<!-- el:start type=table id=cefr2001_doc_c3_listening pages=251-252 -->
+| **LISTENING** | **A1** | **A2** | **B1** | **B2** | **C1** | **C2** |
+| --- | --- | --- | --- | --- | --- | --- |
+| **What types of text I understand** | Very simple phrases about myself, people I know and things around me. Questions, instructions and directions. Examples: everyday expressions, questions, instructions, short and simple directions. | Simple phrases and expressions about things important to me. Simple, everyday conversations and discussions. Everyday matters in the media. Examples: messages, routine exchanges, directions, TV and radio news items. | Speech on familiar matters and factual information. Everyday conversations and discussions. Programmes in the media and films. Examples: operation instructions, short lectures and talks. | All kinds of speech on familiar matters. Lectures. Programmes in the media and films. Examples: technical discussions, reports, live interviews. | Spoken language in general. Lectures, discussions and debates. Public announcements. Complex technical information. Recorded audio material and films. Examples: native-speaker conversations. | Any spoken language, live or broadcast. Specialised lectures and presentations. |
+| **What I understand** | Names and simple words. General idea. Enough to respond: providing personal info, following directions. | Common everyday language. Simple, everyday conversations and discussions. The main point. Enough to follow. | The meaning of some unknown words, by guessing. General meaning and specific details. | Main ideas and specific information. Complex ideas and language. Speaker’s viewpoints and attitudes. | Enough to participate actively in conversations. Abstract and complex topics. Implicit attitudes and relationships between speakers. | Global and detailed understanding without any difficulties. |
+| **Conditions and limitations** | Clear, slow and carefully articulated speech. When addressed by a sympathetic speaker. | Clear and slow speech. Will require the help of sympathetic speakers and/or images. Will sometimes ask for repetition or reformulation. | Clear, standard speech. Will require the help of visuals and action. Will sometimes ask for repetition of a word or phrase. | Standard language and some idiomatic usage, even in reasonably noisy backgrounds. | Need to confirm occasional details when the accent is unfamiliar. | None, provided there is time to get used to what is unfamiliar. |
+<!-- el:end id=cefr2001_doc_c3_listening -->
+
+<!-- el:end id=prose_p251 -->

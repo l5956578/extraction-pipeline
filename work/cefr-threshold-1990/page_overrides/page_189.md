@@ -1,0 +1,82 @@
+<!-- el:start type=prose id=prose_p189 page=189 -->
+<!-- vision: Threshold PDF page 189 -->
+
+- reflection 6.6.1
+- region 7.2.7
+- regret expressing 5.2.57
+- relations 6.7
+  - action/event 6.7.3.1-9
+- contrastive 6.7.4,1-2
+- logical 6.7.6.1-9
+- Possessive 6.7.5.1
+- spatial 6.7.1
+- temporal 6.7.2
+  - with other people 7.6
+- relationship 7.6.1
+- religion 7.1.13
+- remembering enquiring about 5.2.8
+- stating 5.2.7
+- repeating what one has said 5.6.13
+- repetition asking for 5.6.2-3
+- Tepetitiousness 6.3.22
+- reporting 5.1.2
+  - someone to do something 5.3.3
+- rightness 6.5.2.3
+- rooms 7.2.2
+- satisfaction enquiring about 5.2.37
+  - expressing 5.2.35
+- schooling 7.8.1
+- sequence 6.3.9
+- services diplomatic 7.11.6
+- medical 7.7.5
+  - public 7.11
+  - residential 7.2.5
+- Sex 7.1.6
+- shape 6.5.1.1
+- shopping 7.9
+- shopping facilities 7.9.1
+- sight 6.5.1.4
+- simultaneousness 6.3.10
+- size 6.2.8.1
+- smell 6.5.1.7
+- smoking 7.9.4
+- social affairs 7.6.8
+- socialising 5.4.1-12
+- space 6.2.1-8
+- speed 6.3.16
+- spelling 5.6.15
+  - asking someone to spell something
+- 5.6.7
+- sports 7.4.7
+- stability 6.3.26
+- suasion 5.3.1-14
+- subjects in education 7.8.2
+- successfulness 6.5.2.8
+- suggesting agreeing to 5.3.2
+- a course of action 5.3.1
+- summarising 5.5.9
+- supplying a word or expression 5.6.16
+- surprise enquiring about 5.2.43
+  - expressing 5.2.41
+  - expressing lack of 5.2.42
+- sympathy expressing 5.2.57
+- taste 6.5.1.6
+- telegraph 7.11.3
+- telephone discourse functions 5.5.21-26
+- number 7.1.3
+- service 7.11.2
+- television 7.4.3
+- temperature 6.2.8.7
+- temporariness 6.3.21
+- texture 6.5.1.8
+- thanking, see gratitude theatre 7.4.4
+- **theme**
+  - asking someone to change the theme 5.5.11
+- changing 5.5.10
+- introducing 5.5.4
+- time 6.3.1-27
+- divisions of 6.3.2
+- indications of 6.3.3
+- points of 6.3.1
+
+<!-- el:end id=prose_p189 -->

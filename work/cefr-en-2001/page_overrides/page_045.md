@@ -1,0 +1,18 @@
+<!-- vision: CEFR 2001 PDF page 45 -->
+<!-- el:start type=prose id=prose_p045 page=45 -->
+
+- **Level C1**, the next band, was labelled *Effective Operational Proficiency*. What seems to characterise this level is good access to a broad range of language, which allows fluent, spontaneous communication, as illustrated by the following examples: *Can express him/herself fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies; only a conceptually difficult subject can hinder a natural, smooth flow of language*. The discourse skills characterising the previous band continue to be evident at Level C1, with an emphasis on more fluency, for example: *select a suitable phrase from a fluent repertoire of discourse functions to preface his remarks in order to get the floor, or to gain time and keep it whilst thinking; produce clear, smoothly flowing, well-structured speech, showing controlled use of organisational patterns, connectors and cohesive devices*.
+
+- **Level C2**, whilst it has been termed ‘Mastery’, is not intended to imply native-speaker or near native-speaker competence. What is intended is to characterise the degree of precision, appropriateness and ease with the language which typifies the speech of those who have been highly successful learners. Descriptors calibrated here include: *convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of modification devices; has a good command of idiomatic expressions and colloquialisms with awareness of connotative level of meaning; backtrack and restructure around a difficulty so smoothly the interlocutor is hardly aware of it*.
+
+The Common Reference Levels can be presented and exploited in a number of different formats, in varying degrees of detail. Yet the existence of fixed points of common reference offers transparency and coherence, a tool for future planning and a basis for further development. The intention of providing a concrete illustrative set of descriptors, together with criteria and methodologies for the further development of descriptors, is to help decision-makers design applications to suit their contexts.
+
+### 3.7 How to read the scales of illustrative descriptors
+
+The levels used are the six main levels introduced in Chapter 3: A1 (*Breakthrough*), A2 (*Waystage*), B1 (*Threshold*), B2 (*Vantage*), C1 (*Effective Operational Proficiency*) and C2 (*Mastery*). The levels in the middle part of the scale – Waystage, Threshold and Vantage – often have a subdivision represented by a thin line, as mentioned above. Where this is the case, descriptors below the thin line represent the criterion level concerned. Descriptors placed above the line define a level of proficiency which is significantly higher than that represented by the criterion level, but which does not achieve the standard for the following level. The basis for this distinction is the empirical calibration. Where there is no subdivision of A2 (*Waystage*), B1 (*Threshold*) or B2 (*Vantage*), the descriptor represents the criterion level. In those cases no formulation was found to fall between the two criterion levels concerned.
+
+Some people prefer to read a scale of descriptors from the lowest to the highest levels; some prefer the reverse. For consistency all scales are presented with C2 (*Mastery*) at the top, and A1 (*Breakthrough*) at the bottom.
+
+Each level should be taken to subsume the levels below it on the scale. That is to say, someone at B1 (*Threshold*) is considered also to be able to do whatever is stated at A2
+
+<!-- el:end id=prose_p045 -->

@@ -1,0 +1,89 @@
+<!-- el:start type=prose id=prose_p173 page=173 -->
+<!-- vision: Threshold PDF page 173 -->
+
+- man n: 6.8.2, 7.1.6
+- manage vb: 5.3.9.4
+- manager n: 7.1.1
+- many adj and pron: 5.2.49.2, 6.3.22, 6.4
+- map n:7.5.3
+- market n: 7.9.1
+- married adj: 7.1.7
+- master n:7.8.1
+- matches n: 7.9.5
+- material n: 6.5.1.14
+- mathematics n: 7.8.2
+- matinee n: 7.4.4
+- matter n: 5.2.37.6, 5.5.12.3
+- matter vb: 5.2.39.5, 5.2.52.4
+- may vb: 5.2.9.8, 5.2.10.3, 5.2.19.3, 5.2.20.1, 5.2.23.5, 5.3.14.3
+- maybe adv: §.2.13.2.2
+- Me pron: 5.1.1.1
+- meal n: 7.3.1, 7.10.1
+- mean vb: 5.2.35.4, 5.2.36.6, 5.2.37.4, 5.5.3.3, 5.5.3.4, 5.6.5.1, 5.6.6, 5.6.16
+- means n: 6.7.3.9
+- meat n: 7.10.1
+- medicine n: 7.7.5
+- meet vb: 5.4,8.1.2, 5.4,8.22, 5.4.9.2.1, 5.4.12.3, 7.6.4
+- meeting n: 5.5.1.2, 7.6.4
+- member n: 7.6.4
+- menu n: 7.10.2
+- message n: 7.5.5
+- metal n:6.5.1.14
+- metre n: 6.2.8.2
+- midnight n:6.3.1
+- might vb: 5.3.1.5
+- mild adj: 7.14.1
+- mile n: 6.2.8.2, 6.3.16
+- milk n: 7.10.1
+- millimetre n: 6.2.8.2
+- mineral adj: 7.10.1
+- mineral water n: 7.10.1
+- mind n: 5.2.35.4, 5.2.36.6, 5.2.37.4, 5.2.48.4
+- mind vb: 5.2.39.7, 5.3.3.6, 5.3.5.3
+- mine pron: 6.7.5.1, 6.8.1.1
+- minister n: 7.6.5
+- minute n: 5.5.17.2, 6.3.1, 6.3.2
+- miserable adj: 5.2.30.3
+- Miss n: 5.4.6.1, 7.1.1
+- missile n: 7.6.7
+- mist n: 7.14.1 2 mistake n:7.13.1
+- mix vb: 7.10.1
+- modern adj: 7.4.3, 7.4.5
+- moist adj: 6.5.1.3
+- moment n: 5.5.2.1.4, 5.5.17.1, 5.5.23.2, 6.3.2
+- money n: 7.5.7, 7.9.6
+- month n: 6.3.2, 6.3.13, 6.5.1.10
+- monthly adv: 6.3.17
+- more adj, pron and adv: 6.4.2
+- morning n: 5.4.2.2, 6.3.2
+- mosque n: 7.1.12
+- most adj, pron and adv: 6.4.2
+- mother n: 7.1.11
+- motor n: 7.5.2
+- motor cycle n: 7.5.2
+- motorway n: 7.5.3
+- mountain n: 7.2.7
+- move vb: 6.2.4 Mr ['mist9] nz 5.4.6.1, 7.1.1
+- Mrs ['misiz] n: 5.4.6.1, 7.1.1
+- Ms [mez] n: 7.1.1
+- much adv, adj and pron: 5.1.4.2.1, 6.4.2, 6.4.3
+- murder vb: 7.6.6
+- murderer n: 7.6.6
+- museum n: 7.4.5
+- mushroom n: 7.10.1
+- music n: 7.4.2
+- musical n and adj: 7.4.4
+- musician n: 7.4.4
+- must vb: 5.2.9.8, 5.2.10.3, 5.2.11.2, 5.2.12.2, 5.2.15.1, 5.2.19.3, 5.3.10.4
+- mustard n: 7.10.1
+- mutton n:7.10.1
+- my adj: 6.7.5.1, 6.8.1.1
+- myself pron: 6.8.1.2
+- N fen]
+- name n: 5.5.2.2.1, 7.1.1
+- narrow adj: 6.2.8.1
+- nasty adj: 5.2.33.3
+- nationality n:7.1.8
+- NATO n:7.6.5
+
+<!-- el:end id=prose_p173 -->

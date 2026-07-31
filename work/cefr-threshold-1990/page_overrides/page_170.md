@@ -1,0 +1,89 @@
+<!-- el:start type=prose id=prose_p170 page=170 -->
+<!-- vision: Threshold PDF page 170 -->
+
+- go on vb: 5.5.18.1, 6.3.18
+- go out vb: 7.4.1
+- goat n:7.2.8
+- god n: 7.1.12 (be) going to vb: 5.2.25.1, 6.3.11
+- good adj: 5.2.32.1, 5.2.35.1, 5.2.35.3, 5.2.35.4, 5.2.36.8, 5.2.49.3, 5.2.54.1, 5.2.55.2, 5.3.2.3, 5.3.12.3, 5.4.2.2, 5.4.6.1, 5.4.11.2, 5.4.12.1, 5.6.6.2, 6.5.2.2, 7.1.14
+- goodbye int: 5.4.12.3.1
+- govern vb: 7.6.5
+- government n: 7.6.5 .
+- gram(me) n: 6.2.8.4
+- gramophone n: 7.4.3
+- grandchild n: 7.1.11
+- grandfather n: 7.1.11
+- grandmother n: 7.1.11
+- grant n and vb: 7.3.3
+- grape n:7.10.1
+- grateful adj: 5.2.49.4
+- great adj: 5.2.29.1
+- greatly adv: 5.2.38.5
+- green adv: 6.5.1.9
+- greengrocer n: 7.1.10, 7.9.1
+- grey adv: 6.5.1.9
+- grill vb: 7.10.1
+- grocer n: 7.1.10, 7.9.1
+- ground n: 7.4.7
+- group n: 6.7.6.1, 7.5.4
+- guest n: 7.5.5, 7.6.2
+- guest-house n: 7.5.5
+- guide n and vb: 7.5.4
+- guitar n: 7.4.4
+- gun n: 7.6.6, 7.6.7
+
+### H [ert]
+
+- hair n:7.7.1
+- half n, adj and adv: 6.3.1, 6.3.2, 6.4.2, 75.5
+- hall n:7.5.5
+- hallofhello int: 5.4.1.2, 5.4.2.1, 5.4,9.2.2, 5.5.21.1.2
+- hamburger n: 7.10.1
+- hand n: 5.3.9.3, 7.7.1
+- handbag n: 7.9.3
+- happen vb: 5.1.4.3
+- happy adj: 5.2.29.3, 5.2.30.2, 5.2.31.3
+- harbour n: 7.5.1
+- hard adj: and adv: 6.5.1.8, 6.5.2.13, 6.7.3.9
+- hardly adv: 6.4.2, 6.4.3
+- hat n: 7.9.3
+- hate n and vb: 5.2.33.5
+- have vb: 5.3.3.7, 6.7.3.6, 6.7.5.1, 7.7.4, 7.10.1
+- have got vb: 6.1.3, 6.7.5.1
+- have to vb: 5.2.15.1
+- he pron: 5.1.1.4
+- head n:7.7.1
+- health n: 5.4.11.2, 7.7.4
+- hear vb: 5.2.6.2, 5.5.24.2, 6.5.1.5,
+- heart n: 7.7.1
+- heat vb and n: 6.2.8.7
+- heating n:7.7.5
+- heavy adj: 6.2.8.3, 6.2.8.4
+- help n and vb: 5.2.46.1, 5.3.8.1, 5.3.9.1, 5.3.9.2, 7.11.8
+- help-yourself n: 7.10.2
+- her pron and adj: 5.1.1.2
+- here adv: 5.4.11.3, 5.5.21.2.1, 6.2.1, 6.8.1.2
+- high adj: 6.2.8.1, 6.2.8.3, 6.5.2.1
+- hijack vb: 7.6.6
+- hijacker n: 7.6.6
+- hill n: 7.2.7
+- him pron: 5.1.1.2
+- hire vb: 7.5.2
+- history n: 7.8.2
+- hobby n: 7.4.2
+- hockey n: 7.4.7
+- hold vb: 5.5.23.1
+- holiday n: 6.3.2, 7.4.1
+- home n and adv: 7.3.1
+- hope n and vb: 5.2.44, 6.6.1
+- horrible adj: 5.2.33.3
+- horse n: 7.2.8, 7.4.7
+- hospital n: 7.1.10, 7.7.5
+- hostel n: 7.5.5
+- hostess n:7.5.1
+- hot adj: 5.1.4.2.1, 6.2.8.7
+- hotel n: 7.5.5
+- hour n: 6.3.2
+- house n: 7.2.1, 7.5.5
+
+<!-- el:end id=prose_p170 -->

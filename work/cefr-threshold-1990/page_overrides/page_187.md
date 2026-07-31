@@ -1,0 +1,79 @@
+<!-- el:start type=prose id=prose_p187 page=187 -->
+<!-- vision: Threshold PDF page 187 -->
+
+- happiness, see pleasure health 7.7
+- hearing 6.5.1.5
+  - help, see assistance
+- hesitating looking for words 5.5.2
+- hobbies 7.4.2
+- holidays 7.5.4
+- home life 7.2, 7.3.1
+- hope expressing 5.2.44
+- house 7.2
+- household articles 7.9.5
+- humidity 6.5.1.3
+- hygiene 7.7.3
+- identification personal 7.1
+- identifying 5.1.1
+- **ignorance**
+  - expressing ignorance of a word or expression 5.6.9
+- importance 6.5.2.11
+- inability, see ability inadequacy 6.5.2.5
+- incapacity 6.5.2.10
+- inclusion 6.7.6.3
+- income 7.3.3
+- incorrectness 6.5.2.7
+- indifference expressing 5.2.39
+- inequality 6.7.4.1
+  - information seeking and imparting
+- 5.1-5
+- instructing someone to do something 5.3.7
+- instrumental action/event relation 6.7.3.4
+- insurance 7.7.6
+- intellectual pursuits 7.4.6
+- intentions enquiring about 5.2.26
+  - expressing 5.2.25
+- interest enquiring about 5.2.40
+  - enquiring about lack of 5.2.40
+  - expressing 5.2.38
+  - expressing lack of 5.2.39
+- interests 7.4.2
+- intermittence 6.3.19
+- interrupting 5.5.14
+- introducing a person 5.4.8
+- reacting to 5.4.9
+- atheme 5.5.4
+- inutility 6.5.2.9
+- invitations 7.6.2
+  - accepting 5.3.11
+- declining 5.3.12
+  - enquiring about acceptance 5.3.13
+- extending/offering 5.3.10
+- justice 7.6.6
+- knowing/knowledge enquiring about 5.2.6
+- remembering/forgetting 5.2.7-8
+- stating 5.2.5
+- language 7.13
+- lateness 6.3.6
+- leave taking 5.4.12
+- leisure 7.4.1
+- length 6.2.8.2
+- letter writing 5.5.27-28
+- life, daily at home 7.3.1
+- at work 7.3.2
+- liking enquiring about 5.2.34
+  - expressing 5.2.32
+- location 6.2.1
+- logical relations 6.7.6
+- luggage 7.5.6
+- manner 6.7.3.9
+- marital status 7.1.7
+- material 6.5.1.14
+- means 6.7.3.9
+- medical services 7.7.5
+- meeting someone 5.4.3
+- moral obligation, expressing 5.2.53
+- motion 6.2.4
+- museums 7.4.5
+
+<!-- el:end id=prose_p187 -->

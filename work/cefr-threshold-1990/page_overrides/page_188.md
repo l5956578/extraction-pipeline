@@ -1,0 +1,78 @@
+<!-- el:start type=prose id=prose_p188 page=188 -->
+<!-- vision: Threshold PDF page 188 -->
+
+- name 7.1.1
+- narrating 5.1.2
+- nationality 7.1.8
+- necessity enquiring about 5.2.12
+  - expressing or denying 5.2.11
+- non-availability 6.1.3
+- non-existence 6.1.1
+- non-occurrence 6.1.4
+- non-understanding signalling 5.6.1
+- normality 6.5.2.12
+- number 6.4.1
+- objective action/event relation 6.7.3.2
+- obligation enquiring about 5.2.16
+  - expressing 5.2.15
+- moral, expressing 5.2.53
+- occupation 7.1.10
+- occurrence 6.1.4
+- offer accepting 5.3.11
+- declining 5.3.12
+  - enquiring about acceptance 5.3.13
+- opening conversation 5.5.1
+- letter 5.5.27
+  - on telephone 5.5.21
+- opinion asking someone 5.5.12
+  - expressing 5.5.5
+- origin direction 6.2.6
+- locality 7.1.9
+- ownership 6.7.5.1
+- paraphrasing 5.6.12
+- past reference 6.3.13
+- peace war and peace 7.6.7
+- permanence 6.3.20
+- permission enquiring about 5.2.20
+  - expressing 5.2.19
+- granting 5.2.21
+- withholding 5.2.22
+- petrol station 7.11.9
+  - physical appearances 7.1.15
+  - physical qualities 6.5.1
+- places 7.1.2
+- pleasure enquiring about 5.2.31
+  - expressing 5.2.29
+- police 7.11.5
+- politics 7.6.5
+- position relative 6.2.2
+- possession 6.7.5.1
+- possessive relations 6.7.5
+- post postal services 7.11.1
+- posteriority 6.3.8
+- preference enquiring about 5.2.28
+  - expressing 5.2.27
+- presence 6.1.2
+- present reference 6.3.12
+- press 7.4.8
+- pressure 6.2.8.3
+- prices 6.5.2.1, 7.9.6
+  - private transport 7.5.2
+- probability enquiring about 5.2.10
+  - expressing 5.2.9
+- proposing a toast 5.4.11
+- prospects 7.3.5
+  - public transport 7.5.1
+- purpose 6.7.6.7
+- pursuits intellectual and artistic 7.4.6
+- qualifications educational 7.8.3
+- quality 6.5
+- evaluative 6.5.2.1-13
+  - physical 6.5.1.1-16
+- quantity 6.4.1-3
+- question answering 5.1.5
+- radio 7.4.3
+- logical relation 6.7.6.6
+- reassurance giving 5.2.47
+
+<!-- el:end id=prose_p188 -->

@@ -1,0 +1,91 @@
+<!-- el:start type=prose id=prose_p177 page=177 -->
+<!-- vision: Threshold PDF page 177 -->
+
+- repeat vb: 5.6.2.4
+- reporter n: 7.4.8
+- request vb: 6.6.2
+- reservation n: 7.5.5
+- rest vb: 7.7.2
+- restaurant n: 7.5.1, 7.10.2
+- result n: 6.7.6.5
+- return vb: 7.5.1
+- revue n:7.4.4
+- Tich adj: 7.6.8
+- ride vb: 7.4.7, 7.5.2
+- right n: 6.2.5
+- right adj: 5.2.1.2, 5.2.2.2, 5.2.35.5.2, 5.2.36.5, 5.2.37.3, 5.2.52.2, 5.3.11.6, 6.5.2.3, 6.5.2.7, 7.6.5
+- right adv: 5.3.11.6, 5.5.1.3.1, 7.5.3
+- ring up vb: 7.1.3
+- river n: 7.2.7
+- road n: 7.1.2, 7.5.3
+- rob vb: 7.6.6
+- robber n: 7.6.6
+- robbery n: 7.6.6 (bread) roll n: 7.10.1
+- room n: 6.2.8.6, 7.2.5, 7.5.5
+- rough adj: 6.5.1.8
+- round adj: 6.5.1.1
+- round adv and prep: 6.2.2
+- roundabout n: 7.5.3
+- Tow 1: 7.4.4
+- rugby n: 7.4.7
+- ruins n:7.5.4
+- run vb: 6.2.4
+- Russian adj: 7.13.1
+- Stes]
+- safe adj: 7.5.3
+- safety n: 7.5.3
+- sail vb: 7.4.2
+- salad n: 7.10.1
+- salary n: 7.3.3
+- sale n: 7.2.4, 7.9.1
+- salesman n: 7.1.10
+- saleswoman n: 7.1.10
+- salt n: 7.10.1
+- salty adj: 6.5.1.6
+- same adj: 6.7.4.1
+- sandwich n: 7.10.1
+- sanitary adj: 7.7.3
+- satisfied adj: 5.2.36.2, 5.2.37.1
+- saucer n: 7.9.5
+- sausage n: 7.10.1
+- say vb: 5.1.2.2, 5.4.1.3, 5.5.3.7, 5.5.4.1, 5.5.14.3, 5.5.17.4, 5.5.19.2, 5.6.2.3, 5.6.3.2, 5.6.4.1, 5.6.5.1, 5.6.9.1, 5.6.13, 6.6.2
+- school n: 7.1.10, 7.3.1, 7.8.1
+- science n: 7.8.2
+- scissors n: 7.7.3
+- scooter n: 7.5.2
+- sculpture n: 7.4.5, 7.4.6
+- sea n:7.2.7
+- seaside n: 7.2.7
+- season n: 6.3.2
+- seat n: 7.4.4
+- second n: 6.3.2
+- second adj: 5.5.6.1
+- secondary adj: 7.8.1
+- secretary n: 7.1.10
+- security n: 7.3.1, 7.5.1
+- see vb: 5.4.12.2.3, 5.5.5.1, 6.5.1.4
+- seem vb: 5.2.13.2.1
+- seldom adv: 6.3.17
+- self-service n:7.9.1, 7.10.2
+- sell vb: 6.2.5, 7.1.10
+- send vb: 7.6.3
+- sender n: 7.11.3
+- separated adj: 7.1.7
+- serve vb: 7.10.2
+- service n: 7.1.12, 7.10.2
+- several adj: 6.3.22, 6.4.2
+- sex 1:7.1.6
+- sh! int: 5.5.15.1
+- shade n: 7.14.1
+- shall vb: 5.3.1.2
+- shame n: 5.2.45.2, 5.2.57.1
+- sharp adj: 5.3.5.4
+- shave vb: 7.7.3
+- she pron: 5.1.1.4
+- sheep n: 7.2.8
+- sheet n: 7.2.3
+- shine vb: 7.14.1
+- ship n: 7.5.1
+- shirt n: 7.9.3
+
+<!-- el:end id=prose_p177 -->

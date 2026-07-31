@@ -1,0 +1,95 @@
+<!-- el:start type=prose id=prose_p167 page=167 -->
+<!-- vision: Threshold PDF page 167 -->
+
+- course n: 7.8.1, 7.10.1
+- of course adv: 5.2.1.6.2
+- court n: 7.6.6
+- cousin n: 7.1.11
+- cow : 7.2.8
+- cream n: 7.10.1
+- credit n: 7.5.5, 7.9.6
+- credit card n: 7.5.5, 7.9.6
+- cricket n: 7.4.7
+- crime n:7.6.6
+- criminal n: 7.6.6
+- cross vb: 7.5.3
+- crossing n: 7.5.3
+- cup n: 6.4.1, 6.4.2, 7.9.5
+- cupboard n: 7.2.2
+- currency adj: 7.5.7, 7.11.4
+- current adj: 7.4.3
+- curtain n: 7.2.3
+- customs n: 7.5.7
+- cut vb: 6.5.1.11, 7.7.3, 7.7.4
+- cycle n: 7.5.2
+- cyclist n: 7.5.2
+- Dizi
+- daily adv: 6.3.17
+- damp adj: 6.5.1.3
+- dance vb: 7.4.4, 7.6.2
+- dancer n: 7.4.4
+- danger n:7.5.3
+- dangerous adj: 7.5.3
+- dark adj: 6.5.1.4, 6.5.1.9, 7.1.15
+- date n:7.1.4
+- daughter n: 7.1.11
+- day n: 6.3.2, 6.3.3, 6.3.13, 7.3.2
+- dead adj: 6.5.1.11, 7.7.4
+- dear adj: 5.2.30.1, 5.2.57.7, 5.5.27.1.1, 5.5.27.2.1
+- dear n: 5.4.7.2
+- decide vb: 7.10.2
+- declare vb: 7.5.7
+- deep adj: 6.2.8.1
+- defeat n and vb: 7.6.7
+- defence n:7.6.7
+- defend vb: 7.6.7
+- degree n: 6.2.8.7
+- delay n and vb: 6.3.15, 7.5.1
+- delayed adj: 6.3.15, 7.5.1
+- delighted adj: 5.2.29.5
+- dentist n: 7.7.5
+- department n: 7.9.1
+- departure n: 7.5.1
+- desk n: 7.2.3, 7.5.1, 7.5.5
+- dessert n: 7.10.1
+- detective n: 7.4.6
+- dial vb: 7.11.2
+- dictionary n: 7.13.1
+- die vb: 6.5.1.11
+- diet n and vb: 7.7.4
+- differ vb: 6.7.4.1
+- difference n: 6.7.4.1
+- different adj: 6.7.4.1
+- difficult adj: 6.5.2.13
+- difficulty n: 6.5.2.13
+- dinner n: 7.3.1, 7.10.1
+- diploma n:7.8.3
+- dirty adj: 6.5.1.13, 7.7.3
+- disarmament n: 7.6.7
+- disc n: 7.4.3, 7.4.4
+- disc jockey n:7.4.4
+- disco(théque) n: 7.4.4
+- discount n:7.9.6
+- disease n: 7.7.4
+- dish n:7.9.5
+- distance n: 6.2.3, 7.5.3
+- divorced adj: 7.1.7
+- dizzy adj: 7.7.4
+- do vb: 5.1.35, 5.2.21.3, 5.2.35.5.3, 5.2.36.7, 6.5.2.5, 6.8.1.2, 6.8.2, 7.1.10
+- doctor (Dr) n: 5.4.6.1, 7.1.10, 7.7.5
+- document n:7.5.8
+- documentary adj and n: 7.4.3
+- dog n:7.2.8
+- don’t vb: 5.3.5.2
+- door n: 7.2.2
+- double adj: 7.5.5
+- doubt n and vb: 6.6.1
+- down adv and prep: 6.2.5
+- downstairs adv: 7.2.2
+- drama n: 7.4.3
+- draw vb: 7.4.7
+- dress n and vb: 7.9.3
+- dressed adj: 7.3.1
+- dressing n: 7.7.4
+
+<!-- el:end id=prose_p167 -->

@@ -1,0 +1,14 @@
+<!-- el:start type=prose id=prose_p028 page=28 -->
+<!-- vision: Threshold PDF page 28 -->
+
+## 4 The objective: components of the specification
+
+A communicative approach aims to enable the learners to use a foreign language for their own purposes. What these purposes are, depends on the personality, the circumstances, the needs and interests of the learners themselves. They are never fully predictable, but, starting from a particular target group, however heterogeneous it may be, we can make an attempt to identify those things that all of them are at least very likely to need or wish to be able to do in the foreign language. In order to do this in any useful way we have to try and determine in what situations they are most likely to use the foreign language, what roles they will play in these situations, and what matters they are most likely to have to be able to deal with in the foreign language.
+
+Determining all this – especially if we want to arrive at a fairly detailed description – is, in a way, a matter of guesswork. However, we can make at least better educated guesses if we make use of our collective experience, our knowledge of the world, and of whatever amount of consensus would appear to have been – explicitly or implicitly – achieved. In fact, the information on this that is available now is by no means negligible. It may be found in numerous studies that have appeared since the *Threshold Level* was originally published, and it is to be found in the choices made in those course materials with a communicative orientation that have been produced in the last 20 years or so. By and large, the assumptions made in the original *Threshold Level* would seem to have been widely upheld, so that the basis for the present specification is a more solid one than for the earlier one. Yet, it should be constantly borne in mind that these assumptions are made with regard to what the members of a very large target group are supposed to have in common and that the undoubtedly considerable individual differences among these members are deliberately left out of account. This is just another way of saying that the *Threshold Level* is a general objective only, and, moreover, one that is never to be regarded as fixed and closed but as something to be used flexibly and creatively.
+
+In the preceding *general characterisation* and particularly in the *extended characterisation* we described the *Threshold Level* objective. The question is now how this may be most usefully specified, how it may be broken down into a coherent set of elements that may serve the purposes of those for whom the specification is meant.
+
+Our starting-point is the situations in which the learners are most likely to find themselves. Each situation will make its own demands on their communicative resources. At the same time, these demands have
+
+<!-- el:end id=prose_p028 -->

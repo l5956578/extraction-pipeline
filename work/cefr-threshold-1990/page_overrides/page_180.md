@@ -1,0 +1,85 @@
+<!-- el:start type=prose id=prose_p180 page=180 -->
+<!-- vision: Threshold PDF page 180 -->
+
+- that adj: 5.1.1.3, 6.2.1, 6.8.1.1, 6.8.1.2
+- that conj: 5.2.3.2, 5.2.13.1.5, 5.2.14, 5.2.39, 5.2.41, 5.2.43.3, 5.2.44.3, 5.2.45.1, 5.2.46.3, 5.2.57, 5.6.5.1, 5.6.13.5
+- the art: 5.1.1.3, 6.8.1.1, 6.8.1.2
+- The Hague n: 7.1.2
+- theatre n: 7.4.4
+- theft n: 7.6.6
+- them pron: 5.1.1.2
+- then adv: 5.5.6.2, 6.3.3, 6.3.9, 6.7.6.5
+- there adv: 5.2.47.1, 5.5.24.1, 6.1.1, 6.1.2, 6.1.3, 6.2.1
+- therefore adv: 5.2.11.4
+- these adj and pron: 5.1.1.1, 5.1.1.2, 6.2.1, 6.8.1.1
+- they pron: 5.1.1.4
+- thick adj: 6.2.8.1
+- thief n: 7.6.6
+- thin adj: 6.2.8.1, 7.1.15
+- thing n: 5.5.6.4, 6.8.2
+- thingumajig n: 5.5.2.2.3
+- think vb: 5.1.2.2, 5.2.1.6.4, 5.2.7.4, 5.2.2.4.4, 5.2.3.3, 5.2.2.5.2, 5.2.2.4.4, 5.2.3.3, 5.2.11.4, 5.2.13.1.5, 5.2.14.2, 5.2.25.4, 5.2.56.4, 5.5.2.1.3, 5.5.5.3, 5.5.12.1, 6.6.1
+- third-party adj: 7.7.6
+- thirst n: 7.7.2
+- thirsty adj: 7.7.2
+- this adj and pron: 5.1.1, 5.4.8.2.1, 5.5.21.1.2, 5.5.21.2.2, 6.2.1, 6.3.11, 6.3.12, 6.8.1.1
+- those adj and pron: 5.1.1.1, 5.1.1.3, 6.2.1, 6.8.1.1
+- thriller n:7.4.6
+- through prep: 6.2.5
+- throw vb: 7.6.6
+- thunderstorm n: 7.14.1
+- ticket n: 7.4.4, 7.5.1
+- tie vb: 6.5.1.11
+- tights n: 7.9.3
+- till prep: 6.3.4, 6.3.25
+- time n: 6.3.3, 6.3.17, 6.3.22, 7.3.1, 7.4.1
+- timetable n: 7.5.1
+- tip n: 7.10.2
+- tired adj: 7.7.2
+- to prep: 6.2.5, 6.3.1, 6.7.6.7
+- toast n: 7.10.1
+- tobacco n: 7.9.4
+- tobacconist n: 7.9.1
+- today n and adv: 6.3.3, 6.3.12
+- together adv: 6.7.6.1
+- toilet n: 7.2.2, 7.4.4
+- tomorrow n and adv: 6.3.3, 6.3.11
+- ton(ne) n: 6.2.8.4
+- tonight n and adv: 6.3.3, 6.3.11
+- too adv: 6.4.3, 6.7.6.1, 6.7.6.3
+- tooth n:7.7.1
+- toothbrush n: 7.7.3
+- toothpaste n: 7.7.3
+- top n: 7.2.7
+- tour n: 7.5.4
+- tourist n: 7.5.1, 7.5.4
+- towards prep: 6.2.5
+- towel n: 7.7.3
+- town n: 7.1.2
+- tradesman n: 7.1.10
+- traffic n: 7.5.3
+- train n:7.5.1
+- train vb: 7.8.1
+- tram n:7.5.1
+- translate vb: 7.13.1
+- translation n: 7.13.1
+- travel vb: 7.5.1
+- traveller n: 7.5.1, 7.11.4
+- tree n:7.2.8
+- trip n: 7.5.4
+- trouble n: 7.11.8
+- trousers n: 7.9.3
+- true adj: 5.2.4.1, 6.5.2.7
+- try vb: 5.5.3.5, 6.5.2.8
+- try on vb: 7.9.3
+- turkey 1: 7.10.1
+- turn n:7.9.1
+- turn vb: 6.2.5, 6.3.27, 7.5.3
+- turn off vb: 7.2.5
+- turn on vb: 7.2.5
+- tut-tut int: 5.2.55.1
+- twice adv: 6.3.17
+- typist n: 7.1.10
+- tyre n: 7.11.9
+
+<!-- el:end id=prose_p180 -->

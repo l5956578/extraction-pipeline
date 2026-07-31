@@ -1,0 +1,96 @@
+<!-- el:start type=prose id=prose_p166 page=166 -->
+<!-- vision: Threshold PDF page 166 -->
+
+- centre n: 6.2.2, 7.4.4
+- century n: 6.3.2
+- certain adj: 5.2.9, 5.2.10, 5.2.13.1.2, 6.6.1
+- certainly adv: 5.2.1.6.3, 5.2.1.7.3, 5.2.2.4.3, 5.2.9.1, 5.2.13.1.1, 5.2.21.2
+- certificate n: 7.8.3
+- chair n: 7.2.3
+- chair(person) n: 5.5.1.2.2
+- chairman n:5.5.1.2.1
+- change vb: 5.5.10.2, 6.3.27, 7.5.1, 7.5.7, 7.9.1, 7.11.4, 7.11.9
+- charge n: 7.10.2
+- charter n: 7.5.1
+- cheap adj: 6.5.2.1
+- check vb: 7.11.9
+- check in vb: 7.5.1
+- check out vb: 7.5.5
+- cheerio! int: 5.4.12.2.2
+- cheers! int: 5.4.11.1
+- cheese n: 7.10.1
+- chemist n:7.7.5
+- cheque n: 7.5.5, 7.11.4
+- chess n: 7.4.7
+- chest n: 7.7.1
+- chicken n: 7.10.1
+- child n: 6.5.1.10, 7.1.11
+- chips n: 7.10.1
+- chocolate n: 7.10.1
+- choose vb: 7.10.2
+- Christian adj: 7.1.1
+- church n: 7.1.12
+- cigar n:7.9.4
+- cigarette n:7.9.4
+- cinema n: 7.4.4
+- circus n:7.4.4
+- city 1: 7.1.2
+- civil servant n: 7.1.10
+- class n:7.5.1
+- classical adj: 7.4.3
+- clean adj and vb: 6.5.1.13, 7.2.6, 7.3.1, 7.73
+- clear adj: 5.6.14.1, 7.13.1
+- clerk adj: 7.1.10
+- climate n: 7.14.1
+- cloakroom n: 7.4.4
+- close vb: 6.5.1.12, 7.4.5
+- closed adj: 6.5.1.12, 7.4.5
+- closing time n:7.4.5
+- clothes n pl: 7.9.3
+- club n: 7.4.7, 7.6.4
+- coach n: 7.5.1
+- coast n: 7.2.7
+- coat n: 7.9.3
+- cod n: 7.10.1
+- coffee n: 7.10.1
+- coffee shop n: 7.10.2
+- coin n: 7.9.6
+- cold n:7.7.4
+- cold adj: 6.2.8.7
+- colleague n: 7.3.2
+- collect vb: 7.4.2
+- collection n:7.11.1
+- college n: 7.8.1
+- Cologne n: 7.1.2
+- comb n: 7.7.3
+- come vb: 5.3.6.1, 6.2.4, 7.1.9
+- come and see vb: 7.6.2
+- come from vb: 7.1.9
+- come in vb: 5.5.14.2
+- comedy n: 7.4.3
+- comfortable adj: 7.7.2
+- commercial adj: 7.4.3
+- communist n: 7.6.5
+- compact adj: 7.4.3
+- company n: 7.1.10
+- computer n: 7.4.2, 7.8.2
+- concert n: 7.4.4
+- conclusion n: 5.5.19.3
+- congratulations! int: 5.4.10.1
+- connection n:7.5.1
+- conservative n: 7.6.5
+- consul n: 7.11.6
+- consulate n: 7.11.6
+- control n:7.5.7
+- cook vb: 7.3.1
+- cool adj: 6.2.8.7
+- Copenhagen n:7.1.2
+- corner n: 7.5.3
+- correct adj: 5.2.1.3, 6.5.2.7
+- correspond vb: 7.6.3
+- cost vb: 6.5.2.1
+- cotton n:6.5.1.14
+- could vb: 5.3.1.3, 5.3.3.3, 5.3.8.1
+- country n: 7.1.2, 7.5.4
+
+<!-- el:end id=prose_p166 -->

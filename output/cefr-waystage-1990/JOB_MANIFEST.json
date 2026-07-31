@@ -1,10 +1,9 @@
 {
   "job_id": "cefr-waystage-1990",
   "status": "approved_md",
+  "approved_version": "004",
   "deliverable": "output/cefr-waystage-1990/Waystage_1990.md",
-  "approved_version": "003",
-  "extraction": "layout_aware_format_v3",
+  "extraction": "vision_overrides_v4",
   "approved": true,
-  "generated_at": "2026-07-31T18:14:01.846414+00:00",
-  "notes": "Format v3: real paragraphs, lists, headers, Unicode tone marks"
+  "generated_at": "2026-07-31T18:36:49.667756+00:00"
 }

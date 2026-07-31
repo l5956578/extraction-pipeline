@@ -107,26 +107,55 @@ def is_running_chrome(t: str) -> bool:
 
 
 def is_bullet_line(t: str) -> bool:
+    """True only for real list bullets — NOT mid-sentence em-dashes for emphasis."""
     s = t.strip()
     if not s:
         return False
-    if s[0] in BULLET_CHARS:
+    # Real bullets: • or dash at start followed by capital or long phrase
+    if s[0] in "•●◦▪▫∗∙":
         return True
-    if re.match(r"^[-–—]\s+\S", s):
+    # Hyphen/en-dash bullet ONLY if starts line and next char is space + word
+    # Reject em-dash emphasis mid-prose already stripped; reject "– and many more –"
+    if re.match(r"^[-–—]\s+[A-Za-z“‘\"(]", s):
+        # Not a bullet if it looks like continuation dash fragment
+        if re.match(r"^[-–—]\s+(and|or|but|the|a|an|to|of|in|on|for|with)\b", s, re.I):
+            return False
         return True
-    if re.match(r"^[•●]\s*", s):
+    return False
+
+
+def is_section_number_heading(t: str) -> bool:
+    """'1 Target Group', '2 Criteria', '3 Adaptability' — headers, NOT numbered lists."""
+    s = t.strip()
+    # Short numbered titles: digit(s) + space + Title Case words, no trailing period sentence
+    if re.match(r"^\d{1,2}\s+[A-ZÀ-Ö][\w'’\-: ]{1,60}$", s) and not s.endswith((".", ",", ";")):
+        # Reject long sentences
+        if len(s.split()) <= 10:
+            return True
+    # "1. Low falling" App A definitions with name after number — still can be list OR heading;
+    # prefer heading when pattern is N + Capitalized multiword short title without verb-heavy body
+    if re.match(r"^\d{1,2}\.\s+[A-Z][a-z]+(?:\s+[A-Z]?[a-z]+){0,5}$", s):
         return True
     return False
 
 
 def is_numbered_line(t: str) -> bool | str:
-    """Return list marker kind or False."""
+    """Return list marker kind or False. Section heads are NOT lists."""
     s = t.strip()
+    if is_section_number_heading(s):
+        return False
     if re.match(r"^\d{1,2}[\.\)]\s+\S", s):
+        # "1. for factual statements" = list; "1. Target Group" already caught
+        rest = re.sub(r"^\d{1,2}[\.\)]\s+", "", s)
+        if rest and rest[0].islower():
+            return "num"
+        if re.match(r"^(for|in|as|to|when|if|with|by|on|at)\b", rest, re.I):
+            return "num"
+        # Title-like after "1." → not a list item
+        if re.match(r"^[A-Z]", rest) and len(rest.split()) <= 8 and not rest.endswith("."):
+            return False
         return "num"
-    if re.match(r"^\d{1,2}\s+[A-ZÀ-Ö]", s) and not re.match(r"^\d{1,2}\s+\d", s):
-        # "1 Low falling" style App A
-        return "num_space"
+    # Do NOT treat "1 Target Group" as num_space list (handled as section heading)
     if re.match(r"^[a-z]\)\s+\S", s):
         return "alpha"
     if re.match(r"^[ivx]+\)\s+\S", s, re.I):
@@ -140,7 +169,12 @@ def looks_like_heading_line(t: str, size: float, bold: bool, body_size: float) -
     s = t.strip()
     if len(s) < 2 or len(s) > 100:
         return False
-    if is_bullet_line(s) or is_numbered_line(s):
+    if is_bullet_line(s):
+        return False
+    # Numbered section titles are headings (1 Target Group / 2 Criteria / 3.1 Criteria…)
+    if is_section_number_heading(s):
+        return True
+    if is_numbered_line(s):
         return False
     # Never promote mid-sentence fragments (common PDF span-size false positives)
     if s[0].islower():
@@ -151,15 +185,18 @@ def looks_like_heading_line(t: str, size: float, bold: bool, body_size: float) -
     if re.match(
         r"^(Preface|Introduction|Chapter\s+\d|Appendix\s+[A-D0-9]|"
         r"Language functions|General notions|Specific notions|"
-        r"Contents|Table of contents|Foreword|Acknowledgement|"
+        r"Contents|Table of contents|CONTENTS|Foreword|Acknowledgement|"
+        r"PREFATORY NOTE|Notes for the user|Synopsis|"
         r"Pronunciation and intonation|Grammatical summary|"
-        r"Common Reference Levels|"
+        r"Common Reference Levels|Description Issues|Measurement Issues|"
         r"\d+(\.\d+)*\s+[A-Z].{3,70})$",
         s,
         re.I,
     ):
         return True
     if re.match(r"^\d+\.\d+(\.\d+)*\s+[A-Z]", s) and len(s) < 90:
+        return True
+    if re.match(r"^\d{1,2}\s+[A-Z][\w'’\-: ]{1,50}$", s) and len(s.split()) <= 10:
         return True
     # Size-based only if clearly larger AND title-like (Title Case / short)
     if size >= body_size + 4 and len(s) < 70:
@@ -604,6 +641,14 @@ def extract_tables_md(page: fitz.Page, page_num: int) -> str:
     return "\n".join(parts)
 
 
+def load_page_override(job: str, pnum: int) -> str | None:
+    """Vision-written page MD wins over auto format. Path: work/<job>/page_overrides/page_NNN.md"""
+    p = ROOT / "work" / job / "page_overrides" / f"page_{pnum:03d}.md"
+    if p.exists() and p.stat().st_size > 20:
+        return p.read_text(encoding="utf-8").strip()
+    return None
+
+
 def build_book(
     job: str,
     title: str,
@@ -615,6 +660,7 @@ def build_book(
     out_md = ROOT / "output" / job / out_name
     doc = fitz.open(pdf)
     n = doc.page_count
+    n_ov = 0
 
     parts: list[str] = []
     parts.append(
@@ -622,7 +668,7 @@ def build_book(
         f"<!-- db:id={slug(job)} type=document product_tier=context pages=1-{n} -->\n\n"
         f"# {title}\n\n"
         f"<!-- source: input/{job}/source.pdf -->\n"
-        f"<!-- extraction: layout-aware Vision/OCR format (Companion conventions) -->\n"
+        f"<!-- extraction: layout-aware + Vision page_overrides (Companion conventions) -->\n"
         f"<!-- intonation marks: LF={TONE['LF']} HF={TONE['HF']} LR={TONE['LR']} "
         f"HR={TONE['HR']} FR={TONE['FR']} head={TONE['HEAD']} stress={TONE['STRESS']} -->\n"
         f"<!-- el:end id=prose_p001_doc -->\n\n"
@@ -630,25 +676,32 @@ def build_book(
 
     for i in range(n):
         pnum = i + 1
-        page = doc[i]
-        native_len = len(page.get_text("text").strip())
-        if native_len >= 40:
-            lines = extract_lines_layout(page)
-        elif use_ocr_fallback:
-            lines = extract_lines_ocr(ocr_dir / f"page_{pnum:03d}.txt")
+        override = load_page_override(job, pnum)
+        if override:
+            n_ov += 1
+            body = override + "\n"
         else:
-            lines = extract_lines_layout(page)
-            if sum(1 for l in lines if l.text) < 3:
+            page = doc[i]
+            native_len = len(page.get_text("text").strip())
+            if native_len >= 40:
+                lines = extract_lines_layout(page)
+            elif use_ocr_fallback:
                 lines = extract_lines_ocr(ocr_dir / f"page_{pnum:03d}.txt")
+            else:
+                lines = extract_lines_layout(page)
+                if sum(1 for l in lines if l.text) < 3:
+                    lines = extract_lines_ocr(ocr_dir / f"page_{pnum:03d}.txt")
 
-        body = lines_to_markdown(lines, pnum, job)
-        tables = extract_tables_md(page, pnum) if native_len >= 40 else ""
-        if tables:
-            body = body.rstrip() + "\n\n" + tables
+            body = lines_to_markdown(lines, pnum, job)
+            tables = extract_tables_md(page, pnum) if native_len >= 40 else ""
+            # skip auto tables if page already has hand-crafted tables in body (unlikely without override)
+            if tables and "type=table" not in body:
+                body = body.rstrip() + "\n\n" + tables
         parts.append(body)
         parts.append(f"\n*Page **{pnum}***\n\n<!-- page:{pnum} -->\n\n")
         if pnum % 40 == 0:
             print(f"  {job} page {pnum}/{n}", flush=True)
+    print(f"  {job}: {n_ov} Vision page overrides applied", flush=True)
 
     text = "".join(parts)
     text = apply_tone_symbol_pass(text)

@@ -1,0 +1,77 @@
+<!-- el:start type=prose id=prose_p185 page=185 -->
+<!-- vision: Threshold PDF page 185 -->
+
+- someone to wait, on telephone
+- 5.5.23
+- **assistance**
+  - appealing for, in communication
+- Tepair 5.6.10
+  - offering 5.3.9
+- requesting 5.3.8
+- attention attracting 5.4.1
+  - attitudes, expressing and finding ou
+- 5.2
+- factual: agreement 5.2.1-14
+- factual: modality 5.2.15-22
+- emotional 5.2.29-57
+- volitional 5.2.23-28
+- audibility 6.5.1.5
+- availability 6.1.3
+- bank 7.11.4
+- bedclothes 7.2.3
+- benefactive action/event relation 6.7.3.5
+- birth date and place 7.1.4
+- body parts of 7.7.1
+- body care 7.7
+- capacity 6.5.2.10
+- causative action/event relation 6.7.3.6
+- cause 6.7.6.4
+- certainty enquiring about degrees of 5.2.14
+  - expressing degrees of 5.2.13
+- cessation 6.3.25
+- change transition 6.3.27
+- character 7.1.14
+- cinema 7.4.4
+- clarification asking for 5.6.6
+- cleanness 6.5.1.13
+- climate 7.14.1
+- closing conversation 5.5.19, 5.5.20
+- letter 5.5.28
+- clothes 7.9.3
+- club membership 7.6.4
+- colour 6.5.1.9
+- comfort personal 7.7.2
+- commencement 6.3.24
+- communication repair 5.6
+- condition logical relation 6.7.6.8
+- t physical 6.5.1.14
+- congratulating 5.4.10
+- conjunction logical relation 6.7.6.1
+- continuity 6.3.18
+- contrastive relations 6.7.4
+- correcting oneself 5.5.3
+- statements 5.1.3
+- correctness 6.5.2.7
+- correspondence letter writing 7.6.3
+- similarity 6.7.4.2
+- countries, entering or leaving 7.5.7
+- crime 7.6.6
+- daily life 7.3
+- dative action/event relation 6.7.3.3
+- deciding on courses of action 5.3
+- defining 5.1
+- degree 6.4.3
+- deixis definite, anaphoric 6.8.1.2
+- definite, non-anaphoric 6.8.1.1
+- indefinite 6.8.2
+- delay 6.3.15
+  - denying 5.2.4
+- describing 5.1.2
+- desirability 6.5.2.6
+- desires, see wants difficulty 6.5.2.13
+- dimension 6.2.8
+- diplomatic services 7.11.6
+- directing someone to do something 5.3.7
+- direction 6.2.5
+
+<!-- el:end id=prose_p185 -->

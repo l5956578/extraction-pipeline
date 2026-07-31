@@ -1,0 +1,98 @@
+<!-- el:start type=prose id=prose_p175 page=175 -->
+<!-- vision: Threshold PDF page 175 -->
+
+### P (pis
+
+- packet n: 6.4.2
+- page n:7.4.8
+- pain n:7.7.4
+- painting n: 7.4.5, 7.4.6
+- pair n: 6.7.6.1
+- paper n: 6.5.1.14, 7.4.8, 7.6.3
+- parcel n:7.11.1
+- pardon n: 5.2.51.7
+- parents n: 7.1.11
+- park vb: 7.1.2
+- parking n: 7.5.3
+- parliament n: 7.6.5
+- part n: 7.2.7
+- partner n: 7.6.1
+- party n: 7.6.2, 7.6.5, 7.7.6
+- Pass vb: 6.2.4, 7.8.3
+- passenger n: 7.5.1
+- passport n: 7.5.7, 7.5.8
+- past adj: 6.2.5, 6.3.1
+- pastry 7: 7.10.1
+- patient n: 7.7.5
+- Pay vb: 7.5.5, 7.5.7, 7.9.6
+- pea n: 7.10.1
+- peace n: 7.6.7
+- peanut n: 7.10.1
+- pear n: 7.10.1
+- pedestrian n: 7.5.3
+- peel n and vb: 7.10.1
+- pen n: 7.6.3
+- pen friend n: 7.6.3
+- pencil n: 7.6.3
+- penny n: 7.9.6
+- pension n: 7.3.3
+- people n pl: 6.8.2
+- pepper n: 7.10.1
+- per prep: 6.3.17
+- performance n: 7.4.4
+- perfume n: 6.5.1.7
+- perhaps adv: 5.2.13.2.2
+- permitted adj: 5.2.19.2, 5.2.22.5
+- person n: 6.8.2
+- pet n:7.2.8
+- petrol n: 7.11.9
+- phone n and vb: 7.1.3, 7.11.2
+- photography n: 7.4.2, 7.4.4
+- physician n: 7.1.10
+- physics n: 7.8.2
+- piano n: 7.4.4
+- picture n: 7.4.5, 7.4.8
+- pie n: 7.10.1
+- Piece n: 6.4.2, 7.10.1
+- pig n: 7.2.8
+- pill n: 7.7.5
+- pillow n: 7.2.3
+- pint 1: 6.2.8.5
+- pipe n:7.9.4
+- pity n: 5.2.45, 5.2.57
+- place n: 5.5.6.1, 7.1.4
+- plaice n: 7.10.1
+- plain adj: 7.1.15
+- plane n:7.5.1
+- plant n:7.2.8
+- plastic n and adj: 6.5.1.14
+- plate n:7.9.5
+- platform n: 7.5.1
+- play vb: 7.4.3, 7.4.4, 7.4.7
+- player n: 7.4.3, 7.4.7
+- playing-cards n: 7.4.7
+- pleasant adj: 5.2.32.1, 5.2.33.2, 6.5.1.7, 7AAG
+- please int: 5.3.3, 5.3.14
+- pleased adj: 5.2.29.4, 5.2.31.4, 5.4.9.2.1
+- pleasure n: 5.2.50.3, 5.3.11.5
+- p.m. adv: 6.3.1
+- pocket n: 7.9.3
+- poem n: 7.4.6
+- police n: 7.6.6
+- policeman n: 7.6.6
+- policewoman n: 7.6.6
+- polish vb: 6.5.1.13
+- political adj: 7.6.5
+- politics n: 7.4.2, 7.6.5
+- pollution n: 7.6.8
+- poor adj: 6.5.2.2, 7.6.8
+- pop(ular) adj: 7.4.3, 7.4.4
+- pork n: 7.10.1
+- porter n: 7.5.6
+- possible adj: 5.2.9, 5.2.10.2
+- possibly adv: 5.2.9.3
+- post n and vb: 7.11.1
+- post office n: 7.11.1
+- Postage n: 7.11.1
+
+<!-- el:end id=prose_p175 -->

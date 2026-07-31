@@ -1,0 +1,93 @@
+<!-- el:start type=prose id=prose_p178 page=178 -->
+<!-- vision: Threshold PDF page 178 -->
+
+- shoe n: 7.9.3
+- shoot vb: 7.6.6
+- shop n and vb: 7.1.10, 7.3.1, 7.9.1, 7.10.2
+- shop assistant n: 7.1.10
+- shopping n: 7.3.1, 7.9.1
+- short adj: 6.2.8.1, 6.2.8.2, 6.3.4, 7.1.15,
+- should vb: 5.2.53.2, 5.2.55.3, 5.3.4.1, 6.5.2.3
+- show n and vb: 7.4.3, 7.4.4, 7.9.1
+- shower n: 7.2.6, 7.3.1
+- shut vb and adj: 5.1.22
+- sick adj: 7.7.4
+- side n: 6.2.2
+- sign vb: 7.1.1
+- signature n: 7.1.1
+- signpost n: 7.5.3
+- sight n:7.5.4
+- silence n: 6.5.1.5
+- silent adj: 6.5.1.5
+- silk n:6.5.1.14
+- silver n:6.5.1.14
+- since prep: 6.3.4, 6.3.24, 6.7.6.6
+- sincerely adv: 5.5.28.1.1
+- sing vb: 7.4.4
+- singer n: 7.4.4
+- single adj: 7.1.7, 7.5.1, 7.5.5
+- Sir n: 5.4.7.1, 5.5.27.2.1
+- sister n: 7.1.11
+- site n:7.5.5
+- size n:6.2.8
+- ski n and vb: 7.4.7
+- skirt n: 7.9.3
+- sleep n and vb: 7.3.1, 7.7.2
+- sleepy adj: 7.7.2
+- slice n: 7.10.1
+- slim adj:7.1.15
+- slow adj: 6.3.16, 7.5.1
+- slowly adv: 5.6.11.1, 6.7.3.9
+- small adj: 6.2.8.1, 6.2.8.6
+- smell n and vb: 6.5.1.7
+- smoke n and vb: 7.5.1, 7.9.4
+- smoking n: 7.9.4
+- smooth adj: 6.5.1.8
+- snack n: 7.10.1, 7.10.2
+- snooker n: 7.4.7
+- snow n and vb: 7.14.1
+- snowstorm n: 7.14.1
+- so adv and conj: 5.2.11.4, 5.2.38.2, 5.2.42.2, 5.2.44.1, 5.5.7.3, 6.4.3, 6.7.4.2, 6.7.6.5, 6.8.1.2
+- SO-SO adj: 5.4.4.2.1
+- soap n: 7.7.3
+- social adj: 7.3.2
+- socialist n and adj: 7.6.5
+- sock n: 7.9.3
+- soft adj: 6.5.1.5, 6.5.1.8, 7.10.1
+- soldier n: 7.1.10, 7.6.7
+- sole n: 7.10.1
+- some adj and adv: 5.6.12.1, 6.4.2, 6.8.2
+- somebody pron: 6.8.2
+- someone pron: 6.8.2
+- something pron: 5.5.10, 5.5.11.1, 5.6.12, 6.8.2
+- sometimes adv: 6.3.17, 6.3.19, 6.8.2
+- somewhere adv: 6.2.1, 6.8.2
+- song n: 7.4.3
+- soon adv: 6.3.3, 6.3.11
+- sorry adj: 5.2.2.4, 5.2.51, 5.2.57, 5.6.1.1, 5.6.2.3, 5.3.12.2, 5.5.3.2
+- sort n: 5.6.12.1, 7.1.14
+- sound n: 6.5.1.5
+- soup n: 7.10.1
+- sour adj: 6.5.1.6
+- south n and adv: 6.2.1, 6.2.5
+- Spanish adj: 7.13.1
+- spare adj: 7.3.1, 7.4.1
+- speak vb: 5.6.11.1, 6.6.2, 7.13.1
+- specialist n: 7.7.5
+- speed vb: 7.5.3
+- spell vb: 5.6.7, 5.6.15, 7.1.1
+- spend vb: 7.9.6
+- spinach n: 7.10.1
+- spoon n: 7.9.5
+- sport n: 7.4.2, 7.4.7
+- spring n: 6.3.2
+- spy ni: 7.4.6, 7.6.7
+- square n and adj: 6.5.1.1, 7.1.2
+- stadium n: 7.4.7
+- stair n:7.2.2
+- stamp n: 7.4.2, 7.6.3
+- stand vb: 5.5.12.3, 6.2.4
+- star 1: 7.4.4
+- start vb: 5.5.3.5, 6.2.4, 6.3.24, 7.3.2
+
+<!-- el:end id=prose_p178 -->

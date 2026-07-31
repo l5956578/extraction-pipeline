@@ -1,0 +1,95 @@
+<!-- el:start type=prose id=prose_p179 page=179 -->
+<!-- vision: Threshold PDF page 179 -->
+
+- state n:7.6.5
+- statement n: 6.6.2
+- station n: 7.5.1, 7.6.6, 7.11.9
+- Stay vb: 6.3.26
+- steal vb: 7.6.6
+- steering n: 7.11.8
+- steward(ess) n: 7.5.1
+- still adj:6.2.4
+- still adv: 5.5.24.1, 6.3.12
+- stir vb: 7.10.1
+- stocking n: 7.9.3
+- stomach n:7.7.1
+- stop n:7.5.1
+- stop vb: 6.2.4, 6.3.25, 7.3.1, 7.5.3
+- store n:7.9.1
+- storm 1: 7.14.1
+- story n: 7.4.6
+- straight adj and adv: 6.2.5
+- strange adj: 6.5.2.12
+- stranger n: 7.6.1
+- strawberry n: 7.10.1
+- street n: 7.1.2, 7.5.3
+- stress vb: 5.5.8.4.5
+- strike n and vb: 7.3.2
+- string n:7.9.5
+- strong adj: 6.5.1.8
+- student n:7.8.1
+- study n and vb: 7.3.5, 7.4.6
+- subject n: 5.5.10.2, 7.8.2
+- succeed vb: 6.5.2.8
+- success n: 6.5.2.8
+- successful adj: 6.5.2.8
+- such adj: 6.4.3, 6.8.1.1
+- suddenly adv: 6.3.27
+- sugar n: 7.10.1
+- suit n:7.9.3
+- suitcase n: 7.5.6
+- sum up vb: 5.5.9.1
+- summer n: 6.3.2
+- sun n: 7.14.1
+- sunny n: 7.14.1
+- sunshine n: 7.14.1
+- supermarket n: 7.9.1
+- supper n: 7.3.1, 7.10.1
+- suppose vb: 5.2.14.2
+- supposed to adj: 5.2.19.4, 5.2.53.1
+- sure adj: 5.2.13, 5.2.14, 6.6.1
+- surname n: 7.1.1
+- surprise n and vb: 5.2.41, 5.2.43
+- surprised adj: 5.2.41.6, 5.2.43.3
+- surprising adj: 5.2.41.2
+- Swedish adj: 7.13.1
+- sweet n: 7.10.1
+- sweet adj: 6.5.1.6
+- swim vb: 7.4.7
+- T itis
+- table n: 7.2.3
+- tablet n: 7.7.5
+- take vb: 6.2.5, 6.3.4
+- take away vb: 6.2.5, 7.10.2
+- take off vb: 7.9.3
+- talk vb: 5.5.20.2.1, 6.6.2, 7.6.2
+- tall adj: 6.2.8.1
+- tape n: 7.4.3
+- tart n: 7.10.1
+- taste n and vb: 6.5.1.6
+- tax nand vb: 7.3.3
+- taxi n: 7.5.1
+- tea n: 7.3.1, 7.10.1
+- teach vb: 7.1.10, 7.8.1
+- teacher n: 7.1.10, 7.8.1
+- team n:7.4.7
+- telegram n: 7.11.3
+- telegraph n: 7.11.3
+- telephone n: 7.1.3, 7.2.5, 7.11.2
+- television (TV) n: 7.2.6, 7.4.3
+- tell vb: 5.1.4.2.2, 6.6.2
+- temperature n: 6.2.8.7, 7.7.4
+- temple n: 7.1.12
+- tennis n: 7.4.7
+- tent n:7.5.5
+- terminal n: 7.5.1
+- terrorism n: 7.6.6
+- terrorist n: 7.6.6
+- test n and vb: 7.8.3
+- than conj: 5.2.27.4, 6.7.4.2
+- thank vb: 6.6.2
+- thank you int: 5.2.49, 5.2.50.1, 5.3.11.2, 5.3.12.1, 5.4.4.1.1, 5.4.4.1.2, 5.4.4.3.1, 5.5.20.1
+- thanks n: 5.2.49.2
+- that (one) pron: 5.1.1.1, 5.2.45.2
+
+<!-- el:end id=prose_p179 -->

@@ -1,0 +1,88 @@
+<!-- el:start type=prose id=prose_p171 page=171 -->
+<!-- vision: Threshold PDF page 171 -->
+
+- how adv: 5.1.4.2.1, 5.1.5.2.3, 5.2.31, 5.2.38.3, 5.2.39.1, 5.2.56.1, 5.3.1.4, 5.4.3, 5.4.4, 6.7.3.9
+- how do you do? int: 5.4.9.1.1
+- how much adv: 6.5.2.1
+- hunger n:7.7.2
+- hungry adj: 7.7.2
+- hurry vb: 6.2.4
+- hurt vb: 7.7.4
+- hurt adj: 6.5.1.11
+- husband n: 7.1.11
+- Iai)
+- I pron: 5.1.1.4
+- ice n: 7.14.1
+- ice-cream n: 7.10.1
+- idea n: 5.3.2.3
+- if conj: 5.2.20.2, 5.2.20.3, 6.7.6.8
+- ill adj: 6.5.1.11, 7.7.4
+- illness n: 7.7.4
+- immigration n: 7.5.7
+- import vb: 7.5.7
+- important adj: 5.5.8.4.3, 5.5.8.4.4, 6.5.2.11
+- impossible adj: 5.2.95, 5.2.9.7
+- in adv and prep: 6.2.2, 6.2.5
+- inch n: 6.2.8.2
+- included adj: 7.2.4
+- income n:7.3.3
+- incorrect adj: 6.5.2.7
+- indeed adv: 5.2.1.4, 5.5.13.5
+- industry n: 7.2.7
+- inexpensive adj: 6.5.2.1
+- information n: 7.5.1
+- initial n:7.1.1
+- inn n:7.5.5
+- insect n: 7.2.8
+- inside adv and prep: 6.2.1, 6.2.2
+- instance n: 5.5.7.2
+- insurance n: 7.5.8, 7.7.6
+- insure vb: 7.7.6
+- intelligent adj: 7.1.14
+- intend vb: 5.2.25.3
+- interest n and vb: 5.2.38.5, 5.2.39.4, 5.2.40.2
+- interested adj: 5.2.38.4, 5.2.39.3, 5.2.40.
+- interesting adj: 5.2.38.3 , interpret vb: 7.13.1
+- interval n:7.4.4
+- into prep: 6.2.5
+- introduce vb: 5.4.8.1.1
+- invisible adj: 6.5.1.4
+- invitation n: 7.6.2
+- invite vb: 6.6.2, 7.6.2
+- island n: 7.2.7
+- issue n:7.6.8
+- it pron: 5.1.1.1, 5.1.1.4, 8.2
+- Italian adj: 7.13.1
+- J taseil
+- jacket n: 7.9.3
+- jam n: 7.10.1
+- jarn:7.9.5
+- jazz n:7.4.3
+- jewellery n: 7.9.3
+- job n: 7.1.10
+- join vb: 7.6.2
+- journalist n: 7.4.8
+- journey n: 7.5.1, 7.5.4
+- judge n:7.6.6
+- jug n:7.9.5
+- juice n:7.10.1
+- jury n: 7.6.6
+- just adv: 6.3.13
+- K tkeiy
+- keep vb: 5.4.5.1, 6.3.26, 6.7.5.1, 7.5.3
+- key n:7.5.5
+- kidnap vb: 7.6.6
+- kidnapper n: 7.6.6
+- kill vb: 7.6.6
+- killed adj: 7.7.4
+- killer n: 7.6.6
+- kilo(gramme) n: 6.2.8.4
+- kilometre n: 6.2.8.2, 6.3.16
+- kind n:5.6.12.1
+- kind adj: 5.2.49.3, 5.3.3.4, 7.1.14
+- kindly adv: 5.3.3.5
+- king n: 7.6.5
+- kitchen n: 7.2.2 1 knife n:7.9.5
+- knitting n:7.4.1
+
+<!-- el:end id=prose_p171 -->

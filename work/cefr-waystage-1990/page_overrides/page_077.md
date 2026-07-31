@@ -1,35 +1,25 @@
 <!-- el:start type=prose id=prose_p077 page=77 -->
-<!-- db:id=waystage_appendix_a type=section product_tier=context pages=68-80 -->
+<!-- vision: Waystage PDF page 77 -->
 
-## Appendix A — Pronunciation and intonation (cont.)
+rhythmic beat, they are not given pitch prominence. At *Waystage*, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its *nucleus*, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category. At *Waystage*, five nuclear tones should be distinguished:
 
-rhythmic beat, they are not given pitch prominence. At Waystage, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its **nucleus**, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category.
+1 **Low falling** This is marked in a text by a left to right diagonal falling mark, below the line of writing, placed before the nuclear syllable [ˎ]. This mark is to be interpreted as indicating that the next syllable is stressed. Its vowel starts on a clear level, low-mid tone. The voice then drops to a low creaky note and remains on this low pitch until the end of the tone group.
 
-<!-- el:start type=artifact id=waystage_appendix_a_nuclear_tones page=77 -->
-<!-- db:id=waystage_five_nuclear_tones type=section_block product_tier=context pages=77-79 -->
+2 **High falling** This is similar to the low fall, except that the nuclear vowel starts on a pitch above the mid point. It is marked by placing the mark above the line of writing [ˋ].
 
-### Five nuclear tones (Waystage 1990)
+3 **Low rising** This is marked by a rising mark placed before the nuclear syllable and below the line of writing [ˏ]. It indicates that the next syllable is stressed. Its vowel starts on a clear, low level pitch. There is then a continuous glide upward, but not rising above mid, until the end of the tone group. The glide occurs within the nuclear syllable if it is the last in the group.
 
-**Critical notation — same five-tone system as Threshold 1990; used throughout both books.**  
-At Waystage, **five nuclear tones** should be distinguished. Marks are placed **before** the nuclear syllable. OCR cannot reliably preserve above/below-line position; this extract uses explicit names plus **[LF] / [HF] / [LR] / [HR] / [FR]**.
+It is followed by one or more non-prominent syllables (the 'tail'), stressed or unstressed, the nuclear syllable is spoken on a low level pitch and the rise spans the tail.
 
-| # | Name | Mark (notation) | Pitch description |
-|---|------|-----------------|-------------------|
-| **1** | **Low falling** **[LF]** | Falling diagonal mark **below** the line, before the nuclear syllable. Book: `[,]` | Nuclear vowel starts on a clear, level **low-mid** tone; voice drops to a **low creaky** note and remains low to the end of the tone group. |
-| **2** | **High falling** **[HF]** | Same falling mark **above** the line. Book: `[']` | Like low fall, but nuclear vowel starts on a pitch **above the mid point**. |
-| **3** | **Low rising** **[LR]** | Rising mark **below** the line, before the nuclear syllable. Book: `[,]` (rising) | Nuclear vowel starts **low level**; continuous upward glide **not rising above mid**. If a non-prominent “tail” follows, nucleus stays low and the **rise spans the tail**. |
-| **4** | **High rising** **[HR]** | Rising mark **above** the line. Book: `[']` (rising) | Nuclear vowel starts somewhere between **low and mid**; upward glide extends **well above mid**. |
-| **5** | **Falling-rising** **[FR]** | **V-shaped** mark **above** the line before the nuclear syllable. Book: `[ˇ]` / `["]` | Sequence of high fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
+4 **High rising** This is shown by placing the rising mark above the line of writing [ˊ]. It indicates that the nuclear vowel starts somewhere between low and mid level, and that the upward glide extends well above mid.
 
-Waystage learners should be made aware of the following uses of nuclear tones and be stimulated to use them themselves as appropriate.
+5 **Falling-rising** This may be seen as a sequence of 2 and 3. The nuclear vowel starts high-mid pitch and drops to a low creak. An upward glide follows, which does not go above mid. This tone is indicated by a v-shaped mark placed before the nuclear syllable above the line of writing [ˇ]. *Waystage* learners should be made aware of the following uses of nuclear tones and be stimulated to use them themselves as appropriate.
 
-#### 1 Low falling **[LF]** `[,]` is used
+1 **Low falling** [ˎ] is used
 
-**a) in declarative sentences**
+a) in declarative sentences
 
-i) for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);
+i) for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);  
+ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
 
-> 'This is a [LF]door. They 'drove to [LF]London. 'Dogs are [LF]animals.
-
-<!-- el:end id=waystage_appendix_a_nuclear_tones -->
 <!-- el:end id=prose_p077 -->

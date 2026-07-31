@@ -1,0 +1,96 @@
+<!-- el:start type=prose id=prose_p169 page=169 -->
+<!-- vision: Threshold PDF page 169 -->
+
+- female adj: 7.1.6
+- ferry n:7.5.1
+- fever n:7.7.4
+- few adj: 6.4.2
+- field n: 7.2.7, 7.4.7
+- fight vb: 7.6.7
+- fill vb: 6.5.1.16, 7.7.5
+- film n: 7.4.2, 7.4.3, 7.4.4
+- final adj: 7.8.3
+- finally adv: 5.5.19.1, 6.3.9
+- find vb: 5.2.37.5, 5.2.56.5
+- fine n and vb: 7.5.3
+- fine adj: 5.2.35.2, 5.2.54.2, 6.5.2.2, 6.5.2.4, 7.14.1
+- finish vb: 5.5.17.3, 5.5.19.2, 6.3.2.5
+- fire n:7.5.5
+- firm n: 7.1.10
+- first adj: 5.5.6.1, 6.3.9, 7.1.1
+- first adv: 5.5.6.2, 6.2.7
+- fish n and vb: 7.2.8, 7.4.2, 7.10.1
+- flat n:7.2.1
+- flat adj: 7.2.7
+- flight n: 7.5.1
+- floor n: 7.2.2, 7.5.5
+- floor show n: 7.4.4
+- Florence n: 7.1.2
+- flour n: 7.10.1
+- flower n:7.2.8
+- flute n:7.4.4
+- fly n:7.2.8
+- fly vb: 7.5.1
+- fog n: 7.14.1
+- foggy adj:7.14.1
+- folk adj and n:7.4.3
+- follow vb: 6.2.5, 7.5.3
+- foot n: 6.2.8.2, 7.7.1
+- football n: 7.4.7
+- for prep: 5.5.6.4, 6.2.5, 6.3.4
+- forbid vb: 6.6.2
+- force n: 7.6.7
+- foreign adj: 7.1.8, 7.5.4
+- foreigner n: 7.1.8
+- forename n:7.1.1
+- forest n: 7.2.7
+- forget vb: 5.2.7.2, 5.2.52.6
+- forgive vb: 5.2.51.4
+- fork n:7.9.5
+- form n:7.5.5
+- formerly adv: 6.3.13
+- fortnight n: 6.3.2
+- free adj: 7.3.2, 7.4.1, 7.5.7
+- freeze vb: 6.2.8.7, 7.14.1
+- French adj: 7.13.1
+- fresh(ly) adj and adv: 7.10.1
+- fridge n:7.2.6
+- friend n: 7.6.1, 7.6.3
+- frightened adj: 5.2.46.2, 5.2.48.1
+- from prep: 6.2.5, 6.2.6, 6.3.24, 7.1.9
+- front n: 6.2.2, 7.4.4
+- frontier n:7.5.7
+- frost n:7.14.1
+- fruit n:7.10.1
+- fruit juice n:7.10.1
+- fry vb: 7.10.1
+- full adj: 6.5.1.16, 7.5.5, 7.11.9
+- furnished adj: 7.2.1
+- furniture n: 7.2.3
+- Giasiz)
+- gale n: 7.14.1
+- gallery n: 7.4.5
+- gallon n: 6.2.8.5
+- game n: 7.4.7
+- garage n: 7.2.6, 7.11.8
+- garden n: 7.2.2
+- gardening n: 7.4.2
+- gas n:7.2.5
+- gate n:7.5.1
+- generous adj: 7.1.14
+- gentleman n: 5.5.1.1.1, 7.1.6
+- geography n: 7.8.2
+- German adj: 7.13.1
+- get vb: 6.3.27, 6.7.5.1, 7.6.3
+- get at vb: 6.5.1.12
+- get up vb: 6.2.4, 7.3.1
+- girl n: 7.1.6
+- girtl-friend n: 7.6.1
+- give vb: 5.3.9.3, 6.7.5.1, 7.5.3
+- glad adj: 5.2.29.5, 5.3.11.4
+- glass n: 6.4.2, 6.5.1.14, 7.9.5
+- glasses n pl: 7.7.5
+- g0 vb: 6.2.4, 6.3.24, 7.5.1
+- go for vb: 7.4.2
+
+<!-- el:end id=prose_p169 -->

@@ -1,0 +1,98 @@
+<!-- el:start type=prose id=prose_p108 page=108 -->
+<!-- vision: Waystage PDF page 108 -->
+
+- **she** *pron*: 3.1.1
+- **sheet** *n*: 5.2.2
+- **shirt** *n*: 5.8.3
+- **shoe** *n*: 5.8.3
+- **shop** *n*: 5.1.10, 5.8.1
+- **shop** *vb*: 5.3.1, 5.8.1
+- **short** *adj*: 4.2.8.1, 4.2.8.2, 4.3.4, 5.1.15
+- **should** *vb*: 3.3.7
+- **show** *n*: 5.4.4
+- **show** *vb*: 5.8.1
+- **shower** *n*: 5.2.4
+- **silver** *n* and *adj*: 4.5.1.13
+- **since** *prep*: 4.3.4, 4.3.24
+- **sincerely** *adv*: 3.5.11
+- **sing** *vb*: 5.4.4
+- **single** *adj*: 5.5.1, 5.5.5
+- **sister** *n*: 5.1.12
+- **sit (down)** *vb*: 4.2.4
+- **size** *n*: 4.2.8.1
+- **skirt** *n*: 5.8.3
+- **sleep** *vb*: 5.7.2
+- **slice** *n*: 5.9.1
+- **slim** *adj*: 5.1.15
+- **slow** *adj*: 4.3.16
+- **slowly** *adv*: 3.6.10, 4.7.3.8
+- **small** *adj*: 4.2.8.1, 4.2.8.6
+- **smoke** *vb*: 5.5.1
+- **snack** *n*: 5.9.1
+- **snow** *n* and *vb*: 5.13.1
+- **so** *adv*: 3.5.5, 4.7.6.5, 4.8.1.2
+- **soap** *n*: 5.7.3
+- **sock** *n*: 5.8.3
+- **soft** *adj*: 4.5.1.7
+- **some** *adj* and *pron*: 4.4.2, 4.8.2
+- **someone** *pron*: 4.8.2
+- **something** *pron*: 4.8.2
+- **sometimes** *adv*: 4.3.17, 4.8.2
+- **somewhere** *adv*: 4.2.1, 4.8.2
+- **son** *n*: 5.1.12
+- **song** *n*: 5.4.3
+- **soon** *adv*: 3.5.6, 4.3.3, 4.3.11
+- **sorry** *adj*: 3.2.30, 3.2.34, 3.5.3, 3.6.1, 3.6.2, 3.6.3, 3.6.4
+- **soup** *n*: 5.9.1
+- **south** *n*, *adj* and *adv*: 4.2.1, 4.2.5
+- **Spanish** *n*: 5.12.1
+- **speak** *vb*: 3.6.10, 4.6.2, 5.12.1
+- **spell** *vb*: 3.6.6
+- **spoon** *n*: 5.8.4
+- **sport** *n*: 5.4.6
+- **sports** *n pl*: 5.4.2, 5.4.6
+- **spring** *n*: 4.3.2
+- **square** *n*: 5.1.2
+- **square** *adj*: 4.5.1.1
+- **stair** *n*: 5.2.1
+- **stamp** *n*: 5.6.2
+- **stand** *vb*: 4.2.4
+- **start** *vb*: 4.3.24
+- **station** *n*: 5.5.1, 5.10.5
+- **stay** *vb*: 4.3.26
+- **steal** *vb*: 5.10.5
+- **still** *adv*: 4.3.12
+- **stomach** *n*: 5.7.1
+- **stop** *n*: 5.5.1
+- **stop** *vb*: 4.2.4, 4.3.25, 5.5.3
+- **straight** *adj*: 4.2.5
+- **straight on** *adv*: 4.2.5
+- **strange** *adj*: 4.5.2.9
+- **street** *n*: 5.1.2, 5.5.3
+- **strong** *adj*: 4.5.1.7
+- **student** *n*: 5.1.11
+- **study** *vb*: 5.1.11, 5.4.5
+- **such** *adj*: 4.8.1.1
+- **suddenly** *adv*: 4.3.27
+- **sugar** *n*: 5.9.1
+- **suitcase** *n*: 5.5.6
+- **summer** *n*: 4.3.2
+- **sun** *n*: 5.13.1
+- **Sunday** *n*: 4.3.17
+- **supermarket** *n*: 5.8.1
+- **supper** *n*: 5.3.1, 5.9.1
+- **suppose** *vb*: 3.2.9(c)
+- **sure** *adj*: 3.2.9(a), 3.2.9(d), 3.2.10, 4.6.1
+- **surname** *n*: 5.1.1
+- **swimming** *n*: 5.4.6
+
+### T [ti:]
+
+- **table** *n*: 5.2.2
+- **take** *vb*: 4.2.5, 4.3.4
+- **take off** *vb*: 5.8.3
+- **talk** *vb*: 3.5.6, 3.5.8, 4.6.2, 5.6.1
+- **tall** *adj*: 4.2.8.1, 5.1.15
+- **tax** *n*: 5.3.2
+
+<!-- el:end id=prose_p108 -->

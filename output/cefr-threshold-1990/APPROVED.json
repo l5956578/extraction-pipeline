@@ -1,7 +1,7 @@
 {
-  "approved_version": "003",
-  "approved_at": "2026-07-31T18:11:59.951846+00:00",
-  "path": "versions/003/Threshold_1990.md",
+  "approved_version": "004",
+  "approved_at": "2026-07-31T18:59:31.773366+00:00",
+  "path": "versions/004/Threshold_1990.md",
   "product": "cefr-threshold-1990",
-  "notes": "Format pass v3: real lists/paragraphs/headers; PDF-like intonation marks"
+  "notes": "All pages via Vision page_overrides (585 pages across 3 books)"
 }

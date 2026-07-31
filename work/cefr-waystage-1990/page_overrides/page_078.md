@@ -1,56 +1,45 @@
 <!-- el:start type=prose id=prose_p078 page=78 -->
-<!-- db:id=waystage_nuclear_tone_uses_lf_hf type=section_block product_tier=context pages=78 -->
+<!-- vision: Waystage PDF page 78 -->
 
-ii) for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
+ii) for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.  
+That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
 
-> That's 'quite [LF]right. You 'must -eat your [LF]dinner.
+b) in interrogative sentences answerable by *yes* or *no*
 
-**b) in interrogative sentences answerable by *yes* or *no***
+i) in tag questions, to invite agreement to a statement that is not in doubt;  
+ˈThis ·tastes ˎnice, | ˎdoesn't it?
 
-i) in tag questions, to invite agreement to a statement that is not in doubt;
+ii) in choice questions, to indicate that the list of options is closed.  
+ˈWould you prefer ˎtea | or ˎcoffee?
 
-> 'This -tastes [LF]nice, | [LF]doesn't it?
+c) in *wh* questions as a definite request for a piece of information  
+ˈWhere is the ˎtoilet, ·please?
 
-ii) in choice questions, to indicate that the list of options is closed.
+d) in imperative sentences
 
-> 'Would you prefer [LF]tea | or [LF]coffee?
+i) as a direct order or prohibition;  
+ˈSit ˎdown. ˈDon't ˎsmoke in ·here, ·please.
 
-**c) in *wh* questions** as a definite request for a piece of information
+ii) as an instruction;  
+ˎPush | to ˈopen the ˎdoor.
 
-> 'Where is the [LF]toilet, -please?
+iii) as a strong form of offer.  
+ˈHave ·one of ˎmy ciga·rettes.
 
-**d) in imperative sentences**
+2 **High falling** [ˋ] is used
 
-i) as a direct order or prohibition;
+a) in declarative sentences
 
-> 'Sit [LF]down. 'Don't -smoke in -here, -please.
+i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;  
+That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
 
-ii) as an instruction;
+ii) to indicate contrast with an element previously mentioned or believed to be in the listener's mind.  
+ˋElbruz is the ·highest ·mountain in ·Europe (not Mont Blanc).
 
-> [LF]Push | to 'open the [LF]door.
+b) in rhetorical questions of an exclamatory type, to which no answer is sought  
+ˈIsn't she ˋbeautiful?
 
-iii) as a strong form of offer.
-
-> 'Have -one of -my ciga[LF]rettes.
-
-#### 2 High falling **[HF]** `[']` is used
-
-**a) in declarative sentences**
-
-i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;
-
-> That's [HF]excellent! You are [HF]hurting me! 'Fancy [HF]that!
-
-ii) to indicate contrast with an element previously mentioned or believed to be in the listener's mind.
-
-> [HF]Elbruz is the -highest -mountain in -Europe (not Mont Blanc).
-
-**b) in rhetorical questions** of an exclamatory type, to which no answer is sought
-
-> 'Isn't she [HF]beautiful?
-
-**c) in imperative sentences** to indicate the urgency of an instruction (e.g. because of imminent danger)
-
-> [HF]Stop. 'Don't [HF]move.
+c) in imperative sentences to indicate the urgency of an instruction (e.g. because of imminent danger)  
+ˋStop. ˈDon't ˋmove.
 
 <!-- el:end id=prose_p078 -->

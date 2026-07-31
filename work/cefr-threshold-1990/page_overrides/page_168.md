@@ -1,0 +1,92 @@
+<!-- el:start type=prose id=prose_p168 page=168 -->
+<!-- vision: Threshold PDF page 168 -->
+
+- drink n and vb: 7.10.1
+- drive vb: 7.5.2, 7.5.7
+- driver n: 7.5.1, 7.5.2
+- driving licence n: 7.5.8
+- drugs n: 7.6.6
+- dry adj and vb: 6.5.1.3
+- dull adj: 6.5.1.9
+- during prep: 6.3.4
+- dust vb: 6.5.1.13
+- Dutch adj: 7.13.1
+- duty n: 7.5.7
+- duty-free adj: 7.5.7
+- E ti
+- each adj: 6.4.2, 6.8.2
+- early adj: 6.3.5
+- earn vb: 7.3.3
+- east n: 6.2.1, 6.2.5
+- easy adj: 6.5.2.13
+- eat vb: 7.10.1
+- economics n: 7.8.2
+- education n: 7.8.1
+- egg n:7.10.1
+- either conj: 6.7.6.1
+- elect vb: 7.6.5
+- election n:7.6.5
+- electricity n: 7.2.5
+- else adv: 5.5.10.1, 5.5.11.1, 6.7.4.1
+- embassy n: 7.11.6
+- emergency n: 7.4.4
+- employee n: 7.1.10
+- employer n: 7.1.10
+- empty adj: 6.5.1.16, 7.11.9
+- end vb and n: 6.2.2, 6.3.9, 6.3.25
+- enemy n: 7.6.7
+- engine n: 7.11.8
+- English n and adj: 5.6.9.3, 5.6.10.1, 5.6.10.2, 7.13.1
+- enjoy vb: 5.2.32.2, 5.2.33.4, 5.2.34.1
+- enough adj and adv: 5.2.35.5.4, 5.2.36.8, 6.4.2, 6.4.3, 6.5.2.5
+- enquiry n: 7.5.1
+- entrance n: 7.4.4, 7.8.3
+- envelope n: 7.6.3
+- er... int: 5.5.2.1.1, 5.6.10.6
+- especially adv: 5.5.8.4.1
+- EU n: 7.6.5
+- Europe n: 7.5.4
+- European Union n: 7.6.5
+- even adv: 6.4.3
+- evening n: 5.4.2.2, 6.3.2
+- ever adv: 5.2.4.3, 6.3.17
+- every adj: 6.3.17
+- everybody pron: 6.8.2
+- everything pron: 6.8.2
+- everywhere adv: 6.2.1, 6.8.2
+- exactly adv: 5.2.1.5, 5.5.3.4
+- examination n: 7.8.3
+- example n: 5.5.7.1
+- excellent adj: 5.2.54.2, 6.5.2.2
+- except prep: 6.7.6.3
+- excuse vb: 5.2.51.7, 5.4.1.1, 5.5.14.1
+- exhibition n: 7.4.5
+- exist vb: 6.1.1
+- exit n: 7.4.4, 7.5.3
+- expect vb: 5.2.42.3, 5.2.43.2, 7.6.2
+- expensive adj: 6.5.2.1
+- explain vb: 5.6.6.4, 7.13.1
+- Fret)
+- fact n:5.5.8.4.5
+- factory n: 7.1.10, 7.2.7
+- fail vb: 6.5.2.8, 7.8.3
+- failure n: 6.5.2.8
+- fair adj: 7.1.15
+- faithfully adv: 5.5.28.2
+- fall vb: 6.2.4, 7.7.4
+- false adj: 6.5.2.7
+- family n: 7.1.1, 7.1.11
+- fancy (that)! int: 5.2.41.3, 5.2.41.7
+- far adv: 5.1.4.2.1, 6.2.3
+- fare n:7.5.1
+- farm n: 7.1.10, 7.2.7
+- farm worker n: 7.1.10
+- farmland n:7.2.7
+- fast adv: 5.6.11.2, 6.3.16, 6.7.3.9, 7.5.1
+- fasten vb: 6.5.1.11
+- fat adj: 7.1.15
+- father n:7.1.11
+- fax n and vb: 7.11.3
+- feel vb: 5.2.29.3, 5.2.30.3, 5.2.31.2, 7.7.2, 7.74
+
+<!-- el:end id=prose_p168 -->

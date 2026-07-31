@@ -1,0 +1,80 @@
+<!-- el:start type=prose id=prose_p186 page=186 -->
+<!-- vision: Threshold PDF page 186 -->
+
+- disagreement enquiring about 5.2.3
+  - expressing 5.2.2
+- disappointment expressing 5.2.45
+- disapproval enquiring about 5.2.56
+  - expressing 5.2.55
+- discourse, structuring 5.5
+- closing conversation 5.5.20
+- closing letter 5.5.28
+  - indicating one is coming to an end
+- 5.5.19
+- letter writing 5.5.27-28
+- opening conversation 5.5.1
+- opening letter 5.5.27
+- opening on telephone 5.5.21
+- showing one is following what is said 5.5.13
+- showing one is following what is said on telephone 5.5.25 .
+- telephone conversation 5.5.21-26 :
+- disjunction logical relation 6.7.6.2
+- dislikes : enquiring about 5.2.34 1
+  - expressing 5.2.33 1
+- displeasure 1 enquiring about 5.2.31 1
+  - expressing 5.2.30
+- disposition 7.1.14
+- dissatisfaction 1 enquiring about 5.2.37 1
+  - expressing 5.2.36 1
+- distance 6.2.3 1
+- documents 1 travel 7.5.8
+- drinking out 7.10.2 §
+- drinks 7.10.1 §
+- duration 6.3.4 §
+- earliness 6.3.5 §
+- eating and drinking out 7.10.2
+- education 7.8
+- effect 6.7.6.5 f
+- emotional expressions 5.2.29-57
+- emphasising 5.5.8
+- encouraging someone to continue 5.5.18
+  - someone to do something 5.3.6
+- entertainment 7.4
+- enumerating 5.5.6
+- environment 7.2
+- equality 6.7.4.1
+- evaluative qualities 6.5.2
+- event/action relations 6.7.3
+- exclusion 6.7.6.3
+- exemplifying 5.5.7
+- exhibitions 7.4.5
+- existence 6.1.1-4
+- expression 6.6.2
+- facility 6.5.2.13
+- factitive action/event relation 6.7.3.2
+- family 7.1.11
+- fashion 7.9.3
+- fauna 7.2.8
+- fear enquiring about 5.2.48
+  - expressing 5.2.46
+- flora 7.2.8
+- focusing 6.7.6.9
+- food(stuffs) 7.10.1
+- food and drink 7.10
+- forgetting enquiring about 5.2.8
+  - expressing 5.2.7
+- Tee time 7.4
+- Tequency 6.3.17
+- ullness 6.5.1.16
+- urniture 7.2.3
+- uture reference 6.3.11
+- jarage 7.11.8
+- yenuineness 6.5.1.15
+- siving over the floor 5.5.16
+- overnment 7.6.5
+- ratitude expressing 5.2.49
+- reacting to expression of 5.2.50
+- replying to 5.4.4
+  - someone 5.4.2
+
+<!-- el:end id=prose_p186 -->

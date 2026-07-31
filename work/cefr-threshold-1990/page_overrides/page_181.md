@@ -1,0 +1,90 @@
+<!-- el:start type=prose id=prose_p181 page=181 -->
+<!-- vision: Threshold PDF page 181 -->
+
+- U {ju:]
+- ugh! int: 5.2.33.1
+- ugly adj: 7.1.15
+- uh-huh int: 5.5.13.3
+- unable adj: 5.2.17.3
+- uncle n: 7.1.11
+- under prep: 6.2.2
+- underground n and adj: 7.5.1
+- understand vb: 5.6.1.1, 5.6.14.2, 7.13.1
+- underwear n: 7.9.3
+- undressed adj: 7.3.1
+- unemployment n: 7.3.2
+- unfortunately adv: 5.3.12.4
+- ungenerous adj: 7.1.14
+- unhappy adj: 5.2.30.3
+- unimportant adj: 6.5.2.11
+- unintelligent adj: 7.1.14
+- university n: 7.8.1
+- unleaded adj: 7.11.9
+- unpleasant adj: 6.5.1.7, 7.1.14
+- unsuccessful adj: 6.5.2.8
+- until prep: 6.3.4, 6.3.25
+- up adv and prep: 6.2.5
+- upstairs adv: 7.2.2 ‘us pron: 5.1.1.1
+- use vb and n: 6.5.2.9
+- useful adj: 6.5.2.9
+- useless adj: 6.5.2.9
+- usually adv: 6.3.17
+- Vivi
+- valley n: 7.2.7
+- van 1: 7.5.2
+- vanilla n: 7.10.1
+- veal n: 7.10.1
+- vegetable adj and n:7.10.1
+- very adv: 6.4.3
+- victim n: 7.6.6
+- victory n:7.6.7
+- video recorder n: 7.4.3
+- videotape n: 7.4.3
+- Vienna n:7.1.2
+- view n: 5.5.12.2, 7.5.5
+- village n: 7.1.2
+- vinegar n: 7.10.1
+- violin n: 7.4.4
+- visa n: 7.5.7
+- visit n and vb: 7.5.4, 7.6.2
+- vote vb: 7.6.5
+- W caadiju:]
+- wages n: 7.3.3
+- wait vb: 6.3.26, 7.5.3
+- waiter n: 7.10.2
+- waiting-room n: 7.5.1
+- waitress n: 7.10.2
+- wake up vb: 7.3.1, 7.7.2
+- walk n and vb: 6.2.4, 7.4.2
+- walkman n: 7.4.3
+- wall n: 7.2.2
+- wallet n: 7.9.3
+- want vb: 5.2.23, 5.2.24.3, 5.2.35.4, 5.2.36.3, 5.2.36.4, 5.2.37.4
+- war ni: 7.6.7
+- ward n: 7.7.5
+- warm adj: 6.2.8.7
+- wash vb: 6.5.1.13, 7.2.6, 7.3.1, 7.7.3
+- wash up vb: 7.3.1
+- washing machine n: 7.2.6
+- watch n: 7.9.3
+- watch vb: 6.5.1.4, 7.4.3, 7.4.7
+- water n: 7.2.5, 7.2.7, 7.10.1
+- way 1: 6.7.3.9
+- WO. 1: 7.2.2, 7.4.4
+- we pron: 5.1.1.1
+- weak adj: 6.5.1.8 ‘weapon n: 7.6.7
+- wear vb: 7.9.3
+- weather n: 7.14.1
+- week n: 6.3.2, 6.3.13, 6.3.17
+- weekday n: 6.3.17
+- weekend n: 6.3.2
+- weekly adj and adv: 6.3.17
+- weigh vb: 6.2.8.4
+- weight n: 6.2.8.4
+- welfare n: 7.6.8
+- well adj: 5.4.4.1.2, 6.5.1.11, 7.7.2
+- well adv: 5.2.42.1, 5.4.4.2.1, 5.5.1.3.3, 6.5.2.2, 6.7.3.9, 7.13.1
+- well done! int: 5.2.54.3, 5.4.10.2
+- were vb: 5.3.4.4
+
+<!-- el:end id=prose_p181 -->

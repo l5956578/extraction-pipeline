@@ -1,66 +1,66 @@
 <!-- el:start type=prose id=prose_p125 page=125 -->
-<!-- db:id=threshold_nuclear_tone_uses_lf_hf type=section_block product_tier=context pages=125 -->
+<!-- vision: Threshold PDF page 125 -->
 
 statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
 
-> That's 'quite [LF]right. You 'must -eat your [LF]dinner.
+> That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
 
 **b) in interrogative sentences answerable by *yes* or *no***
 
 i) in interrogation, to indicate that an answer is demanded;
 
-> 'Have you -seen this -man be[LF]fore?
+> ˈHave you ·seen this ·man beˎfore?
 
 ii) in requests to indicate that they are in effect orders;
 
-> 'May I -see your -driving -licence, -please? -Will you 'please be [LF]quiet.
+> ˈMay I ·see your ·driving ·licence, ·please? ·Will you ˈplease be ˎquiet.
 
 iii) when a series of *yes/no* questions is posed in rapid succession;
 
-> 'Is it [LF]red? 'Can you [LF]eat it? 'Is it a [LF]cabbage?
+> ˈIs it ˎred? ˈCan you ˎeat it? ˈIs it a ˎcabbage?
 
 iv) in tag questions, to invite agreement to a statement that is not in doubt;
 
-> 'This -tastes [LF]nice, | [LF]doesn't it?
+> ˈThis ·tastes ˎnice, | ˎdoesn't it?
 
 v) in choice questions, to indicate that the list of options is closed.
 
-> 'Would you prefer [LF]tea | or [LF]coffee?
+> ˈWould you prefer ˎtea | or ˎcoffee?
 
 **c) in *wh* questions** as a definite request for a piece of information
 
-> 'Where is the [LF]toilet, -please?
+> ˈWhere is the ˎtoilet, ·please?
 
 **d) in imperative sentences**
 
 i) as a direct order or prohibition;
 
-> 'Sit [LF]down. 'Don't -smoke in [LF]here, -please.
+> ˈSit ˎdown. ˈDon't ·smoke in ˎhere, ·please.
 
 ii) as an instruction;
 
-> [LF]Push to 'open the [LF]door.
+> ˎPush to ˈopen the ˎdoor.
 
 iii) as a strong form of offer.
 
-> 'Have -one of -my ciga[LF]rettes.
+> ˈHave ·one of ·my cigaˎrettes.
 
-#### 2 High falling **[HF]** `[']` is used
+#### 2 High falling **ˋ** is used
 
 **a) in declarative sentences**
 
 i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;
 
-> That's [HF]excellent! You are [HF]hurting me! 'Fancy [HF]that!
+> That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
 
 ii) to indicate contrast with an element previously mentioned or believed to be in the listener's mind.
 
-> [HF]No, | Mount [HF]Elburz is the -highest -mountain in -Europe.
+> ˋNo, | Mount ˋElburz is the ·highest ·mountain in ·Europe.
 
 **b) in interrogative sentences**, both those answerable by *yes* or *no* and *wh* questions
 
 i) to insist on an answer being given;
 
-> 'Did you [HF]post -that -letter?
+> ˈDid you ˋpost ·that ·letter?
 
 <!-- el:end id=prose_p125 -->

@@ -4,55 +4,107 @@
 # Common European Framework of Reference for Languages: Learning, teaching, assessment (2001)
 
 <!-- source: input/cefr-en-2001/source.pdf -->
-<!-- extraction: layout-aware Vision/OCR format (Companion conventions) -->
+<!-- extraction: layout-aware + Vision page_overrides (Companion conventions) -->
 <!-- intonation marks: LF=ˎ HF=ˋ LR=ˏ HR=ˊ FR=ˇ head=ˈ stress=· -->
 <!-- el:end id=prose_p001_doc -->
 
 <!-- el:start type=prose id=prose_p001 page=1 -->
-COMMON EUROPEAN FRAMEWORK
+<!-- db:id=cefr2001_title_page type=section product_tier=context pages=1 -->
+<!-- vision: full-page title (PDF page 1) -->
 
-OF REFERENCE FOR LANGUAGES:
+**Council of Europe / Conseil de l'Europe**
 
-LEARNING, TEACHING, ASSESSMENT
+# COMMON EUROPEAN FRAMEWORK OF REFERENCE FOR LANGUAGES: LEARNING, TEACHING, ASSESSMENT
 
-Language Policy Unit, Strasbourg www.coe.int/lang-CEFR
+Language Policy Unit, Strasbourg
+
+www.coe.int/lang-CEFR
+
+<!-- Cover illustration (blue book front) appears top-left on PDF page 1; CoE logo top-right. -->
+<!-- source render: work/cefr-en-2001/page_renders/page_001.png -->
+
 <!-- el:end id=prose_p001 -->
 
 *Page **1***
 
 <!-- page:1 -->
 
-<!-- el:start type=prose id=prose_p002 page=2 -->
+<!-- el:start type=toc id=toc_p002 page=2 -->
+<!-- db:id=cefr2001_contents type=toc product_tier=context pages=2 -->
+<!-- vision: CONTENTS page — one entry per line (PDF page 2) -->
+
 ## CONTENTS
 
-Prefatory Note Notes for the user Synopsis Chapter 1: The Common European Framework in its political and educational context Chapter 2: Approach adopted Chapter 3: Common Reference Levels Chapter 4: Language use and the language user/learner Chapter 5: The user/learner’s competences Chapter 6: Language learning and teaching Chapter 7: Tasks and their role in language teaching Chapter 8: Linguistic diversification and the curriculum Chapter 9: Assessment General Bibliography Appendix A: developing proficiency descriptors Appendix B: The illustrative scales of descriptors Appendix C: The DIALANG scales Appendix D: The ALTE ‘Can Do’ statements Index
-<!-- el:end id=prose_p002 -->
+**Prefatory Note**
+
+**Notes for the user**
+
+**Synopsis**
+
+**Chapter 1:** The Common European Framework in its political and educational context
+
+**Chapter 2:** Approach adopted
+
+**Chapter 3:** Common Reference Levels
+
+**Chapter 4:** Language use and the language user/learner
+
+**Chapter 5:** The user/learner’s competences
+
+**Chapter 6:** Language learning and teaching
+
+**Chapter 7:** Tasks and their role in language teaching
+
+**Chapter 8:** Linguistic diversification and the curriculum
+
+**Chapter 9:** Assessment
+
+**General Bibliography**
+
+**Appendix A:** developing proficiency descriptors
+
+**Appendix B:** The illustrative scales of descriptors
+
+**Appendix C:** The DIALANG scales
+
+**Appendix D:** The ALTE ‘Can Do’ statements
+
+**Index**
+
+<!-- el:end id=toc_p002 -->
 
 *Page **2***
 
 <!-- page:2 -->
 
 <!-- el:start type=prose id=prose_p003 page=3 -->
-PREFATORY NOTE This restructured version of the Common European Framework of reference for language learning, teaching and assessment represents the latest stage in a process which has been actively pursued since 1971 and owes much to the collaboration of many members of the teaching profession across Europe and beyond. The Council of Europe therefore acknowledges with gratitude the contribution made by:
+<!-- db:id=cefr2001_prefatory_note type=section product_tier=context pages=3 -->
+<!-- vision: Prefatory Note — header separate; bullets; two closing paragraphs (PDF page 3) -->
 
-- The Project Group Language Learning for European Citizenship, representing all member countries of the Council for Cultural Co-operation with Canada as a participating observer, for their general oversight of its development.
+## PREFATORY NOTE
+
+This restructured version of the Common European Framework of reference for language learning, teaching and assessment represents the latest stage in a process which has been actively pursued since 1971 and owes much to the collaboration of many members of the teaching profession across Europe and beyond.
+
+The Council of Europe therefore acknowledges with gratitude the contribution made by:
+
+- The Project Group *Language Learning for European Citizenship*, representing all member countries of the Council for Cultural Co-operation with Canada as a participating observer, for their general oversight of its development.
 
 - The Working Party set up by the Project Group, with twenty representatives from member countries representing the different professional interests concerned, as well as representatives of the European Commission and its LINGUA programme, for their invaluable advice and supervision of the project;
 
-- The Authoring Group set up by the Working Party, consisting of Dr. J.L.M. Trim (Project
+- The Authoring Group set up by the Working Party, consisting of Dr. J.L.M. Trim (Project Director), Professor D. Coste (Ecole Normale Supérieure de Fontenay/Saint Cloud, CREDIF, France), Dr. B. North (Eurocentres Foundation, Switzerland) together with Mr. J. Sheils (Secretariat). The Council of Europe expresses its thanks to the institutions mentioned for making it possible for the experts concerned to contribute to this important work.
 
-Director), Professor D. Coste (Ecole Normale Supérieure de Fontenay/Saint Cloud, CREDIF, France), Dr. B. North (Eurocentres Foundation, Switzerland) together with Mr. J. Sheils (Secretariat). The Council of Europe expresses its thanks to the institutions mentioned for making it possible for the experts concerned to contribute to this important work.
-
-- The Swiss National Science Foundation for their support of the work by Dr B. North and
-
-Professor G. Schneider (University of Fribourg) to develop and scale descriptors of language proficiency for the Common Reference Levels.
+- The Swiss National Science Foundation for their support of the work by Dr B. North and Professor G. Schneider (University of Fribourg) to develop and scale descriptors of language proficiency for the Common Reference Levels.
 
 - The Eurocentres Foundation for making available their experience in defining and scaling levels of language proficiency.
+
 - The U. S. National Foreign Languages Center for providing Mellon Fellowships to Dr Trim and Dr North which facilitated their contribution.
 
 - The many colleagues and institutions across Europe, who responded, often with great care and in concrete detail, to the request for feedback on earlier drafts.
 
-The feedback received has been taken into account in revising the Framework and User Guides prior to their adoption on a Europe-wide basis. This revision was carried out by Dr J.L.M. Trim and Dr B. North.
+The feedback received has been taken into account in revising the Framework and User Guides prior to their adoption on a Europe-wide basis.
+
+This revision was carried out by Dr J.L.M. Trim and Dr B. North.
+
 <!-- el:end id=prose_p003 -->
 
 *Page **3***
@@ -60,7 +112,9 @@ The feedback received has been taken into account in revising the Framework and 
 <!-- page:3 -->
 
 <!-- el:start type=prose id=prose_p004 page=4 -->
-NOTES FOR THE USER The aim of these notes is to help you to use the Common European Framework for language learning, teaching and assessment more effectively, either as a language learner or as a member of one of the professions concerned with language teaching and assessment. They will not be concerned with specific ways in which teachers, examiners, textbook writers, teacher trainers, educational administrators, etc. may use the Framework. These are the subject of special guidance addressed to the particular category of user concerned, contained in a fuller User Guide available from the Council of Europe, which can also be consulted on its website. These notes are meant as a first introduction to the Framework for all its users. You may, of course, use the Framework document in any way you wish, as with any other publication. Indeed, we hope that some readers may be stimulated to use it in ways we have not foreseen. However, it has been written with two main aims in mind:
+## NOTES FOR THE USER
+
+The aim of these notes is to help you to use the Common European Framework for language learning, teaching and assessment more effectively, either as a language learner or as a member of one of the professions concerned with language teaching and assessment. They will not be concerned with specific ways in which teachers, examiners, textbook writers, teacher trainers, educational administrators, etc. may use the Framework. These are the subject of special guidance addressed to the particular category of user concerned, contained in a fuller User Guide available from the Council of Europe, which can also be consulted on its website. These notes are meant as a first introduction to the Framework for all its users. You may, of course, use the Framework document in any way you wish, as with any other publication. Indeed, we hope that some readers may be stimulated to use it in ways we have not foreseen. However, it has been written with two main aims in mind:
 
 1. To encourage practitioners of all kinds in the language field, including language learners themselves, to reflect on such questions as:
 
@@ -115,7 +169,7 @@ open new possibilities, not to pre-empt decisions” (ibid). It is already clear
 <!-- page:7 -->
 
 <!-- el:start type=prose id=prose_p008 page=8 -->
-SYNOPSIS
+## SYNOPSIS
 
 Chapter 1 defines the aims, objectives and functions of the proposed Framework in the light of the overall language policy of the Council of Europe and in particular the promotion of plurilingualism in response to European linguistic and cultural diversity. It then sets out the criteria which the Framework should satisfy
 
@@ -211,10 +265,7 @@ A. General measures 1. To ensure, as far as possible, that all sections of their
 
 The preamble to R(98)6 reaffirms the political objectives of its actions in the field of modern languages:
 
-- To equip all Europeans for the challenges of intensified international mobility and closer co-operation not only in education, culture and science but also in trade and industry.
-- To promote mutual understanding and tolerance, respect for identities and cultural diversity through more effective international communication.
-- To maintain and further develop the richness and diversity of European cultural life through greater mutual knowledge of national and regional languages, including those less widely taught.
-- To meet the needs of a multilingual and multicultural Europe by appreciably developing the ability of Europeans to communicate with each other across linguistic and cultural boundaries, which requires a sustained, lifelong effort to be encouraged, put on an organised footing and financed at all levels of education by the competent bodies.
+- To equip all Europeans for the challenges of intensified international mobility and closer co-operation not only in education, culture and science but also in trade and industry. - To promote mutual understanding and tolerance, respect for identities and cultural diversity through more effective international communication. - To maintain and further develop the richness and diversity of European cultural life through greater mutual knowledge of national and regional languages, including those less widely taught. - To meet the needs of a multilingual and multicultural Europe by appreciably developing the ability of Europeans to communicate with each other across linguistic and cultural boundaries, which requires a sustained, lifelong effort to be encouraged, put on an organised footing and financed at all levels of education by the competent bodies.
 
 The Common European Framework in its political and educational context
 <!-- el:end id=prose_p012 -->
@@ -289,6 +340,7 @@ The planning of language learning programmes in terms of:
 The planning of language certification in terms of:
 
 - the content syllabus of examinations;
+
 - assessment criteria, in terms of positive achievement rather than negative deficiencies.
 
 The planning of self-directed learning, including:
@@ -327,12 +379,8 @@ By ‘transparent’ is meant that information must be clearly formulated and ex
 
 By ‘coherent’ is meant that the description is free from internal contradictions. With regard to educational systems, coherence requires that there is a harmonious relation among their components:
 
-- the identification of needs;
-- the determination of objectives;
-- the definition of content;
-- the selection or creation of material;
-- the establishment of teaching/learning programmes;
-- the teaching and learning methods employed;
+- the identification of needs; - the determination of objectives; - the definition of content; - the selection or creation of material; - the establishment of teaching/learning programmes; - the teaching and learning methods employed;
+
 - evaluation, testing and assessment.
 
 The construction of a comprehensive, transparent and coherent framework for language learning and teaching does not imply the imposition of one single uniform system. On the contrary, the framework should be open and flexible, so that it can be applied, with such adaptations as prove necessary, to particular situations. CEF should be:
@@ -386,8 +434,8 @@ Language use, embracing language learning, comprises the actions performed by pe
 - Language processes refer to the chain of events, neurological and physiological, involved in the production and reception of speech and writing.
 - Text is any sequence or discourse (spoken and/or written) related to a specific domain and which in the course of carrying out a task becomes the occasion of a language activity, whether as a support or as a goal, as product or process.
 - Domain refers to the broad sectors of social life in which social agents operate. A higher order categorisation has been adopted here limiting these to major categories relevant to language learning/teaching and use: the educational, occupational, public and personal domains.
-- A strategy is any organised, purposeful and regulated line of action chosen by an individual to carry out a task which he or she sets for himself or herself or with which he or she is confronted.
-- A task is defined as any purposeful action considered by an individual as necessary in order to achieve a given result in the context of a problem to be solved, an obligation to fulfil or an objective to be achieved. This definition would cover a wide range of actions such as moving a wardrobe, writing a book, obtaining certain conditions in the negotiation of a contract, playing a game of cards, ordering a meal in a restaurant, translating a foreign language text or preparing a class newspaper through group work.
+
+- A strategy is any organised, purposeful and regulated line of action chosen by an individual to carry out a task which he or she sets for himself or herself or with which he or she is confronted. - A task is defined as any purposeful action considered by an individual as necessary in order to achieve a given result in the context of a problem to be solved, an obligation to fulfil or an objective to be achieved. This definition would cover a wide range of actions such as moving a wardrobe, writing a book, obtaining certain conditions in the negotiation of a contract, playing a game of cards, ordering a meal in a restaurant, translating a foreign language text or preparing a class newspaper through group work.
 
 If it is accepted that the different dimensions highlighted above are interrelated in all forms of language use and learning, then any act of language learning or teaching is in some way concerned with each of these dimensions: strategies, tasks, texts, an individual’s general competences, communicative language competence, language activities, language processes, contexts and domains.
 
@@ -529,9 +577,11 @@ In addition to the descriptive scheme glossed above, Chapter 3 provides a ‘ver
 The addition of a vertical dimension to the Framework nevertheless enables learning space to be mapped or profiled, even if simply, and this is useful for a number of reasons:
 
 - The development of definitions of learner proficiency related to categories used in the Framework may assist in making more concrete what it may be appropriate to expect at different levels of achievement in terms of those categories. This in turn may aid the development of transparent and realistic statements of overall learning objectives.
+
 - Learning which takes place over a period of time needs to be organised into units which take account of progression and can provide continuity. Syllabuses and materials need to be situated in relation to one another. A framework of levels may help in this process.
 - Learning efforts in relation to those objectives and those units need also to be situated on this vertical dimension of progress, i.e. assessed in relation to gains in proficiency. The provision of proficiency statements may help in this process.
 - Such assessment should take account of incidental learning, of out-of-school experience, of the kind of lateral enrichment outlined above. The provision of a set of proficiency statements going beyond the scope of a particular syllabus may be helpful in this respect.
+
 - The provision of a common set of proficiency statements will facilitate comparisons of objectives, levels, materials, tests and achievement in different systems and situations.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
@@ -542,8 +592,8 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:25 -->
 
 <!-- el:start type=prose id=prose_p026 page=26 -->
-- A framework including both horizontal and vertical dimensions facilitates the definition of partial objectives and the recognition of uneven profiles, partial competencies.
-- A framework of levels and categories facilitating profiling of objectives for particular purposes may aid inspectors. Such a framework may help to assess whether learners are working at an appropriate level in different areas. It may inform decisions on whether performance in those areas represents a standard appropriate to the stage of learning, immediate future goals and wider longer-term goals of effective language proficiency and personal development.
+- A framework including both horizontal and vertical dimensions facilitates the definition of partial objectives and the recognition of uneven profiles, partial competencies. - A framework of levels and categories facilitating profiling of objectives for particular purposes may aid inspectors. Such a framework may help to assess whether learners are working at an appropriate level in different areas. It may inform decisions on whether performance in those areas represents a standard appropriate to the stage of learning, immediate future goals and wider longer-term goals of effective language proficiency and personal development.
+
 - Finally, in their learning career students of the language will pass through a number of educational sectors and institutions offering language services, and the provision of a common set of levels may facilitate collaboration between those sectors. With increased personal mobility, it is more and more common for learners to switch between educational systems at the end of or even in the middle of their period in a particular educational sector, making the provision of a common scale on which to describe their achievement an issue of ever wider concern.
 
 In considering the vertical dimension of the Framework, one should not forget that the process of language learning is continuous and individual. No two users of a language, whether native speakers or foreign learners, have exactly the same competences or develop them in the same way. Any attempt to establish ‘levels’ of proficiency is to some extent arbitrary, as it is in any area of knowledge or skill. However, for practical purposes it is useful to set up a scale of defined levels to segment the learning process for the purposes of curriculum design, qualifying examinations, etc. Their number and height will depend largely on how a particular educational system is organised and for which purposes scales are established. It is possible to set down procedures and criteria for scaling and for the formulation of the descriptors used to characterise successive levels of proficiency. The issues and options concerned are discussed in depth in Appendix A. Users of this framework are strongly advised to consult that section and the supporting bibliography before taking independent policy decisions on scaling.
@@ -616,24 +666,27 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:29 -->
 
 <!-- el:start type=prose id=prose_p030 page=30 -->
-## Common Reference Levels
+<!-- db:id=cefr2001_ch3_levels type=section product_tier=context pages=30-42 -->
+<!-- vision: Chapter 3 opening — book page 21 (PDF page 30) -->
+
+## 3 Common Reference Levels
 
 ### 3.1 Criteria for descriptors for Common Reference Levels
 
 One of the aims of the Framework is to help partners to describe the levels of proficiency required by existing standards, tests and examinations in order to facilitate comparisons between different systems of qualifications. For this purpose the Descriptive Scheme and the Common Reference Levels have been developed. Between them they provide a conceptual grid which users can exploit to describe their system. Ideally a scale of reference levels in a common framework should meet the following four criteria. Two relate to description issues, and two relate to measurement issues:
 
-### Description Issues
+#### Description Issues
 
-- A common framework scale should be context-free in order to accommodate generalisable results from different specific contexts. That is to say that a common scale should not be produced specifically for, let us say, the school context and then applied to adults, or vice-versa. Yet at the same time the descriptors in a common
+- A common framework scale should be *context-free* in order to accommodate generalisable results from different specific contexts. That is to say that a common scale should not be produced specifically for, let us say, the school context and then applied to adults, or vice-versa. Yet at the same time the descriptors in a common Framework scale need to be *context-relevant*, relatable to or translatable into each and every relevant context – and appropriate for the function they are used for in that context. This means that the categories used to describe what learners can do in different contexts of use must be relatable to the target contexts of use of the different groups of learners within the overall target population.
 
-Framework scale need to be context-relevant, relatable to or translatable into each and every relevant context – and appropriate for the function they are used for in that context. This means that the categories used to describe what learners can do in different contexts of use must be relatable to the target contexts of use of the different groups of learners within the overall target population.
+- The description also needs to be *based on theories* of language competence. This is difficult to achieve because the available theory and research is inadequate to provide a basis for such a description. Nevertheless, the categorisation and description needs to be theoretically grounded. In addition, whilst relating to theory, the description must also remain *user-friendly* – accessible to practitioners. It should encourage them to think further about what competence means in their context.
 
-- The description also needs to be based on theories of language competence. This is difficult to achieve because the available theory and research is inadequate to provide a basis for such a description. Nevertheless, the categorisation and description needs to be theoretically grounded. In addition, whilst relating to theory, the description must also remain user-friendly – accessible to practitioners. It should encourage them to think further about what competence means in their context.
+#### Measurement Issues
 
-### Measurement Issues
+- The points on the scale at which particular activities and competences are situated in a common framework scale should be *objectively determined* in that they are based on a theory of measurement. This is in order to avoid systematising error through adopting unfounded conventions and ‘rules of thumb’ from the authors, particular groups of practitioners or existing scales that are consulted.
 
-- The points on the scale at which particular activities and competences are situated in a common framework scale should be objectively determined in that they are based on a theory of measurement. This is in order to avoid systematising error through adopting unfounded conventions and ‘rules of thumb’ from the authors, particular groups of practitioners or existing scales that are consulted.
-- The number of levels adopted should be adequate to show progression in different sectors, but, in any particular context, should not exceed the number of levels between which people are capable of making reasonably consistent distinctions. This may mean adopting different sizes of scale step for different dimensions, or a
+- The *number of levels* adopted should be adequate to show progression in different sectors, but, in any particular context, should not exceed the number of levels between which people are capable of making reasonably consistent distinctions. This may mean adopting different sizes of scale step for different dimensions, or a
+
 <!-- el:end id=prose_p030 -->
 
 *Page **30***
@@ -641,21 +694,20 @@ Framework scale need to be context-relevant, relatable to or translatable into e
 <!-- page:30 -->
 
 <!-- el:start type=prose id=prose_p031 page=31 -->
+<!-- vision: Ch 3 cont. + §3.2 start (PDF page 31 / book p.22) -->
+
 two-tier approach between broader (common, conventional) and narrower (local, pedagogic) levels.
 
-These criteria are very difficult to meet, but are useful as a point of orientation. They can in fact be met by a combination of intuitive, qualitative and quantitative methods. This is in contrast to the purely intuitive ways in which scales of language proficiency are normally developed. Intuitive, committee authorship may work well for the development of systems for particular contexts, but have certain limitations in relation to the development of a common framework scale. The main weakness of reliance on intuition is that the placement of a particular wording at a particular level is subjective. Secondly there is also the possibility that users from different sectors may have valid differences of perspective due to the needs of their learners. A scale, like a test, has validity in relation to contexts in which it has been shown to work. Validation – which involves some quantitative analysis
-
-- is an ongoing and, theoretically never-ending, process. The methodology used in developing the Common Reference Levels, and their illustrative descriptors, has therefore been fairly rigorous. A systematic combination of intuitive, qualitative and quantitative methods was employed. First, the content of existing scales was analysed in relation to categories of description used in the Framework. Then, in an intuitive phase, this material was edited, new descriptors were formulated, and the set discussed by experts. Next a variety of qualitative methods were used to check that teachers could relate to the descriptive categories selected, and that descriptors actually described the categories they were intended to describe. Finally, the best descriptors in the set were scaled using quantitative methods. The accuracy of this scaling has since been checked in replication studies.
+These criteria are very difficult to meet, but are useful as a point of orientation. They can in fact be met by a combination of intuitive, qualitative and quantitative methods. This is in contrast to the purely intuitive ways in which scales of language proficiency are normally developed. Intuitive, committee authorship may work well for the development of systems for particular contexts, but have certain limitations in relation to the development of a common framework scale. The main weakness of reliance on intuition is that the placement of a particular wording at a particular level is subjective. Secondly there is also the possibility that users from different sectors may have valid differences of perspective due to the needs of their learners. A scale, like a test, has validity in relation to contexts in which it has been shown to work. Validation – which involves some quantitative analysis – is an ongoing and, theoretically never-ending, process. The methodology used in developing the Common Reference Levels, and their illustrative descriptors, has therefore been fairly rigorous. A systematic combination of intuitive, qualitative and quantitative methods was employed. First, the content of existing scales was analysed in relation to categories of description used in the Framework. Then, in an intuitive phase, this material was edited, new descriptors were formulated, and the set discussed by experts. Next a variety of qualitative methods were used to check that teachers could relate to the descriptive categories selected, and that descriptors actually described the categories they were intended to describe. Finally, the best descriptors in the set were scaled using quantitative methods. The accuracy of this scaling has since been checked in replication studies.
 
 Technical issues connected with the development and scaling of descriptions of language proficiency are considered in the appendices. Appendix A gives an introduction to scales and scaling plus methodologies which can be adopted in development. Appendix B gives a brief overview of the Swiss National Science Research Council project which developed the Common Reference Levels, and their illustrative descriptors, in a project covering different educational sectors. Appendices C and D then introduce two related European projects which have since used a similar methodology to develop and validate such descriptors in relation to young adults. In Appendix C the DIALANG project is described. As part of a wider assessment instrument, DIALANG has extended and adapted for self-assessment descriptors from the CEF. In Appendix D the ALTE (Association of Language Testers in Europe) ‘Can Do’ project is described. This project has developed and validated a large set of descriptors, which can also be related to the Common Reference Levels. These descriptors complement those in the Framework itself in that they are organised in relation to domains of use which are relevant to adults.
 
-The projects described in the appendices demonstrate a very considerable degree of communality with regard both to the Common Reference Levels themselves and to the concepts scaled to different levels in the illustrative descriptors. That is to say that there is already a growing body of evidence to suggest that the criteria outlined above are at least partially fulfilled.
+The projects described in the appendices demonstrate a very considerable degree of commonality with regard both to the Common Reference Levels themselves and to the concepts scaled to different levels in the illustrative descriptors. That is to say that there is already a growing body of evidence to suggest that the criteria outlined above are at least partially fulfilled.
 
 ### 3.2 The Common Reference Levels
 
 There does appear in practice to be a wide, though by no means universal, consensus on the number and nature of levels appropriate to the organisation of language learning
 
-Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p031 -->
 
 *Page **31***
@@ -663,38 +715,39 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:31 -->
 
 <!-- el:start type=prose id=prose_p032 page=32 -->
+<!-- vision: six level names as parallel bullets + Figure 1 (PDF page 32 / book p.23) -->
+
 and the public recognition of achievement. It seems that an outline framework of six broad levels gives an adequate coverage of the learning space relevant to European language learners for these purposes.
 
-- Breakthrough, corresponding to what Wilkins in his 1978 proposal labelled ‘Formulaic
+- **Breakthrough**, corresponding to what Wilkins in his 1978 proposal labelled ‘Formulaic Proficiency’, and Trim in the same publication¹ ‘Introductory’.
+- **Waystage**, reflecting the Council of Europe content specification.
+- **Threshold**, reflecting the Council of Europe content specification.
+- **Vantage**, reflecting the third Council of Europe content specification, a level described as ‘Limited Operational Proficiency’ by Wilkins, and ‘adequate response to situations normally encountered’ by Trim.
+- **Effective Operational Proficiency** which was called ‘Effective Proficiency’ by Trim, ‘Adequate Operational Proficiency’ by Wilkins, and represents an advanced level of competence suitable for more complex work and study tasks.
+- **Mastery** (Trim: ‘comprehensive mastery’; Wilkins: ‘Comprehensive Operational Proficiency’), corresponds to the top examination objective in the scheme adopted by ALTE (Association of Language Testers in Europe). It could be extended to include the more developed intercultural competence above that level which is achieved by many language professionals.
 
-Proficiency’, and Trim in the same publication1 ‘Introductory’.
+When one looks at these six levels, however, one sees that they are respectively higher and lower interpretations of the classic division into basic, intermediate and advanced. Also, some of the names given to Council of Europe specifications for levels have proved resistant to translation (e.g. *Waystage*, *Vantage*). The scheme therefore proposed adopts a ‘hypertext’ branching principle, starting from an initial division into three broad levels – A, B and C:
 
-- Waystage, reflecting the Council of Europe content specification.
-- Threshold, reflecting the Council of Europe content specification.
-- Vantage, reflecting the third Council of Europe content specification, a level described as ‘Limited Operational Proficiency’ by Wilkins, and ‘adequate response to situations normally encountered’ by Trim.
-- Effective Operational Proficiency which was called ‘Effective Proficiency’ by Trim, ‘Adequate
+<!-- el:start type=figure id=cefr2001_figure_01_common_reference_levels page=32 -->
+<!-- db:id=cefr2001_figure_01_common_reference_levels type=figure product_tier=context pages=32 -->
 
-Operational Proficiency’ by Wilkins, and represents an advanced level of competence suitable for more complex work and study tasks.
+**Figure 1.** Common Reference Levels branching principle
 
-- Mastery (Trim: ‘comprehensive mastery’; Wilkins: ‘Comprehensive Operational Proficiency’), corresponds to the top examination objective in the scheme adopted by ALTE
+| Broad | Levels | Labels |
+| --- | --- | --- |
+| **A Basic User** | A1 / A2 | Breakthrough / Waystage |
+| **B Independent User** | B1 / B2 | Threshold / Vantage |
+| **C Proficient User** | C1 / C2 | Effective Operational Proficiency / Mastery |
 
-(Association of Language Testers in Europe). It could be extended to include the more developed intercultural competence above that level which is achieved by many language professionals.
-
-When one looks at these six levels, however, one sees that they are respectively higher and lower interpretations of the classic division into basic, intermediate and advanced. Also, some of the names given to Council of Europe specifications for levels have proved resistant to translation (e.g. Waystage, Vantage). The scheme therefore proposed adopts a ‘hypertext’ branching principle, starting from an initial division into three broad levels – A, B and C:
+<!-- source render: work/cefr-en-2001/page_renders/page_032.png -->
+<!-- el:end id=cefr2001_figure_01_common_reference_levels -->
 
 ### 3.3 Presentation of Common Reference Levels
 
 The establishment of a set of common reference points in no way limits how different sectors in different pedagogic cultures may choose to organise or describe their system of levels and modules. It is also to be expected that the precise formulation of the set of common reference points, the wording of the descriptors, will develop over time as the
 
-## Common Reference Levels
+¹ Trim, J. L. M. 1978 *Some Possible Lines of Development of an Overall Structure for a European Unit Credit Scheme for Foreign Language Learning by Adults*, Council of Europe.
 
-A B C Basic User Independent User Proficient User
-
-A1 A2 B1 B2 C1 C2 (Breakthrough) (Waystage) (Threshold) (Vantage) (Effective (Mastery) Operational
-
-Proficiency) Figure 1
-
-Trim, J. L. M. 1978 Some Possible Lines of Development of an Overall Structure for a European Unit Credit Scheme for Foreign Language Learning by Adults, Council of Europe.
 <!-- el:end id=prose_p032 -->
 
 *Page **32***
@@ -702,11 +755,7 @@ Trim, J. L. M. 1978 Some Possible Lines of Development of an Overall Structure f
 <!-- page:32 -->
 
 <!-- el:start type=prose id=prose_p033 page=33 -->
-experience of member states and of institutions with related expertise is incorporated into the description.
-
-It is also desirable that the common reference points are presented in different ways for different purposes. For some purposes it will be appropriate to summarise the set of proposed Common Reference Levels in single holistic paragraphs, as shown in Table 1. Such a simple ‘global’ representation will make it easier to communicate the system to non-specialist users and will also provide teachers and curriculum planners with orientation points:
-
-<!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=33 -->
+experience of member states and of institutions with related expertise is incorporated into the description. It is also desirable that the common reference points are presented in different ways for different purposes. For some purposes it will be appropriate to summarise the set of proposed Common Reference Levels in single holistic paragraphs, as shown in Table 1. Such a simple ‘global’ representation will make it easier to communicate the system to non-specialist users and will also provide teachers and curriculum planners with orien- tation points: <!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=33 -->
 <!-- db:id=cefr2001_table_1_common_reference_levels_global_scale type=table product_tier=base pages=33 -->
 
 **Table 1. Common Reference Levels: global scale**
@@ -722,27 +771,17 @@ It is also desirable that the common reference points are presented in different
 
 <!-- el:end id=cefr2001_table_1_common_reference_levels_global_scale -->
 
-Table 1. Common Reference Levels: global scale
+Table 1. Common Reference Levels: global scale C2 Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very ﬂuently and precisely, differentiating ﬁner shades of Proﬁcient meaning even in more complex situations. User C1 Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself ﬂuently and spontaneously without much obvious searching for expressions. Can use language ﬂexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices. B2 Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her ﬁeld of specialisation. Can interact with a degree of ﬂuency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and Independent disadvantages of various options. User B1 Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes and ambitions and brieﬂy give reasons and explanations for opinions and plans. A2 Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate Basic need. User A1 Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help. Common European Framework of Reference for Languages: learning, teaching, assessment 24
 
-C2 Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of
-
-Proficient meaning even in more complex situations.
-
-User C1 Can understand a wide range of demanding, longer texts, and recognise implicit meaning. Can express him/herself fluently and spontaneously without much obvious searching for expressions. Can use language flexibly and effectively for social, academic and professional purposes. Can produce clear, well-structured, detailed text on complex subjects, showing controlled use of organisational patterns, connectors and cohesive devices.
-
-B2 Can understand the main ideas of complex text on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and Independent disadvantages of various options. User
-
-B1 Can understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise whilst travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans.
-
-A2 Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate Basic need. User
-
-A1 Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p033 -->
 
-<!-- el:start type=table id=table_p033_01 page=33 -->
-<!-- db:id=table_p033_01 type=table product_tier=context pages=33 -->
+<!-- el:start type=table id=cefr2001_table_1_such_a_simple page=33 -->
+<!-- db:id=cefr2001_table_1_such_a_simple type=table product_tier=context pages=33 -->
+
+**Table 1.
+Such a simple**
+
 
 | Proficient User | C2 | Can understand with ease virtually everything heard or read. Can summarise information from different spoken and written sources, reconstructing arguments and accounts in a coherent presentation. Can express him/herself spontaneously, very fluently and precisely, differentiating finer shades of meaning even in more complex situations. |
 | --- | --- | --- |
@@ -752,13 +791,15 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | Basic User | A2 | Can understand sentences and frequently used expressions related to areas of most immediate relevance (e.g. very basic personal and family information, shopping, local geography, employment). Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need. |
 |  | A1 | Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help. |
 
-<!-- el:end id=table_p033_01 -->
+<!-- el:end id=cefr2001_table_1_such_a_simple -->
 
 *Page **33***
 
 <!-- page:33 -->
 
 <!-- el:start type=prose id=prose_p034 page=34 -->
+<!-- vision: §3.4 Illustrative descriptors (PDF page 34 / book p.25) -->
+
 In order to orient learners, teachers and other users within the educational system for some practical purpose, however, a more detailed overview is likely to be necessary. Such an overview can be presented in the form of a grid showing major categories of language use at each of the six levels. The example in Table 2 (on the next two pages) is a draft for a self-assessment orientation tool based on the six levels. It is intended to help learners to profile their main language skills, and decide at which level they might look at a checklist of more detailed descriptors in order to self-assess their level of proficiency.
 
 For other purposes, it may be desirable to focus on a particular spectrum of levels, and a particular set of categories. By restricting the range of levels and categories covered to those relevant to a particular purpose, it will be possible to add more detail: finer levels and categories. Such detail would enable a set of modules to be ‘mapped’ relative to one another – and also to be situated in relation to the Common Framework.
@@ -771,15 +812,14 @@ The three tables used to introduce the Common Reference Levels (Tables 1, 2 and 
 
 For ease of consultation, scales of descriptors are juxtaposed to the relevant categories of the descriptive scheme in Chapters 4 and 5. The descriptors refer to the following three metacategories in the descriptive scheme:
 
-Communicative activities
+#### Communicative activities
 
 ‘Can Do’ descriptors are provided for reception, interaction and production. There may not be descriptors for all sub-categories for every level, since some activities cannot be undertaken until a certain level of competence has been reached, whilst others may cease to be an objective at higher levels.
 
-Strategies
+#### Strategies
 
 ‘Can Do’ descriptors are provided for some of the strategies employed in performing communicative activities. Strategies are seen as a hinge between the learner’s resources (competences) and what he/she can do with them (communicative activities). The principles of a) planning action, b) balancing resources and compensating for deficiencies during execution and c) monitoring results and undertaking repair as necessary are described in the sections dealing with interaction and production strategies in Chapter 4.
 
-## Common Reference Levels
 <!-- el:end id=prose_p034 -->
 
 *Page **34***
@@ -787,9 +827,7 @@ Strategies
 <!-- page:34 -->
 
 <!-- el:start type=prose id=prose_p035 page=35 -->
-Common European Framework of Reference for Languages: learning, teaching, assessment
-
-<!-- el:start type=table id=cefr2001_table_2_self_assessment_grid page=35 -->
+Common European Framework of Reference for Languages: learning, teaching, assessment 26 <!-- el:start type=table id=cefr2001_table_2_self_assessment_grid page=35 -->
 <!-- db:id=cefr2001_table_2_self_assessment_grid type=table product_tier=base pages=35-36 -->
 <!-- book-qa: stitched multipage self-assessment grid (Table 2); one db:id / full grid -->
 
@@ -805,25 +843,21 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 
 <!-- el:end id=cefr2001_table_2_self_assessment_grid -->
 
-Table 2. Common Reference Levels: self-assessment grid
+Table 2. Common Reference Levels: self-assessment grid A1 A2 B1 Listening I can recognise familiar I can understand phrases I can understand the main words and very basic and the highest frequency points of clear standard phrases concerning vocabulary related to areas speech on familiar matters myself, my family and of most immediate personal regularly encountered in immediate concrete relevance (e.g. very basic work, school, leisure, etc. I surroundings when personal and family can understand the main people speak slowly information, shopping, point of many radio or TV and clearly. local area, employment). programmes on current I can catch the main point in affairs or topics of personal short, clear, simple messages or professional interest when and announcements. the delivery is relatively slow and clear. Reading I can understand I can read very short, simple I can understand texts that familiar names, words texts. I can ﬁnd speciﬁc, consist mainly of high and very simple predictable information in frequency everyday or job- sentences, for example simple everyday material related language. I can on notices and posters such as advertisements, understand the description of or in catalogues. prospectuses, menus and events, feelings and wishes in timetables and I can personal letters. understand short simple personal letters. Spoken I can interact in a simple I can communicate in simple I can deal with most situations Interaction way provided the other and routine tasks requiring a likely to arise whilst travelling person is prepared to simple and direct exchange of in an area where the language repeat or rephrase things information on familiar topics is spoken. I can enter at a slower rate of speech and activities. I can handle unprepared into conversation and help me formulate very short social exchanges, on topics that are familiar, of what I’m trying to say. I even though I can’t usually personal interest or pertinent can ask and answer simple understand enough to keep to everyday life (e.g. family, questions in areas of the conversation going myself. hobbies, work, travel and immediate need or on current events). very familiar topics. Spoken I can use simple phrases I can use a series of phrases I can connect phrases in a Production and sentences to describe and sentences to describe in simple way in order to describe where I live and people I simple terms my family and experiences and events, my know. other people, living dreams, hopes and ambitions. conditions, my educational I can brieﬂy give reasons and background and my present explanations for opinions and or most recent job. plans. I can narrate a story or relate the plot of a book or ﬁlm and describe my reactions. Writing I can write a short, simple I can write short, simple notes I can write simple connected postcard, for example and messages relating to text on topics which are sending holiday greetings. matters in areas of immediate familiar or of personal interest. I can ﬁll in forms with need. I can write a very simple I can write personal letters personal details, for personal letter, for example describing experiences and example entering my thanking someone for impressions. name, nationality and something. address on a hotel registration form. U N D E R S T A N D I N G S P E A K I N G W R I T I N G
 
-A1 A2 B1
-
-Listening I can recognise familiar I can understand phrases I can understand the main words and very basic and the highest frequency points of clear standard phrases concerning vocabulary related to areas speech on familiar matters myself, my family and of most immediate personal regularly encountered in immediate concrete relevance (e.g. very basic work, school, leisure, etc. I surroundings when personal and family can understand the main people speak slowly information, shopping, point of many radio or TV and clearly. local area, employment). programmes on current I can catch the main point in affairs or topics of personal short, clear, simple messages or professional interest when and announcements. the delivery is relatively slow and clear.
-
-Reading I can understand I can read very short, simple I can understand texts that familiar names, words texts. I can find specific, consist mainly of high and very simple predictable information in frequency everyday or jobsentences, for example simple everyday material related language. I can on notices and posters such as advertisements, understand the description of or in catalogues. prospectuses, menus and events, feelings and wishes in timetables and I can personal letters. understand short simple personal letters.
-
-Spoken I can interact in a simple I can communicate in simple I can deal with most situations Interaction way provided the other and routine tasks requiring a likely to arise whilst travelling person is prepared to simple and direct exchange of in an area where the language repeat or rephrase things information on familiar topics is spoken. I can enter at a slower rate of speech and activities. I can handle unprepared into conversation and help me formulate very short social exchanges, on topics that are familiar, of what I’m trying to say. I even though I can’t usually personal interest or pertinent can ask and answer simple understand enough to keep to everyday life (e.g. family, questions in areas of the conversation going myself. hobbies, work, travel and immediate need or on current events). very familiar topics.
-
-Spoken I can use simple phrases I can use a series of phrases I can connect phrases in a Production and sentences to describe and sentences to describe in simple way in order to describe where I live and people I simple terms my family and experiences and events, my know. other people, living dreams, hopes and ambitions. conditions, my educational I can briefly give reasons and background and my present explanations for opinions and or most recent job. plans. I can narrate a story or relate the plot of a book or film and describe my reactions.
-
-Writing I can write a short, simple I can write short, simple notes I can write simple connected postcard, for example and messages relating to text on topics which are sending holiday greetings. matters in areas of immediate familiar or of personal interest. I can fill in forms with need. I can write a very simple I can write personal letters personal details, for personal letter, for example describing experiences and example entering my thanking someone for impressions. name, nationality and something. address on a hotel registration form.
-
-
+*
 <!-- el:end id=prose_p035 -->
 
-<!-- el:start type=table id=table_p035_01 page=35 -->
-<!-- db:id=table_p035_01 type=table product_tier=context pages=35 -->
+<!-- el:start type=table id=cefr2001_table_2_common_reference_levels_self_assessment_grid_a1_a2_b page=35 -->
+<!-- db:id=cefr2001_table_2_common_reference_levels_self_assessment_grid_a1_a2_b type=table product_tier=context pages=35 -->
+
+**Table 2. Common Reference Levels: self-assessment grid
+A1
+A2
+B1
+Listening
+I can recogni**
+
 
 |  |  | A1 | A2 |
 | --- | --- | --- | --- |
@@ -833,30 +867,20 @@ Writing I can write a short, simple I can write short, simple notes I can write 
 |  | Spoken Production | I can use simple phrases and sentences to describe where I live and people I know. | I can use a series of phrases and sentences to describe in simple terms my family and other people, living conditions, my educational background and my present or most recent job. |
 | W R I T I N G | Writing | I can write a short, simple postcard, for example sending holiday greetings. I can fill in forms with personal details, for example entering my name, nationality and address on a hotel registration form. | I can write short, simple notes and messages relating to matters in areas of immediate need. I can write a very simple personal letter, for example thanking someone for something. |
 
-<!-- el:end id=table_p035_01 -->
+<!-- el:end id=cefr2001_table_2_common_reference_levels_self_assessment_grid_a1_a2_b -->
 
 *Page **35***
 
 <!-- page:35 -->
 
 <!-- el:start type=prose id=prose_p036 page=36 -->
-## Common Reference Levels
+Common Reference Levels 27 B2 C1 C2 I can understand extended speech I can understand extended speech I have no difﬁculty in understanding and lectures and follow even even when it is not clearly any kind of spoken language, complex lines of argument provided structured and when relationships whether live or broadcast, even when the topic is reasonably familiar. I are only implied and not signalled delivered at fast native speed, can understand most TV news and explicitly. I can understand provided I have some time to get current affairs programmes. I can television programmes and ﬁlms familiar with the accent. understand the majority of ﬁlms in without too much effort. standard dialect. I can read articles and reports I can understand long and I can read with ease virtually all concerned with contemporary complex factual and literary forms of the written language, problems in which the writers adopt texts, appreciating distinctions of including abstract, structurally or particular attitudes or viewpoints. I style. I can understand specialised linguistically complex texts such as can understand contemporary articles and longer technical manuals, specialised articles and literary prose. instructions, even when they do literary works. not relate to my ﬁeld. I can interact with a degree of I can express myself ﬂuently and I can take part effortlessly in any ﬂuency and spontaneity that makes spontaneously without much conversation or discussion and have a regular interaction with native obvious searching for expressions. good familiarity with idiomatic speakers quite possible. I can take an I can use language ﬂexibly and expressions and colloquialisms. I can active part in discussion in familiar effectively for social and express myself ﬂuently and convey contexts, accounting for and professional purposes. I can ﬁner shades of meaning precisely. If I sustaining my views. formulate ideas and opinions with do have a problem I can backtrack precision and relate my and restructure around the difﬁculty contribution skilfully to those of so smoothly that other people are other speakers. hardly aware of it. I can present clear, detailed I can present clear, detailed I can present a clear, smoothly descriptions on a wide range of descriptions of complex subjects ﬂowing description or argument in a subjects related to my ﬁeld of integrating sub-themes, developing style appropriate to the context and interest. I can explain a viewpoint on particular points and rounding off with an effective logical structure a topical issue giving the advantages with an appropriate conclusion. which helps the recipient to notice and disadvantages of various options. and remember signiﬁcant points. I can write clear, detailed text on a I can express myself in clear, well- I can write clear, smoothly ﬂowing wide range of subjects related to my structured text, expressing points text in an appropriate style. I can interests. I can write an essay or of view at some length. I can write write complex letters, reports or report, passing on information or about complex subjects in a articles which present a case with an giving reasons in support of or letter, an essay or a report, effective logical structure which against a particular point of view. I underlining what I consider to be helps the recipient to notice and can write letters highlighting the the salient issues. I can select remember signiﬁcant points. I can personal signiﬁcance of events and style appropriate to the reader write summaries and reviews of experiences. in mind. professional or literary works.
 
-B2 C1 C2
-
-I can understand extended speech I can understand extended speech I have no difficulty in understanding and lectures and follow even even when it is not clearly any kind of spoken language, complex lines of argument provided structured and when relationships whether live or broadcast, even when the topic is reasonably familiar. I are only implied and not signalled delivered at fast native speed, can understand most TV news and explicitly. I can understand provided I have some time to get current affairs programmes. I can television programmes and films familiar with the accent. understand the majority of films in without too much effort. standard dialect.
-
-I can read articles and reports I can understand long and I can read with ease virtually all concerned with contemporary complex factual and literary forms of the written language, problems in which the writers adopt texts, appreciating distinctions of including abstract, structurally or particular attitudes or viewpoints. I style. I can understand specialised linguistically complex texts such as can understand contemporary articles and longer technical manuals, specialised articles and literary prose. instructions, even when they do literary works. not relate to my field.
-
-I can interact with a degree of I can express myself fluently and I can take part effortlessly in any fluency and spontaneity that makes spontaneously without much conversation or discussion and have a regular interaction with native obvious searching for expressions. good familiarity with idiomatic speakers quite possible. I can take an I can use language flexibly and expressions and colloquialisms. I can active part in discussion in familiar effectively for social and express myself fluently and convey contexts, accounting for and professional purposes. I can finer shades of meaning precisely. If I sustaining my views. formulate ideas and opinions with do have a problem I can backtrack precision and relate my and restructure around the difficulty contribution skilfully to those of so smoothly that other people are other speakers. hardly aware of it.
-
-I can present clear, detailed I can present clear, detailed I can present a clear, smoothly descriptions on a wide range of descriptions of complex subjects flowing description or argument in a subjects related to my field of integrating sub-themes, developing style appropriate to the context and interest. I can explain a viewpoint on particular points and rounding off with an effective logical structure a topical issue giving the advantages with an appropriate conclusion. which helps the recipient to notice and disadvantages of various options. and remember significant points.
-
-I can write clear, detailed text on a I can express myself in clear, wellI can write clear, smoothly flowing wide range of subjects related to my structured text, expressing points text in an appropriate style. I can interests. I can write an essay or of view at some length. I can write write complex letters, reports or report, passing on information or about complex subjects in a articles which present a case with an giving reasons in support of or letter, an essay or a report, effective logical structure which against a particular point of view. I underlining what I consider to be helps the recipient to notice and can write letters highlighting the the salient issues. I can select remember significant points. I can personal significance of events and style appropriate to the reader write summaries and reviews of experiences. in mind. professional or literary works.
+*
 <!-- el:end id=prose_p036 -->
 
-<!-- el:start type=table id=table_p036_01 page=36 -->
-<!-- db:id=table_p036_01 type=table product_tier=context pages=36 -->
+<!-- el:start type=table id=cefr2001_p036_table_01 page=36 -->
+<!-- db:id=cefr2001_p036_table_01 type=table product_tier=context pages=36 -->
 
 | C1 | C2 |
 | --- | --- |
@@ -866,38 +890,25 @@ I can write clear, detailed text on a I can express myself in clear, wellI can w
 | I can present clear, detailed descriptions of complex subjects integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. | I can present a clear, smoothly flowing description or argument in a style appropriate to the context and with an effective logical structure which helps the recipient to notice and remember significant points. |
 | I can express myself in clear, well- structured text, expressing points of view at some length. I can write about complex subjects in a letter, an essay or a report, underlining what I consider to be the salient issues. I can select style appropriate to the reader in mind. | I can write clear, smoothly flowing text in an appropriate style. I can write complex letters, reports or articles which present a case with an effective logical structure which helps the recipient to notice and remember significant points. I can write summaries and reviews of professional or literary works. |
 
-<!-- el:end id=table_p036_01 -->
+<!-- el:end id=cefr2001_p036_table_01 -->
 
 *Page **36***
 
 <!-- page:36 -->
 
 <!-- el:start type=prose id=prose_p037 page=37 -->
-Table 3. Common Reference Levels: qualitative aspects of spoken language use
+Table 3. Common Reference Levels: qualitative aspects of spoken language use RANGE ACCURACY FLUENCY INTERACTION COHERENCE C2 Shows great ﬂexibility Maintains consistent Can express him/herself Can interact with ease and Can create coherent and reformulating ideas in grammatical control of spontaneously at length with skill, picking up and using cohesive discourse differing linguistic forms complex language, even a natural colloquial ﬂow, non-verbal and intona- making full and appropri- to convey ﬁner shades of while attention is otherwise avoiding or backtracking tional cues apparently ate use of a variety of meaning precisely, to give engaged (e.g. in forward around any difﬁculty so effortlessly. Can interweave organisational patterns emphasis, to differentiate planning, in monitoring smoothly that the his/her contribution into and a wide range of and to eliminate ambiguity. others’ reactions). interlocutor is hardly the joint discourse with connectors and other Also has a good command aware of it. fully natural turntaking, cohesive devices. of idiomatic expressions referencing, allusion and colloquialisms. making, etc. C1 Has a good command of a Consistently maintains a Can express him/herself Can select a suitable phrase Can produce clear, broad range of language high degree of grammatical ﬂuently and spontaneously, from a readily available smoothly ﬂowing, well- allowing him/her to select a accuracy; errors are rare, almost effortlessly. Only a range of discourse structured speech, formulation to express him/ difﬁcult to spot and conceptually difﬁcult functions to preface his showing controlled use of herself clearly in an generally corrected when subject can hinder a natural, remarks in order to get or organisational patterns, appropriate style on a wide they do occur. smooth ﬂow of language. to keep the ﬂoor and to connectors and cohesive range of general, academic, relate his/her own devices. professional or leisure contributions skilfully to topics without having to those of other speakers. restrict what he/she wants to say. B2+ B2 Has a sufﬁcient range of Shows a relatively high Can produce stretches of Can initiate discourse, take Can use a limited number language to be able to give degree of grammatical language with a fairly even his/her turn when of cohesive devices to link clear descriptions, express control. Does not make tempo; although he/she can appropriate and end his/her utterances into viewpoints on most general errors which cause mis- be hesitant as he/she conversation when he/she clear, coherent discourse, topics, without much understanding, and can searches for patterns and needs to, though he/she though there may be conspicuous searching for correct most of his/her expressions. There are few may not always do this some ‘jumpiness’ in a words, using some complex mistakes. noticeably long pauses. elegantly. Can help the long contribution. sentence forms to do so. discussion along on familiar ground conﬁrming comprehension, inviting others in, etc.
 
-RANGE ACCURACY FLUENCY INTERACTION COHERENCE
-
-C2 Shows great flexibility Maintains consistent Can express him/herself Can interact with ease and Can create coherent and reformulating ideas in grammatical control of spontaneously at length with skill, picking up and using cohesive discourse differing linguistic forms complex language, even a natural colloquial flow, non-verbal and intonamaking full and approprito convey finer shades of while attention is otherwise avoiding or backtracking tional cues apparently ate use of a variety of meaning precisely, to give engaged (e.g. in forward around any difficulty so effortlessly. Can interweave organisational patterns emphasis, to differentiate planning, in monitoring smoothly that the his/her contribution into and a wide range of and to eliminate ambiguity. others’ reactions). interlocutor is hardly the joint discourse with connectors and other
-
-Also has a good command aware of it. fully natural turntaking, cohesive devices.
-
-of idiomatic expressions referencing, allusion and colloquialisms. making, etc.
-
-C1 Has a good command of a Consistently maintains a Can express him/herself Can select a suitable phrase Can produce clear, broad range of language high degree of grammatical fluently and spontaneously, from a readily available smoothly flowing, wellallowing him/her to select a accuracy; errors are rare, almost effortlessly. Only a range of discourse structured speech, formulation to express him/ difficult to spot and conceptually difficult functions to preface his showing controlled use of herself clearly in an generally corrected when subject can hinder a natural, remarks in order to get or organisational patterns, appropriate style on a wide they do occur. smooth flow of language. to keep the floor and to connectors and cohesive range of general, academic, relate his/her own devices.
-
-professional or leisure contributions skilfully to topics without having to those of other speakers.
-
-restrict what he/she wants to say.
-
-B2+
-
-B2 Has a sufficient range of Shows a relatively high Can produce stretches of Can initiate discourse, take Can use a limited number language to be able to give degree of grammatical language with a fairly even his/her turn when of cohesive devices to link clear descriptions, express control. Does not make tempo; although he/she can appropriate and end his/her utterances into viewpoints on most general errors which cause misbe hesitant as he/she conversation when he/she clear, coherent discourse, topics, without much understanding, and can searches for patterns and needs to, though he/she though there may be conspicuous searching for correct most of his/her expressions. There are few may not always do this some ‘jumpiness’ in a words, using some complex mistakes. noticeably long pauses. elegantly. Can help the long contribution.
-
-sentence forms to do so. discussion along on familiar ground confirming comprehension, inviting others in, etc.
+*
 <!-- el:end id=prose_p037 -->
 
-<!-- el:start type=table id=table_p037_01 page=37 -->
-<!-- db:id=table_p037_01 type=table product_tier=context pages=37 -->
+<!-- el:start type=table id=cefr2001_table_3_common_reference_levels_qualitative_aspects_of_spoke page=37 -->
+<!-- db:id=cefr2001_table_3_common_reference_levels_qualitative_aspects_of_spoke type=table product_tier=context pages=37 -->
+
+**Table 3. Common Reference Levels: qualitative aspects of spoken language use
+RANGE
+ACCU**
+
 
 | Table 3. Common Reference Levels: qualitative aspects of spoken language use | COHERENCE | Can create coherent and cohesive discourse making full and appropri- ate use of a variety of organisational patterns and a wide range of connectors and other cohesive devices. | Can produce clear, smoothly flowing, well- structured speech, showing controlled use of organisational patterns, connectors and cohesive devices. |  | Can use a limited number of cohesive devices to link his/her utterances into clear, coherent discourse, though there may be some ‘jumpiness’ in a long contribution. |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -907,32 +918,20 @@ sentence forms to do so. discussion along on familiar ground confirming comprehe
 |  | RANGE | Shows great flexibility reformulating ideas in differing linguistic forms to convey finer shades of meaning precisely, to give emphasis, to differentiate and to eliminate ambiguity. Also has a good command of idiomatic expressions and colloquialisms. | Has a good command of a broad range of language allowing him/her to select a formulation to express him/ herself clearly in an appropriate style on a wide range of general, academic, professional or leisure topics without having to restrict what he/she wants to say. |  | Has a sufficient range of language to be able to give clear descriptions, express viewpoints on most general topics, without much conspicuous searching for words, using some complex sentence forms to do so. |  |
 |  |  | C2 | C1 | B2+ | B2 |  |
 
-<!-- el:end id=table_p037_01 -->
+<!-- el:end id=cefr2001_table_3_common_reference_levels_qualitative_aspects_of_spoke -->
 
 *Page **37***
 
 <!-- page:37 -->
 
 <!-- el:start type=prose id=prose_p038 page=38 -->
-B1+
+B1+ B1 Has enough language to get Uses reasonably accurately a Can keep going Can initiate, maintain and Can link a series of by, with sufﬁcient repertoire of frequently used comprehensibly, even though close simple face-to-face shorter, discrete simple vocabulary to express him/ ‘routines’ and patterns pausing for grammatical and conversation on topics that elements into a herself with some hesitation associated with more lexical planning and repair is are familiar or of personal connected, linear and circumlocutions on predictable situations. very evident, especially in interest. Can repeat back sequence of points. topics such as family, longer stretches of free part of what someone has hobbies and interests, work, production. said to conﬁrm mutual travel, and current events. understanding. A2+ A2 Uses basic sentence patterns Uses some simple structures Can make him/herself Can answer questions and Can link groups of words with memorised phrases, correctly, but still understood in very short respond to simple with simple connectors groups of a few words and systematically makes basic utterances, even though statements. Can indicate like ‘and’, ‘but’ and formulae in order to mistakes. pauses, false starts and when he/she is following ‘because’. communicate limited reformulation are very but is rarely able to information in simple evident. understand enough to keep everyday situations. conversation going of his/her own accord. A1 Has a very basic repertoire Shows only limited control Can manage very short, Can ask and answer Can link words or groups of words and simple phrases of a few simple grammatical isolated, mainly pre- questions about personal of words with very basic related to personal details structures and sentence packaged utterances, with details. Can interact in a linear connectors like and particular concrete patterns in a memorised much pausing to search for simple way but ‘and’ or ‘then’. situations. repertoire. expressions, to articulate less communication is totally familiar words, and to repair dependent on repetition, communication. rephrasing and repair.
 
-B1 Has enough language to get Uses reasonably accurately a Can keep going Can initiate, maintain and Can link a series of by, with sufficient repertoire of frequently used comprehensibly, even though close simple face-to-face shorter, discrete simple vocabulary to express him/ ‘routines’ and patterns pausing for grammatical and conversation on topics that elements into a herself with some hesitation associated with more lexical planning and repair is are familiar or of personal connected, linear and circumlocutions on predictable situations. very evident, especially in interest. Can repeat back sequence of points.
-
-topics such as family, longer stretches of free part of what someone has hobbies and interests, work, production. said to confirm mutual travel, and current events. understanding.
-
-A2+
-
-A2 Uses basic sentence patterns Uses some simple structures Can make him/herself Can answer questions and Can link groups of words with memorised phrases, correctly, but still understood in very short respond to simple with simple connectors groups of a few words and systematically makes basic utterances, even though statements. Can indicate like ‘and’, ‘but’ and formulae in order to mistakes. pauses, false starts and when he/she is following ‘because’.
-
-communicate limited reformulation are very but is rarely able to information in simple evident. understand enough to keep everyday situations. conversation going of his/her own accord.
-
-A1 Has a very basic repertoire Shows only limited control Can manage very short, Can ask and answer Can link words or groups of words and simple phrases of a few simple grammatical isolated, mainly prequestions about personal of words with very basic related to personal details structures and sentence packaged utterances, with details. Can interact in a linear connectors like and particular concrete patterns in a memorised much pausing to search for simple way but ‘and’ or ‘then’.
-
-situations. repertoire. expressions, to articulate less communication is totally familiar words, and to repair dependent on repetition, communication. rephrasing and repair.
+*
 <!-- el:end id=prose_p038 -->
 
-<!-- el:start type=table id=table_p038_01 page=38 -->
-<!-- db:id=table_p038_01 type=table product_tier=context pages=38 -->
+<!-- el:start type=table id=cefr2001_p038_table_01 page=38 -->
+<!-- db:id=cefr2001_p038_table_01 type=table product_tier=context pages=38 -->
 
 |  | Can link a series of shorter, discrete simple elements into a connected, linear sequence of points. |  | Can link groups of words with simple connectors like ‘and’, ‘but’ and ‘because’. | Can link words or groups of words with very basic linear connectors like ‘and’ or ‘then’. |  |
 | --- | --- | --- | --- | --- | --- |
@@ -942,7 +941,7 @@ situations. repertoire. expressions, to articulate less communication is totally
 |  | Has enough language to get by, with sufficient vocabulary to express him/ herself with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel, and current events. |  | Uses basic sentence patterns with memorised phrases, groups of a few words and formulae in order to communicate limited information in simple everyday situations. | Has a very basic repertoire of words and simple phrases related to personal details and particular concrete situations. |  |
 | B1+ | B1 | A2+ | A2 | A1 |  |
 
-<!-- el:end id=table_p038_01 -->
+<!-- el:end id=cefr2001_p038_table_01 -->
 
 *Page **38***
 
@@ -1013,43 +1012,16 @@ Secondly, the Swiss empirical results suggest a scale of 9 more or less equally 
 <!-- page:40 -->
 
 <!-- el:start type=prose id=prose_p041 page=41 -->
-In the illustrative descriptors a distinction is made between the ‘criterion levels’ (e.g. A2 or A2.1) and the ‘plus levels’ (e.g. A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as in this example for overall listening comprehension.
+In the illustrative descriptors a distinction is made between the ‘criterion levels’ (e.g. A2 or A2.1) and the ‘plus levels’ (e.g. A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as in this example for overall listening comprehension. Table 4. Levels A2.1 and A2.2 (A2+): listening comprehension A2 Can understand enough to be able to meet needs of a concrete type provided speech is clearly and slowly articulated. Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment) pro- vided speech is clearly and slowly articulated. Establishing cut-off points between levels is always a subjective procedure; some institu- tions prefer broad levels, others prefer narrow ones. The advantage of a branching approach is that a common set of levels and/or descriptors can be ‘cut’ into practical local levels at different points by different users to suit local needs and yet still relate back to a common system. The numbering allows further subdivisions to be made without losing the reference to the main objective being referred to. With a ﬂexible branching scheme such as that proposed, institutions can develop the branches relevant to them to the appropriate degree of delicacy in order to situate the levels used in their system in terms of the common framework. Example 1: A primary to lower secondary school system, for example, or system for adult evening classes in which the provision of visible progress at low levels is felt nec- essary, could develop the Basic User stem to produce a set of perhaps six mile- stones with ﬁner differentiation at A2 (Waystage) where large numbers of learners would be found. Common European Framework of Reference for Languages: learning, teaching, assessment 32 A B C Basic User Independent User Proﬁcient User A1 A2 B1 B2 C1 C2 A2+ B1+ B2+ Figure 2 A B Basic User Independent User A1 A2 B1 A1.1 A1.2 A2.1 A2.2 6 1 2 5 A2.1.1 A2.1.2 3 4 Figure 3
 
-Table 4. Levels A2.1 and A2.2 (A2+): listening comprehension
-
-A2
-
-Can understand enough to be able to meet needs of a concrete type provided speech is clearly and slowly articulated.
-
-Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment) provided speech is clearly and slowly articulated.
-
-Establishing cut-off points between levels is always a subjective procedure; some institutions prefer broad levels, others prefer narrow ones. The advantage of a branching approach is that a common set of levels and/or descriptors can be ‘cut’ into practical local levels at different points by different users to suit local needs and yet still relate back to a common system. The numbering allows further subdivisions to be made without losing the reference to the main objective being referred to. With a flexible branching scheme such as that proposed, institutions can develop the branches relevant to them to the appropriate degree of delicacy in order to situate the levels used in their system in terms of the common framework.
-
-Example 1: A primary to lower secondary school system, for example, or system for adult evening classes in which the provision of visible progress at low levels is felt necessary, could develop the Basic User stem to produce a set of perhaps six milestones with finer differentiation at A2 (Waystage) where large numbers of learners would be found.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
-
-A B C Basic User Independent User Proficient User
-
-A1 A2 B1 B2 C1 C2
-
-A2+ B1+ B2+
-
-Figure 2
-
-A B Basic User Independent User
-
-A1 A2 B1
-
-A1.1 A1.2 A2.1 A2.2
-
-A2.1.1 A2.1.2
-
-Figure 3
+*
 <!-- el:end id=prose_p041 -->
 
-<!-- el:start type=table id=table_p041_01 page=41 -->
-<!-- db:id=table_p041_01 type=table product_tier=context pages=41 -->
+<!-- el:start type=table id=cefr2001_table_4_levels_a2_1_and_a2_2 page=41 -->
+<!-- db:id=cefr2001_table_4_levels_a2_1_and_a2_2 type=table product_tier=context pages=41 -->
+
+**Table 4. Levels A2.1 and A2.2**
+
 
 | A2 |  | Can understand enough to be able to meet needs of a concrete type provided speech is clearly and slowly articulated. |
 | --- | --- | --- |
@@ -1057,7 +1029,7 @@ Figure 3
 | Establishing cut-off points between levels is always a subjective procedure; some institu- tions prefer broad levels, others prefer narrow ones. The advantage of a branching approach is that a common set of levels and/or descriptors can be ‘cut’ into practical local levels at different points by different users to suit local needs and yet still relate back to a common system. The numbering allows further subdivisions to be made without losing the reference to the main objective being referred to. With a flexible branching scheme such as that proposed, institutions can develop the branches relevant to them to the appropriate degree of delicacy in order to situate the levels used in their system in terms of the common framework. Example 1: A primary to lower secondary school system, for example, or system for adult evening classes in which the provision of visible progress at low levels is felt nec- essary, could develop the Basic User stem to produce a set of perhaps six mile- stones with finer differentiation at A2 (Waystage) where large numbers of learners would be found. A B Basic User Independent User A1 A2 B1 6 A1.1 A1.2 A2.1 A2.2 1 2 5 A2.1.1 A2.1.2 3 4 Figure 3 |  |  |
 |  | A B Basic User Independent User A1 A2 B1 6 A1.1 A1.2 A2.1 A2.2 1 2 5 A2.1.1 A2.1.2 3 4 Figure 3 |  |
 
-<!-- el:end id=table_p041_01 -->
+<!-- el:end id=cefr2001_table_4_levels_a2_1_and_a2_2 -->
 
 *Page **41***
 
@@ -1073,7 +1045,9 @@ Example 3: Frameworks for encouraging higher level language skills for professio
 An analysis of the functions, notions, grammar and vocabulary necessary to perform the communicative tasks described on the scales could be part of the process of developing new sets of language specifications.
 
 - Level A1 (Breakthrough) – is considered the lowest level of generative language use
-- the point at which the learner can interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
+
+– the point at which the learner can interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
+
 - Level A2 does appear to reflect the level referred to by the Waystage specification. It is at this level that the majority of descriptors stating social functions are to be found, like use simple everyday polite forms of greeting and address; greet people, ask how they are and react to news; handle very short social exchanges; ask and answer questions about what they do at work and in free time; make and respond to invitations; discuss what to do, where to go and make arrangements to meet; make and accept offers. Here too are to be found
 
 ## Common Reference Levels
@@ -1096,10 +1070,10 @@ B1 B2 C1 C2 C2.1 C2.2 Figure 5
 <!-- page:42 -->
 
 <!-- el:start type=prose id=prose_p043 page=43 -->
-descriptors on getting out and about: the simplified cut-down version of the full set of transactional specifications in ‘The Threshold Level’ for adults living abroad, like: make simple transactions in shops, post offices or banks; get simple information about travel; use public transport: buses, trains, and taxis, ask for basic information, ask and give directions, and buy tickets; ask for and provide everyday goods and services.
+descriptors on getting out and about: the simplified cut-down version of the full set of transactional specifications in ‘The Threshold Level’ for adults living abroad, like: make simple transactions in shops, post offices or banks; get simple information about travel; use public transport: buses, trains, and taxis, ask for basic information, ask and give directions, and buy tickets; ask for and provide everyday goods and services. - The next band represents a strong Waystage (A2+) performance. What is noticeable here is more active participation in conversation given some assistance and certain limitations, for example: initiate, maintain and close simple, restricted face-to-face conversation; understand enough to manage simple, routine exchanges without undue effort; make him/herself understood and exchange ideas and information on familiar topics in predictable everyday situations, provided the other person helps if necessary; communicate successfully on basic themes if he/she can ask for help to express what he wants to; deal with everyday situations with predictable content, though he/she will generally have to compromise the message and search for words; interact with reasonable ease in structured situations, given some help, but participation in open discussion is fairly restricted; plus significantly more ability to sustain monologues, for example: express how he/she feels in simple terms; give an extended description of everyday aspects of his/her environment e.g. people, places, a job or study experience; describe past activities and personal experiences; describe habits and routines; describe plans and arrangements; explain what he/she likes or dislikes about something; give short, basic descriptions of events and activities; describe pets and possessions; use simple descriptive language to make brief statements about and compare objects and possessions.
 
-- The next band represents a strong Waystage (A2+) performance. What is noticeable here is more active participation in conversation given some assistance and certain limitations, for example: initiate, maintain and close simple, restricted face-to-face conversation; understand enough to manage simple, routine exchanges without undue effort; make him/herself understood and exchange ideas and information on familiar topics in predictable everyday situations, provided the other person helps if necessary; communicate successfully on basic themes if he/she can ask for help to express what he wants to; deal with everyday situations with predictable content, though he/she will generally have to compromise the message and search for words; interact with reasonable ease in structured situations, given some help, but participation in open discussion is fairly restricted; plus significantly more ability to sustain monologues, for example: express how he/she feels in simple terms; give an extended description of everyday aspects of his/her environment e.g. people, places, a job or study experience; describe past activities and personal experiences; describe habits and routines; describe plans and arrangements; explain what he/she likes or dislikes about something; give short, basic descriptions of events and activities; describe pets and possessions; use simple descriptive language to make brief statements about and compare objects and possessions.
 - Level B1 reflects the Threshold Level specification for a visitor to a foreign country and is perhaps most categorised by two features. The first feature is the ability to maintain interaction and get across what you want to, in a range of contexts, for example: generally follow the main points of extended discussion around him/her, provided speech is clearly articulated in standard dialect; give or seek personal views and opinions in an informal discussion with friends; express the main point he/she wants to make comprehensibly; exploit a wide range of simple language flexibly to express much of what he or she wants to; maintain a conversation or discussion but may sometimes be difficult to follow when trying to say exactly what he/she would like to; keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production. The second feature is the ability to cope flexibly with problems in everyday life, for example cope with less routine situations on public transport; deal with most situations likely to arise when making travel arrangements through an agent or when actually travelling; enter unprepared into conversations on familiar topics; make a complaint; take some initiatives in an interview/consultation (e.g. to bring up a new subject) but is very dependent on interviewer in the interaction; ask someone to clarify or elaborate what they have just said.
+
 - The subsequent band seems to be a Strong Threshold (B1+). The same two main features continue to be present, with the addition of a number of descriptors which focus on the exchange of quantities of information, for example: take messages communicating enquiries, explaining problems; provide concrete information required in an interview/consultation (e.g. describe symptoms to a doctor) but does so with limited precision; explain why something is a problem; summarise and give his or her opinion about a short story, article, talk, discussion, interview, or documentary and answer further questions of detail; carry out a prepared interview, checking and confirming information, though he/she may occasionally have to ask for repetition if the other person’s response is rapid or extended; describe how to do someCommon European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p043 -->
 
@@ -1150,10 +1124,7 @@ Not every element or aspect in a descriptor is repeated at the following level. 
 
 Not every level is described on all scales. It is difficult to draw conclusions from the absence of a particular area at a particular level, since this could be due to one of several different reasons, or to a combination of them:
 
-- The area exists at this level: some descriptors were included in the research project, but were dropped in quality control;
-- The area probably exists at this level: descriptors could presumably be written, but haven’t been;
-- The area may exist at this level: but formulation seems to be very difficult if not impossible;
-- The area doesn’t exist or isn’t relevant at this level; a distinction cannot be made here.
+- The area exists at this level: some descriptors were included in the research project, but were dropped in quality control; - The area probably exists at this level: descriptors could presumably be written, but haven’t been; - The area may exist at this level: but formulation seems to be very difficult if not impossible; - The area doesn’t exist or isn’t relevant at this level; a distinction cannot be made here.
 
 If users of the Framework wish to exploit the descriptor bank they will need to take a view on the question of what to do about gaps in the descriptors provided. It may well be the case that gaps can be plugged by further elaboration in the context concerned, and/or by merging material from the user’s own system. On the other hand some gaps may still – rightly – remain. It might be the case that a particular category is not relevant towards the top or bottom of the set of levels. A gap in the middle of a scale may, on the other hand, indicate that a meaningful distinction cannot easily be formulated.
 
@@ -1235,10 +1206,7 @@ An important distinction in relation to scaling can be made between the definiti
 
 Users of the Framework may wish to consider and where appropriate state:
 
-- to what extent their interest in levels relates to learning objectives, syllabus content, teacher guidelines and continuous assessment tasks (constructor-oriented);
-- to what extent their interest in levels relates to increasing consistency of assessment by providing defined criteria for degree of skill (assessor-oriented);
-- to what extent their interest in levels relates to reporting results to employers, other educational sectors, parents and learners themselves (user-oriented), providing defined criteria for degrees of skill (assessor-oriented);
-- to what extent their interest in levels relates to reporting results to employers, other educational sectors, parents and learners themselves (user-oriented).
+- to what extent their interest in levels relates to learning objectives, syllabus content, teacher guidelines and continuous assessment tasks (constructor-oriented); - to what extent their interest in levels relates to increasing consistency of assessment by providing defined criteria for degree of skill (assessor-oriented); - to what extent their interest in levels relates to reporting results to employers, other educational sectors, parents and learners themselves (user-oriented), providing defined criteria for degrees of skill (assessor-oriented); - to what extent their interest in levels relates to reporting results to employers, other educational sectors, parents and learners themselves (user-oriented).
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p049 -->
@@ -1248,34 +1216,18 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:49 -->
 
 <!-- el:start type=prose id=prose_p050 page=50 -->
-A particular objective may be situated at a certain level. In Figure 7, examination ‘Y’ aims to cover the band of proficiency represented by Levels 4 and 5 on the proficiency scale. There may be other examinations aimed at different levels, and the proficiency scale may be used to help make transparent the relationship between them. This is the idea behind the English-speaking Union (ESU) Framework project for examinations in English as a Foreign Language, and of the ALTE scheme to relate examinations for different European languages to each other.
+A particular objective may be situated at a certain level. In Figure 7, examination ‘Y’ aims to cover the band of proﬁciency represented by Levels 4 and 5 on the proﬁciency scale. There may be other examinations aimed at different levels, and the proﬁciency scale may be used to help make transparent the relationship between them. This is the idea behind the English-speaking Union (ESU) Framework project for examinations in English as a Foreign Language, and of the ALTE scheme to relate examinations for differ- ent European languages to each other. Achievement in examination ‘Y’ may be assessed in terms of a grading scale, let us say 1–5, in which a ‘3’ is the norm representing a Pass. Such a grading scale may be used for direct assessment of performance in subjectively marked papers – typically for Speaking and for Writing – and/or may be used to report the examination result. Examination ‘Y’ may be part of a suite of examinations ‘X’, ‘Y’ and ‘Z’. Each examination may well have a grading scale in a similar style. But it is obvious that a Grade 4 in Examination X does not mean the same thing as a Grade 4 in Examination Y in terms of proﬁciency in the language. If Examinations ‘X’, ‘Y’, and ‘Z’ have all been situated onto a common proﬁciency scale, then it should be possible, over a period of time, to establish the relationship between the grades on one examination in the series with the grades on the others. This can be achieved through a process of pooling expertise, analysing speciﬁcations, comparing ofﬁcial samples and scaling candidates’ results. Common Reference Levels 41 Proﬁciency Scale Exam ‘Y’ Grades Examination ‘Y’ 9 8 7 6 5 4 3 2 1 5 (DISTINCTION) 4 (CREDIT) 3 (PASS) 2 (FAIL) 1 Figure 7
 
-Achievement in examination ‘Y’ may be assessed in terms of a grading scale, let us say 1–5, in which a ‘3’ is the norm representing a Pass. Such a grading scale may be used for direct assessment of performance in subjectively marked papers – typically for Speaking and for Writing – and/or may be used to report the examination result. Examination ‘Y’ may be part of a suite of examinations ‘X’, ‘Y’ and ‘Z’. Each examination may well have a grading scale in a similar style. But it is obvious that a Grade 4 in Examination X does not mean the same thing as a Grade 4 in Examination Y in terms of proficiency in the language.
-
-If Examinations ‘X’, ‘Y’, and ‘Z’ have all been situated onto a common proficiency scale, then it should be possible, over a period of time, to establish the relationship between the grades on one examination in the series with the grades on the others. This can be achieved through a process of pooling expertise, analysing specifications, comparing official samples and scaling candidates’ results.
-
-## Common Reference Levels
-
-Proficiency
-
-Scale
-
-Exam ‘Y’ Grades
-
-Examination
-
-‘Y’
-
-(DISTINCTION)
-
-(CREDIT)
-
-(PASS)
-
-(FAIL)
-
-Figure 7
+*
 <!-- el:end id=prose_p050 -->
+
+<!-- el:start type=table id=cefr2001_p050_table_01 page=50 -->
+<!-- db:id=cefr2001_p050_table_01 type=table product_tier=context pages=50 -->
+
+| 9 8 7 6 5 4 3 2 1 | Exam ‘Y’ Grades 5 (DISTINCTION) Examination 4 (CREDIT) ‘Y’ 3 (PASS) 2 (FAIL) 1 |
+| --- | --- |
+
+<!-- el:end id=cefr2001_p050_table_01 -->
 
 *Page **50***
 
@@ -1290,9 +1242,7 @@ Nevertheless, it is possible to establish an approximate relationship between th
 
 Users of the Framework may wish to consider and where appropriate state:
 
-- to what extent their concern relates to the establishment of a set of profiling levels to record progress in proficiency within their system as a whole
-- to what extent their concern relates to the provision of transparent criteria for the award of grades of achievement in the objectives set for a particular proficiency level, perhaps operationalised by an examination, perhaps assessed by teachers
-- to what extent their concern relates to the development of a common framework to establish coherent relationships between a range of educational sectors, proficiency levels, and assessment types within their system.
+- to what extent their concern relates to the establishment of a set of profiling levels to record progress in proficiency within their system as a whole - to what extent their concern relates to the provision of transparent criteria for the award of grades of achievement in the objectives set for a particular proficiency level, perhaps operationalised by an examination, perhaps assessed by teachers - to what extent their concern relates to the development of a common framework to establish coherent relationships between a range of educational sectors, proficiency levels, and assessment types within their system.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p051 -->
@@ -1329,7 +1279,9 @@ writers, teachers and examiners will have to make very detailed concrete decisio
 - Under what conditions will they have to act?
 - What knowledge of the world or of another culture will they need to call on?
 - What skills will they need to have developed? How can they still be themselves without being misinterpreted?
+
 - For how much of this can I take responsibility?
+
 - If I cannot predict the situations in which the learners will use the language, how can
 
 I best prepare them to use the language for communication without over-training them for situations that may never arise?
@@ -1359,10 +1311,7 @@ Each act of language use is set in the context of a particular situation within 
 
 The number of possible domains is indeterminate, since any definable sphere of activity or area of concern may constitute the domain of concern to a particular user or course of instruction. For general purposes of language learning and teaching it may be useful to distinguish at least the following:
 
-- the personal domain, in which the person concerned lives as a private individual, centred on home life with family and friends, and engages in individual practices such as reading for pleasure, keeping a personal diary, pursuing a special interest or hobby, etc.;
-- the public domain, in which the person concerned acts as a member of the general public, or of some organisation, and is engaged in transactions of various kinds for a variety of purposes;
-- the occupational domain, in which the person concerned is engaged in his or her job or profession;
-- the educational domain, in which the person concerned is engaged in organised learning, especially (but not necessarily) within an educational institution.
+- the personal domain, in which the person concerned lives as a private individual, centred on home life with family and friends, and engages in individual practices such as reading for pleasure, keeping a personal diary, pursuing a special interest or hobby, etc.; - the public domain, in which the person concerned acts as a member of the general public, or of some organisation, and is engaged in transactions of various kinds for a variety of purposes; - the occupational domain, in which the person concerned is engaged in his or her job or profession; - the educational domain, in which the person concerned is engaged in organised learning, especially (but not necessarily) within an educational institution.
 
 It should be noted that in many situations more than one domain may be involved. For a teacher, the occupational and educational domains largely coincide. The public domain, with that which is involved in terms of social and administrative interactions and transactions, and contact with the media, opens up to the other domains. In both the educational and professional domains, many interactions and language activities fall under the ordinary social functioning of a group rather than reflect a connection with occupational or learning tasks; similarly, the personal domain should by no means be considered as a sphere apart (media penetration into family and personal life, distribution of various ‘public’ documents in ‘private’ letter-boxes, advertising, public texts on the packaging of products used in private daily life, etc.).
 
@@ -1382,13 +1331,7 @@ other domains. Without ceasing to be social agents, the persons involved situate
 
 In each domain, the external situations which arise may be described in terms of:
 
-- the locations in which, and the times at which, they occur;
-- the institutions or organisations – the structure and procedures of which control much of what can normally occur;
-- the persons involved, especially in their relevant social roles in relation to the user/ learner;
-- the objects (animate and inanimate) in the environment;
-- the events that take place;
-- the operations performed by the persons involved;
-- the texts encountered within the situation.
+- the locations in which, and the times at which, they occur; - the institutions or organisations – the structure and procedures of which control much of what can normally occur; - the persons involved, especially in their relevant social roles in relation to the user/ learner; - the objects (animate and inanimate) in the environment; - the events that take place; - the operations performed by the persons involved; - the texts encountered within the situation.
 
 Table 5 (on pages 48–49) gives some examples of the above situational categories, classified according to domains, likely to be met in most European countries. The table is purely illustrative and suggestive. It makes no claim to be exhaustive. In particular it cannot deal with the dynamic aspects of interactive situations, in which the participants identify the relevant features of the situation as it develops and are concerned to change rather than to describe it. More is said regarding the relations between partners in acts of communication in sections 4.1.4 and 4.1.5. On the internal structure of communicative interaction, see 5.2.3.2. On sociocultural aspects, see 5.1.1.2, for user strategies, 4.4.
 
@@ -1398,8 +1341,7 @@ The external conditions under which communication occurs impose various constrai
 
 Users of the Framework may wish to consider and where appropriate state:
 
-- the situations which the learner will need/be equipped/be required to handle;
-- the locations, institutions/organisations, persons, objects, events and actions with which the learner will be concerned.
+- the situations which the learner will need/be equipped/be required to handle; - the locations, institutions/organisations, persons, objects, events and actions with which the learner will be concerned.
 
 Users of the Framework may wish to consider and where appropriate state:
 
@@ -1414,7 +1356,9 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 
 <!-- el:start type=prose id=prose_p056 page=56 -->
 - Physical conditions:
+
 - a) for speech:
+
 - clarity of pronunciation;
 - ambient noise (trains, aircraft, ‘static’, etc.);
 - interference (crowded street, markets, pubs, parties, discos, etc.);
@@ -1455,23 +1399,19 @@ Language use and the language user/learner
 <!-- page:56 -->
 
 <!-- el:start type=prose id=prose_p057 page=57 -->
-Common European Framework of Reference for Languages: learning, teaching, assessment
+Common European Framework of Reference for Languages: learning, teaching, assessment 48 Table 5. External context of use: descriptive categories Domain Locations Institutions Persons Personal Home: house, rooms, garden The family (Grand)Parents, offspring, own Social networks siblings, aunts, uncles, of family cousins, in-laws, spouses, of friends intimates, friends, of strangers acquaintances Own space in hostel, hotel The countryside, seaside Public Public spaces: Public authorities Members of the public street, square, park Political bodies Ofﬁcials Public transport The law Shop personnel Shops (super)markets Public health Police, army, security Hospitals, surgeries, clinics Services clubs Drivers, conductors Sports stadia, ﬁelds, halls Societies Passengers Theatre, cinema, entertainment Political parties Players, fans, spectators Restaurant, pub, hotel Denominations Actors, audiences Places of worship Waiters, barpersons Receptionists Priests, congregation Occupational Ofﬁces Firms Employers/ees Factories Multinational Managers Workshops corporations Colleagues Ports, railways Nationalised Subordinates Farms industries Workmates Airports Trade unions Clients Stores, shops Customers Service industries Receptionists, secretaries Hotels Cleaners Civil Service Educational Schools: hall School Class teachers classrooms, playground, College Teaching staff Sports ﬁelds, corridors University Caretakers Colleges Learned societies Assistant staff Universities Professional Parents Lecture theatres Institutions Classmates Seminar rooms Adult education Professors, lecturers Student Union bodies (Fellow) students Halls of residence Library and laboratory staff Laboratories Refectory staff, cleaners Canteen Porters, secretaries
 
-Table 5. External context of use: descriptive categories
-
-Domain Locations Institutions Persons
-
-Personal Home: house, rooms, garden The family (Grand)Parents, offspring, own Social networks siblings, aunts, uncles, of family cousins, in-laws, spouses, of friends intimates, friends, of strangers acquaintances Own space in hostel, hotel The countryside, seaside
-
-Public Public spaces: Public authorities Members of the public street, square, park Political bodies Officials Public transport The law Shop personnel Shops (super)markets Public health Police, army, security Hospitals, surgeries, clinics Services clubs Drivers, conductors Sports stadia, fields, halls Societies Passengers Theatre, cinema, entertainment Political parties Players, fans, spectators Restaurant, pub, hotel Denominations Actors, audiences Places of worship Waiters, barpersons Receptionists Priests, congregation
-
-Occupational Offices Firms Employers/ees Factories Multinational Managers Workshops corporations Colleagues Ports, railways Nationalised Subordinates Farms industries Workmates Airports Trade unions Clients Stores, shops Customers Service industries Receptionists, secretaries Hotels Cleaners Civil Service
-
-Educational Schools: hall School Class teachers classrooms, playground, College Teaching staff Sports fields, corridors University Caretakers Colleges Learned societies Assistant staff Universities Professional Parents Lecture theatres Institutions Classmates Seminar rooms Adult education Professors, lecturers Student Union bodies (Fellow) students Halls of residence Library and laboratory staff Laboratories Refectory staff, cleaners Canteen Porters, secretaries
+*
 <!-- el:end id=prose_p057 -->
 
-<!-- el:start type=table id=table_p057_01 page=57 -->
-<!-- db:id=table_p057_01 type=table product_tier=context pages=57 -->
+<!-- el:start type=table id=cefr2001_table_5_external_context_of_use_descriptive_categories_domai page=57 -->
+<!-- db:id=cefr2001_table_5_external_context_of_use_descriptive_categories_domai type=table product_tier=context pages=57 -->
+
+**Table 5. External context of use: descriptive categories
+Domain
+Locations
+Institutions**
+
 
 | Domain | Locations | Institutions |
 | --- | --- | --- |
@@ -1480,28 +1420,20 @@ Educational Schools: hall School Class teachers classrooms, playground, College 
 | Occupational | Offices Factories Workshops Ports, railways Farms Airports Stores, shops Service industries Hotels Civil Service | Firms Multinational corporations Nationalised industries Trade unions |
 | Educational | Schools: hall classrooms, playground, Sports fields, corridors Colleges Universities Lecture theatres Seminar rooms Student Union Halls of residence Laboratories Canteen | School College University Learned societies Professional Institutions Adult education bodies |
 
-<!-- el:end id=table_p057_01 -->
+<!-- el:end id=cefr2001_table_5_external_context_of_use_descriptive_categories_domai -->
 
 *Page **57***
 
 <!-- page:57 -->
 
 <!-- el:start type=prose id=prose_p058 page=58 -->
-Language use and the language user/learner
+Language use and the language user/learner 49 Objects Events Operations Texts Furnishing and furniture Family occasions Living routines: Teletext Clothing Encounters dressing, undressing Guarantees Household equipment Incidents, accidents cooking, eating, Recipes Toys, tools, personal hygiene Natural phenomena washing Instructional material Objets d’art, books, Parties, visits DIY, gardening Novels, magazines Wild/domestic animals, pets Walking, cycling Reading, radio and TV Newspapers Trees, plants, lawn, ponds motoring Entertaining Junk mail Household goods Holidays, excursions Hobbies Brochures Handbags Sports events Games and sports Personal letters Leisure/sports equipment Broadcast and recorded spoken texts Money, purse, wallet Incidents Buying and obtaining Public announcements Forms Accidents, illnesses public services and notices Goods Public meetings Using medical services Labels and packaging Weapons Law-suits, court trials Journeys by road/ Leaﬂets, grafﬁti Rucksacks Rag-days, ﬁnes, arrests rails/ship/air Tickets, timetables Cases, grips Matches, contests Public entertainment Notices, regulations Balls Performances and leisure activities Programmes Programmes Weddings, funerals Religious services Contracts Meals, drinks, snacks Menus Passports, licences Sacred texts, sermons, hymns Business machinery Meetings Business admin. Business letter Industrial machinery Interviews Industrial management Report memorandum Industrial and craft tools Receptions Production operations Life and safety notices Conferences Ofﬁce procedures Instructional manuals Trade fairs Trucking Regulations Consultations Sales operations Advertising material Seasonal sales Selling, marketing Labelling and Industrial accidents Computer operation packaging Industrial disputes Ofﬁce maintenance Job description Sign posting Visiting cards Writing material Return to school / entry Assembly Authentic texts (as School uniforms Breaking up Lessons above) Games equipment Visits and exchanges Games Textbooks, readers and clothing Parents’ days / evenings Playtime Reference books Food Sports days, matches Clubs and societies Blackboard text Audio-visual equipment Disciplinary problems Lectures, essay writing OP text Blackboard & chalk Laboratory work Computer screen text Computers Library work Videotext Briefcases and school bags Seminars and tutorials Exercise materials Homework Journal articles Debates and Abstracts discussions Dictionaries
 
-Objects Events Operations Texts
-
-Furnishing and furniture Family occasions Living routines: Teletext Clothing Encounters dressing, undressing Guarantees Household equipment Incidents, accidents cooking, eating, Recipes Toys, tools, personal hygiene Natural phenomena washing Instructional material Objets d’art, books, Parties, visits DIY, gardening Novels, magazines Wild/domestic animals, pets Walking, cycling Reading, radio and TV Newspapers Trees, plants, lawn, ponds motoring Entertaining Junk mail Household goods Holidays, excursions Hobbies Brochures Handbags Sports events Games and sports Personal letters Leisure/sports equipment Broadcast and recorded spoken texts
-
-Money, purse, wallet Incidents Buying and obtaining Public announcements Forms Accidents, illnesses public services and notices Goods Public meetings Using medical services Labels and packaging Weapons Law-suits, court trials Journeys by road/ Leaflets, graffiti Rucksacks Rag-days, fines, arrests rails/ship/air Tickets, timetables Cases, grips Matches, contests Public entertainment Notices, regulations Balls Performances and leisure activities Programmes Programmes Weddings, funerals Religious services Contracts Meals, drinks, snacks Menus Passports, licences Sacred texts, sermons, hymns
-
-Business machinery Meetings Business admin. Business letter Industrial machinery Interviews Industrial management Report memorandum Industrial and craft tools Receptions Production operations Life and safety notices Conferences Office procedures Instructional manuals Trade fairs Trucking Regulations Consultations Sales operations Advertising material Seasonal sales Selling, marketing Labelling and Industrial accidents Computer operation packaging Industrial disputes Office maintenance Job description Sign posting Visiting cards
-
-Writing material Return to school / entry Assembly Authentic texts (as School uniforms Breaking up Lessons above) Games equipment Visits and exchanges Games Textbooks, readers and clothing Parents’ days / evenings Playtime Reference books Food Sports days, matches Clubs and societies Blackboard text Audio-visual equipment Disciplinary problems Lectures, essay writing OP text Blackboard & chalk Laboratory work Computer screen text Computers Library work Videotext Briefcases and school bags Seminars and tutorials Exercise materials Homework Journal articles Debates and Abstracts discussions Dictionaries
+*
 <!-- el:end id=prose_p058 -->
 
-<!-- el:start type=table id=table_p058_01 page=58 -->
-<!-- db:id=table_p058_01 type=table product_tier=context pages=58 -->
+<!-- el:start type=table id=cefr2001_p058_table_01 page=58 -->
+<!-- db:id=cefr2001_p058_table_01 type=table product_tier=context pages=58 -->
 
 | Events | Operations | Texts |
 | --- | --- | --- |
@@ -1510,7 +1442,7 @@ Writing material Return to school / entry Assembly Authentic texts (as School un
 | Meetings Interviews Receptions Conferences Trade fairs Consultations Seasonal sales Industrial accidents Industrial disputes | Business admin. Industrial management Production operations Office procedures Trucking Sales operations Selling, marketing Computer operation Office maintenance | Business letter Report memorandum Life and safety notices Instructional manuals Regulations Advertising material Labelling and packaging Job description Sign posting Visiting cards |
 | Return to school / entry Breaking up Visits and exchanges Parents’ days / evenings Sports days, matches Disciplinary problems | Assembly Lessons Games Playtime Clubs and societies Lectures, essay writing Laboratory work Library work Seminars and tutorials Homework Debates and discussions | Authentic texts (as above) Textbooks, readers Reference books Blackboard text OP text Computer screen text Videotext Exercise materials Journal articles Abstracts Dictionaries |
 
-<!-- el:end id=table_p058_01 -->
+<!-- el:end id=cefr2001_p058_table_01 -->
 
 *Page **58***
 
@@ -1562,6 +1494,7 @@ Within the various domains we may distinguish themes, the topics which are the s
 Users of the Framework may wish to consider and where appropriate state:
 
 - to what extent the learners will need to adjust to the interlocutor’s mental context;
+
 - how learners can best be prepared to make the necessary adjustments.
 
 Users of the Framework may wish to consider and where appropriate state:
@@ -1569,6 +1502,7 @@ Users of the Framework may wish to consider and where appropriate state:
 - what assumptions are made about the learner’s ability to observe and identify relevant features of the external contexts of communication;
 - how communicative and learning activities relate to the learner’s drives, motivations and interests;
 - how far the learner is required to reflect on experience;
+
 - in what ways the mental characteristics of the learner condition and constrain communication.
 
 Language use and the language user/learner
@@ -1648,8 +1582,7 @@ Practitioners (teachers, course-writers, examiners, curriculum designers, etc.) 
 
 Users of the Framework may wish to consider and where appropriate state:
 
-- the communicative tasks in the personal, public, occupational and/or educational domains that the learner will need/be equipped/be required to tackle;
-- the assessment of learner needs on which the choice of tasks is based.
+- the communicative tasks in the personal, public, occupational and/or educational domains that the learner will need/be equipped/be required to tackle; - the assessment of learner needs on which the choice of tasks is based.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p063 -->
@@ -1719,6 +1652,7 @@ Imaginative and artistic uses of language are important both educationally and i
 - retelling and rewriting stories, etc.
 - listening to, reading, writing and speaking imaginative texts (stories, rhymes, etc.) including audio-visual texts, cartoons, picture stories, etc.
 - performing scripted or unscripted plays, etc.
+
 - the production, reception and performance of literary texts, e.g.: reading and writing texts (short stories, novels, poetry, etc.) and performing and watching/listening to recitals, drama, opera, etc.
 
 This summary treatment of what has traditionally been a major, often dominant, aspect of modern language studies in upper secondary and higher education may appear dismissive. It is not intended to be so. National and regional literatures make a major contribution to the European cultural heritage, which the Council of Europe sees as ‘a valuable common resource to be protected and developed’. Literary studies serve many more educational purposes – intellectual, moral and emotional, linguistic and cultural
@@ -1769,48 +1703,13 @@ Language use and the language user/learner
 <!-- page:66 -->
 
 <!-- el:start type=prose id=prose_p067 page=67 -->
-4.4.1.1 In oral production (speaking) activities the language user produces an oral text which is received by an audience of one or more listeners. Examples of speaking activities include:
+4.4.1.1 In oral production (speaking) activities the language user produces an oral text which is received by an audience of one or more listeners. Examples of speaking activ- ities include: • public address (information, instructions, etc.) • addressing audiences (speeches at public meetings, university lectures, sermons, entertainment, sports commentaries, sales presentations, etc.). They may involve, for example: • reading a written text aloud; • speaking from notes, or from a written text or visual aids (diagrams, pictures, charts, etc.); • acting out a rehearsed role; • speaking spontaneously; • singing. Illustrative scales are provided for: • Overall spoken production; • Sustained monologue: describing experience; • Sustained monologue: putting a case (e.g. in debate); • Public announcements; • Addressing audiences. OVERALL ORAL PRODUCTION C2 Can produce clear, smoothly ﬂowing well-structured speech with an effective logical structure which helps the recipient to notice and remember signiﬁcant points. C1 Can give clear, detailed descriptions and presentations on complex subjects, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. Can give clear, systematically developed descriptions and presentations, with appropriate highlighting of signiﬁcant points, and relevant supporting detail. B2 Can give clear, detailed descriptions and presentations on a wide range of subjects related to his/her ﬁeld of interest, expanding and supporting ideas with subsidiary points and relevant examples. B1 Can reasonably ﬂuently sustain a straightforward description of one of a variety of subjects within his/her ﬁeld of interest, presenting it as a linear sequence of points. A2 Can give a simple description or presentation of people, living or working conditions, daily routines, likes/dislikes, etc. as a short series of simple phrases and sentences linked into a list. A1 Can produce simple mainly isolated phrases about people and places. Common European Framework of Reference for Languages: learning, teaching, assessment 58
 
-- public address (information, instructions, etc.)
-- addressing audiences (speeches at public meetings, university lectures, sermons, entertainment, sports commentaries, sales presentations, etc.).
-
-They may involve, for example:
-
-- reading a written text aloud;
-- speaking from notes, or from a written text or visual aids (diagrams, pictures, charts, etc.);
-- acting out a rehearsed role;
-- speaking spontaneously;
-- singing.
-
-Illustrative scales are provided for:
-
-- Overall spoken production;
-- Sustained monologue: describing experience;
-- Sustained monologue: putting a case (e.g. in debate);
-- Public announcements;
-- Addressing audiences.
-
-OVERALL ORAL PRODUCTION
-
-C2 Can produce clear, smoothly flowing well-structured speech with an effective logical structure which helps the recipient to notice and remember significant points.
-
-C1 Can give clear, detailed descriptions and presentations on complex subjects, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion.
-
-Can give clear, systematically developed descriptions and presentations, with appropriate highlighting of significant points, and relevant supporting detail. B2
-
-Can give clear, detailed descriptions and presentations on a wide range of subjects related to his/her field of interest, expanding and supporting ideas with subsidiary points and relevant examples.
-
-B1 Can reasonably fluently sustain a straightforward description of one of a variety of subjects within his/her field of interest, presenting it as a linear sequence of points.
-
-A2 Can give a simple description or presentation of people, living or working conditions, daily routines, likes/dislikes, etc. as a short series of simple phrases and sentences linked into a list.
-
-A1 Can produce simple mainly isolated phrases about people and places.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p067 -->
 
-<!-- el:start type=table id=table_p067_01 page=67 -->
-<!-- db:id=table_p067_01 type=table product_tier=context pages=67 -->
+<!-- el:start type=table id=cefr2001_p067_table_01 page=67 -->
+<!-- db:id=cefr2001_p067_table_01 type=table product_tier=context pages=67 -->
 
 |  | OVERALL ORAL PRODUCTION |
 | --- | --- |
@@ -1822,54 +1721,20 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can give a simple description or presentation of people, living or working conditions, daily routines, likes/dislikes, etc. as a short series of simple phrases and sentences linked into a list. |
 | A1 | Can produce simple mainly isolated phrases about people and places. |
 
-<!-- el:end id=table_p067_01 -->
+<!-- el:end id=cefr2001_p067_table_01 -->
 
 *Page **67***
 
 <!-- page:67 -->
 
 <!-- el:start type=prose id=prose_p068 page=68 -->
-SUSTAINED MONOLOGUE: Describing experience
+SUSTAINED MONOLOGUE: Describing experience C2 Can give clear, smoothly ﬂowing, elaborate and often memorable descriptions. C1 Can give clear, detailed descriptions of complex subjects. Can give elaborate descriptions and narratives, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. B2 Can give clear, detailed descriptions on a wide range of subjects related to his/her ﬁeld of interest. Can give straightforward descriptions on a variety of familiar subjects within his/her ﬁeld of interest. Can reasonably ﬂuently relate a straightforward narrative or description as a linear sequence of points. Can give detailed accounts of experiences, describing feelings and reactions. B1 Can relate details of unpredictable occurrences, e.g. an accident. Can relate the plot of a book or ﬁlm and describe his/her reactions. Can describe dreams, hopes and ambitions. Can describe events, real or imagined. Can narrate a story. Can tell a story or describe something in a simple list of points. Can describe everyday aspects of his/her environment e.g. people, places, a job or study experience. Can give short, basic descriptions of events and activities. Can describe plans and arrangements, habits and routines, past activities and personal experiences. A2 Can use simple descriptive language to make brief statements about and compare objects and possessions. Can explain what he/she likes or dislikes about something. Can describe his/her family, living conditions, educational background, present or most recent job. Can describe people, places and possessions in simple terms. A1 Can describe him/herself, what he/she does and where he/she lives. SUSTAINED MONOLOGUE: Putting a case (e.g. in a debate) C2 No descriptor available C1 No descriptor available Can develop an argument systematically with appropriate highlighting of signiﬁcant points, and relevant supporting detail. B2 Can develop a clear argument, expanding and supporting his/her points of view at some length with subsidiary points and relevant examples. Can construct a chain of reasoned argument: Can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options. Can develop an argument well enough to be followed without difﬁculty most of the time. B1 Can brieﬂy give reasons and explanations for opinions, plans and actions. A2 No descriptor available A1 No descriptor available Language use and the language user/learner 59
 
-C2 Can give clear, smoothly flowing, elaborate and often memorable descriptions.
-
-C1
-
-Can give clear, detailed descriptions of complex subjects. Can give elaborate descriptions and narratives, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion.
-
-B2 Can give clear, detailed descriptions on a wide range of subjects related to his/her field of interest.
-
-Can give straightforward descriptions on a variety of familiar subjects within his/her field of interest. Can reasonably fluently relate a straightforward narrative or description as a linear sequence of points. Can give detailed accounts of experiences, describing feelings and reactions. B1 Can relate details of unpredictable occurrences, e.g. an accident. Can relate the plot of a book or film and describe his/her reactions. Can describe dreams, hopes and ambitions. Can describe events, real or imagined. Can narrate a story.
-
-Can tell a story or describe something in a simple list of points. Can describe everyday aspects of his/her environment e.g. people, places, a job or study experience. Can give short, basic descriptions of events and activities. Can describe plans and arrangements, habits and routines, past activities and personal experiences. A2 Can use simple descriptive language to make brief statements about and compare objects and possessions. Can explain what he/she likes or dislikes about something.
-
-Can describe his/her family, living conditions, educational background, present or most recent job. Can describe people, places and possessions in simple terms.
-
-A1 Can describe him/herself, what he/she does and where he/she lives.
-
-SUSTAINED MONOLOGUE: Putting a case (e.g. in a debate)
-
-C2 No descriptor available
-
-C1 No descriptor available
-
-Can develop an argument systematically with appropriate highlighting of significant points, and relevant supporting detail.
-
-B2 Can develop a clear argument, expanding and supporting his/her points of view at some length with subsidiary points and relevant examples. Can construct a chain of reasoned argument: Can explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.
-
-Can develop an argument well enough to be followed without difficulty most of the time. B1
-
-Can briefly give reasons and explanations for opinions, plans and actions.
-
-A2 No descriptor available
-
-A1 No descriptor available
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p068 -->
 
-<!-- el:start type=table id=table_p068_01 page=68 -->
-<!-- db:id=table_p068_01 type=table product_tier=context pages=68 -->
+<!-- el:start type=table id=cefr2001_p068_table_01 page=68 -->
+<!-- db:id=cefr2001_p068_table_01 type=table product_tier=context pages=68 -->
 
 |  | SUSTAINED MONOLOGUE: Describing experience |
 | --- | --- |
@@ -1890,60 +1755,22 @@ Language use and the language user/learner
 | A2 | No descriptor available |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p068_01 -->
+<!-- el:end id=cefr2001_p068_table_01 -->
 
 *Page **68***
 
 <!-- page:68 -->
 
 <!-- el:start type=prose id=prose_p069 page=69 -->
-PUBLIC ANNOUNCEMENTS
+## Public Announcements
 
-C2 No descriptor available
+C2 No descriptor available C1 Can deliver announcements ﬂuently, almost effortlessly, using stress and intonation to convey ﬁner shades of meaning precisely. B2 Can deliver announcements on most general topics with a degree of clarity, ﬂuency and spontaneity which causes no strain or inconvenience to the listener. B1 Can deliver short, rehearsed announcements on a topic pertinent to everyday occurrences in his/her ﬁeld which, despite possibly very foreign stress and intonation, are nevertheless clearly intelligible. A2 Can deliver very short, rehearsed announcements of predictable, learnt content which are intelligible to listeners who are prepared to concentrate. A1 No descriptor available Note: The descriptors on this sub-scale have not been empirically calibrated. ADDRESSING AUDIENCES C2 Can present a complex topic conﬁdently and articulately to an audience unfamiliar with it, structuring and adapting the talk ﬂexibly to meet the audience’s needs. Can handle difﬁcult and even hostile questioning. C1 Can give a clear, well-structured presentation of a complex subject, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples. Can handle interjections well, responding spontaneously and almost effortlessly. Can give a clear, systematically developed presentation, with highlighting of signiﬁcant points, and relevant supporting detail. Can depart spontaneously from a prepared text and follow up interesting points raised by members of the audience, often showing remarkable ﬂuency and ease of expression. B2 Can give a clear, prepared presentation, giving reasons in support of or against a particular point of view and giving the advantages and disadvantages of various options. Can take a series of follow up questions with a degree of ﬂuency and spontaneity which poses no strain for either him/herself or the audience. B1 Can give a prepared straightforward presentation on a familiar topic within his/her ﬁeld which is clear enough to be followed without difﬁculty most of the time, and in which the main points are explained with reasonable precision. Can take follow up questions, but may have to ask for repetition if the speech was rapid. Can give a short, rehearsed presentation on a topic pertinent to his/her everyday life, brieﬂy give reasons and explanations for opinions, plans and actions. Can cope with a limited number of straightforward follow up questions. A2 Can give a short, rehearsed, basic presentation on a familiar subject. Can answer straightforward follow up questions if he/she can ask for repetition and if some help with the formulation of his/her reply is possible. A1 Can read a very short, rehearsed statement – e.g. to introduce a speaker, propose a toast. Note: The descriptors on this sub-scale have been created by recombining elements of descriptors from other scales. Common European Framework of Reference for Languages: learning, teaching, assessment 60
 
-C1 Can deliver announcements fluently, almost effortlessly, using stress and intonation to convey finer shades of meaning precisely.
-
-B2 Can deliver announcements on most general topics with a degree of clarity, fluency and spontaneity which causes no strain or inconvenience to the listener.
-
-B1 Can deliver short, rehearsed announcements on a topic pertinent to everyday occurrences in his/her field which, despite possibly very foreign stress and intonation, are nevertheless clearly intelligible.
-
-A2 Can deliver very short, rehearsed announcements of predictable, learnt content which are intelligible to listeners who are prepared to concentrate.
-
-A1 No descriptor available
-
-Note: The descriptors on this sub-scale have not been empirically calibrated.
-
-ADDRESSING AUDIENCES
-
-C2
-
-Can present a complex topic confidently and articulately to an audience unfamiliar with it, structuring and adapting the talk flexibly to meet the audience’s needs. Can handle difficult and even hostile questioning.
-
-C1
-
-Can give a clear, well-structured presentation of a complex subject, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples. Can handle interjections well, responding spontaneously and almost effortlessly.
-
-Can give a clear, systematically developed presentation, with highlighting of significant points, and relevant supporting detail. Can depart spontaneously from a prepared text and follow up interesting points raised by members of the audience, often showing remarkable fluency and ease of expression. B2
-
-Can give a clear, prepared presentation, giving reasons in support of or against a particular point of view and giving the advantages and disadvantages of various options. Can take a series of follow up questions with a degree of fluency and spontaneity which poses no strain for either him/herself or the audience.
-
-B1
-
-Can give a prepared straightforward presentation on a familiar topic within his/her field which is clear enough to be followed without difficulty most of the time, and in which the main points are explained with reasonable precision. Can take follow up questions, but may have to ask for repetition if the speech was rapid.
-
-Can give a short, rehearsed presentation on a topic pertinent to his/her everyday life, briefly give reasons and explanations for opinions, plans and actions. Can cope with a limited number of straightforward follow up questions. A2
-
-Can give a short, rehearsed, basic presentation on a familiar subject. Can answer straightforward follow up questions if he/she can ask for repetition and if some help with the formulation of his/her reply is possible.
-
-A1 Can read a very short, rehearsed statement – e.g. to introduce a speaker, propose a toast.
-
-Note: The descriptors on this sub-scale have been created by recombining elements of descriptors from other scales.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p069 -->
 
-<!-- el:start type=table id=table_p069_01 page=69 -->
-<!-- db:id=table_p069_01 type=table product_tier=context pages=69 -->
+<!-- el:start type=table id=cefr2001_p069_table_01 page=69 -->
+<!-- db:id=cefr2001_p069_table_01 type=table product_tier=context pages=69 -->
 
 |  | PUBLIC ANNOUNCEMENTS |
 | --- | --- |
@@ -1964,59 +1791,20 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can give a short, rehearsed, basic presentation on a familiar subject. Can answer straightforward follow up questions if he/she can ask for repetition and if some help with the formulation of his/her reply is possible. |
 | A1 | Can read a very short, rehearsed statement – e.g. to introduce a speaker, propose a toast. |
 
-<!-- el:end id=table_p069_01 -->
+<!-- el:end id=cefr2001_p069_table_01 -->
 
 *Page **69***
 
 <!-- page:69 -->
 
 <!-- el:start type=prose id=prose_p070 page=70 -->
-4.4.1.2 In written production (writing) activities the language user as writer produces a written text which is received by a readership of one or more readers.
+4.4.1.2 In written production (writing) activities the language user as writer produces a written text which is received by a readership of one or more readers. Examples of writing activities include: • completing forms and questionnaires; • writing articles for magazines, newspapers, newsletters, etc.; • producing posters for display; • writing reports, memoranda, etc.; • making notes for future reference; • taking down messages from dictation, etc.; • creative and imaginative writing; • writing personal or business letters, etc. Illustrative scales are provided for: • Overall written production; • Creative writing; • Reports and essays. OVERALL WRITTEN PRODUCTION C2 Can write clear, smoothly ﬂowing, complex texts in an appropriate and effective style and a logical structure which helps the reader to ﬁnd signiﬁcant points. C1 Can write clear, well-structured texts of complex subjects, underlining the relevant salient issues, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples, and rounding off with an appropriate conclusion. B2 Can write clear, detailed texts on a variety of subjects related to his/her ﬁeld of interest, synthesising and evaluating information and arguments from a number of sources. B1 Can write straightforward connected texts on a range of familiar subjects within his ﬁeld of interest, by linking a series of shorter discrete elements into a linear sequence. A2 Can write a series of simple phrases and sentences linked with simple connectors like ‘and’, ‘but’ and ‘because’. A1 Can write simple isolated phrases and sentences. Note: The descriptors on this scale and on the two sub-scales which follow (Creative Writing; Reports and Essays) have not been empirically calibrated with the measurement model. The descriptors for these three scales have therefore been created by recombining elements of descriptors from other scales. Users of the Framework may wish to consider and where appropriate state: • in what range of oral production (speaking) activities the learner will need/be equipped/be required to engage. Language use and the language user/learner 61
 
-Examples of writing activities include:
-
-- completing forms and questionnaires;
-- writing articles for magazines, newspapers, newsletters, etc.;
-- producing posters for display;
-- writing reports, memoranda, etc.;
-- making notes for future reference;
-- taking down messages from dictation, etc.;
-- creative and imaginative writing;
-- writing personal or business letters, etc.
-
-Illustrative scales are provided for:
-
-- Overall written production;
-- Creative writing;
-- Reports and essays.
-
-OVERALL WRITTEN PRODUCTION
-
-C2 Can write clear, smoothly flowing, complex texts in an appropriate and effective style and a logical structure which helps the reader to find significant points.
-
-C1
-
-Can write clear, well-structured texts of complex subjects, underlining the relevant salient issues, expanding and supporting points of view at some length with subsidiary points, reasons and relevant examples, and rounding off with an appropriate conclusion.
-
-B2 Can write clear, detailed texts on a variety of subjects related to his/her field of interest, synthesising and evaluating information and arguments from a number of sources.
-
-B1 Can write straightforward connected texts on a range of familiar subjects within his field of interest, by linking a series of shorter discrete elements into a linear sequence.
-
-A2 Can write a series of simple phrases and sentences linked with simple connectors like ‘and’, ‘but’ and ‘because’.
-
-A1 Can write simple isolated phrases and sentences.
-
-Note: The descriptors on this scale and on the two sub-scales which follow (Creative Writing; Reports and Essays) have not been empirically calibrated with the measurement model. The descriptors for these three scales have therefore been created by recombining elements of descriptors from other scales.
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- in what range of oral production (speaking) activities the learner will need/be equipped/be required to engage.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p070 -->
 
-<!-- el:start type=table id=table_p070_01 page=70 -->
-<!-- db:id=table_p070_01 type=table product_tier=context pages=70 -->
+<!-- el:start type=table id=cefr2001_p070_table_01 page=70 -->
+<!-- db:id=cefr2001_p070_table_01 type=table product_tier=context pages=70 -->
 
 |  | OVERALL WRITTEN PRODUCTION |
 | --- | --- |
@@ -2027,58 +1815,22 @@ Language use and the language user/learner
 | A2 | Can write a series of simple phrases and sentences linked with simple connectors like ‘and’, ‘but’ and ‘because’. |
 | A1 | Can write simple isolated phrases and sentences. |
 
-<!-- el:end id=table_p070_01 -->
+<!-- el:end id=cefr2001_p070_table_01 -->
 
 *Page **70***
 
 <!-- page:70 -->
 
 <!-- el:start type=prose id=prose_p071 page=71 -->
-CREATIVE WRITING
+## Creative Writing
 
-C2 Can write clear, smoothly flowing, and fully engrossing stories and descriptions of experience in a style appropriate to the genre adopted.
+C2 Can write clear, smoothly ﬂowing, and fully engrossing stories and descriptions of experience in a style appropriate to the genre adopted. C1 Can write clear, detailed, well-structured and developed descriptions and imaginative texts in an assured, personal, natural style appropriate to the reader in mind. B2 Can write clear, detailed descriptions of real or imaginary events and experiences, marking the relationship between ideas in clear connected text, and following established conventions of the genre concerned. Can write clear, detailed descriptions on a variety of subjects related to his/her ﬁeld of interest. Can write a review of a ﬁlm, book or play. Can write straightforward, detailed descriptions on a range of familiar subjects within his/her ﬁeld of interest. B1 Can write accounts of experiences, describing feelings and reactions in simple connected text. Can write a description of an event, a recent trip – real or imagined. Can narrate a story. Can write about everyday aspects of his/her environment, e.g. people, places, a job or study experience in linked sentences. Can write very short, basic descriptions of events, past activities and personal experiences. A2 Can write a series of simple phrases and sentences about their family, living conditions, educational background, present or most recent job. Can write short, simple imaginary biographies and simple poems about people. A1 Can write simple phrases and sentences about themselves and imaginary people, where they live and what they do. REPORTS AND ESSAYS C2 Can produce clear, smoothly ﬂowing, complex reports, articles or essays which present a case, or give critical appreciation of proposals or literary works. Can provide an appropriate and effective logical structure which helps the reader to ﬁnd signiﬁcant points. Can write clear, well-structured expositions of complex subjects, underlining the relevant salient issues. C1 Can expand and support points of view at some length with subsidiary points, reasons and relevant examples. Can write an essay or report which develops an argument systematically with appropriate highlighting of signiﬁcant points and relevant supporting detail. Can evaluate different ideas or solutions to a problem. B2 Can write an essay or report which develops an argument, giving reasons in support of or against a particular point of view and explaining the advantages and disadvantages of various options. Can synthesise information and arguments from a number of sources. Can write short, simple essays on topics of interest. Can summarise, report and give his/her opinion about accumulated factual information on familiar routine and non-routine matters within his/her ﬁeld with some conﬁdence. B1 Can write very brief reports to a standard conventionalised format, which pass on routine factual information and state reasons for actions. A2 No descriptor available A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 62
 
-C1 Can write clear, detailed, well-structured and developed descriptions and imaginative texts in an assured, personal, natural style appropriate to the reader in mind.
-
-B2
-
-Can write clear, detailed descriptions of real or imaginary events and experiences, marking the relationship between ideas in clear connected text, and following established conventions of the genre concerned.
-
-Can write clear, detailed descriptions on a variety of subjects related to his/her field of interest. Can write a review of a film, book or play.
-
-Can write straightforward, detailed descriptions on a range of familiar subjects within his/her field of interest. B1 Can write accounts of experiences, describing feelings and reactions in simple connected text. Can write a description of an event, a recent trip – real or imagined. Can narrate a story.
-
-Can write about everyday aspects of his/her environment, e.g. people, places, a job or study experience in linked sentences. Can write very short, basic descriptions of events, past activities and personal experiences. A2
-
-Can write a series of simple phrases and sentences about their family, living conditions, educational background, present or most recent job. Can write short, simple imaginary biographies and simple poems about people.
-
-A1 Can write simple phrases and sentences about themselves and imaginary people, where they live and what they do.
-
-REPORTS AND ESSAYS
-
-C2
-
-Can produce clear, smoothly flowing, complex reports, articles or essays which present a case, or give critical appreciation of proposals or literary works. Can provide an appropriate and effective logical structure which helps the reader to find significant points.
-
-Can write clear, well-structured expositions of complex subjects, underlining the relevant salient issues. C1 Can expand and support points of view at some length with subsidiary points, reasons and relevant examples.
-
-Can write an essay or report which develops an argument systematically with appropriate highlighting of significant points and relevant supporting detail. Can evaluate different ideas or solutions to a problem. B2
-
-Can write an essay or report which develops an argument, giving reasons in support of or against a particular point of view and explaining the advantages and disadvantages of various options. Can synthesise information and arguments from a number of sources.
-
-Can write short, simple essays on topics of interest. Can summarise, report and give his/her opinion about accumulated factual information on familiar routine and non-routine matters within his/her field with some confidence. B1
-
-Can write very brief reports to a standard conventionalised format, which pass on routine factual information and state reasons for actions.
-
-A2 No descriptor available
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p071 -->
 
-<!-- el:start type=table id=table_p071_01 page=71 -->
-<!-- db:id=table_p071_01 type=table product_tier=context pages=71 -->
+<!-- el:start type=table id=cefr2001_p071_table_01 page=71 -->
+<!-- db:id=cefr2001_p071_table_01 type=table product_tier=context pages=71 -->
 
 |  | CREATIVE WRITING |
 | --- | --- |
@@ -2100,7 +1852,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | No descriptor available |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p071_01 -->
+<!-- el:end id=cefr2001_p071_table_01 -->
 
 *Page **71***
 
@@ -2125,57 +1877,13 @@ Language use and the language user/learner
 <!-- page:72 -->
 
 <!-- el:start type=prose id=prose_p073 page=73 -->
-- Execution Compensating; Building on previous knowledge; Trying out.
-- Evaluation Monitoring success.
-- Repair Self-correction.
+• Execution Compensating; Building on previous knowledge; Trying out. • Evaluation Monitoring success. • Repair Self-correction. Illustrative scales are provided for: • Planning; • Compensating; • Monitoring and repair. PLANNING C2 As B2 C1 As B2 B2 Can plan what is to be said and the means to say it, considering the effect on the recipient/s. Can rehearse and try out new combinations and expressions, inviting feedback. B1 Can work out how to communicate the main point(s) he/she wants to get across, exploiting any resources available and limiting the message to what he/she can recall or ﬁnd the means to express. A2 Can recall and rehearse an appropriate set of phrases from his/her repertoire. A1 No descriptor available COMPENSATING C2 Can substitute an equivalent term for a word he/she can’t recall so smoothly that it is scarcely noticeable. C1 As B2+ B2 Can use circumlocution and paraphrase to cover gaps in vocabulary and structure. Can deﬁne the features of something concrete for which he/she can’t remember the word. Can convey meaning by qualifying a word meaning something similar (e.g. a truck for people = bus). B1 Can use a simple word meaning something similar to the concept he/she wants to convey and invites ‘correction’. Can foreignise a mother tongue word and ask for conﬁrmation. A2 Can use an inadequate word from his/her repertoire and use gesture to clarify what he/she wants to say. Can identify what he/she means by pointing to it (e.g. ‘I’d like this, please’). A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 64
 
-Illustrative scales are provided for:
-
-- Planning;
-- Compensating;
-- Monitoring and repair.
-
-PLANNING
-
-C2 As B2
-
-C1 As B2
-
-B2 Can plan what is to be said and the means to say it, considering the effect on the recipient/s.
-
-Can rehearse and try out new combinations and expressions, inviting feedback.
-
-B1 Can work out how to communicate the main point(s) he/she wants to get across, exploiting any resources available and limiting the message to what he/she can recall or find the means to express.
-
-A2 Can recall and rehearse an appropriate set of phrases from his/her repertoire.
-
-A1 No descriptor available
-
-COMPENSATING
-
-C2 Can substitute an equivalent term for a word he/she can’t recall so smoothly that it is scarcely noticeable.
-
-C1 As B2+
-
-B2 Can use circumlocution and paraphrase to cover gaps in vocabulary and structure.
-
-Can define the features of something concrete for which he/she can’t remember the word. Can convey meaning by qualifying a word meaning something similar (e.g. a truck for people = bus). B1
-
-Can use a simple word meaning something similar to the concept he/she wants to convey and invites ‘correction’. Can foreignise a mother tongue word and ask for confirmation.
-
-A2
-
-Can use an inadequate word from his/her repertoire and use gesture to clarify what he/she wants to say.
-
-Can identify what he/she means by pointing to it (e.g. ‘I’d like this, please’).
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p073 -->
 
-<!-- el:start type=table id=table_p073_01 page=73 -->
-<!-- db:id=table_p073_01 type=table product_tier=context pages=73 -->
+<!-- el:start type=table id=cefr2001_p073_table_01 page=73 -->
+<!-- db:id=cefr2001_p073_table_01 type=table product_tier=context pages=73 -->
 
 |  | PLANNING |
 | --- | --- |
@@ -2196,62 +1904,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can identify what he/she means by pointing to it (e.g. ‘I’d like this, please’). |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p073_01 -->
+<!-- el:end id=cefr2001_p073_table_01 -->
 
 *Page **73***
 
 <!-- page:73 -->
 
 <!-- el:start type=prose id=prose_p074 page=74 -->
-MONITORING AND REPAIR
+## Monitoring And Repair
 
-C2 Can backtrack and restructure around a difficulty so smoothly the interlocutor is hardly aware of it.
+C2 Can backtrack and restructure around a difﬁculty so smoothly the interlocutor is hardly aware of it. C1 Can backtrack when he/she encounters a difﬁculty and reformulate what he/she wants to say without fully interrupting the ﬂow of speech. B2 Can correct slips and errors if he/she becomes conscious of them or if they have led to misunderstandings. Can make a note of ‘favourite mistakes’ and consciously monitor speech for it/them. Can correct mix-ups with tenses or expressions that lead to misunderstandings provided the interlocutor indicates there is a problem. B1 Can ask for conﬁrmation that a form used is correct. Can start again using a different tactic when communication breaks down. A2 No descriptor available A1 No descriptor available 4.4.2 Receptive activities and strategies These include listening and reading activities. 4.4.2.1 In aural reception (listening) activities the language user as listener receives and processes a spoken input produced by one or more speakers. Listening activities include: • listening to public announcements (information, instructions, warnings, etc.); • listening to media (radio, TV, recordings, cinema); • listening as a member of a live audience (theatre, public meetings, public lectures, entertainments, etc.); • listening to overheard conversations, etc. In each case the user may be listening: • for gist; • for speciﬁc information; • for detailed understanding; • for implications, etc. Illustrative scales are provided for: • Overall listening comprehension; • Understanding interaction between native speakers; • Listening as a member of a live audience; • Listening to announcements and instructions; • Listening to audio media and recordings. Language use and the language user/learner 65
 
-C1 Can backtrack when he/she encounters a difficulty and reformulate what he/she wants to say without fully interrupting the flow of speech.
-
-B2
-
-Can correct slips and errors if he/she becomes conscious of them or if they have led to misunderstandings. Can make a note of ‘favourite mistakes’ and consciously monitor speech for it/them.
-
-Can correct mix-ups with tenses or expressions that lead to misunderstandings provided the interlocutor indicates there is a problem. B1
-
-Can ask for confirmation that a form used is correct. Can start again using a different tactic when communication breaks down.
-
-A2 No descriptor available
-
-A1 No descriptor available
-
-### 4.4.2 Receptive activities and strategies
-
-These include listening and reading activities.
-
-4.4.2.1 In aural reception (listening) activities the language user as listener receives and processes a spoken input produced by one or more speakers. Listening activities include:
-
-- listening to public announcements (information, instructions, warnings, etc.);
-- listening to media (radio, TV, recordings, cinema);
-- listening as a member of a live audience (theatre, public meetings, public lectures, entertainments, etc.);
-- listening to overheard conversations, etc.
-
-In each case the user may be listening:
-
-- for gist;
-- for specific information;
-- for detailed understanding;
-- for implications, etc.
-
-Illustrative scales are provided for:
-
-- Overall listening comprehension;
-- Understanding interaction between native speakers;
-- Listening as a member of a live audience;
-- Listening to announcements and instructions;
-- Listening to audio media and recordings.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p074 -->
 
-<!-- el:start type=table id=table_p074_01 page=74 -->
-<!-- db:id=table_p074_01 type=table product_tier=context pages=74 -->
+<!-- el:start type=table id=cefr2001_p074_table_01 page=74 -->
+<!-- db:id=cefr2001_p074_table_01 type=table product_tier=context pages=74 -->
 
 |  | MONITORING AND REPAIR |
 | --- | --- |
@@ -2263,54 +1931,22 @@ Language use and the language user/learner
 | A2 | No descriptor available |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p074_01 -->
+<!-- el:end id=cefr2001_p074_table_01 -->
 
 *Page **74***
 
 <!-- page:74 -->
 
 <!-- el:start type=prose id=prose_p075 page=75 -->
-OVERALL LISTENING COMPREHENSION
+## Overall Listening Comprehension
 
-C2 Has no difficulty in understanding any kind of spoken language, whether live or broadcast, delivered at fast native speed.
+C2 Has no difﬁculty in understanding any kind of spoken language, whether live or broadcast, delivered at fast native speed. Can understand enough to follow extended speech on abstract and complex topics beyond his/her own ﬁeld, though he/she may need to conﬁrm occasional details, especially if the accent is unfamiliar. C1 Can recognise a wide range of idiomatic expressions and colloquialisms, appreciating register shifts. Can follow extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly. Can understand standard spoken language, live or broadcast, on both familiar and unfamiliar topics normally encountered in personal, social, academic or vocational life. Only extreme background noise, inadequate discourse structure and/or idiomatic usage inﬂuences the ability to understand. B2 Can understand the main ideas of propositionally and linguistically complex speech on both concrete and abstract topics delivered in a standard dialect, including technical discussions in his/her ﬁeld of specialisation. Can follow extended speech and complex lines of argument provided the topic is reasonably familiar, and the direction of the talk is sign-posted by explicit markers. B1 Can understand straightforward factual information about common everyday or job related topics, identifying both general messages and speciﬁc details, provided speech is clearly articulated in a generally familiar accent. Can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure etc., including short narratives. Can understand enough to be able to meet needs of a concrete type provided speech is clearly and slowly articulated. A2 Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment) provided speech is clearly and slowly articulated. A1 Can follow speech which is very slow and carefully articulated, with long pauses for him/her to assimilate meaning. UNDERSTANDING CONVERSATION BETWEEN NATIVE SPEAKERS C2 As C1 C1 Can easily follow complex interactions between third parties in group discussion and debate, even on abstract, complex unfamiliar topics. Can keep up with an animated conversation between native speakers. B2 Can with some effort catch much of what is said around him/her, but may ﬁnd it difﬁcult to participate effectively in discussion with several native speakers who do not modify their language in any way. B1 Can generally follow the main points of extended discussion around him/her, provided speech is clearly articulated in standard dialect. A2 Can generally identify the topic of discussion around him/her, when it is conducted slowly and clearly. A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 66
 
-Can understand enough to follow extended speech on abstract and complex topics beyond his/her own field, though he/she may need to confirm occasional details, especially if the accent is unfamiliar. C1 Can recognise a wide range of idiomatic expressions and colloquialisms, appreciating register shifts. Can follow extended speech even when it is not clearly structured and when relationships are only implied and not signalled explicitly.
-
-Can understand standard spoken language, live or broadcast, on both familiar and unfamiliar topics normally encountered in personal, social, academic or vocational life. Only extreme background noise, inadequate discourse structure and/or idiomatic usage influences the ability to understand.
-
-B2 Can understand the main ideas of propositionally and linguistically complex speech on both concrete and abstract topics delivered in a standard dialect, including technical discussions in his/her field of specialisation. Can follow extended speech and complex lines of argument provided the topic is reasonably familiar, and the direction of the talk is sign-posted by explicit markers.
-
-B1
-
-Can understand straightforward factual information about common everyday or job related topics, identifying both general messages and specific details, provided speech is clearly articulated in a generally familiar accent.
-
-Can understand the main points of clear standard speech on familiar matters regularly encountered in work, school, leisure etc., including short narratives.
-
-Can understand enough to be able to meet needs of a concrete type provided speech is clearly and slowly articulated. A2
-
-Can understand phrases and expressions related to areas of most immediate priority (e.g. very basic personal and family information, shopping, local geography, employment) provided speech is clearly and slowly articulated.
-
-A1 Can follow speech which is very slow and carefully articulated, with long pauses for him/her to assimilate meaning.
-
-UNDERSTANDING CONVERSATION BETWEEN NATIVE SPEAKERS
-
-C2 As C1
-
-C1 Can easily follow complex interactions between third parties in group discussion and debate, even on abstract, complex unfamiliar topics.
-
-Can keep up with an animated conversation between native speakers. B2 Can with some effort catch much of what is said around him/her, but may find it difficult to participate effectively in discussion with several native speakers who do not modify their language in any way.
-
-B1 Can generally follow the main points of extended discussion around him/her, provided speech is clearly articulated in standard dialect.
-
-A2 Can generally identify the topic of discussion around him/her, when it is conducted slowly and clearly.
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p075 -->
 
-<!-- el:start type=table id=table_p075_01 page=75 -->
-<!-- db:id=table_p075_01 type=table product_tier=context pages=75 -->
+<!-- el:start type=table id=cefr2001_p075_table_01 page=75 -->
+<!-- db:id=cefr2001_p075_table_01 type=table product_tier=context pages=75 -->
 
 |  | OVERALL LISTENING COMPREHENSION |
 | --- | --- |
@@ -2332,48 +1968,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can generally identify the topic of discussion around him/her, when it is conducted slowly and clearly. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p075_01 -->
+<!-- el:end id=cefr2001_p075_table_01 -->
 
 *Page **75***
 
 <!-- page:75 -->
 
 <!-- el:start type=prose id=prose_p076 page=76 -->
-LISTENING AS A MEMBER OF A LIVE AUDIENCE
+## Listening As A Member Of A Live Audience
 
-C2 Can follow specialised lectures and presentations employing a high degree of colloquialism, regional usage or unfamiliar terminology.
+C2 Can follow specialised lectures and presentations employing a high degree of colloquialism, regional usage or unfamiliar terminology. C1 Can follow most lectures, discussions and debates with relative ease. B2 Can follow the essentials of lectures, talks and reports and other forms of academic/professional presentation which are propositionally and linguistically complex. Can follow a lecture or talk within his/her own ﬁeld, provided the subject matter is familiar and the presentation straightforward and clearly structured. B1 Can follow in outline straightforward short talks on familiar topics provided these are delivered in clearly articulated standard speech. A2 No descriptor available A1 No descriptor available LISTENING TO ANNOUNCEMENTS AND INSTRUCTIONS C2 As C1 Can extract speciﬁc information from poor quality, audibly distorted public announcements, e.g. in a station, sports stadium etc. C1 Can understand complex technical information, such as operating instructions, speciﬁcations for familiar products and services. B2 Can understand announcements and messages on concrete and abstract topics spoken in standard dialect at normal speed. B1 Can understand simple technical information, such as operating instructions for everyday equipment. Can follow detailed directions. A2 Can catch the main point in short, clear, simple messages and announcements. Can understand simple directions relating to how to get from X to Y, by foot or public transport. A1 Can understand instructions addressed carefully and slowly to him/her and follow short, simple directions. Language use and the language user/learner 67
 
-C1 Can follow most lectures, discussions and debates with relative ease.
-
-B2 Can follow the essentials of lectures, talks and reports and other forms of academic/professional presentation which are propositionally and linguistically complex.
-
-Can follow a lecture or talk within his/her own field, provided the subject matter is familiar and the presentation straightforward and clearly structured. B1
-
-Can follow in outline straightforward short talks on familiar topics provided these are delivered in clearly articulated standard speech.
-
-A2 No descriptor available
-
-A1 No descriptor available
-
-LISTENING TO ANNOUNCEMENTS AND INSTRUCTIONS
-
-C2 As C1
-
-Can extract specific information from poor quality, audibly distorted public announcements, e.g. in a station, sports stadium etc. C1 Can understand complex technical information, such as operating instructions, specifications for familiar products and services.
-
-B2 Can understand announcements and messages on concrete and abstract topics spoken in standard dialect at normal speed.
-
-B1 Can understand simple technical information, such as operating instructions for everyday equipment. Can follow detailed directions.
-
-A2 Can catch the main point in short, clear, simple messages and announcements. Can understand simple directions relating to how to get from X to Y, by foot or public transport.
-
-A1 Can understand instructions addressed carefully and slowly to him/her and follow short, simple directions.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p076 -->
 
-<!-- el:start type=table id=table_p076_01 page=76 -->
-<!-- db:id=table_p076_01 type=table product_tier=context pages=76 -->
+<!-- el:start type=table id=cefr2001_p076_table_01 page=76 -->
+<!-- db:id=cefr2001_p076_table_01 type=table product_tier=context pages=76 -->
 
 |  | LISTENING AS A MEMBER OF A LIVE AUDIENCE |
 | --- | --- |
@@ -2392,65 +2002,22 @@ Language use and the language user/learner
 | A2 | Can catch the main point in short, clear, simple messages and announcements. Can understand simple directions relating to how to get from X to Y, by foot or public transport. |
 | A1 | Can understand instructions addressed carefully and slowly to him/her and follow short, simple directions. |
 
-<!-- el:end id=table_p076_01 -->
+<!-- el:end id=cefr2001_p076_table_01 -->
 
 *Page **76***
 
 <!-- page:76 -->
 
 <!-- el:start type=prose id=prose_p077 page=77 -->
-LISTENING TO AUDIO MEDIA AND RECORDINGS
+## Listening To Audio Media And Recordings
 
-C2 As C1
+C2 As C1 C1 Can understand a wide range of recorded and broadcast audio material, including some non-standard usage, and identify ﬁner points of detail including implicit attitudes and relationships between speakers. B2 Can understand recordings in standard dialect likely to be encountered in social, professional or academic life and identify speaker viewpoints and attitudes as well as the information content. Can understand most radio documentaries and most other recorded or broadcast audio material delivered in standard dialect and can identify the speaker’s mood, tone etc. Can understand the information content of the majority of recorded or broadcast audio material on topics of personal interest delivered in clear standard speech. B1 Can understand the main points of radio news bulletins and simpler recorded material about familiar subjects delivered relatively slowly and clearly. A2 Can understand and extract the essential information from short, recorded passages dealing with predictable everyday matters which are delivered slowly and clearly. A1 No descriptor available 4.4.2.2 In visual reception (reading) activities the user as reader receives and processes as input written texts produced by one or more writers. Examples of reading activities include: • reading for general orientation; • reading for information, e.g. using reference works; • reading and following instructions; • reading for pleasure. The language user may read: • for gist; • for speciﬁc information; • for detailed understanding; • for implications, etc. Illustrative scales are provided for: • Overall reading comprehension; • Reading correspondence; Users of the Framework may wish to consider and where appropriate state: • to what range of inputs the learner will need/be equipped/be required to listen; • for what purposes the learner will listen to the input; • in what mode of listening the learner will engage. Common European Framework of Reference for Languages: learning, teaching, assessment 68
 
-C1
-
-Can understand a wide range of recorded and broadcast audio material, including some non-standard usage, and identify finer points of detail including implicit attitudes and relationships between speakers.
-
-B2
-
-Can understand recordings in standard dialect likely to be encountered in social, professional or academic life and identify speaker viewpoints and attitudes as well as the information content.
-
-Can understand most radio documentaries and most other recorded or broadcast audio material delivered in standard dialect and can identify the speaker’s mood, tone etc.
-
-Can understand the information content of the majority of recorded or broadcast audio material on topics of personal interest delivered in clear standard speech. B1
-
-Can understand the main points of radio news bulletins and simpler recorded material about familiar subjects delivered relatively slowly and clearly.
-
-A2 Can understand and extract the essential information from short, recorded passages dealing with predictable everyday matters which are delivered slowly and clearly.
-
-A1 No descriptor available
-
-4.4.2.2 In visual reception (reading) activities the user as reader receives and processes as input written texts produced by one or more writers. Examples of reading activities include:
-
-- reading for general orientation;
-- reading for information, e.g. using reference works;
-- reading and following instructions;
-- reading for pleasure.
-
-The language user may read:
-
-- for gist;
-- for specific information;
-- for detailed understanding;
-- for implications, etc.
-
-Illustrative scales are provided for:
-
-- Overall reading comprehension;
-- Reading correspondence;
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- to what range of inputs the learner will need/be equipped/be required to listen;
-- for what purposes the learner will listen to the input;
-- in what mode of listening the learner will engage.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p077 -->
 
-<!-- el:start type=table id=table_p077_01 page=77 -->
-<!-- db:id=table_p077_01 type=table product_tier=context pages=77 -->
+<!-- el:start type=table id=cefr2001_p077_table_01 page=77 -->
+<!-- db:id=cefr2001_p077_table_01 type=table product_tier=context pages=77 -->
 
 |  | LISTENING TO AUDIO MEDIA AND RECORDINGS |
 | --- | --- |
@@ -2463,58 +2030,20 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can understand and extract the essential information from short, recorded passages dealing with predictable everyday matters which are delivered slowly and clearly. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p077_01 -->
+<!-- el:end id=cefr2001_p077_table_01 -->
 
 *Page **77***
 
 <!-- page:77 -->
 
 <!-- el:start type=prose id=prose_p078 page=78 -->
-- Reading for orientation;
-- Reading for information and argument;
-- Reading instructions.
+• Reading for orientation; • Reading for information and argument; • Reading instructions. OVERALL READING COMPREHENSION Can understand and interpret critically virtually all forms of the written language including abstract, structurally complex, or highly colloquial literary and non-literary writings. C2 Can understand a wide range of long and complex texts, appreciating subtle distinctions of style and implicit as well as explicit meaning. C1 Can understand in detail lengthy, complex texts, whether or not they relate to his/her own area of speciality, provided he/she can reread difﬁcult sections. B2 Can read with a large degree of independence, adapting style and speed of reading to different texts and purposes, and using appropriate reference sources selectively. Has a broad active reading vocabulary, but may experience some difﬁculty with low frequency idioms. B1 Can read straightforward factual texts on subjects related to his/her ﬁeld and interest with a satisfactory level of comprehension. Can understand short, simple texts on familiar matters of a concrete type which consist of high frequency everyday or job-related language. A2 Can understand short, simple texts containing the highest frequency vocabulary, including a proportion of shared international vocabulary items. A1 Can understand very short, simple texts a single phrase at a time, picking up familiar names, words and basic phrases and rereading as required. READING CORRESPONDENCE C2 As C1 C1 Can understand any correspondence given the occasional use of a dictionary. B2 Can read correspondence relating to his/her ﬁeld of interest and readily grasp the essential meaning. B1 Can understand the description of events, feelings and wishes in personal letters well enough to correspond regularly with a pen friend. A2 Can understand basic types of standard routine letters and faxes (enquiries, orders, letters of conﬁrmation etc.) on familiar topics. Can understand short simple personal letters. A1 Can understand short, simple messages on postcards. Language use and the language user/learner 69
 
-OVERALL READING COMPREHENSION
-
-Can understand and interpret critically virtually all forms of the written language including abstract, structurally complex, or highly colloquial literary and non-literary writings. C2 Can understand a wide range of long and complex texts, appreciating subtle distinctions of style and implicit as well as explicit meaning.
-
-C1 Can understand in detail lengthy, complex texts, whether or not they relate to his/her own area of speciality, provided he/she can reread difficult sections.
-
-B2
-
-Can read with a large degree of independence, adapting style and speed of reading to different texts and purposes, and using appropriate reference sources selectively. Has a broad active reading vocabulary, but may experience some difficulty with low frequency idioms.
-
-B1 Can read straightforward factual texts on subjects related to his/her field and interest with a satisfactory level of comprehension.
-
-Can understand short, simple texts on familiar matters of a concrete type which consist of high frequency everyday or job-related language. A2
-
-Can understand short, simple texts containing the highest frequency vocabulary, including a proportion of shared international vocabulary items.
-
-A1 Can understand very short, simple texts a single phrase at a time, picking up familiar names, words and basic phrases and rereading as required.
-
-READING CORRESPONDENCE
-
-C2 As C1
-
-C1 Can understand any correspondence given the occasional use of a dictionary.
-
-B2 Can read correspondence relating to his/her field of interest and readily grasp the essential meaning.
-
-B1 Can understand the description of events, feelings and wishes in personal letters well enough to correspond regularly with a pen friend.
-
-A2
-
-Can understand basic types of standard routine letters and faxes (enquiries, orders, letters of confirmation etc.) on familiar topics.
-
-Can understand short simple personal letters.
-
-A1 Can understand short, simple messages on postcards.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p078 -->
 
-<!-- el:start type=table id=table_p078_01 page=78 -->
-<!-- db:id=table_p078_01 type=table product_tier=context pages=78 -->
+<!-- el:start type=table id=cefr2001_p078_table_01 page=78 -->
+<!-- db:id=cefr2001_p078_table_01 type=table product_tier=context pages=78 -->
 
 |  | OVERALL READING COMPREHENSION |
 | --- | --- |
@@ -2534,62 +2063,22 @@ Language use and the language user/learner
 |  | Can understand short simple personal letters. |
 | A1 | Can understand short, simple messages on postcards. |
 
-<!-- el:end id=table_p078_01 -->
+<!-- el:end id=cefr2001_p078_table_01 -->
 
 *Page **78***
 
 <!-- page:78 -->
 
 <!-- el:start type=prose id=prose_p079 page=79 -->
-READING FOR ORIENTATION
+## Reading For Orientation
 
-C2 As B2
+C2 As B2 C1 As B2 Can scan quickly through long and complex texts, locating relevant details. B2 Can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile. Can scan longer texts in order to locate desired information, and gather information from different parts of a text, or from different texts in order to fulﬁl a speciﬁc task. B1 Can ﬁnd and understand relevant information in everyday material, such as letters, brochures and short ofﬁcial documents. Can ﬁnd speciﬁc, predictable information in simple everyday material such as advertisements, prospectuses, menus, reference lists and timetables. A2 Can locate speciﬁc information in lists and isolate the information required (e.g. use the ‘Yellow Pages’ to ﬁnd a service or tradesman). Can understand everyday signs and notices: in public places, such as streets, restaurants, railway stations; in workplaces, such as directions, instructions, hazard warnings. A1 Can recognise familiar names, words and very basic phrases on simple notices in the most common everyday situations. READING FOR INFORMATION AND ARGUMENT C2 As C1 C1 Can understand in detail a wide range of lengthy, complex texts likely to be encountered in social, professional or academic life, identifying ﬁner points of detail including attitudes and implied as well as stated opinions. Can obtain information, ideas and opinions from highly specialised sources within his/her ﬁeld. B2 Can understand specialised articles outside his/her ﬁeld, provided he/she can use a dictionary occasionally to conﬁrm his/her interpretation of terminology. Can understand articles and reports concerned with contemporary problems in which the writers adopt particular stances or viewpoints. B1 Can identify the main conclusions in clearly signalled argumentative texts. Can recognise the line of argument in the treatment of the issue presented, though not necessarily in detail. Can recognise signiﬁcant points in straightforward newspaper articles on familiar subjects. A2 Can identify speciﬁc information in simpler written material he/she encounters such as letters, brochures and short newspaper articles describing events. A1 Can get an idea of the content of simpler informational material and short simple descriptions, especially if there is visual support. Common European Framework of Reference for Languages: learning, teaching, assessment 70
 
-C1 As B2
-
-Can scan quickly through long and complex texts, locating relevant details. B2 Can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile.
-
-Can scan longer texts in order to locate desired information, and gather information from different parts of a text, or from different texts in order to fulfil a specific task. B1
-
-Can find and understand relevant information in everyday material, such as letters, brochures and short official documents.
-
-Can find specific, predictable information in simple everyday material such as advertisements, prospectuses, menus, reference lists and timetables.
-
-A2 Can locate specific information in lists and isolate the information required (e.g. use the ‘Yellow Pages’ to find a service or tradesman). Can understand everyday signs and notices: in public places, such as streets, restaurants, railway stations; in workplaces, such as directions, instructions, hazard warnings.
-
-A1 Can recognise familiar names, words and very basic phrases on simple notices in the most common everyday situations.
-
-READING FOR INFORMATION AND ARGUMENT
-
-C2 As C1
-
-C1
-
-Can understand in detail a wide range of lengthy, complex texts likely to be encountered in social, professional or academic life, identifying finer points of detail including attitudes and implied as well as stated opinions.
-
-Can obtain information, ideas and opinions from highly specialised sources within his/her field.
-
-B2
-
-Can understand specialised articles outside his/her field, provided he/she can use a dictionary occasionally to confirm his/her interpretation of terminology.
-
-Can understand articles and reports concerned with contemporary problems in which the writers adopt particular stances or viewpoints.
-
-B1
-
-Can identify the main conclusions in clearly signalled argumentative texts. Can recognise the line of argument in the treatment of the issue presented, though not necessarily in detail.
-
-Can recognise significant points in straightforward newspaper articles on familiar subjects.
-
-A2 Can identify specific information in simpler written material he/she encounters such as letters, brochures and short newspaper articles describing events.
-
-A1 Can get an idea of the content of simpler informational material and short simple descriptions, especially if there is visual support.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p079 -->
 
-<!-- el:start type=table id=table_p079_01 page=79 -->
-<!-- db:id=table_p079_01 type=table product_tier=context pages=79 -->
+<!-- el:start type=table id=cefr2001_p079_table_01 page=79 -->
+<!-- db:id=cefr2001_p079_table_01 type=table product_tier=context pages=79 -->
 
 |  | READING FOR ORIENTATION |
 | --- | --- |
@@ -2610,67 +2099,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can identify specific information in simpler written material he/she encounters such as letters, brochures and short newspaper articles describing events. |
 | A1 | Can get an idea of the content of simpler informational material and short simple descriptions, especially if there is visual support. |
 
-<!-- el:end id=table_p079_01 -->
+<!-- el:end id=cefr2001_p079_table_01 -->
 
 *Page **79***
 
 <!-- page:79 -->
 
 <!-- el:start type=prose id=prose_p080 page=80 -->
-READING INSTRUCTIONS
+## Reading Instructions
 
-C2 As C1
+C2 As C1 C1 Can understand in detail lengthy, complex instructions on a new machine or procedure, whether or not the instructions relate to his/her own area of speciality, provided he/she can reread difﬁcult sections. B2 Can understand lengthy, complex instructions in his ﬁeld, including details on conditions and warnings, provided he/she can reread difﬁcult sections. B1 Can understand clearly written, straightforward instructions for a piece of equipment. Can understand regulations, for example safety, when expressed in simple language. A2 Can understand simple instructions on equipment encountered in everyday life – such as a public telephone. A1 Can follow short, simple written directions (e.g. to go from X to Y). 4.4.2.3 In audio-visual reception the user simultaneously receives an auditory and a visual input. Such activities include: • following a text as it is read aloud; • watching TV, video, or a ﬁlm with subtitles; • using new technologies (multi-media, CD ROM, etc.). An illustrative scale is provided for watching TV and ﬁlm: WATCHING TV AND FILM C2 As C1 C1 Can follow ﬁlms employing a considerable degree of slang and idiomatic usage. B2 Can understand most TV news and current affairs programmes. Can understand documentaries, live interviews, talk shows, plays and the majority of ﬁlms in standard dialect. Can understand a large part of many TV programmes on topics of personal interest such as interviews, short lectures, and news reports when the delivery is relatively slow and clear. B1 Can follow many ﬁlms in which visuals and action carry much of the storyline, and which are delivered clearly in straightforward language. Can catch the main points in TV programmes on familiar topics when the delivery is relatively slow and clear. Can identify the main point of TV news items reporting events, accidents etc. where the visual supports the commentary. A2 Can follow changes of topic of factual TV news items, and form an idea of the main content. A1 No descriptor available Users of the Framework may wish to consider and where appropriate state: • for what purposes the learner will need, or wish/be equipped/be required to read; • in which modes the learner will need or wish/be equipped/be required to read. Language use and the language user/learner 71
 
-C1 Can understand in detail lengthy, complex instructions on a new machine or procedure, whether or not the instructions relate to his/her own area of speciality, provided he/she can reread difficult sections.
-
-B2 Can understand lengthy, complex instructions in his field, including details on conditions and warnings, provided he/she can reread difficult sections.
-
-B1 Can understand clearly written, straightforward instructions for a piece of equipment.
-
-Can understand regulations, for example safety, when expressed in simple language.
-
-A2 Can understand simple instructions on equipment encountered in everyday life – such as a public telephone.
-
-A1 Can follow short, simple written directions (e.g. to go from X to Y).
-
-4.4.2.3 In audio-visual reception the user simultaneously receives an auditory and a visual input. Such activities include:
-
-- following a text as it is read aloud;
-- watching TV, video, or a film with subtitles;
-- using new technologies (multi-media, CD ROM, etc.).
-
-An illustrative scale is provided for watching TV and film:
-
-WATCHING TV AND FILM
-
-C2 As C1
-
-C1 Can follow films employing a considerable degree of slang and idiomatic usage.
-
-B2
-
-Can understand most TV news and current affairs programmes. Can understand documentaries, live interviews, talk shows, plays and the majority of films in standard dialect.
-
-Can understand a large part of many TV programmes on topics of personal interest such as interviews, short lectures, and news reports when the delivery is relatively slow and clear.
-
-B1 Can follow many films in which visuals and action carry much of the storyline, and which are delivered clearly in straightforward language. Can catch the main points in TV programmes on familiar topics when the delivery is relatively slow and clear.
-
-Can identify the main point of TV news items reporting events, accidents etc. where the visual supports the commentary. A2
-
-Can follow changes of topic of factual TV news items, and form an idea of the main content.
-
-A1 No descriptor available
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- for what purposes the learner will need, or wish/be equipped/be required to read;
-- in which modes the learner will need or wish/be equipped/be required to read.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p080 -->
 
-<!-- el:start type=table id=table_p080_01 page=80 -->
-<!-- db:id=table_p080_01 type=table product_tier=context pages=80 -->
+<!-- el:start type=table id=cefr2001_p080_table_01 page=80 -->
+<!-- db:id=cefr2001_p080_table_01 type=table product_tier=context pages=80 -->
 
 |  | READING INSTRUCTIONS |
 | --- | --- |
@@ -2693,43 +2137,20 @@ Language use and the language user/learner
 |  | Can follow changes of topic of factual TV news items, and form an idea of the main content. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p080_01 -->
+<!-- el:end id=cefr2001_p080_table_01 -->
 
 *Page **80***
 
 <!-- page:80 -->
 
 <!-- el:start type=prose id=prose_p081 page=81 -->
-4.4.2.4 Reception strategies involve identifying the context and knowledge of the world relevant to it, activating in the process what are thought to be appropriate schemata. These in turn set up expectations about the organisation and content of what is to come (Framing). During the process of receptive activity cues identified in the total context (linguistic and non-linguistic) and the expectations in relation to that context set up by the relevant schemata are used to build up a representation of the meaning being expressed and a hypothesis as to the communicative intention behind it. Through a process of successive approximation, apparent and possible gaps in the message are filled in order to flesh out the representation of meaning, and the significance of the message and of its constituent parts are worked out (Inferring). The gaps filled through inference may be caused by linguistic restrictions, difficult receptive conditions, lack of associated knowledge, or by assumed familiarity, obliqueness, understatement or phonetic reduction on the part of the speaker/writer. The viability of the current model arrived at through this process is checked against the evidence of the incoming co-textual and contextual cues to see if they ‘fit’ the activated schema – the way one is interpreting the situation (Hypothesis testing). An identified mismatch leads to a return to step one (Framing) in the search for an alternative schema which would better explain the incoming cues (Revising Hypotheses).
+4.4.2.4 Reception strategies involve identifying the context and knowledge of the world relevant to it, activating in the process what are thought to be appropriate schemata. These in turn set up expectations about the organisation and content of what is to come (Framing). During the process of receptive activity cues identiﬁed in the total context (lin- guistic and non-linguistic) and the expectations in relation to that context set up by the relevant schemata are used to build up a representation of the meaning being expressed and a hypothesis as to the communicative intention behind it. Through a process of suc- cessive approximation, apparent and possible gaps in the message are ﬁlled in order to ﬂesh out the representation of meaning, and the signiﬁcance of the message and of its constituent parts are worked out (Inferring). The gaps ﬁlled through inference may be caused by linguistic restrictions, difﬁcult receptive conditions, lack of associated knowl- edge, or by assumed familiarity, obliqueness, understatement or phonetic reduction on the part of the speaker/writer. The viability of the current model arrived at through this process is checked against the evidence of the incoming co-textual and contextual cues to see if they ‘ﬁt’ the activated schema – the way one is interpreting the situation (Hypothesis testing). An identiﬁed mismatch leads to a return to step one (Framing) in the search for an alternative schema which would better explain the incoming cues (Revising Hypotheses). • Planning: Framing (selecting mental set, activating schemata, setting up expecta- tions). • Execution: Identifying cues and inferring from them. • Evaluation: Hypothesis testing: matching cues to schemata. • Repair: Revising hypotheses. An illustrative scale is provided: IDENTIFYING CUES AND INFERRING (Spoken & Written) C2 As C1 C1 Is skilled at using contextual, grammatical and lexical cues to infer attitude, mood and intentions and anticipate what will come next. B2 Can use a variety of strategies to achieve comprehension, including listening for main points; checking comprehension by using contextual clues. B1 Can identify unfamiliar words from the context on topics related to his/her ﬁeld and interests. Can extrapolate the meaning of occasional unknown words from the context and deduce sentence meaning provided the topic discussed is familiar. A2 Can use an idea of the overall meaning of short texts and utterances on everyday topics of a concrete type to derive the probable meaning of unknown words from the context. A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 72
 
-- Planning: Framing (selecting mental set, activating schemata, setting up expectations).
-- Execution: Identifying cues and inferring from them.
-- Evaluation: Hypothesis testing: matching cues to schemata.
-- Repair: Revising hypotheses.
-
-An illustrative scale is provided:
-
-IDENTIFYING CUES AND INFERRING (Spoken & Written)
-
-C2 As C1
-
-C1 Is skilled at using contextual, grammatical and lexical cues to infer attitude, mood and intentions and anticipate what will come next.
-
-B2 Can use a variety of strategies to achieve comprehension, including listening for main points; checking comprehension by using contextual clues.
-
-B1
-
-Can identify unfamiliar words from the context on topics related to his/her field and interests. Can extrapolate the meaning of occasional unknown words from the context and deduce sentence meaning provided the topic discussed is familiar.
-
-A2 Can use an idea of the overall meaning of short texts and utterances on everyday topics of a concrete type to derive the probable meaning of unknown words from the context.
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p081 -->
 
-<!-- el:start type=table id=table_p081_01 page=81 -->
-<!-- db:id=table_p081_01 type=table product_tier=context pages=81 -->
+<!-- el:start type=table id=cefr2001_p081_table_01 page=81 -->
+<!-- db:id=cefr2001_p081_table_01 type=table product_tier=context pages=81 -->
 
 |  | IDENTIFYING CUES AND INFERRING (Spoken & Written) |
 | --- | --- |
@@ -2740,7 +2161,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can use an idea of the overall meaning of short texts and utterances on everyday topics of a concrete type to derive the probable meaning of unknown words from the context. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p081_01 -->
+<!-- el:end id=cefr2001_p081_table_01 -->
 
 *Page **81***
 
@@ -2787,37 +2208,15 @@ Language use and the language user/learner
 <!-- page:82 -->
 
 <!-- el:start type=prose id=prose_p083 page=83 -->
-OVERALL SPOKEN INTERACTION
+## Overall Spoken Interaction
 
-C2
+C2 Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning. Can convey ﬁner shades of meaning precisely by using, with reasonable accuracy, a wide range of modiﬁcation devices. Can backtrack and restructure around a difﬁculty so smoothly the interlocutor is hardly aware of it. C1 Can express him/herself ﬂuently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies; only a conceptually difﬁcult subject can hinder a natural, smooth ﬂow of language. Can use the language ﬂuently, accurately and effectively on a wide range of general, academic, vocational or leisure topics, marking clearly the relationships between ideas. Can communicate spontaneously with good grammatical control without much sign of having to restrict what he/she wants to say, adopting a level of formality appropriate to the circumstances. B2 Can interact with a degree of ﬂuency and spontaneity that makes regular interaction, and sustained relationships with native speakers quite possible without imposing strain on either party. Can highlight the personal signiﬁcance of events and experiences, account for and sustain views clearly by providing relevant explanations and arguments. Can communicate with some conﬁdence on familiar routine and non-routine matters related to his/her interests and professional ﬁeld. Can exchange, check and conﬁrm information, deal with less routine situations and explain why something is a problem. Can express thoughts on more abstract, cultural topics such as ﬁlms, books, music etc. B1 Can exploit a wide range of simple language to deal with most situations likely to arise whilst travelling. Can enter unprepared into conversation on familiar topics, express personal opinions and exchange information on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events). Can interact with reasonable ease in structured situations and short conversations, provided the other person helps if necessary. Can manage simple, routine exchanges without undue effort; can ask and answer questions and exchange ideas and information on familiar topics in predictable everyday situations. A2 Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters to do with work and free time. Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord. A1 Can interact in a simple way but communication is totally dependent on repetition at a slower rate of speech, rephrasing and repair. Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics. Common European Framework of Reference for Languages: learning, teaching, assessment 74
 
-Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning. Can convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of modification devices. Can backtrack and restructure around a difficulty so smoothly the interlocutor is hardly aware of it.
-
-C1
-
-Can express him/herself fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies; only a conceptually difficult subject can hinder a natural, smooth flow of language.
-
-Can use the language fluently, accurately and effectively on a wide range of general, academic, vocational or leisure topics, marking clearly the relationships between ideas. Can communicate spontaneously with good grammatical control without much sign of having to restrict what he/she wants to say, adopting a level of formality appropriate to the circumstances. B2
-
-Can interact with a degree of fluency and spontaneity that makes regular interaction, and sustained relationships with native speakers quite possible without imposing strain on either party. Can highlight the personal significance of events and experiences, account for and sustain views clearly by providing relevant explanations and arguments.
-
-Can communicate with some confidence on familiar routine and non-routine matters related to his/her interests and professional field. Can exchange, check and confirm information, deal with less routine situations and explain why something is a problem. Can express thoughts on more abstract, cultural topics such as films, books, music etc. B1
-
-Can exploit a wide range of simple language to deal with most situations likely to arise whilst travelling. Can enter unprepared into conversation on familiar topics, express personal opinions and exchange information on topics that are familiar, of personal interest or pertinent to everyday life (e.g. family, hobbies, work, travel and current events).
-
-Can interact with reasonable ease in structured situations and short conversations, provided the other person helps if necessary. Can manage simple, routine exchanges without undue effort; can ask and answer questions and exchange ideas and information on familiar topics in predictable everyday situations. A2
-
-Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters to do with work and free time. Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord.
-
-A1
-
-Can interact in a simple way but communication is totally dependent on repetition at a slower rate of speech, rephrasing and repair. Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p083 -->
 
-<!-- el:start type=table id=table_p083_01 page=83 -->
-<!-- db:id=table_p083_01 type=table product_tier=context pages=83 -->
+<!-- el:start type=table id=cefr2001_p083_table_01 page=83 -->
+<!-- db:id=cefr2001_p083_table_01 type=table product_tier=context pages=83 -->
 
 |  | OVERALL SPOKEN INTERACTION |
 | --- | --- |
@@ -2831,38 +2230,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters to do with work and free time. Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord. |
 | A1 | Can interact in a simple way but communication is totally dependent on repetition at a slower rate of speech, rephrasing and repair. Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics. |
 
-<!-- el:end id=table_p083_01 -->
+<!-- el:end id=cefr2001_p083_table_01 -->
 
 *Page **83***
 
 <!-- page:83 -->
 
 <!-- el:start type=prose id=prose_p084 page=84 -->
-UNDERSTANDING A NATIVE SPEAKER INTERLOCUTOR
+## Understanding A Native Speaker Interlocutor
 
-C2 Can understand any native speaker interlocutor, even on abstract and complex topics of a specialist nature beyond his/her own field, given an opportunity to adjust to a non-standard accent or dialect.
+C2 Can understand any native speaker interlocutor, even on abstract and complex topics of a specialist nature beyond his/her own ﬁeld, given an opportunity to adjust to a non-standard accent or dialect. C1 Can understand in detail speech on abstract and complex topics of a specialist nature beyond his/her own ﬁeld, though he/she may need to conﬁrm occasional details, especially if the accent is unfamiliar. B2 Can understand in detail what is said to him/her in the standard spoken language even in a noisy environment. B1 Can follow clearly articulated speech directed at him/her in everyday conversation, though will sometimes have to ask for repetition of particular words and phrases. Can understand enough to manage simple, routine exchanges without undue effort. A2 Can generally understand clear, standard speech on familiar matters directed at him/her, provided he/she can ask for repetition or reformulation from time to time. Can understand what is said clearly, slowly and directly to him/her in simple everyday conversation; can be made to understand, if the speaker can take the trouble. Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker. A1 Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. Language use and the language user/learner 75
 
-C1 Can understand in detail speech on abstract and complex topics of a specialist nature beyond his/her own field, though he/she may need to confirm occasional details, especially if the accent is unfamiliar.
-
-B2 Can understand in detail what is said to him/her in the standard spoken language even in a noisy environment.
-
-B1 Can follow clearly articulated speech directed at him/her in everyday conversation, though will sometimes have to ask for repetition of particular words and phrases.
-
-Can understand enough to manage simple, routine exchanges without undue effort.
-
-A2
-
-Can generally understand clear, standard speech on familiar matters directed at him/her, provided he/she can ask for repetition or reformulation from time to time.
-
-Can understand what is said clearly, slowly and directly to him/her in simple everyday conversation; can be made to understand, if the speaker can take the trouble.
-
-Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker. A1 Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p084 -->
 
-<!-- el:start type=table id=table_p084_01 page=84 -->
-<!-- db:id=table_p084_01 type=table product_tier=context pages=84 -->
+<!-- el:start type=table id=cefr2001_p084_table_01 page=84 -->
+<!-- db:id=cefr2001_p084_table_01 type=table product_tier=context pages=84 -->
 
 |  | UNDERSTANDING A NATIVE SPEAKER INTERLOCUTOR |
 | --- | --- |
@@ -2874,34 +2257,22 @@ Language use and the language user/learner
 |  | Can understand what is said clearly, slowly and directly to him/her in simple everyday conversation; can be made to understand, if the speaker can take the trouble. |
 | A1 | Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker. Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. |
 
-<!-- el:end id=table_p084_01 -->
+<!-- el:end id=cefr2001_p084_table_01 -->
 
 *Page **84***
 
 <!-- page:84 -->
 
 <!-- el:start type=prose id=prose_p085 page=85 -->
-CONVERSATION
+## Conversation
 
-C2 Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full social and personal life.
+C2 Can converse comfortably and appropriately, unhampered by any linguistic limitations in conducting a full social and personal life. C1 Can use language ﬂexibly and effectively for social purposes, including emotional, allusive and joking usage. Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a noisy environment. B2 Can sustain relationships with native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with a native speaker. Can convey degrees of emotion and highlight the personal signiﬁcance of events and experiences. Can enter unprepared into conversations on familiar topics. Can follow clearly articulated speech directed at him/her in everyday conversation, though will sometimes have to ask for repetition of particular words and phrases. B1 Can maintain a conversation or discussion but may sometimes be difﬁcult to follow when trying to say exactly what he/she would like to. Can express and respond to feelings such as surprise, happiness, sadness, interest and indifference. Can establish social contact: greetings and farewells; introductions; giving thanks. Can generally understand clear, standard speech on familiar matters directed at him/her, provided he/she can ask for repetition or reformulation from time to time. Can participate in short conversations in routine contexts on topics of interest. Can express how he/she feels in simple terms, and express thanks. A2 Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord, though he/she can be made to understand if the speaker will take the trouble. Can use simple everyday polite forms of greeting and address. Can make and respond to invitations, suggestions and apologies. Can say what he/she likes and dislikes. Can make an introduction and use basic greeting and leave-taking expressions. A1 Can ask how people are and react to news. Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker. Common European Framework of Reference for Languages: learning, teaching, assessment 76
 
-C1 Can use language flexibly and effectively for social purposes, including emotional, allusive and joking usage.
-
-Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a noisy environment. B2 Can sustain relationships with native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with a native speaker. Can convey degrees of emotion and highlight the personal significance of events and experiences.
-
-Can enter unprepared into conversations on familiar topics. Can follow clearly articulated speech directed at him/her in everyday conversation, though will sometimes have to ask for repetition of particular words and phrases. B1 Can maintain a conversation or discussion but may sometimes be difficult to follow when trying to say exactly what he/she would like to. Can express and respond to feelings such as surprise, happiness, sadness, interest and indifference.
-
-Can establish social contact: greetings and farewells; introductions; giving thanks. Can generally understand clear, standard speech on familiar matters directed at him/her, provided he/she can ask for repetition or reformulation from time to time. Can participate in short conversations in routine contexts on topics of interest. Can express how he/she feels in simple terms, and express thanks. A2 Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord, though he/she can be made to understand if the speaker will take the trouble. Can use simple everyday polite forms of greeting and address. Can make and respond to invitations, suggestions and apologies. Can say what he/she likes and dislikes.
-
-Can make an introduction and use basic greeting and leave-taking expressions.
-
-A1 Can ask how people are and react to news. Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p085 -->
 
-<!-- el:start type=table id=table_p085_01 page=85 -->
-<!-- db:id=table_p085_01 type=table product_tier=context pages=85 -->
+<!-- el:start type=table id=cefr2001_p085_table_01 page=85 -->
+<!-- db:id=cefr2001_p085_table_01 type=table product_tier=context pages=85 -->
 
 |  | CONVERSATION |
 | --- | --- |
@@ -2913,44 +2284,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can handle very short social exchanges but is rarely able to understand enough to keep conversation going of his/her own accord, though he/she can be made to understand if the speaker will take the trouble. Can use simple everyday polite forms of greeting and address. Can make and respond to invitations, suggestions and apologies. Can say what he/she likes and dislikes. |
 | A1 | Can make an introduction and use basic greeting and leave-taking expressions. Can ask how people are and react to news. Can understand everyday expressions aimed at the satisfaction of simple needs of a concrete type, delivered directly to him/her in clear, slow and repeated speech by a sympathetic speaker. |
 
-<!-- el:end id=table_p085_01 -->
+<!-- el:end id=cefr2001_p085_table_01 -->
 
 *Page **85***
 
 <!-- page:85 -->
 
 <!-- el:start type=prose id=prose_p086 page=86 -->
-INFORMAL DISCUSSION (WITH FRIENDS)
+## Informal Discussion (With Friends)
 
-C2 As C1
+C2 As C1 C1 Can easily follow and contribute to complex interactions between third parties in group discussion even on abstract, complex unfamiliar topics. Can keep up with an animated discussion between native speakers. Can express his/her ideas and opinions with precision, and present and respond to complex lines of argument convincingly. Can take an active part in informal discussion in familiar contexts, commenting, putting point of view clearly, evaluating alternative proposals and making and responding to hypotheses. B2 Can with some effort catch much of what is said around him/her in discussion, but may ﬁnd it difﬁcult to participate effectively in discussion with several native speakers who do not modify their language in any way. Can account for and sustain his/her opinions in discussion by providing relevant explanations, arguments and comments. Can follow much of what is said around him/her on general topics provided interlocutors avoid very idiomatic usage and articulate clearly. Can express his/her thoughts about abstract or cultural topics such as music, ﬁlms. Can explain why something is a problem. Can give brief comments on the views of others. Can compare and contrast alternatives, discussing what to do, where to go, who or which to choose, etc. B1 Can generally follow the main points in an informal discussion with friends provided speech is clearly articulated in standard dialect. Can give or seek personal views and opinions in discussing topics of interest. Can make his/her opinions and reactions understood as regards solutions to problems or practical questions of where to go, what to do, how to organise an event (e.g. an outing). Can express belief, opinion, agreement and disagreement politely. Can generally identify the topic of discussion around him/her when it is conducted slowly and clearly. Can discuss what to do in the evening, at the weekend. A2 Can make and respond to suggestions. Can agree and disagree with others. Can discuss everyday practical issues in a simple way when addressed clearly, slowly and directly. Can discuss what to do, where to go and make arrangements to meet. A1 No descriptors available Language use and the language user/learner 77
 
-C1 Can easily follow and contribute to complex interactions between third parties in group discussion even on abstract, complex unfamiliar topics.
-
-Can keep up with an animated discussion between native speakers. Can express his/her ideas and opinions with precision, and present and respond to complex lines of argument convincingly.
-
-Can take an active part in informal discussion in familiar contexts, commenting, putting point of view clearly, evaluating alternative proposals and making and responding to hypotheses. B2
-
-Can with some effort catch much of what is said around him/her in discussion, but may find it difficult to participate effectively in discussion with several native speakers who do not modify their language in any way. Can account for and sustain his/her opinions in discussion by providing relevant explanations, arguments and comments.
-
-Can follow much of what is said around him/her on general topics provided interlocutors avoid very idiomatic usage and articulate clearly. Can express his/her thoughts about abstract or cultural topics such as music, films. Can explain why something is a problem. Can give brief comments on the views of others. Can compare and contrast alternatives, discussing what to do, where to go, who or which to choose, etc. B1
-
-Can generally follow the main points in an informal discussion with friends provided speech is clearly articulated in standard dialect. Can give or seek personal views and opinions in discussing topics of interest. Can make his/her opinions and reactions understood as regards solutions to problems or practical questions of where to go, what to do, how to organise an event (e.g. an outing). Can express belief, opinion, agreement and disagreement politely.
-
-Can generally identify the topic of discussion around him/her when it is conducted slowly and clearly. Can discuss what to do in the evening, at the weekend.
-
-A2
-
-Can make and respond to suggestions. Can agree and disagree with others.
-
-Can discuss everyday practical issues in a simple way when addressed clearly, slowly and directly. Can discuss what to do, where to go and make arrangements to meet.
-
-A1 No descriptors available
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p086 -->
 
-<!-- el:start type=table id=table_p086_01 page=86 -->
-<!-- db:id=table_p086_01 type=table product_tier=context pages=86 -->
+<!-- el:start type=table id=cefr2001_p086_table_01 page=86 -->
+<!-- db:id=cefr2001_p086_table_01 type=table product_tier=context pages=86 -->
 
 |  | INFORMAL DISCUSSION (WITH FRIENDS) |
 | --- | --- |
@@ -2964,42 +2313,22 @@ Language use and the language user/learner
 |  | Can discuss everyday practical issues in a simple way when addressed clearly, slowly and directly. Can discuss what to do, where to go and make arrangements to meet. |
 | A1 | No descriptors available |
 
-<!-- el:end id=table_p086_01 -->
+<!-- el:end id=cefr2001_p086_table_01 -->
 
 *Page **86***
 
 <!-- page:86 -->
 
 <!-- el:start type=prose id=prose_p087 page=87 -->
-FORMAL DISCUSSION AND MEETINGS
+## Formal Discussion And Meetings
 
-C2 Can hold his/her own in formal discussion of complex issues, putting an articulate and persuasive argument, at no disadvantage to native speakers.
+C2 Can hold his/her own in formal discussion of complex issues, putting an articulate and persuasive argument, at no disadvantage to native speakers. Can easily keep up with the debate, even on abstract, complex unfamiliar topics. C1 Can argue a formal position convincingly, responding to questions and comments and answering complex lines of counter argument ﬂuently, spontaneously and appropriately. Can keep up with an animated discussion, identifying accurately arguments supporting and opposing points of view. Can express his/her ideas and opinions with precision, present and respond to complex lines of argument convincingly. B2 Can participate actively in routine and non-routine formal discussion. Can follow the discussion on matters related to his/her ﬁeld, understand in detail the points given prominence by the speaker. Can contribute, account for and sustain his/her opinion, evaluate alternative proposals and make and respond to hypotheses. Can follow much of what is said that is related to his/her ﬁeld, provided interlocutors avoid very idiomatic usage and articulate clearly. Can put over a point of view clearly, but has difﬁculty engaging in debate. B1 Can take part in routine formal discussion of familiar subjects which is conducted in clearly articulated speech in the standard dialect and which involves the exchange of factual information, receiving instructions or the discussion of solutions to practical problems. Can generally follow changes of topic in formal discussion related to his/her ﬁeld which is conducted slowly and clearly. A2 Can exchange relevant information and give his/her opinion on practical problems when asked directly, provided he/she receives some help with formulation and can ask for repetition of key points if necessary. Can say what he/she thinks about things when addressed directly in a formal meeting, provided he/she can ask for repetition of key points if necessary. A1 No descriptor available Note: The descriptors on this sub-scale have not been empirically calibrated with the measurement model. Common European Framework of Reference for Languages: learning, teaching, assessment 78
 
-Can easily keep up with the debate, even on abstract, complex unfamiliar topics. C1 Can argue a formal position convincingly, responding to questions and comments and answering complex lines of counter argument fluently, spontaneously and appropriately.
-
-Can keep up with an animated discussion, identifying accurately arguments supporting and opposing points of view. Can express his/her ideas and opinions with precision, present and respond to complex lines of argument convincingly. B2
-
-Can participate actively in routine and non-routine formal discussion. Can follow the discussion on matters related to his/her field, understand in detail the points given prominence by the speaker. Can contribute, account for and sustain his/her opinion, evaluate alternative proposals and make and respond to hypotheses.
-
-Can follow much of what is said that is related to his/her field, provided interlocutors avoid very idiomatic usage and articulate clearly. Can put over a point of view clearly, but has difficulty engaging in debate. B1 Can take part in routine formal discussion of familiar subjects which is conducted in clearly articulated speech in the standard dialect and which involves the exchange of factual information, receiving instructions or the discussion of solutions to practical problems.
-
-Can generally follow changes of topic in formal discussion related to his/her field which is conducted slowly and clearly.
-
-A2
-
-Can exchange relevant information and give his/her opinion on practical problems when asked directly, provided he/she receives some help with formulation and can ask for repetition of key points if necessary.
-
-Can say what he/she thinks about things when addressed directly in a formal meeting, provided he/she can ask for repetition of key points if necessary.
-
-A1 No descriptor available
-
-Note: The descriptors on this sub-scale have not been empirically calibrated with the measurement model.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p087 -->
 
-<!-- el:start type=table id=table_p087_01 page=87 -->
-<!-- db:id=table_p087_01 type=table product_tier=context pages=87 -->
+<!-- el:start type=table id=cefr2001_p087_table_01 page=87 -->
+<!-- db:id=cefr2001_p087_table_01 type=table product_tier=context pages=87 -->
 
 |  | FORMAL DISCUSSION AND MEETINGS |
 | --- | --- |
@@ -3012,36 +2341,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can say what he/she thinks about things when addressed directly in a formal meeting, provided he/she can ask for repetition of key points if necessary. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p087_01 -->
+<!-- el:end id=cefr2001_p087_table_01 -->
 
 *Page **87***
 
 <!-- page:87 -->
 
 <!-- el:start type=prose id=prose_p088 page=88 -->
-GOAL-ORIENTED CO-OPERATION (e.g. Repairing a car, discussing a document, organising an event)
+## Goal-Oriented Co-Operation
 
-C2 As B2
+(e.g. Repairing a car, discussing a document, organising an event) C2 As B2 C1 As B2 Can understand detailed instructions reliably. B2 Can help along the progress of the work by inviting others to join in, say what they think, etc. Can outline an issue or a problem clearly, speculating about causes or consequences, and weighing advantages and disadvantages of different approaches. Can follow what is said, though he/she may occasionally have to ask for repetition or clariﬁcation if the other people’s talk is rapid or extended. Can explain why something is a problem, discuss what to do next, compare and contrast alternatives. Can give brief comments on the views of others. B1 Can generally follow what is said and, when necessary, can repeat back part of what someone has said to conﬁrm mutual understanding. Can make his/her opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations. Can invite others to give their views on how to proceed. Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when he/she does not understand. Can discuss what to do next, making and responding to suggestions, asking for and giving directions. A2 Can indicate when he/she is following and can be made to understand what is necessary, if the speaker takes the trouble. Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next. A1 Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. Can ask people for things, and give people things. Language use and the language user/learner 79
 
-C1 As B2
-
-Can understand detailed instructions reliably.
-
-B2 Can help along the progress of the work by inviting others to join in, say what they think, etc. Can outline an issue or a problem clearly, speculating about causes or consequences, and weighing advantages and disadvantages of different approaches.
-
-Can follow what is said, though he/she may occasionally have to ask for repetition or clarification if the other people’s talk is rapid or extended. Can explain why something is a problem, discuss what to do next, compare and contrast alternatives. Can give brief comments on the views of others. B1 Can generally follow what is said and, when necessary, can repeat back part of what someone has said to confirm mutual understanding. Can make his/her opinions and reactions understood as regards possible solutions or the question of what to do next, giving brief reasons and explanations. Can invite others to give their views on how to proceed.
-
-Can understand enough to manage simple, routine tasks without undue effort, asking very simply for repetition when he/she does not understand. Can discuss what to do next, making and responding to suggestions, asking for and giving directions. A2 Can indicate when he/she is following and can be made to understand what is necessary, if the speaker takes the trouble. Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next.
-
-A1
-
-Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. Can ask people for things, and give people things.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p088 -->
 
-<!-- el:start type=table id=table_p088_01 page=88 -->
-<!-- db:id=table_p088_01 type=table product_tier=context pages=88 -->
+<!-- el:start type=table id=cefr2001_p088_table_01 page=88 -->
+<!-- db:id=cefr2001_p088_table_01 type=table product_tier=context pages=88 -->
 
 |  | GOAL-ORIENTED CO-OPERATION (e.g. Repairing a car, discussing a document, organising an event) |
 | --- | --- |
@@ -3054,42 +2369,22 @@ Language use and the language user/learner
 |  | Can indicate when he/she is following and can be made to understand what is necessary, if the speaker takes the trouble. Can communicate in simple and routine tasks using simple phrases to ask for and provide things, to get simple information and to discuss what to do next. |
 | A1 | Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. Can ask people for things, and give people things. |
 
-<!-- el:end id=table_p088_01 -->
+<!-- el:end id=cefr2001_p088_table_01 -->
 
 *Page **88***
 
 <!-- page:88 -->
 
 <!-- el:start type=prose id=prose_p089 page=89 -->
-TRANSACTIONS TO OBTAIN GOODS AND SERVICES
+## Transactions To Obtain Goods And Services
 
-C2 As B2
+C2 As B2 C1 As B2 Can cope linguistically to negotiate a solution to a dispute like an undeserved trafﬁc ticket, ﬁnancial responsibility for damage in a ﬂat, for blame regarding an accident. B2 Can outline a case for compensation, using persuasive language to demand satisfaction and state clearly the limits to any concession he/she is prepared to make. Can explain a problem which has arisen and make it clear that the provider of the service/customer must make a concession. Can deal with most transactions likely to arise whilst travelling, arranging travel or accommodation, or dealing with authorities during a foreign visit. B1 Can cope with less routine situations in shops, post ofﬁces, banks, e.g. returning an unsatisfactory purchase. Can make a complaint. Can deal with most situations likely to arise when making travel arrangements through an agent or when actually travelling, e.g. asking passenger where to get off for an unfamiliar destination. Can deal with common aspects of everyday living such as travel, lodgings, eating and shopping. Can get all the information needed from a tourist ofﬁce, as long as it is of a straightforward, non- specialised nature. Can ask for and provide everyday goods and services. A2 Can get simple information about travel, use public transport: buses, trains, and taxis, ask and give directions, and buy tickets. Can ask about things and make simple transactions in shops, post ofﬁces or banks. Can give and receive information about quantities, numbers, prices, etc. Can make simple purchases by stating what is wanted and asking the price. Can order a meal. A1 Can ask people for things and give people things. Can handle numbers, quantities, cost and time. Common European Framework of Reference for Languages: learning, teaching, assessment 80
 
-C1 As B2
-
-Can cope linguistically to negotiate a solution to a dispute like an undeserved traffic ticket, financial responsibility for damage in a flat, for blame regarding an accident.
-
-B2
-
-Can outline a case for compensation, using persuasive language to demand satisfaction and state clearly the limits to any concession he/she is prepared to make.
-
-Can explain a problem which has arisen and make it clear that the provider of the service/customer must make a concession.
-
-Can deal with most transactions likely to arise whilst travelling, arranging travel or accommodation, or dealing with authorities during a foreign visit.
-
-B1 Can cope with less routine situations in shops, post offices, banks, e.g. returning an unsatisfactory purchase. Can make a complaint. Can deal with most situations likely to arise when making travel arrangements through an agent or when actually travelling, e.g. asking passenger where to get off for an unfamiliar destination.
-
-Can deal with common aspects of everyday living such as travel, lodgings, eating and shopping. Can get all the information needed from a tourist office, as long as it is of a straightforward, nonspecialised nature.
-
-Can ask for and provide everyday goods and services. A2 Can get simple information about travel, use public transport: buses, trains, and taxis, ask and give directions, and buy tickets. Can ask about things and make simple transactions in shops, post offices or banks. Can give and receive information about quantities, numbers, prices, etc. Can make simple purchases by stating what is wanted and asking the price. Can order a meal.
-
-A1 Can ask people for things and give people things. Can handle numbers, quantities, cost and time.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p089 -->
 
-<!-- el:start type=table id=table_p089_01 page=89 -->
-<!-- db:id=table_p089_01 type=table product_tier=context pages=89 -->
+<!-- el:start type=table id=cefr2001_p089_table_01 page=89 -->
+<!-- db:id=cefr2001_p089_table_01 type=table product_tier=context pages=89 -->
 
 |  | TRANSACTIONS TO OBTAIN GOODS AND SERVICES |
 | --- | --- |
@@ -3102,44 +2397,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can ask for and provide everyday goods and services. Can get simple information about travel, use public transport: buses, trains, and taxis, ask and give directions, and buy tickets. Can ask about things and make simple transactions in shops, post offices or banks. Can give and receive information about quantities, numbers, prices, etc. Can make simple purchases by stating what is wanted and asking the price. Can order a meal. |
 | A1 | Can ask people for things and give people things. Can handle numbers, quantities, cost and time. |
 
-<!-- el:end id=table_p089_01 -->
+<!-- el:end id=cefr2001_p089_table_01 -->
 
 *Page **89***
 
 <!-- page:89 -->
 
 <!-- el:start type=prose id=prose_p090 page=90 -->
-INFORMATION EXCHANGE
+## Information Exchange
 
-C2 As B2
+C2 As B2 C1 As B2 Can understand and exchange complex information and advice on the full range of matters related to his/her occupational role. B2 Can pass on detailed information reliably. Can give a clear, detailed description of how to carry out a procedure. Can synthesise and report information and arguments from a number of sources. Can exchange, check and conﬁrm accumulated factual information on familiar routine and non-routine matters within his/her ﬁeld with some conﬁdence. Can describe how to do something, giving detailed instructions. B1 Can summarise and give his or her opinion about a short story, article, talk, discussion, interview, or documentary and answer further questions of detail. Can ﬁnd out and pass on straightforward factual information. Can ask for and follow detailed directions. Can obtain more detailed information. Can understand enough to manage simple, routine exchanges without undue effort. Can deal with practical everyday demands: ﬁnding out and passing on straightforward factual information. Can ask and answer questions about habits and routines. Can ask and answer questions about pastimes and past activities. A2 Can give and follow simple directions and instructions, e.g. explain how to get somewhere. Can communicate in simple and routine tasks requiring a simple and direct exchange of information. Can exchange limited information on familiar and routine operational matters. Can ask and answer questions about what they do at work and in free time. Can ask for and give directions referring to a map or plan. Can ask for and provide personal information. Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. A1 Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics. Can ask and answer questions about themselves and other people, where they live, people they know, things they have. Can indicate time by such phrases as next week, last Friday, in November, three o’clock. Language use and the language user/learner 81
 
-C1 As B2
-
-Can understand and exchange complex information and advice on the full range of matters related to his/her occupational role. B2 Can pass on detailed information reliably. Can give a clear, detailed description of how to carry out a procedure. Can synthesise and report information and arguments from a number of sources.
-
-Can exchange, check and confirm accumulated factual information on familiar routine and non-routine matters within his/her field with some confidence. Can describe how to do something, giving detailed instructions.
-
-B1
-
-Can summarise and give his or her opinion about a short story, article, talk, discussion, interview, or documentary and answer further questions of detail.
-
-Can find out and pass on straightforward factual information. Can ask for and follow detailed directions. Can obtain more detailed information.
-
-Can understand enough to manage simple, routine exchanges without undue effort. Can deal with practical everyday demands: finding out and passing on straightforward factual information. Can ask and answer questions about habits and routines. Can ask and answer questions about pastimes and past activities. A2 Can give and follow simple directions and instructions, e.g. explain how to get somewhere.
-
-Can communicate in simple and routine tasks requiring a simple and direct exchange of information. Can exchange limited information on familiar and routine operational matters. Can ask and answer questions about what they do at work and in free time. Can ask for and give directions referring to a map or plan. Can ask for and provide personal information.
-
-Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions.
-
-A1
-
-Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics. Can ask and answer questions about themselves and other people, where they live, people they know, things they have. Can indicate time by such phrases as next week, last Friday, in November, three o’clock.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p090 -->
 
-<!-- el:start type=table id=table_p090_01 page=90 -->
-<!-- db:id=table_p090_01 type=table product_tier=context pages=90 -->
+<!-- el:start type=table id=cefr2001_p090_table_01 page=90 -->
+<!-- db:id=cefr2001_p090_table_01 type=table product_tier=context pages=90 -->
 
 |  | INFORMATION EXCHANGE |
 | --- | --- |
@@ -3153,53 +2426,22 @@ Language use and the language user/learner
 |  | Can communicate in simple and routine tasks requiring a simple and direct exchange of information. Can exchange limited information on familiar and routine operational matters. Can ask and answer questions about what they do at work and in free time. Can ask for and give directions referring to a map or plan. Can ask for and provide personal information. |
 | A1 | Can understand questions and instructions addressed carefully and slowly to him/her and follow short, simple directions. Can ask and answer simple questions, initiate and respond to simple statements in areas of immediate need or on very familiar topics. Can ask and answer questions about themselves and other people, where they live, people they know, things they have. Can indicate time by such phrases as next week, last Friday, in November, three o’clock. |
 
-<!-- el:end id=table_p090_01 -->
+<!-- el:end id=cefr2001_p090_table_01 -->
 
 *Page **90***
 
 <!-- page:90 -->
 
 <!-- el:start type=prose id=prose_p091 page=91 -->
-INTERVIEWING AND BEING INTERVIEWED
+## Interviewing And Being Interviewed
 
-C2
+C2 Can keep up his/her side of the dialogue extremely well, structuring the talk and interacting authoritatively with complete ﬂuency as interviewer or interviewee, at no disadvantage to a native speaker. C1 Can participate fully in an interview, as either interviewer or interviewee, expanding and developing the point being discussed ﬂuently without any support, and handling interjections well. Can carry out an effective, ﬂuent interview, departing spontaneously from prepared questions, following up and probing interesting replies. B2 Can take initiatives in an interview, expand and develop ideas with little help or prodding from an interviewer. Can provide concrete information required in an interview/consultation (e.g. describe symptoms to a doctor) but does so with limited precision. Can carry out a prepared interview, checking and conﬁrming information, though he/she may occasionally have to ask for repetition if the other person’s response is rapid or extended. B1 Can take some initiatives in an interview/consultation (e.g. to bring up a new subject) but is very dependent on interviewer in the interaction. Can use a prepared questionnaire to carry out a structured interview, with some spontaneous follow up questions. A2 Can make him/herself understood in an interview and communicate ideas and information on familiar topics, provided he/she can ask for clariﬁcation occasionally, and is given some help to express what he/she wants to. Can answer simple questions and respond to simple statements in an interview. A1 Can reply in an interview to simple direct questions spoken very slowly and clearly in direct non- idiomatic speech about personal details. 4.4.3.2 Written interaction Interaction through the medium of written language includes such activities as: • passing and exchanging notes, memos, etc. when spoken interaction is impossible and inappropriate; • correspondence by letter, fax, e-mail, etc.; • negotiating the text of agreements, contracts, communiqués, etc. by reformulating and exchanging drafts, amendments, proof corrections, etc.; • participating in on-line or off-line computer conferences. 4.4.3.3 Face-to-face interaction may of course involve a mixture of media: spoken, written, audio-visual, paralinguistic (see section 4.4.5.2) and paratextual (see 4.4.5.3). 4.4.3.4 With the increasing sophistication of computer software, interactive man- machine communication is coming to play an ever more important part in the public, occupational, educational and even personal domains. Common European Framework of Reference for Languages: learning, teaching, assessment 82
 
-Can keep up his/her side of the dialogue extremely well, structuring the talk and interacting authoritatively with complete fluency as interviewer or interviewee, at no disadvantage to a native speaker.
-
-C1 Can participate fully in an interview, as either interviewer or interviewee, expanding and developing the point being discussed fluently without any support, and handling interjections well.
-
-Can carry out an effective, fluent interview, departing spontaneously from prepared questions, following up and probing interesting replies. B2
-
-Can take initiatives in an interview, expand and develop ideas with little help or prodding from an interviewer.
-
-Can provide concrete information required in an interview/consultation (e.g. describe symptoms to a doctor) but does so with limited precision. Can carry out a prepared interview, checking and confirming information, though he/she may occasionally have to ask for repetition if the other person’s response is rapid or extended. B1
-
-Can take some initiatives in an interview/consultation (e.g. to bring up a new subject) but is very dependent on interviewer in the interaction. Can use a prepared questionnaire to carry out a structured interview, with some spontaneous follow up questions.
-
-A2
-
-Can make him/herself understood in an interview and communicate ideas and information on familiar topics, provided he/she can ask for clarification occasionally, and is given some help to express what he/she wants to.
-
-Can answer simple questions and respond to simple statements in an interview.
-
-A1 Can reply in an interview to simple direct questions spoken very slowly and clearly in direct nonidiomatic speech about personal details.
-
-4.4.3.2 Written interaction Interaction through the medium of written language includes such activities as:
-
-- passing and exchanging notes, memos, etc. when spoken interaction is impossible and inappropriate;
-- correspondence by letter, fax, e-mail, etc.;
-- negotiating the text of agreements, contracts, communiqués, etc. by reformulating and exchanging drafts, amendments, proof corrections, etc.;
-- participating in on-line or off-line computer conferences.
-
-4.4.3.3 Face-to-face interaction may of course involve a mixture of media: spoken, written, audio-visual, paralinguistic (see section 4.4.5.2) and paratextual (see 4.4.5.3).
-
-4.4.3.4 With the increasing sophistication of computer software, interactive manmachine communication is coming to play an ever more important part in the public, occupational, educational and even personal domains.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p091 -->
 
-<!-- el:start type=table id=table_p091_01 page=91 -->
-<!-- db:id=table_p091_01 type=table product_tier=context pages=91 -->
+<!-- el:start type=table id=cefr2001_p091_table_01 page=91 -->
+<!-- db:id=cefr2001_p091_table_01 type=table product_tier=context pages=91 -->
 
 |  | INTERVIEWING AND BEING INTERVIEWED |
 | --- | --- |
@@ -3213,54 +2455,20 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can answer simple questions and respond to simple statements in an interview. |
 | A1 | Can reply in an interview to simple direct questions spoken very slowly and clearly in direct non- idiomatic speech about personal details. |
 
-<!-- el:end id=table_p091_01 -->
+<!-- el:end id=cefr2001_p091_table_01 -->
 
 *Page **91***
 
 <!-- page:91 -->
 
 <!-- el:start type=prose id=prose_p092 page=92 -->
-Illustrative scales are provided for:
+Illustrative scales are provided for: • overall written interaction • correspondence • notes, messages and forms OVERALL WRITTEN INTERACTION C2 As C1 C1 Can express him/herself with clarity and precision, relating to the addressee ﬂexibly and effectively. B2 Can express news and views effectively in writing, and relate to those of others. Can convey information and ideas on abstract as well as concrete topics, check information and ask about or explain problems with reasonable precision. B1 Can write personal letters and notes asking for or conveying simple information of immediate relevance, getting across the point he/she feels to be important. A2 Can write short, simple formulaic notes relating to matters in areas of immediate need. A1 Can ask for or pass on personal details in written form. CORRESPONDENCE C2 As C1 C1 Can express him/herself with clarity and precision in personal correspondence, using language ﬂexibly and effectively, including emotional, allusive and joking usage. B2 Can write letters conveying degrees of emotion and highlighting the personal signiﬁcance of events and experiences and commenting on the correspondent’s news and views. Can write personal letters giving news and expressing thoughts about abstract or cultural topics such as music, ﬁlms. B1 Can write personal letters describing experiences, feelings and events in some detail. A2 Can write very simple personal letters expressing thanks and apology. A1 Can write a short simple postcard. Language use and the language user/learner 83
 
-- overall written interaction
-- correspondence
-- notes, messages and forms
-
-OVERALL WRITTEN INTERACTION
-
-C2 As C1
-
-C1 Can express him/herself with clarity and precision, relating to the addressee flexibly and effectively.
-
-B2 Can express news and views effectively in writing, and relate to those of others.
-
-Can convey information and ideas on abstract as well as concrete topics, check information and ask about or explain problems with reasonable precision. B1 Can write personal letters and notes asking for or conveying simple information of immediate relevance, getting across the point he/she feels to be important.
-
-A2 Can write short, simple formulaic notes relating to matters in areas of immediate need.
-
-A1 Can ask for or pass on personal details in written form.
-
-CORRESPONDENCE
-
-C2 As C1
-
-C1 Can express him/herself with clarity and precision in personal correspondence, using language flexibly and effectively, including emotional, allusive and joking usage.
-
-B2 Can write letters conveying degrees of emotion and highlighting the personal significance of events and experiences and commenting on the correspondent’s news and views.
-
-Can write personal letters giving news and expressing thoughts about abstract or cultural topics such as music, films. B1
-
-Can write personal letters describing experiences, feelings and events in some detail.
-
-A2 Can write very simple personal letters expressing thanks and apology.
-
-A1 Can write a short simple postcard.
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p092 -->
 
-<!-- el:start type=table id=table_p092_01 page=92 -->
-<!-- db:id=table_p092_01 type=table product_tier=context pages=92 -->
+<!-- el:start type=table id=cefr2001_p092_table_01 page=92 -->
+<!-- db:id=cefr2001_p092_table_01 type=table product_tier=context pages=92 -->
 
 |  | OVERALL WRITTEN INTERACTION |
 | --- | --- |
@@ -3279,43 +2487,22 @@ Language use and the language user/learner
 | A2 | Can write very simple personal letters expressing thanks and apology. |
 | A1 | Can write a short simple postcard. |
 
-<!-- el:end id=table_p092_01 -->
+<!-- el:end id=cefr2001_p092_table_01 -->
 
 *Page **92***
 
 <!-- page:92 -->
 
 <!-- el:start type=prose id=prose_p093 page=93 -->
-NOTES, MESSAGES & FORMS
+## Notes, Messages & Forms
 
-C2 As B1
+C2 As B1 C1 As B1 B2 As B1 Can take messages communicating enquiries, explaining problems. B1 Can write notes conveying simple information of immediate relevance to friends, service people, teachers and others who feature in his/her everyday life, getting across comprehensibly the points he/she feels are important. Can take a short, simple message provided he/she can ask for repetition and reformulation. A2 Can write short, simple notes and messages relating to matters in areas of immediate need. A1 Can write numbers and dates, own name, nationality, address, age, date of birth or arrival in the country, etc. such as on a hotel registration form. 4.4.3.5 Interaction strategies Interaction encompasses both receptive and productive activity as well as activity unique to the construction of joint discourse and therefore all reception strategies and all pro- duction strategies mentioned above are also involved in interaction. However, the fact that spoken interaction entails the collective creation of meaning by the establishment of some degree of common mental context, deﬁning what can be taken as given, working out where people are coming from, converging towards each other or deﬁning and main- taining a comfortable distance, usually in real time, means that in addition to receptive and productive strategies there is a class of strategies exclusive to interaction concerned with the management of this process. In addition, the fact that interaction is primarily face to face tends to provide far greater redundancy both in textual, linguistic terms and with regard to paralinguistic features, contextual cues, all of which can be made more or less elaborate, more or less explicit to the extent that the constant monitoring of the process by the participants indicates that this is appropriate. Planning for spoken interaction involves the activation of schemata or a ‘praxeogram’ (i.e. a diagram representing the structure of a communicative interaction) of the exchanges possible and probable in the forthcoming activity (Framing) and consideration of the communicative distance from other interlocutors (Identifying information/opinion gap; Judging what can be taken as given) in order to decide on options and prepare possible moves in those exchanges (Planning moves). During the activity itself, language users adopt turntaking strategies in order to obtain the discourse initiative (Taking the ﬂoor), to cement the collaboration in the task and keep the discussion on course (Co-operating: Users of the Framework may wish to consider and where appropriate state: • in which kinds of communicative interaction the learner will need/be equipped/be required to engage; • which roles the learner will need/be equipped/be required to play in the interaction. Common European Framework of Reference for Languages: learning, teaching, assessment 84
 
-C1 As B1
-
-B2 As B1
-
-Can take messages communicating enquiries, explaining problems.
-
-B1 Can write notes conveying simple information of immediate relevance to friends, service people, teachers and others who feature in his/her everyday life, getting across comprehensibly the points he/she feels are important.
-
-Can take a short, simple message provided he/she can ask for repetition and reformulation. A2 Can write short, simple notes and messages relating to matters in areas of immediate need.
-
-A1 Can write numbers and dates, own name, nationality, address, age, date of birth or arrival in the country, etc. such as on a hotel registration form.
-
-4.4.3.5 Interaction strategies Interaction encompasses both receptive and productive activity as well as activity unique to the construction of joint discourse and therefore all reception strategies and all production strategies mentioned above are also involved in interaction. However, the fact that spoken interaction entails the collective creation of meaning by the establishment of some degree of common mental context, defining what can be taken as given, working out where people are coming from, converging towards each other or defining and maintaining a comfortable distance, usually in real time, means that in addition to receptive and productive strategies there is a class of strategies exclusive to interaction concerned with the management of this process. In addition, the fact that interaction is primarily face to face tends to provide far greater redundancy both in textual, linguistic terms and with regard to paralinguistic features, contextual cues, all of which can be made more or less elaborate, more or less explicit to the extent that the constant monitoring of the process by the participants indicates that this is appropriate.
-
-Planning for spoken interaction involves the activation of schemata or a ‘praxeogram’ (i.e. a diagram representing the structure of a communicative interaction) of the exchanges possible and probable in the forthcoming activity (Framing) and consideration of the communicative distance from other interlocutors (Identifying information/opinion gap; Judging what can be taken as given) in order to decide on options and prepare possible moves in those exchanges (Planning moves). During the activity itself, language users adopt turntaking strategies in order to obtain the discourse initiative (Taking the floor), to cement the collaboration in the task and keep the discussion on course (Co-operating:
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- in which kinds of communicative interaction the learner will need/be equipped/be required to engage;
-- which roles the learner will need/be equipped/be required to play in the interaction.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p093 -->
 
-<!-- el:start type=table id=table_p093_01 page=93 -->
-<!-- db:id=table_p093_01 type=table product_tier=context pages=93 -->
+<!-- el:start type=table id=cefr2001_p093_table_01 page=93 -->
+<!-- db:id=cefr2001_p093_table_01 type=table product_tier=context pages=93 -->
 
 |  | NOTES, MESSAGES & FORMS |
 | --- | --- |
@@ -3327,7 +2514,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can take a short, simple message provided he/she can ask for repetition and reformulation. Can write short, simple notes and messages relating to matters in areas of immediate need. |
 | A1 | Can write numbers and dates, own name, nationality, address, age, date of birth or arrival in the country, etc. such as on a hotel registration form. |
 
-<!-- el:end id=table_p093_01 -->
+<!-- el:end id=cefr2001_p093_table_01 -->
 
 *Page **93***
 
@@ -3376,51 +2563,15 @@ Language use and the language user/learner
 <!-- page:94 -->
 
 <!-- el:start type=prose id=prose_p095 page=95 -->
-TAKING THE FLOOR (TURNTAKING)
+## Taking The Floor (Turntaking)
 
-C2 As C1
+C2 As C1 C1 Can select a suitable phrase from a readily available range of discourse functions to preface his/her remarks appropriately in order to get the ﬂoor, or to gain time and keep the ﬂoor whilst thinking. Can intervene appropriately in discussion, exploiting appropriate language to do so. Can initiate, maintain and end discourse appropriately with effective turntaking. B2 Can initiate discourse, take his/her turn when appropriate and end conversation when he/she needs to, though he/she may not always do this elegantly. Can use stock phrases (e.g. ‘That’s a difﬁcult question to answer’) to gain time and keep the turn whilst formulating what to say. Can intervene in a discussion on a familiar topic, using a suitable phrase to get the ﬂoor. B1 Can initiate, maintain and close simple, face-to-face conversation on topics that are familiar or of personal interest. Can use simple techniques to start, maintain, or end a short conversation. A2 Can initiate, maintain and close simple, face-to-face conversation. Can ask for attention. A1 No descriptor available CO-OPERATING C2 As C1 C1 Can relate own contribution skilfully to those of other speakers. Can give feedback on and follow up statements and inferences and so help the development of the discussion. B2 Can help the discussion along on familiar ground, conﬁrming comprehension, inviting others in, etc. Can exploit a basic repertoire of language and strategies to help keep a conversation or discussion going. B1 Can summarise the point reached in a discussion and so help focus the talk. Can repeat back part of what someone has said to conﬁrm mutual understanding and help keep the development of ideas on course. Can invite others into the discussion. A2 Can indicate when he/she is following. A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 86
 
-C1 Can select a suitable phrase from a readily available range of discourse functions to preface his/her remarks appropriately in order to get the floor, or to gain time and keep the floor whilst thinking.
-
-Can intervene appropriately in discussion, exploiting appropriate language to do so. Can initiate, maintain and end discourse appropriately with effective turntaking.
-
-B2 Can initiate discourse, take his/her turn when appropriate and end conversation when he/she needs to, though he/she may not always do this elegantly. Can use stock phrases (e.g. ‘That’s a difficult question to answer’) to gain time and keep the turn whilst formulating what to say.
-
-Can intervene in a discussion on a familiar topic, using a suitable phrase to get the floor. B1 Can initiate, maintain and close simple, face-to-face conversation on topics that are familiar or of personal interest.
-
-Can use simple techniques to start, maintain, or end a short conversation.
-
-A2 Can initiate, maintain and close simple, face-to-face conversation.
-
-Can ask for attention.
-
-A1 No descriptor available
-
-CO-OPERATING
-
-C2 As C1
-
-C1 Can relate own contribution skilfully to those of other speakers.
-
-Can give feedback on and follow up statements and inferences and so help the development of the discussion. B2
-
-Can help the discussion along on familiar ground, confirming comprehension, inviting others in, etc.
-
-Can exploit a basic repertoire of language and strategies to help keep a conversation or discussion going.
-
-B1 Can summarise the point reached in a discussion and so help focus the talk.
-
-Can repeat back part of what someone has said to confirm mutual understanding and help keep the development of ideas on course. Can invite others into the discussion.
-
-A2 Can indicate when he/she is following.
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p095 -->
 
-<!-- el:start type=table id=table_p095_01 page=95 -->
-<!-- db:id=table_p095_01 type=table product_tier=context pages=95 -->
+<!-- el:start type=table id=cefr2001_p095_table_01 page=95 -->
+<!-- db:id=cefr2001_p095_table_01 type=table product_tier=context pages=95 -->
 
 |  | TAKING THE FLOOR (TURNTAKING) |
 | --- | --- |
@@ -3441,63 +2592,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can indicate when he/she is following. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p095_01 -->
+<!-- el:end id=cefr2001_p095_table_01 -->
 
 *Page **95***
 
 <!-- page:95 -->
 
 <!-- el:start type=prose id=prose_p096 page=96 -->
-ASKING FOR CLARIFICATION
+## Asking For Clarification
 
-C2 As B2
+C2 As B2 C1 As B2 B2 Can ask follow-up questions to check that he/she has understood what a speaker intended to say, and get clariﬁcation of ambiguous points. B1 Can ask someone to clarify or elaborate what they have just said. Can ask very simply for repetition when he/she does not understand. A2 Can ask for clariﬁcation about key words or phrases not understood using stock phrases. Can say he/she didn’t follow. A1 No descriptor available 4.4.4 Mediating activities and strategies In mediating activities, the language user is not concerned to express his/her own mean- ings, but simply to act as an intermediary between interlocutors who are unable to understand each other directly – normally (but not exclusively) speakers of different lan- guages. Examples of mediating activities include spoken interpretation and written translation as well as summarising and paraphrasing texts in the same language, when the language of the original text is not understandable to the intended recipient e.g.: 4.4.4.1 oral mediation: • simultaneous interpretation (conferences, meetings, formal speeches, etc.); • consecutive interpretation (speeches of welcome, guided tours, etc.); • informal interpretation: • • of foreign visitors in own country • • of native speakers when abroad • • in social and transactional situations for friends, family, clients, foreign guests, etc. • • of signs, menus, notices, etc. 4.4.4.2 written mediation: • exact translation (e.g. of contracts, legal and scientiﬁc texts, etc.); • literary translation (novels, drama, poetry, libretti, etc.); • summarising gist (newspaper and magazine articles, etc.) within L2 or between L1 and L2; • paraphrasing (specialised texts for lay persons, etc.). 4.4.4.3 Mediation strategies reﬂect ways of coping with the demands of using ﬁnite resources to process information and establish equivalent meaning. The process may Language use and the language user/learner 87
 
-C1 As B2
-
-B2 Can ask follow-up questions to check that he/she has understood what a speaker intended to say, and get clarification of ambiguous points.
-
-B1 Can ask someone to clarify or elaborate what they have just said.
-
-Can ask very simply for repetition when he/she does not understand.
-
-A2 Can ask for clarification about key words or phrases not understood using stock phrases.
-
-Can say he/she didn’t follow.
-
-A1 No descriptor available
-
-### 4.4.4 Mediating activities and strategies
-
-In mediating activities, the language user is not concerned to express his/her own meanings, but simply to act as an intermediary between interlocutors who are unable to understand each other directly – normally (but not exclusively) speakers of different languages. Examples of mediating activities include spoken interpretation and written translation as well as summarising and paraphrasing texts in the same language, when the language of the original text is not understandable to the intended recipient e.g.:
-
-4.4.4.1 oral mediation:
-
-- simultaneous interpretation (conferences, meetings, formal speeches, etc.);
-- consecutive interpretation (speeches of welcome, guided tours, etc.);
-- informal interpretation:
-- 
-- of foreign visitors in own country
-- 
-- of native speakers when abroad
-- 
-- in social and transactional situations for friends, family, clients, foreign guests, etc.
-- 
-- of signs, menus, notices, etc.
-
-4.4.4.2 written mediation:
-
-- exact translation (e.g. of contracts, legal and scientific texts, etc.);
-- literary translation (novels, drama, poetry, libretti, etc.);
-- summarising gist (newspaper and magazine articles, etc.) within L2 or between L1 and L2;
-- paraphrasing (specialised texts for lay persons, etc.).
-
-4.4.4.3 Mediation strategies reflect ways of coping with the demands of using finite resources to process information and establish equivalent meaning. The process may
-
-Language use and the language user/learner
+*
 <!-- el:end id=prose_p096 -->
 
-<!-- el:start type=table id=table_p096_01 page=96 -->
-<!-- db:id=table_p096_01 type=table product_tier=context pages=96 -->
+<!-- el:start type=table id=cefr2001_p096_table_01 page=96 -->
+<!-- db:id=cefr2001_p096_table_01 type=table product_tier=context pages=96 -->
 
 |  | ASKING FOR CLARIFICATION |
 | --- | --- |
@@ -3509,7 +2619,7 @@ Language use and the language user/learner
 |  | Can say he/she didn’t follow. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p096_01 -->
+<!-- el:end id=cefr2001_p096_table_01 -->
 
 *Page **96***
 
@@ -3566,6 +2676,7 @@ Many paralinguistic effects are produced by combinations of pitch, length, loudn
 Users of the Framework may wish to consider and where appropriate state:
 
 - how skilled learners will need/be equipped/be required to be in matching actions to words and vice-versa;
+
 - in which situations they will need/be equipped/be required to do so.
 
 Language use and the language user/learner
@@ -3647,10 +2758,7 @@ The articulation component organises the motor innervation of the vocal apparatu
 
 4.5.2.2 Reception The receptive process involves four steps which, while they take place in linear sequence (bottom-up), are constantly updated and reinterpreted (top-down) in the light of real world knowledge, schematic expectations and new textual understanding in a subconscious interactive process.
 
-- the perception of speech and writing: sound/character and word recognition (cursive and print);
-- the identification of the text, complete or partial, as relevant;
-- the semantic and cognitive understanding of the text as a linguistic entity;
-- the interpretation of the message in context.
+- the perception of speech and writing: sound/character and word recognition (cursive and print); - the identification of the text, complete or partial, as relevant; - the semantic and cognitive understanding of the text as a linguistic entity; - the interpretation of the message in context.
 
 Language use and the language user/learner
 <!-- el:end id=prose_p100 -->
@@ -3717,6 +2825,7 @@ Every text is carried by a particular medium, normally by sound waves or written
 Users of the Framework may wish to consider and where appropriate state:
 
 - to what degree which skills are required for the satisfactory accomplishment of the communicative tasks the learner is expected to undertake;
+
 - which skills can be presupposed and which will need to be developed;
 - which reference aids the learner will need/be equipped/be required to use effectively.
 
@@ -3776,52 +2885,13 @@ Language use and the language user/learner
 <!-- page:104 -->
 
 <!-- el:start type=prose id=prose_p105 page=105 -->
-activities can enable a learner to meet the requirements of university studies or professional training, though some ability to deal with simple input text and to produce a written response is feasible at more modest levels.
+activities can enable a learner to meet the requirements of university studies or profes- sional training, though some ability to deal with simple input text and to produce a written response is feasible at more modest levels. NOTE-TAKING (LECTURES, SEMINARS, ETC.) C2 Is aware of the implications and allusions of what is said and can make notes on them as well as on the actual words used by the speaker. C1 Can take detailed notes during a lecture on topics in his/her ﬁeld of interest, recording the information so accurately and so close to the original that the notes could also be useful to other people. B2 Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike him/her as important, even though he/she tends to concentrate on the words themselves and therefore to miss some information. Can take notes during a lecture which are precise enough for his/her own use at a later date, provided the topic is within his/her ﬁeld of interest and the talk is clear and well-structured. B1 Can take notes as a list of key points during a straightforward lecture, provided the topic is familiar, and the talk is both formulated in simple language and delivered in clearly articulated standard speech. A2 No descriptor available A1 No descriptor available PROCESSING TEXT C2 Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result. C1 Can summarise long, demanding texts. Can summarise a wide range of factual and imaginative texts, commenting on and discussing contrasting points of view and the main themes. B2 Can summarise extracts from news items, interviews or documentaries containing opinions, argument and discussion. Can summarise the plot and sequence of events in a ﬁlm or play. Can collate short pieces of information from several sources and summarise them for somebody else. B1 Can paraphrase short written passages in a simple fashion, using the original text wording and ordering. Can pick out and reproduce key words and phrases or short sentences from a short text within the learner’s limited competence and experience. A2 Can copy out short texts in printed or clearly handwritten format. A1 Can copy out single words and short texts presented in standard printed format. Users of the Framework may wish to consider and where appropriate state: • with which text types the learner will need/be equipped/be required to deal • a) receptively, b) productively, c) interactively, d) in mediation. Common European Framework of Reference for Languages: learning, teaching, assessment 96
 
-NOTE-TAKING (LECTURES, SEMINARS, ETC.)
-
-C2 Is aware of the implications and allusions of what is said and can make notes on them as well as on the actual words used by the speaker.
-
-C1 Can take detailed notes during a lecture on topics in his/her field of interest, recording the information so accurately and so close to the original that the notes could also be useful to other people.
-
-B2
-
-Can understand a clearly structured lecture on a familiar subject, and can take notes on points which strike him/her as important, even though he/she tends to concentrate on the words themselves and therefore to miss some information.
-
-Can take notes during a lecture which are precise enough for his/her own use at a later date, provided the topic is within his/her field of interest and the talk is clear and well-structured. B1
-
-Can take notes as a list of key points during a straightforward lecture, provided the topic is familiar, and the talk is both formulated in simple language and delivered in clearly articulated standard speech.
-
-A2 No descriptor available
-
-A1 No descriptor available
-
-PROCESSING TEXT
-
-C2 Can summarise information from different sources, reconstructing arguments and accounts in a coherent presentation of the overall result.
-
-C1 Can summarise long, demanding texts.
-
-Can summarise a wide range of factual and imaginative texts, commenting on and discussing contrasting points of view and the main themes. B2 Can summarise extracts from news items, interviews or documentaries containing opinions, argument and discussion. Can summarise the plot and sequence of events in a film or play.
-
-Can collate short pieces of information from several sources and summarise them for somebody else. B1 Can paraphrase short written passages in a simple fashion, using the original text wording and ordering.
-
-Can pick out and reproduce key words and phrases or short sentences from a short text within the learner’s limited competence and experience. A2
-
-Can copy out short texts in printed or clearly handwritten format.
-
-A1 Can copy out single words and short texts presented in standard printed format.
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- with which text types the learner will need/be equipped/be required to deal
-- a) receptively, b) productively, c) interactively, d) in mediation.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p105 -->
 
-<!-- el:start type=table id=table_p105_01 page=105 -->
-<!-- db:id=table_p105_01 type=table product_tier=context pages=105 -->
+<!-- el:start type=table id=cefr2001_p105_table_01 page=105 -->
+<!-- db:id=cefr2001_p105_table_01 type=table product_tier=context pages=105 -->
 
 |  | NOTE-TAKING (LECTURES, SEMINARS, ETC.) |
 | --- | --- |
@@ -3841,7 +2911,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can copy out short texts in printed or clearly handwritten format. |
 | A1 | Can copy out single words and short texts presented in standard printed format. |
 
-<!-- el:end id=table_p105_01 -->
+<!-- el:end id=cefr2001_p105_table_01 -->
 
 *Page **105***
 
@@ -3872,9 +2942,7 @@ Language use and the language user/learner
 <!-- page:106 -->
 
 <!-- el:start type=prose id=prose_p107 page=107 -->
-listening and in the medium itself. ‘Before’ and ‘after’ in a spoken text are to be taken quite literally. In a written text, which is usually (excluding ‘scrolled’ texts) a static spatial artefact, this is not necessarily so. In production, a written text can be edited, passages inserted or deleted. We cannot tell in what order the elements have been produced, though they are presented in a linear order as a string of symbols. Receptively, the reader’s eye is free to move over the text in any way, possibly following the linear sequence in strict order, as a child learning to read will generally do. Skilled, mature readers are much more likely to scan a text for highly information-bearing elements in order to establish an overall structure of meaning and then return to read more closely
-
-- and if need be to re-read a number of times – such words, phrases, sentences and paragraphs as are of particular relevance to their needs and purposes. An author or editor may well use paratextual features (see section 4.4.5.3) to steer this process and, indeed, plan the text in accordance with the way in which it is expected to be read by the audience for which it is intended. Similarly, a spoken text may be carefully planned in advance so as to appear to be spontaneous, yet to ensure that an essential message is effectively conveyed under the different conditions that constrain the reception of speech. Process and product are indissolubly linked.
+listening and in the medium itself. ‘Before’ and ‘after’ in a spoken text are to be taken quite literally. In a written text, which is usually (excluding ‘scrolled’ texts) a static spatial artefact, this is not necessarily so. In production, a written text can be edited, passages inserted or deleted. We cannot tell in what order the elements have been produced, though they are presented in a linear order as a string of symbols. Receptively, the reader’s eye is free to move over the text in any way, possibly following the linear sequence in strict order, as a child learning to read will generally do. Skilled, mature readers are much more likely to scan a text for highly information-bearing elements in order to establish an overall structure of meaning and then return to read more closely – and if need be to re-read a number of times – such words, phrases, sentences and paragraphs as are of particular relevance to their needs and purposes. An author or editor may well use paratextual features (see section 4.4.5.3) to steer this process and, indeed, plan the text in accordance with the way in which it is expected to be read by the audience for which it is intended. Similarly, a spoken text may be carefully planned in advance so as to appear to be spontaneous, yet to ensure that an essential message is effectively conveyed under the different conditions that constrain the reception of speech. Process and product are indissolubly linked.
 
 The text is central to any act of linguistic communication, the external, objective link between producer and receiver, whether they are communicating face to face or at a distance. The diagrams below show in a schematic form the relation between the user/learner, on whom the Framework is focused, the interlocutor(s), activities and texts.
 
@@ -3956,19 +3024,22 @@ Language use and the language user/learner
 <!-- page:108 -->
 
 <!-- el:start type=prose id=prose_p109 page=109 -->
-closely on the ability to use linguistic competences to reduce the information content of the text. In any case, the advantage of examining all possible combinations of categories in taxonomic sets is not only that it enables experience to be ordered, but also that it reveals gaps and suggests new possibilities.
+closely on the ability to use linguistic competences to reduce the information content of the text. In any case, the advantage of examining all possible combinations of categories in taxonomic sets is not only that it enables experience to be ordered, but also that it reveals gaps and suggests new possibilities. Common European Framework of Reference for Languages: learning, teaching, assessment 100 Table 6. Text-to-text activities Input text Output text Medium Language Medium Language Meaning Activity type preserving preserving (examples) spoken L2 spoken L2 Yes repetition spoken L2 written L2 Yes dictation spoken L2 spoken L2 No oral question/ answer spoken L2 written L2 No written answers to oral L2 questions written L2 spoken L2 Yes reading aloud written L2 written L2 Yes copying, transcription written L2 spoken L2 No spoken response to written L2 rubric written L2 written L2 No writing in response to written L2 rubric
 
-Common European Framework of Reference for Languages: learning, teaching, assessment
-
-Table 6. Text-to-text activities
-
-Input text Output text
-
-Medium Language Medium Language Meaning Activity type preserving preserving (examples) spoken L2 spoken L2 Yes repetition spoken L2 written L2 Yes dictation spoken L2 spoken L2 No oral question/ answer spoken L2 written L2 No written answers to oral L2 questions written L2 spoken L2 Yes reading aloud written L2 written L2 Yes copying, transcription written L2 spoken L2 No spoken response to written L2 rubric written L2 written L2 No writing in response to written L2 rubric
+*
 <!-- el:end id=prose_p109 -->
 
-<!-- el:start type=table id=table_p109_01 page=109 -->
-<!-- db:id=table_p109_01 type=table product_tier=context pages=109 -->
+<!-- el:start type=table id=cefr2001_table_6_text_to_text_activities_input_text_output_text_mediu page=109 -->
+<!-- db:id=cefr2001_table_6_text_to_text_activities_input_text_output_text_mediu type=table product_tier=context pages=109 -->
+
+**Table 6. Text-to-text activities
+Input text
+Output text
+Medium
+Language
+Medium
+Language**
+
 
 | Table 6. Text-to-text activities |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -3983,7 +3054,7 @@ Medium Language Medium Language Meaning Activity type preserving preserving (exa
 | written | L2 | spoken | L2 | No | spoken response to written L2 rubric |
 | written | L2 | written | L2 | No | writing in response to written L2 rubric |
 
-<!-- el:end id=table_p109_01 -->
+<!-- el:end id=cefr2001_table_6_text_to_text_activities_input_text_output_text_mediu -->
 
 *Page **109***
 
@@ -4011,6 +3082,7 @@ All human competences contribute in one way or another to the language user’s 
 Knowledge of the world (whether it derives from experience, education or from information sources, etc.) embraces:
 
 - The locations, institutions and organisations, persons, objects, events, processes and operations in different domains as exemplified in Table 5 (section 4.1.2). Of considerable importance to the learner of a particular language is factual knowledge concerning the country or countries in which the language is spoken, such as its major geographical, environmental, demographic, economic and political features.
+
 - Classes of entities (concrete/abstract, animate/inanimate, etc.) and their properties and relations (temporo-spatial, associative, analytic, logical, cause/effect, etc.) as set out, for instance, in Threshold Level 1990, Chapter 6.
 
 5.1.1.2 Sociocultural knowledge Strictly speaking, knowledge of the society and culture of the community or communities in which a language is spoken is one aspect of knowledge of the world. It is, however, of sufficient importance to the language learner to merit special attention, especially since unlike many other aspects of knowledge it is likely to lie outside the learner’s previous experience and may well be distorted by stereotypes.
@@ -4123,6 +3195,7 @@ The user/learner’s competences
 ### 5.1.2.2 Intercultural skills and know-how These include:
 
 - the ability to bring the culture of origin and the foreign culture into relation with each other;
+
 - cultural sensitivity and the ability to identify and use a variety of strategies for contact with those from other cultures;
 
 Users of the Framework may wish to consider and where appropriate state:
@@ -4143,8 +3216,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:113 -->
 
 <!-- el:start type=prose id=prose_p114 page=114 -->
-- the capacity to fulfil the role of cultural intermediary between one’s own culture and the foreign culture and to deal effectively with intercultural misunderstanding and conflict situations;
-- the ability to overcome stereotyped relationships.
+- the capacity to fulfil the role of cultural intermediary between one’s own culture and the foreign culture and to deal effectively with intercultural misunderstanding and conflict situations; - the ability to overcome stereotyped relationships.
 
 5.1.3 ‘Existential’ competence (savoir-être)
 
@@ -4212,6 +3284,7 @@ The user/learner’s competences
 Attitudes and personality factors greatly affect not only the language users’/learners’ roles in communicative acts but also their ability to learn. The development of an ‘intercultural personality’ involving both attitudes and awareness is seen by many as an important educational goal in its own right. Important ethical and pedagogic issues are raised, such as:
 
 - the extent to which personality development can be an explicit educational objective;
+
 - how cultural relativism is to be reconciled with ethical and moral integrity;
 - which personality factors a) facilitate b) impede foreign or second language learning and acquisition;
 - how learners can be helped to exploit strengths and overcome weaknesses;
@@ -4240,10 +3313,7 @@ and communication awareness; general phonetic skills; study skills; and heuristi
 
 5.1.4.2 General phonetic awareness and skills Many learners, particularly mature students, will find their ability to pronounce new languages facilitated by:
 
-- an ability to distinguish and produce unfamiliar sounds and prosodic patterns;
-- an ability to perceive and catenate unfamiliar sound sequences;
-- an ability, as a listener, to resolve (i.e. divide into distinct and significant parts) a continuous stream of sound into a meaningful structured string of phonological elements;
-- an understanding/mastery of the processes of sound perception and production applicable to new language learning.
+- an ability to distinguish and produce unfamiliar sounds and prosodic patterns; - an ability to perceive and catenate unfamiliar sound sequences; - an ability, as a listener, to resolve (i.e. divide into distinct and significant parts) a continuous stream of sound into a meaningful structured string of phonological elements; - an understanding/mastery of the processes of sound perception and production applicable to new language learning.
 
 These general phonetic skills are distinct from the ability to pronounce a particular language.
 
@@ -4251,10 +3321,8 @@ These general phonetic skills are distinct from the ability to pronounce a parti
 
 - ability to make effective use of the learning opportunities created by teaching situations, e.g.:
 
-- to maintain attention to the presented information;
-- to grasp the intention of the task set;
-- to co-operate effectively in pair and group work;
-- to make rapid and frequent active use of the language learnt;
+- to maintain attention to the presented information; - to grasp the intention of the task set; - to co-operate effectively in pair and group work; - to make rapid and frequent active use of the language learnt;
+
 - ability to use available materials for independent learning;
 
 Users of the Framework may wish to consider and where appropriate state:
@@ -4278,9 +3346,7 @@ The user/learner’s competences
 
 ### 5.1.4.4 Heuristic skills These include:
 
-- the ability of the learner to come to terms with new experience (new language, new people, new ways of behaving, etc.) and to bring other competences to bear (e.g. by observing, grasping the significance of what is observed, analysing, inferencing, memorising, etc.) in the specific learning situation;
-- the ability of the learner (particularly in using target language reference sources) to find, understand and if necessary convey new information;
-- the ability to use new technologies (e.g. by searching for information in databases, hypertexts, etc.).
+- the ability of the learner to come to terms with new experience (new language, new people, new ways of behaving, etc.) and to bring other competences to bear (e.g. by observing, grasping the significance of what is observed, analysing, inferencing, memorising, etc.) in the specific learning situation; - the ability of the learner (particularly in using target language reference sources) to find, understand and if necessary convey new information; - the ability to use new technologies (e.g. by searching for information in databases, hypertexts, etc.).
 
 ### 5.2 Communicative language competences
 
@@ -4322,49 +3388,15 @@ The user/learner’s competences
 <!-- page:118 -->
 
 <!-- el:start type=prose id=prose_p119 page=119 -->
-GENERAL LINGUISTIC RANGE
+## General Linguistic Range
 
-C2
+C2 Can exploit a comprehensive and reliable mastery of a very wide range of language to formulate thoughts precisely, give emphasis, differentiate and eliminate ambiguity . . . No signs of having to restrict what he/she wants to say. C1 Can select an appropriate formulation from a broad range of language to express him/herself clearly, without having to restrict what he/she wants to say. Can express him/herself clearly and without much sign of having to restrict what he/she wants to say. B2 Has a sufﬁcient range of language to be able to give clear descriptions, express viewpoints and develop arguments without much conspicuous searching for words, using some complex sentence forms to do so. Has a sufﬁcient range of language to describe unpredictable situations, explain the main points in an idea or problem with reasonable precision and express thoughts on abstract or cultural topics such as music and ﬁlms. B1 Has enough language to get by, with sufﬁcient vocabulary to express him/herself with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel, and current events, but lexical limitations cause repetition and even difﬁculty with formulation at times. Has a repertoire of basic language which enables him/her to deal with everyday situations with predictable content, though he/she will generally have to compromise the message and search for words. A2 Can produce brief everyday expressions in order to satisfy simple needs of a concrete type: personal details, daily routines, wants and needs, requests for information. Can use basic sentence patterns and communicate with memorised phrases, groups of a few words and formulae about themselves and other people, what they do, places, possessions etc. Has a limited repertoire of short memorised phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations. A1 Has a very basic range of simple expressions about personal details and needs of a concrete type. 5.2.1.1 Lexical competence, knowledge of, and ability to use, the vocabulary of a lan- guage, consists of lexical elements and grammatical elements. Lexical elements include: a) Fixed expressions, consisting of several words, which are used and learnt as wholes. Fixed expressions include: • sentential formulae, including: direct exponents of language functions (see section 5.2.3.2) such as greetings, e.g. How do you do? Good morning! etc. proverbs, etc. (see section 5.2.2.3) relict archaisms, e.g. Be off with you! • phrasal idioms, often: semantically opaque, frozen metaphors, e.g.: He kicked the bucket (i.e. he died). It’s a long shot (= unlikely to succeed). Common European Framework of Reference for Languages: learning, teaching, assessment 110
 
-Can exploit a comprehensive and reliable mastery of a very wide range of language to formulate thoughts precisely, give emphasis, differentiate and eliminate ambiguity . . . No signs of having to restrict what he/she wants to say.
-
-C1 Can select an appropriate formulation from a broad range of language to express him/herself clearly, without having to restrict what he/she wants to say.
-
-Can express him/herself clearly and without much sign of having to restrict what he/she wants to say.
-
-B2 Has a sufficient range of language to be able to give clear descriptions, express viewpoints and develop arguments without much conspicuous searching for words, using some complex sentence forms to do so.
-
-Has a sufficient range of language to describe unpredictable situations, explain the main points in an idea or problem with reasonable precision and express thoughts on abstract or cultural topics such as music and films. B1 Has enough language to get by, with sufficient vocabulary to express him/herself with some hesitation and circumlocutions on topics such as family, hobbies and interests, work, travel, and current events, but lexical limitations cause repetition and even difficulty with formulation at times.
-
-Has a repertoire of basic language which enables him/her to deal with everyday situations with predictable content, though he/she will generally have to compromise the message and search for words.
-
-A2
-
-Can produce brief everyday expressions in order to satisfy simple needs of a concrete type: personal details, daily routines, wants and needs, requests for information. Can use basic sentence patterns and communicate with memorised phrases, groups of a few words and formulae about themselves and other people, what they do, places, possessions etc. Has a limited repertoire of short memorised phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations.
-
-A1 Has a very basic range of simple expressions about personal details and needs of a concrete type.
-
-5.2.1.1 Lexical competence, knowledge of, and ability to use, the vocabulary of a language, consists of lexical elements and grammatical elements.
-
-Lexical elements include:
-
-a) Fixed expressions, consisting of several words, which are used and learnt as wholes. Fixed expressions include:
-
-- sentential formulae, including:
-
-direct exponents of language functions (see section 5.2.3.2) such as greetings, e.g.
-
-How do you do? Good morning! etc. proverbs, etc. (see section 5.2.2.3) relict archaisms, e.g. Be off with you!
-
-- phrasal idioms, often:
-
-semantically opaque, frozen metaphors, e.g.: He kicked the bucket (i.e. he died). It’s a long shot (= unlikely to succeed).
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p119 -->
 
-<!-- el:start type=table id=table_p119_01 page=119 -->
-<!-- db:id=table_p119_01 type=table product_tier=context pages=119 -->
+<!-- el:start type=table id=cefr2001_p119_table_01 page=119 -->
+<!-- db:id=cefr2001_p119_table_01 type=table product_tier=context pages=119 -->
 
 |  | GENERAL LINGUISTIC RANGE |
 | --- | --- |
@@ -4378,7 +3410,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can produce brief everyday expressions in order to satisfy simple needs of a concrete type: personal details, daily routines, wants and needs, requests for information. Can use basic sentence patterns and communicate with memorised phrases, groups of a few words and formulae about themselves and other people, what they do, places, possessions etc. Has a limited repertoire of short memorised phrases covering predictable survival situations; frequent breakdowns and misunderstandings occur in non-routine situations. |
 | A1 | Has a very basic range of simple expressions about personal details and needs of a concrete type. |
 
-<!-- el:end id=table_p119_01 -->
+<!-- el:end id=cefr2001_p119_table_01 -->
 
 *Page **119***
 
@@ -4411,52 +3443,15 @@ The user/learner’s competences
 <!-- page:120 -->
 
 <!-- el:start type=prose id=prose_p121 page=121 -->
-VOCABULARY RANGE
+## Vocabulary Range
 
-C2 Has a good command of a very broad lexical repertoire including idiomatic expressions and colloquialisms; shows awareness of connotative levels of meaning.
+C2 Has a good command of a very broad lexical repertoire including idiomatic expressions and colloquialisms; shows awareness of connotative levels of meaning. C1 Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions; little obvious searching for expressions or avoidance strategies. Good command of idiomatic expressions and colloquialisms. B2 Has a good range of vocabulary for matters connected to his/her ﬁeld and most general topics. Can vary formulation to avoid frequent repetition, but lexical gaps can still cause hesitation and circumlocution. B1 Has a sufﬁcient vocabulary to express him/herself with some circumlocutions on most topics pertinent to his/her everyday life such as family, hobbies and interests, work, travel, and current events. Has sufﬁcient vocabulary to conduct routine, everyday transactions involving familiar situations and topics. A2 Has a sufﬁcient vocabulary for the expression of basic communicative needs. Has a sufﬁcient vocabulary for coping with simple survival needs. A1 Has a basic vocabulary repertoire of isolated words and phrases related to particular concrete situations. VOCABULARY CONTROL C2 Consistently correct and appropriate use of vocabulary. C1 Occasional minor slips, but no signiﬁcant vocabulary errors. B2 Lexical accuracy is generally high, though some confusion and incorrect word choice does occur without hindering communication. B1 Shows good control of elementary vocabulary but major errors still occur when expressing more complex thoughts or handling unfamiliar topics and situations. A2 Can control a narrow repertoire dealing with concrete everyday needs. A1 No descriptor available 5.2.1.2 Grammatical competence Grammatical competence may be deﬁned as knowledge of, and ability to use, the gramm- atical resources of a language. Formally, the grammar of a language may be seen as the set of principles governing Users of the Framework may wish to consider and where appropriate state: • which lexical elements (ﬁxed expressions and single word forms) the learner will need/be equipped/be required to recognise and/or use; • how they are selected and ordered. Common European Framework of Reference for Languages: learning, teaching, assessment 112
 
-C1
-
-Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions; little obvious searching for expressions or avoidance strategies. Good command of idiomatic expressions and colloquialisms.
-
-B2 Has a good range of vocabulary for matters connected to his/her field and most general topics. Can vary formulation to avoid frequent repetition, but lexical gaps can still cause hesitation and circumlocution.
-
-B1 Has a sufficient vocabulary to express him/herself with some circumlocutions on most topics pertinent to his/her everyday life such as family, hobbies and interests, work, travel, and current events.
-
-Has sufficient vocabulary to conduct routine, everyday transactions involving familiar situations and topics. A2
-
-Has a sufficient vocabulary for the expression of basic communicative needs. Has a sufficient vocabulary for coping with simple survival needs.
-
-A1 Has a basic vocabulary repertoire of isolated words and phrases related to particular concrete situations.
-
-VOCABULARY CONTROL
-
-C2 Consistently correct and appropriate use of vocabulary.
-
-C1 Occasional minor slips, but no significant vocabulary errors.
-
-B2 Lexical accuracy is generally high, though some confusion and incorrect word choice does occur without hindering communication.
-
-B1 Shows good control of elementary vocabulary but major errors still occur when expressing more complex thoughts or handling unfamiliar topics and situations.
-
-A2 Can control a narrow repertoire dealing with concrete everyday needs.
-
-A1 No descriptor available
-
-5.2.1.2 Grammatical competence Grammatical competence may be defined as knowledge of, and ability to use, the grammatical resources of a language.
-
-Formally, the grammar of a language may be seen as the set of principles governing
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- which lexical elements (fixed expressions and single word forms) the learner will need/be equipped/be required to recognise and/or use;
-- how they are selected and ordered.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p121 -->
 
-<!-- el:start type=table id=table_p121_01 page=121 -->
-<!-- db:id=table_p121_01 type=table product_tier=context pages=121 -->
+<!-- el:start type=table id=cefr2001_p121_table_01 page=121 -->
+<!-- db:id=cefr2001_p121_table_01 type=table product_tier=context pages=121 -->
 
 |  | VOCABULARY RANGE |
 | --- | --- |
@@ -4475,7 +3470,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can control a narrow repertoire dealing with concrete everyday needs. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p121_01 -->
+<!-- el:end id=cefr2001_p121_table_01 -->
 
 *Page **121***
 
@@ -4512,49 +3507,15 @@ The user/learner’s competences
 <!-- page:122 -->
 
 <!-- el:start type=prose id=prose_p123 page=123 -->
-GRAMMATICAL ACCURACY
+## Grammatical Accuracy
 
-C2 Maintains consistent grammatical control of complex language, even while attention is otherwise engaged (e.g. in forward planning, in monitoring others’ reactions).
+C2 Maintains consistent grammatical control of complex language, even while attention is otherwise engaged (e.g. in forward planning, in monitoring others’ reactions). C1 Consistently maintains a high degree of grammatical accuracy; errors are rare and difﬁcult to spot. Good grammatical control; occasional ‘slips’ or non-systematic errors and minor ﬂaws in sentence structure may still occur, but they are rare and can often be corrected in retrospect. B2 Shows a relatively high degree of grammatical control. Does not make mistakes which lead to misunderstanding. Communicates with reasonable accuracy in familiar contexts; generally good control though with noticeable mother tongue inﬂuence. Errors occur, but it is clear what he/she is trying to express. B1 Uses reasonably accurately a repertoire of frequently used ‘routines’ and patterns associated with more predictable situations. A2 Uses some simple structures correctly, but still systematically makes basic mistakes – for example tends to mix up tenses and forget to mark agreement; nevertheless, it is usually clear what he/she is trying to say. A1 Shows only limited control of a few simple grammatical structures and sentence patterns in a learnt repertoire. A distinction is traditionally drawn between morphology and syntax. Morphology deals with the internal organisation of words. Words may be analysed into morphemes, classed as: • roots, or stems; • afﬁxes (preﬁxes, sufﬁxes, inﬁxes), including: word-forming afﬁxes (e.g. re-, un-, -ly, -ness); inﬂexional afﬁxes (e.g. s, -ed, -ing). Word-formation: Words may be classiﬁed into: • simple words (root only, e.g. six, tree, break); • complex words (root + afﬁxes, e.g. unbrokenly, sixes); • compound words (containing more than one root, e.g. sixpence, breakdown, oak-tree, evening dress). Users of the Framework may wish to consider and where appropriate state: • on which theory of grammar they have based their work; • which grammatical elements, categories, classes, structures, processes and relations are learners, etc. equipped/required to handle. Common European Framework of Reference for Languages: learning, teaching, assessment 114
 
-C1 Consistently maintains a high degree of grammatical accuracy; errors are rare and difficult to spot.
-
-Good grammatical control; occasional ‘slips’ or non-systematic errors and minor flaws in sentence structure may still occur, but they are rare and can often be corrected in retrospect. B2
-
-Shows a relatively high degree of grammatical control. Does not make mistakes which lead to misunderstanding.
-
-Communicates with reasonable accuracy in familiar contexts; generally good control though with noticeable mother tongue influence. Errors occur, but it is clear what he/she is trying to express. B1
-
-Uses reasonably accurately a repertoire of frequently used ‘routines’ and patterns associated with more predictable situations.
-
-A2 Uses some simple structures correctly, but still systematically makes basic mistakes – for example tends to mix up tenses and forget to mark agreement; nevertheless, it is usually clear what he/she is trying to say.
-
-A1 Shows only limited control of a few simple grammatical structures and sentence patterns in a learnt repertoire.
-
-A distinction is traditionally drawn between morphology and syntax.
-
-Morphology deals with the internal organisation of words. Words may be analysed into morphemes, classed as:
-
-- roots, or stems;
-- affixes (prefixes, suffixes, infixes), including: word-forming affixes (e.g. re-, un-, -ly, -ness); inflexional affixes (e.g. s, -ed, -ing).
-
-Word-formation:
-
-Words may be classified into:
-
-- simple words (root only, e.g. six, tree, break);
-- complex words (root + affixes, e.g. unbrokenly, sixes);
-- compound words (containing more than one root, e.g. sixpence, breakdown, oak-tree, evening dress).
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- on which theory of grammar they have based their work;
-- which grammatical elements, categories, classes, structures, processes and relations are learners, etc. equipped/required to handle.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p123 -->
 
-<!-- el:start type=table id=table_p123_01 page=123 -->
-<!-- db:id=table_p123_01 type=table product_tier=context pages=123 -->
+<!-- el:start type=table id=cefr2001_p123_table_01 page=123 -->
+<!-- db:id=cefr2001_p123_table_01 type=table product_tier=context pages=123 -->
 
 |  | GRAMMATICAL ACCURACY |
 | --- | --- |
@@ -4567,7 +3528,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Uses some simple structures correctly, but still systematically makes basic mistakes – for example tends to mix up tenses and forget to mark agreement; nevertheless, it is usually clear what he/she is trying to say. |
 | A1 | Shows only limited control of a few simple grammatical structures and sentence patterns in a learnt repertoire. |
 
-<!-- el:end id=table_p123_01 -->
+<!-- el:end id=cefr2001_p123_table_01 -->
 
 *Page **123***
 
@@ -4613,11 +3574,8 @@ Questions of meaning are of course central to communication and are treated pass
 
 Linguistic competence is treated here in a formal sense. From the point of view of theoretical or descriptive linguistics, a language is a highly complex symbolic system. When an attempt is made, as here, to separate out the many different components of communicative competence, knowledge (largely unconscious) of and ability to handle formal structure is legitimately identifiable as one of those components. How much, if indeed any, of this formal analysis should enter into language learning or teaching is a different matter. The functional/notional approach adopted in the Council of Europe publications Waystage 1990, Threshold Level 1990 and Vantage Level offers an alternative to the treatment of linguistic competence in Section 5.2.1–3. Instead of starting from language forms and their meanings, it starts from a systematic classification of communicative functions and of notions, divided into general and specific, and secondarily deals with forms, lexical and grammatical, as their exponents. The approaches are complementary ways of dealing with the ‘double articulation’ of language. Languages are based on an organisation of form and an organisation of meaning. The two kinds of organisation cut across each other in a largely arbitrary fashion. A description based on the organisation of the forms of expression atomises meaning, and that based on the organisation of meaning atomises form. Which is to be preferred by the user will depend on the purpose for which the description is produced. The success of the Threshold Level approach indicates that many practitioners find it more advantageous to go from meaning to form rather than the more traditional practice of organising progression in purely formal terms. On the other hand, some may prefer to use a ‘communicative grammar’, as for example, in Un niveau-seuil. What is clear is that a language learner has to acquire both forms and meanings.
 
-5.2.1.4 Phonological competence involves a knowledge of, and skill in the perception and production of:
+5.2.1.4 Phonological competence involves a knowledge of, and skill in the perception and production of: - the sound-units (phonemes) of the language and their realisation in particular contexts (allophones); - the phonetic features which distinguish phonemes (distinctive features, e.g. voicing, rounding, nasality, plosion); - the phonetic composition of words (syllable structure, the sequence of phonemes, word stress, word tones);
 
-- the sound-units (phonemes) of the language and their realisation in particular contexts (allophones);
-- the phonetic features which distinguish phonemes (distinctive features, e.g. voicing, rounding, nasality, plosion);
-- the phonetic composition of words (syllable structure, the sequence of phonemes, word stress, word tones);
 - sentence phonetics (prosody)
 - sentence stress and rhythm
 - intonation;
@@ -4634,47 +3592,13 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:125 -->
 
 <!-- el:start type=prose id=prose_p126 page=126 -->
-- phonetic reduction
-- vowel reduction
-- strong and weak forms
-- assimilation
-- elision.
+• phonetic reduction • vowel reduction • strong and weak forms • assimilation • elision. PHONOLOGICAL CONTROL C2 As C1 C1 Can vary intonation and place sentence stress correctly in order to express ﬁner shades of meaning. B2 Has acquired a clear, natural, pronunciation and intonation. B1 Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur. A2 Pronunciation is generally clear enough to be understood despite a noticeable foreign accent, but conversational partners will need to ask for repetition from time to time. A1 Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by native speakers used to dealing with speakers of his/her language group. 5.2.1.5 Orthographic competence involves a knowledge of and skill in the perception and production of the symbols of which written texts are composed. The writing systems of all European languages are based on the alphabetic principle, though those of some other languages follow an id- eographic (logographic) principle (e.g. Chinese) or a consonantal principle (e.g. Arabic). For alphabetic systems, learners should know and be able to perceive and produce: • the form of letters in printed and cursive forms in both upper and lower case • the proper spelling of words, including recognised contracted forms • punctuation marks and their conventions of use • typographical conventions and varieties of font, etc. • logographic signs in common use (e.g. @, &, $, etc.) 5.2.1.6 Orthoepic competence Conversely, users required to read aloud a prepared text, or to use in speech words ﬁrst encountered in their written form, need to be able to produce a correct pronunciation from the written form. This may involve: Users of the Framework may wish to consider and where appropriate state: • what new phonological skills are required of the learner; • what is the relative importance of sounds and prosody; • whether phonetic accuracy and ﬂuency are an early learning objective or developed as a longer term objective. The user/learner’s competences 117
 
-PHONOLOGICAL CONTROL
-
-C2 As C1
-
-C1 Can vary intonation and place sentence stress correctly in order to express finer shades of meaning.
-
-B2 Has acquired a clear, natural, pronunciation and intonation.
-
-B1 Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur.
-
-A2 Pronunciation is generally clear enough to be understood despite a noticeable foreign accent, but conversational partners will need to ask for repetition from time to time.
-
-A1 Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by native speakers used to dealing with speakers of his/her language group.
-
-5.2.1.5 Orthographic competence involves a knowledge of and skill in the perception and production of the symbols of which written texts are composed. The writing systems of all European languages are based on the alphabetic principle, though those of some other languages follow an ideographic (logographic) principle (e.g. Chinese) or a consonantal principle (e.g. Arabic). For alphabetic systems, learners should know and be able to perceive and produce:
-
-- the form of letters in printed and cursive forms in both upper and lower case
-- the proper spelling of words, including recognised contracted forms
-- punctuation marks and their conventions of use
-- typographical conventions and varieties of font, etc.
-- logographic signs in common use (e.g. @, &, $, etc.)
-
-5.2.1.6 Orthoepic competence Conversely, users required to read aloud a prepared text, or to use in speech words first encountered in their written form, need to be able to produce a correct pronunciation from the written form. This may involve:
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- what new phonological skills are required of the learner;
-- what is the relative importance of sounds and prosody;
-- whether phonetic accuracy and fluency are an early learning objective or developed as a longer term objective.
-
-The user/learner’s competences
+*
 <!-- el:end id=prose_p126 -->
 
-<!-- el:start type=table id=table_p126_01 page=126 -->
-<!-- db:id=table_p126_01 type=table product_tier=context pages=126 -->
+<!-- el:start type=table id=cefr2001_p126_table_01 page=126 -->
+<!-- db:id=cefr2001_p126_table_01 type=table product_tier=context pages=126 -->
 
 |  | PHONOLOGICAL CONTROL |
 | --- | --- |
@@ -4685,51 +3609,20 @@ The user/learner’s competences
 | A2 | Pronunciation is generally clear enough to be understood despite a noticeable foreign accent, but conversational partners will need to ask for repetition from time to time. |
 | A1 | Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by native speakers used to dealing with speakers of his/her language group. |
 
-<!-- el:end id=table_p126_01 -->
+<!-- el:end id=cefr2001_p126_table_01 -->
 
 *Page **126***
 
 <!-- page:126 -->
 
 <!-- el:start type=prose id=prose_p127 page=127 -->
-- knowledge of spelling conventions
-- ability to consult a dictionary and a knowledge of the conventions used there for the representation of pronunciation
-- knowledge of the implications of written forms, particularly punctuation marks, for phrasing and intonation
-- ability to resolve ambiguity (homonyms, syntactic ambiguities, etc.) in the light of the context
+• knowledge of spelling conventions • ability to consult a dictionary and a knowledge of the conventions used there for the representation of pronunciation • knowledge of the implications of written forms, particularly punctuation marks, for phrasing and intonation • ability to resolve ambiguity (homonyms, syntactic ambiguities, etc.) in the light of the context ORTHOGRAPHIC CONTROL C2 Writing is orthographically free of error. C1 Layout, paragraphing and punctuation are consistent and helpful. Spelling is accurate, apart from occasional slips of the pen. B2 Can produce clearly intelligible continuous writing which follows standard layout and paragraphing conventions. Spelling and punctuation are reasonably accurate but may show signs of mother tongue inﬂuence. B1 Can produce continuous writing which is generally intelligible throughout. Spelling, punctuation and layout are accurate enough to be followed most of the time. A2 Can copy short sentences on everyday subjects – e.g. directions how to get somewhere. Can write with reasonable phonetic accuracy (but not necessarily fully standard spelling) short words that are in his/her oral vocabulary. A1 Can copy familiar words and short phrases e.g. simple signs or instructions, names of everyday objects, names of shops and set phrases used regularly. Can spell his/her address, nationality and other personal details. 5.2.2 Sociolinguistic competence Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. As was remarked with regard to sociocultu- ral competence, since language is a sociocultural phenomenon, much of what is con- tained in the Framework, particularly in respect of the sociocultural, is of relevance to sociolinguistic competence. The matters treated here are those speciﬁcally relating to language use and not dealt with elsewhere: linguistic markers of social relations; polite- ness conventions; expressions of folk-wisdom; register differences; and dialect and accent. Users of the Framework may wish to consider and where appropriate state: • the orthographic and orthoepic needs of learners in relation to their use of spoken and written varieties of language, and their need to convert text from spoken to written form and vice versa. Common European Framework of Reference for Languages: learning, teaching, assessment 118
 
-ORTHOGRAPHIC CONTROL
-
-C2 Writing is orthographically free of error.
-
-C1 Layout, paragraphing and punctuation are consistent and helpful. Spelling is accurate, apart from occasional slips of the pen.
-
-B2
-
-Can produce clearly intelligible continuous writing which follows standard layout and paragraphing conventions. Spelling and punctuation are reasonably accurate but may show signs of mother tongue influence.
-
-B1 Can produce continuous writing which is generally intelligible throughout. Spelling, punctuation and layout are accurate enough to be followed most of the time.
-
-A2
-
-Can copy short sentences on everyday subjects – e.g. directions how to get somewhere. Can write with reasonable phonetic accuracy (but not necessarily fully standard spelling) short words that are in his/her oral vocabulary.
-
-A1
-
-Can copy familiar words and short phrases e.g. simple signs or instructions, names of everyday objects, names of shops and set phrases used regularly. Can spell his/her address, nationality and other personal details.
-
-### 5.2.2 Sociolinguistic competence
-
-Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. As was remarked with regard to sociocultural competence, since language is a sociocultural phenomenon, much of what is contained in the Framework, particularly in respect of the sociocultural, is of relevance to sociolinguistic competence. The matters treated here are those specifically relating to language use and not dealt with elsewhere: linguistic markers of social relations; politeness conventions; expressions of folk-wisdom; register differences; and dialect and accent.
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- the orthographic and orthoepic needs of learners in relation to their use of spoken and written varieties of language, and their need to convert text from spoken to written form and vice versa.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p127 -->
 
-<!-- el:start type=table id=table_p127_01 page=127 -->
-<!-- db:id=table_p127_01 type=table product_tier=context pages=127 -->
+<!-- el:start type=table id=cefr2001_p127_table_01 page=127 -->
+<!-- db:id=cefr2001_p127_table_01 type=table product_tier=context pages=127 -->
 
 |  | ORTHOGRAPHIC CONTROL |
 | --- | --- |
@@ -4740,7 +3633,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | A2 | Can copy short sentences on everyday subjects – e.g. directions how to get somewhere. Can write with reasonable phonetic accuracy (but not necessarily fully standard spelling) short words that are in his/her oral vocabulary. |
 | A1 | Can copy familiar words and short phrases e.g. simple signs or instructions, names of everyday objects, names of shops and set phrases used regularly. Can spell his/her address, nationality and other personal details. |
 
-<!-- el:end id=table_p127_01 -->
+<!-- el:end id=cefr2001_p127_table_01 -->
 
 *Page **127***
 
@@ -4855,40 +3748,15 @@ The user/learner’s competences
 <!-- page:130 -->
 
 <!-- el:start type=prose id=prose_p131 page=131 -->
-SOCIOLINGUISTIC APPROPRIATENESS
+## Sociolinguistic Appropriateness
 
-Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning.
+Has a good command of idiomatic expressions and colloquialisms with awareness of connotative levels of meaning. C2 Appreciates fully the sociolinguistic and sociocultural implications of language used by native speakers and can react accordingly. Can mediate effectively between speakers of the target language and that of his/her community of origin taking account of sociocultural and sociolinguistic differences. Can recognise a wide range of idiomatic expressions and colloquialisms, appreciating register shifts; may, however, need to conﬁrm occasional details, especially if the accent is unfamiliar. C1 Can follow ﬁlms employing a considerable degree of slang and idiomatic usage. Can use language ﬂexibly and effectively for social purposes, including emotional, allusive and joking usage. Can express him or herself conﬁdently, clearly and politely in a formal or informal register, appropriate to the situation and person(s) concerned. B2 Can with some effort keep up with and contribute to group discussions even when speech is fast and colloquial. Can sustain relationships with native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with a native speaker. Can express him or herself appropriately in situations and avoid crass errors of formulation. Can perform and respond to a wide range of language functions, using their most common exponents in a neutral register. B1 Is aware of the salient politeness conventions and acts appropriately. Is aware of, and looks out for signs of, the most signiﬁcant differences between the customs, usages, attitudes, values and beliefs prevalent in the community concerned and those of his or her own. Can perform and respond to basic language functions, such as information exchange and requests and express opinions and attitudes in a simple way. Can socialise simply but effectively using the simplest common expressions and following basic routines. A2 Can handle very short social exchanges, using everyday polite forms of greeting and address. Can make and respond to invitations, suggestions, apologies, etc. A1 Can establish basic social contact by using the simplest everyday polite forms of: greetings and farewells; introductions; saying please, thank you, sorry, etc. Users of the Framework may wish to consider and where appropriate state: • what range of greetings, address forms and expletives learners should need/be equipped/be required to a) recognise b) evaluate sociologically c) use themselves; • which politeness conventions learners should need/be equipped/be required to a) recognise and understand b) use themselves; • which forms of impoliteness learners should need/be equipped/be required to a) recognise and understand b) use themselves and in which situations to do so; • which proverbs, clichés and folk idioms learners should need/be equipped/be required to a) recognise and understand b) use themselves; • which registers learners should need/be equipped/be required to a) recognise b) use; • which social groups in the target community and, perhaps, in the international community the learner should need/be equipped/be required to recognise by their use of language. Common European Framework of Reference for Languages: learning, teaching, assessment 122
 
-C2 Appreciates fully the sociolinguistic and sociocultural implications of language used by native speakers and can react accordingly. Can mediate effectively between speakers of the target language and that of his/her community of origin taking account of sociocultural and sociolinguistic differences.
-
-Can recognise a wide range of idiomatic expressions and colloquialisms, appreciating register shifts; may, however, need to confirm occasional details, especially if the accent is unfamiliar. C1 Can follow films employing a considerable degree of slang and idiomatic usage. Can use language flexibly and effectively for social purposes, including emotional, allusive and joking usage.
-
-Can express him or herself confidently, clearly and politely in a formal or informal register, appropriate to the situation and person(s) concerned.
-
-B2 Can with some effort keep up with and contribute to group discussions even when speech is fast and colloquial. Can sustain relationships with native speakers without unintentionally amusing or irritating them or requiring them to behave other than they would with a native speaker. Can express him or herself appropriately in situations and avoid crass errors of formulation.
-
-Can perform and respond to a wide range of language functions, using their most common exponents in a neutral register. B1 Is aware of the salient politeness conventions and acts appropriately. Is aware of, and looks out for signs of, the most significant differences between the customs, usages, attitudes, values and beliefs prevalent in the community concerned and those of his or her own.
-
-Can perform and respond to basic language functions, such as information exchange and requests and express opinions and attitudes in a simple way. Can socialise simply but effectively using the simplest common expressions and following basic routines. A2
-
-Can handle very short social exchanges, using everyday polite forms of greeting and address. Can make and respond to invitations, suggestions, apologies, etc.
-
-A1 Can establish basic social contact by using the simplest everyday polite forms of: greetings and farewells; introductions; saying please, thank you, sorry, etc.
-
-Users of the Framework may wish to consider and where appropriate state:
-
-- what range of greetings, address forms and expletives learners should need/be equipped/be required to a) recognise b) evaluate sociologically c) use themselves;
-- which politeness conventions learners should need/be equipped/be required to a) recognise and understand b) use themselves;
-- which forms of impoliteness learners should need/be equipped/be required to a) recognise and understand b) use themselves and in which situations to do so;
-- which proverbs, clichés and folk idioms learners should need/be equipped/be required to a) recognise and understand b) use themselves;
-- which registers learners should need/be equipped/be required to a) recognise b) use;
-- which social groups in the target community and, perhaps, in the international community the learner should need/be equipped/be required to recognise by their use of language.
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p131 -->
 
-<!-- el:start type=table id=table_p131_01 page=131 -->
-<!-- db:id=table_p131_01 type=table product_tier=context pages=131 -->
+<!-- el:start type=table id=cefr2001_p131_table_01 page=131 -->
+<!-- db:id=cefr2001_p131_table_01 type=table product_tier=context pages=131 -->
 
 |  | SOCIOLINGUISTIC APPROPRIATENESS |
 | --- | --- |
@@ -4901,7 +3769,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can handle very short social exchanges, using everyday polite forms of greeting and address. Can make and respond to invitations, suggestions, apologies, etc. |
 | A1 | Can establish basic social contact by using the simplest everyday polite forms of: greetings and farewells; introductions; saying please, thank you, sorry, etc. |
 
-<!-- el:end id=table_p131_01 -->
+<!-- el:end id=cefr2001_p131_table_01 -->
 
 *Page **131***
 
@@ -4945,56 +3813,13 @@ The user/learner’s competences
 <!-- page:132 -->
 
 <!-- el:start type=prose id=prose_p133 page=133 -->
-Illustrative scales are available for the following aspects of discourse competence:
+Illustrative scales are available for the following aspects of discourse competence: • Flexibility to circumstances; • Turntaking (also presented under interaction strategies); • Thematic development; • Coherence and cohesion. FLEXIBILITY C2 Shows great ﬂexibility reformulating ideas in differing linguistic forms to give emphasis, to differentiate according to the situation, interlocutor, etc. and to eliminate ambiguity. C1 As B2+ Can adjust what he/she says and the means of expressing it to the situation and the recipient and adopt a level of formality appropriate to the circumstances. B2 Can adjust to the changes of direction, style and emphasis normally found in conversation. Can vary formulation of what he/she wants to say. Can adapt his/her expression to deal with less routine, even difﬁcult, situations. B1 Can exploit a wide range of simple language ﬂexibly to express much of what he/she wants. Can adapt well rehearsed memorised simple phrases to particular circumstances through limited lexical substitution. A2 Can expand learned phrases through simple recombinations of their elements. A1 No descriptor available TURNTAKING C2 As C1 C1 Can select a suitable phrase from a readily available range of discourse functions to preface his/her remarks appropriately in order to get the ﬂoor, or to gain time and keep the ﬂoor whilst thinking. Can intervene appropriately in discussion, exploiting appropriate language to do so. Can initiate, maintain and end discourse appropriately with effective turntaking. B2 Can initiate discourse, take his/her turn when appropriate and end conversation when he/she needs to, though he/she may not always do this elegantly. Can use stock phrases (e.g. ‘That’s a difﬁcult question to answer’) to gain time and keep the turn whilst formulating what to say. Can intervene in a discussion on a familiar topic, using a suitable phrase to get the ﬂoor. B1 Can initiate, maintain and close simple face-to-face conversation on topics that are familiar or of personal interest. Can use simple techniques to start, maintain, or end a short conversation. Can initiate, maintain and close simple, face-to-face conversation. A2 Can ask for attention. A1 No descriptor available Common European Framework of Reference for Languages: learning, teaching, assessment 124
 
-- Flexibility to circumstances;
-- Turntaking (also presented under interaction strategies);
-- Thematic development;
-- Coherence and cohesion.
-
-FLEXIBILITY
-
-C2 Shows great flexibility reformulating ideas in differing linguistic forms to give emphasis, to differentiate according to the situation, interlocutor, etc. and to eliminate ambiguity.
-
-C1 As B2+
-
-Can adjust what he/she says and the means of expressing it to the situation and the recipient and adopt a level of formality appropriate to the circumstances. B2
-
-Can adjust to the changes of direction, style and emphasis normally found in conversation. Can vary formulation of what he/she wants to say.
-
-Can adapt his/her expression to deal with less routine, even difficult, situations. B1
-
-Can exploit a wide range of simple language flexibly to express much of what he/she wants.
-
-Can adapt well rehearsed memorised simple phrases to particular circumstances through limited lexical substitution. A2
-
-Can expand learned phrases through simple recombinations of their elements.
-
-A1 No descriptor available
-
-TURNTAKING
-
-C2 As C1
-
-C1 Can select a suitable phrase from a readily available range of discourse functions to preface his/her remarks appropriately in order to get the floor, or to gain time and keep the floor whilst thinking.
-
-Can intervene appropriately in discussion, exploiting appropriate language to do so. Can initiate, maintain and end discourse appropriately with effective turntaking. B2 Can initiate discourse, take his/her turn when appropriate and end conversation when he/she needs to, though he/she may not always do this elegantly. Can use stock phrases (e.g. ‘That’s a difficult question to answer’) to gain time and keep the turn whilst formulating what to say.
-
-Can intervene in a discussion on a familiar topic, using a suitable phrase to get the floor.
-
-B1 Can initiate, maintain and close simple face-to-face conversation on topics that are familiar or of personal interest.
-
-Can use simple techniques to start, maintain, or end a short conversation. Can initiate, maintain and close simple, face-to-face conversation. A2
-
-Can ask for attention.
-
-A1 No descriptor available
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p133 -->
 
-<!-- el:start type=table id=table_p133_01 page=133 -->
-<!-- db:id=table_p133_01 type=table product_tier=context pages=133 -->
+<!-- el:start type=table id=cefr2001_p133_table_01 page=133 -->
+<!-- db:id=cefr2001_p133_table_01 type=table product_tier=context pages=133 -->
 
 |  | FLEXIBILITY |
 | --- | --- |
@@ -5017,54 +3842,22 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 |  | Can ask for attention. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p133_01 -->
+<!-- el:end id=cefr2001_p133_table_01 -->
 
 *Page **133***
 
 <!-- page:133 -->
 
 <!-- el:start type=prose id=prose_p134 page=134 -->
-THEMATIC DEVELOPMENT
+## Thematic Development
 
-C2 As C1
+C2 As C1 C1 Can give elaborate descriptions and narratives, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion. B2 Can develop a clear description or narrative, expanding and supporting his/her main points with relevant supporting detail and examples. B1 Can reasonably ﬂuently relate a straightforward narrative or description as a linear sequence of points. A2 Can tell a story or describe something in a simple list of points. A1 No descriptor available COHERENCE AND COHESION C2 Can create coherent and cohesive text making full and appropriate use of a variety of organisational patterns and a wide range of cohesive devices. C1 Can produce clear, smoothly ﬂowing, well-structured speech, showing controlled use of organisational patterns, connectors and cohesive devices. Can use a variety of linking words efﬁciently to mark clearly the relationships between ideas. B2 Can use a limited number of cohesive devices to link his/her utterances into clear, coherent discourse, though there may be some ‘jumpiness’ in a long contribution. B1 Can link a series of shorter, discrete simple elements into a connected, linear sequence of points. Can use the most frequently occurring connectors to link simple sentences in order to tell a story or describe something as a simple list of points. A2 Can link groups of words with simple connectors like ‘and’, ‘but’ and ‘because’. A1 Can link words or groups of words with very basic linear connectors like ‘and’ or ‘then’. 5.2.3.2 Functional competence This component is concerned with the use of spoken discourse and written texts in com- munication for particular functional purposes (see section 4.2). Conversational compe- tence is not simply a matter of knowing which particular functions (microfunctions) are expressed by which language forms. Participants are engaged in an interaction, in which each initiative leads to a response and moves the interaction further on, according to its purpose, through a succession of stages from opening exchanges to its ﬁnal conclusion. Competent speakers have an understanding of the process and skills in operating it. A macrofunction is characterised by its interactional structure. More complex situations may well have an internal structure involving sequences of macrofunctions, which in many cases are ordered according to formal or informal patterns of social interaction (schemata). 1. Microfunctions are categories for the functional use of single (usually short) utter- ances, usually as turns in an interaction. Microfunctions are categorised in some detail (but not exhaustively) in Threshold Level 1990, Chapter 5: The user/learner’s competences 125
 
-C1 Can give elaborate descriptions and narratives, integrating sub-themes, developing particular points and rounding off with an appropriate conclusion.
-
-B2 Can develop a clear description or narrative, expanding and supporting his/her main points with relevant supporting detail and examples.
-
-B1 Can reasonably fluently relate a straightforward narrative or description as a linear sequence of points.
-
-A2 Can tell a story or describe something in a simple list of points.
-
-A1 No descriptor available
-
-COHERENCE AND COHESION
-
-C2 Can create coherent and cohesive text making full and appropriate use of a variety of organisational patterns and a wide range of cohesive devices.
-
-C1 Can produce clear, smoothly flowing, well-structured speech, showing controlled use of organisational patterns, connectors and cohesive devices.
-
-Can use a variety of linking words efficiently to mark clearly the relationships between ideas.
-
-B2 Can use a limited number of cohesive devices to link his/her utterances into clear, coherent discourse, though there may be some ‘jumpiness’ in a long contribution.
-
-B1 Can link a series of shorter, discrete simple elements into a connected, linear sequence of points.
-
-Can use the most frequently occurring connectors to link simple sentences in order to tell a story or describe something as a simple list of points. A2
-
-Can link groups of words with simple connectors like ‘and’, ‘but’ and ‘because’.
-
-A1 Can link words or groups of words with very basic linear connectors like ‘and’ or ‘then’.
-
-5.2.3.2 Functional competence This component is concerned with the use of spoken discourse and written texts in communication for particular functional purposes (see section 4.2). Conversational competence is not simply a matter of knowing which particular functions (microfunctions) are expressed by which language forms. Participants are engaged in an interaction, in which each initiative leads to a response and moves the interaction further on, according to its purpose, through a succession of stages from opening exchanges to its final conclusion. Competent speakers have an understanding of the process and skills in operating it. A macrofunction is characterised by its interactional structure. More complex situations may well have an internal structure involving sequences of macrofunctions, which in many cases are ordered according to formal or informal patterns of social interaction (schemata).
-
-1. Microfunctions are categories for the functional use of single (usually short) utterances, usually as turns in an interaction. Microfunctions are categorised in some detail (but not exhaustively) in Threshold Level 1990, Chapter 5:
-
-The user/learner’s competences
+*
 <!-- el:end id=prose_p134 -->
 
-<!-- el:start type=table id=table_p134_01 page=134 -->
-<!-- db:id=table_p134_01 type=table product_tier=context pages=134 -->
+<!-- el:start type=table id=cefr2001_p134_table_01 page=134 -->
+<!-- db:id=cefr2001_p134_table_01 type=table product_tier=context pages=134 -->
 
 |  | THEMATIC DEVELOPMENT |
 | --- | --- |
@@ -5084,7 +3877,7 @@ The user/learner’s competences
 |  | Can link groups of words with simple connectors like ‘and’, ‘but’ and ‘because’. |
 | A1 | Can link words or groups of words with very basic linear connectors like ‘and’ or ‘then’. |
 
-<!-- el:end id=table_p134_01 -->
+<!-- el:end id=cefr2001_p134_table_01 -->
 
 *Page **134***
 
@@ -5196,51 +3989,13 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:137 -->
 
 <!-- el:start type=prose id=prose_p138 page=138 -->
-Illustrative scales are available for these two qualitative aspects:
+Illustrative scales are available for these two qualitative aspects: SPOKEN FLUENCY C2 Can express him/herself at length with a natural, effortless, unhesitating ﬂow. Pauses only to reﬂect on precisely the right words to express his/her thoughts or to ﬁnd an appropriate example or explanation. C1 Can express him/herself ﬂuently and spontaneously, almost effortlessly. Only a conceptually difﬁcult subject can hinder a natural, smooth ﬂow of language. Can communicate spontaneously, often showing remarkable ﬂuency and ease of expression in even longer complex stretches of speech. B2 Can produce stretches of language with a fairly even tempo; although he/she can be hesitant as he/she searches for patterns and expressions, there are few noticeably long pauses. Can interact with a degree of ﬂuency and spontaneity that makes regular interaction with native speakers quite possible without imposing strain on either party. Can express him/herself with relative ease. Despite some problems with formulation resulting in pauses and ‘cul-de-sacs’, he/she is able to keep going effectively without help. B1 Can keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production. Can make him/herself understood in short contributions, even though pauses, false starts and reformulation are very evident. A2 Can construct phrases on familiar topics with sufﬁcient ease to handle short exchanges, despite very noticeable hesitation and false starts. A1 Can manage very short, isolated, mainly pre-packaged utterances, with much pausing to search for expressions, to articulate less familiar words, and to repair communication. PROPOSITIONAL PRECISION C2 Can convey ﬁner shades of meaning precisely by using, with reasonable accuracy, a wide range of qualifying devices (e.g. adverbs expressing degree, clauses expressing limitations). Can give emphasis, differentiate and eliminate ambiguity. C1 Can qualify opinions and statements precisely in relation to degrees of, for example, certainty/ uncertainty, belief/doubt, likelihood, etc. B2 Can pass on detailed information reliably. Can explain the main points in an idea or problem with reasonable precision. B1 Can convey simple, straightforward information of immediate relevance, getting across which point he/she feels is most important. Can express the main point he/she wants to make comprehensibly. A2 Can communicate what he/she wants to say in a simple and direct exchange of limited information on familiar and routine matters, but in other situations he/she generally has to compromise the message. A1 No descriptor available The user/learner’s competences 129
 
-SPOKEN FLUENCY
-
-C2 Can express him/herself at length with a natural, effortless, unhesitating flow. Pauses only to reflect on precisely the right words to express his/her thoughts or to find an appropriate example or explanation.
-
-C1 Can express him/herself fluently and spontaneously, almost effortlessly. Only a conceptually difficult subject can hinder a natural, smooth flow of language.
-
-Can communicate spontaneously, often showing remarkable fluency and ease of expression in even longer complex stretches of speech.
-
-B2 Can produce stretches of language with a fairly even tempo; although he/she can be hesitant as he/she searches for patterns and expressions, there are few noticeably long pauses. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without imposing strain on either party.
-
-Can express him/herself with relative ease. Despite some problems with formulation resulting in pauses and ‘cul-de-sacs’, he/she is able to keep going effectively without help. B1
-
-Can keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production.
-
-Can make him/herself understood in short contributions, even though pauses, false starts and reformulation are very evident. A2
-
-Can construct phrases on familiar topics with sufficient ease to handle short exchanges, despite very noticeable hesitation and false starts.
-
-A1 Can manage very short, isolated, mainly pre-packaged utterances, with much pausing to search for expressions, to articulate less familiar words, and to repair communication.
-
-PROPOSITIONAL PRECISION
-
-C2
-
-Can convey finer shades of meaning precisely by using, with reasonable accuracy, a wide range of qualifying devices (e.g. adverbs expressing degree, clauses expressing limitations). Can give emphasis, differentiate and eliminate ambiguity.
-
-C1 Can qualify opinions and statements precisely in relation to degrees of, for example, certainty/ uncertainty, belief/doubt, likelihood, etc.
-
-B2 Can pass on detailed information reliably.
-
-Can explain the main points in an idea or problem with reasonable precision.
-
-B1 Can convey simple, straightforward information of immediate relevance, getting across which point he/she feels is most important. Can express the main point he/she wants to make comprehensibly.
-
-A2 Can communicate what he/she wants to say in a simple and direct exchange of limited information on familiar and routine matters, but in other situations he/she generally has to compromise the message.
-
-A1 No descriptor available
-
-The user/learner’s competences
+*
 <!-- el:end id=prose_p138 -->
 
-<!-- el:start type=table id=table_p138_01 page=138 -->
-<!-- db:id=table_p138_01 type=table product_tier=context pages=138 -->
+<!-- el:start type=table id=cefr2001_p138_table_01 page=138 -->
+<!-- db:id=cefr2001_p138_table_01 type=table product_tier=context pages=138 -->
 
 |  | SPOKEN FLUENCY |
 | --- | --- |
@@ -5262,7 +4017,7 @@ The user/learner’s competences
 | A2 | Can communicate what he/she wants to say in a simple and direct exchange of limited information on familiar and routine matters, but in other situations he/she generally has to compromise the message. |
 | A1 | No descriptor available |
 
-<!-- el:end id=table_p138_01 -->
+<!-- el:end id=cefr2001_p138_table_01 -->
 
 *Page **138***
 
@@ -5299,9 +4054,7 @@ First, however, we should give some further consideration to learning objectives
 
 6.1.1 Statements of the aims and objectives of language learning and teaching should be based on an appreciation of the needs of learners and of society, on the tasks, activities and processes that the learners need to carry out in order to satisfy those needs, and on the competences and strategies they need to develop/build up in order to do so. Accordingly, Chapters 4 and 5 attempt to set out what a fully competent user of a language is able to do and what knowledge, skills and attitudes make these activities possible. They do as comprehensively as possible since we cannot know which activities will be of importance to a particular learner. They indicate that, in order to participate with full effectiveness in communicative events, learners must have learnt or acquired:
 
-- the necessary competences, as detailed in Chapter 5;
-- the ability to put these competences into action, as detailed in Chapter 4;
-- the ability to employ the strategies necessary to bring the competences into action.
+- the necessary competences, as detailed in Chapter 5; - the ability to put these competences into action, as detailed in Chapter 4; - the ability to employ the strategies necessary to bring the competences into action.
 
 6.1.2 For the purposes of representing or steering the progress of language learners, it is useful to describe their abilities at a series of successive levels. Such scales have been offered where appropriate in Chapters 4 and 5. When charting the progress of students through the earlier stages of their general education, at a time when their future career needs cannot be foreseen, or indeed whenever an overall assessment has to be made of a learner’s language proficiency, it may be most useful and practical to combine a number of these categories into a single summary characterisation of language ability, as, for instance, in Table 1 presented in Chapter 3.
 <!-- el:end id=prose_p140 -->
@@ -5338,8 +4091,8 @@ The fact that the Framework does not confine itself to providing ‘overview’ 
 6.1.3.1 An uneven and changing competence Plurilingual and pluricultural competence is generally uneven in one or more ways:
 
 - Learners generally attain greater proficiency in one language than in the others;
-- The profile of competences in one language is different from that in others (for example, excellent speaking competence in two languages, but good writing competence in only one of them);
-- The pluricultural profile differs from the plurilingual profile (for example: good knowledge of the culture of a community but a poor knowledge of its language, or poor knowledge of a community whose dominant language is nevertheless well mastered).
+
+- The profile of competences in one language is different from that in others (for example, excellent speaking competence in two languages, but good writing competence in only one of them); - The pluricultural profile differs from the plurilingual profile (for example: good knowledge of the culture of a community but a poor knowledge of its language, or poor knowledge of a community whose dominant language is nevertheless well mastered).
 
 Such imbalances are entirely normal. If the concept of plurilingualism and pluriculturalism is extended to take into account the situation of all those who in their native language and culture are exposed to different dialects and to the cultural variation inherent in any complex society, it is clear that here again imbalances (or, if preferred, different types of balance) are the norm.
 
@@ -5373,8 +4126,7 @@ In this context the promotion of respect for the diversity of languages and of l
 
 - however important this may be – a matter of increasing future opportunities for young people competent in more than two languages. It is also a matter of helping learners:
 
-- to construct their linguistic and cultural identity through integrating into it a diversified experience of otherness;
-- to develop their ability to learn through this same diversified experience of relating to several languages and cultures.
+- to construct their linguistic and cultural identity through integrating into it a diversified experience of otherness; - to develop their ability to learn through this same diversified experience of relating to several languages and cultures.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p143 -->
@@ -5412,8 +4164,7 @@ c) In terms of the better performance in one or more specific language activitie
 
 It will be seen that generally speaking the notion of partial competence has been primarily introduced and used in respect of some of these choices (e.g. insistence on learning that emphasises in its objectives receptive activities and written and/or oral comprehension). But what is proposed here is an extension of this use:
 
-- on the one hand by intimating that other partial competence-related objectives may be identified (as has been referred to in a or b or d) in relation to the reference framework;
-- on the other hand by pointing out that this same reference framework allows for any so-called ‘partial’ competence to be incorporated within a more general series of communicative and learning competences.
+- on the one hand by intimating that other partial competence-related objectives may be identified (as has been referred to in a or b or d) in relation to the reference framework; - on the other hand by pointing out that this same reference framework allows for any so-called ‘partial’ competence to be incorporated within a more general series of communicative and learning competences.
 
 d) In terms of optimal functional operation in a given domain (see section 4.1.1) and thus concerns the public domain, the occupational domain, the educational domain or the personal domain. The main aim of learning a foreign language may be to perform a job better, or to help with studies or to facilitate life in a foreign country. As with the other
 
@@ -5750,8 +4501,8 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:159 -->
 
 <!-- el:start type=prose id=prose_p160 page=160 -->
-- to follow lexico-statistical principles selecting the highest frequency words in large general word-counts or those undertaken for restricted thematic areas;
-- to select (authentic) spoken and written texts and learn/teach whatever words they contain;
+- to follow lexico-statistical principles selecting the highest frequency words in large general word-counts or those undertaken for restricted thematic areas; - to select (authentic) spoken and written texts and learn/teach whatever words they contain;
+
 - not to pre-plan vocabulary development, but to allow it to develop organically in response to learner demand when engaged in communicative tasks.
 
 6.4.7.4 Grammatical competence, the ability to organise sentences to convey meaning, is clearly central to communicative competence and most (though not all) of those concerned with language planning, teaching and testing pay close attention to the management of the process of learning to do so. This usually involves a selection, ordering and step-by-step presentation and drilling of new material, starting with short sentences consisting of a single clause with its constituent phrases represented by single words (e.g. Jane is happy) and finishing with multiclause complex sentences – their number, length and structure being of course unbounded. This does not preclude the early introduction of analytically complex material as a fixed formula (i.e. a vocabulary item) or as a fixed frame for lexical insertion (please may I have a . . .), or as the globally learnt words of a song (In Dublin’s fair city, where the girls are so pretty, I first set my eyes on sweet Molly Malone, as she wheeled her wheelbarrow through streets broad and narrow, crying ‘Cockles and Mussels alive alive-oh’).
@@ -5787,10 +4538,10 @@ a) gap-filling b) sentence construction on a given model c) multiple choice d) c
 Users of the Framework may wish to consider and where appropriate state:
 
 - the basis on which grammatical elements, categories, structures, processes and relations are selected and ordered;
+
 - how their meaning is conveyed to learners;
-- the role of contrastive grammar in language teaching and learning;
-- the relative importance attached to range, fluency and accuracy in relation to the grammatical construction of sentences;
-- the extent to which learners are to be made aware of the grammar of (a) the mother tongue (b) the target language (c) their contrastive relations.
+
+- the role of contrastive grammar in language teaching and learning; - the relative importance attached to range, fluency and accuracy in relation to the grammatical construction of sentences; - the extent to which learners are to be made aware of the grammar of (a) the mother tongue (b) the target language (c) their contrastive relations.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p161 -->
@@ -5841,6 +4592,7 @@ b) by progressively increasing the complexity of discourse structure and the fun
 Users of the Framework may wish to consider and where appropriate state:
 
 - to what extent sociolinguistic and pragmatic competences can be assumed or left to develop naturally;
+
 - what methods and techniques should be employed to facilitate their development where it is felt to be necessary or advisable to do so.
 
 Users of the Framework may wish to consider and where appropriate state how the phonetic and orthographic forms of words, sentences, etc. are conveyed to and mastered by learners.
@@ -5980,8 +4732,8 @@ The learner’s different competences are closely related to individual characte
 
 7.3.1.1 Cognitive factors Task familiarity: cognitive load may be lessened and successful task completion facilitated according to the extent of the learner’s familiarity with:
 
-- the type of task and operations involved;
-- the theme(s);
+- the type of task and operations involved; - the theme(s);
+
 - type of text (genre);
 - interactional schemata (scripts and frames) involved as the availability to the learner of unconscious or ‘routinised’ schemata can free the learner to deal with other aspects of performance, or assists in anticipating text content and organisation;
 - necessary background knowledge (assumed by the speaker or writer);
@@ -6000,6 +4752,7 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 
 <!-- el:start type=prose id=prose_p170 page=170 -->
 - the learning skills and strategies that facilitate task completion, including coping when linguistic resources are inadequate, discovering for oneself, planning and monitoring task implementation;
+
 - intercultural skills (see section 5.1.2.2), including the ability to cope with what is implicit in the discourse of native speakers.
 
 Ability to cope with processing demands: a task is likely to make greater or lesser demands depending on the learner’s capacity to:
@@ -6175,8 +4928,9 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 Users of the Framework may wish to consider and where appropriate state:
 
 - principles for the selection and weighting of ‘real life’ and ‘pedagogic’ tasks for their purposes, including the appropriateness of different types of tasks in particular learning contexts;
-- the criteria for selecting tasks which are purposeful and meaningful for the learner, and provide a challenging but realistic and attainable goal, involving the learner as fully as possible, and allowing for differing learner interpretations and outcomes;
-- the relationship between tasks that are primarily meaning-oriented and learning experiences specifically focused on form so that the learner’s attention might be focused in a regular and useful manner on both aspects in a balanced approach to the development of accuracy and fluency;
+
+- the criteria for selecting tasks which are purposeful and meaningful for the learner, and provide a challenging but realistic and attainable goal, involving the learner as fully as possible, and allowing for differing learner interpretations and outcomes; - the relationship between tasks that are primarily meaning-oriented and learning experiences specifically focused on form so that the learner’s attention might be focused in a regular and useful manner on both aspects in a balanced approach to the development of accuracy and fluency;
+
 - ways of taking into account the pivotal role of the learner’s strategies in relating competences and performance in the successful accomplishment of challenging tasks under varying conditions and constraints (see section 4.4); ways of facilitating successful task accomplishment and learning (including activation of the learner’s prior competences in a preparatory phase);
 - criteria and options for selecting tasks, and where appropriate manipulating task parameters in order to modify the level of task difficulty so as to accommodate learners’ differing and developing competences, and diversity in learner characteristics (ability, motivation, needs, interests);
 - how the perceived level of difficulty of a task might be taken into account in the evaluation of successful task completion and in (self) assessment of the learner’s communicative competence (Chapter 9).
@@ -6271,7 +5025,9 @@ These considerations imply that:
 
 - throughout the language learning period – and this is equally applicable to schools
 - there may be continuity with regard to objectives or they may be modified and their order of priority adjusted;
+
 - in a language curriculum accommodating several languages, the objectives and syllabuses of the different languages may either be similar or different;
+
 - quite radically different approaches are possible and each can have its own transparency and coherence with regard to options chosen, and each can be explained with reference to the Framework;
 - reflection on the curriculum may therefore involve the consideration of possible scenarios for the development of plurilingual and pluricultural competences and the role of the school in this process.
 
@@ -6298,6 +5054,7 @@ The first foreign language (FL1) begins in primary school with the main aim of d
 Lower secondary school:
 
 - FL1 continues with the emphasis from now on placed on a gradual development of communicative competence (in its linguistic, sociolinguistic and pragmatic dimensions) but taking full account of achievements at primary level in the area of language awareness.
+
 - The second foreign language (FL2, not taught at primary school) would not start from scratch either; it too would take account of what had been covered at primary school on the basis of and in relation to FL1, whilst at the same time pursuing slightly different objectives from those now pursued in FL1 (for instance, by giving priority to comprehension activities over production activities).
 
 Upper secondary level:
@@ -6328,8 +5085,7 @@ Lower secondary school:
 
 For FL1, FL2 (when this second foreign language is introduced) and the native language, time is spent going over the learning methods and techniques encountered in primary school for FL1 and, separately, for the native language: the aim at this stage would be to promote sensitivity to and increase awareness of the learner’s approach to languages and learning activities.
 
-- For FL1 a ‘regular’ programme designed to develop the different skills continues until the end of secondary school but, at various intervals, this is supplemented with revision and discussion sessions relating to the resources and methods used for teaching and learning so as to accommodate an increasing differentiation between the profiles of different pupils and their expectations and interests.
-- For FL2 at this stage particular emphasis could be placed on the sociocultural and sociolinguistic elements as perceived through increasing familiarity with the media (popular press, radio and television) and possibly linked with the native language course and benefiting from what has been covered in FL1. In this curriculum model, FL2, which continues until the end of secondary school, is the main forum for cultural and intercultural discussion fuelled through contact with the other languages in the curriculum and taking media-related texts as its main focus. It could also incorporate the experience of an international exchange with the focus on intercultural relations. Consideration should also be given to using other subjects (e.g. history or geography) to help initiate a well thought-out approach to pluriculturalism.
+- For FL1 a ‘regular’ programme designed to develop the different skills continues until the end of secondary school but, at various intervals, this is supplemented with revision and discussion sessions relating to the resources and methods used for teaching and learning so as to accommodate an increasing differentiation between the profiles of different pupils and their expectations and interests. - For FL2 at this stage particular emphasis could be placed on the sociocultural and sociolinguistic elements as perceived through increasing familiarity with the media (popular press, radio and television) and possibly linked with the native language course and benefiting from what has been covered in FL1. In this curriculum model, FL2, which continues until the end of secondary school, is the main forum for cultural and intercultural discussion fuelled through contact with the other languages in the curriculum and taking media-related texts as its main focus. It could also incorporate the experience of an international exchange with the focus on intercultural relations. Consideration should also be given to using other subjects (e.g. history or geography) to help initiate a well thought-out approach to pluriculturalism.
 
 Upper secondary level:
 
@@ -6337,8 +5093,8 @@ Upper secondary level:
 
 It should be stressed that in this second scenario, as in the first, the final plurilingual and pluricultural profile of the learners may be ‘uneven’ to the extent that:
 
-- the level of proficiency in the languages making up plurilingual competence varies;
-- the cultural aspects are unequally developed for the different languages;
+- the level of proficiency in the languages making up plurilingual competence varies; - the cultural aspects are unequally developed for the different languages;
+
 - it is not necessarily the case that for the languages in which linguistic aspects received most attention the cultural aspect is also the most developed;
 - ‘partial’ competences, as described above, are integrated.
 
@@ -6368,8 +5124,7 @@ To accept the notion that the educational curriculum is not limited to school an
 
 While this is stating the obvious, it is also clear that the school is a long way from always taking this into account. It is therefore useful to think of the school curriculum as part of a much broader curriculum, but a part which also has the function of giving learners:
 
-- an initial differentiated plurilingual and pluricultural repertoire (with some possible ways being suggested in the two scenarios outlined above);
-- a better awareness of, knowledge of and confidence in their competences and the capacities and resources available to them, inside and outside the school, so that they may extend and refine these competences and use them effectively in particular domains.
+- an initial differentiated plurilingual and pluricultural repertoire (with some possible ways being suggested in the two scenarios outlined above); - a better awareness of, knowledge of and confidence in their competences and the capacities and resources available to them, inside and outside the school, so that they may extend and refine these competences and use them effectively in particular domains.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p183 -->
@@ -6599,53 +5354,21 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 <!-- page:191 -->
 
 <!-- el:start type=prose id=prose_p192 page=192 -->
-The User Guide for Examiners produced by ALTE (Document CC-Lang (96) 10 rev) provides detailed advice on operationalising constructs in tests, and avoiding unnecessary distortion though test method effects.
+The User Guide for Examiners produced by ALTE (Document CC-Lang (96) 10 rev) pro- vides detailed advice on operationalising constructs in tests, and avoiding unnecessary distortion though test method effects. 9.3 Types of assessment A number of important distinctions can be made in relation to assessment. The follow- ing list is by no means exhaustive. There is no signiﬁcance to whether one term in the distinction is placed on the left or on the right. Table 7. Types of assessment 1 Achievement assessment Proﬁciency assessment 2 Norm-referencing (NR) Criterion-referencing (CR) 3 Mastery learning CR Continuum CR 4 Continuous assessment Fixed assessment points 5 Formative assessment Summative assessment 6 Direct assessment Indirect assessment 7 Performance assessment Knowledge assessment 8 Subjective assessment Objective assessment 9 Checklist rating Performance rating 10 Impression Guided judgement 11 Holistic assessment Analytic assessment 12 Series assessment Category assessment 13 Assessment by others Self-assessment 9.3.1 Achievement assessment/proﬁciency assessment Achievement assessment is the assessment of the achievement of speciﬁc objectives – assess- ment of what has been taught. It therefore relates to the week’s/term’s work, the course book, the syllabus. Achievement assessment is oriented to the course. It represents an internal perspective. Proﬁciency assessment on the other hand is assessment of what someone can do/knows in relation to the application of the subject in the real world. It represents an external perspective. Teachers have a natural tendency to be more interested in achievement assessment in order to get feedback for teaching. Employers, educational administrators and adult learners tend to be more interested in proﬁciency assessment: assessment of outcomes, what the person can now do. The advantage of an achievement approach is that it is close Assessment 183
 
-### 9.3 Types of assessment
-
-A number of important distinctions can be made in relation to assessment. The following list is by no means exhaustive. There is no significance to whether one term in the distinction is placed on the left or on the right.
-
-Table 7. Types of assessment
-
-Achievement assessment Proficiency assessment
-
-Norm-referencing (NR) Criterion-referencing (CR)
-
-Mastery learning CR Continuum CR
-
-Continuous assessment Fixed assessment points
-
-Formative assessment Summative assessment
-
-Direct assessment Indirect assessment
-
-Performance assessment Knowledge assessment
-
-Subjective assessment Objective assessment
-
-Checklist rating Performance rating
-
-Impression Guided judgement
-
-Holistic assessment Analytic assessment
-
-Series assessment Category assessment
-
-Assessment by others Self-assessment
-
-### 9.3.1 Achievement assessment/proficiency assessment
-
-Achievement assessment is the assessment of the achievement of specific objectives – assessment of what has been taught. It therefore relates to the week’s/term’s work, the course book, the syllabus. Achievement assessment is oriented to the course. It represents an internal perspective.
-
-Proficiency assessment on the other hand is assessment of what someone can do/knows in relation to the application of the subject in the real world. It represents an external perspective.
-
-Teachers have a natural tendency to be more interested in achievement assessment in order to get feedback for teaching. Employers, educational administrators and adult learners tend to be more interested in proficiency assessment: assessment of outcomes, what the person can now do. The advantage of an achievement approach is that it is close
-
-Assessment
+*
 <!-- el:end id=prose_p192 -->
 
-<!-- el:start type=table id=table_p192_01 page=192 -->
-<!-- db:id=table_p192_01 type=table product_tier=context pages=192 -->
+<!-- el:start type=table id=cefr2001_table_7_types_of_assessment_1_achievement_assessment_pro_cie page=192 -->
+<!-- db:id=cefr2001_table_7_types_of_assessment_1_achievement_assessment_pro_cie type=table product_tier=context pages=192 -->
+
+**Table 7. Types of assessment
+1
+Achievement assessment
+Proﬁciency assessment
+2
+Norm-refe**
+
 
 | 1 | Achievement assessment | Proficiency assessment |
 | --- | --- | --- |
@@ -6662,7 +5385,7 @@ Assessment
 | 12 | Series assessment | Category assessment |
 | 13 | Assessment by others | Self-assessment |
 
-<!-- el:end id=table_p192_01 -->
+<!-- el:end id=cefr2001_table_7_types_of_assessment_1_achievement_assessment_pro_cie -->
 
 *Page **192***
 
@@ -6905,18 +5628,17 @@ Users of the Framework may wish to consider and where appropriate state:
 - more appropriate and feasible in the pedagogic culture of their system
 - 
 - more rewarding in terms of teacher development through ‘washback’ effect
-- the way in which the assessment of achievement (school-oriented; learning-oriented) and the assessment of proficiency (real world-oriented; outcome-oriented) are balanced and complemented in their system, and the extent to which communicative performance is assessed as well as linguistic knowledge.
-- the extent to which the results of learning are assessed in relation to defined standards and criteria (criterion-referencing) and the extent to which grades and evaluations are assigned on the basis of the class a learner is in (norm-referencing).
-- the extent to which teachers are:
+
+- the way in which the assessment of achievement (school-oriented; learning-oriented) and the assessment of proficiency (real world-oriented; outcome-oriented) are balanced and complemented in their system, and the extent to which communicative performance is assessed as well as linguistic knowledge. - the extent to which the results of learning are assessed in relation to defined standards and criteria (criterion-referencing) and the extent to which grades and evaluations are assigned on the basis of the class a learner is in (norm-referencing). - the extent to which teachers are:
+
 - 
 - informed about standards (e.g. common descriptors, samples of performance)
 - 
 - encouraged to become aware of a range of assessment techniques
 - 
 - trained in techniques and interpretation
-- the extent to which it is desirable and feasible to develop an integrated approach to continuous assessment of coursework and fixed point assessment in relation to related standards and criteria definitions
-- the extent to which it is desirable and feasible to involve learners in self-assessment in relation to defined descriptors of tasks and aspects of proficiency at different levels, and operationalisation of those descriptors in – for example – series assessment
-- the relevance of the specifications and scales provided in the Framework to their context, and the way in which they might be complemented or elaborated.
+
+- the extent to which it is desirable and feasible to develop an integrated approach to continuous assessment of coursework and fixed point assessment in relation to related standards and criteria definitions - the extent to which it is desirable and feasible to involve learners in self-assessment in relation to defined descriptors of tasks and aspects of proficiency at different levels, and operationalisation of those descriptors in – for example – series assessment - the relevance of the specifications and scales provided in the Framework to their context, and the way in which they might be complemented or elaborated.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p201 -->
@@ -6944,35 +5666,13 @@ Assessment
 <!-- page:202 -->
 
 <!-- el:start type=prose id=prose_p203 page=203 -->
-Example 1: Cambridge Certificate in Advanced English (CAE), Paper 5: Criteria for Assessment (1991)
+Example 1: Cambridge Certiﬁcate in Advanced English (CAE), Paper 5: Criteria for Assessment (1991) Test criteria Illustrative scales Other categories Fluency Fluency Accuracy and range General range Vocabulary range Grammatical accuracy Vocabulary control Pronunciation Phonological control Task achievement Coherence Task success Sociolinguistic appropriacy Need for interlocutor support Interactive communication Turntaking strategies Extent and ease of maintaining Co-operative strategies contribution Thematic development Note on other categories: In the illustrative scales, statements about task success are found in relation to the kind of activity concerned under Communicative Activities. Extent and ease of contribution is included under Fluency in those scales. An attempt to write and calibrate descriptors on Need for Interlocutor Support to include in the illustrative set of scales was unsuccessful. Example 2: International Certiﬁcate Conference (ICC): Certiﬁcate in English for Business Purposes, Test 2: Business Conversation (1987) Test criteria Illustrative scales Other categories Scale 1 (not named) Sociolinguistic appropriacy Task success Grammatical accuracy Vocabulary control Scale 2 (Use of discourse Turntaking strategies features to initiate and Co-operative strategies maintain ﬂow of Sociolinguistic appropriacy conversation) Common European Framework of Reference for Languages: learning, teaching, assessment 194
 
-Test criteria Illustrative scales Other categories
-
-Fluency Fluency
-
-Accuracy and range General range Vocabulary range Grammatical accuracy Vocabulary control
-
-Pronunciation Phonological control
-
-Task achievement Coherence Task success Sociolinguistic appropriacy Need for interlocutor support
-
-Interactive communication Turntaking strategies Extent and ease of maintaining Co-operative strategies contribution Thematic development
-
-Note on other categories: In the illustrative scales, statements about task success are found in relation to the kind of activity concerned under Communicative Activities. Extent and ease of contribution is included under Fluency in those scales. An attempt to write and calibrate descriptors on Need for Interlocutor Support to include in the illustrative set of scales was unsuccessful.
-
-Example 2: International Certificate Conference (ICC): Certificate in English for Business Purposes, Test 2: Business Conversation (1987)
-
-Test criteria Illustrative scales Other categories
-
-Scale 1 (not named) Sociolinguistic appropriacy Task success Grammatical accuracy Vocabulary control
-
-Scale 2 (Use of discourse Turntaking strategies features to initiate and Co-operative strategies maintain flow of Sociolinguistic appropriacy conversation)
-
-Common European Framework of Reference for Languages: learning, teaching, assessment
+*
 <!-- el:end id=prose_p203 -->
 
-<!-- el:start type=table id=table_p203_01 page=203 -->
-<!-- db:id=table_p203_01 type=table product_tier=context pages=203 -->
+<!-- el:start type=table id=cefr2001_p203_table_01 page=203 -->
+<!-- db:id=cefr2001_p203_table_01 type=table product_tier=context pages=203 -->
 
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
@@ -6986,46 +5686,24 @@ Common European Framework of Reference for Languages: learning, teaching, assess
 | Scale 1 (not named) | Sociolinguistic appropriacy Grammatical accuracy Vocabulary control | Task success |
 | Scale 2 (Use of discourse features to initiate and maintain flow of conversation) | Turntaking strategies Co-operative strategies Sociolinguistic appropriacy |  |
 
-<!-- el:end id=table_p203_01 -->
+<!-- el:end id=cefr2001_p203_table_01 -->
 
 *Page **203***
 
 <!-- page:203 -->
 
 <!-- el:start type=prose id=prose_p204 page=204 -->
-Example 3: Eurocentres – Small Group Interaction Assessment (RADIO) (1987)
+Example 3: Eurocentres – Small Group Interaction Assessment (RADIO) (1987) Test criteria Illustrative scales Other categories Range General range Vocabulary range Accuracy Grammatical accuracy Vocabulary control Socio-linguistic appropriacy Delivery Fluency Phonological control Interaction Turntaking strategies Co-operating strategies Example 4: Swiss National Research Council: Assessment of Video Performances Context: The illustrative descriptors were scaled in a research project in Switzerland as explained in Appendix A. At the conclusion of the research project, teachers who had participated were invited to a conference to present the results and to launch experimen- tation in Switzerland with the European Language Portfolio. At the conference, two of the subjects of discussion were (a) the need to relate continuous assessment and self- assessment checklists to an overall framework, and (b) the ways in which the descriptors scaled in the project could be exploited in different ways in assessment. As part of this process of discussion, videos of some of the learners in the survey were rated onto the assessment grid presented as Table 3 in Chapter 3. It presents a selection from the illus- trative descriptors in a merged, edited form. Test criteria Illustrative scales Other categories Range General range Vocabulary range Accuracy Grammatical accuracy Vocabulary control Fluency Fluency Interaction Global interaction Turntaking Co-operating Coherence Coherence Assessment 195
 
-Test criteria Illustrative scales Other categories
-
-Range General range Vocabulary range
-
-Accuracy Grammatical accuracy Vocabulary control Socio-linguistic appropriacy
-
-Delivery Fluency Phonological control
-
-Interaction Turntaking strategies Co-operating strategies
-
-Example 4: Swiss National Research Council: Assessment of Video Performances
-
-Context: The illustrative descriptors were scaled in a research project in Switzerland as explained in Appendix A. At the conclusion of the research project, teachers who had participated were invited to a conference to present the results and to launch experimentation in Switzerland with the European Language Portfolio. At the conference, two of the subjects of discussion were (a) the need to relate continuous assessment and selfassessment checklists to an overall framework, and (b) the ways in which the descriptors scaled in the project could be exploited in different ways in assessment. As part of this process of discussion, videos of some of the learners in the survey were rated onto the assessment grid presented as Table 3 in Chapter 3. It presents a selection from the illustrative descriptors in a merged, edited form.
-
-Test criteria Illustrative scales Other categories
-
-Range General range Vocabulary range
-
-Accuracy Grammatical accuracy Vocabulary control
-
-Fluency Fluency
-
-Interaction Global interaction Turntaking Co-operating
-
-Coherence Coherence
-
-Assessment
+*
 <!-- el:end id=prose_p204 -->
 
-<!-- el:start type=table id=table_p204_01 page=204 -->
-<!-- db:id=table_p204_01 type=table product_tier=context pages=204 -->
+<!-- el:start type=table id=cefr2001_table_3_in_chapter_3_it_presents_a_selection_from_the_illus_ page=204 -->
+<!-- db:id=cefr2001_table_3_in_chapter_3_it_presents_a_selection_from_the_illus_ type=table product_tier=context pages=204 -->
+
+**Table 3 in Chapter 3. It presents a selection from the illus-
+trative descriptors in a**
+
 
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
@@ -7041,7 +5719,7 @@ Assessment
 | Interaction | Global interaction Turntaking Co-operating |  |
 | Coherence | Coherence |  |
 
-<!-- el:end id=table_p204_01 -->
+<!-- el:end id=cefr2001_table_3_in_chapter_3_it_presents_a_selection_from_the_illus_ -->
 
 *Page **204***
 
@@ -7052,8 +5730,7 @@ Different systems with different learners in different contexts simplify, select
 
 Users of the Framework may wish to consider and where appropriate state:
 
-- the way in which theoretical categories are simplified into operational approaches in their system;
-- the extent to which the main factors used as assessment criteria in their system can be situated in the set of categories introduced in Chapter 5 for which sample scales are provided in the Appendix, given further local elaboration to take account of specific domains of use.
+- the way in which theoretical categories are simplified into operational approaches in their system; - the extent to which the main factors used as assessment criteria in their system can be situated in the set of categories introduced in Chapter 5 for which sample scales are provided in the Appendix, given further local elaboration to take account of specific domains of use.
 
 Common European Framework of Reference for Languages: learning, teaching, assessment
 <!-- el:end id=prose_p205 -->
@@ -7327,53 +6004,13 @@ Can interact with reasonable ease in structured situations and short conversatio
 <!-- page:214 -->
 
 <!-- el:start type=prose id=prose_p215 page=215 -->
-- Definiteness: Descriptors should describe concrete tasks and/or concrete degrees of skill in performing tasks. There are two points here. Firstly, the descriptor should avoid vagueness, like, for example ‘Can use a range of appropriate strategies’. What is meant by strategy? Appropriate to what? How should we interpret ‘range’? The problem with vague descriptors is that they can read quite nicely, but an apparent ease of acceptance can mask the fact that everyone is interpreting them differently.
+• Deﬁniteness: Descriptors should describe concrete tasks and/or concrete degrees of skill in performing tasks. There are two points here. Firstly, the descriptor should avoid vagueness, like, for example ‘Can use a range of appropriate strategies’. What is meant by strategy? Appropriate to what? How should we interpret ‘range’? The problem with vague descriptors is that they can read quite nicely, but an apparent ease of acceptance can mask the fact that everyone is interpreting them differently. Secondly, since the 1940s, it has been a principle that distinctions between steps on a scale should not be dependent on replacing a qualiﬁer like ‘some’ or ‘a few’ with ‘many’ or ‘most’ or by replacing ‘fairly broad’ with ‘very broad’ or ‘moderate’ with ‘good’ at the next level up. Distinctions should be real, not word-processed and this may mean gaps where meaningful, concrete distinctions cannot be made. • Clarity: Descriptors should be transparent, not jargon-ridden. Apart from the barrier to understanding, it is sometimes the case that when jargon is stripped away, an apparently impressive descriptor can turn out to be saying very little. Secondly, they should be written in simple syntax with an explicit, logical structure. • Brevity: One school of thought is associated with holistic scales, particularly those used in America and Australia. These try to produce a lengthy paragraph which Appendix A: developing proﬁciency descriptors 206 Table A1. Assessment: positive and negative criteria Positive Negative • has a repertoire of basic language and • has a narrow language repertoire, strategies which enables him or her to demanding constant rephrasing and deal with predictable everyday situations. searching for words. (ESU Level 3) (Eurocentres Level 3: certiﬁcate) • basic repertoire of language and • limited language proﬁciency causes strategies sufﬁcient for most everyday frequent breakdowns and needs, but generally requiring misunderstandings in non-routine compromise of the message and searching situations. (Finnish Level 2) for words. (Eurocentres Level 3: assessor • communication breaks down as language grid) constraints interfere with message. (ESU Level 3) • vocabulary centres on areas such as basic • has only a limited vocabulary. (Dutch objects, places, and most common Level 1) • kinship terms. (ACTFL Novice) • limited range of words and expressions hinders communication of thoughts and ideas. (Gothenburg U) • produces and recognises a set of words • can produce only formulaic utterances and short phrases learnt by heart. (Trim lists and enumerations. (ACTFL Novice) 1978 Level 1) • can produce brief everyday expressions • has only the most basic language in order to satisfy simple needs of a repertoire, with little or no evidence of a concrete type (in the area of salutation, functional command of the language. information, etc.). (Elviri; Milan Level 1 (ESU Level 1) 1986)
 
-Secondly, since the 1940s, it has been a principle that distinctions between steps on a scale should not be dependent on replacing a qualifier like ‘some’ or ‘a few’ with ‘many’ or ‘most’ or by replacing ‘fairly broad’ with ‘very broad’ or ‘moderate’ with ‘good’ at the next level up. Distinctions should be real, not word-processed and this may mean gaps where meaningful, concrete distinctions cannot be made.
-
-- Clarity: Descriptors should be transparent, not jargon-ridden. Apart from the barrier to understanding, it is sometimes the case that when jargon is stripped away, an apparently impressive descriptor can turn out to be saying very little. Secondly, they should be written in simple syntax with an explicit, logical structure.
-
-- Brevity: One school of thought is associated with holistic scales, particularly those used in America and Australia. These try to produce a lengthy paragraph which
-
-Appendix A: developing proficiency descriptors
-
-Table A1. Assessment: positive and negative criteria
-
-Positive Negative
-
-- has a repertoire of basic language and
-  - has a narrow language repertoire, strategies which enables him or her to demanding constant rephrasing and deal with predictable everyday situations. searching for words. (ESU Level 3)
-
-(Eurocentres Level 3: certificate)
-
-- basic repertoire of language and
-
-- limited language proficiency causes
-
-strategies sufficient for most everyday frequent breakdowns and needs, but generally requiring misunderstandings in non-routine compromise of the message and searching situations. (Finnish Level 2) for words. (Eurocentres Level 3: assessor
-
-- communication breaks down as language
-
-grid) constraints interfere with message. (ESU Level 3)
-
-- vocabulary centres on areas such as basic
-  - has only a limited vocabulary. (Dutch objects, places, and most common Level 1)
-- kinship terms. (ACTFL Novice)
-  - limited range of words and expressions hinders communication of thoughts and ideas. (Gothenburg U)
-
-- produces and recognises a set of words
-  - can produce only formulaic utterances and short phrases learnt by heart. (Trim lists and enumerations. (ACTFL Novice)
-
-## 1978 Level 1)
-
-- can produce brief everyday expressions
-  - has only the most basic language in order to satisfy simple needs of a repertoire, with little or no evidence of a concrete type (in the area of salutation, functional command of the language. information, etc.). (Elviri; Milan Level 1 (ESU Level 1)
-
-1986)
+*
 <!-- el:end id=prose_p215 -->
 
-<!-- el:start type=table id=table_p215_01 page=215 -->
-<!-- db:id=table_p215_01 type=table product_tier=context pages=215 -->
+<!-- el:start type=table id=cefr2001_p215_table_01 page=215 -->
+<!-- db:id=cefr2001_p215_table_01 type=table product_tier=context pages=215 -->
 
 | Positive | Negative |
 | --- | --- |
@@ -7382,7 +6019,7 @@ grid) constraints interfere with message. (ESU Level 3)
 | • produces and recognises a set of words and short phrases learnt by heart. (Trim 1978 Level 1) | • can produce only formulaic utterances lists and enumerations. (ACTFL Novice) |
 | • can produce brief everyday expressions in order to satisfy simple needs of a concrete type (in the area of salutation, information, etc.). (Elviri; Milan Level 1 1986) | • has only the most basic language repertoire, with little or no evidence of a functional command of the language. (ESU Level 1) |
 
-<!-- el:end id=table_p215_01 -->
+<!-- el:end id=cefr2001_p215_table_01 -->
 
 *Page **215***
 
@@ -7402,6 +6039,7 @@ If qualitative and quantitative methods are used then there are two possible sta
 Users of the Framework may wish to consider and where appropriate state:
 
 - Which of the criteria listed are most relevant, and what other criteria are used explicitly or implicitly in their context;
+
 - To what extent it is desirable and feasible that formations in their system meet criteria such as those listed.
 
 Appendix A: developing proficiency descriptors
@@ -7482,36 +6120,20 @@ Appendix A: developing proficiency descriptors
 <!-- page:219 -->
 
 <!-- el:start type=prose id=prose_p220 page=220 -->
-approach allows it to be used to scale descriptors of communicative proficiency as well as test items.
+approach allows it to be used to scale descriptors of communicative proﬁciency as well as test items. In a Rasch analysis, different tests or questionnaires can be formed into an overlapping chain through the employment of ‘anchor items’, which are common to adjacent forms. In the diagram below, the anchor items are shaded grey. In this way, forms can be targeted to particular groups of learners, yet linked into a common scale. Care must, however, be taken in this process, since the model distorts results for the high scores and low scores on each form. No 12. The advantage of a Rasch analysis is that it can provide sample-free, scale-free measurement, that is to say scaling that is independent of the samples or the tests/questionnaires used in the analysis. Scale values are provided which remain constant for future groups provided those future subjects can be considered new groups within the same statistical population. Systematic shifts in values over time (e.g. due to curriculum change or to assessor training) can be quantiﬁed and adjusted for. Systematic variation between types of learners or assessors can be quantiﬁed and adjusted for (Wright and Masters 1982; Lincare 1989). There are a number of ways in which Rasch analysis can be employed to scale descriptors: No 12. (a) Data from the qualitative techniques Nos 6, 7 or 8 can be put onto an arithmetic scale with Rasch. No 12. (b) Tests can be carefully developed to operationalise proﬁciency descriptors in particular test items. Those test items can then be scaled with Rasch and their scale values taken to indicate the relative difﬁculty of the descriptors (Brown et al. 1992; Carroll 1993; Masters 1994; Kirsch 1995; Kirsch and Mosenthal 1995). No 12. (c) Descriptors can be used as questionnaire items for teacher assessment of their learners (Can he/she do X?). In this way the descriptors can be calibrated directly onto an arithmetic scale in the same way that test items are scaled in item banks. No 12. (d) The scales of descriptors included in Chapters 3, 4 and 5 were developed in this way. All three projects described in Appendices B, C and D have used Rasch methodology to scale descriptors, and to equate the resulting scales of descriptors to each other. No 12. In addition to its usefulness in the development of a scale, Rasch can also be used to analyse the way in which the bands on an assessment scale are actually used. This may help to highlight loose wording, underuse of a band, or overuse of a band, and inform revision (Davidson 1992; Milanovic et al. 1996; Stansﬁeld and Kenyon 1996; Tyndall and Kenyon 1996). Appendix A: developing proﬁciency descriptors 211 Test A Test B Test C
 
-In a Rasch analysis, different tests or questionnaires can be formed into an overlapping chain through the employment of ‘anchor items’, which are common to adjacent forms. In the diagram below, the anchor items are shaded grey. In this way, forms can be targeted to particular groups of learners, yet linked into a common scale. Care must, however, be taken in this process, since the model distorts results for the high scores and low scores on each form.
-
-No 12. The advantage of a Rasch analysis is that it can provide sample-free, scale-free measurement, that is to say scaling that is independent of the samples or the tests/questionnaires used in the analysis. Scale values are provided which remain constant for future groups provided those future subjects can be considered new groups within the same statistical population. Systematic shifts in values over time (e.g. due to curriculum change or to assessor training) can be quantified and adjusted for. Systematic variation between types of learners or assessors can be quantified and adjusted for (Wright and Masters 1982; Lincare 1989).
-
-There are a number of ways in which Rasch analysis can be employed to scale descriptors:
-
-No 12. (a) Data from the qualitative techniques Nos 6, 7 or 8 can be put onto an arithmetic scale with Rasch. No 12. (b) Tests can be carefully developed to operationalise proficiency descriptors in particular test items. Those test items can then be scaled with Rasch and their scale values taken to indicate the relative difficulty of the descriptors (Brown et al. 1992; Carroll 1993; Masters 1994; Kirsch 1995; Kirsch and Mosenthal 1995). No 12. (c) Descriptors can be used as questionnaire items for teacher assessment of their learners (Can he/she do X?). In this way the descriptors can be calibrated directly onto an arithmetic scale in the same way that test items are scaled in item banks. No 12. (d) The scales of descriptors included in Chapters 3, 4 and 5 were developed in this way. All three projects described in Appendices B, C and D have used Rasch methodology to scale descriptors, and to equate the resulting scales of descriptors to each other.
-
-No 12. In addition to its usefulness in the development of a scale, Rasch can also be used to analyse the way in which the bands on an assessment scale are actually used. This may help to highlight loose wording, underuse of a band, or overuse of a band, and inform revision (Davidson 1992; Milanovic et al. 1996; Stansfield and Kenyon 1996; Tyndall and Kenyon 1996).
-
-Appendix A: developing proficiency descriptors
-
-Test A
-
-Test B
-
-Test C
+*
 <!-- el:end id=prose_p220 -->
 
-<!-- el:start type=table id=table_p220_01 page=220 -->
-<!-- db:id=table_p220_01 type=table product_tier=context pages=220 -->
+<!-- el:start type=table id=cefr2001_p220_table_01 page=220 -->
+<!-- db:id=cefr2001_p220_table_01 type=table product_tier=context pages=220 -->
 
 | Test B |  |  |  | Test C |
 | --- | --- | --- | --- | --- |
 |  |  | Test B |  |  |
 | Test A |  |  |  |  |
 
-<!-- el:end id=table_p220_01 -->
+<!-- el:end id=cefr2001_p220_table_01 -->
 
 *Page **220***
 
@@ -7539,6 +6161,7 @@ Fulcher 1996: Does thick description lead to Systematic approach to descriptor a
 Users of the Framework may wish to consider and where appropriate state:
 
 - the extent to which grades awarded in their system are given shared meaning through common definitions;
+
 - which of the methods outlined above, or which other methods, are used to develop such definitions.
 
 Appendix A: developing proficiency descriptors
@@ -7645,36 +6268,20 @@ Appendix A: developing proficiency descriptors
 <!-- el:start type=prose id=prose_p226 page=226 -->
 ## Appendix B: The illustrative scales of descriptors
 
-This appendix contains a description of the Swiss project which developed the illustrative descriptors for the CEF. Categories scaled are also listed, with references to the pages where they can be found in the main document. The descriptors in this project were scaled and used to create the CEF levels with Method No 12c (Rasch modelling) outlined at the end of Appendix A.
+This appendix contains a description of the Swiss project which developed the illustrative descriptors for the CEF. Categories scaled are also listed, with references to the pages where they can be found in the main document. The descriptors in this project were scaled and used to create the CEF levels with Method No 12c (Rasch modelling) outlined at the end of Appendix A. The Swiss research project Origin and Context The scales of descriptors included in Chapters 3, 4 and 5 have been drawn up on the basis of the results of a Swiss National Science Research Council project which took place between 1993 and 1996. This project was undertaken as a follow-up to the 1991 Rüschlikon Symposium. The aim was to develop transparent statements of proﬁciency of different aspects of the CEF descriptive scheme, which might also contribute to the development of a European Language Portfolio. A 1994 survey concentrated on Interaction and Production and was conﬁned to English as a Foreign Language and to teacher assessment. A 1995 survey was a partial replication of the 1994 study, with the addition of Reception, but French and German proﬁciency were surveyed as well as English. Self-assessment and some examination information (Cambridge; Goethe; DELF/DALF) were also added to the teacher assessment. Altogether almost 300 teachers and some 2,800 learners representing approximately 500 classes were involved in the two surveys. Learners from lower secondary, upper secondary, vocational and adult education, were represented in the following proportions: Lower secondary Upper secondary Vocational Adult 1994 35% 19% 15% 31% 1995 24% 31% 17% 28% Teachers from the German- French- Italian- and Romansch-speaking language regions of Switzerland were involved, though the numbers involved from the Italian- and 217
 
-The Swiss research project
-
-Origin and Context
-
-The scales of descriptors included in Chapters 3, 4 and 5 have been drawn up on the basis of the results of a Swiss National Science Research Council project which took place between 1993 and 1996. This project was undertaken as a follow-up to the 1991 Rüschlikon Symposium. The aim was to develop transparent statements of proficiency of different aspects of the CEF descriptive scheme, which might also contribute to the development of a European Language Portfolio.
-
-A 1994 survey concentrated on Interaction and Production and was confined to English as a Foreign Language and to teacher assessment. A 1995 survey was a partial replication of the 1994 study, with the addition of Reception, but French and German proficiency were surveyed as well as English. Self-assessment and some examination information (Cambridge; Goethe; DELF/DALF) were also added to the teacher assessment.
-
-Altogether almost 300 teachers and some 2,800 learners representing approximately 500 classes were involved in the two surveys. Learners from lower secondary, upper secondary, vocational and adult education, were represented in the following proportions:
-
-Lower secondary Upper secondary Vocational Adult
-
-1994 35% 19% 15% 31%
-
-1995 24% 31% 17% 28%
-
-Teachers from the GermanFrenchItalianand Romansch-speaking language regions of Switzerland were involved, though the numbers involved from the Italianand
+*
 <!-- el:end id=prose_p226 -->
 
-<!-- el:start type=table id=table_p226_01 page=226 -->
-<!-- db:id=table_p226_01 type=table product_tier=context pages=226 -->
+<!-- el:start type=table id=cefr2001_p226_table_01 page=226 -->
+<!-- db:id=cefr2001_p226_table_01 type=table product_tier=context pages=226 -->
 
 |  | Lower secondary | Upper secondary | Vocational | Adult |
 | --- | --- | --- | --- | --- |
 | 1994 | 35% | 19% | 15% | 31% |
 | 1995 | 24% | 31% | 17% | 28% |
 
-<!-- el:end id=table_p226_01 -->
+<!-- el:end id=cefr2001_p226_table_01 -->
 
 *Page **226***
 
@@ -7795,86 +6402,13 @@ Appendix B: The illustrative scales of descriptors
 <!-- page:230 -->
 
 <!-- el:start type=prose id=prose_p231 page=231 -->
-Document B1 Illustrative scales in Chapter 4: Communicative activities
+Document B1 Illustrative scales in Chapter 4: Communicative activities Spoken • Overall listening comprehension • Understanding Interaction between native speakers • Listening as a member of a live audience • Listening to announcements and instructions • Listening to radio & audio recordings Audio/Visual • Watching TV & ﬁlm Written • Overall reading comprehension • Reading correspondence • Reading for orientation • Reading for information and argument • Reading instructions Spoken • Overall spoken interaction • Comprehension in interaction • Understanding a native speaker interlocutor • Conversation • Informal discussion • Formal discussion (Meetings) • Goal-oriented co-operation • Obtaining goods and services • Information exchange • Interviewing & being interviewed Written • Overall written interaction • Correspondence • Notes, messages & forms Spoken • Overall spoken production • Sustained monologue: describing experience • Sustained monologue: putting a case (e.g. debate) • Public announcements • Addressing audiences Written • Overall written production • Creative writing • Writing reports and essays Document B2 Illustrative scales in Chapter 4: Communication strategies RECEPTION • Identifying cues and inferring INTERACTION • Taking the ﬂoor (turntaking) • Co-operating • Asking for clariﬁcation PRODUCTION • Planning • Compensating • Monitoring and repair Appendix B: The illustrative scales of descriptors 222 R E C E P T I O N I N T E R A C T I O N P R O D U C T I O N
 
-Spoken
-
-- Overall listening comprehension
-  - Understanding Interaction between native speakers
-  - Listening as a member of a live audience
-  - Listening to announcements and instructions
-  - Listening to radio & audio recordings
-
-Audio/Visual
-
-- Watching TV & film
-
-Written
-
-- Overall reading comprehension
-  - Reading correspondence
-  - Reading for orientation
-  - Reading for information and argument
-  - Reading instructions
-
-Spoken
-
-- Overall spoken interaction
-  - Comprehension in interaction
-  - Understanding a native speaker interlocutor
-  - Conversation
-  - Informal discussion
-  - Formal discussion (Meetings)
-  - Goal-oriented co-operation
-  - Obtaining goods and services
-  - Information exchange
-  - Interviewing & being interviewed
-
-Written
-
-- Overall written interaction
-  - Correspondence
-  - Notes, messages & forms
-
-Spoken
-
-- Overall spoken production
-  - Sustained monologue: describing experience
-  - Sustained monologue: putting a case (e.g. debate)
-  - Public announcements
-  - Addressing audiences
-
-Written
-
-- Overall written production
-  - Creative writing
-  - Writing reports and essays
-
-Document B2 Illustrative scales in Chapter 4: Communication strategies
-
-RECEPTION
-
-- Identifying cues and inferring
-
-INTERACTION
-
-- Taking the floor (turntaking)
-  - Co-operating
-  - Asking for clarification
-
-PRODUCTION
-
-- Planning
-  - Compensating
-  - Monitoring and repair
-
-Appendix B: The illustrative scales of descriptors
-
-
+*
 <!-- el:end id=prose_p231 -->
 
-<!-- el:start type=table id=table_p231_01 page=231 -->
-<!-- db:id=table_p231_01 type=table product_tier=context pages=231 -->
+<!-- el:start type=table id=cefr2001_p231_table_01 page=231 -->
+<!-- db:id=cefr2001_p231_table_01 type=table product_tier=context pages=231 -->
 
 | R E C E P T I O N | Spoken • Overall listening comprehension • Understanding Interaction between native speakers • Listening as a member of a live audience • Listening to announcements and instructions • Listening to radio & audio recordings |
 | --- | --- |
@@ -7889,7 +6423,7 @@ Appendix B: The illustrative scales of descriptors
 | INTERACTION • Taking the floor (turntaking) • Co-operating • Asking for clarification |  |
 | PRODUCTION • Planning • Compensating • Monitoring and repair |  |
 
-<!-- el:end id=table_p231_01 -->
+<!-- el:end id=cefr2001_p231_table_01 -->
 
 *Page **231***
 
@@ -7943,136 +6477,15 @@ Appendix B: The illustrative scales of descriptors
 <!-- page:232 -->
 
 <!-- el:start type=prose id=prose_p233 page=233 -->
-DESCRIBING & NARRATING:
+## Describing & Narrating:
 
-A1 A2 B1 B2 C1 C2
+A1 A2 B1 B2 C1 C2 • where • people, • objects, pets, • plot of • clear • they • appearance • possessions • book/ﬁlm • detailed • live • background, • events & • experiences • descrip- • job • activities • reactions to • basic details • tion of • places & • likes/dislikes • both • of unpre- • complex • living • plans/ • dreams, • dictable • subjects • conditions • arrangements • hopes, • occurrences • habits/routines • ambitions • e.g. accident • personal • tell a story • experience INFORMATION EXCHANGE: A1 A2 B1 B2 C1 C2 • them- • simple, • simple • accumu- • selves & • routine, • directions & • lated factual • others • direct • instructions • info on • home • limited, • pastimes, • familiar • time • work & • habits, routines • detailed • matters • free time • past activities • directions • within ﬁeld RANGE: SETTINGS: A1 A2 B1 B2 C1 C2 • basic • routine • most topics • common • everyday • pertinent to • needs • transactions • everyday life: • simple/ • familiar • family hobbies • predictable • situations & • interests, work • survival • topics • travel, current • simple • everyday • events • concrete • situations with • needs: pers. • predictable • details, daily • content • routines, • info requests Document B4 Scales of language proﬁciency used as sources Holistic scales of overall spoken proﬁciency • Hofmann: Levels of Competence in Oral Communication 1974 • University of London School Examination Board: Certiﬁcate of Attainment – Graded Tests 1987 • Ontario ESL Oral Interaction Assessment Bands 1990 • Finnish Nine Level Scale of Language Proﬁciency 1993 • European Certiﬁcate of Attainment in Modern Languages 1993 Scales for different communicative activities • Trim: Possible Scale for a Unit/Credit Scheme: Social Skills 1978 • North: European Language Portfolio Mock-up: Interaction Scales 1991 Appendix B: The illustrative scales of descriptors 224
 
-- where
-- people,
-  - objects, pets,
-  - plot of
-  - clear
-- they
-- appearance
-  - possessions
-  - book/film
-  - detailed
-- live
-- background,
-  - events &
-  - experiences
-  - descrip-
-- job
-  - activities
-  - reactions to
-  - basic details
-  - tion of
-- places &
-  - likes/dislikes
-  - both
-  - of unpre-
-  - complex
-- living
-  - plans/
-  - dreams,
-  - dictable
-  - subjects
-- conditions
-  - arrangements
-  - hopes,
-  - occurrences
-  - habits/routines
-  - ambitions
-  - e.g. accident
-  - personal
-  - tell a story
-  - experience
-
-INFORMATION EXCHANGE:
-
-A1 A2 B1 B2 C1 C2
-
-- them-
-- simple,
-  - simple
-  - accumu-
-- selves & • routine,
-  - directions &
-  - lated factual
-- others
-- direct
-  - instructions
-  - info on
-- home
-- limited,
-  - pastimes,
-  - familiar
-- time
-- work &
-  - habits, routines • detailed
-  - matters
-- free time
-  - past activities
-  - directions
-  - within field
-
-RANGE: SETTINGS:
-
-A1 A2 B1 B2 C1 C2
-
-- basic
-  - routine
-  - most topics
-- common
-  - everyday
-  - pertinent to
-- needs
-  - transactions
-  - everyday life:
-- simple/
-  - familiar
-  - family hobbies
-- predictable
-  - situations &
-  - interests, work
-- survival
-  - topics
-  - travel, current
-- simple
-  - everyday
-  - events
-- concrete
-  - situations with
-- needs: pers.
-  - predictable
-- details, daily
-  - content
-- routines,
-- info requests
-
-Document B4 Scales of language proficiency used as sources
-
-Holistic scales of overall spoken proficiency
-
-- Hofmann: Levels of Competence in Oral Communication 1974
-- University of London School Examination Board: Certificate of Attainment –
-
-Graded Tests 1987
-
-- Ontario ESL Oral Interaction Assessment Bands 1990
-- Finnish Nine Level Scale of Language Proficiency 1993
-- European Certificate of Attainment in Modern Languages 1993
-
-Scales for different communicative activities
-
-- Trim: Possible Scale for a Unit/Credit Scheme: Social Skills 1978
-- North: European Language Portfolio Mock-up: Interaction Scales 1991
-
-Appendix B: The illustrative scales of descriptors
+*
 <!-- el:end id=prose_p233 -->
 
-<!-- el:start type=table id=table_p233_01 page=233 -->
-<!-- db:id=table_p233_01 type=table product_tier=context pages=233 -->
+<!-- el:start type=table id=cefr2001_p233_table_01 page=233 -->
+<!-- db:id=cefr2001_p233_table_01 type=table product_tier=context pages=233 -->
 
 | DESCRIBING & NARRATING: |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -8082,7 +6495,7 @@ Appendix B: The illustrative scales of descriptors
 | RANGE: SETTINGS: |  |  |  |  |  |
 | A1 | A2 • basic • routine • common • everyday • needs • transactions • simple/ • familiar • predictable • situations & • survival • topics • simple • everyday • concrete • situations with • needs: pers. • predictable • details, daily • content • routines, • info requests | B1 • most topics • pertinent to • everyday life: • family hobbies • interests, work • travel, current • events | B2 | C1 | C2 |
 
-<!-- el:end id=table_p233_01 -->
+<!-- el:end id=cefr2001_p233_table_01 -->
 
 *Page **233***
 
@@ -8240,8 +6653,7 @@ The study was conducted in the Centre for Applied Language Studies at the Univer
 <!-- page:238 -->
 
 <!-- el:start type=prose id=prose_p239 page=239 -->
-- the more concise version accompanies the test score,
-- the more extensive version is part of Advisory Feedback.
+- the more concise version accompanies the test score, - the more extensive version is part of Advisory Feedback.
 
 Concise scales
 
@@ -8275,27 +6687,13 @@ Appendix C: The DIALANG scales
 <!-- page:239 -->
 
 <!-- el:start type=prose id=prose_p240 page=240 -->
-Document C1 DIALANG self-assessment statements
+Document C1 DIALANG self-assessment statements CEF Level READING A1 I can understand the general idea of simple informational texts and short simple descriptions, especially if they contain pictures which help to explain the text. A1 I can understand very short, simple texts, putting together familiar names, words and basic phrases, by for example rereading parts of the text. A1 I can follow short, simple written instructions, especially if they contain pictures. A1 I can recognise familiar names, words and very simple phrases on simple notices in the most common everyday situations. A1 I can understand short, simple messages, e.g. on postcards. A2 I can understand short, simple texts containing the most common words, including some shared international words. A2 I can understand short, simple texts written in common everyday language. A2 I can understand short simple texts related to my job. A2 I can ﬁnd speciﬁc information in simple everyday material such as advertisements, brochures, menus and timetables. A2 I can identify speciﬁc information in simple written material such as letters, brochures and short newspaper articles describing events. A2 I can understand short simple personal letters. A2 I can understand standard routine letters and faxes on familiar topics. A2 I can understand simple instructions on equipment encountered in everyday life – such as a public telephone. A2 I can understand everyday signs and notices in public places, such as streets, restaurants, railway stations and in workplaces. B1 I can understand straightforward texts on subjects related to my ﬁelds of interest. B1 I can ﬁnd and understand general information I need in everyday material, such as letters, brochures and short ofﬁcial documents. B1 I can search one long or several short texts to locate speciﬁc information I need to help me complete a task. B1 I can recognise signiﬁcant points in straightforward newspaper articles on familiar subjects. B1 I can identify the main conclusions in clearly written argumentative texts. B1 I can recognise the general line of argument in a text but not necessarily in detail. B1 I can understand the description of events, feelings and wishes in personal letters well enough to correspond with a friend or acquaintance. B1 I can understand clearly written straightforward instructions for a piece of equipment. B2 I can read correspondence relating to my ﬁelds of interest and easily understand the essential meaning. B2 I can understand specialised articles outside my ﬁeld, provided I can use a dictionary to conﬁrm terminology. B2 I can read many kinds of texts quite easily at different speeds and in different ways according to my purpose in reading and the type of text. B2 I have a broad reading vocabulary, but I sometimes experience difﬁculty with less common words and phrases. B2 I can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile. B2 I can understand articles and reports concerned with contemporary problems in which the writers adopt particular stances or viewpoints. C1 I can understand any correspondence with an occasional use of dictionary. C1 I can understand in detail long, complex instructions on a new machine or procedure even outside my own area of speciality if I can reread difﬁcult sections. C2 I can understand and interpret practically all forms of written language including abstract, structurally complex, or highly colloquial literary and non-literary writings. Appendix C: The DIALANG scales 231
 
-CEF Level READING
-
-A1 I can understand the general idea of simple informational texts and short simple descriptions, especially if they contain pictures which help to explain the text. A1 I can understand very short, simple texts, putting together familiar names, words and basic phrases, by for example rereading parts of the text. A1 I can follow short, simple written instructions, especially if they contain pictures. A1 I can recognise familiar names, words and very simple phrases on simple notices in the most common everyday situations. A1 I can understand short, simple messages, e.g. on postcards.
-
-A2 I can understand short, simple texts containing the most common words, including some shared international words. A2 I can understand short, simple texts written in common everyday language. A2 I can understand short simple texts related to my job. A2 I can find specific information in simple everyday material such as advertisements, brochures, menus and timetables. A2 I can identify specific information in simple written material such as letters, brochures and short newspaper articles describing events. A2 I can understand short simple personal letters. A2 I can understand standard routine letters and faxes on familiar topics. A2 I can understand simple instructions on equipment encountered in everyday life – such as a public telephone. A2 I can understand everyday signs and notices in public places, such as streets, restaurants, railway stations and in workplaces.
-
-B1 I can understand straightforward texts on subjects related to my fields of interest. B1 I can find and understand general information I need in everyday material, such as letters, brochures and short official documents. B1 I can search one long or several short texts to locate specific information I need to help me complete a task. B1 I can recognise significant points in straightforward newspaper articles on familiar subjects. B1 I can identify the main conclusions in clearly written argumentative texts. B1 I can recognise the general line of argument in a text but not necessarily in detail. B1 I can understand the description of events, feelings and wishes in personal letters well enough to correspond with a friend or acquaintance. B1 I can understand clearly written straightforward instructions for a piece of equipment.
-
-B2 I can read correspondence relating to my fields of interest and easily understand the essential meaning. B2 I can understand specialised articles outside my field, provided I can use a dictionary to confirm terminology. B2 I can read many kinds of texts quite easily at different speeds and in different ways according to my purpose in reading and the type of text. B2 I have a broad reading vocabulary, but I sometimes experience difficulty with less common words and phrases. B2 I can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile. B2 I can understand articles and reports concerned with contemporary problems in which the writers adopt particular stances or viewpoints.
-
-C1 I can understand any correspondence with an occasional use of dictionary. C1 I can understand in detail long, complex instructions on a new machine or procedure even outside my own area of speciality if I can reread difficult sections.
-
-C2 I can understand and interpret practically all forms of written language including abstract, structurally complex, or highly colloquial literary and non-literary writings.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p240 -->
 
-<!-- el:start type=table id=table_p240_01 page=240 -->
-<!-- db:id=table_p240_01 type=table product_tier=context pages=240 -->
+<!-- el:start type=table id=cefr2001_p240_table_01 page=240 -->
+<!-- db:id=cefr2001_p240_table_01 type=table product_tier=context pages=240 -->
 
 | CEF Level | READING |
 | --- | --- |
@@ -8306,32 +6704,20 @@ Appendix C: The DIALANG scales
 | C1 C1 | I can understand any correspondence with an occasional use of dictionary. I can understand in detail long, complex instructions on a new machine or procedure even outside my own area of speciality if I can reread difficult sections. |
 | C2 | I can understand and interpret practically all forms of written language including abstract, structurally complex, or highly colloquial literary and non-literary writings. |
 
-<!-- el:end id=table_p240_01 -->
+<!-- el:end id=cefr2001_p240_table_01 -->
 
 *Page **240***
 
 <!-- page:240 -->
 
 <!-- el:start type=prose id=prose_p241 page=241 -->
-CEF Level WRITING
+CEF Level WRITING A1 I can write simple notes to friends. A1 I can describe where I live. A1 I can ﬁll in forms with personal details. A1 I can write simple isolated phrases and sentences. A1 I can write a short simple postcard. A1 I can write short letters and messages with the help of a dictionary. A2 I can give short, basic descriptions of events and activities. A2 I can write very simple personal letters expressing thanks and apology. A2 I can write short, simple notes and messages relating to matters of everyday life. A2 I can describe plans and arrangements. A2 I can explain what I like or dislike about something. A2 I can describe my family, living conditions, schooling, present or most recent job. A2 I can describe past activities and personal experiences. B1 I can write very brief reports, which pass on routine factual information and state reasons for actions. B1 I can write personal letters describing experiences, feelings and events in detail. B1 I can describe basic details of unpredictable occurrences, e.g., an accident. B1 I can describe dreams, hopes and ambitions. B1 I can take messages describing enquiries, problems, etc. B1 I can describe the plot of a book or ﬁlm and describe my reactions. B1 I can brieﬂy give reasons and explanations for opinions, plans and actions. B2 I can evaluate different ideas and solutions to a problem. B2 I can synthesise information and arguments from a number of sources. B2 I can construct a chain of reasoned argument. B2 I can speculate about causes, consequences and hypothetical situations. C1 I can expand and support points of view at some length with subsidiary points, reasons and relevant examples. C1 I can develop an argument systematically, giving appropriate emphasis to signiﬁcant points, and presenting relevant supporting detail. C1 I can give clear detailed descriptions of complex subjects. (estim. C1) I can usually write without consulting a dictionary. (estim. C1) I can write so well that my language needs to be checked only if the text is an important one. C2 I can provide an appropriate and effective logical structure, which helps the reader to ﬁnd signiﬁcant points. C2 I can produce clear, smoothly ﬂowing, complex reports, articles or essays that present a case, or give critical appreciation of proposals or literary works. (estim. C2) I can write so well that native speakers need not check my texts. (estim. C2) I can write so well that my texts cannot be improved signiﬁcantly even by teachers of writing. Appendix C: The DIALANG scales 232
 
-A1 I can write simple notes to friends. A1 I can describe where I live. A1 I can fill in forms with personal details. A1 I can write simple isolated phrases and sentences. A1 I can write a short simple postcard. A1 I can write short letters and messages with the help of a dictionary.
-
-A2 I can give short, basic descriptions of events and activities. A2 I can write very simple personal letters expressing thanks and apology. A2 I can write short, simple notes and messages relating to matters of everyday life. A2 I can describe plans and arrangements. A2 I can explain what I like or dislike about something. A2 I can describe my family, living conditions, schooling, present or most recent job. A2 I can describe past activities and personal experiences.
-
-B1 I can write very brief reports, which pass on routine factual information and state reasons for actions. B1 I can write personal letters describing experiences, feelings and events in detail. B1 I can describe basic details of unpredictable occurrences, e.g., an accident. B1 I can describe dreams, hopes and ambitions. B1 I can take messages describing enquiries, problems, etc. B1 I can describe the plot of a book or film and describe my reactions. B1 I can briefly give reasons and explanations for opinions, plans and actions.
-
-B2 I can evaluate different ideas and solutions to a problem. B2 I can synthesise information and arguments from a number of sources. B2 I can construct a chain of reasoned argument. B2 I can speculate about causes, consequences and hypothetical situations.
-
-C1 I can expand and support points of view at some length with subsidiary points, reasons and relevant examples. C1 I can develop an argument systematically, giving appropriate emphasis to significant points, and presenting relevant supporting detail. C1 I can give clear detailed descriptions of complex subjects. (estim. C1) I can usually write without consulting a dictionary. (estim. C1) I can write so well that my language needs to be checked only if the text is an important one.
-
-C2 I can provide an appropriate and effective logical structure, which helps the reader to find significant points. C2 I can produce clear, smoothly flowing, complex reports, articles or essays that present a case, or give critical appreciation of proposals or literary works. (estim. C2) I can write so well that native speakers need not check my texts. (estim. C2) I can write so well that my texts cannot be improved significantly even by teachers of writing.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p241 -->
 
-<!-- el:start type=table id=table_p241_01 page=241 -->
-<!-- db:id=table_p241_01 type=table product_tier=context pages=241 -->
+<!-- el:start type=table id=cefr2001_p241_table_01 page=241 -->
+<!-- db:id=cefr2001_p241_table_01 type=table product_tier=context pages=241 -->
 
 | CEF Level | WRITING |
 | --- | --- |
@@ -8342,26 +6728,20 @@ Appendix C: The DIALANG scales
 | C1 C1 C1 (estim. C1) (estim. C1) | I can expand and support points of view at some length with subsidiary points, reasons and relevant examples. I can develop an argument systematically, giving appropriate emphasis to significant points, and presenting relevant supporting detail. I can give clear detailed descriptions of complex subjects. I can usually write without consulting a dictionary. I can write so well that my language needs to be checked only if the text is an important one. |
 | C2 C2 (estim. C2) (estim. C2) | I can provide an appropriate and effective logical structure, which helps the reader to find significant points. I can produce clear, smoothly flowing, complex reports, articles or essays that present a case, or give critical appreciation of proposals or literary works. I can write so well that native speakers need not check my texts. I can write so well that my texts cannot be improved significantly even by teachers of writing. |
 
-<!-- el:end id=table_p241_01 -->
+<!-- el:end id=cefr2001_p241_table_01 -->
 
 *Page **241***
 
 <!-- page:241 -->
 
 <!-- el:start type=prose id=prose_p242 page=242 -->
-CEF Level LISTENING
+CEF Level LISTENING A1 I can understand everyday expressions dealing with simple and concrete everyday needs, in clear, slow and repeated speech. A1 I can follow speech which is very slow and carefully articulated, with long pauses for me to get the meaning. A1 I can understand questions and instructions and follow short, simple directions. A1 I can understand numbers, prices and times. A2 I can understand enough to manage simple, routine exchanges without too much effort. A2 I can generally identify the topic of discussion around me which is conducted slowly and clearly. A2 I can generally understand clear, standard speech on familiar matters, although in a real life situation I might have to ask for repetition or reformulation. A2 I can understand enough to be able to meet concrete needs in everyday life provided speech is clear and slow. A2 I can understand phrases and expressions related to immediate needs. A2 I can handle simple business in shops, post ofﬁces or banks. A2 I can understand simple directions relating to how to get from X to Y, by foot or public transport. A2 I can understand the essential information from short recorded passages dealing with predictable everyday matters which are spoken slowly and clearly. A2 I can identify the main point of TV news items reporting events, accidents, etc, where the visual material supports the commentary. A2 I can catch the main point in short, clear, simple messages and announcements. B1 I can guess the meaning of occasional unknown words from the context and understand sentence meaning if the topic discussed is familiar. B1 I can generally follow the main points of extended discussion around me, provided speech is clear and in standard language. B1 I can follow clear speech in everyday conversation, though in a real life situation I will sometimes have to ask for repetition of particular words and phrases. B1 I can understand straightforward factual information about common everyday or job-related topics, identifying both general messages and speciﬁc details, provided speech is clear and generally familiar accent is used. B1 I can understand the main points of clear standard speech on familiar matters which occur regularly. B1 I can follow a lecture or a talk within my own ﬁeld, provided the subject matter is familiar and the presentation straightforward and clearly organised. B1 I can understand simple technical information, such as operation instructions for everyday equipment. B1 I can understand the information content of the majority of recorded or broadcast audio material about familiar subjects spoken relatively slowly and clearly. B1 I can follow many ﬁlms in which visuals and action carry much of the storyline, and in which the story is straightforward and the language clear. B1 I can catch the main points in broadcasts on familiar topics and topics of personal interest when the language is relatively slow and clear. Appendix C: The DIALANG scales 233
 
-A1 I can understand everyday expressions dealing with simple and concrete everyday needs, in clear, slow and repeated speech. A1 I can follow speech which is very slow and carefully articulated, with long pauses for me to get the meaning. A1 I can understand questions and instructions and follow short, simple directions. A1 I can understand numbers, prices and times.
-
-A2 I can understand enough to manage simple, routine exchanges without too much effort. A2 I can generally identify the topic of discussion around me which is conducted slowly and clearly. A2 I can generally understand clear, standard speech on familiar matters, although in a real life situation I might have to ask for repetition or reformulation. A2 I can understand enough to be able to meet concrete needs in everyday life provided speech is clear and slow. A2 I can understand phrases and expressions related to immediate needs. A2 I can handle simple business in shops, post offices or banks. A2 I can understand simple directions relating to how to get from X to Y, by foot or public transport. A2 I can understand the essential information from short recorded passages dealing with predictable everyday matters which are spoken slowly and clearly. A2 I can identify the main point of TV news items reporting events, accidents, etc, where the visual material supports the commentary. A2 I can catch the main point in short, clear, simple messages and announcements.
-
-B1 I can guess the meaning of occasional unknown words from the context and understand sentence meaning if the topic discussed is familiar. B1 I can generally follow the main points of extended discussion around me, provided speech is clear and in standard language. B1 I can follow clear speech in everyday conversation, though in a real life situation I will sometimes have to ask for repetition of particular words and phrases. B1 I can understand straightforward factual information about common everyday or job-related topics, identifying both general messages and specific details, provided speech is clear and generally familiar accent is used. B1 I can understand the main points of clear standard speech on familiar matters which occur regularly. B1 I can follow a lecture or a talk within my own field, provided the subject matter is familiar and the presentation straightforward and clearly organised. B1 I can understand simple technical information, such as operation instructions for everyday equipment. B1 I can understand the information content of the majority of recorded or broadcast audio material about familiar subjects spoken relatively slowly and clearly. B1 I can follow many films in which visuals and action carry much of the storyline, and in which the story is straightforward and the language clear. B1 I can catch the main points in broadcasts on familiar topics and topics of personal interest when the language is relatively slow and clear.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p242 -->
 
-<!-- el:start type=table id=table_p242_01 page=242 -->
-<!-- db:id=table_p242_01 type=table product_tier=context pages=242 -->
+<!-- el:start type=table id=cefr2001_p242_table_01 page=242 -->
+<!-- db:id=cefr2001_p242_table_01 type=table product_tier=context pages=242 -->
 
 | CEF Level | LISTENING |
 | --- | --- |
@@ -8369,26 +6749,20 @@ Appendix C: The DIALANG scales
 | A2 A2 A2 A2 A2 A2 A2 A2 A2 A2 | I can understand enough to manage simple, routine exchanges without too much effort. I can generally identify the topic of discussion around me which is conducted slowly and clearly. I can generally understand clear, standard speech on familiar matters, although in a real life situation I might have to ask for repetition or reformulation. I can understand enough to be able to meet concrete needs in everyday life provided speech is clear and slow. I can understand phrases and expressions related to immediate needs. I can handle simple business in shops, post offices or banks. I can understand simple directions relating to how to get from X to Y, by foot or public transport. I can understand the essential information from short recorded passages dealing with predictable everyday matters which are spoken slowly and clearly. I can identify the main point of TV news items reporting events, accidents, etc, where the visual material supports the commentary. I can catch the main point in short, clear, simple messages and announcements. |
 | B1 B1 B1 B1 B1 B1 B1 B1 B1 B1 | I can guess the meaning of occasional unknown words from the context and understand sentence meaning if the topic discussed is familiar. I can generally follow the main points of extended discussion around me, provided speech is clear and in standard language. I can follow clear speech in everyday conversation, though in a real life situation I will sometimes have to ask for repetition of particular words and phrases. I can understand straightforward factual information about common everyday or job-related topics, identifying both general messages and specific details, provided speech is clear and generally familiar accent is used. I can understand the main points of clear standard speech on familiar matters which occur regularly. I can follow a lecture or a talk within my own field, provided the subject matter is familiar and the presentation straightforward and clearly organised. I can understand simple technical information, such as operation instructions for everyday equipment. I can understand the information content of the majority of recorded or broadcast audio material about familiar subjects spoken relatively slowly and clearly. I can follow many films in which visuals and action carry much of the storyline, and in which the story is straightforward and the language clear. I can catch the main points in broadcasts on familiar topics and topics of personal interest when the language is relatively slow and clear. |
 
-<!-- el:end id=table_p242_01 -->
+<!-- el:end id=cefr2001_p242_table_01 -->
 
 *Page **242***
 
 <!-- page:242 -->
 
 <!-- el:start type=prose id=prose_p243 page=243 -->
-CEF Level LISTENING (continued)
+CEF Level LISTENING (continued) B2 I can understand in detail what is said to me in the standard spoken language. I can do this even when there is some noise in the background. B2 I can understand standard spoken language, live or broadcast, on both familiar and unfamiliar topics normally encountered in personal, academic or vocational life. Only extreme background noise, unclear structure and/or idiomatic usage causes some problems. B2 I can understand the main ideas of complex speech on both concrete and abstract topics delivered in a standard language including technical discussions in my ﬁeld of specialisation. B2 I can follow extended speech and complex lines of argument provided the topic is reasonably familiar, and the direction of the talk is clearly stated by the speaker. B2 I can follow the essentials of lectures, talks and reports and other forms of presentation which use complex ideas and language. B2 I can understand announcements and messages on concrete and abstract topics spoken in standard language at normal speed. B2 I can understand most radio documentaries and most other recorded or broadcast audio material delivered in standard language and can identify the speaker’s mood, tone, etc. B2 I can understand most TV news and current affairs programmes such as documentaries, live interviews, talk shows, plays and the majority of ﬁlms in standard language. B2 I can follow a lecture or talk within my own ﬁeld, provided the presentation is clear. C1 I can keep up with an animated conversation between native speakers. C1 I can understand enough to follow extended speech on abstract and complex topics beyond my own ﬁeld, though I may need to conﬁrm occasional details, especially if the accent is unfamiliar. C1 I can recognise a wide range of idiomatic expressions and colloquialisms and recognise changes in style. C1 I can follow extended speech even when it is not clearly structured and when relationships between ideas are only implied and not stated explicitly. C1 I can follow most lectures, discussions and debates with relative ease. C1 I can extract speciﬁc information from poor quality public announcements. C1 I can understand complex technical information, such as operating instructions, speciﬁcations for familiar products and services. C1 I can understand a wide range of recorded audio material, including some non- standard language, and identify ﬁner points of detail, including implicit attitudes and relationships between speakers. C1 I can follow ﬁlms which contain a considerable degree of slang and idiomatic usage. C2 I can follow specialised lectures and presentations which use a high degree of colloquialism, regional usage or unfamiliar terminology. Appendix C: The DIALANG scales 234
 
-B2 I can understand in detail what is said to me in the standard spoken language. I can do this even when there is some noise in the background. B2 I can understand standard spoken language, live or broadcast, on both familiar and unfamiliar topics normally encountered in personal, academic or vocational life. Only extreme background noise, unclear structure and/or idiomatic usage causes some problems. B2 I can understand the main ideas of complex speech on both concrete and abstract topics delivered in a standard language including technical discussions in my field of specialisation. B2 I can follow extended speech and complex lines of argument provided the topic is reasonably familiar, and the direction of the talk is clearly stated by the speaker. B2 I can follow the essentials of lectures, talks and reports and other forms of presentation which use complex ideas and language. B2 I can understand announcements and messages on concrete and abstract topics spoken in standard language at normal speed. B2 I can understand most radio documentaries and most other recorded or broadcast audio material delivered in standard language and can identify the speaker’s mood, tone, etc. B2 I can understand most TV news and current affairs programmes such as documentaries, live interviews, talk shows, plays and the majority of films in standard language. B2 I can follow a lecture or talk within my own field, provided the presentation is clear.
-
-C1 I can keep up with an animated conversation between native speakers. C1 I can understand enough to follow extended speech on abstract and complex topics beyond my own field, though I may need to confirm occasional details, especially if the accent is unfamiliar. C1 I can recognise a wide range of idiomatic expressions and colloquialisms and recognise changes in style. C1 I can follow extended speech even when it is not clearly structured and when relationships between ideas are only implied and not stated explicitly. C1 I can follow most lectures, discussions and debates with relative ease. C1 I can extract specific information from poor quality public announcements. C1 I can understand complex technical information, such as operating instructions, specifications for familiar products and services. C1 I can understand a wide range of recorded audio material, including some nonstandard language, and identify finer points of detail, including implicit attitudes and relationships between speakers. C1 I can follow films which contain a considerable degree of slang and idiomatic usage.
-
-C2 I can follow specialised lectures and presentations which use a high degree of colloquialism, regional usage or unfamiliar terminology.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p243 -->
 
-<!-- el:start type=table id=table_p243_01 page=243 -->
-<!-- db:id=table_p243_01 type=table product_tier=context pages=243 -->
+<!-- el:start type=table id=cefr2001_p243_table_01 page=243 -->
+<!-- db:id=cefr2001_p243_table_01 type=table product_tier=context pages=243 -->
 
 | CEF Level | LISTENING (continued) |
 | --- | --- |
@@ -8396,34 +6770,20 @@ Appendix C: The DIALANG scales
 | C1 C1 C1 C1 C1 C1 C1 C1 C1 | I can keep up with an animated conversation between native speakers. I can understand enough to follow extended speech on abstract and complex topics beyond my own field, though I may need to confirm occasional details, especially if the accent is unfamiliar. I can recognise a wide range of idiomatic expressions and colloquialisms and recognise changes in style. I can follow extended speech even when it is not clearly structured and when relationships between ideas are only implied and not stated explicitly. I can follow most lectures, discussions and debates with relative ease. I can extract specific information from poor quality public announcements. I can understand complex technical information, such as operating instructions, specifications for familiar products and services. I can understand a wide range of recorded audio material, including some non- standard language, and identify finer points of detail, including implicit attitudes and relationships between speakers. I can follow films which contain a considerable degree of slang and idiomatic usage. |
 | C2 | I can follow specialised lectures and presentations which use a high degree of colloquialism, regional usage or unfamiliar terminology. |
 
-<!-- el:end id=table_p243_01 -->
+<!-- el:end id=cefr2001_p243_table_01 -->
 
 *Page **243***
 
 <!-- page:243 -->
 
 <!-- el:start type=prose id=prose_p244 page=244 -->
-Document C2 The overall (concise) scales for reporting DIALANG scores
+Document C2 The overall (concise) scales for reporting DIALANG scores CEF Level READING A1 Your test result suggests that you are at or below level A1 in reading on the Council of Europe scale. At this level people can understand very simple sentences, for example on notices and posters or in catalogues. A2 Your test result suggests that you are at level A2 in reading on the Council of Europe scale. At this level people can understand very short, simple texts. They can ﬁnd speciﬁc information they are looking for in simple everyday texts such as advertisements, leaﬂets, menus and timetables and they can understand short simple personal letters. B1 Your test result suggests that you are at level B1 in reading on the Council of Europe scale. At this level people can understand texts that contain everyday or job-related language. They can understand personal letters in which the writer describes events, feelings and wishes. B2 Your test result suggests that you are at level B2 in reading on the Council of Europe scale. At this level people can understand articles and reports about contemporary issues when the writer takes a particular position on a problem or expresses a particular viewpoint. They can understand most short stories and popular novels. C1 Your test result suggests that you are at level C1 in reading on the Council of Europe scale. At this level people can understand long and complex factual and literary texts as well as differences in style. They can understand “specialised” language in articles and technical instructions, even if these are not in their ﬁeld. C2 Your test result suggests that you are at or above level C2 in reading on the Council of Europe scale. At this level people can read, without any problems, almost all forms of text, including texts which are abstract and contain difﬁcult words and grammar. For example: manuals, articles on special subjects, and literary texts. Appendix C: The DIALANG scales 235
 
-CEF Level READING
-
-A1 Your test result suggests that you are at or below level A1 in reading on the Council of Europe scale. At this level people can understand very simple sentences, for example on notices and posters or in catalogues.
-
-A2 Your test result suggests that you are at level A2 in reading on the Council of Europe scale. At this level people can understand very short, simple texts. They can find specific information they are looking for in simple everyday texts such as advertisements, leaflets, menus and timetables and they can understand short simple personal letters.
-
-B1 Your test result suggests that you are at level B1 in reading on the Council of Europe scale. At this level people can understand texts that contain everyday or job-related language. They can understand personal letters in which the writer describes events, feelings and wishes.
-
-B2 Your test result suggests that you are at level B2 in reading on the Council of Europe scale. At this level people can understand articles and reports about contemporary issues when the writer takes a particular position on a problem or expresses a particular viewpoint. They can understand most short stories and popular novels.
-
-C1 Your test result suggests that you are at level C1 in reading on the Council of Europe scale. At this level people can understand long and complex factual and literary texts as well as differences in style. They can understand “specialised” language in articles and technical instructions, even if these are not in their field.
-
-C2 Your test result suggests that you are at or above level C2 in reading on the Council of Europe scale. At this level people can read, without any problems, almost all forms of text, including texts which are abstract and contain difficult words and grammar. For example: manuals, articles on special subjects, and literary texts.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p244 -->
 
-<!-- el:start type=table id=table_p244_01 page=244 -->
-<!-- db:id=table_p244_01 type=table product_tier=context pages=244 -->
+<!-- el:start type=table id=cefr2001_p244_table_01 page=244 -->
+<!-- db:id=cefr2001_p244_table_01 type=table product_tier=context pages=244 -->
 
 | CEF Level | READING |
 | --- | --- |
@@ -8434,32 +6794,20 @@ Appendix C: The DIALANG scales
 | C1 | Your test result suggests that you are at level C1 in reading on the Council of Europe scale. At this level people can understand long and complex factual and literary texts as well as differences in style. They can understand “specialised” language in articles and technical instructions, even if these are not in their field. |
 | C2 | Your test result suggests that you are at or above level C2 in reading on the Council of Europe scale. At this level people can read, without any problems, almost all forms of text, including texts which are abstract and contain difficult words and grammar. For example: manuals, articles on special subjects, and literary texts. |
 
-<!-- el:end id=table_p244_01 -->
+<!-- el:end id=cefr2001_p244_table_01 -->
 
 *Page **244***
 
 <!-- page:244 -->
 
 <!-- el:start type=prose id=prose_p245 page=245 -->
-CEF Level WRITING
+CEF Level WRITING A1 Your test result suggests that you are at level A1 in writing on the Council of Europe scale. At this level, people can write a short simple postcard, for example sending holiday greetings. They can ﬁll in forms with personal details, for example writing their name, nationality and address on a hotel registration form. A2 Your test result suggests that you are at level A2 in writing on the Council of Europe scale. At this level people can write short, simple notes and messages about everyday matters and everyday needs. They can write a very simple personal letter, for example thanking someone for something. B1 Your test result suggests that you are at level B1 in writing on the Council of Europe scale. At this level people can write simple texts on topics which are familiar or of personal interest. They can write personal letters describing experiences and impressions. B2 Your test result suggests that you are at level B2 in writing on the Council of Europe scale. At this level people can write clear detailed texts on a wide range of subjects related to their interests. They can write an essay or report, passing on information and presenting some arguments for or against a particular point of view. They can write letters highlighting the personal signiﬁcance of events and experiences. C1 Your test result suggests that you are at level C1 in writing on the Council of Europe scale. At this level, people can write clear and well-structured text and express their points of view at some length. They can write about complex subjects in a letter, an essay or a report, underlining what they think are the most important points. They can write different kinds of texts in an assured and personal style which is appropriate to the reader in mind. C2 Your test result suggests that you are at level C2 in writing on the Council of Europe scale. At this level, people can write clearly and smoothly and in an appropriate style. They can write complex letters, reports or articles in such a way that helps the reader to notice and remember important points. They can write summaries and reviews of professional or literary texts. Appendix C: The DIALANG scales 236
 
-A1 Your test result suggests that you are at level A1 in writing on the Council of Europe scale. At this level, people can write a short simple postcard, for example sending holiday greetings. They can fill in forms with personal details, for example writing their name, nationality and address on a hotel registration form.
-
-A2 Your test result suggests that you are at level A2 in writing on the Council of Europe scale. At this level people can write short, simple notes and messages about everyday matters and everyday needs. They can write a very simple personal letter, for example thanking someone for something.
-
-B1 Your test result suggests that you are at level B1 in writing on the Council of Europe scale. At this level people can write simple texts on topics which are familiar or of personal interest. They can write personal letters describing experiences and impressions.
-
-B2 Your test result suggests that you are at level B2 in writing on the Council of Europe scale. At this level people can write clear detailed texts on a wide range of subjects related to their interests. They can write an essay or report, passing on information and presenting some arguments for or against a particular point of view. They can write letters highlighting the personal significance of events and experiences.
-
-C1 Your test result suggests that you are at level C1 in writing on the Council of Europe scale. At this level, people can write clear and well-structured text and express their points of view at some length. They can write about complex subjects in a letter, an essay or a report, underlining what they think are the most important points. They can write different kinds of texts in an assured and personal style which is appropriate to the reader in mind.
-
-C2 Your test result suggests that you are at level C2 in writing on the Council of Europe scale. At this level, people can write clearly and smoothly and in an appropriate style. They can write complex letters, reports or articles in such a way that helps the reader to notice and remember important points. They can write summaries and reviews of professional or literary texts.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p245 -->
 
-<!-- el:start type=table id=table_p245_01 page=245 -->
-<!-- db:id=table_p245_01 type=table product_tier=context pages=245 -->
+<!-- el:start type=table id=cefr2001_p245_table_01 page=245 -->
+<!-- db:id=cefr2001_p245_table_01 type=table product_tier=context pages=245 -->
 
 | CEF Level | WRITING |
 | --- | --- |
@@ -8470,32 +6818,20 @@ Appendix C: The DIALANG scales
 | C1 | Your test result suggests that you are at level C1 in writing on the Council of Europe scale. At this level, people can write clear and well-structured text and express their points of view at some length. They can write about complex subjects in a letter, an essay or a report, underlining what they think are the most important points. They can write different kinds of texts in an assured and personal style which is appropriate to the reader in mind. |
 | C2 | Your test result suggests that you are at level C2 in writing on the Council of Europe scale. At this level, people can write clearly and smoothly and in an appropriate style. They can write complex letters, reports or articles in such a way that helps the reader to notice and remember important points. They can write summaries and reviews of professional or literary texts. |
 
-<!-- el:end id=table_p245_01 -->
+<!-- el:end id=cefr2001_p245_table_01 -->
 
 *Page **245***
 
 <!-- page:245 -->
 
 <!-- el:start type=prose id=prose_p246 page=246 -->
-CEF Level LISTENING
+CEF Level LISTENING A1 Your test result suggests that you are at or below level A1 in listening on the Council of Europe scale. At this level, people can understand very simple phrases about themselves, people they know and things around them, when people speak slowly and clearly. A2 Your test result suggests that you are at level A2 in listening on the Council of Europe scale. At this level, people can understand expressions and the most common words about things which are important to them, e.g. very basic personal and family information, shopping, their jobs. They can get the main point in short, clear, simple messages and announcements. B1 Your test result suggests that you are at level B1 in listening on the Council of Europe scale. At this level, people can understand the main points of clear ‘standard’ speech on familiar matters connected with work, school, leisure etc. In TV and radio current- affairs programmes or programmes of personal or professional interest, they can understand the main points provided the speech is relatively slow and clear. B2 Your test result suggests that you are at level B2 in listening on the Council of Europe scale. At this level, people can understand longer stretches of speech and lectures and follow complex lines of argument provided the topic is reasonably familiar. They can understand most TV news and current affairs programmes. C1 Your test result suggests that you are at level C1 in listening on the Council of Europe scale. At this level, people can understand spoken language even when it is not clearly structured and when ideas and thoughts are not expressed in an explicit way. They can understand television programmes and ﬁlms without too much effort. C2 Your test result suggests that you are at level C2 in listening on the Council of Europe scale. At this level, people can understand any kind of spoken language, both when they hear it live and in the media. They also understand a native speaker who speaks fast if they have some time to get used to the accent. Appendix C: The DIALANG scales 237
 
-A1 Your test result suggests that you are at or below level A1 in listening on the Council of Europe scale. At this level, people can understand very simple phrases about themselves, people they know and things around them, when people speak slowly and clearly.
-
-A2 Your test result suggests that you are at level A2 in listening on the Council of Europe scale. At this level, people can understand expressions and the most common words about things which are important to them, e.g. very basic personal and family information, shopping, their jobs. They can get the main point in short, clear, simple messages and announcements.
-
-B1 Your test result suggests that you are at level B1 in listening on the Council of Europe scale. At this level, people can understand the main points of clear ‘standard’ speech on familiar matters connected with work, school, leisure etc. In TV and radio currentaffairs programmes or programmes of personal or professional interest, they can understand the main points provided the speech is relatively slow and clear.
-
-B2 Your test result suggests that you are at level B2 in listening on the Council of Europe scale. At this level, people can understand longer stretches of speech and lectures and follow complex lines of argument provided the topic is reasonably familiar. They can understand most TV news and current affairs programmes.
-
-C1 Your test result suggests that you are at level C1 in listening on the Council of Europe scale. At this level, people can understand spoken language even when it is not clearly structured and when ideas and thoughts are not expressed in an explicit way. They can understand television programmes and films without too much effort.
-
-C2 Your test result suggests that you are at level C2 in listening on the Council of Europe scale. At this level, people can understand any kind of spoken language, both when they hear it live and in the media. They also understand a native speaker who speaks fast if they have some time to get used to the accent.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p246 -->
 
-<!-- el:start type=table id=table_p246_01 page=246 -->
-<!-- db:id=table_p246_01 type=table product_tier=context pages=246 -->
+<!-- el:start type=table id=cefr2001_p246_table_01 page=246 -->
+<!-- db:id=cefr2001_p246_table_01 type=table product_tier=context pages=246 -->
 
 | CEF Level | LISTENING |
 | --- | --- |
@@ -8506,30 +6842,20 @@ Appendix C: The DIALANG scales
 | C1 | Your test result suggests that you are at level C1 in listening on the Council of Europe scale. At this level, people can understand spoken language even when it is not clearly structured and when ideas and thoughts are not expressed in an explicit way. They can understand television programmes and films without too much effort. |
 | C2 | Your test result suggests that you are at level C2 in listening on the Council of Europe scale. At this level, people can understand any kind of spoken language, both when they hear it live and in the media. They also understand a native speaker who speaks fast if they have some time to get used to the accent. |
 
-<!-- el:end id=table_p246_01 -->
+<!-- el:end id=cefr2001_p246_table_01 -->
 
 *Page **246***
 
 <!-- page:246 -->
 
 <!-- el:start type=prose id=prose_p247 page=247 -->
-Document C3 Elaborated descriptive scales used in the advisory feedback section of DIALANG
+Document C3 Elaborated descriptive scales used in the advisory feedback section of DIALANG READING A1 A2 B1 What types Very short, simple Texts on familiar, Straightforward factual texts on subjects of text I texts, typically short, concrete matters. related to my ﬁeld of interest. understand simple descriptions, Short, simple texts e.g. Everyday material, e.g. letters, brochures especially if they routine personal and and short ofﬁcial documents. contain pictures. business letters and Straightforward newspaper articles on Short, simple written faxes, most everyday familiar subjects and descriptions of instructions e.g. short signs and notices, events. simple postcards, Yellow Pages, Clearly written argumentative texts. simple notices. advertisements. Personal letters expressing feelings and wishes. Clearly written, straightforward instructions for a piece of equipment. What I Familiar names, Understand short, Understand straightforward factual understand words, basic phrases. simple texts. language. Find speciﬁc Understand clearly written general information in simple argumentation (but not necessarily all everyday material. details). Understand straightforward instructions. Find general information I need in everyday material. Locate speciﬁc information by searching one long or several different texts. Conditions Single phrase at a Restricted mainly to Ability to identify main conclusions and and time, re-reading part common everyday follow argument restricted to limitations of text. language and language straightforward texts. related to my job. Appendix C: The DIALANG scales 238
 
-READING
-
-A1 A2 B1
-
-What types Very short, simple Texts on familiar, Straightforward factual texts on subjects of text I texts, typically short, concrete matters. related to my field of interest. understand simple descriptions, Short, simple texts e.g. Everyday material, e.g. letters, brochures especially if they routine personal and and short official documents. contain pictures. business letters and Straightforward newspaper articles on Short, simple written faxes, most everyday familiar subjects and descriptions of instructions e.g. short signs and notices, events. simple postcards, Yellow Pages, Clearly written argumentative texts. simple notices. advertisements. Personal letters expressing feelings and wishes. Clearly written, straightforward instructions for a piece of equipment.
-
-What I Familiar names, Understand short, Understand straightforward factual understand words, basic phrases. simple texts. language. Find specific Understand clearly written general information in simple argumentation (but not necessarily all everyday material. details). Understand straightforward instructions. Find general information I need in everyday material. Locate specific information by searching one long or several different texts.
-
-Conditions Single phrase at a Restricted mainly to Ability to identify main conclusions and and time, re-reading part common everyday follow argument restricted to limitations of text. language and language straightforward texts. related to my job.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p247 -->
 
-<!-- el:start type=table id=table_p247_01 page=247 -->
-<!-- db:id=table_p247_01 type=table product_tier=context pages=247 -->
+<!-- el:start type=table id=cefr2001_p247_table_01 page=247 -->
+<!-- db:id=cefr2001_p247_table_01 type=table product_tier=context pages=247 -->
 
 |  | A1 | A2 |
 | --- | --- | --- |
@@ -8537,26 +6863,22 @@ Appendix C: The DIALANG scales
 | What I understand | Familiar names, words, basic phrases. | Understand short, simple texts. Find specific information in simple everyday material. |
 | Conditions and limitations | Single phrase at a time, re-reading part of text. | Restricted mainly to common everyday language and language related to my job. |
 
-<!-- el:end id=table_p247_01 -->
+<!-- el:end id=cefr2001_p247_table_01 -->
 
 *Page **247***
 
 <!-- page:247 -->
 
 <!-- el:start type=prose id=prose_p248 page=248 -->
-Appendix C: The DIALANG scales
+## Appendix C: The DIALANG scales
 
-B2 C1 C2
+239 B2 C1 C2 Correspondence relating to my ﬁeld of Wide range of long, complex Wide range of long and interest. texts from social, complex texts – practically Longer texts, including specialised articles professional or academic life. all forms of written outside my ﬁeld and highly specialised Complex instructions on a language. sources within my ﬁeld. new unfamiliar machine or Abstract, structurally Articles and reports on contemporary procedure outside my area. complex, or highly colloquial problems with particular viewpoints. literary and non-literary writings. Understanding aided by broad active Identify ﬁne points of detail Understand subtleties of reading vocabulary, difﬁculty with less including attitudes and style and meaning which are common phrases and idioms and with opinions which are not both implicitly and explicitly terminology. explicitly stated. stated. Understand the essential meaning of Understand in detail correspondence in my ﬁeld, and specialised complex texts, including ﬁne articles outside my ﬁeld (with dictionary). points of detail, attitudes Obtain information, ideas and opinions and opinions (see conditions from highly specialised sources within my and limitations). ﬁeld. Locate relevant details in long texts. Range and types of text only a minor Understanding of details of Few limitations – can limitation – can read different types of text complex texts usually only if understand and interpret at different speeds and in different ways difﬁcult sections are re-read. practically all forms of according to purpose and type. Occasional use of dictionary. written language. Dictionary required for more specialised or Very unusual or archaic unfamiliar texts. vocabulary and phrases may be unknown but will rarely impair understanding.
 
-Correspondence relating to my field of Wide range of long, complex Wide range of long and interest. texts from social, complex texts – practically Longer texts, including specialised articles professional or academic life. all forms of written outside my field and highly specialised Complex instructions on a language. sources within my field. new unfamiliar machine or Abstract, structurally Articles and reports on contemporary procedure outside my area. complex, or highly colloquial problems with particular viewpoints. literary and non-literary writings.
-
-Understanding aided by broad active Identify fine points of detail Understand subtleties of reading vocabulary, difficulty with less including attitudes and style and meaning which are common phrases and idioms and with opinions which are not both implicitly and explicitly terminology. explicitly stated. stated. Understand the essential meaning of Understand in detail correspondence in my field, and specialised complex texts, including fine articles outside my field (with dictionary). points of detail, attitudes Obtain information, ideas and opinions and opinions (see conditions from highly specialised sources within my and limitations). field. Locate relevant details in long texts.
-
-Range and types of text only a minor Understanding of details of Few limitations – can limitation – can read different types of text complex texts usually only if understand and interpret at different speeds and in different ways difficult sections are re-read. practically all forms of according to purpose and type. Occasional use of dictionary. written language. Dictionary required for more specialised or Very unusual or archaic unfamiliar texts. vocabulary and phrases may be unknown but will rarely impair understanding.
+*
 <!-- el:end id=prose_p248 -->
 
-<!-- el:start type=table id=table_p248_01 page=248 -->
-<!-- db:id=table_p248_01 type=table product_tier=context pages=248 -->
+<!-- el:start type=table id=cefr2001_p248_table_01 page=248 -->
+<!-- db:id=cefr2001_p248_table_01 type=table product_tier=context pages=248 -->
 
 | C1 | C2 |
 | --- | --- |
@@ -8564,28 +6886,22 @@ Range and types of text only a minor Understanding of details of Few limitations
 | Identify fine points of detail including attitudes and opinions which are not explicitly stated. Understand in detail complex texts, including fine points of detail, attitudes and opinions (see conditions and limitations). | Understand subtleties of style and meaning which are both implicitly and explicitly stated. |
 | Understanding of details of complex texts usually only if difficult sections are re-read. Occasional use of dictionary. | Few limitations – can understand and interpret practically all forms of written language. Very unusual or archaic vocabulary and phrases may be unknown but will rarely impair understanding. |
 
-<!-- el:end id=table_p248_01 -->
+<!-- el:end id=cefr2001_p248_table_01 -->
 
 *Page **248***
 
 <!-- page:248 -->
 
 <!-- el:start type=prose id=prose_p249 page=249 -->
-WRITING
+## Writing
 
-A1 A2 B1
+A1 A2 B1 What types Very short pieces of Usually short, simple Can write a continuous, of text I writing: isolated words pieces of writing. For intelligible text in which can write and very short, basic example, simple personal elements are connected. sentences. For example, letters, postcards, simple messages, notes, messages, notes, forms. forms and postcards. What I can Numbers and dates, own Texts typically describe Can convey simple write name, nationality, immediate needs, personal information to friends, address, and other events, familiar places, service people, etc. who personal details required hobbies, work, etc. feature in everyday life. Can to ﬁll in simple forms Texts typically consist of get straightforward points when travelling. short, basic sentences. across comprehensively. Short, simple sentences Can use the most frequent Can give news, express linked with connectors connectors (e.g. and, but, thoughts about abstract or such as ‘and’ or ‘then’. because) to link sentences cultural topics such as ﬁlms, in order to write a story or music, etc. to describe something as a Can describe experiences, list of points. feelings and events in some detail. Conditions Apart from the most Only on familiar and Range of texts can be limited and common words and routine matters. to more familiar and common limitations expressions, the writer Writing continuous ones, such as describing needs to consult a coherent text is difﬁcult. things and writing about dictionary. sequences of actions; but argumention and contrasting issues, for example, are difﬁcult. Appendix C: The DIALANG scales 240
 
-What types Very short pieces of Usually short, simple Can write a continuous, of text I writing: isolated words pieces of writing. For intelligible text in which can write and very short, basic example, simple personal elements are connected. sentences. For example, letters, postcards, simple messages, notes, messages, notes, forms. forms and postcards.
-
-What I can Numbers and dates, own Texts typically describe Can convey simple write name, nationality, immediate needs, personal information to friends, address, and other events, familiar places, service people, etc. who personal details required hobbies, work, etc. feature in everyday life. Can to fill in simple forms Texts typically consist of get straightforward points when travelling. short, basic sentences. across comprehensively. Short, simple sentences Can use the most frequent Can give news, express linked with connectors connectors (e.g. and, but, thoughts about abstract or such as ‘and’ or ‘then’. because) to link sentences cultural topics such as films, in order to write a story or music, etc. to describe something as a Can describe experiences, list of points. feelings and events in some detail.
-
-Conditions Apart from the most Only on familiar and Range of texts can be limited and common words and routine matters. to more familiar and common limitations expressions, the writer Writing continuous ones, such as describing needs to consult a coherent text is difficult. things and writing about dictionary. sequences of actions; but argumention and contrasting issues, for example, are difficult.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p249 -->
 
-<!-- el:start type=table id=table_p249_01 page=249 -->
-<!-- db:id=table_p249_01 type=table product_tier=context pages=249 -->
+<!-- el:start type=table id=cefr2001_p249_table_01 page=249 -->
+<!-- db:id=cefr2001_p249_table_01 type=table product_tier=context pages=249 -->
 
 |  | A1 | A2 |
 | --- | --- | --- |
@@ -8593,26 +6909,22 @@ Appendix C: The DIALANG scales
 | What I can write | Numbers and dates, own name, nationality, address, and other personal details required to fill in simple forms when travelling. Short, simple sentences linked with connectors such as ‘and’ or ‘then’. | Texts typically describe immediate needs, personal events, familiar places, hobbies, work, etc. Texts typically consist of short, basic sentences. Can use the most frequent connectors (e.g. and, but, because) to link sentences in order to write a story or to describe something as a list of points. |
 | Conditions and limitations | Apart from the most common words and expressions, the writer needs to consult a dictionary. | Only on familiar and routine matters. Writing continuous coherent text is difficult. |
 
-<!-- el:end id=table_p249_01 -->
+<!-- el:end id=cefr2001_p249_table_01 -->
 
 *Page **249***
 
 <!-- page:249 -->
 
 <!-- el:start type=prose id=prose_p250 page=250 -->
-Appendix C: The DIALANG scales
+## Appendix C: The DIALANG scales
 
-B2 C1 C2
+241 B2 C1 C2 Can write a variety of different Can write a variety of different Can write a variety of different texts. texts. texts. Can express oneself with Can convey ﬁner shades of clarity and precision, using meaning precisely. language ﬂexibly and Can write persuasively. effectively. Can express news and views Can produce clear, smoothly Can create coherent and effectively, and relate to those of ﬂowing, well-structured cohesive text making full and others. writing, showing controlled appropriate use of a variety of Can use a variety of linking words use of organisational patterns, organisational patterns and a to mark clearly the relationships connectors and cohesive wide range of cohesive devices. between ideas. devices. Writing is free of spelling Spelling and punctuation are Can qualify opinions and errors. reasonably accurate. statements precisely in relation to degrees of, for example, certainty/uncertainty, belief/doubt, likelihood. Layout, paragraphing and punctuation are consistent and helpful. Spelling is accurate apart from occasional slips. Expressing subtle nuances in Expressing subtle nuances in No need to consult a taking a stance or in telling about taking a stance or in telling dictionary, except for feelings and experiences is usually about feelings and experiences occasional specialist terms in difﬁcult. can be difﬁcult. an unfamiliar area.
 
-Can write a variety of different Can write a variety of different Can write a variety of different texts. texts. texts. Can express oneself with Can convey finer shades of clarity and precision, using meaning precisely. language flexibly and Can write persuasively. effectively.
-
-Can express news and views Can produce clear, smoothly Can create coherent and effectively, and relate to those of flowing, well-structured cohesive text making full and others. writing, showing controlled appropriate use of a variety of Can use a variety of linking words use of organisational patterns, organisational patterns and a to mark clearly the relationships connectors and cohesive wide range of cohesive devices. between ideas. devices. Writing is free of spelling Spelling and punctuation are Can qualify opinions and errors. reasonably accurate. statements precisely in relation to degrees of, for example, certainty/uncertainty, belief/doubt, likelihood. Layout, paragraphing and punctuation are consistent and helpful. Spelling is accurate apart from occasional slips.
-
-Expressing subtle nuances in Expressing subtle nuances in No need to consult a taking a stance or in telling about taking a stance or in telling dictionary, except for feelings and experiences is usually about feelings and experiences occasional specialist terms in difficult. can be difficult. an unfamiliar area.
+*
 <!-- el:end id=prose_p250 -->
 
-<!-- el:start type=table id=table_p250_01 page=250 -->
-<!-- db:id=table_p250_01 type=table product_tier=context pages=250 -->
+<!-- el:start type=table id=cefr2001_p250_table_01 page=250 -->
+<!-- db:id=cefr2001_p250_table_01 type=table product_tier=context pages=250 -->
 
 | C1 | C2 |
 | --- | --- |
@@ -8620,28 +6932,22 @@ Expressing subtle nuances in Expressing subtle nuances in No need to consult a t
 | Can produce clear, smoothly flowing, well-structured writing, showing controlled use of organisational patterns, connectors and cohesive devices. Can qualify opinions and statements precisely in relation to degrees of, for example, certainty/uncertainty, belief/doubt, likelihood. Layout, paragraphing and punctuation are consistent and helpful. Spelling is accurate apart from occasional slips. | Can create coherent and cohesive text making full and appropriate use of a variety of organisational patterns and a wide range of cohesive devices. Writing is free of spelling errors. |
 | Expressing subtle nuances in taking a stance or in telling about feelings and experiences can be difficult. | No need to consult a dictionary, except for occasional specialist terms in an unfamiliar area. |
 
-<!-- el:end id=table_p250_01 -->
+<!-- el:end id=cefr2001_p250_table_01 -->
 
 *Page **250***
 
 <!-- page:250 -->
 
 <!-- el:start type=prose id=prose_p251 page=251 -->
-LISTENING
+## Listening
 
-A1 A2 B1
+A1 A2 B1 What types Very simple phrases Simple phrases and Speech on familiar matters of text I about myself, people I expressions about things and factual information. understand know and things around important to me. Everyday conversations and me. Simple, everyday discussions. Questions, instructions conversations and Programmes in the media and and directions. discussions. ﬁlms. Examples: everyday Everyday matters in the Examples: operation expressions, questions, media. instructions, short lectures instructions, short and Examples: messages, and talks. simple directions. routine exchanges, directions, TV and radio news items. What I Names and simple words. Common everyday The meaning of some understand General idea. language. unknown words, by guessing. Enough to respond: Simple, everyday General meaning and speciﬁc providing personal info, conversations and details. following directions. discussions. The main point. Enough to follow. Conditions Clear, slow and carefully Clear and slow speech. Clear, standard speech. and articulated speech. Will require the help of Will require the help of limitations When addressed by a sympathetic speakers visuals and action. sympathetic speaker. and/or images. Will sometimes ask for Will sometimes ask for repetition of a word or repetition or phrase. reformulation. Appendix C: The DIALANG scales 242
 
-What types Very simple phrases Simple phrases and Speech on familiar matters of text I about myself, people I expressions about things and factual information. understand know and things around important to me. Everyday conversations and me. Simple, everyday discussions. Questions, instructions conversations and Programmes in the media and and directions. discussions. films. Examples: everyday Everyday matters in the Examples: operation expressions, questions, media. instructions, short lectures instructions, short and Examples: messages, and talks. simple directions. routine exchanges, directions, TV and radio news items.
-
-What I Names and simple words. Common everyday The meaning of some understand General idea. language. unknown words, by guessing. Enough to respond: Simple, everyday General meaning and specific providing personal info, conversations and details. following directions. discussions. The main point. Enough to follow.
-
-Conditions Clear, slow and carefully Clear and slow speech. Clear, standard speech. and articulated speech. Will require the help of Will require the help of limitations When addressed by a sympathetic speakers visuals and action. sympathetic speaker. and/or images. Will sometimes ask for Will sometimes ask for repetition of a word or repetition or phrase. reformulation.
-
-Appendix C: The DIALANG scales
+*
 <!-- el:end id=prose_p251 -->
 
-<!-- el:start type=table id=table_p251_01 page=251 -->
-<!-- db:id=table_p251_01 type=table product_tier=context pages=251 -->
+<!-- el:start type=table id=cefr2001_p251_table_01 page=251 -->
+<!-- db:id=cefr2001_p251_table_01 type=table product_tier=context pages=251 -->
 
 |  | A1 | A2 |
 | --- | --- | --- |
@@ -8649,26 +6955,22 @@ Appendix C: The DIALANG scales
 | What I understand | Names and simple words. General idea. Enough to respond: providing personal info, following directions. | Common everyday language. Simple, everyday conversations and discussions. The main point. Enough to follow. |
 | Conditions and limitations | Clear, slow and carefully articulated speech. When addressed by a sympathetic speaker. | Clear and slow speech. Will require the help of sympathetic speakers and/or images. Will sometimes ask for repetition or reformulation. |
 
-<!-- el:end id=table_p251_01 -->
+<!-- el:end id=cefr2001_p251_table_01 -->
 
 *Page **251***
 
 <!-- page:251 -->
 
 <!-- el:start type=prose id=prose_p252 page=252 -->
-Appendix C: The DIALANG scales
+## Appendix C: The DIALANG scales
 
-B2 C1 C2
+243 B2 C1 C2 All kinds of speech on familiar Spoken language in general. Any spoken language, live or matters. Lectures, discussions and broadcast. Lectures. debates. Specialised lectures and Programmes in the media and Public announcements. presentations. ﬁlms. Complex technical Examples: technical discussions, information. reports, live interviews. Recorded audio material and ﬁlms. Examples: native-speaker conversations. Main ideas and speciﬁc Enough to participate actively Global and detailed information. in conversations. understanding without any Complex ideas and language. Abstract and complex topics. difﬁculties. Speaker’s viewpoints and Implicit attitudes and attitudes. relationships between speakers. Standard language and some Need to conﬁrm occasional None, provided there is time to idiomatic usage, even in details when the accent is get used to what is unfamiliar. reasonably noisy backgrounds. unfamiliar.
 
-All kinds of speech on familiar Spoken language in general. Any spoken language, live or matters. Lectures, discussions and broadcast. Lectures. debates. Specialised lectures and Programmes in the media and Public announcements. presentations. films. Complex technical Examples: technical discussions, information. reports, live interviews. Recorded audio material and films. Examples: native-speaker conversations.
-
-Main ideas and specific Enough to participate actively Global and detailed information. in conversations. understanding without any Complex ideas and language. Abstract and complex topics. difficulties. Speaker’s viewpoints and Implicit attitudes and attitudes. relationships between speakers.
-
-Standard language and some Need to confirm occasional None, provided there is time to idiomatic usage, even in details when the accent is get used to what is unfamiliar. reasonably noisy backgrounds. unfamiliar.
+*
 <!-- el:end id=prose_p252 -->
 
-<!-- el:start type=table id=table_p252_01 page=252 -->
-<!-- db:id=table_p252_01 type=table product_tier=context pages=252 -->
+<!-- el:start type=table id=cefr2001_p252_table_01 page=252 -->
+<!-- db:id=cefr2001_p252_table_01 type=table product_tier=context pages=252 -->
 
 | C1 | C2 |
 | --- | --- |
@@ -8676,7 +6978,7 @@ Standard language and some Need to confirm occasional None, provided there is ti
 | Enough to participate actively in conversations. Abstract and complex topics. Implicit attitudes and relationships between speakers. | Global and detailed understanding without any difficulties. |
 | Need to confirm occasional details when the accent is unfamiliar. | None, provided there is time to get used to what is unfamiliar. |
 
-<!-- el:end id=table_p252_01 -->
+<!-- el:end id=cefr2001_p252_table_01 -->
 
 *Page **252***
 
@@ -8830,41 +7132,23 @@ Appendix D: The ALTE ‘Can Do’ statements
 <!-- page:257 -->
 
 <!-- el:start type=prose id=prose_p258 page=258 -->
-the ‘Can Do’ statements. It seems likely that the reason for this is that Table 2 represents the end product of an extended process of selection, analysis and refinement. The result of this process is that each level description is a composite of carefully selected typical elements, making it easier for respondents at a given level to recognise the level which best describes them. This produces a more coherent pattern of responses, which in turn produces a longer scale. This is in contrast to the present form of the ‘Can Dos’, which are still short, atomic statements which have not yet been grouped into such rounded, holistic descriptions of levels.
+the ‘Can Do’ statements. It seems likely that the reason for this is that Table 2 represents the end product of an extended process of selection, analysis and reﬁnement. The result of this process is that each level description is a composite of carefully selected typical elements, making it easier for respondents at a given level to recognise the level which best describes them. This produces a more coherent pattern of responses, which in turn produces a longer scale. This is in contrast to the present form of the ‘Can Dos’, which are still short, atomic statements which have not yet been grouped into such rounded, holistic descriptions of levels. Group effects (differential item function) are evident in the fact that certain respondent groups (i.e. respondents to the Social and Tourist, Work or Study forms of the questionnaire) are found to discriminate levels considerably more ﬁnely on certain of the scales used as anchors, for reasons which have been difﬁcult to identify. None of these effects are unexpected when using a Rasch modelling approach to scale equating. They indicate that a systematic, qualitative review of the texts of the individual statements themselves remains a necessary and important stage in arriving at a ‘ﬁnal’ equating of the scales. Levels of proﬁciency in the ALTE Framework At the time of writing the ALTE Framework is a ﬁve-level system. The validation described above conﬁrms that these correspond broadly to levels A2 to C2 of the CE Framework. Work on deﬁning a further initial level (Breakthrough) is in progress, and the Can Do project is contributing to the characterisation of this level. Thus the relation of the two Frameworks can be seen as follows: Council of A1 A2 B1 B2 C1 C2 Europe Levels ALTE ALTE ALTE ALTE ALTE ALTE ALTE Levels Breakthrough Level 1 Level 2 Level 3 Level 4 Level 5 Level The salient features of each ALTE level are as follows: ALTE Level 5 (Good User): the capacity to deal with material which is academic or cognitively demanding, and to use language to good effect, at a level of performance which may in certain respects be more advanced than that of an average native speaker. Example: CAN scan texts for relevant information, and grasp main topic of text, reading almost as quickly as a native speaker. ALTE Level 4 (Competent User): an ability to communicate with the emphasis on how well it is done, in terms of appropriacy, sensitivity and the capacity to deal with unfamiliar topics. Appendix D: The ALTE ‘Can Do’ statements 249
 
-Group effects (differential item function) are evident in the fact that certain respondent groups (i.e. respondents to the Social and Tourist, Work or Study forms of the questionnaire) are found to discriminate levels considerably more finely on certain of the scales used as anchors, for reasons which have been difficult to identify.
-
-None of these effects are unexpected when using a Rasch modelling approach to scale equating. They indicate that a systematic, qualitative review of the texts of the individual statements themselves remains a necessary and important stage in arriving at a ‘final’ equating of the scales.
-
-Levels of proficiency in the ALTE Framework
-
-At the time of writing the ALTE Framework is a five-level system. The validation described above confirms that these correspond broadly to levels A2 to C2 of the CE Framework. Work on defining a further initial level (Breakthrough) is in progress, and the Can Do project is contributing to the characterisation of this level. Thus the relation of the two Frameworks can be seen as follows:
-
-Council of A1 A2 B1 B2 C1 C2 Europe
-
-Levels
-
-ALTE ALTE ALTE ALTE ALTE ALTE ALTE Levels Breakthrough Level 1 Level 2 Level 3 Level 4 Level 5 Level
-
-The salient features of each ALTE level are as follows:
-
-ALTE Level 5 (Good User): the capacity to deal with material which is academic or cognitively demanding, and to use language to good effect, at a level of performance which may in certain respects be more advanced than that of an average native speaker.
-
-Example: CAN scan texts for relevant information, and grasp main topic of text, reading almost as quickly as a native speaker.
-
-ALTE Level 4 (Competent User): an ability to communicate with the emphasis on how well it is done, in terms of appropriacy, sensitivity and the capacity to deal with unfamiliar topics.
-
-Appendix D: The ALTE ‘Can Do’ statements
+*
 <!-- el:end id=prose_p258 -->
 
-<!-- el:start type=table id=table_p258_01 page=258 -->
-<!-- db:id=table_p258_01 type=table product_tier=context pages=258 -->
+<!-- el:start type=table id=cefr2001_table_2_represents_the_end_product_of_an_extended_process_of page=258 -->
+<!-- db:id=cefr2001_table_2_represents_the_end_product_of_an_extended_process_of type=table product_tier=context pages=258 -->
+
+**Table 2
+represents the end product of an extended process of selection**
+
 
 | Council of Europe Levels | A1 | A2 | B1 | B2 | C1 | C2 |
 | --- | --- | --- | --- | --- | --- | --- |
 | ALTE Levels | ALTE Breakthrough Level | ALTE Level 1 | ALTE Level 2 | ALTE Level 3 | ALTE Level 4 | ALTE Level 5 |
 
-<!-- el:end id=table_p258_01 -->
+<!-- el:end id=cefr2001_table_2_represents_the_end_product_of_an_extended_process_of -->
 
 *Page **258***
 
@@ -8909,37 +7193,13 @@ Appendix D: The ALTE ‘Can Do’ statements
 <!-- page:259 -->
 
 <!-- el:start type=prose id=prose_p260 page=260 -->
-Document D1 ALTE skill level summaries
+Document D1 ALTE skill level summaries ALTE Level Listening/Speaking Reading Writing ALTE Level 5 CAN advise on or talk about complex or CAN understand documents, CAN write letters on any subject and full sensitive issues, understanding correspondence and reports, including notes of meetings or seminars with good colloquial references and dealing the ﬁner points of complex texts. expression and accuracy. conﬁdently with hostile questions. ALTE Level 4 CAN contribute effectively to meetings CAN read quickly enough to cope with CAN prepare/draft professional and seminars within own area of work an academic course, to read the media correspondence, take reasonably accurate or keep up a casual conversation with a for information or to understand non- notes in meetings or write an essay which good degree of ﬂuency, coping with standard correspondence. shows an ability to communicate. abstract expressions. ALTE Level 3 CAN follow or give a talk on a familiar CAN scan texts for relevant information, CAN make notes while someone is talking topic or keep up a conversation on a and understand detailed instructions or or write a letter including non-standard fairly wide range of topics. advice. requests. ALTE Level 2 CAN express opinions on abstract/ CAN understand routine information CAN write letters or make notes on cultural matters in a limited way or and articles, and the general meaning familiar or predictable matters. offer advice within a known area, and of non-routine information within a understand instructions or public familiar area. announcements. ALTE Level 1 CAN express simple opinions or CAN understand straightforward CAN complete forms and write short requirements in a familiar context. information within a known area, such simple letters or postcards related to as on products and signs and simple personal information. textbooks or reports on familiar matters. ALTE Break- CAN understand basic instructions or CAN understand basic notices, CAN complete basic forms, and write through Level take part in a basic factual conversation instructions or information. notes including times, dates and places. on a predictable topic.
 
-ALTE Level Listening/Speaking Reading Writing
-
-ALTE Level 5 CAN advise on or talk about complex or CAN understand documents, CAN write letters on any subject and full sensitive issues, understanding correspondence and reports, including notes of meetings or seminars with good colloquial references and dealing the finer points of complex texts. expression and accuracy.
-
-confidently with hostile questions.
-
-ALTE Level 4 CAN contribute effectively to meetings CAN read quickly enough to cope with CAN prepare/draft professional and seminars within own area of work an academic course, to read the media correspondence, take reasonably accurate or keep up a casual conversation with a for information or to understand nonnotes in meetings or write an essay which good degree of fluency, coping with standard correspondence. shows an ability to communicate.
-
-abstract expressions.
-
-ALTE Level 3 CAN follow or give a talk on a familiar CAN scan texts for relevant information, CAN make notes while someone is talking topic or keep up a conversation on a and understand detailed instructions or or write a letter including non-standard fairly wide range of topics. advice. requests.
-
-ALTE Level 2 CAN express opinions on abstract/ CAN understand routine information CAN write letters or make notes on cultural matters in a limited way or and articles, and the general meaning familiar or predictable matters.
-
-offer advice within a known area, and of non-routine information within a understand instructions or public familiar area.
-
-announcements.
-
-ALTE Level 1 CAN express simple opinions or CAN understand straightforward CAN complete forms and write short requirements in a familiar context. information within a known area, such simple letters or postcards related to as on products and signs and simple personal information.
-
-textbooks or reports on familiar matters.
-
-ALTE BreakCAN understand basic instructions or CAN understand basic notices, CAN complete basic forms, and write through Level take part in a basic factual conversation instructions or information. notes including times, dates and places.
-
-on a predictable topic.
+*
 <!-- el:end id=prose_p260 -->
 
-<!-- el:start type=table id=table_p260_01 page=260 -->
-<!-- db:id=table_p260_01 type=table product_tier=context pages=260 -->
+<!-- el:start type=table id=cefr2001_p260_table_01 page=260 -->
+<!-- db:id=cefr2001_p260_table_01 type=table product_tier=context pages=260 -->
 
 | Writing | CAN write letters on any subject and full notes of meetings or seminars with good expression and accuracy. | CAN prepare/draft professional correspondence, take reasonably accurate notes in meetings or write an essay which shows an ability to communicate. | CAN make notes while someone is talking or write a letter including non-standard requests. | CAN write letters or make notes on familiar or predictable matters. | CAN complete forms and write short simple letters or postcards related to personal information. | CAN complete basic forms, and write notes including times, dates and places. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -8947,42 +7207,20 @@ on a predictable topic.
 | Listening/Speaking | CAN advise on or talk about complex or sensitive issues, understanding colloquial references and dealing confidently with hostile questions. | CAN contribute effectively to meetings and seminars within own area of work or keep up a casual conversation with a good degree of fluency, coping with abstract expressions. | CAN follow or give a talk on a familiar topic or keep up a conversation on a fairly wide range of topics. | CAN express opinions on abstract/ cultural matters in a limited way or offer advice within a known area, and understand instructions or public announcements. | CAN express simple opinions or requirements in a familiar context. | CAN understand basic instructions or take part in a basic factual conversation on a predictable topic. |
 | ALTE Level | ALTE Level 5 | ALTE Level 4 | ALTE Level 3 | ALTE Level 2 | ALTE Level 1 | ALTE Break- through Level |
 
-<!-- el:end id=table_p260_01 -->
+<!-- el:end id=cefr2001_p260_table_01 -->
 
 *Page **260***
 
 <!-- page:260 -->
 
 <!-- el:start type=prose id=prose_p261 page=261 -->
-Document D2 ALTE social and tourist statements summary
+Document D2 ALTE social and tourist statements summary ALTE Level Listening/Speaking Reading Writing ALTE Level 5 CAN talk about complex or sensitive CAN (when looking for accommodation) CAN write letters on any subject with issues without awkwardness. understand a tenancy agreement in good expression and accuracy. detail, for example technical details and the main legal implications. ALTE Level 4 CAN keep up conversations of a casual CAN understand complex opinions/ CAN write letters on most subjects. Such nature for an extended period of time arguments as expressed in serious difﬁculties as the reader may experience and discuss abstract/cultural topics with newspapers. are likely to be at the level of vocabulary. a good degree of ﬂuency and range of expression. ALTE Level 3 CAN keep up a conversation on a fairly CAN understand detailed information, CAN write to a hotel to ask about the wide range of topics, such as personal for example a wide range of culinary availability of services, for example and professional experiences, events terms on a restaurant menu, and terms facilities for the disabled or the provision currently in the news. and abbreviations in accommodation of a special diet. advertisements. ALTE Level 2 CAN express opinions on abstract/ CAN understand factual articles in CAN write letters on a limited range of cultural matters in a limited way and newspapers, routine letters from hotels predictable topics related to personal pick up nuances of meaning/opinion. and letters expressing personal opinions. experience and express opinions in predictable language. ALTE Level 1 CAN express likes and dislikes in CAN understand straightforward CAN complete most forms related to familiar contexts using simple language information, for example labels on food, personal information. such as ‘I (don’t) like . . .’ standard menus, road signs and messages on automatic cash machines. ALTE Break- CAN ask simple questions of a factual CAN understand simple notices and CAN leave a very simple message for a through Level nature and understand answers information, for example in airports, host family or write short simple ‘thank expressed in simple language. on store guides and on menus. you’ notes. CAN understand simple instructions on medicines and simple directions to places.
 
-ALTE Level Listening/Speaking Reading Writing
-
-ALTE Level 5 CAN talk about complex or sensitive CAN (when looking for accommodation) CAN write letters on any subject with issues without awkwardness. understand a tenancy agreement in good expression and accuracy.
-
-detail, for example technical details and the main legal implications.
-
-ALTE Level 4 CAN keep up conversations of a casual CAN understand complex opinions/ CAN write letters on most subjects. Such nature for an extended period of time arguments as expressed in serious difficulties as the reader may experience and discuss abstract/cultural topics with newspapers. are likely to be at the level of vocabulary.
-
-a good degree of fluency and range of expression.
-
-ALTE Level 3 CAN keep up a conversation on a fairly CAN understand detailed information, CAN write to a hotel to ask about the wide range of topics, such as personal for example a wide range of culinary availability of services, for example and professional experiences, events terms on a restaurant menu, and terms facilities for the disabled or the provision currently in the news. and abbreviations in accommodation of a special diet.
-
-advertisements.
-
-ALTE Level 2 CAN express opinions on abstract/ CAN understand factual articles in CAN write letters on a limited range of cultural matters in a limited way and newspapers, routine letters from hotels predictable topics related to personal pick up nuances of meaning/opinion. and letters expressing personal opinions. experience and express opinions in predictable language.
-
-ALTE Level 1 CAN express likes and dislikes in CAN understand straightforward CAN complete most forms related to familiar contexts using simple language information, for example labels on food, personal information.
-
-such as ‘I (don’t) like . . .’ standard menus, road signs and messages on automatic cash machines.
-
-ALTE BreakCAN ask simple questions of a factual CAN understand simple notices and CAN leave a very simple message for a through Level nature and understand answers information, for example in airports, host family or write short simple ‘thank expressed in simple language. on store guides and on menus. you’ notes.
-
-CAN understand simple instructions on medicines and simple directions to places.
+*
 <!-- el:end id=prose_p261 -->
 
-<!-- el:start type=table id=table_p261_01 page=261 -->
-<!-- db:id=table_p261_01 type=table product_tier=context pages=261 -->
+<!-- el:start type=table id=cefr2001_p261_table_01 page=261 -->
+<!-- db:id=cefr2001_p261_table_01 type=table product_tier=context pages=261 -->
 
 | Writing | CAN write letters on any subject with good expression and accuracy. | CAN write letters on most subjects. Such difficulties as the reader may experience are likely to be at the level of vocabulary. | CAN write to a hotel to ask about the availability of services, for example facilities for the disabled or the provision of a special diet. | CAN write letters on a limited range of predictable topics related to personal experience and express opinions in predictable language. | CAN complete most forms related to personal information. | CAN leave a very simple message for a host family or write short simple ‘thank you’ notes. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -8990,52 +7228,20 @@ CAN understand simple instructions on medicines and simple directions to places.
 | Listening/Speaking | CAN talk about complex or sensitive issues without awkwardness. | CAN keep up conversations of a casual nature for an extended period of time and discuss abstract/cultural topics with a good degree of fluency and range of expression. | CAN keep up a conversation on a fairly wide range of topics, such as personal and professional experiences, events currently in the news. | CAN express opinions on abstract/ cultural matters in a limited way and pick up nuances of meaning/opinion. | CAN express likes and dislikes in familiar contexts using simple language such as ‘I (don’t) like . . .’ | CAN ask simple questions of a factual nature and understand answers expressed in simple language. |
 | ALTE Level | ALTE Level 5 | ALTE Level 4 | ALTE Level 3 | ALTE Level 2 | ALTE Level 1 | ALTE Break- through Level |
 
-<!-- el:end id=table_p261_01 -->
+<!-- el:end id=cefr2001_p261_table_01 -->
 
 *Page **261***
 
 <!-- page:261 -->
 
 <!-- el:start type=prose id=prose_p262 page=262 -->
-Document D3 ALTE social and tourist statements Overview of concerns and activities covered
+Document D3 ALTE social and tourist statements Overview of concerns and activities covered CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED Day-to-Day Survival 1. Shopping Self-service shops Listening/Speaking Counter service shops Reading Market place 2. Eating Out Restaurants Listening/Speaking Self-service (fast food) Reading 3. Hotel-type Hotels, B & B, etc. Listening/Speaking 3. accommodation Reading, Writing (form ﬁlling) 4. Renting temporary Agency, private landlord Listening/Speaking 3. accommodation (ﬂat, Reading, Writing 3. room, house) (form ﬁlling) 5. Settling into Host families Listening/Speaking 3. accommodation Reading, Writing (letters) 6. Using ﬁnancial and Banks, bureaux de Listening/Speaking 3. postal services change, post ofﬁces Reading, Writing Health Getting/staying well Chemist’s Listening/Speaking Doctor’s Reading Hospital Dentist’s Travel Arriving in a country Airport/port Listening/Speaking Touring Railway/bus station Reading, Writing (form Getting/giving Street, garage, etc. ﬁlling) directions Travel agency Hiring Rental ﬁrms (car, boat, etc.) Emergencies Dealing with Public places Listening/Speaking emergency situations Private places, e.g. hotel Reading (accident, illness, room crime, car breakdown, Hospital etc.) Police station Sightseeing Getting information Tourist ofﬁce Listening/Speaking Going on tours Travel agency Reading Showing people around Tourist sights (monuments, etc.) Towns/cities Schools/colleges/ universities Socialising Casual meeting/ Discos, parties, schools, Listening/Speaking getting on with hotels, campsites, people restaurants, etc. Entertaining Home, away from home The Media/Cultural Watching TV, ﬁlms, Home, car, cinema, Listening/Reading events plays etc. theatre, Listening to the radio ‘Son et Lumière’, etc. Reading newspapers/ magazines Personal contacts Writing letters, Home, away from home Listening/Speaking (at a distance) postcards, etc. (telephone) Reading, Writing Appendix D: The ALTE ‘Can Do’ statements 253
 
-CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED
-
-Day-to-Day Survival
-
-1. Shopping Self-service shops Listening/Speaking Counter service shops Reading Market place
-2. Eating Out Restaurants Listening/Speaking Self-service (fast food) Reading
-3. Hotel-type Hotels, B & B, etc. Listening/Speaking
-3. accommodation Reading, Writing (form filling)
-4. Renting temporary Agency, private landlord Listening/Speaking
-3. accommodation (flat, Reading, Writing
-3. room, house) (form filling)
-5. Settling into Host families Listening/Speaking
-3. accommodation Reading, Writing (letters)
-6. Using financial and Banks, bureaux de Listening/Speaking
-3. postal services change, post offices Reading, Writing
-
-Health Getting/staying well Chemist’s Listening/Speaking Doctor’s Reading Hospital Dentist’s
-
-Travel Arriving in a country Airport/port Listening/Speaking Touring Railway/bus station Reading, Writing (form Getting/giving Street, garage, etc. filling) directions Travel agency Hiring Rental firms (car, boat, etc.)
-
-Emergencies Dealing with Public places Listening/Speaking emergency situations Private places, e.g. hotel Reading (accident, illness, room crime, car breakdown, Hospital etc.) Police station
-
-Sightseeing Getting information Tourist office Listening/Speaking Going on tours Travel agency Reading Showing people around Tourist sights
-
-(monuments, etc.) Towns/cities Schools/colleges/ universities
-
-Socialising Casual meeting/ Discos, parties, schools, Listening/Speaking getting on with hotels, campsites, people restaurants, etc. Entertaining Home, away from home
-
-The Media/Cultural Watching TV, films, Home, car, cinema, Listening/Reading events plays etc. theatre, Listening to the radio ‘Son et Lumière’, etc. Reading newspapers/ magazines
-
-Personal contacts Writing letters, Home, away from home Listening/Speaking (at a distance) postcards, etc. (telephone) Reading, Writing
-
-Appendix D: The ALTE ‘Can Do’ statements
+*
 <!-- el:end id=prose_p262 -->
 
-<!-- el:start type=table id=table_p262_01 page=262 -->
-<!-- db:id=table_p262_01 type=table product_tier=context pages=262 -->
+<!-- el:start type=table id=cefr2001_p262_table_01 page=262 -->
+<!-- db:id=cefr2001_p262_table_01 type=table product_tier=context pages=262 -->
 
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
@@ -9048,44 +7254,20 @@ Appendix D: The ALTE ‘Can Do’ statements
 | The Media/Cultural events | Watching TV, films, plays etc. Listening to the radio Reading newspapers/ magazines | Home, car, cinema, theatre, ‘Son et Lumière’, etc. | Listening/Reading |
 | Personal contacts (at a distance) | Writing letters, postcards, etc. | Home, away from home | Listening/Speaking (telephone) Reading, Writing |
 
-<!-- el:end id=table_p262_01 -->
+<!-- el:end id=cefr2001_p262_table_01 -->
 
 *Page **262***
 
 <!-- page:262 -->
 
 <!-- el:start type=prose id=prose_p263 page=263 -->
-Document D4 ALTE work statements summary
+Document D4 ALTE work statements summary ALTE Level Listening/Speaking Reading Writing ALTE Level 5 CAN advise on/handle complex delicate CAN understand reports and articles CAN make full and accurate notes and or contentious issues, such as legal or likely to be encountered during his/her continue to participate in a meeting or ﬁnancial matters, to the extent that work, including complex ideas seminar. he/she has the necessary specialist expressed in complex language. knowledge. ALTE Level 4 CAN contribute effectively to meetings CAN understand correspondence CAN handle a wide range of routine and and seminars within own area of work expressed in non-standard language. non-routine situations in which and argue for or against a case. professional services are requested from colleagues or external contacts. ALTE Level 3 CAN take and pass on most messages CAN understand most correspondence, CAN deal with all routine requests for that are likely to require attention reports and factual product literature goods or services. during a normal working day. he/she is likely to come across. ALTE Level 2 CAN offer advice to clients within own CAN understand the general meaning CAN make reasonably accurate notes at a job area on simple matters. of non-routine letters and theoretical meeting or seminar where the subject articles within own work area. matter is familiar and predictable. ALTE Level 1 CAN state simple requirements within CAN understand most short reports or CAN write a short, comprehensible note own job area, such as ‘I want to order manuals of a predictable nature within of request to a colleague or a known 25 of . . .’ his/her own area of expertise, provided contact in another company. enough time is given. ALTE Break- CAN take and pass on simple messages CAN understand short reports or CAN write a simple routine request to a through Level of a routine kind, such as ‘Friday product descriptions on familiar colleague, such as ‘Can I have 20X meeting 10 a.m.’ matters, if these are expressed in simple please?’ language and the contents are predictable.
 
-ALTE Level Listening/Speaking Reading Writing
-
-ALTE Level 5 CAN advise on/handle complex delicate CAN understand reports and articles CAN make full and accurate notes and or contentious issues, such as legal or likely to be encountered during his/her continue to participate in a meeting or financial matters, to the extent that work, including complex ideas seminar.
-
-he/she has the necessary specialist expressed in complex language.
-
-knowledge.
-
-ALTE Level 4 CAN contribute effectively to meetings CAN understand correspondence CAN handle a wide range of routine and and seminars within own area of work expressed in non-standard language. non-routine situations in which and argue for or against a case. professional services are requested from colleagues or external contacts.
-
-ALTE Level 3 CAN take and pass on most messages CAN understand most correspondence, CAN deal with all routine requests for that are likely to require attention reports and factual product literature goods or services.
-
-during a normal working day. he/she is likely to come across.
-
-ALTE Level 2 CAN offer advice to clients within own CAN understand the general meaning CAN make reasonably accurate notes at a job area on simple matters. of non-routine letters and theoretical meeting or seminar where the subject articles within own work area. matter is familiar and predictable.
-
-ALTE Level 1 CAN state simple requirements within CAN understand most short reports or CAN write a short, comprehensible note own job area, such as ‘I want to order manuals of a predictable nature within of request to a colleague or a known
-
-## 25 of . . .’
-
-his/her own area of expertise, provided contact in another company.
-
-enough time is given.
-
-ALTE BreakCAN take and pass on simple messages CAN understand short reports or CAN write a simple routine request to a through Level of a routine kind, such as ‘Friday product descriptions on familiar colleague, such as ‘Can I have 20X meeting 10 a.m.’ matters, if these are expressed in simple please?’ language and the contents are predictable.
+*
 <!-- el:end id=prose_p263 -->
 
-<!-- el:start type=table id=table_p263_01 page=263 -->
-<!-- db:id=table_p263_01 type=table product_tier=context pages=263 -->
+<!-- el:start type=table id=cefr2001_p263_table_01 page=263 -->
+<!-- db:id=cefr2001_p263_table_01 type=table product_tier=context pages=263 -->
 
 | Writing | CAN make full and accurate notes and continue to participate in a meeting or seminar. | CAN handle a wide range of routine and non-routine situations in which professional services are requested from colleagues or external contacts. | CAN deal with all routine requests for goods or services. | CAN make reasonably accurate notes at a meeting or seminar where the subject matter is familiar and predictable. | CAN write a short, comprehensible note of request to a colleague or a known contact in another company. | CAN write a simple routine request to a colleague, such as ‘Can I have 20X please?’ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9093,43 +7275,20 @@ ALTE BreakCAN take and pass on simple messages CAN understand short reports or C
 | Listening/Speaking | CAN advise on/handle complex delicate or contentious issues, such as legal or financial matters, to the extent that he/she has the necessary specialist knowledge. | CAN contribute effectively to meetings and seminars within own area of work and argue for or against a case. | CAN take and pass on most messages that are likely to require attention during a normal working day. | CAN offer advice to clients within own job area on simple matters. | CAN state simple requirements within own job area, such as ‘I want to order 25 of . . .’ | CAN take and pass on simple messages of a routine kind, such as ‘Friday meeting 10 a.m.’ |
 | ALTE Level | ALTE Level 5 | ALTE Level 4 | ALTE Level 3 | ALTE Level 2 | ALTE Level 1 | ALTE Break- through Level |
 
-<!-- el:end id=table_p263_01 -->
+<!-- el:end id=cefr2001_p263_table_01 -->
 
 *Page **263***
 
 <!-- page:263 -->
 
 <!-- el:start type=prose id=prose_p264 page=264 -->
-Document D5 ALTE WORK statements
+Document D5 ALTE WORK statements Overview of concerns and activities covered CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED Work-related 1. Requesting work- Workplace (ofﬁce, Listening/Speaking services related services factory, etc.) Writing 2. Providing work- Workplace (ofﬁce, Listening/Speaking related services factory, etc.) Writing customer’s home Meetings and Participating in Workplace (ofﬁce, Listening/Speaking seminars meetings and seminars factory, etc.), Writing (notes) conference centre Formal presentations Following and giving a Conference centre, Listening/Speaking and demonstrations presentation or exhibition centre, Writing (notes) demonstration factory, laboratory etc. Correspondence Understanding and Workplace (ofﬁce, Reading writing faxes, letters, factory, etc.) Writing memos, e-mail, etc. Reading Reports Understanding and Workplace (ofﬁce, Reading writing reports (of factory, etc.) Writing substantial length and formality) Publicly available Getting relevant Workplace (ofﬁce, Reading information information (from e.g. factory, etc.), home product literature, professional/trade journals, advertise- ments, web sites etc.) Instructions and Understanding notices Workplace (ofﬁce, Reading guidelines (e.g. safety.) factory, etc.) Writing Understanding and writing instructions (in, for example, installation, operation and maintenance manuals) Telephone Making outgoing calls Ofﬁce, home, hotel Listening/Speaking / Receiving incoming room, etc. Writing (notes) calls (inc. taking messages/writing notes) Appendix D: The ALTE ‘Can Do’ statements 255
 
-Overview of concerns and activities covered
-
-CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED
-
-Work-related
-
-1. Requesting workWorkplace (office, Listening/Speaking services related services factory, etc.) Writing
-2. Providing workWorkplace (office, Listening/Speaking related services factory, etc.) Writing customer’s home
-
-Meetings and Participating in Workplace (office, Listening/Speaking seminars meetings and seminars factory, etc.), Writing (notes) conference centre
-
-Formal presentations Following and giving a Conference centre, Listening/Speaking and demonstrations presentation or exhibition centre, Writing (notes) demonstration factory, laboratory etc.
-
-Correspondence Understanding and Workplace (office, Reading writing faxes, letters, factory, etc.) Writing memos, e-mail, etc. Reading
-
-Reports Understanding and Workplace (office, Reading writing reports (of factory, etc.) Writing substantial length and formality)
-
-Publicly available Getting relevant Workplace (office, Reading information information (from e.g. factory, etc.), home product literature, professional/trade journals, advertisements, web sites etc.)
-
-Instructions and Understanding notices Workplace (office, Reading guidelines (e.g. safety.) factory, etc.) Writing Understanding and writing instructions (in, for example, installation, operation and maintenance manuals)
-
-Telephone Making outgoing calls Office, home, hotel Listening/Speaking / Receiving incoming room, etc. Writing (notes) calls (inc. taking messages/writing notes)
-
-Appendix D: The ALTE ‘Can Do’ statements
+*
 <!-- el:end id=prose_p264 -->
 
-<!-- el:start type=table id=table_p264_01 page=264 -->
-<!-- db:id=table_p264_01 type=table product_tier=context pages=264 -->
+<!-- el:start type=table id=cefr2001_p264_table_01 page=264 -->
+<!-- db:id=cefr2001_p264_table_01 type=table product_tier=context pages=264 -->
 
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
@@ -9142,36 +7301,20 @@ Appendix D: The ALTE ‘Can Do’ statements
 | Instructions and guidelines | Understanding notices (e.g. safety.) Understanding and writing instructions (in, for example, installation, operation and maintenance manuals) | Workplace (office, factory, etc.) | Reading Writing |
 | Telephone | Making outgoing calls Receiving incoming calls (inc. taking messages/writing notes) | Office, home, hotel room, etc. | Listening/Speaking / Writing (notes) |
 
-<!-- el:end id=table_p264_01 -->
+<!-- el:end id=cefr2001_p264_table_01 -->
 
 *Page **264***
 
 <!-- page:264 -->
 
 <!-- el:start type=prose id=prose_p265 page=265 -->
-Document D6 ALTE study statements summary
+Document D6 ALTE study statements summary ALTE Level Listening/Speaking Reading Writing ALTE Level 5 CAN understand jokes, colloquial asides CAN access all sources of information CAN make accurate and complete notes and cultural allusions. quickly and reliably. during the course of a lecture, seminar or tutorial. ALTE Level 4 CAN follow abstract argumentation, for CAN read quickly enough to cope with CAN write an essay which shows ability to example the balancing of alternatives the demands of an academic course. communicate, giving few difﬁculties for and the drawing of a conclusion. the reader. ALTE Level 3 CAN give a clear presentation on a CAN scan tests for relevant information CAN make simple notes that will be of familiar topic, and answer predictable and grasp main point of text. reasonable use for essay or revision or factual questions. purposes. ALTE Level 2 CAN understand instructions on classes CAN understand basic instructions and CAN write down some information at a and assignments given by a teacher or messages, for example computer library lecture, if this is more or less dictated. lecturer. catalogues, with some help. ALTE Level 1 CAN express simple opinions using CAN understand the general meaning CAN write a very short simple narrative expressions such as ‘I don’t agree’. of a simpliﬁed textbook or article, or description, such as ‘My last holiday’. reading very slowly. ALTE Break- CAN understand basic instructions on CAN read basic notices and instructions. CAN copy times, dates and places from through Level class times, dates and room numbers, notices on classroom board or notice and on assignments to be carried out. board.
 
-ALTE Level Listening/Speaking Reading Writing
-
-ALTE Level 5 CAN understand jokes, colloquial asides CAN access all sources of information CAN make accurate and complete notes and cultural allusions. quickly and reliably. during the course of a lecture, seminar or tutorial.
-
-ALTE Level 4 CAN follow abstract argumentation, for CAN read quickly enough to cope with CAN write an essay which shows ability to example the balancing of alternatives the demands of an academic course. communicate, giving few difficulties for and the drawing of a conclusion. the reader.
-
-ALTE Level 3 CAN give a clear presentation on a CAN scan tests for relevant information CAN make simple notes that will be of familiar topic, and answer predictable and grasp main point of text. reasonable use for essay or revision or factual questions. purposes.
-
-ALTE Level 2 CAN understand instructions on classes CAN understand basic instructions and CAN write down some information at a and assignments given by a teacher or messages, for example computer library lecture, if this is more or less dictated.
-
-lecturer. catalogues, with some help.
-
-ALTE Level 1 CAN express simple opinions using CAN understand the general meaning CAN write a very short simple narrative expressions such as ‘I don’t agree’. of a simplified textbook or article, or description, such as ‘My last holiday’.
-
-reading very slowly.
-
-ALTE BreakCAN understand basic instructions on CAN read basic notices and instructions. CAN copy times, dates and places from through Level class times, dates and room numbers, notices on classroom board or notice and on assignments to be carried out. board.
+*
 <!-- el:end id=prose_p265 -->
 
-<!-- el:start type=table id=table_p265_01 page=265 -->
-<!-- db:id=table_p265_01 type=table product_tier=context pages=265 -->
+<!-- el:start type=table id=cefr2001_p265_table_01 page=265 -->
+<!-- db:id=cefr2001_p265_table_01 type=table product_tier=context pages=265 -->
 
 | Writing | CAN make accurate and complete notes during the course of a lecture, seminar or tutorial. | CAN write an essay which shows ability to communicate, giving few difficulties for the reader. | CAN make simple notes that will be of reasonable use for essay or revision purposes. | CAN write down some information at a lecture, if this is more or less dictated. | CAN write a very short simple narrative or description, such as ‘My last holiday’. | CAN copy times, dates and places from notices on classroom board or notice board. |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9179,41 +7322,20 @@ ALTE BreakCAN understand basic instructions on CAN read basic notices and instru
 | Listening/Speaking | CAN understand jokes, colloquial asides and cultural allusions. | CAN follow abstract argumentation, for example the balancing of alternatives and the drawing of a conclusion. | CAN give a clear presentation on a familiar topic, and answer predictable or factual questions. | CAN understand instructions on classes and assignments given by a teacher or lecturer. | CAN express simple opinions using expressions such as ‘I don’t agree’. | CAN understand basic instructions on class times, dates and room numbers, and on assignments to be carried out. |
 | ALTE Level | ALTE Level 5 | ALTE Level 4 | ALTE Level 3 | ALTE Level 2 | ALTE Level 1 | ALTE Break- through Level |
 
-<!-- el:end id=table_p265_01 -->
+<!-- el:end id=cefr2001_p265_table_01 -->
 
 *Page **265***
 
 <!-- page:265 -->
 
 <!-- el:start type=prose id=prose_p266 page=266 -->
-Document D7 ALTE STUDY statements
+Document D7 ALTE STUDY statements Overview of concerns and activities CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED Lectures, talks, 1. Following a lecture, Lecture hall, classroom, Listening/Speaking presentations and talk, presentation or laboratory, etc. Writing (notes) demonstrations demonstration 2. Giving a lecture talk, presentation or demonstration Seminars and Participating in Classroom, study Listening/Speaking tutorials seminars and tutorials Writing (notes) Textbooks, articles, Gathering information Study, library, etc. Reading etc. Writing (notes) Essays Writing essays Study, library, Writing examination room, etc. Accounts Writing up accounts Study, laboratory Writing (e.g. of an experiment) Reference skills Accessing information Library, resource Reading (e.g. from a computer centre, etc. Writing (notes) base, library, dictionary, etc.) Management of Making arrangements, Lecture hall, classroom Listening/Speaking study e.g. with college staff study, etc. Reading on deadlines for work Writing to be handed in Appendix D: The ALTE ‘Can Do’ statements 257
 
-Overview of concerns and activities
-
-CONCERN ACTIVITY ENVIRONMENT LANGUAGE SKILL REQUIRED
-
-Lectures, talks,
-
-1. Following a lecture, Lecture hall, classroom, Listening/Speaking presentations and talk, presentation or laboratory, etc. Writing (notes) demonstrations demonstration
-2. Giving a lecture talk, presentation or demonstration
-
-Seminars and Participating in Classroom, study Listening/Speaking tutorials seminars and tutorials Writing (notes)
-
-Textbooks, articles, Gathering information Study, library, etc. Reading etc. Writing (notes)
-
-Essays Writing essays Study, library, Writing examination room, etc.
-
-Accounts Writing up accounts Study, laboratory Writing (e.g. of an experiment)
-
-Reference skills Accessing information Library, resource Reading (e.g. from a computer centre, etc. Writing (notes) base, library, dictionary, etc.)
-
-Management of Making arrangements, Lecture hall, classroom Listening/Speaking study e.g. with college staff study, etc. Reading on deadlines for work Writing to be handed in
-
-Appendix D: The ALTE ‘Can Do’ statements
+*
 <!-- el:end id=prose_p266 -->
 
-<!-- el:start type=table id=table_p266_01 page=266 -->
-<!-- db:id=table_p266_01 type=table product_tier=context pages=266 -->
+<!-- el:start type=table id=cefr2001_p266_table_01 page=266 -->
+<!-- db:id=cefr2001_p266_table_01 type=table product_tier=context pages=266 -->
 
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
@@ -9225,7 +7347,7 @@ Appendix D: The ALTE ‘Can Do’ statements
 | Reference skills | Accessing information (e.g. from a computer base, library, dictionary, etc.) | Library, resource centre, etc. | Reading Writing (notes) |
 | Management of study | Making arrangements, e.g. with college staff on deadlines for work to be handed in | Lecture hall, classroom study, etc. | Listening/Speaking Reading Writing |
 
-<!-- el:end id=table_p266_01 -->
+<!-- el:end id=cefr2001_p266_table_01 -->
 
 *Page **266***
 
@@ -9323,7 +7445,9 @@ Version 6 – at the bottom of the screen
 
 1. The first arrow takes you to the very first page of the document.
 2. The second takes you to the page before the one you are reading now
+
 3. The third takes you to the next page
+
 4. The fourth takes you to the very last page of the document
 5. The fifth takes you to “previous view”, i.e. the page you were looking at immediately before you came to this one.
 6. The last one takes you to “next view”, i.e. the next in a sequence of pages you have been looking at.
@@ -9358,7 +7482,7 @@ Copying the text
 
 If you wish to copy sections of the text into your own work, you can do so by using your word processor program.
 
-1. Click the Text Select tool
+## 1. Click the Text Select tool
 
 2. The Hand tool will change to a vertical line. Select the text you wish to copy by holding down the left button on your mouse and moving it over the text.
 3. Copy the text to the clipboard by using the command Edit / Copy.

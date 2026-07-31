@@ -1,0 +1,10 @@
+<!-- el:start type=prose id=prose_p015 page=15 -->
+<!-- vision: Threshold PDF page 15 -->
+
+nevertheless, we can only say, at this stage, that we assume the learning load for *Threshold Level 1990* to be similar to that for its predecessor and that there is some evidence that, with adequate guidance, absolute beginners need an average of 375 learning hours – including independent work – to reach the older objectives.
+
+### 7 Waystage 1990
+
+The estimated learning load for *Threshold Level 1990* may appear to be very formidable indeed, particularly to learners with only little educational experience. Yet, it is our aim to encourage people to learn a foreign language rather than to deter them from doing so. Also, we would not wish to maintain that the achievement of a lower level of communicative ability than *Threshold Level 1990* could not be very much worthwhile to learners. We therefore provide, in a separate publication, a less demanding objective under the name of *Waystage 1990*. *Waystage 1990* has been derived from *Threshold Level 1990*, is based on the same model and contains the same components. It is a coherent objective in its own right, offering the learners a level of ability that may serve many of their language purposes without, however, enabling them to operate in the foreign language with the same measure of freedom as *Threshold Level 1990* is meant to provide. The learning load of *Waystage 1990* is estimated to be about half of that required for *Threshold Level 1990*. For beginning learners who are unable or unwilling to commit themselves right from the start to the expenditure of time and energy required for the higher objective, *Waystage 1990* may be an acceptable alternative. And it is not unreasonable to expect that many of those who have first reached the lower objective may be encouraged by the experience of successful learning to undertake the further learning effort that will take them to *Threshold Level 1990*.
+
+<!-- el:end id=prose_p015 -->

@@ -1,6 +1,6 @@
 {
   "version": "003",
-  "created": "2026-07-31T18:11:59.948895+00:00",
+  "created": "2026-07-31T18:35:30.184136+00:00",
   "method": "layout_aware_format_v3",
   "notes": "paragraphs, lists, headers, Unicode tone marks matching PDF"
 }

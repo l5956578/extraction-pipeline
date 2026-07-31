@@ -1,0 +1,92 @@
+<!-- el:start type=prose id=prose_p165 page=165 -->
+<!-- vision: Threshold PDF page 165 -->
+
+- boat n:7.5.1
+- boil vb: 6.2.8.7, 7.10.1
+- bomb n: 7.6.6, 7.6.7
+- book n: 7.4.6
+- book vb: 7.5.1, 7.5.5
+- booking office n: 7.4.4, 7.5.1
+- bookshop n: 7.4.6
+- booth n: 7.11.2
+- border n: 7.5.7
+- bored adj: 5.2.39.2
+- boring adj: 5.2.39.1
+- born adj: 7.1.4
+- borrow vb: 7.11.4
+- boss n: 7.1.10
+- both pr adj: 6.4.2, 6.8.2
+- bottle n: 6.4.2, 7.9.5
+- bottom n: 7.2.7
+- box n: 6.4.2, 7.5.6, 7.11.1
+- Doy 1: 7.1.6
+- boy-friend n: 7.6.1
+- brake n: 7.11.8
+- bread n: 7.10.1
+- break n: 7.3.2
+- break vb: 6.5.1.11, 7.7.4
+- breakfast n: 7.3.1, 7.5.5, 7.10.1
+- bridge n: 7.5.3 (in) brief adj: 5.5.9.2
+- bright adj: 6.5.1.9
+- bring vb: 6.2.5
+- brother n: 7.1.11
+- brown adj: 6.5.1.9
+- brush n:7.7.3
+- Brussels n: 7.1.2
+- building n: 7.2.1
+- bullet n: 7.6.7
+- bureau 1:7.5.1
+- burglar n: 7.6.6
+- burglary n: 7.6.6
+- burn vb: 6.2.8.7, 7.7.4
+- bus n:7.5.1
+- bush n:7.2.8
+- business n: 7.5.1
+- business-man n: 7.1.10
+- business-woman n: 7.1.10
+- but conj: 5.2.22.4, 6.7.6.1
+- butcher n: 7.1.10, 7.9.1
+- butter n: 7.10.1
+- button n: 7.5.5
+- buy vb: 7.1.10, 7.2.1
+- by prep: 7.5.1
+- by all means adv: 5.5.16.2
+- bye-bye int: 5.4,12.2.1
+- Csi
+- cab n:7.5.1
+- cabaret n:7.4.4
+- cabbage n: 7.10.1
+- cabin n:7.5.1
+- cable n:7.4.3
+- café n: 7.10.2
+- cake n: 7.10.1
+- call vb: 5.5.2.2, 5.5.26, 5.6.9.2, 6.6.10.4, 7.1.1, 7.1.3, 7.5.5
+- call-box n: 7.11.2
+- camera n: 7.5.6
+- camp n:7.5.5
+- camp site n: 7.5.5
+- can vb: 5.2.9.8, 5.2.10.3, 5.2.17.1, 5.2.19.3, 5.2.20.1, 5.2.23.6, 5.3.3.7, 5.3.8.1, 5.3.9.2, 5.3.14.2, 6.5.2.10
+- canal n:7.2.7
+- cancel vb: 7.5.1
+- cannot (can’t) vb: 5.2.7.1, 5.2.9.8, 5.2.11.2, 5.2.22.2, 5.3.12.2, 6.5.2.10
+- canteen n: 7.3.2, 7.10.2
+- carn: 7.5.2
+- card n: 7.4.7, 7.5.5, 7.9.6
+- care vb: 5.2.39.6
+- careful adj: 5.3.5.1
+- carpentry n: 7.4.2
+- carrot n:7.10.1
+- carry vb: 6.2.5
+- cash n and vb: 7.5.5, 7.11.4
+- cassette n: 7.4.3
+- cassette recorder n: 7.4.3
+- castle n:7.5.4
+- cat n:7.2.8
+- cathedral n: 7.1.12, 7.5.4
+- cauliflower n: 7.10.1
+- CD [sizdi:] n: 7.4.3
+- cellar n: 7.2.2
+- centimetre n: 6.2.8.2
+- central adj: 7.2.5
+
+<!-- el:end id=prose_p165 -->
