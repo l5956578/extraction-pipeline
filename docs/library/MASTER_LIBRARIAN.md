@@ -11,9 +11,9 @@
 | Resource | Job id | Source | Extract status | Primary path |
 |----------|--------|--------|----------------|--------------|
 | Companion Volume 2020 | `cefr-companion-2020` | PDF | **Done / user-approved MD** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` |
-| CEFR EN 2001 | `cefr-en-2001` | PDF | **Draft** (analysis dump only) | `input/…/source.pdf`; `work/cefr-en-2001/CEFR_2001_fulltext_dump.txt` |
-| Threshold 1990 | `cefr-threshold-1990` | PDF (OCR text usable) | **Draft**; mode `page_png` | `input/…/source.pdf`; dump `work/cefr-threshold-1990/threshold_fulltext_dump.txt` |
-| Waystage 1990 | `cefr-waystage-1990` | PDF (**image-based**) | **Draft**; mode `page_png` | `input/…/source.pdf`; OCR samples `work/cefr-waystage-1990/` |
+| CEFR EN 2001 | `cefr-en-2001` | PDF | **MD approved v002** (native+tables; T1/T2 stitched) | `output/cefr-en-2001/CEFR_EN_2001.md` |
+| Threshold 1990 | `cefr-threshold-1990` | PDF | **MD approved v002** + Vision App A five nuclear tones | `output/cefr-threshold-1990/Threshold_1990.md` |
+| Waystage 1990 | `cefr-waystage-1990` | PDF (image) | **MD approved v002** + Vision App A five nuclear tones | `output/cefr-waystage-1990/Waystage_1990.md` |
 | Descriptors 2020 xlsx | `cefr-descriptors-2020` | XLSX | Not imported to DB | `input/cefr-descriptors-2020/` |
 | Self-assessment grid CN | `cefr-self-assessment-grid-cn` | MD | Import-ready pair | + Companion App 2 EN |
 | English Grammar Profile | `cefr-english-grammar-profile-online-202607` | XLSX | Registered, not SQL | `input/…` |
@@ -55,7 +55,7 @@ Promotion: monorepo `docs/PROMOTION.md`; only approved versions → production.
 1. Classify need: philosophy | can-do level | situation/exponent design | assessment grid | methodology | intonation.  
 2. Open the **outline** for the right book(s).  
 3. For multi-book questions, open **RELATIONSHIP_CEFR_FAMILY_4** decision table first.  
-4. Grep Companion MD (`db:id`) / 2001 dump / Threshold dump; Waystage via OCR samples or page images.  
+4. Grep Companion MD (`db:id`) / `CEFR_EN_2001.md` (`cefr2001_*` ids) / Threshold & Waystage MDs (`threshold_*` / `waystage_*`, esp. `*_five_nuclear_tones`).  
 5. If citing 2001 can-do wording for *current* teaching → Companion App 7.
 
 ### 3.2 Multi-book answers (recommended shape)

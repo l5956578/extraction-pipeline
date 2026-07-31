@@ -24,10 +24,10 @@
 
 | Item | Status | Next honest step |
 |------|--------|------------------|
-| Companion MD | **Complete / user-confirmed** | Promote when ready; soft mid-page inventory noise only |
-| CEFR 2001 MD | **Not extracted** | Production extract when approved; dump is navigation-only |
-| Threshold 1990 | PDF + **OCR dump** + librarian outline | No production MD; `page_png` mode recorded; App A needs Vision |
-| Waystage 1990 | PDF **image-based** (no native text) + OCR samples + outline | Same; heavier Vision dependency than Threshold |
+| Companion MD | **Complete / user-confirmed** | Soft mid-page inventory noise only |
+| CEFR 2001 MD | **Approved v002** — native text + tables; Table 1 global + Table 2 self-assessment **stitched** | Table 3 / appendix scales further Vision polish optional |
+| Threshold 1990 | **Approved v002** — full MD + **Vision-rewritten App A** five nuclear tones + uses | Body pages outside App A still OCR-noisy in places |
+| Waystage 1990 | **Approved v002** — full OCR MD + **Vision-rewritten App A** five nuclear tones | Image PDF; multi-column lists may need more overrides |
 | Descriptors xlsx → SQL | Not done | DATA tickets |
 | EGP xlsx → SQL | Registered, not done | Import pipeline |
 | EVP | **Missing entirely** | Scrape design (RES EVP) |
@@ -58,7 +58,7 @@
 | Online/mediation domain examples | Companion App 5 |
 | Early adult English **objective** content (functions/themes) | Waystage outline + OCR/PDF |
 | Freer social/travel **objective** content | Threshold dump + PDF |
-| Intonation symbols in van Ek–Trim | **Only with page images** (not yet packaged as production PNG set) |
+| Intonation symbols in van Ek–Trim | **MD App A** (`threshold_five_nuclear_tones` / `waystage_five_nuclear_tones`) + page_renders PNGs |
 | English grammar by CEFR level | **Not until EGP ingested** |
 | English vocab by CEFR level | **Not until EVP scraped** |
 
@@ -71,5 +71,5 @@
 3. Descriptors xlsx → DB.  
 4. EGP → DB.  
 5. EVP scrape → DB.  
-6. Waystage/Threshold: curated page_png or Vision-aware extract (**RES-03/04** when approved).  
+6. Waystage/Threshold/2001: **MD extract done (v002)** — further page_overrides optional.  
 7. RES-05 remainder: registry `nav_path` fields; outlines for remaining jobs.
