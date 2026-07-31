@@ -1,51 +1,55 @@
-<!-- el:start type=prose id=prose_p106 page=106 -->
-<!-- vision: Threshold PDF page 106 -->
+<!-- vision: Threshold PDF leaf 106 = document p.100 | multipass politeness maxims + intonation -->
+<!-- el:start type=prose id=prose_p106 page=100 -->
+<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
-a
+**a)** adding *please* when you call for action by the partner;
 
-a) adding please when you call for action by the partner;
-i) 'Where is the , toilet, -please? (asking for information);
-ii) Are'turn -ticket to London, -please. (requesting something); iii) ‘Sit down, -please. (giving instructions, orders).
+> **i)** ˈWhere is the ˎtoilet, ·please?  (asking for information);  
+> **ii)** A reˈturn ·ticket to ˎLondon, ·please.  (requesting something);  
+> **iii)** ˈSit ˎdown, ·please.  (giving instructions, orders).
 
-b) avoiding simple imperatives when asking the partner to do
-something for you. Instead,
+**b)** avoiding simple imperatives when asking the partner to do something for you. Instead,
 
-**i) ask if he/she**
+**i)** ask if he/she
 
-is willing to act, e.g. ‘Will you -open the window,
+- is willing to act,  
+  e.g. ˈWill you ·open the ˎwindow, ·please?
+- is able to act,  
+  e.g. ˈCan you ·open this ˎtin for me, ·please?
+- wishes to act.  
+  e.g. ˈWould you ·like to ˎhelp me, ·please?
 
-«please? is able to act, e.g. ‘Can you -open this ,tin for me,
+**ii)** use introducers such as
 
-«please? wishes to act. e.g. ‘Would you -like to |help me,
+- *I wonder if …*  
+  e.g. I ˈwonder if you could ·close the ˎwindow, ·please?
+- *Do you think …*  
+  e.g. ˈDo you ·think you could ·open this ˎtin for me, ·please?
 
-«please? ii) use introducers such as
+**iii)** use warnings or advice
 
-| wonder if... e.g. | 'wonder if you could -close the
+> e.g. ˈDon’t for·get to ·post the ˋletter.  
+> If ˈI were ·you, | I’d ˈkeep your ˈeyes on the ˈroad.
 
-,window, -please?
+**iv)** draw attention to the situation, inviting the partner to recognise that there is a problem that needs to be dealt with.
 
-Do you think ... e.g. 'Do you -think you could -open this tin for me, -please? iii) use warnings or advice e.g. ‘Don't for-get to -post the “letter.
+> e.g. It’s ˈcold in ·here, | ˋisn’t it?  (= please close the window).  
+> I ˈcan’t ·open this ˎtin.  (= please open it for me).  
+> ˈDinner’s ˎready.  (= come and sit down to eat it).
 
-If “| were -you, | I'd 'keep your ‘eyes on the ‘road. iv) draw attention to the situation, inviting the partner to recognise that there is a problem that needs to be dealt with. e.g. It's ‘coldin -here, | ‘isn’t it? (= please close the window).
+Asking is a form of suasion, since the partner is asked to do something for you, namely provide information. *Wh* questions are normally accompanied by ‘please’. After the partner has replied it is normal to thank him/her for doing so.
 
-| ‘can’t -open this tin. (= please open it for me).
+> ˈWhat’s the ˎtime, ·please?  
+> ˈTwelve oˎclock.  
+> ˎThank you.
 
-‘Dinner’s ,ready. (= come and sit down to eat it).
+*Offers and invitations* are very much subject to politeness conventions, but in a complex way, since they attempt to persuade the partner to act in a certain way, but in the interests of the partner rather than of the speaker. Invitations and offers may be strong or weak.
 
-Asking is a form of suasion, since the partner is asked to do something for you, namely provide information. Wh questions are normally accompanied by ‘please’. After the partner has replied it is normal to thank him/her for doing so.
+A ‘strong’ offer or invitation, making it easier for the partner to accept, may be conveyed:
 
-‘What's the time, -please?
-
-"Twelve o’ clock.
-
-\Thank you.
-
-Offers and invitations are very much subject to politeness conventions, but in a complex way, since they attempt to persuade the partner to act in a certain way, but in the interests of the partner rather than of the speaker. Invitations and offers may be strong or weak.
-
-A‘strong’ offer or invitation, making it easier for the partner to accept, may be conveyed: by using an imperative as though it were an order; e.g. ‘Let me help you.
-
-‘Give ,me that -case to -carry.
-
-‘Come and -spend the -day in Oxford.
+- by using an imperative as though it were an order;  
+  e.g. ˈLet me ˎhelp you.  
+  ˈGive ˎme that ·case to ·carry.  
+  ˈCome and ·spend the ·day in ˎOxford.
 
 <!-- el:end id=prose_p106 -->

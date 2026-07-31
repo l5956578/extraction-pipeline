@@ -1,13 +1,13 @@
 <!-- el:start type=prose id=prose_p064 page=64 -->
-<!-- vision: Threshold PDF page 64 -->
+<!-- vision: Threshold PDF leaf 64 = doc p.58 | multipass end of general notions -->
 
-**some** (as in: 'Some of them ˌwent ˌhome.), **it** (as in: It's ˌraining.), **you** (as in: It's a 'nice ˌrecord | if you ˈlike ˌmodern ˌmusic.)
+**some** (as in: ˈSome of them ·went ˎhome.), **it** (as in: It's ˎraining.), **you** (as in: It's a ˈnice ˎrecord | if you ˈlike ·modern ·music.)
 
 **indefinite determiners:**  
 See General Notions 4.2.
 
 **adverbs:** somewhere, nowhere, everywhere, (not) ... anywhere, sometimes, never, always
 
-**semi-deictics:** **person** (as in: There are 'five ˌpersons ˌpresent.) ●, **man** ● (as in: There were ˈanimals ˌhere | be'fore ˌman ˌcame.) **people** (as in: 'What do ˌpeople ˌthink about the ˌgovernment?; There are 'five ˌpeople ˌpresent.), **thing** (as in: 'What do you ˌcall that ˌthing?), **do** (as in: 'What are you ˌgoing to ˌdo toˌnight?)
+**semi-deictics:** **person** (as in: There are ˈfive ·persons ˎpresent.) ●, **man** ● (as in: There were ˈanimals ·here | beˈfore ˎman ·came.) **people** (as in: ˈWhat do ·people ·think about the ˎgovernment?; There are ˈfive ·people ˎpresent.), **thing** (as in: ˈWhat do you ˎcall that ·thing?), **do** (as in: ˈWhat are you ·going to ·do toˎnight?)
 
 <!-- el:end id=prose_p064 -->

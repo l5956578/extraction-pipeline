@@ -1,5 +1,5 @@
 <!-- el:start type=prose id=prose_p096 page=96 -->
-<!-- vision: Threshold PDF page 96 -->
+<!-- vision: Threshold PDF leaf 96 = doc p.90 | multipass Listening + Notes 1–2 -->
 
 ### Listening
 

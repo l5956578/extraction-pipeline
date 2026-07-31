@@ -1,5 +1,5 @@
 <!-- el:start type=prose id=prose_p090 page=90 -->
-<!-- vision: Threshold PDF page 90 -->
+<!-- vision: Threshold PDF leaf 90 = doc p.84 | multipass verbal exchange prose (full page) -->
 
 description of the kind we try to provide in this document. 'All we can be said to understand about such talk' Peck observes, 'is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: 'We can teach pupils to recognise these elements of discourse and to use them themselves.'
 

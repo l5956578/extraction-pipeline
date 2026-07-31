@@ -1,12 +1,12 @@
 <!-- el:start type=prose id=prose_p057 page=57 -->
 <!-- vision: CEFR 2001 PDF page 57 -->
 
-<!-- el:start type=table id=cefr2001_table_5_external_context_of_use page=57 -->
-<!-- db:id=cefr2001_table_5_external_context_of_use type=table product_tier=base pages=57-58 -->
+<!-- el:start type=table id=cefr2001_table_5_external_context_of_use page=48 -->
+<!-- db:id=cefr2001_table_5_external_context_of_use type=table product_tier=base pages=48-49 -->
+<!-- multipage-stitch: FULL 8-col grid once here; doc p.49 = continuity chrome only (RIE-010) -->
+<!-- document pages 48–49 = PDF leaves 57–58; left Domain–Persons + right Objects–Texts merged -->
 
 **Table 5. External context of use: descriptive categories**
-
-<!-- stitched: PDF pages 57–58 (book pp. 48–49); left half Domain–Persons + right half Objects–Texts -->
 
 | Domain | Locations | Institutions | Persons | Objects | Events | Operations | Texts |
 | --- | --- | --- | --- | --- | --- | --- | --- |

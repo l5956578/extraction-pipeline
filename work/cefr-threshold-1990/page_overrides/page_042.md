@@ -1,102 +1,120 @@
-<!-- el:start type=prose id=prose_p042 page=42 -->
-<!-- vision: Threshold PDF page 42 -->
+<!-- vision: Threshold PDF leaf 42 = document p.36 | multipass intonation -->
+<!-- el:start type=prose id=prose_p042 page=36 -->
+<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
-**2.34.2** How do you like NP/VP gerund  
-'How do you ˌlike ˌplaying ˌpop ˌmusic?
+**2.34.2** How do you like NP/VP gerund
 
-**2.34.3** 'What do you ˌlike?
+> ˈHow do you ·like ·playing ˎpop ·music?
 
-##### 2.35 expressing satisfaction
+**2.34.3** ˈWhat do you ˎlike?
 
-**2.35.1** 'Good!
+#### 2.35 expressing satisfaction
 
-**2.35.2** 'Fine!
+**2.35.1** ˈGood!
 
-**2.35.3** demonstrative + *be* (very) good/nice  
-That's 'good.
+**2.35.2** ˈFine!
 
-**2.35.4** (This is) 'just what I ˌwant(ed)/ˌneed/ˌmeant/ˌhad in ˌmind.
+**2.35.3** demonstrative + *be* (very) good/nice
+
+> ·That's ˈgood.
+
+**2.35.4** (This is) ˈjust what I ˎwant(ed)/ˎneed/ˎmeant/·had in ˎmind.
 
 **2.35.5** (following dissatisfaction)
 
-**2.35.5.1** 'That is ˌbetter.
+**2.35.5.1** ˈThat is ˎbetter.
 
-**2.35.5.2** It's ('quite) all ˌright (ˌnow).
+**2.35.5.2** It's (ˈquite) all ˎright (ˎnow).
 
-**2.35.5.3** 'That will ˌdo.
+**2.35.5.3** ˈThat will ˎdo.
 
-**2.35.5.4** That is ('good) eˌnough.
+**2.35.5.4** That is (ˈgood) eˎnough.
 
-##### 2.36 expressing dissatisfaction
+#### 2.36 expressing dissatisfaction
 
-**2.36.1** declarative sentences  
-'This ˌsoup is ˌcold.  
-The 'T.V. ˌdoesn't ˌwork.
+**2.36.1** declarative sentences
 
-**2.36.2** I'm not satisfied/happy (with this + NP)  
-I'm 'not ˌhappy with this ˌfridge.
+> ˈThis ·soup is ˎcold.  
+> The ˈTˎV ·doesn't ·work.
 
-**2.36.3** I don't like/want this (+ NP)  
-I 'don't ˌwant this ˌsoup.
+**2.36.2** I'm not satisfied/happy (with this + NP)
 
-**2.36.4** I don't like/want NP like this  
-I 'don't ˌlike ˌcabbage like ˌthis.
+> I'm ˈnot ·happy with this ˎfridge.
 
-**2.36.5** Demonstrative *be* not right (yet)  
-This is 'not ˌright ˌyet.
+**2.36.3** I don't like/want this (+ NP)
 
-**2.36.6** Demonstrative *be* not what I want(ed)/had in mind/meant  
-These are 'not what I ˌhad in ˌmind.
+> I ˈdon't ˎwant this ·soup.
 
-**2.36.7** That will 'not ˌdo.
+**2.36.4** I don't like/want NP like this
 
-**2.36.8** That is 'not ˌgood eˌnough.
+> I ˈdon't ˎlike ·cabbage like ·this.
 
-##### 2.37 enquiring about satisfaction/dissatisfaction
+**2.36.5** Demonstrative *be* not right (yet)
 
-**2.37.1** Are you satisfied/happy (with + NP)?  
-'Are you ˌsatisfied with your ˌmeal?
+> This is ˈnot ˎright ·yet.
 
-**2.37.2** Do you like NP like this?  
-'Do you ˌlike ˌcoffee like ˌthis?
+**2.36.6** Demonstrative *be* not what I want(ed)/had in mind/meant
 
-**2.37.3** Is it 'all ˌright (ˌnow)?
+> These are ˈnot what I ·had in ˎmind.
 
-**2.37.4** 'Is this what you ˌwant(ed)/ˌneed/ˌmeant/ˌhad in ˌmind?
+**2.36.7** That will ˈnot ˎdo.
 
-**2.37.5** How do you like/find NP?  
-'How do you ˌfind our ˌbeer?
+**2.36.8** That is ˈnot ˎgood e·nough.
 
-**2.37.6** 'What is the ˌmatter?
+#### 2.37 enquiring about satisfaction/dissatisfaction
 
-##### 2.38 expressing interest
+**2.37.1** Are you satisfied/happy (with + NP)?
 
-**2.38.1** 'Really!
+> ˈAre you ˎsatisfied with your ·meal?
 
-**2.38.2** Is 'that ˌso!
+**2.37.2** Do you like NP like this?
 
-**2.38.3** 'How ˌinteresting!
+> ˈDo you ˎlike ·coffee like ·this?
 
-**2.38.4** I am (very) interested in NP/VP gerund  
-I am 'interested in ˌold ˌstamps.
+**2.37.3** ·Is it ˈall ˎright (ˎnow)?
 
-**2.38.5** NP interests me (greatly)  
-'Greek ˌmen ˌinterest me ˌgreatly.
+**2.37.4** ˈIs this what you ˎwant(ed)/ˎneed/ˎmeant/·had in ˎmind?
 
-##### 2.39 expressing lack of interest
+**2.37.5** How do you like/find NP?
 
-**2.39.1** 'How ˌboring!
+> ˈHow do you ·find our ˎbeer?
 
-**2.39.2** I am bored (by NP)  
-I am 'bored | by ˌpolitics | on ˌT.V.
+**2.37.6** ˈWhat is the ˎmatter?
 
-**2.39.3** I am not/not very/not at all interested in NP/VP gerund  
-I am not a't all ˌinterested | in ˌgoing aˌbroad.
+#### 2.38 expressing interest
 
-**2.39.4** NP does not interest me (very much/at all).  
-ˌSport does 'not ˌinterest me aˌt all.
+**2.38.1** ˈReally!
 
-**2.39.5** It doesn't matter (+ *that* clause/*if* clause)  
-It 'doesn't ˌmatter | if it 'rains or ˌnot.
+**2.38.2** Is ˈthat ˎso!
+
+**2.38.3** ˈHow ˎinteresting!
+
+**2.38.4** I am (very) interested in NP/VP gerund
+
+> I am ˈinterested in ·old ˎstamps.
+
+**2.38.5** NP interests me (greatly)
+
+> ˈGreek ·men ·interest me ˎgreatly.
+
+#### 2.39 expressing lack of interest
+
+**2.39.1** ˈHow ˎboring!
+
+**2.39.2** I am bored (by NP)
+
+> I am ˈbored | by ˎpolitics | on ·TˎV.
+
+**2.39.3** I am not/not very/not at all interested in NP/VP gerund
+
+> I am not aˈt all ˎinterested | in ·going aˎbroad.
+
+**2.39.4** NP does not interest me (very much/at all).
+
+> ·Sport does ˈnot ·interest me aˎt all.
+
+**2.39.5** It doesn't matter (+ *that* clause/*if* clause)
+
+> It ˈdoesn't ˎmatter | if it ˈrains or ˎnot.
 
 <!-- el:end id=prose_p042 -->

@@ -1,101 +1,131 @@
-<!-- el:start type=prose id=prose_p035 page=35 -->
-<!-- vision: Threshold PDF page 35 -->
+<!-- vision: Threshold PDF leaf 35 = document p.29 | multipass 3× intonation two-column -->
+<!-- el:start type=prose id=prose_p035 page=29 -->
+<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
-**1.3.5** positive statements (with intensifying *do*)  
-You ˈdid ˌgo to ˌLondon.
+**1.3.5** positive statements (with intensifying *do*)
 
-##### 1.4 asking
+> You ˇdid ·go to ·London.
+
+#### 1.4 asking
 
 **1.4.1** (for confirmation)
 
-**1.4.1.1** interrogative sentences  
-'Did you ˌsee him?
+**1.4.1.1** interrogative sentences
 
-**1.4.1.2** declarative sentences with high-rising intonation  
-You 'saw him?
+> ˈDid you ˎsee him?
 
-**1.4.1.3** statement and question tag  
-They ˌlost the ˌmatch, | ˌdidn't they?
+**1.4.1.2** declarative sentences with high-rising intonation
+
+> You ˊsaw him?
+
+**1.4.1.3** statement and question tag
+
+> They ˎlost the ·match, | ˎdidn’t they?
 
 **1.4.2** for information
 
 **1.4.2.1** *wh* questions  
-(time) **when?**  
-'When will the ˌguests arˌrive?  
-(place) **where?**  
-'Where is my ˌpurse?  
-(manner) **how?**  
-'How do you ˌmake an ˌomelette?  
-(degree) **how far/much/long hot, etc.?**  
-'How ˌfar is it to ˌYork?  
-(reason) **why?**  
-'Why did you ˌsay ˌthat?
+(time) **when?**
 
-**1.4.2.2** Please (can you) tell me + subordinate clause/ + NP  
-'Please can you ˌtell me the ˌway to the ˌstation?
+> ˈWhen will the ·guests arˎrive?
+
+(place) **where?**
+
+> ˈWhere is my ˎpurse?
+
+(manner) **how?**
+
+> ˈHow do you ·make an ˎomelette?
+
+(degree) **how far/much/long/hot**, etc.?
+
+> ˈHow ·far is it to ˎYork?
+
+(reason) **why?**
+
+> ˈWhy did you ·say ˎthat?
+
+**1.4.2.2** Please (can you) tell me + subordinate clause/ + NP
+
+> ˈPlease can you ·tell me the ·way to the ˎstation?
 
 **1.4.3** seeking identification  
-(person) **who?**  
-'Who is ˌthat?  
-(possession) **whose + NP?**  
-'Whose ˌgloves are ˌthese?  
-(thing) **what? which + NP?**  
-'What is ˌthis?  
-'Which ˌsuit will you ˌwear tonight?  
+(person) **who?**
+
+> ˈWho is ˎthat?
+
+(possession) **whose** + NP?
+
+> ˈWhose ·gloves are ˎthese?
+
+(thing) **what? which** + NP?
+
+> ˈWhat is ˎthis?
+
+> ˈWhich ˎsuit will you ·wear tonight?
+
 (event) **What happened?**
 
-##### 1.5 answering question
+#### 1.5 answering question
 
 **1.5.1** (for confirmation)  
-Yes, No (+ tag)  
-ˌYes, | he ˌis.  
-ˌNo, | he ˌisn't.
+Yes, No (+ tag)
+
+> ˎYes, | he ˎis.  
+> ˎNo, | he ˎisn’t.
 
 **1.5.2** (for information)  
 declarative sentences, clauses, phrases and single words
 
-**1.5.2.1** (time) ('When will it ˌhappen?)  
-At '6 p.ˌm.
+**1.5.2.1** (time) (ˈWhen will it ˎhappen?)
 
-**1.5.2.2** (place) ('Where's my ˌbox?)  
-'On the ˌtable.
+> At ˈ6 p.ˎm.
 
-**1.5.2.3** (manner) ('How do you ˌdrive?)  
-'Not very ˌfast.
+**1.5.2.2** (place) (ˈWhere’s my ˎbox?)
 
-**1.5.2.4** (degree) ('How ˌfar is it?)  
-'Not very ˌfar.
+> ˈOn the ˎtable.
 
-**1.5.2.5** (reason) ('Why are you ˌhere?)  
-(because +) declarative sentence  
-Beˌcause I am a ˌmember.
+**1.5.2.3** (manner) (ˈHow do you ˎdrive?)
+
+> ˈNot very ˎfast.
+
+**1.5.2.4** (degree) (ˈHow ˎfar is it?)
+
+> ˈNot very ˎfar.
+
+**1.5.2.5** (reason) (ˈWhy are you ˎhere?)  
+(because +) declarative sentence
+
+> Be·cause I am a ˎmember.
 
 **1.5.3** (seeking identification)  
 See 1.1.
 
-#### 2 Expressing and finding out attitudes
+### 2 Expressing and finding out attitudes
 
 **factual: agreement, etc.**
 
-##### 2.1 expressing agreement with a statement
+#### 2.1 expressing agreement with a statement
 
-**2.1.1** I ('quite) aˌgree.
+**2.1.1** I (ˈquite) aˎgree.
 
-**2.1.2** 'That's ˌright.
+**2.1.2** ˈThat’s ˎright.
 
-**2.1.3** 'That's corˌrect.
+**2.1.3** ˈThat’s corˎrect.
 
-**2.1.4** Inˌdeed.
+**2.1.4** Inˎdeed.
 
-**2.1.5** Eˌxactly.
+**2.1.5** Eˎxactly.
 
-**2.1.6** (with a positive statement) (You ˌwork 'hard.)
+**2.1.6** (with a positive statement)  
+(You ·work ˈhard.)
 
-**2.1.6.1** Yes (+ tag)  
-ˌYes, | we ˌdo.
+**2.1.6.1** Yes (+ tag)
 
-**2.1.6.2** Of ˌcourse.
+> ˎYes, | we ˎdo.
 
-**2.1.6.3** ˌCertainly.
+**2.1.6.2** Of ˎcourse.
+
+**2.1.6.3** ˎCertainly.
 
 <!-- el:end id=prose_p035 -->

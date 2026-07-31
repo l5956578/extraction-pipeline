@@ -6,8 +6,9 @@ experience of member states and of institutions with related expertise is incorp
 
 It is also desirable that the common reference points are presented in different ways for different purposes. For some purposes it will be appropriate to summarise the set of proposed Common Reference Levels in single holistic paragraphs, as shown in Table 1. Such a simple ‘global’ representation will make it easier to communicate the system to non-specialist users and will also provide teachers and curriculum planners with orientation points:
 
-<!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=33 -->
-<!-- db:id=cefr2001_table_1_common_reference_levels_global_scale type=table product_tier=base pages=33 -->
+<!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=24 -->
+<!-- db:id=cefr2001_table_1_common_reference_levels_global_scale type=table product_tier=base pages=24 -->
+<!-- document page 24 = PDF leaf 33 -->
 
 **Table 1. Common Reference Levels: global scale**
 

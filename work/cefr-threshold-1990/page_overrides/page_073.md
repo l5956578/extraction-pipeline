@@ -1,89 +1,80 @@
 <!-- el:start type=prose id=prose_p073 page=73 -->
-<!-- vision: Threshold PDF page 73 -->
+<!-- vision: Threshold PDF leaf 73 = doc p.67 | multipass Specific notions 4.4 cont.–4.7 -->
 
-to dance
-to play
-‘Who is «playing Hamlet?
-She -plays the gui,tar.
-to sing
-performance @
-ticket
-‘I'll «get the tickets.
-ticket office @
-booking office @
-afternoon performance @
-matinee @
-seat
-row®@
-We -have -seats in 'row five.
-front
-We have -seats in the front.
-centre
-back
-"Two -seats at the back, -please.
-entrance @
-exit@
-emergency exit @
-cloakroom @
-lavatory/toilet/w.c.
-programme
-‘Shall | -buy a programme?
-interval @
+to dance  
+to play  
+ˈWho is ·playing ˎHamlet?  
+She ·plays the guiˎtar.  
+to sing  
+performance ●  
+ticket  
+ˈI'll ·get the ˎtickets.  
+ticket office ●  
+booking office ●  
+afternoon performance ●  
+matinee ●  
+seat  
+row ●  
+We ·have ·seats in ˈrow ˎfive.  
+front  
+We have ·seats in the ˎfront.  
+centre  
+back  
+ˈTwo ·seats at the ˎback, ·please.  
+entrance ●  
+exit ●  
+emergency exit ●  
+cloakroom ●  
+lavatory/toilet/w.c.  
+programme  
+ˈShall I ·buy a ˎprogramme?  
+interval ●
 
-##### 4.5 exhibitions, museums, etc.
-
-museum
-gallery®
-art gallery @
-exhibition @
-art
-picture/painting
-sculpture @
-modern
-old
-antique @
-
-open
-‘Open on Sundays | 2~5 p.,m.
-opening-hours @
-closed
-to close
-The mu-seum ‘closes at six.
+**4.5 exhibitions, museums, etc.**  
+museum  
+gallery ●  
+art gallery ●  
+exhibition ●  
+art  
+picture/painting  
+sculpture ●  
+modern  
+old  
+antique ●  
+open  
+ˈOpen on ˎSundays | 2–5 p.ˎm.  
+opening-hours ●  
+closed  
+to close  
+The muˎseum ˈcloses at ˎsix.  
 closing time
 
-##### 4.6 intellectual and artistic
+**4.6 intellectual and artistic pursuits**  
+to read  
+to study  
+to learn  
+book  
+story  
+poem  
+*names of types of books*  
+e.g. biography, detective story, novel, short story, spy story, thriller  
+bookshop  
+library  
+to write  
+to make  
+He ˈmade a ·picture of a ˎbridge.  
+*names of art forms*  
+e.g. painting, photography, sculpture
 
-pursuits
-toread
-to study
-tolearn
-book
-story
-poem
-names of types of books
-e.g. biography, detective story,
-novel, short story, spy story,
-thriller
-bookshop
-library
-towrite
-to make
-He 'made a -picture of a bridge.
-names of art forms
-e.g. painting, photography,
-sculpture
-
-47 sports
-sports)
-names of sports and games
-e.g. baseball, chess, cricket,
-football, hockey, (horse) racing,
-riding, snooker, (lawn) tennis,
-rugby, skiing, swimming
-to play
-I've 'never ‘played ,hockey.
-(playing-) cards
-to watch
-Trace
+**4.7 sports**  
+sport(s)  
+*names of sports and games*  
+e.g. baseball, chess, cricket, football, hockey, (horse) racing, riding, snooker, (lawn) tennis, rugby, skiing, swimming  
+to play  
+I've ˈnever ˈplayed ˎhockey.  
+(playing-) cards  
+to watch  
+race  
 to race
+
 <!-- el:end id=prose_p073 -->

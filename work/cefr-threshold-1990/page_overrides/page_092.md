@@ -1,7 +1,7 @@
 <!-- el:start type=prose id=prose_p092 page=92 -->
-<!-- vision: Threshold PDF page 92 -->
+<!-- vision: Threshold PDF leaf 92 = doc p.86 | multipass purchase schema 3–5 -->
 
-### 3 Selecting goods/services
+#### 3 Selecting goods/services
 
 **3.1** identifying category of goods/services required
 
@@ -31,7 +31,7 @@
 
 **3.6** agreeing to purchase
 
-### 4 Exchanging goods for payment
+#### 4 Exchanging goods for payment
 
 **4.1** agreeing prices of items
 
@@ -47,7 +47,7 @@
 
 **4.5.2** customer thanks
 
-### 5 Leave taking
+#### 5 Leave taking
 
 **5.1** expressing (mutual) satisfaction
 

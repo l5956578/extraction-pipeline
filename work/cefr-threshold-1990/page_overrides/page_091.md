@@ -1,5 +1,5 @@
 <!-- el:start type=prose id=prose_p091 page=91 -->
-<!-- vision: Threshold PDF page 91 -->
+<!-- vision: Threshold PDF leaf 91 = doc p.85 | multipass schemata + purchase schema start -->
 
 - the schemata are largely shared by European societies. Where transactions and interactions are governed by different rules, effective communication and co-operation depend, of course, on mutual understanding between participants from different backgrounds (e.g. whether and how bargaining is conducted over prices, whether tipping is expected for small services, etc.);
 - the order in which the steps occur is not fixed;

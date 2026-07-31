@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p101 page=101 -->
-<!-- vision: Threshold PDF page 101 -->
+<!-- vision: Threshold PDF leaf 101 = document p.95 | multipass sociocultural -->
+<!-- el:start type=prose id=prose_p101 page=95 -->
 
 potential would involve choices of such an arbitrary nature that their validity would be unacceptably low. What the specifications in terms of awareness and familiarity are meant to ensure is that at *Threshold Level* the learners will have had certain experiences, that they have been confronted with certain features of the foreign culture and that they have been led to pay attention to them and to try and relate them to their own previous experiences.
 

@@ -1,87 +1,83 @@
 <!-- el:start type=prose id=prose_p078 page=78 -->
-<!-- vision: Threshold PDF page 78 -->
+<!-- vision: Threshold PDF leaf 78 = doc p.72 | multipass Specific notions 6.2 cont.–6.6 -->
 
-tojoine®
-‘Will you -join us for lunch?
-to expect @
-We'll 'expect you at six. r
-to visit
-to come and see ...@
-‘Why don't you -come and see
-us to-night?
-party
-We're ‘having a ‘party | to,night.
-to talk
-to dance
-present
-He -brought a ‘present for me.
+to join ●  
+ˈWill you ·join us for ˎlunch?  
+to expect ●  
+We'll ˈexpect you at ˎsix.  
+to visit  
+to come and see ... ●  
+ˈWhy don't you ·come and ˎsee us toˎnight?  
+party  
+We're ˈhaving a ˈparty | toˎnight.  
+to talk  
+to dance  
+present  
+He ·brought a ˈpresent for me.  
 guest
-##### 6.3 correspondence
 
-to correspond with ...@
-to write (to)
-pen friend ®
-letter
-envelope
-postcard
-note paper
-paper
-'Have you -got some ,paper for
-me?
-stamp
-airmail
-pen
-pencil
-ball point/ball pen/biro
-to send
-I'll 'send you a postcard.
-to receive/to get
-| gota letter from her.
-answer
+**6.3 correspondence**  
+to correspond with ... ●  
+to write (to)  
+pen friend ●  
+letter  
+envelope  
+postcard  
+note paper  
+paper  
+ˈHave you ·got some ˎpaper for me?  
+stamp  
+airmail  
+pen  
+pencil  
+ball point/ball pen/biro  
+to send  
+I'll ˈsend you a ˎpostcard.  
+to receive/to get  
+I ·got a ˎletter from her.  
+answer  
 to answer
-##### 6.4 club membership
 
-club
-member
+**6.4 club membership**  
+club  
+member  
+meeting  
+to meet  
+We ·meet ˈevery ˎWednesday.
 
-meeting
-to meet
-We -meet ‘every Wednesday.
-.5 government and politics
-to govern
-government
-parliament
-president
-king
-queen
-prince
-princess
-minister
-prime minister
-to elect ®
-election
-tovote
-politics
-political
-party
-‘Are you a -party , member?
-names of political parties
-e.g. communist, conservative,
-liberal, socialist
-right wing
-left wing
-leader
-He is the ‘leader of the
-con,servatives.
-state
-The «state -owns ‘many
-factories.
-EU/European Union
-NATO [neitau]
-##### 1.6 crime and justice
+**6.5 government and politics**  
+to govern  
+government  
+parliament  
+president  
+king  
+queen  
+prince  
+princess  
+minister  
+prime minister  
+to elect ●  
+election  
+to vote  
+politics  
+political  
+party  
+ˈAre you a ·party ˎmember?  
+*names of political parties*  
+e.g. communist, conservative, liberal, socialist  
+right wing  
+left wing  
+leader  
+He is the ˈleader of the conˎservatives.  
+state  
+The ·state ·owns ˈmany ˎfactories.  
+EU/European Union  
+NATO [ˈneɪtəʊ]
 
-crime
-criminal
-He is a criminal.
+**6.6 crime and justice**  
+crime  
+criminal  
+He is a ˎcriminal.  
 to steal
+
 <!-- el:end id=prose_p078 -->

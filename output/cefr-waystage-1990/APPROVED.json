@@ -1,7 +1,7 @@
 {
-  "approved_version": "004",
-  "approved_at": "2026-07-31T18:59:32.112103+00:00",
-  "path": "versions/004/Waystage_1990.md",
+  "approved_version": "005",
+  "approved_at": "2026-07-31T20:37:40.161864+00:00",
+  "path": "versions/005/Waystage_1990.md",
   "product": "cefr-waystage-1990",
-  "notes": "All pages via Vision page_overrides (585 pages across 3 books)"
+  "notes": "ELEMENT_CATALOG; doc page numbers; Table2 Mode+stitch; Table3 stitch; Fig2 PNG; intonation multipass"
 }

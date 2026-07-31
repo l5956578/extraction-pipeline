@@ -1,5 +1,5 @@
 <!-- el:start type=prose id=prose_p087 page=87 -->
-<!-- vision: Threshold PDF page 87 -->
+<!-- vision: Threshold PDF leaf 87 = doc p.81 | multipass Specific notions 14.1 end (complete short page) -->
 
 fog  
 foggy  
@@ -16,9 +16,9 @@ thunderstorm
 snowstorm  
 lightning  
 fine ●  
-It will be 'fine | toˌmorrow.  
+It will be ˈfine | toˎmorrow.  
 mild  
 shade  
-'Shall we ˌsit in the ˌshade?
+ˈShall we ·sit in the ˎshade?
 
 <!-- el:end id=prose_p087 -->

@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p102 page=102 -->
-<!-- vision: Threshold PDF page 102 -->
+<!-- vision: Threshold PDF leaf 102 = document p.96 | multipass sociocultural -->
+<!-- el:start type=prose id=prose_p102 page=96 -->
 
 #### 3 interpersonal relations
 
@@ -32,7 +32,7 @@ The learner is aware of the diversity of conventions in different countries with
 
 **b) visiting rituals**
 
-The learners know — or can enquire:
+The learners know – or can enquire:
 
 - whether they are expected to be punctual;
 - whether they are expected to bring a present, and if so what sort of present;

@@ -1,91 +1,114 @@
-<!-- el:start type=prose id=prose_p037 page=37 -->
-<!-- vision: Threshold PDF page 37 -->
+<!-- vision: Threshold PDF leaf 37 = document p.31 | multipass intonation -->
+<!-- el:start type=prose id=prose_p037 page=31 -->
+<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
-**2.6.2.3** + *wh* clause  
-'Have you ˌheard what ˌhappened toˌday?
+**2.6.2.3** + *wh* clause
+
+> ˈHave you ·heard what ·happened toˎday?
 
 **2.6.3** You know
 
-**2.6.3.1** + complement clause, + don't you?  
-You 'know it's ˌsix o'ˈclock, 'don't you?
+**2.6.3.1** + complement clause, + don't you?
 
-**2.6.3.2** + NP, + don't you?  
-You ˌknow ˌMrs ˌJames, | ˌdon't you?
+> You ˈknow it's ·six o'ˋclock, | ˈdon't you?
 
-**2.6.3.4** + *wh* clause, + don't you?  
-You ˌknow where he ˌlives, | ˌdon't you?
+**2.6.3.2** + NP, + don't you?
 
-##### 2.7 stating whether one remembers or has forgotten a person, thing or fact or action
+> You ˎknow ·Mrs ˎJames, | ˎdon't you?
+
+**2.6.3.4** + *wh* clause, + don't you?
+
+> You ˎknow where he ˎlives, | ˎdon't you?
+
+#### 2.7 stating whether one remembers or has forgotten a person, thing or fact or action
 
 **2.7.1** I (don't/can't) remember
 
-**2.7.1.1** + VP gerund  
-I 'don't remember ˌsaying ˈthat.
+**2.7.1.1** + VP gerund
 
-**2.7.1.2** + *wh* clause  
-I 'can't reˌmember ˌwhere I ˌput my ˌhandbag.
+> I ˈdon't remember ·saying ˋthat.
 
-**2.7.1.3** + complement clause  
-I re'member that he ˌgave it ˌback.
+**2.7.1.2** + *wh* clause
 
-**2.7.1.4** + NP  
-I re'member our ˌholiday in ˌSpain.
+> I ˈcan't re·member ·where I ·put my ˎhandbag.
 
-**2.7.2** I forˌget.
+**2.7.1.3** + complement clause
+
+> I reˈmember that he ·gave it ˎback.
+
+**2.7.1.4** + NP
+
+> I reˈmember our ·holiday in ˎSpain.
+
+**2.7.2** I forˎget.
 
 **2.7.3** I have(n't) forgotten
 
-**2.7.3.1** + to + VPinf  
-I've for'gotten to ˌlock the ˌdoor.
+**2.7.3.1** + to + VPinf
 
-**2.7.3.2** + NP  
-I 'haven't forˌgotten your ˌbirthday.  
-I have for'gotten my ˌpassport.
+> I've forˈgotten to ·lock the ˎdoor.
 
-**2.7.3.3** + VP gerund  
-'I have 'not forˌgotten ˌclimbing ˌMont ˌBlanc.
+**2.7.3.2** + NP
 
-**2.7.3.4** + *wh* clause  
-I've for'gotten where it ˈis.
+> I ˈhaven't for·gotten your ˎbirthday.  
+> I have forˈgotten my ˎpassport.
 
-##### 2.8 enquiring whether someone remembers or has forgotten a person, thing, fact or action
+**2.7.3.3** + VP gerund
+
+> ˈI have ˈnot for·gotten ·climbing ·Mont ˎBlanc.
+
+**2.7.3.4** + *wh* clause
+
+> I've forˈgotten where it ˈis.
+
+#### 2.8 enquiring whether someone remembers or has forgotten a person, thing, fact or action
 
 **2.8.1** Do(n't) you remember?
 
 **2.8.2** Do(n't) you remember
 
-**2.8.2.1** + VP gerund  
-'Don't you reˌmember coming ˌhome ˌlast ˌnight?
+**2.8.2.1** + VP gerund
 
-**2.8.2.2** + *wh* clause  
-'Do you reˌmember where you ˌleft it?
+> ˈDon't you re·member coming ˎhome ·last ·night?
 
-**2.8.2.3** + complement clause  
-'Don't you reˌmember that ˌJames was ˌthere, | ˌtoo?
+**2.8.2.2** + *wh* clause
 
-**2.8.2.4** + NP  
-'Do you reˌmember Caˌpri?
+> ˈDo you re·member where you ˎleft it?
+
+**2.8.2.3** + complement clause
+
+> ˈDon't you re·member that ˎJames was ·there, | ˎtoo?
+
+**2.8.2.4** + NP
+
+> ˈDo you re·member Caˎpri?
 
 **2.8.3** Have you remembered
 
-**2.8.3.1** + to + VPinf  
-'Have you reˌmembered to ˌfeed the ˌcat?
+**2.8.3.1** + to + VPinf
 
-**2.8.3.2** + NP  
-'Have you reˌmembered her ˌbirthday?
+> ˈHave you re·membered to ·feed the ˎcat?
 
-##### 2.9 expressing degrees of probability
+**2.8.3.2** + NP
 
-**2.9.1** (certain'ly)  
-He will 'certainly be ˌthere.
+> ˈHave you re·membered her ˎbirthday?
 
-**2.9.2** probably  
-'They will 'probably ˌlose, |
+#### 2.9 expressing degrees of probability
 
-**2.9.3** possibly  
-but they may ˈpossibly 'win.
+**2.9.1** (certainˈly)
 
-**2.9.4** (not) (very) likely  
-It's 'not very ˈlikely, … |
+> He will ˈcertainly be ˎthere.
+
+**2.9.2** probably
+
+> ˈThey will ˈprobably ˎlose, |
+
+**2.9.3** possibly
+
+> but they may ˋpossibly ˈwin.
+
+**2.9.4** (not) (very) likely
+
+> It's ˈnot very ˋlikely, … |
 
 <!-- el:end id=prose_p037 -->

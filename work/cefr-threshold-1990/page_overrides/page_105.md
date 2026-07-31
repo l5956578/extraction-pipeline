@@ -1,60 +1,69 @@
-<!-- el:start type=prose id=prose_p105 page=105 -->
-<!-- vision: Threshold PDF page 105 -->
+<!-- vision: Threshold PDF leaf 105 = document p.99 | multipass ≥3 politeness maxims + intonation -->
+<!-- el:start type=prose id=prose_p105 page=99 -->
+<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
-WW SOCIOCULTURAL COMPETENCE 99 declining offers and invitations, saying that the partner is obliged to do something, prohibiting and withholding permission, expressing displeasure, dislike, dissatisfaction, disappointment and disapproval. The maxim implies such strategies as:
+declining offers and invitations, saying that the partner is obliged to do something, prohibiting and withholding permission, expressing displeasure, dislike, dissatisfaction, disappointment and disapproval. The maxim implies such strategies as:
 
-**a) expressing reluctance;**
+**a)** expressing reluctance;
 
-| don’t -want to complain | but, ... (e.g. this -soup is ‘cold).
+> I ˈdon’t ·want to comˈplain | but, …  
+> (e.g. this ·soup is ˋcold).
 
-| ‘don’t -want to be “difficult | but... (e.g. this ma-chine doesn't
+> I ˈdon’t ·want to be ˋdifficult | but …  
+> (e.g. this ma·chine doesn’t ˋwork).
 
-‘work).
+> I ˈdon’t ·like ˋsaying so, | but …  
+> (e.g. the ·music is ˈtoo ˎloud).
 
-| ‘don’t -like “saying so, | but... (e.g. the -music is 'too loud).
+**b)** seeking the partner’s agreement;
 
-**b) seeking the partner's agreement;**
+> I ˈhope you ·don’t ·mind me ˋsaying so, | but …  
+> (e.g. ˈthose ˈcolours ·don’t ˎmix).
 
-### I thope you -don’t -mind me “saying (e.g. ‘those ‘colours «don’t
+> ˈDon’t you aˎgree | that …  
+> (e.g. ˈthat ·colour is ·rather too ˎbright).
 
-so, | but... mix).
+**c)** apologising or expressing regret;
 
-‘Don't you agree | that ... (e.g. ‘that -colour is -rather too ibright).
+> I’m ˋsorry, | but …  
+> (e.g. your ˈwork is ·not ˎgood e·nough).
 
-¢) apologising or expressing regret;
-
-I'm ‘sorry, | but ... (e.g. your 'work is -not good e-nough).
-
-I'm a-fraid ... (e.g. you 'haven’t -passed your exam).
+> I’m a·fraid …  
+> (e.g. you ˈhaven’t ·passed your eˎxam).
 
 This is especially frequent in prohibitions and withholding permission.
 
-I'm ‘sorry, | but you 'can’t -leave to’morrow.
+> I’m ˋsorry, | but you ˈcan’t ·leave toˈmorrow.  
+> I’m a·fraid you ˈcan’t ·smoke in ˋhere.
 
-I'm a-fraid you 'can’t -smoke in “here.
+**d)** using euphemisms;
 
-**d) using euphemisms;**
+> e.g. Your ·work ˈisn’t ·very ˇgood …  
+> (= your work is bad).
 
-e.g. Your -work ‘isn’t -very “good ... (= your work is bad).
+> I ˈcan’t ·say I ˇlike it …  
+> (= I dislike it).
 
-| 'can’t -say | “like it ... (= I dislike it).
+**e)** implying something unpleasant rather than stating it openly.
 
-e) implying something unpleasant rather than stating it openly.
-e.g. I'd “like to -help you ... (implying but | can’t).
+> e.g. I’d ˇlike to ·help you …  
+> (implying but I can’t).
 
-Your i-deas are * interesting ... (implying but | don’t agree with them).
+> Your i·deas are ˇinteresting …  
+> (implying but I don’t agree with them).
 
-Note the frequent use of falling-rising intonations.
+Note the frequent use of falling–rising intonations.
 
-Expressing disagreement is likely to cause offence and to lead to conflict.
+Expressing *disagreement* is likely to cause offence and to lead to conflict. The risk can be reduced by:
 
-The risk can be reduced by:
+- apologising for not agreeing;  
+  e.g. I’m ˋsorry, | but I ˈdon’t aˎgree.
 
-© apologising for not agreeing; e.g. I'm “sorry, | but | ‘don't agree.
+- expressing regret for not agreeing.  
+  e.g. I’m a·fraid that ˈisn’t ˎtrue.
 
-- expressing regret for not agreeing.
-e.g. I'm a-fraid that ‘isn’t true.
+### 3 Do not force the partner to act.
 
-Do not force the partner to act. Allow him/her to appear to act voluntarily. This maxim applies to the functions of suasion, seeking factual information and finding out attitudes. It implies:
+Allow him/her to appear to act voluntarily. This maxim applies to the functions of suasion, seeking factual information and finding out attitudes. It implies:
 
 <!-- el:end id=prose_p105 -->

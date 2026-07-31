@@ -1,5 +1,5 @@
 <!-- el:start type=prose id=prose_p094 page=94 -->
-<!-- vision: Threshold PDF page 94 -->
+<!-- vision: Threshold PDF leaf 94 = doc p.88 | multipass Dealing with texts chapter start -->
 
 ## 9 Dealing with texts: reading and listening
 
