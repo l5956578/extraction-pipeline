@@ -1,5 +1,6 @@
 <!-- el:start type=prose id=prose_p089 page=89 -->
-<!-- vision: Threshold PDF leaf 89 = doc p.83 | multipass dialogue table continuation + dialogue types list -->
+<!-- vision: leaf 89 doc p.83 | word-catalog multipass ch7-8 -->
+<!-- cat: | | Sales person | : ·That'll be ˈ£2.ˎ30 | asking for payment | -->
 
 | | | | |
 | --- | --- | --- | --- |
@@ -39,5 +40,10 @@ A number of dialogue types (which may, in fact, involve more than two participan
     agreeing/disagreeing, exchanging views, etc.
 
 However predictable the occurrence of certain verbal exchange patterns in the above dialogue types may be, there is always a strong element of unpredictability as well. When the more or less standardised patterns are broken, or even set aside completely, conversation does not lend itself to a didactically meaningful
+
+
+
+
+
 
 <!-- el:end id=prose_p089 -->

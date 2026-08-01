@@ -15,17 +15,17 @@ where (?)
 
 ‘Where is my pen?
 
-'This | is -where it is. r
+ˈThis | is -where it is. r
 
 how (?) t
 
 ‘How do you know?
 
-| know | -how to ,do it.
+| know | -how to ˎdo it.
 
 why (?) (
 
-'Why did he go?
+ˈWhy did he go?
 
 | know | -why he went. (
 

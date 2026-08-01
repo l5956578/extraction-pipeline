@@ -4,8 +4,8 @@ Title: Relaying specific information
 Role: end
 Rotation: 90
 Slug: page_095_scale_relaying_cfiiceps_information
-PNG: work/metadata/rotated_for_grok/page_095_scale_relaying_cfiiceps_information.png
-Write markdown: work/metadata/rotated_from_grok/page_095_scale_relaying_cfiiceps_information.md
+PNG: work/cefr-companion-2020/metadata/rotated_for_grok/page_095_scale_relaying_cfiiceps_information.png
+Write markdown: work/cefr-companion-2020/metadata/rotated_from_grok/page_095_scale_relaying_cfiiceps_information.md
 
 AUTHORITY: coding agent vision only (no chat/web Grok step).
 Schema: | Level | Receptive | Productive |  multi-row: blank Level.

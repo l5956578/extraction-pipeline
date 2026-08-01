@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p059 page=59 -->
-<!-- vision: Waystage PDF page 59 -->
+<!-- vision: Waystage leaf 59 doc p.53 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p059 page=53 -->
 
 - the schemata are largely shared by European societies. Where transactions and interactions are governed by different rules, effective communication and co-operation depend, of course, on mutual understanding between participants from different backgrounds (e.g. whether and how bargaining is conducted over prices, whether tipping is expected for small services, etc.);
 - the order in which the steps occur is not altogether fixed;

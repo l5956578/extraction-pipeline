@@ -1,5 +1,5 @@
+<!-- vision: leaf 59 doc p.53 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p059 page=59 -->
-<!-- vision: Threshold PDF leaf 59 = doc p.53 | multipass two-column general notions -->
 
 a bottle/box/cup/glass, packet/piece, etc. of ...  
 See further General Notions 2.8.
@@ -7,7 +7,7 @@ See further General Notions 2.8.
 **4.3** *degree*  
 comparative and superlative degrees of adjectives and adverbs  
 **enough** (as in: ˈgood eˎnough), too ..., very ...  
-a bit (as in: a ˈbit ˎbetter; a ˈbit ˎtired) ●, a little (as in: a ˈlittle ˎbetter; a ˎlittle ˎtired), a lot (as in: a ˈlot ˎbetter) ●, much (as in: ˈmuch ˎbetter), almost, hardly ●, quite (as in: ˈquite ˎold), rather (as in: ˈrather ˎold), so (as in: I'm ˈso ˎsorry!), such ● (as in: It was ˈsuch ˈfun! He is ˈsuch a ˈnice ·boy!) even (as in: I've ˈeven ·paid ˈ£5.)
+a bit (as in: a ˈbit ˎbetter; a ˈbit ˎtired) ●, a little (as in: a ˈlittle ˎbetter; a ·little ˎtired), a lot (as in: a ˈlot ˎbetter) ●, much (as in: ˈmuch ˎbetter), almost, hardly ●, quite (as in: ˈquite ˎold), rather (as in: ˈrather ˎold), so (as in: I'm ˈso ˎsorry!), such ● (as in: It was ˈsuch ˋfun! He is ˈsuch a ˋnice ·boy!) even (as in: I've ˈeven ·paid ˋ£5.)
 
 #### 5 Qualitative
 
@@ -26,7 +26,7 @@ to dry, to (make) wet
 **5.1.4** *visibility, sight*  
 NP + can(not) see + NP  
 NP + can(not) be seen ●  
-to look (as in: ˈDon't ·look ˈnow!), to look at, to watch  
+to look (as in: ˈDon't ·look ˇnow!), to look at, to watch  
 adjectives: **dark**, **light**, (in)visible
 
 **5.1.5** *audibility, hearing*  

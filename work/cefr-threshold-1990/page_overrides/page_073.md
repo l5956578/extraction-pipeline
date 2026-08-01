@@ -1,5 +1,16 @@
 <!-- el:start type=prose id=prose_p073 page=73 -->
-<!-- vision: Threshold PDF leaf 73 = doc p.67 | multipass Specific notions 4.4 cont.–4.7 -->
+<!-- vision: leaf 73 doc p.67 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWho is ·playing ˎHamlet? -->
+<!-- cat: She ·plays the guiˎtar. -->
+<!-- cat: ˈI'll ·get the ˎtickets. -->
+<!-- cat: We ·have ·seats in ˈrow ˎfive. -->
+<!-- cat: We have ·seats in the ˎfront. -->
+<!-- cat: ˈTwo ·seats at the ˎback, ·please. -->
+<!-- cat: ˈShall I ·buy a ˎprogramme? -->
+<!-- cat: ˈOpen on ˎSundays | 2–5 p.ˎm. -->
+<!-- cat: The muˎseum ˈcloses at ˎsix. -->
+<!-- cat: He ˈmade a ·picture of a ˎbridge. -->
+<!-- cat: I've ˈnever ˈplayed ˎhockey. -->
 
 to dance  
 to play  
@@ -76,5 +87,7 @@ I've ˈnever ˈplayed ˎhockey.
 to watch  
 race  
 to race
+
+
 
 <!-- el:end id=prose_p073 -->

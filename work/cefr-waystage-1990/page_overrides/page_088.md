@@ -3,39 +3,39 @@
 
 **7.1.5.5.1** verb stem+d
 
-> He ar,rived.
+> He arˎrived.
 
 **7.1.5.5.2** verb stem+ed
 
-> I ,asked.
+> | ˎasked.
 
 **7.1.5.5.3** verb stem (replacing -y by -i) +ed
 
-> She ,tried.
+> She ˎtried.
 
 **7.1.5.6** simple past, negative (all persons)
 
 **7.1.5.6.1** did not/didn’t + infinitive
 
-> They 'didn’t ,mind.
+> They ˈdidn't ˎmind.
 
 **7.1.5.7** simple past, interrogative (affirmative, all persons)
 
 **7.1.5.7.1** did + NP + infinitive?
 
-> 'Did you ,like it?
+> ˈDid you ˎlike it?
 
 **7.1.5.8** simple past, interrogative (negative, all persons)
 
 **7.1.5.8.1** didn’t + NP + infinitive?
 
-> 'Didn’t they ,play?
+> ˈDidn't they ˎplay?
 
 **7.1.5.9** infinitive and imperative
 
 **7.1.5.9.1** verb stem
 
-> 'Listen!
+> ˈListen!
 
 **7.1.5.10** present participle and gerund
 

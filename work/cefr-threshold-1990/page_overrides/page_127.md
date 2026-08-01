@@ -1,5 +1,6 @@
-<!-- el:start type=prose id=prose_p127 page=127 -->
-<!-- vision: Threshold PDF page 127 -->
+<!-- vision: leaf 127 doc p.121 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p127 page=121 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 **d) in imperative sentences** for gentle commands, especially to children, hospital patients, etc.
 
@@ -31,7 +32,7 @@ ii) to repeat a question (with change of 1st and 2nd person) before answering.
 
 i) to repeat a question (with change of 1st and 2nd person) before answering;
 
-> (ˈWhere do you live?) ·Where do I ˊlive?
+> (ˈWhere do you ˎlive?) ·Where do I ˊlive?
 
 ii) (with the *wh* word as nucleus) to ask for repetition of information given but not heard (or understood).
 
@@ -39,7 +40,7 @@ ii) (with the *wh* word as nucleus) to ask for repetition of information given b
 
 **d) in imperative sentences** to repeat an order, instruction or offer while deciding whether or how to comply
 
-> (ˈSit down, ·please.) ·Sit ˊdown? | ˈWhy ˏnot?
+> (ˈSit ˎdown, ·please.) ·Sit ˊdown? | ˈWhy ˏnot?
 
 #### 5 Falling-rising **ˇ** is used
 
@@ -55,7 +56,7 @@ ii) corrections;
 
 iii) demurral and limited agreement (with implied disagreement on the major issue);
 
-> I ˈdon't ·know if I a·gree with ˇthat.
-> ˈYes, | he ˈis an ˇactive ·person.
+> I ˈdon't ·know if I a·gree with ˇthat.  
+> ˇYes, | he ˈis an ˇactive ·person.
 
 <!-- el:end id=prose_p127 -->

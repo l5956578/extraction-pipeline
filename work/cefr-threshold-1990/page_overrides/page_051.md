@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 51 = document p.45 | multipass intonation -->
+<!-- vision: leaf 51 doc p.45 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p051 page=45 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -70,11 +70,11 @@ See Language Functions 5.13.
 
 #### 6.1 signalling non-understanding
 
-**6.1.1** ˋSorry, I ˈdon't underˎstand.
+**6.1.1** ˇSorry, I ˈdon't underˎstand.
 
 #### 6.2 asking for repetition of sentence
 
-**6.2.1** (I ˈbeg your) ˈpardon?
+**6.2.1** (I ˈbeg your) ˋpardon?
 
 **6.2.2** ˈWhat did you ·say ·please?
 
@@ -86,17 +86,17 @@ See Language Functions 5.13.
 
 **6.3.1** (sorry +) *wh* question
 
-> ˋSorry, ˈwhere does she ·live?
+> ˇSorry, ˈwhere does she ·live?
 
 **6.3.2** (sorry +) *wh* did you say + interrogative clause
 
-> ˋSorry, ˈwhat did you ·say his ·name was?
+> ˇSorry, ˈwhat did you ·say his ·name was?
 
 #### 6.4 asking for confirmation of text
 
 **6.4.1** Did you say: X?
 
-> ˈDid you say ˎanchovies?
+> ˈDid you say (anchovies?
 
 #### 6.5 asking for confirmation or understanding
 

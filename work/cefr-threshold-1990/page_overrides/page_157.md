@@ -1,27 +1,27 @@
 <!-- el:start type=prose id=prose_p157 page=157 -->
 <!-- vision: Threshold PDF page 157 -->
 
-There will be a 'short de, lay | while we 'check the ,plane.
+There will be a ˈshort de, lay | while we ˈcheck the ˎplane.
 
 | eat brown -bread | be-cause it is good for me.
 
 ‘As he was , tired, | he ‘lost the
 
-‘Since you are sorry, | I'll for,give you.
+ˈSince you are sorry, | I'll forˎgive you.
 
-He 'turned ,right, | so he ‘lost hi way.
+He ˈturned ˎright, | so he ˈlost hi way.
 
-The -suitcase was 'so ,heavy |
+The -suitcase was ˈso ˎheavy |
 
-"If you like, | you can «come | too.
+ˇIf you like, | you can «come | too.
 
 ###### 2.3.3.7 comparison (6.7.4.2) than
 
-The -tea is ‘stronger than | had ex,pected. as..as@
+The -tea is ˈstronger than | had exˎpected. as..as@
 
 He -works as ‘hard as he can. not so ..as@
 
-He is 'not so in,telligent | as he thinks he -is.
+He is ˈnot so inˎtelligent | as he thinks he -is.
 
 D_ Sentence level
 
@@ -43,7 +43,7 @@ consisting of a main clause + one or more subordinate clauses (cf. C 1.2 above)
 
 #### 2.1 Declarative
 
-The 'tourists -ate their sandwiches.
+The ˈtourists -ate their sandwiches.
 
 NP + do + VP infinitive
 
@@ -61,12 +61,12 @@ infinitive
 
 It ‘doesn’t -rain in the Sa-hara
 
-He 'can't speak “French.
+He ˈcan't speak ˇFrench.
 
 pronouns, adverbs, etc. (6.8.2)
 
 ‘Nobody likes me.
 
-‘Old soldiers | 'never die.
+ˈOld soldiers | ˈnever die.
 
 <!-- el:end id=prose_p157 -->

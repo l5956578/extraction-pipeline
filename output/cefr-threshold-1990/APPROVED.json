@@ -1,7 +1,7 @@
 {
-  "approved_version": "005",
-  "approved_at": "2026-07-31T20:37:40.161864+00:00",
-  "path": "versions/005/Threshold_1990.md",
+  "approved_version": "006",
+  "approved_at": "2026-07-31T21:39:20.158592+00:00",
+  "path": "versions/006/Threshold_1990.md",
   "product": "cefr-threshold-1990",
-  "notes": "ELEMENT_CATALOG; doc page numbers; Table2 Mode+stitch; Table3 stitch; Fig2 PNG; intonation multipass"
+  "notes": "Full-chapter intonation multipass complete: THR Ch5-8+socio+AppA; WAY Ch3-5+9-10+AppA; gold locked; doc pages"
 }

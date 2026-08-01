@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p063 page=63 -->
-<!-- vision: Waystage PDF page 63 -->
+<!-- vision: Waystage leaf 63 doc p.57 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p063 page=57 -->
 
 Like other aspects of communicative ability at *Waystage*, this may be described and listed in terms of what the learner can do, and supplemented with recommended exponents where this is appropriate. Because some items will involve the fulfilling of particular language functions and the handling of particular notions, a partial overlap with other lists in the present objective is inevitable. A similar overlap will occur between the present list and that of the chapter on 'dealing with texts' (Chapter 6).
 

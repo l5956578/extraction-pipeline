@@ -1,13 +1,13 @@
 <!-- el:start type=prose id=prose_p161 page=161 -->
 <!-- vision: Threshold PDF page 161 -->
 
-'Do you re-member the ,war?
+ˈDo you re-member the ˎwar?
 
 ‘Are you -likely to -vote Labour?
 
-‘Must you -leave al,ready?
+ˈMust you -leave alˎready?
 
-‘Are you -sure it has -stopped sFaining? 'Do you -really think so?
+ˈAre you -sure it has -stopped sFaining? ˈDo you -really think so?
 
 ‘Are you -able to see?
 
@@ -15,17 +15,17 @@
 
 3.4.3. enquiring about:
 
-"Would you -like to dance?
+ˇWould you -like to dance?
 
 ‘Are you -thinking of -getting sup?
 
 ‘Do you pre-fer -orange--juice to jbeer?
 
-‘Do you -like my -new ,hat?
+ˈDo you -like my -new ˎhat?
 
-‘Could you -open the ,window,
+ˈCould you -open the ˎwindow,
 
-'Can you ,help me, -please?
+ˈCan you ˎhelp me, -please?
 
 ‘Can | help you?
 
@@ -37,13 +37,13 @@ information (5.1.3)
 
 3.5.2. asking about wants and desires (5.2.24)
 
-"Where would you -like to go?
+ˇWhere would you -like to go?
 
 3.5.3. asking for preferences (5.2.8)
 
 ‘Which do you prefer, | ‘coffee or tea?
 
-"How are you feeling?
+ˇHow are you feeling?
 
 ‘How do you -find our food?
 
@@ -51,21 +51,21 @@ information (5.1.3)
 
 #### 3.6 Imperative sentences
 
-"Tell me what happened.
+ˇTell me what happened.
 
 ‘Don’t be a,fraid.
 
-‘Please for,give me | for hurting you.
+ˈPlease forˎgive me | for hurting you.
 
 ‘Let's go -out for a meal.
 
-‘Please -make -less ,noise!
+ˈPlease -make -less ˎnoise!
 
 ‘Don’t for-get your “passport!
 
 ‘Let me help you.
 
-‘Go ,on, ‘ring him up!
+ˈGo ˎon, ˈring him up!
 
 directions (5.3.7)
 

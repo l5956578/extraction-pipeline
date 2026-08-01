@@ -11,6 +11,6 @@ Many more of the potential benefits of foreign language learning are listed in V
 
 Some of the improvements have been designed to make the specification more accessible. They include a redesigned grammatical inventory and the provision of a subject index. Other changes are of a more fundamental nature, such as the more liberal inclusion of items for 'understanding' only, the explicit treatment of selected intonation patterns, the addition of two new categories of language functions – 'structuring discourse' and 'communication repair', and the introduction of several open-ended items in the list of specific notions.
 
-Such changes and additions as distinguish *Waystage 1990* from its predecessor result from experiences gained in various applications of the original version and of the earlier *Threshold Level* as well as from the further development of insights into the nature of communicative ability and implications of all this for educational practice. Much of this we owe to the rich literature bearing on 'communicative language
+Such changes and additions as distinguish *Waystage 1990* from its predecessor result from experiences gained in various applications of the original version and of the earlier *Threshold Level* as well as from the further development of insights into the nature of communicative ability and implications of all this for educational practice. Much of this we owe to the rich literature bearing on ˈcommunicative language
 
 <!-- el:end id=prose_p013 -->

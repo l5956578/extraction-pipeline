@@ -1,5 +1,5 @@
+<!-- vision: leaf 57 doc p.51 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p057 page=57 -->
-<!-- vision: Threshold PDF leaf 57 = doc p.51 | multipass two-column general notions -->
 
 **3.5** *earliness*  
 **early** (as in: You are ˈearly; There's an ˈearly ·train on ˎMondays.)
@@ -22,7 +22,7 @@ afterwards, later (on)
 later than ...
 
 **3.9** *sequence*  
-**first** (as in: ˈFirst we ·went to Maˎdrid.), **then** (as in: ˈFirst we ·went to Maˎdrid, | ˈthen we ·travelled to Gibˎraltar.), **next** ● (as in: ˈWhat did you ·do ˎnext?), **finally** (as in: ˈFinally | we ·went ˎback.), later on ●, in the end ●, afterwards
+**first** (as in: ˈFirst we ·went to Maˎdrid.), **then** (as in: ˈFirst we ·went to Maˎdrid, | ˈthen we ·travelled to Gibˎraltar.), **next** ● (as in: ˈWhat did you ·do ˎnext?), **finally** (as in: ˇFinally | we ·went ˎback.), later on ●, in the end ●, afterwards
 
 **3.10** *simultaneousness*  
 when + sub-clause ●, while + sub-clause ●, as soon as + sub-clause ●  

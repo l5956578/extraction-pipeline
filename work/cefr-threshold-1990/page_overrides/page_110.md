@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 110 = document p.104 | multipass compensation strategies I–II -->
+<!-- vision: leaf 110 doc p.104 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p110 page=104 -->
 
 Like other aspects of communicative ability at *Threshold Level*, this may be described and listed in terms of what the learner can do, and supplemented with recommended exponents where this is appropriate. Because some items will require the fulfilling of particular language functions and the handling of particular notions, a partial overlap with other lists in the present objective is inevitable. A similar overlap will occur between the present list and that of the chapter on ‘dealing with texts’ (Chapter 9).

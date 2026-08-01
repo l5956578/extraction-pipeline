@@ -3,57 +3,57 @@
 
 **7.2.2.11** shopping (5.8)
 
-> I have ·bought a 'new ,raincoat.
+> | have ·bought a ˈnew ˎraincoat.
 
 **7.2.2.12** food and drink (5.9)
 
-> I 'don’t ,eat | ,fish.
+> | ˈdon't ˎeat | ˎfish.
 
 **7.2.2.13** services (5.10)
 
-> 'Can you ·check the ,oil, ·please?
+> ˈCan you ·check the ˎoil, ·please?
 
 **7.2.2.14** language (5.12)
 
-> 'Do you ·speak ,English?
+> ˈDo you ·speak ˎEnglish?
 
 **7.2.3** complementising verbs (for syntax see below) denoting
 
 **7.2.3.1** reporting (3.1.2)
 
-> He ·says he is ,hungry.
+> He ·says he is ˎhungry.
 
 **7.2.3.2** agreement (3.2.3)
 
-> I 'don’t ·think he is ʸFrench.
+> | ˈdon't ·think he is ʸFrench.
 
 **7.2.3.3** knowledge (3.2.5, 3.2.6, 4.6.1), certainty (3.2.9, 3.2.10)
 
-> I 'know he ·likes ,cheese.
+> | ˈknow he ·likes ˎcheese.
 
 **7.2.3.4** hope (3.2.24)
 
-> I 'hope she will ·come ʸsoon.
+> | ˈhope she will ·come ʸsoon.
 
 **7.2.3.5** regret (3.2.34)
 
-> I am ,sorry | if you ,lost.
+> | am ˎsorry | if you ˎlost.
 
 **7.2.3.6** indifference (3.2.35)
 
-> I 'don’t ,mind if it ·rains.
+> | ˈdon't ˎmind if it ·rains.
 
 **7.2.3.7** want, desire (3.2.16, 3.2.17, 3.2.23)
 
-> 'Do you ·want to ·go ,home?
+> ˈDo you ·want to ·go ˎhome?
 
 **7.2.3.8** requests (3.3.2)
 
-> 'Do you ·mind ·closing the ,door?
+> ˈDo you ·mind ·closing the ˎdoor?
 
 **7.2.3.9** expressions (4.6.2)
 
-> 'Tell him to ·come down,stairs.
+> ˈTell him to ·come downˎstairs.
 
 #### 7.3 Usage of verbs
 
@@ -61,51 +61,51 @@
 
 **7.3.1.1** identifying (3.1.1)
 
-> 'This is my ,bicycle.
+> ˈThis is my ˎbicycle.
 
 **7.3.1.2** describing (3.1.2)
 
-> My ·flat is 'very ,small.
+> My ·flat is ˈvery ˎsmall.
 
 **7.3.1.3** correcting (3.1.3)
 
-> ,No, | she 'isn’t ,French, | she is I,talian.
+> ˎNo, | she ˈisn't ˎFrench, | she is Iˎtalian.
 
 **7.3.1.4** asking for confirmation (3.1.4a)
 
-> 'Are you ,ready?
+> ˈAre you ˎready?
 
 **7.3.1.5** answering for confirmation (3.1.5a)
 
-> ,Yes, | I ,am.
+> ˎYes, | | ˎam.
 
 **7.3.1.6** location (4.2.1)
 
-> I have 'never 'been | to ,China.
+> | have ˈnever ˈbeen | to ˎChina.
 
 **7.3.1.7** with predicative adjectives
 
-> I am ,certain.  
-> This is 'nice.
+> | am ˎcertain. 
+> This is ˈnice.
 
 **7.3.1.8** intention and future reference  
 *be* + going to + VP infinitive (4.3.11)
 
-> It is ·going to 'snow.
+> It is ·going to ˈsnow.
 
 **7.3.1.9** present continuous  
 *be* + present participle (4.3.12)
 
-> They are ·having ,dinner.
+> They are ·having ˎdinner.
 
 **7.3.1.10** past continuous  
 past of *be* + present participle (4.3.13)
 
-> He was ·playing ,chess.
+> He was ·playing ˎchess.
 
 **7.3.1.11** age (4.5.1.9)
 
-> He is 'twenty,-one.
+> He is ˈtwenty,-one.
 
 **7.3.1.12** price (4.5.2.1)
 
@@ -114,22 +114,22 @@ past of *be* + present participle (4.3.13)
 **7.3.1.13** passive voice (4.7.3.2) ®  
 *be* + past participle
 
-> His ,glasses have been ·broken. ®
+> His ˎglasses have been ·broken. ®
 
 **7.3.1.14** origin (5.1.9)
 
-> He is from ,Germany.
+> He is from ˎGermany.
 
 **7.3.1.15** occupation (5.1.10)
 
-> He is a ,teacher.
+> He is a ˎteacher.
 
 **7.3.1.16** religion (5.1.13)
 
-> They are ,Anglican.
+> They are ˎAnglican.
 
 **7.3.1.17** health (5.7.4)
 
-> His ·mother is 'very ,ill.
+> His ·mother is ˈvery ˎill.
 
 <!-- el:end id=prose_p090 -->

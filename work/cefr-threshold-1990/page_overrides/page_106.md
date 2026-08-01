@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 106 = document p.100 | multipass politeness maxims + intonation -->
+<!-- vision: leaf 106 doc p.100 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p106 page=100 -->
 <!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
@@ -28,18 +28,18 @@
 
 **iii)** use warnings or advice
 
-> e.g. ˈDon’t for·get to ·post the ˋletter.  
-> If ˈI were ·you, | I’d ˈkeep your ˈeyes on the ˈroad.
+> e.g. ˈDon't for·get to ·post the ˋletter.  
+> If ˋI were ·you, | I'd ˈkeep your ˈeyes on the ˋroad.
 
 **iv)** draw attention to the situation, inviting the partner to recognise that there is a problem that needs to be dealt with.
 
-> e.g. It’s ˈcold in ·here, | ˋisn’t it?  (= please close the window).  
-> I ˈcan’t ·open this ˎtin.  (= please open it for me).  
-> ˈDinner’s ˎready.  (= come and sit down to eat it).
+> e.g. It's ˈcold in ·here, | ˋisn't it?  (= please close the window).  
+> I ˈcan't ·open this ˎtin.  (= please open it for me).  
+> ˈDinner's ˎready.  (= come and sit down to eat it).
 
 Asking is a form of suasion, since the partner is asked to do something for you, namely provide information. *Wh* questions are normally accompanied by ‘please’. After the partner has replied it is normal to thank him/her for doing so.
 
-> ˈWhat’s the ˎtime, ·please?  
+> ˈWhat's the ˎtime, ·please?  
 > ˈTwelve oˎclock.  
 > ˎThank you.
 

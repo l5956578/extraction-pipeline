@@ -1,7 +1,9 @@
 # chunk_05 (pages 102-127)
 
 <!-- el:start type=prose id=prose_p102_s0 page=102 -->
-**Translating a written text**Translating a written text in speech or sign is a largely informal activity that is by no means uncommon in everyday personal and professional life. It is the process of spontaneously giving an oral translation of a written text, often a notice, letter, e-mail or other communication. Key concepts operationalised in the scale include the following:
+**Translating a written text**
+
+Translating a written text in speech or sign is a largely informal activity that is by no means uncommon in everyday personal and professional life. It is the process of spontaneously giving an oral translation of a written text, often a notice, letter, e-mail or other communication. Key concepts operationalised in the scale include the following:
 
 - providing a rough, approximate translation;
 
@@ -23,12 +25,14 @@ In using the descriptors in this scale it is particularly important to specify t
 
 Progression up the scale is shown in a very similar way to the previous scale. At the lower levels, translating involves approximate translations of short texts containing information that is straightforward and familiar, whereas at the higher levels, the source texts become increasingly complex and the translation is more and more accurate and reflective of the original.
 
-In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties concerned/ modalities; in the latter case, users should simply remove the parts in brackets.**Note:** As in any case in which mediation across languages is involved, users may wish to complete the descriptor by specifying the languages concerned
+In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties concerned/ modalities; in the latter case, users should simply remove the parts in brackets.
+
+**Note:** As in any case in which mediation across languages is involved, users may wish to complete the descriptor by specifying the languages concerned
 <!-- el:end id=prose_p102_s0 -->
 
 44.	 https://petra-education.eu/.
 
-*Page **102**▶**CEFR – Companion volume***
+*Page **102** ▶ **CEFR – Companion volume***
 
 <!-- page:102 -->
 
@@ -52,7 +56,9 @@ In the two scales, Language A and Language B may be different languages, varieti
 
 <!-- page:103 -->
 
-*Page **104**▶**CEFR – Companion volume***<!-- page:104 -->
+*Page **104** ▶ **CEFR – Companion volume***
+
+<!-- page:104 -->
 
 <!-- el:start type=prose id=prose_p105_s0 page=105 -->
 ### Note-taking (lectures, seminars, meetings, etc.)
@@ -84,12 +90,15 @@ This scale concerns the ability to grasp key information and write coherent note
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_note_taking_lectures_seminars_meetings_etc -->
 
-<!-- el:start type=prose id=prose_p105_s2 page=105 -->**Creative texts**
+<!-- el:start type=prose id=prose_p105_s2 page=105 -->
+**Creative texts**
 
 Creative texts are one of the main sources for “Reading as a leisure activity” and there are several descriptors related to the reading of literature in the scale with that title. However, creative texts are not confined to literature or indeed to script. Film, theatre, recitals and multimodal installations are just some of the other types of creative text, as works of imagination and cultural significance. Therefore, while some of the descriptors in this section do refer explicitly to scripted text and/or literature, many refer to “the work” concerned.
 <!-- el:end id=prose_p105_s2 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **105***<!-- page:105 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **105***
+
+<!-- page:105 -->
 
 <!-- el:start type=prose id=prose_p106_s0 page=106 -->
 Creative texts tend to evoke a reaction, and this is often promoted in language education. This response may be expressed in a classroom or in one of the amateur literacy circles often associated with foreign language learning.
@@ -104,7 +113,9 @@ There are perhaps four main types of classic response:
 
 - evaluation: giving a critical appraisal of technique, structure, the vision of the artist, the significance of the work, etc.
 
-There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.**Expressing a personal response to creative texts (including literature)**
+There is a fundamental difference between the first two categories (engagement and interpretation) and the last two (analysis and evaluation). Describing a personal reaction and interpretation is cognitively far simpler than giving a more intellectual analysis and/or evaluation. Therefore, two different scales are offered.
+
+**Expressing a personal response to creative texts (including literature)**
 
 This first scale reflects the approach taken in school sectors and in adult reading circles. It focuses on expression of the effect that a work has on the user/learner as an individual. Key concepts operationalised in the scale include the following:
 
@@ -136,7 +147,7 @@ Progression up the scale is characterised as follows: at the lower levels the us
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_expressing_a_personal_response_to_creative_texts_including_literature -->
 
-*Page **106**▶**CEFR – Companion volume***
+*Page **106** ▶ **CEFR – Companion volume***
 
 <!-- page:106 -->
 
@@ -176,13 +187,20 @@ The second scale, presented on the right in the table, is concerned with the dev
 The two scales under “establishing conditions” focus on building and maintaining positive interactions and do not deal directly with access to new knowledge and concepts. However, such mediation may well be a necessary precursor or indeed parallel activity in order to facilitate the development of new knowledge. People must be sensitive to others’ views, so a positive atmosphere is often a prerequisite for collaborative engagement that may lead to new knowledge. Although these four scales are directly relevant to the educational domain, they are not confined to the classroom because they are applicable to all domains where there is a need to move people’s thinking forward.
 <!-- el:end id=prose_p108_s3 -->
 
-*Page **108**▶**CEFR – Companion volume***<!-- page:108 -->
+*Page **108** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p109_s0 page=109 -->**Facilitating collaborative interaction with peers**The user/learner contributes to successful collaboration in a group that they belong to, usually with a specific shared objective or communicative task in mind. They are concerned with making conscious interventions where appropriate to orient the discussion, balance contributions and help to overcome communication difficulties within the group. They do not have a designated lead role in the group, and are not concerned with creating a lead role for themselves, being concerned solely with successful collaboration. Key concepts operationalised in the scale include the following:
+<!-- page:108 -->
+
+<!-- el:start type=prose id=prose_p109_s0 page=109 -->
+**Facilitating collaborative interaction with peers**
+
+The user/learner contributes to successful collaboration in a group that they belong to, usually with a specific shared objective or communicative task in mind. They are concerned with making conscious interventions where appropriate to orient the discussion, balance contributions and help to overcome communication difficulties within the group. They do not have a designated lead role in the group, and are not concerned with creating a lead role for themselves, being concerned solely with successful collaboration. Key concepts operationalised in the scale include the following:
 
 - collaborative participation by consciously managing one’s own role and contributions to group communication; f active orientation of teamwork by helping to review key points and consider or define next steps; f use of questions and contributions to move the discussion forward in a productive way; f use of questions and turntaking to balance contributions from other group members with their own contributions.
 
-Progression up the scale is characterised as follows: at A2, the user/learner can collaborate actively in simple, shared tasks, provided someone helps them express their suggestions. At B1, the focus is on posing questions and inviting others to contribute. By B2, the learner/user can refocus the discussion, helping to define goals and comparing ways of achieving them. At C1, they can help steer a discussion tactfully towards a conclusion.**Collaborating to construct meaning**
+Progression up the scale is characterised as follows: at A2, the user/learner can collaborate actively in simple, shared tasks, provided someone helps them express their suggestions. At B1, the focus is on posing questions and inviting others to contribute. By B2, the learner/user can refocus the discussion, helping to define goals and comparing ways of achieving them. At C1, they can help steer a discussion tactfully towards a conclusion.
+
+**Collaborating to construct meaning**
 
 This scale is concerned with stimulating and developing ideas as a member of a group. It is particularly relevant to collaborative work in problem solving, brainstorming, concept development and project work.
 
@@ -215,17 +233,24 @@ Progression up the scale is characterised as follows: the scale moves from simpl
 | Pre-A1 | No descriptors available | No descriptors available |
 <!-- el:end id=scale_collaborating_in_a_group -->
 
-*Page **110**▶**CEFR – Companion volume***
+*Page **110** ▶ **CEFR – Companion volume***
 
 <!-- page:110 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **111***<!-- page:111 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **111***
 
-<!-- el:start type=prose id=prose_p112_s0 page=112 -->**Managing interaction**This scale is intended for situations in which the user/learner has a designated lead role to organise communicative activity between members of a group or several groups, for example as a teacher, workshop facilitator, trainer or meeting chair. They have a conscious approach to managing phases of communication that may include both plenary communication with the whole group, and/or management of communication within and between sub-groups. Key concepts operationalised in the scale include the following:
+<!-- page:111 -->
+
+<!-- el:start type=prose id=prose_p112_s0 page=112 -->
+**Managing interaction**
+
+This scale is intended for situations in which the user/learner has a designated lead role to organise communicative activity between members of a group or several groups, for example as a teacher, workshop facilitator, trainer or meeting chair. They have a conscious approach to managing phases of communication that may include both plenary communication with the whole group, and/or management of communication within and between sub-groups. Key concepts operationalised in the scale include the following:
 
 - leading plenary activity; f giving instructions and checking understanding of communicative task objectives; f monitoring and facilitating communication within the group or sub-groups without impeding the flow of communication between group participants; f reorienting communication in the group or sub-groups; intervening to put a group back on task; f adapting one’s own contributions and interactive role to support group communication, according to need.
 
-Progression up the scale is characterised as follows: at B1 the user/learner can give clear instructions, allocate turns, and bring participants in a group back to the task. These aspects are extended at B2 with explanations of different roles, ground rules and an ability to put a group back on task with new instructions or to encourage more balanced participation. Several descriptors on monitoring clustered at B2+; only one of these has been kept in the scale. By C1, the user/learner can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases, intervening diplomatically in order to redirect discussion, to prevent one person dominating or to confront disruptive behaviour. At C2, they can take on different roles as appropriate, recognise undercurrents and give appropriate guidance, and provide individualised support.**Encouraging conceptual talk**
+Progression up the scale is characterised as follows: at B1 the user/learner can give clear instructions, allocate turns, and bring participants in a group back to the task. These aspects are extended at B2 with explanations of different roles, ground rules and an ability to put a group back on task with new instructions or to encourage more balanced participation. Several descriptors on monitoring clustered at B2+; only one of these has been kept in the scale. By C1, the user/learner can organise a varied and balanced sequence of plenary, group and individual work, ensuring smooth transitions between the phases, intervening diplomatically in order to redirect discussion, to prevent one person dominating or to confront disruptive behaviour. At C2, they can take on different roles as appropriate, recognise undercurrents and give appropriate guidance, and provide individualised support.
+
+**Encouraging conceptual talk**
 
 Encouraging conceptual talk involves providing scaffolding to enable another person or persons to themselves construct a new concept, rather than passively following a lead. The user/learner may do this as a member of a group, taking temporarily the role of facilitator, or they may have the designated role of an expert (for example, an animator, teacher, trainer or manager) who is leading the group in order to help them understand concepts. Key concepts operationalised in the scale include the following:
 
@@ -234,7 +259,7 @@ Encouraging conceptual talk involves providing scaffolding to enable another per
 Progression up the scale is characterised as follows: the scale moves from showing interest at A1, through asking simple questions to bring someone into a discussion or to ask someone’s opinion at A2, to monitoring discussion and posing higher order questions at B2+ and above, in order to encourage logical reasoning, justification of ideas and the construction of coherent lines of thinking.
 <!-- el:end id=prose_p112_s0 -->
 
-*Page **112**▶**CEFR – Companion volume***
+*Page **112** ▶ **CEFR – Companion volume***
 
 <!-- page:112 -->
 
@@ -293,9 +318,12 @@ Progression up the scale is characterised as follows: at B1 the emphasis is on i
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_facilitating_pluricultural_space -->
 
-*Page **114**▶**CEFR – Companion volume***<!-- page:114 -->
+*Page **114** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p115_s1 page=115 -->**Acting as an intermediary in informal situations (with friends and colleagues)**
+<!-- page:114 -->
+
+<!-- el:start type=prose id=prose_p115_s1 page=115 -->
+**Acting as an intermediary in informal situations (with friends and colleagues)**
 
 This scale is intended for situations in which the user/learner as a plurilingual individual mediates across languages and cultures to the best of their ability in an informal situation in the public, private, occupational or educational domain. The scale is therefore not concerned with the activities of professional interpreters. The mediation may be in one direction (for example, during a welcome speech) or in two directions (for example, during a conversation). Key concepts operationalised in the scale include the following:
 
@@ -308,7 +336,9 @@ This scale is intended for situations in which the user/learner as a plurilingua
 Progression up the scale is characterised as follows: at the A levels, the user/learner can assist in a very simple manner, but by A2+ and B1 they can mediate in predictable everyday situations. However, such assistance is dependent on the interlocutors being supportive in that they alter their expression or will repeat information as necessary. At B2, the user/learner can mediate competently within their fields of interest, given the pauses to do so, and by C1 they can do this fluently on a wide range of subjects. At C2 the user/learner can also convey the meaning of the interlocutors faithfully, reflecting the style, register and cultural context.
 <!-- el:end id=prose_p115_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **115***<!-- page:115 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **115***
+
+<!-- page:115 -->
 
 <!-- el:start type=artifact id=scale_acting_as_an_intermediary_in_informal_situations_with_friends_and_colleagues page=116 -->
 <!-- db:id=scale_acting_as_an_intermediary_in_informal_situations_with_friends_and_colleagues type=descriptor_scale product_tier=assessment_action,detailed pages=116 -->
@@ -328,7 +358,8 @@ Progression up the scale is characterised as follows: at the A levels, the user/
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_acting_as_an_intermediary_in_informal_situations_with_friends_and_colleagues -->
 
-<!-- el:start type=prose id=prose_p116_s1 page=116 -->**Facilitating communication in delicate situations and disagreements**
+<!-- el:start type=prose id=prose_p116_s1 page=116 -->
+**Facilitating communication in delicate situations and disagreements**
 
 This scale is intended for situations in which the user/learner may have a formal role to mediate in a disagreement between third parties, or may informally try to resolve a misunderstanding, delicate situation or disagreement between them. The user/learner is primarily concerned with clarifying what the problem is and what the parties want, helping them understand each other’s positions. They may well attempt to persuade the third parties to move closer to a resolution of the issue. They are not at all concerned with their own viewpoint, but seek balance in the representation of the viewpoints of the other parties involved in the discussion. Key concepts operationalised in the scale include the following:
 
@@ -343,7 +374,7 @@ This scale is intended for situations in which the user/learner may have a forma
 - mediating a shift in viewpoint of one or more participants, to move closer to an agreement or resolution.
 <!-- el:end id=prose_p116_s1 -->
 
-*Page **116**▶**CEFR – Companion volume***
+*Page **116** ▶ **CEFR – Companion volume***
 
 <!-- page:116 -->
 
@@ -374,18 +405,30 @@ Progression up the scale is characterised as follows: at the A levels, the user/
 The user/learner’s ability to mediate does not only involve being linguistically competent in the relevant language or languages; it also entails using mediation strategies that are appropriate in relation to the conventions, conditions and constraints of the communicative context. Mediation strategies are the techniques employed to clarify meaning and facilitate understanding. As a mediator, the user/learner may need to shuttle between people, between texts, between types of discourse and between languages, varieties or modalities, depending on the mediation context. The strategies here presented are communication strategies, that is, ways of helping people to understand, during the actual process of mediation. They concern the way source content is processed for the
 <!-- el:end id=prose_p117_s2 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **117***<!-- page:117 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **117***
+
+<!-- page:117 -->
 
 <!-- el:start type=prose id=prose_p118_s0 page=118 -->
-recipient. For instance, is it necessary to elaborate it, to condense it, to paraphrase it, to simplify it, to illustrate it with metaphors or visuals? The strategies are presented separately because they apply to many of the activities.**3.4.2.1. Strategies to explain a new concept Linking to previous knowledge**Establishing links to previous knowledge is a significant part of the mediation process since it is an essential part of the learning process. The mediator may explain new information by making comparisons, by describing how it relates to something the recipient already knows or by helping recipients activate previous knowledge, for example. Links may be made to other texts, relating new information and concepts to previous material, and to background knowledge of the world. Key concepts operationalised in the scale include the following:
+recipient. For instance, is it necessary to elaborate it, to condense it, to paraphrase it, to simplify it, to illustrate it with metaphors or visuals? The strategies are presented separately because they apply to many of the activities.
+
+**3.4.2.1. Strategies to explain a new concept Linking to previous knowledge**
+
+Establishing links to previous knowledge is a significant part of the mediation process since it is an essential part of the learning process. The mediator may explain new information by making comparisons, by describing how it relates to something the recipient already knows or by helping recipients activate previous knowledge, for example. Links may be made to other texts, relating new information and concepts to previous material, and to background knowledge of the world. Key concepts operationalised in the scale include the following:
 
 - posing questions to encourage people to activate prior knowledge; f making comparisons and/or links between new and prior knowledge; f providing examples and definitions.
 
-Progression up the scale is characterised as follows: there is a progression from comparison to familiar everyday experience at B1, through awareness raising with clear explanations of links at B2, to extended, spontaneous definition of complex concepts that draw on previous knowledge at C2.**Adapting language**The user/learner may need to employ shifts in use of language, style and/or register in order to incorporate the content of a text into a new text of a different genre and register. This may be done through the inclusion of synonyms, similes, simplification or paraphrasing. Key concepts operationalised in the scale include the following:
+Progression up the scale is characterised as follows: there is a progression from comparison to familiar everyday experience at B1, through awareness raising with clear explanations of links at B2, to extended, spontaneous definition of complex concepts that draw on previous knowledge at C2.
+
+**Adapting language**
+
+The user/learner may need to employ shifts in use of language, style and/or register in order to incorporate the content of a text into a new text of a different genre and register. This may be done through the inclusion of synonyms, similes, simplification or paraphrasing. Key concepts operationalised in the scale include the following:
 
 - paraphrasing; f adapting delivery; f explaining technical terminology.
 
-Progression up the scale is characterised as follows: from A2 to B2 the user/learner can exploit paraphrasing and simplification to make the content of texts more accessible. B2 descriptors concern paraphrasing difficult concepts and technical topics comprehensible with paraphrasing, and conscious adaptation of the language used. At the C levels, concepts are technical or complex, and the user/learner is able to present the content in a different genre or register that is appropriate for the audience and purpose.**Breaking down complicated information**
+Progression up the scale is characterised as follows: from A2 to B2 the user/learner can exploit paraphrasing and simplification to make the content of texts more accessible. B2 descriptors concern paraphrasing difficult concepts and technical topics comprehensible with paraphrasing, and conscious adaptation of the language used. At the C levels, concepts are technical or complex, and the user/learner is able to present the content in a different genre or register that is appropriate for the audience and purpose.
+
+**Breaking down complicated information**
 
 Understanding can often be enhanced by breaking down complicated information into constituent parts, and showing how these parts fit together to give the whole picture. Key concepts operationalised in the scale include the following:
 
@@ -394,7 +437,7 @@ Understanding can often be enhanced by breaking down complicated information int
 Progression up the scale is characterised as follows: at B1 the user/learner can present instructions or informational text one point at a time. At B2, they can break down complicated processes or arguments and present their components separately. At C1, there is an added emphasis on reinforcement and recapitulation, and at C2 the user/learner can explain the relationship of parts to the whole and encourage different ways of analysing the issue.
 <!-- el:end id=prose_p118_s0 -->
 
-*Page **118**▶**CEFR – Companion volume***
+*Page **118** ▶ **CEFR – Companion volume***
 
 <!-- page:118 -->
 
@@ -419,13 +462,20 @@ Progression up the scale is characterised as follows: at B1 the user/learner can
 
 <!-- page:119 -->
 
-*Page **120**▶**CEFR – Companion volume***<!-- page:120 -->
+*Page **120** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p121_s0 page=121 -->**3.4.2.2. Strategies to simplify a text Amplifying a dense text**Density of information is often an obstacle to understanding. This scale is concerned with the expansion of the input source through the inclusion of helpful information, examples, details, background information, reasoning and explanatory comments. Key concepts operationalised in the scale include the following:
+<!-- page:120 -->
+
+<!-- el:start type=prose id=prose_p121_s0 page=121 -->
+**3.4.2.2. Strategies to simplify a text Amplifying a dense text**
+
+Density of information is often an obstacle to understanding. This scale is concerned with the expansion of the input source through the inclusion of helpful information, examples, details, background information, reasoning and explanatory comments. Key concepts operationalised in the scale include the following:
 
 - using repetition and redundancy, for example by paraphrasing in different ways; f modifying style to explain things more explicitly; f giving examples.
 
-Progression up the scale is characterised as follows: at B1 and B2 the emphasis is on providing repetition and further examples, whereas at the C levels the focus is more on elaboration and explanation, adding helpful detail.**Streamlining a text**
+Progression up the scale is characterised as follows: at B1 and B2 the emphasis is on providing repetition and further examples, whereas at the C levels the focus is more on elaboration and explanation, adding helpful detail.
+
+**Streamlining a text**
 
 This scale is concerned with the opposite to “Amplifying” in the scale above, namely pruning a written text to its essential message(s). This may involve expressing the same information more economically by eliminating repetition and digressions, and excluding those sections of the source that do not add relevant new information. However, it may also involve regrouping the source ideas in order to highlight important points, to draw conclusions or to compare and contrast them. Key concepts operationalised in the scale include the following:
 
@@ -450,10 +500,16 @@ Progression up the scale is characterised as follows: highlighting may be simply
 | Pre-A1 | No descriptors available | No descriptors available |
 <!-- el:end id=scale_strategies_to_yfilpmis_a_text -->
 
-*Page **122**▶**CEFR – Companion volume***<!-- page:122 -->
+*Page **122** ▶ **CEFR – Companion volume***
+
+<!-- page:122 -->
 
 <!-- el:start type=figure_page id=figure_15_plurilingual_pluricultural_competence page=123 -->
-Chapter 4**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: PLURILINGUAL AND  PLURICULTURAL COMPETENCE**The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states:
+Chapter 4
+
+**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: PLURILINGUAL AND  PLURICULTURAL COMPETENCE**
+
+The notions of plurilingualism and pluriculturalism presented in the CEFR 2001 (Sections 1.3, 1.4, and 6.1.3) were the starting point for the development of descriptors in this area. The plurilingual vision associated with the CEFR gives value to cultural and linguistic diversity at the level of the individual. It promotes the need for learners as “social agents” to draw on all their linguistic and cultural resources and experiences in order to fully participate in social and educational contexts, achieving mutual understanding, gaining access to knowledge and in turn, further developing their linguistic and cultural repertoire. As the CEFR 2001 states:
 
 the plurilingual approach emphasises the fact that as an individual person’s experience of language in its cultural contexts expands, from the language of the home to that of society at large and then to the languages of other peoples (whether learnt at school or college, or by direct experience), he or she does not keep these languages and cultures in strictly separated mental compartments, but rather builds up a communicative competence to which all knowledge and experience of language contributes and in which languages interrelate and interact. (CEFR 2001 Section 1.3)
 
@@ -465,7 +521,12 @@ Plurilingual and pluricultural competence
 ├── Building on pluricultural repertoire
 ├── Plurilingual comprehension
 └── Building on plurilingual repertoire
-```**Plurilingual and pluricultural  competence Building** **Building  Plurilingual** **on pluricultural  on plurilingual** **comprehension repertoire** **repertoire**The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation to language education, considering that:
+```
+
+
+**Plurilingual and pluricultural  competence Building** **Building  Plurilingual** **on pluricultural  on plurilingual** **comprehension repertoire** **repertoire**
+
+The vision of the learner as a social agent in the action-oriented approach takes these concepts further in relation to language education, considering that:
 
 the aim of language education is profoundly modified. It is no longer seen as simply to achieve “mastery” of one or two, or even three languages, each taken in isolation, with the “ideal native speaker” as the ultimate model. Instead, the aim is to develop a linguistic repertory, in which all linguistic abilities have a place. (CEFR 2001 Section 1.3)
 
@@ -474,7 +535,9 @@ In the development of descriptors, the following points mentioned specifically i
 - languages are interrelated and interconnected, especially at the level of the individual; f languages and cultures are not kept in separated mental compartments; f all knowledge and experience of languages contribute to building up communicative competence; f balanced mastery of different languages is not the goal, but rather the ability (and willingness) to modulate their usage according to the social and communicative situation; f barriers between languages can be overcome in communication, and different languages can be used purposefully for conveying messages in the same situation.
 <!-- el:end id=figure_15_plurilingual_pluricultural_competence -->
 
-Page**123**<!-- page:123 -->
+Page **123**
+
+<!-- page:123 -->
 
 <!-- el:start type=prose id=prose_p124_s0 page=124 -->
 Other concepts were also taken into consideration after analysing recent literature:
@@ -495,7 +558,9 @@ The reason for associating descriptors in this area with CEFR levels is to provi
 
 The scale “Facilitating pluricultural space” is included in the section “Mediating communication”, rather than here, because it focuses on a more proactive role as an intercultural mediator. The three scales in this section describe aspects of the broader conceptual area concerning plurilingual and intercultural education.
 
-This area is the subject of the framework of reference for pluralistic approaches to languages and cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx) (FREPA/CARAP), which lists different aspects of plurilingual and intercultural competences in a hypertextual structure independent of language level, organised according to three broad areas: knowledge (**savoir**), attitudes (**savoir-être**) and skills (**savoir-faire**). Users may wish to consult FREPA/CARAP for further reflection and for access to related training materials in this area.**Building on pluricultural repertoire**
+This area is the subject of the framework of reference for pluralistic approaches to languages and cultures (http://carap.ecml.at/Accueil/tabid/3577/language/en-GB/Default.aspx) (FREPA/CARAP), which lists different aspects of plurilingual and intercultural competences in a hypertextual structure independent of language level, organised according to three broad areas: knowledge ( **savoir**), attitudes ( **savoir-être**) and skills ( **savoir-faire**). Users may wish to consult FREPA/CARAP for further reflection and for access to related training materials in this area.
+
+**Building on pluricultural repertoire**
 
 Many notions that appear in the literature and descriptors for intercultural competence are included, for example:
 
@@ -522,7 +587,9 @@ Key concepts operationalised in the scale at most levels include the following:
 Progression up the scale is characterised as follows: at the A levels the user/learner is capable of recognising potential causes of culturally based complications in communication and of acting appropriately in simple everyday exchanges. At B1 they can generally respond to the most commonly used cultural cues, act according to socio-pragmatic conventions and explain or discuss features of their own and other cultures. At B2, the user/ learner can engage effectively in communication, coping with most difficulties that occur, and is usually able to recognise and repair misunderstandings. At the C levels, this develops into an ability to explain sensitively the background to cultural beliefs, values and practices, interpret and discuss aspects of them, cope with sociolinguistic and pragmatic ambiguity and express reactions constructively with cultural appropriateness.
 <!-- el:end id=prose_p124_s0 -->
 
-*Page **124**▶**CEFR – Companion volume***<!-- page:124 -->
+*Page **124** ▶ **CEFR – Companion volume***
+
+<!-- page:124 -->
 
 <!-- el:start type=artifact id=scale_building_on_pluricultural_repertoire page=125 -->
 <!-- db:id=scale_building_on_pluricultural_repertoire type=descriptor_scale product_tier=assessment_action,detailed pages=125 -->
@@ -532,7 +599,7 @@ Progression up the scale is characterised as follows: at the A levels the user/l
 | --- | --- |
 | C2 | Can initiate and control their actions and forms of expression according to context, showing awareness of cultural differences and making subtle adjustments in order to prevent and/or repair misunderstandings and cultural incidents. |
 | C1 | Can identify differences in sociolinguistic/-pragmatic conventions, critically reflect on them and adjust their communication accordingly.<br>Can sensitively explain the background to and interpret and discuss aspects of cultural values and practices drawing on intercultural encounters, reading, film, etc.<br>Can deal with ambiguity in cross-cultural communication and express their reactions constructively and culturally appropriately in order to bring clarity. |
-| B2 |**Can describe and evaluate the viewpoints and practices of their own and other social groups, showing awareness of the implicit values on which judgments and prejudices are frequently based.<br>**Can explain their interpretation of the cultural assumptions, preconceptions, stereotypes and prejudices of their own community and of other communities that they are familiar with.<br>**Can interpret and explain a document or event from another culture and relate it to documents or events from their own culture(s) and/or from cultures with which they are familiar.<br>**Can discuss the objectivity and balance of information and opinions expressed in the media about their own and other communities.<br>Can identify and reflect on similarities and differences in culturally determined behavioural patterns (e.g. gestures and speech volume or, for sign languages, sign size) and discuss their significance in order to negotiate mutual understanding.<br>Can, in an intercultural encounter, recognise that what one normally takes for granted in a particular situation is not necessarily shared by others, and can react and express themselves appropriately.<br>Can generally interpret cultural cues appropriately in the culture concerned.<br>Can reflect on and explain particular ways of communicating in their own and other cultures, and the risks of misunderstanding they generate. |
+| B2 | **Can describe and evaluate the viewpoints and practices of their own and other social groups, showing awareness of the implicit values on which judgments and prejudices are frequently based.<br>** Can explain their interpretation of the cultural assumptions, preconceptions, stereotypes and prejudices of their own community and of other communities that they are familiar with.<br> **Can interpret and explain a document or event from another culture and relate it to documents or events from their own culture(s) and/or from cultures with which they are familiar.<br>** Can discuss the objectivity and balance of information and opinions expressed in the media about their own and other communities.<br>Can identify and reflect on similarities and differences in culturally determined behavioural patterns (e.g. gestures and speech volume or, for sign languages, sign size) and discuss their significance in order to negotiate mutual understanding.<br>Can, in an intercultural encounter, recognise that what one normally takes for granted in a particular situation is not necessarily shared by others, and can react and express themselves appropriately.<br>Can generally interpret cultural cues appropriately in the culture concerned.<br>Can reflect on and explain particular ways of communicating in their own and other cultures, and the risks of misunderstanding they generate. |
 | B1 | Can generally act according to conventions regarding posture, eye contact and distance from others.<br>Can generally respond appropriately to the most commonly used cultural cues.<br>Can explain features of their own culture to members of another culture or explain features of the other culture to members of their own culture.<br>Can explain in simple terms how their own values and behaviours influence their views of other people’s values and behaviours.<br>Can discuss in simple terms the way in which things that may look “strange” to them in another sociocultural context may well be “normal” for the other people concerned.<br>Can discuss in simple terms the way their own culturally determined actions may be perceived differently by people from other cultures. |
 | A2 | Can recognise and apply basic cultural conventions associated with everyday social exchanges (e.g. different greetings, rituals).<br>Can act appropriately in everyday greetings, farewells and expressions of thanks and apology, although they have difficulty coping with any departure from the routine.<br>Can recognise that their behaviour in an everyday transaction may convey a message different from the one they intend, and can try to explain this simply.<br>Can recognise when difficulties occur in interaction with members of other cultures, even though they may not be sure how to behave in the situation. |
 | A1 | Can recognise differing ways of numbering, measuring distance, telling the time, etc. even though they may have difficulty applying this in even simple everyday transactions of a concrete type. |
@@ -540,10 +607,12 @@ Progression up the scale is characterised as follows: at the A levels the user/l
 <!-- el:end id=scale_building_on_pluricultural_repertoire -->
 
 <!-- el:start type=prose id=prose_p125_s1 page=125 -->
-Descriptors marked with asterisks (**) represent a high level for B2. They may also be suitable for the C levels.
+Descriptors marked with asterisks ( **) represent a high level for B2. They may also be suitable for the C levels.
 <!-- el:end id=prose_p125_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: plurilingual and pluricultural competence ▶ Page **125***<!-- page:125 -->
+*The CEFR Illustrative Descriptor Scales: plurilingual and pluricultural competence ▶ Page **125***
+
+<!-- page:125 -->
 
 <!-- el:start type=prose id=prose_p126_s0 page=126 -->
 ### Plurilingual comprehension
@@ -570,7 +639,9 @@ to the use of co-text and contextual or genre-related clues. A more analytical a
 
 exploiting similarities, recognising “false friends” and exploiting parallel sources in different languages. There
 
-are no descriptors for the C levels, perhaps because the sources used focused on the A and B levels.**Note:**What is calibrated in this scale is the practical functional ability to exploit plurilingualism for comprehension. In any particular context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
+are no descriptors for the C levels, perhaps because the sources used focused on the A and B levels.
+
+**Note:**What is calibrated in this scale is the practical functional ability to exploit plurilingualism for comprehension. In any particular context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
 
 For example, the B1 descriptor:
 
@@ -596,9 +667,14 @@ Can deduce the message of a text in German by exploiting what they have understo
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_plurilingual_comprehension -->
 
-*Page **126**▶**CEFR – Companion volume***<!-- page:126 -->
+*Page **126** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p127_s1 page=127 -->**Building on plurilingual repertoire**In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
+<!-- page:126 -->
+
+<!-- el:start type=prose id=prose_p127_s1 page=127 -->
+**Building on plurilingual repertoire**
+
+In this scale we find aspects that characterise both the previous scales. As the social agent is building on their pluricultural repertoire, they are also engaged in exploiting all available linguistic resources in order to communicate effectively in a multilingual context and/or in a classic mediation situation in which the other people do not share a common language. Key concepts operationalised in the scale include the following:
 
 - flexible adaptation to the situation;
 
@@ -612,7 +688,9 @@ Can deduce the message of a text in German by exploiting what they have understo
 
 - encouraging people to use different languages by giving an example.
 
-Progression up the scale is characterised as follows: at the A levels, the focus is on exploiting all possible resources in order to handle a simple everyday transaction. From the B levels, language begins to be manipulated creatively, with the user/learner alternating flexibly between languages at B2 in order to make others feel more comfortable, provide clarifications, communicate specialised information and in general increase the efficiency of communication. At the C levels this focus continues, with the addition of an ability to gloss and explain sophisticated abstract concepts in different languages. Overall there is also a progression from embedding single words/signs from other languages to explaining particularly apt expressions, and exploiting metaphors for effect.**Note:**What is calibrated in this scale is the practical functional ability to exploit plurilingualism. In any particular
+Progression up the scale is characterised as follows: at the A levels, the focus is on exploiting all possible resources in order to handle a simple everyday transaction. From the B levels, language begins to be manipulated creatively, with the user/learner alternating flexibly between languages at B2 in order to make others feel more comfortable, provide clarifications, communicate specialised information and in general increase the efficiency of communication. At the C levels this focus continues, with the addition of an ability to gloss and explain sophisticated abstract concepts in different languages. Overall there is also a progression from embedding single words/signs from other languages to explaining particularly apt expressions, and exploiting metaphors for effect.
+
+**Note:**What is calibrated in this scale is the practical functional ability to exploit plurilingualism. In any particular
 
 context, when specific languages are concerned, users may wish to complete the descriptor by specifying those languages, replacing the expressions underlined and in italics in the descriptor.
 

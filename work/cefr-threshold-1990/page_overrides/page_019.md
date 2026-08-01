@@ -1,5 +1,8 @@
 <!-- el:start type=prose id=prose_p019 page=19 -->
 <!-- vision: Threshold PDF page 19 -->
+<!-- cat: summon police assistance in the case of emergency (e·g. an accident, -->
+<!-- cat: enquire, in writing or speech, about accommodation to rent, e·g. -->
+<!-- cat: - the charges, services and amenities provided (e·g. local taxes, gas, -->
 
 - personal identification
 - details of any vehicle they drive
@@ -9,7 +12,7 @@
 - apologise and ask for understanding of their position in case of minor infringements of regulations
 - ask questions and understand the answers given regarding regulations (parking, public access to buildings, etc.)
 
-(See also 1.11 'Finding the way'.)
+(See also 1.11 ˈFinding the way'.)
 
 - summon police assistance in the case of emergency (e.g. an accident, assault, robbery)
 
@@ -42,3 +45,21 @@ Learners should be able to:
 - make oral and written complaints to landlord
 
 <!-- el:end id=prose_p019 -->
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,

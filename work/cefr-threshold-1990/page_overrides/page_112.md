@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 112 = document p.106 | multipass compensation strategies IV–V + intonation -->
+<!-- vision: leaf 112 doc p.106 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p112 page=106 -->
 <!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
@@ -6,8 +6,8 @@
 
 #### 1 express ignorance
 
-> I ˈdon’t ·know ·how to ˎsay it.  
-> I ˈdon’t ·know ·what you ˎcall it.
+> I ˈdon't ·know ·how to ˎsay it.  
+> I ˈdon't ·know ·what you ˎcall it.
 
 #### 2 use the devices mentioned under III.2 and III.3;
 
@@ -17,11 +17,11 @@
 
 #### 1 apologise for uncertainty or ignorance as to the accepted code of behaviour
 
-> I’m ˋsorry | I ˈdon’t/ˈdidn’t ˈknow …
+> I'm ˋsorry | I ˈdon't/ˈdidn't ˈknow …
 
 #### 2 refer to what is customary in his/her own country
 
-> In ˈmy ·country we …
+> In ˋmy ·country we …
 
 #### 3 ask for guidance
 

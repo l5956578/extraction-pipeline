@@ -166,14 +166,37 @@ Keep `products` / `sessions` tables separate from content — link sessions to `
         "prepare_rotated": step_prepare_rotated,
     }
 
+    # Steps that refresh shippable live output under output/<job-id>/
+    final_write_steps = {"merge", "figures", "postprocess"}
+
     if args.step == "all":
         for name in [
             "spans", "chunks", "inventory", "extract", "cleanup", "validate",
             "merge", "docs",
         ]:
             steps[name]()
+        wrote_final = True
     else:
         steps[args.step]()
+        wrote_final = args.step in final_write_steps
+
+    if wrote_final:
+        from pipeline.regression import run_regression_and_maybe_version
+
+        print("=== REGRESSION + AUTO-VERSION ===")
+        result = run_regression_and_maybe_version(create_version=True)
+        rep = result["regression"]
+        print(
+            f"regression passed={rep['passed']} "
+            f"hard={len(rep['issues'])} soft={len(rep['soft_issues'])}"
+        )
+        for it in rep["issues"][:20]:
+            print(f"  HARD [{it['code']}] {it['detail']}")
+        if result.get("version_path"):
+            print(f"version snapshot: {result['version_path']}")
+        elif not rep["passed"]:
+            print("no version snapshot (regression failed — live output still updated)")
+            raise SystemExit(1)
 
 
 if __name__ == "__main__":

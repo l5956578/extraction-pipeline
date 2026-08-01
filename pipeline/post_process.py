@@ -1294,6 +1294,116 @@ def _table_title_near_header(text: str, header_end: int) -> str | None:
     return None
 
 
+def _pinned_artifact_ids() -> set[str]:
+    """Ids declared in job layout (known tables / by-index) — never resync away from these."""
+    pinned: set[str] = set()
+    try:
+        import pipeline.config as cfg
+
+        for aid, _title, _atype in cfg.KNOWN_TABLES_FIGURES.values():
+            if aid:
+                pinned.add(aid)
+        for aid, _title, _atype in cfg.KNOWN_TABLES_BY_INDEX.values():
+            if aid:
+                pinned.add(aid)
+    except Exception:  # noqa: BLE001
+        pass
+    # Hard pins for historically user-paid Table 1–3 ids (even if layout unload)
+    pinned.update(
+        {
+            "table_01_descriptive_scheme_updates",
+            "table_02_summary_descriptor_changes",
+            "table_03_macro_functional_basis",
+            "table_04_communicative_language_strategies",
+            "table_05_descriptor_use",
+        }
+    )
+    return pinned
+
+
+def _repair_known_table_id_regressions(text: str) -> str:
+    """Restore known Table N ids when resync/extract collapsed them to a column header.
+
+    C2-T1 class: Table 3 must stay ``table_03_macro_functional_basis``, never
+    ``scale_reception`` / ``table_reception`` (Reception is one of four modes).
+    """
+    # Table 3 on p.33 — any reception-only id near Table 3 caption → pinned id
+    bad_t3 = ("table_reception", "scale_reception")
+    good_t3 = "table_03_macro_functional_basis"
+    good_title = (
+        "Table 3 – Macro-functional basis of CEFR categories for "
+        "communicative language activities"
+    )
+    for bad in bad_t3:
+        if bad not in text:
+            continue
+        # Only rewrite when this is clearly the Table 3 matrix (modes header row)
+        if re.search(
+            rf"(?is)Table\s*3[^\n]{{0,120}}Macro-functional.{{0,800}}"
+            rf"(?:db:id=|id=){re.escape(bad)}\b",
+            text,
+        ) or re.search(
+            rf"(?is)(?:db:id=|id=){re.escape(bad)}\b.{{0,400}}"
+            r"Reception\s*\|\s*Production\s*\|\s*Interaction\s*\|\s*Mediation",
+            text,
+        ):
+            text = text.replace(bad, good_t3)
+            # Fix display header if it collapsed to bare Reception
+            text = re.sub(
+                rf"(?m)^(### )\s*Reception\s*(\| )\s*{re.escape(good_t3)}\s*$",
+                rf"\1{good_title} \2{good_t3}",
+                text,
+            )
+    # Long auto-slug for Table 3 → pinned short id
+    long_t3 = (
+        "table_table_3_macro_functional_basis_of_cefr_categories_"
+        "for_communicative_language_activities"
+    )
+    if long_t3 in text:
+        text = text.replace(long_t3, good_t3)
+
+    # Table 1 / 2 long slugs → layout pins when present
+    replacements = {
+        "table_table_1_the_cefr_descriptive_scheme_and_illustrative_"
+        "descriptors_updates_and_additions": "table_01_descriptive_scheme_updates",
+        "table_table_2_summary_of_changes_to_the_illustrative_descriptors": (
+            "table_02_summary_descriptor_changes"
+        ),
+    }
+    for old, new in replacements.items():
+        if old in text:
+            text = text.replace(old, new)
+
+    # Table 2: caption present but body still tagged as wrong scale id
+    # (e.g. scale_what_is_addressed_in_this_publication from first-column title)
+    good_t2 = "table_02_summary_descriptor_changes"
+    good_t2_title = "Table 2 – Summary of changes to the illustrative descriptors"
+    if re.search(r"\*\*Table 2\s*[–-].*Summary of changes", text, re.I):
+        text = re.sub(
+            r"(<!-- el:start type=artifact id=)"
+            r"(?:table_02_summary_descriptor_changes|scale_what_is_addressed_in_this_publication)"
+            r"( page=24 -->\s*\n<!-- db:id=)"
+            r"(?:table_02_summary_descriptor_changes|scale_what_is_addressed_in_this_publication)"
+            r"(\s+type=)(?:table|descriptor_scale)",
+            rf"\1{good_t2}\2{good_t2}\3table",
+            text,
+            count=1,
+        )
+        text = re.sub(
+            rf"(?m)^(### )\s*What is addressed in this publication\s*\| "
+            rf"(?:scale_what_is_addressed_in_this_publication|{re.escape(good_t2)})\s*$",
+            rf"\1{good_t2_title} | {good_t2}",
+            text,
+            count=1,
+        )
+        # el:end must match
+        text = text.replace(
+            "<!-- el:end id=scale_what_is_addressed_in_this_publication -->",
+            f"<!-- el:end id={good_t2} -->",
+        )
+    return text
+
+
 def _resync_artifact_ids_from_fixed_titles(text: str) -> str:
     """Re-derive scale/table artifact ids from fixed display titles (RIE-005).
 
@@ -1303,12 +1413,15 @@ def _resync_artifact_ids_from_fixed_titles(text: str) -> str:
       for the display name and slug (table body left unchanged).
     - Replace old ids globally (db:id, el:start/end, ### | id) so references match.
     - Does not touch figure_* ids or rotated_from_grok file contents.
+    - **Pinned known-table ids are never rewritten** (job layout + C2-T1 pins).
     """
     from pipeline.title_fix import (
         artifact_id_from_title,
         preferred_display_title,
         title_readability_score,
     )
+
+    pinned = _pinned_artifact_ids()
 
     header_re = re.compile(
         r"^(### )(.+?)( \| )((?:scale|table)_[a-z0-9_]+)(\s*)$",
@@ -1320,11 +1433,26 @@ def _resync_artifact_ids_from_fixed_titles(text: str) -> str:
     for m in header_re.finditer(text):
         old_title = m.group(2).strip()
         old_id = m.group(4)
+        # Never resync *away from* a layout-pinned id (final user-approved state)
+        if old_id in pinned:
+            continue
         prefix = "scale" if old_id.startswith("scale_") else "table"
         table_title = _table_title_near_header(text, m.end())
         new_title = preferred_display_title(old_title, table_title)
         new_id = artifact_id_from_title(new_title, prefix=prefix)
         if not new_id or new_id in ("scale_", "table_", "scale", "table"):
+            continue
+        # Never resync *onto* a name that steals a column header as the whole table
+        # when a numbered Table N title is nearby (Reception-only for Table 3).
+        if new_id in {"table_reception", "scale_reception"} and re.search(
+            r"Table\s*3|Macro-functional", old_title + " " + (table_title or ""), re.I
+        ):
+            continue
+        if new_id in pinned and old_id not in pinned:
+            # Allow upgrade *to* pinned id only
+            id_map[old_id] = new_id
+            if new_title != old_title and "Table 3" in (table_title or old_title):
+                title_map.append((old_id, old_title, new_title))
             continue
         # Only rewrite when id changes or title was fixed
         if new_id == old_id and new_title == old_title:
@@ -1370,6 +1498,8 @@ def _resync_artifact_ids_from_fixed_titles(text: str) -> str:
     # Global id remap (longest first to avoid partial collisions)
     for old_id, new_id in sorted(id_map.items(), key=lambda kv: -len(kv[0])):
         if old_id == new_id:
+            continue
+        if old_id in pinned:
             continue
         text = text.replace(old_id, new_id)
 
@@ -1853,6 +1983,8 @@ def _repair_log05_markdown(text: str) -> str:
             text = text.replace(bad, good)
 
     text = _resync_artifact_ids_from_fixed_titles(text)
+    # After resync: restore layout-pinned Table N ids (C2-T1 final state lock)
+    text = _repair_known_table_id_regressions(text)
 
     # L07: blank line after scale/table header block before markdown table
     text = re.sub(
@@ -2037,9 +2169,14 @@ def format_structured_markdown(text: str) -> str:
     text = _ensure_section_31_after_figure_11(text)
     # R1: drop text_diagram leaf soup that can appear after §3.1 lead (Fig 11 dual emit)
     try:
-        from pipeline.figure_inject import strip_garbage_under_figure_images
+        from pipeline.figure_inject import (
+            strip_garbage_under_figure_images,
+            strip_text_diagram_leaf_soup_global,
+        )
 
         text = strip_garbage_under_figure_images(text)
+        # RIE-004 / Fig 12–13: dual-emit leaf titles after ```text fences
+        text = strip_text_diagram_leaf_soup_global(text)
     except Exception:  # noqa: BLE001
         pass
     text = _dedupe_callout_title_lines(text)

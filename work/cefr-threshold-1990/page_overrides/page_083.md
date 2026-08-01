@@ -1,5 +1,7 @@
 <!-- el:start type=prose id=prose_p083 page=83 -->
-<!-- vision: Threshold PDF leaf 83 = doc p.77 | multipass Specific notions 9.4 cont.–10.1 -->
+<!-- vision: leaf 83 doc p.77 | word-catalog multipass ch7-8 -->
+<!-- cat: Be ˈcareful, | the ·plate is ˈhot. -->
+<!-- cat: ˈWhat's the ˎmain ·course? -->
 
 pipe  
 cigar  
@@ -73,5 +75,10 @@ poultry ●
 *names of kinds of poultry*  
 e.g. chicken, turkey  
 egg
+
+
+
+
+
 
 <!-- el:end id=prose_p083 -->

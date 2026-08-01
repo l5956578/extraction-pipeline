@@ -1,5 +1,7 @@
 <!-- el:start type=prose id=prose_p087 page=87 -->
-<!-- vision: Threshold PDF leaf 87 = doc p.81 | multipass Specific notions 14.1 end (complete short page) -->
+<!-- vision: leaf 87 doc p.81 | word-catalog multipass ch7-8 -->
+<!-- cat: It will be ˋfine | toˎmorrow. -->
+<!-- cat: ˈShall we ·sit in the ˎshade? -->
 
 fog  
 foggy  
@@ -16,9 +18,14 @@ thunderstorm
 snowstorm  
 lightning  
 fine ●  
-It will be ˈfine | toˎmorrow.  
+It will be ˋfine | toˎmorrow.  
 mild  
 shade  
 ˈShall we ·sit in the ˎshade?
+
+
+
+
+
 
 <!-- el:end id=prose_p087 -->

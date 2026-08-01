@@ -1,5 +1,14 @@
 <!-- el:start type=prose id=prose_p075 page=75 -->
-<!-- vision: Threshold PDF leaf 75 = doc p.69 | multipass Specific notions 5.1 cont.–5.3 -->
+<!-- vision: leaf 75 doc p.69 | word-catalog multipass ch7-8 -->
+<!-- cat: We'll ˈmiss our conˈnection | to ˈReading! -->
+<!-- cat: ˈWhat's the ·fare to ˎLiverpool? -->
+<!-- cat: ˈOne ˎadult | and ˈtwo ˎchildren. -->
+<!-- cat: ˈTwo ·singles to ˎBrighton, ·please. -->
+<!-- cat: A reˈturn ·ticket is ˋcheaper | than ·two ˎsingles. -->
+<!-- cat: I ˈalways ·travel ˎsecond ·class. -->
+<!-- cat: ˈHas our ·flight been ˎcancelled? -->
+<!-- cat: We could ˈalways ·rent a ˇcar. -->
+<!-- cat: ˈDon't ·cross ˇhere! -->
 
 connection ●  
 We'll ˈmiss our conˈnection | to ˈReading!  
@@ -27,7 +36,7 @@ adult
 single  
 ˈTwo ·singles to ˎBrighton, ·please.  
 return  
-A reˈturn ·ticket is ˈcheaper | than ·two ˎsingles.  
+A reˈturn ·ticket is ˋcheaper | than ·two ˎsingles.  
 class  
 I ˈalways ·travel ˎsecond ·class.  
 business class ●  
@@ -60,7 +69,7 @@ driver
 to ride  
 cyclist  
 to hire/to rent  
-We could ˈalways ·rent a ˈcar.
+We could ˈalways ·rent a ˇcar.
 
 **5.3 traffic**  
 street ●  
@@ -73,8 +82,10 @@ crossing
 level crossing ●  
 roundabout ●  
 to cross  
-ˈDon't ·cross ˈhere!  
+ˈDon't ·cross ˇhere!  
 corner  
 traffic lights
+
+
 
 <!-- el:end id=prose_p075 -->

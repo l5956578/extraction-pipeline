@@ -4,8 +4,8 @@ Title: Phonology
 Role: end
 Rotation: 90
 Slug: page_185_scale_phonology
-PNG: work/metadata/rotated_for_grok/page_185_scale_phonology.png
-Write markdown: work/metadata/rotated_from_grok/page_185_scale_phonology.md
+PNG: work/cefr-companion-2020/metadata/rotated_for_grok/page_185_scale_phonology.png
+Write markdown: work/cefr-companion-2020/metadata/rotated_from_grok/page_185_scale_phonology.md
 
 AUTHORITY: coding agent vision only (no chat/web Grok step).
 Schema: | Level | Receptive | Productive |  multi-row: blank Level.

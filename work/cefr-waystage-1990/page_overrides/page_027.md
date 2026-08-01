@@ -1,14 +1,16 @@
-<!-- el:start type=prose id=prose_p027 page=27 -->
-<!-- vision: Waystage PDF page 27 -->
+<!-- vision: Waystage leaf 27 doc p.21 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p027 page=21 -->
 
 **5.2 hesitating, looking for words**  
-·Er …  
-'Just a ,moment.  
-'What's the ,word for it?
+
+> ·Er …  
+> ˈJust a ˎmoment.  
+> ˈWhat's the ˎword for it?
 
 **5.3 correcting oneself**  
-,No, …  
-'Sorry, …
+
+> ˎNo, …  
+> ˇSorry, …
 
 **5.4 enumerating**  
 … and … and …  
@@ -18,22 +20,25 @@ First …, then …, then …
 So …
 
 **5.6 closing**  
-·Well, 'good,bye/'good ,night.  
-'Well, it's been 'nice ,talking with you. ®  
-I'll 'see you (,later/,soon/to,morrow, etc.) ®
+
+> ·Well, ˈgoodˎbye/ˈgood ˎnight.  
+> ˈWell, it's been ˈnice ˎtalking with you. ®  
+> I'll ˈsee you (ˎlater/ˎsoon/toˎmorrow, etc.) ®
 
 #### Telephone
 
 **5.7 opening (on lifting the handset)**  
 telephone number  
 Oxford 785423  
-'Hal,lo (this is …)
+
+> ˈHalˎlo (this is …)
 
 **5.8 asking for extension**  
 I'd like to talk to …
 
 **5.9 giving notice of a new call**  
-I'll 'call a'gain (,later/this after,noon, etc.)
+
+> I'll ˈcall aˈgain (ˎlater/this afterˎnoon, etc.)
 
 #### Letter
 
@@ -50,36 +55,44 @@ Love from …
 (See also Chapter 10.)
 
 **6.1 signalling non-understanding**  
-'Sorry, I 'don't/'didn't under,stand (that).  
-(I ·beg your) 'pardon? ®
+
+> ˇSorry, | I ˈdon't/ˈdidn't underˎstand (that).  
+> (I ·beg your) ˈpardon? ®
 
 **6.2 asking for overall repetition**  
-('Sorry,) 'can you ·say that a,gain, ·please?  
-(I ·beg your) 'pardon? ®
+
+> (ˇSorry,) ˈcan you ·say that aˎgain, ·please?  
+> (I ·beg your) ˈpardon? ®
 
 **6.3 asking for partial repetition**  
-('Sorry,) when/where/why/how/who …?
+(ˇSorry,) when/where/why/how/who …?
 
 **6.4 asking for clarification**  
-('Sorry,) 'what is ,X?
+
+> (ˇSorry,) ˈwhat is ˎX?
 
 **6.5 asking for confirmation of understanding**  
-'Did you say ,X?
+
+> ˈDid you say ˎX?
 
 **6.6 asking to spell something**  
-'Can you ,spell that, ·please?
+
+> ˈCan you ˎspell that, ·please?
 
 **6.7 asking to write something down**  
-'Can you ·write that ,down for me, ·please?
+
+> ˈCan you ·write that ˎdown for me, ·please?
 
 **6.8 expressing ignorance**  
-I 'don't know ·how to ,say it.
+
+> I ˈdon't know ·how to ˎsay it.
 
 **6.9 appealing for assistance**  
-I ·don't 'know the ·English ,word.  
-In [native language] we say …
+
+> I ·don't ˈknow the ·English ˎword.  
+> In [native language] we say …
 
 **6.10 asking to slow down**  
-'Can you ·speak ,slowly, ·please?
 
+> ˈCan you ·speak ˎslowly, ·please?
 <!-- el:end id=prose_p027 -->

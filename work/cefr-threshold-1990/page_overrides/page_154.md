@@ -1,13 +1,13 @@
 <!-- el:start type=prose id=prose_p154 page=154 -->
 <!-- vision: Threshold PDF page 154 -->
 
-‘Put the ,knife | to the 'side of the plate.
+ˈPut the ˎknife | to the ˈside of the plate.
 
-Their -house is at the 'end of the road.
+Their -house is at the ˈend of the road.
 
 The ‘fridge is to the -right of the
 
-,washing-ma-chine.
+ˎwashing-ma-chine.
 
 ‘Sonning is in the
 
@@ -15,7 +15,7 @@ The ‘fridge is to the -right of the
 
 6.2. Adverb and preposition
 
-We ‘live -next to an ,actor.
+We ˈlive -next to an ˎactor.
 
 The -house is ‘not -far from the shops.
 
@@ -31,15 +31,15 @@ functions
 
 sentence (See D 1.1 below.)
 
-| will ‘come -home ,soon.
+| will ˈcome -home ˎsoon.
 
 a compound sentence
 
-My work is 'nearly finished | and
+My work is ˈnearly finished | and
 
 Iwill ‘come home | soon.
 
-I will ‘come ,home | when my
+I will ˈcome ˎhome | when my
 
 \work is finished.
 
@@ -59,7 +59,7 @@ subordinate clauses
 
 of probability (5.2.9, 10)
 
-It is ‘likely that it will snow | to,night. certainty (5.2.13, 14)
+It is ˈlikely that it will snow | toˎnight. certainty (5.2.13, 14)
 
 It is ex'pected that the -teachers will strike. evaluation (6.5.2)
 
@@ -69,7 +69,7 @@ complementising verbs matter (5.2.39)
 
 It doesn’t matter | that she is
 
--not ,here. surprise (5.2.41)
+-not ˎhere. surprise (5.2.41)
 
 It sur'prises me | that he has left al-ready.
 
@@ -79,10 +79,10 @@ It is a ‘pity | (that) they cannot
 
 complementising adjectives
 
-(cf. A4.5 above) certainty (5.2.13, 14) lam 'sure (that) he will come. denoting emotional states
+(cf. A4.5 above) certainty (5.2.13, 14) lam ˈsure (that) he will come. denoting emotional states
 
 (5.2.29-50) lam sorry | (that) she is ill. expressing surprise (5.2.41)
 
-1am sur'prised | (that) he "loves
+1am sur'prised | (that) he ˇloves
 
 <!-- el:end id=prose_p154 -->

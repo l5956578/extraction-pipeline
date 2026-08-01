@@ -5,15 +5,15 @@
 
 A7.5.1.13 above): passive with by adjunct @
 
-He was 'warned by the police. . agentless passive J
+He was ˈwarned by the police. . agentless passive J
 
-My ,purse has been -stolen. F
+My ˎpurse has been -stolen. F
 
 corresponding to the direct object in an active sentence F
 
-The 'train was de-layed by fog. ‘ corresponding to the indirect object in an active sentence
+The ˈtrain was de-layed by fog. ' corresponding to the indirect object in an active sentence
 
-| was -given a'nother ,room | when | asked for it.
+| was -given a'nother ˎroom | when | asked for it.
 
 ###### 7.7.9.3 Use
 
@@ -21,19 +21,19 @@ At Threshold Level learners should be able to understand passive sentences, e.g.
 
 *Smoking | is ‘not allowed. 8 permitted (5.2.19)
 
-‘Smoking is per,mitted. baked, boiled, fried, grilled g
+ˈSmoking is perˎmitted. baked, boiled, fried, grilled g
 
 | pre'fer my -fish to be grilled. 8 included (7.10.2)
 
 ‘Service is in-cluded in the , bill. seen (6.5.1.4), heard (6.5.1.5) 8
 
-‘Children | should be 'seen and
+ˈChildren | should be ˈseen and
 
 -not heard. called (7.1.1) 8
 
 The ‘pub in our village | is called
 
-‘The 'King’s Head’. operated (up)on (7.7.4)
+ˈThe ˈKing's Head'. operated (up)on (7.7.4)
 
 He was ‘operated (up)on for
 
@@ -53,13 +53,13 @@ See C 1 and D 1 below.)
 
 joining non-contrastive constituents of the same rank
 
-She is ‘always ,happy | and
+She is ˈalways ˎhappy | and
 
-,beautiful | and 'she and -I are in love | and in'tend to get
+ˎbeautiful | and ˈshe and -I are in love | and in'tend to get
 
 \Married. expressing sequence of actions
 
-He 'went to the ,station | and
+He ˈwent to the ˎstation | and
 
 ‘took the -train to London.
 
@@ -67,19 +67,19 @@ He 'went to the ,station | and
 
 He is intelligent | but lazy.
 
-He is in‘telligent | as 'well as active.
+He is in'telligent | as ˈwell as active.
 
-He is as 'strong as a horse.
+He is as ˈstrong as a horse.
 
-He -works as ‘hard as he ,can.
+He -works as ˈhard as he ˎcan.
 
 .1.2.1 or (inclusive)
 
-‘This -play is 'good for ,children | or older -people.
+ˈThis -play is ˈgood for ˎchildren | or older -people.
 
 .1.2.2 or (exclusive)
 
-‘Are you ,married | or single?
+ˈAre you ˎmarried | or single?
 
 ### 2 Subordinating (cf. C2 below)
 

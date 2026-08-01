@@ -24,6 +24,11 @@ def main() -> None:
         description="Full production extract → cleanup → merge → figures → postprocess"
     )
     add_job_argument(parser)
+    parser.add_argument(
+        "--skip-regression",
+        action="store_true",
+        help="Skip automatic regression suite + versions/NNN snapshot after write",
+    )
     args = parser.parse_args()
 
     ctx = bootstrap_job(args.job, force_draft=args.force_draft)
@@ -76,6 +81,25 @@ def main() -> None:
     _log(f"Can formulate abstract {t.count('Can formulate abstract')}")
     _log(f"AGENT_VISION_PENDING {t.count('AGENT_VISION_PENDING')}")
     _log(f"sign language id present {'scale_sign_language_repertoire' in t}")
+
+    if args.skip_regression:
+        _log("=== REGRESSION skipped (--skip-regression) ===")
+        return
+
+    # After live output is written: regression suite; if pass → versions/NNN/
+    from pipeline.regression import run_regression_and_maybe_version
+
+    _log("=== REGRESSION + AUTO-VERSION ===")
+    result = run_regression_and_maybe_version(create_version=True)
+    rep = result["regression"]
+    _log(f"regression passed={rep['passed']} hard={len(rep['issues'])} soft={len(rep['soft_issues'])}")
+    for it in rep["issues"][:20]:
+        _log(f"  HARD [{it['code']}] {it['detail']}")
+    if result.get("version_path"):
+        _log(f"version snapshot: {result['version_path']}")
+    elif not rep["passed"]:
+        _log("no version snapshot (regression failed — live output still updated)")
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

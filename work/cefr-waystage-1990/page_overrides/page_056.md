@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p056 page=56 -->
-<!-- vision: Waystage PDF page 56 -->
+<!-- vision: Waystage leaf 56 doc p.50 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p056 page=50 -->
 
 ## 9 Verbal exchange patterns
 
@@ -9,7 +9,7 @@ Exponents of single language functions may occur in isolation. 'Stop!' as an ord
 | --- | --- | --- |
 | 1 Sales person | : ˈYes? | asking for wish (opening) |
 | Customer | : ˈHaddock and ˎchips. | expressing wish |
-| Sales person | : ·That'll be ˈ£1 ˎ20. | asking for payment |
+| Sales person | : ·That'll be ˈ£1ˎ20. | asking for payment |
 | Customer | : (gives money) | (making payment) |
 | Sales person | : ˎThanks. | thanking (termination) |
 

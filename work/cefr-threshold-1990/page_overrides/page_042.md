@@ -1,6 +1,5 @@
-<!-- vision: Threshold PDF leaf 42 = document p.36 | multipass intonation -->
+<!-- vision: leaf 42 doc p.36 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p042 page=36 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.34.2** How do you like NP/VP gerund
 
@@ -10,13 +9,13 @@
 
 #### 2.35 expressing satisfaction
 
-**2.35.1** ˈGood!
+**2.35.1** ˋGood!
 
-**2.35.2** ˈFine!
+**2.35.2** ˋFine!
 
 **2.35.3** demonstrative + *be* (very) good/nice
 
-> ·That's ˈgood.
+> ·That's ˋgood.
 
 **2.35.4** (This is) ˈjust what I ˎwant(ed)/ˎneed/ˎmeant/·had in ˎmind.
 
@@ -37,15 +36,15 @@
 > ˈThis ·soup is ˎcold.  
 > The ˈTˎV ·doesn't ·work.
 
-**2.36.2** I'm not satisfied/happy (with this + NP)
+**2.36.2** I’m not satisfied/happy (with this + NP)
 
 > I'm ˈnot ·happy with this ˎfridge.
 
-**2.36.3** I don't like/want this (+ NP)
+**2.36.3** I don’t like/want this (+ NP)
 
 > I ˈdon't ˎwant this ·soup.
 
-**2.36.4** I don't like/want NP like this
+**2.36.4** I don’t like/want NP like this
 
 > I ˈdon't ˎlike ·cabbage like ·this.
 
@@ -83,7 +82,7 @@
 
 #### 2.38 expressing interest
 
-**2.38.1** ˈReally!
+**2.38.1** ˋReally!
 
 **2.38.2** Is ˈthat ˎso!
 
@@ -107,13 +106,13 @@
 
 **2.39.3** I am not/not very/not at all interested in NP/VP gerund
 
-> I am not aˈt all ˎinterested | in ·going aˎbroad.
+> I am not at ˈall ˎinterested | in ·going aˎbroad.
 
 **2.39.4** NP does not interest me (very much/at all).
 
 > ·Sport does ˈnot ·interest me aˎt all.
 
-**2.39.5** It doesn't matter (+ *that* clause/*if* clause)
+**2.39.5** It doesn’t matter (+ *that* clause/*if* clause)
 
 > It ˈdoesn't ˎmatter | if it ˈrains or ˎnot.
 

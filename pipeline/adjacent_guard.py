@@ -481,6 +481,47 @@ def validate_adjacent(md_path: Path | None = None) -> list[dict]:
                 )
             )
 
+    # Fig 12 p.61: no dual-emit leaf soup; trailing §3.2.1 prose must survive
+    body61 = _page_body(md, 61)
+    if body61 and "figure_12" in body61:
+        for trash in (
+            "\nPublic announcements\n",
+            "\nPlanning\n",
+            "\nCompensating\n",
+            "\nMonitoring and repair\n",
+        ):
+            # only fail if appears *outside* fence after diagram
+            fence = body61.find("```")
+            fence_end = body61.find("```", fence + 3) if fence >= 0 else -1
+            after = body61[fence_end + 3 :] if fence_end >= 0 else body61
+            if trash.strip() in after and f"├── {trash.strip()}" not in after:
+                # bare line soup (not tree)
+                if re.search(
+                    rf"(?m)^(?:\*\*)?{re.escape(trash.strip())}(?:\*\*)?\s*$", after
+                ):
+                    issues.append(
+                        _fail(
+                            "V-ADJ-FIG12-SOUP",
+                            f"page 61: dual-emit leaf soup after Figure 12 fence: {trash.strip()!r}",
+                        )
+                    )
+                    break
+        if "rather than dialogue" not in body61.lower():
+            issues.append(
+                _fail(
+                    "V-ADJ-FIG12-TRAIL",
+                    "page 61: missing trailing oral-production prose "
+                    "ending 'rather than dialogue' (after Figure 12)",
+                )
+            )
+        if not re.search(r"3\.2\.1\.?\s*Production activities", body61, re.I):
+            issues.append(
+                _fail(
+                    "V-ADJ-FIG12-SEC",
+                    "page 61: missing §3.2.1 Production activities after Figure 12",
+                )
+            )
+
     # R1: p.47 text_diagram leaf soup after fence / after 3.1 lead
     if body47 and "figure_11" in body47:
         # Region after closing ``` of text_diagram

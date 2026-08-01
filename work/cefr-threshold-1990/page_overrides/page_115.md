@@ -1,4 +1,7 @@
 <!-- vision: Threshold PDF leaf 115 = document p.109 | multipass learning-to-learn I–II + intonation -->
+
+
+
 <!-- el:start type=prose id=prose_p115 page=109 -->
 <!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 

@@ -5,6 +5,6 @@ In broadcasting terms, *Follow Me* was highly successful. First broadcast in 197
 
 The authors wish to acknowledge here with gratitude the support received from BBC English, UCLES, the British Council and the Council of Europe. We also wish to acknowledge our continuing indebtedness to L. G. Alexander and M. A. Fitzpatrick for the skill and judgement they brought to the fundamental task of honing down the original *Threshold Level* specification to produce the compact yet comprehensive *Waystage*. The results of that work are still apparent in the selection of functional and notional categories for *Waystage*.
 
-Furthermore, van Ek's words in his introduction to *Objectives for Foreign Language Learning* are as relevant to *Waystage* as to *Threshold Level*: it is 'one of the results of many years of intensive collaboration and genuine interaction with colleagues from several European countries brought
+Furthermore, van Ek's words in his introduction to *Objectives for Foreign Language Learning* are as relevant to *Waystage* as to *Threshold Level*: it is ˈone of the results of many years of intensive collaboration and genuine interaction with colleagues from several European countries brought
 
 <!-- el:end id=prose_p008 -->

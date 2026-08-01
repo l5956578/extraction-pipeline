@@ -1,5 +1,14 @@
 <!-- el:start type=prose id=prose_p084 page=84 -->
-<!-- vision: Threshold PDF leaf 84 = doc p.78 | multipass Specific notions 10.1 cont.–10.2 -->
+<!-- vision: leaf 84 doc p.78 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWould you ·like a ˎsweet? -->
+<!-- cat: ˈWould you ·like a ·piece of ˎchocolate? -->
+<!-- cat: ˈChocolate ·ice-,cream, ·please. -->
+<!-- cat: ˈWould you ·like a ·piece of ˎcake? -->
+<!-- cat: ˈWould you ·like a ˎdrink? -->
+<!-- cat: ˈNo ·service in the ˎgarden. -->
+<!-- cat: ˈService is in·cluded in the ˎbill. -->
+<!-- cat: ˈHave you deˎcided ·yet? -->
+<!-- cat: ˈCan I ·take this aˎway? -->
 
 omelette  
 cheese  
@@ -10,7 +19,7 @@ ice-cream
 vanilla  
 chocolate  
 ˈWould you ·like a ·piece of ˎchocolate?  
-ˈChocolate ·ice-ˎcream, ·please.  
+ˈChocolate ·ice-,cream, ·please.
 cake  
 pastry  
 pie  
@@ -73,5 +82,10 @@ tip ●
 service charge ●  
 to take away ●  
 ˈCan I ·take this aˎway?
+
+
+
+
+
 
 <!-- el:end id=prose_p084 -->

@@ -1,6 +1,5 @@
-<!-- vision: Threshold PDF leaf 35 = document p.29 | multipass 3× intonation two-column -->
+<!-- vision: leaf 35 doc p.29 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p035 page=29 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **1.3.5** positive statements (with intensifying *do*)
 
@@ -12,15 +11,16 @@
 
 **1.4.1.1** interrogative sentences
 
-> ˈDid you ˎsee him?
+> ˊDid you ˎsee him?
 
 **1.4.1.2** declarative sentences with high-rising intonation
 
 > You ˊsaw him?
 
+
 **1.4.1.3** statement and question tag
 
-> They ˎlost the ·match, | ˎdidn’t they?
+> They ˎlost the ·match, | ˎdidn't they?
 
 **1.4.2** for information
 
@@ -72,7 +72,7 @@
 Yes, No (+ tag)
 
 > ˎYes, | he ˎis.  
-> ˎNo, | he ˎisn’t.
+> ˎNo, | he ˎisn't.
 
 **1.5.2** (for information)  
 declarative sentences, clauses, phrases and single words
@@ -81,7 +81,7 @@ declarative sentences, clauses, phrases and single words
 
 > At ˈ6 p.ˎm.
 
-**1.5.2.2** (place) (ˈWhere’s my ˎbox?)
+**1.5.2.2** (place) (ˈWhere's my ˎbox?)
 
 > ˈOn the ˎtable.
 
@@ -97,7 +97,6 @@ declarative sentences, clauses, phrases and single words
 (because +) declarative sentence
 
 > Be·cause I am a ˎmember.
-
 **1.5.3** (seeking identification)  
 See 1.1.
 
@@ -109,11 +108,11 @@ See 1.1.
 
 **2.1.1** I (ˈquite) aˎgree.
 
-**2.1.2** ˈThat’s ˎright.
+**2.1.2** ˈThat's ˎright.
 
-**2.1.3** ˈThat’s corˎrect.
+**2.1.3** ˈThat's corˎrect.
 
-**2.1.4** Inˎdeed.
+**2.1.4** Inˋdeed.
 
 **2.1.5** Eˎxactly.
 

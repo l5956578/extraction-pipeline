@@ -1,5 +1,15 @@
 <!-- el:start type=prose id=prose_p088 page=88 -->
-<!-- vision: Threshold PDF leaf 88 = doc p.82 | multipass Verbal exchange patterns + dialogue tables -->
+<!-- vision: leaf 88 doc p.82 | word-catalog multipass ch7-8 -->
+<!-- cat: | **1** | Sales person | : ˈYes? | asking for wish (opening) | -->
+<!-- cat: | | Customer | : ˈHaddock and ˎchips. | expressing wish | -->
+<!-- cat: | | Sales person | : ·That'll be ˈ£1.ˎ20 | asking for payment | -->
+<!-- cat: | | Sales person | : ˎThanks. | thanking (termination) | -->
+<!-- cat: | **2** | Sales person | : ˈYes? | asking for wish (opening) | -->
+<!-- cat: | | Customer | : ˈFish and ˎchips \| – ˎtwice. | expressing wish | -->
+<!-- cat: | | Sales person | : ˈCod, \| or ˎplaice? | asking for preference | -->
+<!-- cat: | | Customer | : ˎPlaice. | expressing preference | -->
+<!-- cat: | | Sales person | : ˈLarge, \| or ˎsmall | asking for preference | -->
+<!-- cat: | | Customer | : ˎLarge. And ˈsalt and ˎvinegar. | expressing preference / expressing further wish | -->
 
 ## 8 Verbal exchange patterns
 
@@ -21,5 +31,6 @@ Exponents of single language functions may occur in isolation. 'Stop!' as an ord
 | | Customer | : ˎPlaice. | expressing preference |
 | | Sales person | : ˈLarge, \| or ˎsmall | asking for preference |
 | | Customer | : ˎLarge. And ˈsalt and ˎvinegar. | expressing preference / expressing further wish |
+
 
 <!-- el:end id=prose_p088 -->

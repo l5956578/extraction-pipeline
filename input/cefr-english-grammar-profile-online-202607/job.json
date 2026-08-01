@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "id": "cefr-english-grammar-profile-online-202607",
+  "title": "English Grammar Profile Online (CEFR-aligned)",
+  "status": "draft",
+  "profile": "tabular_db",
+  "source": {
+    "file": "source.xlsx",
+    "original_filename": "English Grammar Profile Online.xlsx",
+    "published_filename": "English Grammar Profile Online.xlsx",
+    "sha256": "2D3F59DB3192E322FC2308CAE780AC389E1CF72F95C4CBDEAA087598A08BEF36",
+    "language": "en"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["detailed", "assessment_action"],
+    "skill_categories": ["grammar"],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 0,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "tabular_db",
+    "document_id": "cefr_english_grammar_profile_online_202607",
+    "document_title": "English Grammar Profile Online",
+    "product_tier": "detailed",
+    "notes": "DB-oriented extract later: Cambridge English Grammar Profile (single Data sheet), rows tied to CEFR levels. Not a PDF markdown pipeline job. Snapshot id suffix 202607."
+  }
+}

@@ -1,6 +1,8 @@
 # chunk_08 (pages 182-241)
 
-Page **182**<!-- page:182 -->
+Page **182**
+
+<!-- page:182 -->
 
 <!-- el:start type=artifact id=scale_phonology page=183 -->
 <!-- db:id=scale_phonology type=descriptor_scale product_tier=assessment_action,context pages=183-185 -->
@@ -16,17 +18,21 @@ Page **182**<!-- page:182 -->
 | A1 | Has a very basic repertoire of words/signs and simple phrases related to personal details and particular concrete situations. | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. | Can manage very short, isolated, mainly pre-packaged utterances, with much pausing to search for expressions, to articulate less familiar words, and to repair communication. | Can ask and answer questions about personal details. Can interact in a simple way but communication is totally dependent on repetition, rephrasing and repair. | Can link words/signs or groups of words/signs with very basic linear connectors like "and" or "then". | Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by interlocutors used to dealing with speakers of the language group concerned. Can reproduce correctly a limited range of sounds as well as stress on simple, familiar words and phrases. |
 <!-- el:end id=scale_phonology -->
 
-Page**183**
+Page **183**
 
 <!-- page:183 -->
 
-*Page **184**▶**CEFR – Companion volume***
+*Page **184** ▶ **CEFR – Companion volume***
 
 <!-- page:184 -->
 
-*Qualitative features of spoken language (expanded with phonology) ▶ Page **185***<!-- page:185 -->
+*Qualitative features of spoken language (expanded with phonology) ▶ Page **185***
 
-Page**186**<!-- page:186 -->
+<!-- page:185 -->
+
+Page **186**
+
+<!-- page:186 -->
 
 <!-- el:start type=artifact id=scale_argument page=187 -->
 <!-- db:id=scale_argument type=descriptor_scale product_tier=assessment_action,context pages=187-189 -->
@@ -42,22 +48,30 @@ Page**186**<!-- page:186 -->
 | A1 | Can write simple isolated phrases and sentences. Longer texts contain coherence problems that make the text very hard or impossible to understand. | Has a very basic repertoire of words and simple phrases related to personal details and particular concrete situations. | Can link words or groups of words with very basic linear connectors like "and" and "then". | Shows only limited control of a few simple grammatical structures and sentence patterns in a memorised repertoire. Errors may cause misunderstandings. | Can write simple phrases and sentences about themselves and imaginary people, where they live and what they do, etc. | |
 <!-- el:end id=scale_argument -->
 
-Page**187**
+Page **187**
 
 <!-- page:187 -->
 
-*Page **188**▶**CEFR – Companion volume***
+*Page **188** ▶ **CEFR – Companion volume***
 
 <!-- page:188 -->
 
-*Written assessment grid ▶ Page **189***<!-- page:189 -->
+*Written assessment grid ▶ Page **189***
 
-Page**190**<!-- page:190 -->
+<!-- page:189 -->
+
+Page **190**
+
+<!-- page:190 -->
 
 <!-- el:start type=prose id=prose_p191_s0 page=191 -->
 for the four domains set out in CEFR 2001 Section 4.1.1. These examples are intended to assist educators in selecting activities appropriate to their learners for each descriptor.
 
-The examples were validated in a series of distance workshops carried out during Phase 3 of the validation, from November to December 2015.**EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS  OF ONLINE INTERACTION AND MEDIATION ACTIVITIES**Appendix 5
+The examples were validated in a series of distance workshops carried out during Phase 3 of the validation, from November to December 2015.
+
+**EXAMPLES OF USE IN DIFFERENT DOMAINS FOR DESCRIPTORS  OF ONLINE INTERACTION AND MEDIATION ACTIVITIES**
+
+Appendix 5
 <!-- el:end id=prose_p191_s0 -->
 
 <!-- el:start type=artifact id=scale_online_interaction page=191 -->
@@ -321,7 +335,7 @@ The examples were validated in a series of distance workshops carried out during
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_online_interaction -->
 
-Page**191**
+Page **191**
 
 <!-- page:191 -->
 
@@ -333,7 +347,7 @@ Page**191**
 | B2+ | Can engage in online exchanges, linking their contributions to previous ones in the thread, understanding cultural implications and reacting appropriately. | in a discussion on a social networking site | as a participant in an online support group website for social or personal issues<br>in a special interest online forum evaluating content and issues | in an interdepartmental chat in a large corporation<br>during a staff committee meeting held online to discuss working conditions, or as a participant in an online focus group meeting | in an online forum for students or teachers of the same discipline |
 <!-- el:end id=scale_online_interaction -->
 
-*Page **192**▶**CEFR – Companion volume***
+*Page **192** ▶ **CEFR – Companion volume***
 
 <!-- page:192 -->
 
@@ -362,7 +376,9 @@ Page**191**
 | | Can use formulaic expressions and combinations of simple words/signs to post short positive and negative reactions to simple online postings and their embedded links and media, and can respond to further comments with standard expressions of thanks and apology. | making contact online with remote friends and/or family – also as a possible language classroom simulation | | | in the Q&A section of a school learning platform – also as a possible language classroom simulation |
 <!-- el:end id=scale_online_interaction -->
 
-*Page **194**▶**CEFR – Companion volume***<!-- page:194 -->
+*Page **194** ▶ **CEFR – Companion volume***
+
+<!-- page:194 -->
 
 <!-- el:start type=artifact id=scale_online_interaction page=195 -->
 | Level | Online conversation and discussion | Personal | Public | Occupational | Educational |
@@ -371,28 +387,43 @@ Page**191**
 <!-- el:end id=scale_online_interaction -->
 
 <!-- el:start type=prose id=prose_p195_s1 page=195 -->
-as the lead researcher in a collaborative research collaborative research programme requiring programme requiring online data collection as a participant in a data collection and**Educational**online qualitative [not applicable] and evaluation
+as the lead researcher in a collaborative research collaborative research programme requiring programme requiring online data collection as a participant in a data collection and **Educational** online qualitative [not applicable] and evaluation
 
 evaluation
 
-as a project manager using procedures across multiple online tools to co-ordinate travel agent or enrolment the introduction of new systems across multiple tools to co-ordinate the educational institution as the facilitator in an**Occupational**as personal assistant, project using online introduction of new online collaborative as a participant in a secretary for an**Situation (and roles)**remote sites locations project
+as a project manager using procedures across multiple online tools to co-ordinate travel agent or enrolment the introduction of new systems across multiple tools to co-ordinate the educational institution as the facilitator in an **Occupational** as personal assistant, project using online introduction of new online collaborative as a participant in a secretary for an **Situation (and roles)** remote sites locations project
 
-a social intervention a social intervention as the convenor for as the convenor for non-governmental non-governmental advice service and/ project organised project organised moderator of an online (e.g. by a online (e.g. by a online citizens’**Public**or Q&A forum organisation) organisation) as voluntary
+a social intervention a social intervention as the convenor for as the convenor for non-governmental non-governmental advice service and/ project organised project organised moderator of an online (e.g. by a online (e.g. by a online citizens’ **Public** or Q&A forum organisation) organisation) as voluntary
 
-### Online interaction**Personal**[not applicable]
+### Online interaction
 
-with frictions that arise during the collaborative process. providing examples through media (visual, audio, graphic). adjusting language flexibly to manage discussions and role (e.g. applications with complicated requirements), Can deal with complex online transactions in a service online, formulating and revising detailed instructions, Can deal effectively with communication problems and transactional exchange by reformulating, clarifying and Can provide guidance and add precision to the work forms of online collaboration, following and relaying Can co-ordinate a group that is working on a project instructions with precision in order to reach the goal. collaborative writing and redrafting as well as other Can resolve misunderstandings and deal effectively providing clarifications in order to accomplish the cultural issues that arise in an online collaborative or of a group at the redrafting and editing stages of**Goal-oriented online transactions**evaluating proposals from team members, and Can participate in complex projects requiring**and collaboration**collaborative work.
+**Personal** [not applicable]
 
-negotiations. shared tasks.**C2 C1**<!-- el:end id=prose_p195_s1 -->
+with frictions that arise during the collaborative process. providing examples through media (visual, audio, graphic). adjusting language flexibly to manage discussions and role (e.g. applications with complicated requirements), Can deal with complex online transactions in a service online, formulating and revising detailed instructions, Can deal effectively with communication problems and transactional exchange by reformulating, clarifying and Can provide guidance and add precision to the work forms of online collaboration, following and relaying Can co-ordinate a group that is working on a project instructions with precision in order to reach the goal. collaborative writing and redrafting as well as other Can resolve misunderstandings and deal effectively providing clarifications in order to accomplish the cultural issues that arise in an online collaborative or of a group at the redrafting and editing stages of **Goal-oriented online transactions**evaluating proposals from team members, and Can participate in complex projects requiring**and collaboration**
+
+collaborative work.
+
+negotiations. shared tasks.
+
+**C2 C1**
+<!-- el:end id=prose_p195_s1 -->
 
 <!-- el:start type=prose id=prose_p195_s2 page=195 -->
-classroom simulation**Educational**as a language**Occupational**[not applicable]**Situation (and roles)**on a social network site**Public**### Online interaction
+classroom simulation **Educational**as a language**Occupational**[not applicable]**Situation (and roles)**on a social network site**Public**
 
-on a social network site**Personal**Can post simple online greetings, using basic formulaic
+### Online interaction
 
-occupation), provided they can select them from a**Online conversation and discussion**themselves (e.g. relationship status, nationality, Can post online short simple statements about menu and/or refer to an online translation tool.
+on a social network site
 
-expressions and emoticons.**Pre-A1**
+**Personal**
+
+Can post simple online greetings, using basic formulaic
+
+occupation), provided they can select them from a **Online conversation and discussion** themselves (e.g. relationship status, nationality, Can post online short simple statements about menu and/or refer to an online translation tool.
+
+expressions and emoticons.
+
+**Pre-A1**
 <!-- el:end id=prose_p195_s2 -->
 
 <!-- el:start type=artifact id=scale_online_interaction page=195 -->
@@ -416,7 +447,7 @@ expressions and emoticons.**Pre-A1**
 | | Can interact online with a partner or small group working on a project, provided there are visual aids such as images, statistics and graphs to clarify more complex concepts.<br>Can respond to instructions and ask questions or request clarifications in order to accomplish a shared task online. | | as a member of a community group organising environmental improvement | | |
 <!-- el:end id=scale_online_interaction -->
 
-*Page **196**▶**CEFR – Companion volume***
+*Page **196** ▶ **CEFR – Companion volume***
 
 <!-- page:196 -->
 
@@ -443,7 +474,7 @@ expressions and emoticons.**Pre-A1**
 | B2 | Can relay (in Language B) the main point(s) contained in formal correspondence and/or reports (in Language A) on general subjects and on subjects related to their fields of interest. | a notice, announcement, letter or e-mail outlining policies, regulations or procedures (e.g. related to housing, insurance, rent/mortgage, employment or health care) | a notice or announcement made by a public authority or facility like a library, swimming pool, etc. outlining regulations or procedures | a letter, e-mail or notice outlining why a meeting had to be cancelled, whether someone is for or against an idea and why, workplace policies or regulations | a letter, e-mail or notice outlining university policies, procedures or regulations |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **198**▶**CEFR – Companion volume***
+*Page **198** ▶ **CEFR – Companion volume***
 
 <!-- page:198 -->
 
@@ -468,7 +499,7 @@ expressions and emoticons.**Pre-A1**
 | | Can relay (in Language B) in a simple way a series of short, simple instructions, provided the original speech (in Language A) is clearly and slowly articulated. | a recipe, how to use a basic household appliance, how to assemble a piece of furniture | how to get from X to Y, directions provided by a traffic or parking official | how to operate office equipment such as changing the toner on a photocopier or downloading software | instructions concerning a homework assignment, or a simple experiment |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **200**▶**CEFR – Companion volume***
+*Page **200** ▶ **CEFR – Companion volume***
 
 <!-- page:200 -->
 
@@ -496,7 +527,7 @@ expressions and emoticons.**Pre-A1**
 | | Can relay in writing (in Language B) the significant point(s) contained in formal correspondence (in Language A). | a rental agreement or insurance policy for a friend or family member | terms and conditions for a trip or service | in a circular sent to employees, in a letter from a partner giving notice or stating new conditions; in a complaint | in a circular sent by a school principal to parents; in a reply from an organisation to a request for information sent during a project |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **202**▶**CEFR – Companion volume***
+*Page **202** ▶ **CEFR – Companion volume***
 
 <!-- page:202 -->
 
@@ -522,7 +553,7 @@ expressions and emoticons.**Pre-A1**
 | Pre-A1 | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. | the name, address and phone number of a restaurant, restaurant menus including prices and main ingredients | the name and address of a shop, the prices of goods, timetables, travel itineraries, performance information, schedule, seating availability, price, etc. | [not applicable] | the location of a school, the cost of a uniform or school supplies, the destination and cost of a school trip, school timetables |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **204**▶**CEFR – Companion volume***
+*Page **204** ▶ **CEFR – Companion volume***
 
 <!-- page:204 -->
 
@@ -536,7 +567,9 @@ expressions and emoticons.**Pre-A1**
 | B1 | Can interpret and describe (in Language B) overall trends shown in simple diagrams (e.g. graphs, bar charts) (with text in Language A), even though lexical limitations cause difficulty with formulation at times. | trends represented in household bills or personal finances, explained to a friend or family member | weather report (statistics and trends) when determining the best dates for a community event, basic financial trends presented during a community/club meeting, diagrammatic displays in a science museum | trends represented in a graph or bar chart during a business meeting or responsibilities represented in a company organogram used for employee training | general trends found in graphs, bar charts or diagrams, used in pair or group work at secondary school/college/university |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **205***<!-- page:205 -->
+*Examples of use in different domains for descriptors of online interaction and mediation activities ▶ Page **205***
+
+<!-- page:205 -->
 
 <!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
 | Level | Explaining data (in graphs, diagrams, etc.) in speech or sign | Personal | Public | Occupational | Educational |
@@ -548,28 +581,37 @@ expressions and emoticons.**Pre-A1**
 <!-- el:end id=scale_mediating_a_text -->
 
 <!-- el:start type=prose id=prose_p206_s1 page=206 -->
-or master’s dissertation that includes empirical as part of a PhD thesis**Educational**data
+or master’s dissertation that includes empirical as part of a PhD thesis **Educational**
 
-financial report, market for senior management development activities data from a company corporate report or**Occupational**from research and**Text (and discourse environment)**research or other
+data
 
-[not applicable]**Public**### Mediating a text**Personal**[not applicable]
+financial report, market for senior management development activities data from a company corporate report or **Occupational**from research and**Text (and discourse environment)** research or other
 
-A) from conceptually complex research on academic or various forms of empirical data (with text in Language Can interpret and present in writing (in Language B)**Explaining data (in graphs,  diagrams, etc.) in writing**professional topics.**C2**<!-- el:end id=prose_p206_s1 -->
+[not applicable] **Public**### Mediating a text**Personal** [not applicable]
+
+A) from conceptually complex research on academic or various forms of empirical data (with text in Language Can interpret and present in writing (in Language B)
+
+**Explaining data (in graphs,  diagrams, etc.) in writing**professional topics.**C2**
+<!-- el:end id=prose_p206_s1 -->
 
 <!-- el:start type=prose id=prose_p206_s2 page=206 -->
-features of graphs, bar at secondary school/ such as population/ pair or group work charts or diagrams**Educational**over time, used in college/university weather changes
+features of graphs, bar at secondary school/ such as population/ pair or group work charts or diagrams **Educational** over time, used in college/university weather changes
 
-work process or activity toner of a photocopier company organogram representing a simple such as changing the**Occupational**responsibilities as or basic roles and**Text (and discourse environment)**represented in a
+work process or activity toner of a photocopier company organogram representing a simple such as changing the **Occupational**responsibilities as or basic roles and**Text (and discourse environment)** represented in a
 
 a flow chart
 
-floor plan of a building metro route map, or a historic weather data basic financial trends the best dates for a when determining or shopping centre a community/club community event, presented during meeting, a bus or**Public**### Mediating a text
+floor plan of a building metro route map, or a historic weather data basic financial trends the best dates for a when determining or shopping centre a community/club community event, presented during meeting, a bus or **Public**
 
-features of a household to a friend or family diagram, identified activities, the main device shown in a planning outdoor**Personal**consulted when a weather map
+### Mediating a text
+
+features of a household to a friend or family diagram, identified activities, the main device shown in a planning outdoor **Personal** consulted when a weather map
 
 member
 
-(with text in Language A), even though pauses, false starts Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart)**Explaining data (in graphs, diagrams,  etc.) in speech or sign**and reformulation may be very evident.**No descriptors available No descriptors available** **No descriptors available Pre-A1 A2+** **A2 A1**
+(with text in Language A), even though pauses, false starts Can interpret and describe (in Language B) simple visuals on familiar topics (e.g. a weather map, a basic flow chart)
+
+**Explaining data (in graphs, diagrams,  etc.) in speech or sign**and reformulation may be very evident.**No descriptors available No descriptors available** **No descriptors available Pre-A1 A2+** **A2 A1**
 <!-- el:end id=prose_p206_s2 -->
 
 <!-- el:start type=artifact id=scale_mediating_a_text page=206 -->
@@ -581,7 +623,7 @@ member
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **206**▶**CEFR – Companion volume***
+*Page **206** ▶ **CEFR – Companion volume***
 
 <!-- page:206 -->
 
@@ -611,7 +653,7 @@ member
 | | Can explain (in Language B) subtle distinctions in the presentation of facts and arguments (in Language A). | discussions, current affairs programmes, books, newspaper articles, commentaries and editorials, specialised articles, or other publications addressed to a general educated readership | contributions at a town hall meeting, a public debate/lecture, a forum discussion, a political tract, a public policy document, a legal opinion, a political speech | presentation at a conference, seminar or meeting, a professional publication, a technical report, a press statement or conference | a lecture at an academic conference, web talks, instructional material, textbooks, papers in academic journals, reference books |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **208**▶**CEFR – Companion volume***
+*Page **208** ▶ **CEFR – Companion volume***
 
 <!-- page:208 -->
 
@@ -642,7 +684,7 @@ member
 | | Can collate short pieces of information from several sources (in Language A) and summarise them (in Language B) for somebody else. | informal discussions, prospectuses, advertisements, programmes in theatres, song lyrics | public notices and announcements, notes from meetings, relevant reports in newspapers and magazines | reports, meetings, letters and e-mails, notes from meetings, press coverage | web talks, instructions for carrying out tasks, articles on related topic |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **210**▶**CEFR – Companion volume***
+*Page **210** ▶ **CEFR – Companion volume***
 
 <!-- page:210 -->
 
@@ -671,7 +713,7 @@ member
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **212**▶**CEFR – Companion volume***
+*Page **212** ▶ **CEFR – Companion volume***
 
 <!-- page:212 -->
 
@@ -697,7 +739,7 @@ member
 | B1 | Can summarise in writing (in Language B) the main points made in straightforward, informational texts (in Language A) on subjects that are of personal or current interest, provided oral texts are clearly articulated. | a telephone call, a web talk, news bulletins, documentaries, personal letters, informational brochures, short articles | a presentation at a public meeting, public statements or notices | a video-recorded presentation at a meeting, a briefing session for a task, reports and business letters | an orientation session, instructions for an assignment, a talk by a visiting speaker, narratives and short articles |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **214**▶**CEFR – Companion volume***
+*Page **214** ▶ **CEFR – Companion volume***
 
 <!-- page:214 -->
 
@@ -727,26 +769,33 @@ member
 | A2+ | Can provide an approximate oral translation (into Language B) of short, simple everyday texts (e.g. brochure entries, notices, instructions, letters or e-mails) (written in Language A). | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **216**▶**CEFR – Companion volume***<!-- page:216 -->
+*Page **216** ▶ **CEFR – Companion volume***
+
+<!-- page:216 -->
 
 <!-- el:start type=prose id=prose_p217_s0 page=217 -->
-course/class exchanges notices on books or posters, timetables**Educational**signs and notices, exam instructions
+course/class exchanges notices on books or posters, timetables **Educational** signs and notices, exam instructions
 
-basic health and safety basic health and safety notices, instructions,**Occupational**signs and notices, regulations at the**Text (and discourse environment)**posters, leaflets
+basic health and safety basic health and safety notices, instructions, **Occupational**signs and notices, regulations at the**Text (and discourse environment)** posters, leaflets
 
 regulations workplace
 
-instructions on how to information on posters posters, programmes, purchase a travel card directions, notices, signs and notices,**Public**leaflets
+instructions on how to information on posters posters, programmes, purchase a travel card directions, notices, signs and notices, **Public**
+
+leaflets
 
 ### Mediating a text
 
 devices, instructions on products or electronic how to use a medicine
 
-e-mails and letters personal news in**Personal**[not applicable] labels on food
+e-mails and letters personal news in **Personal** [not applicable] labels on food
 
-subjects that is written in simple sentences (in Language A) (written in Language A) that are encountered on signs and (e.g. personal news, short narratives, directions, notices or Language B) of short, simple texts (e.g. notices on familiar Language B) of simple everyday words/signs and phrases Language B) of routine information on familiar everyday**Translating a written text in speech or sign**subjects) (written in Language A), capturing the most Can provide a simple, rough, oral translation (into Can provide a simple, rough oral translation (into Can provide a simple, rough oral translation (into
+subjects that is written in simple sentences (in Language A) (written in Language A) that are encountered on signs and (e.g. personal news, short narratives, directions, notices or Language B) of short, simple texts (e.g. notices on familiar Language B) of simple everyday words/signs and phrases Language B) of routine information on familiar everyday **Translating a written text in speech or sign** subjects) (written in Language A), capturing the most Can provide a simple, rough, oral translation (into Can provide a simple, rough oral translation (into Can provide a simple, rough oral translation (into
 
-notices, posters, programmes, leaflets, etc.**No descriptors available**essential point. instructions).**Pre-A1 A2** **A1**<!-- el:end id=prose_p217_s0 -->
+notices, posters, programmes, leaflets, etc.
+
+**No descriptors available**essential point. instructions).**Pre-A1 A2** **A1**
+<!-- el:end id=prose_p217_s0 -->
 
 <!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
 | Level | Translating a written text in speech or sign | Personal | Public | Occupational | Educational |
@@ -757,21 +806,22 @@ notices, posters, programmes, leaflets, etc.**No descriptors available**essentia
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-<!-- el:start type=prose id=prose_p217_s2 page=217 -->**Educational**academic papers
+<!-- el:start type=prose id=prose_p217_s2 page=217 -->
+**Educational** academic papers
 
-publications, technical**Occupational**reports, contracts,**Text (and discourse environment)**press releases professional
+publications, technical **Occupational**reports, contracts,**Text (and discourse environment)** press releases professional
 
-document, a legal a political tract,**Public**a public policy
+document, a legal a political tract, **Public** a public policy
 
 opinion
 
 ### Mediating a text
 
-addressed to a general articles, commentaries or other publications educated readership specialised articles, letters, newspaper**Personal**and editorials,
+addressed to a general articles, commentaries or other publications educated readership specialised articles, letters, newspaper **Personal** and editorials,
 
 provided subject matter accuracy is checked by a specialist Can translate (into Language B) technical material outside
 
-their field of specialisation (written in Language A),**Translating written text in writing**in the field concerned.**C2**
+their field of specialisation (written in Language A), **Translating written text in writing**in the field concerned.**C2**
 <!-- el:end id=prose_p217_s2 -->
 
 <!-- el:start type=artifact id=scale_mediating_a_text page=217 -->
@@ -800,7 +850,7 @@ their field of specialisation (written in Language A),**Translating written text
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **218**▶**CEFR – Companion volume***
+*Page **218** ▶ **CEFR – Companion volume***
 
 <!-- page:218 -->
 
@@ -831,7 +881,7 @@ their field of specialisation (written in Language A),**Translating written text
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **220**▶**CEFR – Companion volume***
+*Page **220** ▶ **CEFR – Companion volume***
 
 <!-- page:220 -->
 
@@ -858,7 +908,7 @@ their field of specialisation (written in Language A),**Translating written text
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **222**▶**CEFR – Companion volume***
+*Page **222** ▶ **CEFR – Companion volume***
 
 <!-- page:222 -->
 
@@ -884,7 +934,7 @@ their field of specialisation (written in Language A),**Translating written text
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_a_text -->
 
-*Page **224**▶**CEFR – Companion volume***
+*Page **224** ▶ **CEFR – Companion volume***
 
 <!-- page:224 -->
 
@@ -912,7 +962,7 @@ their field of specialisation (written in Language A),**Translating written text
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_concepts -->
 
-*Page **226**▶**CEFR – Companion volume***
+*Page **226** ▶ **CEFR – Companion volume***
 
 <!-- page:226 -->
 
@@ -937,7 +987,7 @@ their field of specialisation (written in Language A),**Translating written text
 | | Can present their ideas in a group and pose questions that invite reactions from other group members’ perspectives. | in a discussion with family or friends with strongly differing ideas about what to do on holiday, during a family reunion, a house renovation | at a community meeting seeking a solution to a local social problem (e.g. security, vandalism, traffic conditions, lack of green areas and/or of amenities/services) | | |
 <!-- el:end id=scale_mediating_concepts -->
 
-*Page **228**▶**CEFR – Companion volume***
+*Page **228** ▶ **CEFR – Companion volume***
 
 <!-- page:228 -->
 
@@ -966,7 +1016,7 @@ their field of specialisation (written in Language A),**Translating written text
 | | Can intervene diplomatically in order to redirect discussion, prevent one person dominating or confront disruptive behaviour. | | | at a meeting on procedures, during collaborative work on a project | |
 <!-- el:end id=scale_mediating_concepts -->
 
-*Page **230**▶**CEFR – Companion volume***
+*Page **230** ▶ **CEFR – Companion volume***
 
 <!-- page:230 -->
 
@@ -991,7 +1041,9 @@ their field of specialisation (written in Language A),**Translating written text
 | A2 | Can give simple, clear instructions to organise an activity.<br>Can give very simple instructions to a co-operative group, given some help with formulation when necessary. | | as a member/chair/moderator at a community meeting with a specific, clearly defined goal; at a festival working with a group, with a specific goal | at a meeting on procedures, during collaborative work on a project, at a staff meeting on introducing new procedures/equipment | |
 <!-- el:end id=scale_mediating_concepts -->
 
-*Page **232**▶**CEFR – Companion volume***<!-- page:232 -->
+*Page **232** ▶ **CEFR – Companion volume***
+
+<!-- page:232 -->
 
 <!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
 | Level | Managing interaction | Personal | Public | Occupational | Educational |
@@ -1007,27 +1059,39 @@ their field of specialisation (written in Language A),**Translating written text
 <!-- el:end id=scale_mediating_concepts -->
 
 <!-- el:start type=prose id=prose_p233_s1 page=233 -->
-conference during Q&A lecturer/instructor at a**Educational**in class debates or in class debates or lesson, engaging lesson, engaging seminar, giving a seminar, giving a discussions; as a when leading a when leading a
+conference during Q&A lecturer/instructor at a
+
+**Educational** in class debates or in class debates or lesson, engaging lesson, engaging seminar, giving a seminar, giving a discussions; as a when leading a when leading a
 
 discussions
 
 time
 
-brainstorming sessions team meetings and lead during project**Occupational**when taking the**Situation (and roles)**meeting discussing details of an action at a community**Public**### Mediating concepts
+brainstorming sessions team meetings and lead during project **Occupational**when taking the**Situation (and roles)**meeting discussing details of an action at a community**Public**
+
+### Mediating concepts
 
 plan
 
 issues with friends and
 
-social and political when discussing**Personal**relatives
+social and political when discussing **Personal**
 
-another’s information and ideas to come up with a concept discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate Can ask a series of open questions that build on different (e.g. hypothesising, inferring, analysing, justifying and Can encourage members of a group to describe and contributions in order to stimulate logical reasoning Can encourage members of a group to build on one Can effectively lead the development of ideas in a**Encouraging conceptual talk**elaborate on their thinking.
+relatives
+
+another’s information and ideas to come up with a concept discussion of complex abstract topics, giving direction by targeting questions and encouraging others to elaborate Can ask a series of open questions that build on different (e.g. hypothesising, inferring, analysing, justifying and Can encourage members of a group to describe and contributions in order to stimulate logical reasoning Can encourage members of a group to build on one Can effectively lead the development of ideas in a **Encouraging conceptual talk**
+
+elaborate on their thinking.
 
 on their reasoning.
 
-predicting). or solution.**B2+ C1** **C2**<!-- el:end id=prose_p233_s1 -->
+predicting). or solution.
 
-<!-- el:start type=prose id=prose_p233_s2 page=233 -->**Educational Occupational Situation (and roles) Public**### Mediating concepts**Personal Managing interaction No descriptors available** **No descriptors available Pre-A1 A1**
+**B2+ C1** **C2**
+<!-- el:end id=prose_p233_s1 -->
+
+<!-- el:start type=prose id=prose_p233_s2 page=233 -->
+**Educational Occupational Situation (and roles) Public**### Mediating concepts**Personal Managing interaction No descriptors available** **No descriptors available Pre-A1 A1**
 <!-- el:end id=prose_p233_s2 -->
 
 <!-- el:start type=artifact id=scale_mediating_concepts page=233 -->
@@ -1059,7 +1123,7 @@ predicting). or solution.**B2+ C1** **C2**<!-- el:end id=prose_p233_s1 -->
 | Pre-A1 | No descriptors available | | | | |
 <!-- el:end id=scale_mediating_concepts -->
 
-*Page **234**▶**CEFR – Companion volume***
+*Page **234** ▶ **CEFR – Companion volume***
 
 <!-- page:234 -->
 
@@ -1084,7 +1148,7 @@ predicting). or solution.**B2+ C1** **C2**<!-- el:end id=prose_p233_s1 -->
 | | Can work collaboratively with people who have different cultural orientations, discussing similarities and differences in views and perspectives. | when organising shared activities with friends or roommates | in joint activities with travel mates during a trip, in peer interaction at public events (e.g. festivals, talks, demonstrations) | in discussions with colleagues about simple tasks, working hours, holidays | with schoolmates in academic activities |
 <!-- el:end id=scale_mediating_communication -->
 
-*Page **236**▶**CEFR – Companion volume***
+*Page **236** ▶ **CEFR – Companion volume***
 
 <!-- page:236 -->
 
@@ -1114,7 +1178,7 @@ predicting). or solution.**B2+ C1** **C2**<!-- el:end id=prose_p233_s1 -->
 | B2 | Can communicate (in Language B) the sense of what is said (in Language A) on subjects within their fields of interest, conveying and when necessary explaining the significance of important statements and viewpoints, provided the interlocutors give clarifications if needed. | in a conversation with friends/relatives, guests/hosts about important current affairs | during a guided visit (e.g. an exhibition) | during a visit to company/factory/university premises<br>at dinner with visiting colleagues | in a parent–teacher meeting to discuss a child’s school performance; during a school exchange with visiting principals, teachers or students<br>at a school event or parents’ day |
 <!-- el:end id=scale_mediating_communication -->
 
-*Page **238**▶**CEFR – Companion volume***
+*Page **238** ▶ **CEFR – Companion volume***
 
 <!-- page:238 -->
 
@@ -1144,7 +1208,7 @@ predicting). or solution.**B2+ C1** **C2**<!-- el:end id=prose_p233_s1 -->
 | B2 | Can, by asking questions, identify areas of common ground and invite each side to highlight possible solutions. | | helping others with complaints about bills or services at shops, transport, banks | during minor disputes at the workplace | |
 <!-- el:end id=scale_mediating_communication -->
 
-*Page **240**▶**CEFR – Companion volume***
+*Page **240** ▶ **CEFR – Companion volume***
 
 <!-- page:240 -->
 

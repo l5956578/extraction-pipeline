@@ -1,29 +1,31 @@
-<!-- el:start type=artifact id=threshold_appendix_a_nuclear_tones page=124 -->
-<!-- db:id=threshold_five_nuclear_tones type=section_block product_tier=context pages=124-129 -->
+<!-- el:start type=artifact id=threshold_appendix_a_nuclear_tones page=118 -->
+<!-- db:id=threshold_five_nuclear_tones type=section_block product_tier=context pages=118-123 -->
 
 ### Five nuclear tones (Threshold 1990 / Waystage 1990)
 
 **Critical notation — used throughout both books.**  
 At Threshold Level (and correspondingly at Waystage), **five nuclear tones** are distinguished. The last prominent stressed syllable in a tone group is its **nucleus**. Marks are placed **before** the nuclear syllable.
 
-| # | Name | Mark (notation) | Pitch description |
-|---|------|-----------------|-------------------|
-| **1** | **Low falling** | Falling diagonal mark **below** the line of writing, before the nuclear syllable. Text notation: `` ` `` often OCR’d as backtick before syllable; prefer explicit: **[↓ low]** or keep book style: mark below = low fall. | Nuclear vowel starts on a clear, level **low-mid** tone; voice drops to a **low creaky** note and stays low to the end of the tone group. |
-| **2** | **High falling** | Same falling mark **above** the line of writing. | Like low fall, but nuclear vowel starts **above mid**. |
-| **3** | **Low rising** | Rising mark **below** the line, before the nuclear syllable. | Nuclear vowel starts **low level**; continuous upward glide **not above mid**. If a non-prominent “tail” follows, nucleus stays low and the **rise spans the tail**. |
-| **4** | **High rising** | Rising mark **above** the line. | Nuclear vowel starts between **low and mid**; upward glide extends **well above mid**. |
-| **5** | **Falling-rising** | **V-shaped** mark **above** the line before the nuclear syllable. | Sequence of high fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
+| # | Name | Mark | Position | Pitch description |
+|---|------|------|----------|-------------------|
+| **1** | **Low falling** | **ˎ** U+02CE | **Below** the line | Nuclear vowel starts on a clear, level **low-mid** tone; voice drops to a **low creaky** note and remains low to the end of the tone group. |
+| **2** | **High falling** | **ˋ** U+02CB | **Above** the line | Like low fall, but nuclear vowel starts on a pitch **above the mid point**. |
+| **3** | **Low rising** | **ˏ** U+02CF | **Below** the line | Nuclear vowel starts **low level**; continuous upward glide **not rising above mid**. If a non-prominent “tail” follows, nucleus stays low and the **rise spans the tail**. |
+| **4** | **High rising** | **ˊ** U+02CA | **Above** the line | Nuclear vowel starts somewhere between **low and mid**; upward glide extends **well above mid**. |
+| **5** | **Falling-rising** | **ˇ** U+02C7 | **Above** the line (v-shaped) | Sequence of high fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
 
-**Text encoding used in this MD extract** (OCR cannot preserve absolute above/below line position reliably):
+**Other marks**
 
-| Tone | Encoded mark in examples |
-|------|---------------------------|
-| Low falling | `,syllable` (comma-mark metaphor / low) — when ambiguous, written **[LF]** |
-| High falling | `` `syllable `` / **[HF]** |
-| Low rising | `,syllable` rising sense / **[LR]** |
-| High rising | `` `syllable `` high-rise sense / **[HR]** |
-| Falling-rising | `"syllable` / **[FR]** |
+| Mark | Code | Meaning |
+|------|------|---------|
+| **ˈ** | U+02C8 | Head (upright **above** the line) |
+| **·** | U+00B7 | Stressed non-prominent (mid-height dot) |
+| **\|** | | Minor tone group |
+| **\|\|** | | Major tone group |
 
-**Learners must** recognise these tones in others’ speech and be stimulated to use them appropriately. Uses by sentence type (declarative / yes-no / wh / imperative) follow in the Appendix A body for each tone 1–5.
+**Text encoding in product MD:** use the Unicode marks above in running examples. Do **not** use ASCII `'`, backtick, or `ˌ` (U+02CC) as substitutes.
+
+*Source:* Threshold 1990 Appendix A (PDF leaves 124–130), Vision multipass 2026-07-31.  
+*See also:* `docs/vision_extract/INTONATION_NOTATION.md`, `INTONATION_WORD_CATALOG_SOCIO_APPA.md`.
 
 <!-- el:end id=threshold_appendix_a_nuclear_tones -->

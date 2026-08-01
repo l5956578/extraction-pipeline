@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p024 page=24 -->
-<!-- vision: Waystage PDF page 24 -->
+<!-- vision: Waystage leaf 24 doc p.18 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p024 page=18 -->
 
 negative sentences with not, never, no (adjective), nobody ®, nothing
 
@@ -29,26 +29,37 @@ declarative sentence
 I know + that clause.
 
 **c** intermediate  
-I 'think so.  
+
+> I ˇthink so.
+
 I think + that clause.  
-I sup'pose/be'lieve so. ®  
+
+> I supˇpose/beˇlieve so. ®
+
 I suppose/believe + that clause. ®
 
 **d** weak  
 NP + may … ®  
-Per'haps. ®  
-I'm not 'sure (+ that clause). ®  
-I ,wonder. ®
+
+> Perˈhaps. ®  
+> I'm not ˇsure (+ that clause). ®  
+> I ˎwonder. ®
 
 **e** negative  
 NP + cannot … ®  
-I 'don't ,think so.  
+
+> I ˈdon't ˎthink so.
+
 I don't think + that clause.
 
 **2.10 enquiring how (un)certain others are of something**  
-'Are you (·quite) ,sure? ®  
+
+> ˈAre you (·quite) ˎsure? ®
+
 Are you (quite) sure + that clause? ®  
-'Do you ,think so? ®  
+
+> ˈDo you ˎthink so? ®
+
 Do you think + that clause? ®
 
 **2.11 expressing one is (not) obliged to do something**  
@@ -61,8 +72,9 @@ Do I/we have to …?
 You can …  
 You may …  
 Yes.  
-Of ,course (you·may). ®  
-('That's)·all ,right.
+
+> Of ˎcourse (you·may). ®  
+> (ˈThat's)·all ˎright.
 
 **2.14 seeking permission**  
 May I …?  
@@ -81,5 +93,4 @@ NP + must not … ®
 I'd like … (e.g. a drink, to go now).  
 I want … (e.g. a drink, to go now) (please).  
 May I have + NP (please)?
-
 <!-- el:end id=prose_p024 -->

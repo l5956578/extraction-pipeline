@@ -46,7 +46,7 @@ This scale includes live and recorded video material plus, at higher levels, fil
 - delivery: from slow, clear standard usage to the ability to handle slang and idiomatic usage.
 <!-- el:end id=prose_p052_s2 -->
 
-*Page **52**▶**CEFR – Companion volume***
+*Page **52** ▶ **CEFR – Companion volume***
 
 <!-- page:52 -->
 
@@ -74,7 +74,9 @@ This scale includes live and recorded video material plus, at higher levels, fil
 Reading comprehension is taken to include both written and signed texts. The categories for reading are a mixture between reading purpose and reading particular genres with specific functions. In terms of reading purpose, there is a fundamental difference between “Reading for orientation” and “Reading for information and argument”. The former is sometimes called search reading and mainly takes two forms: firstly, reading a text “diagonally” at speed in order to decide whether to read (parts of) it properly (= “skimming”), and secondly, looking quickly through a text, searching for something specific – usually a piece of information (= “scanning”). The latter is the way one reads artefacts like bus or train timetables, but sometimes one searches through a long prose text looking for something in particular. Then there is a fundamental difference between “Reading for information and argument” and “Reading as a leisure activity”. The latter may well involve non-fiction, but not necessarily literature. It will also encompass magazines and newspapers, vlogs/blogs, biographies, etc. – and possibly even texts that another person would read only for work or study purposes, depending on one’s interests. Finally, there are texts that one reads in a particular way – like “Reading instructions”, a specialised form of reading for information. “Reading correspondence” is different again, and this is offered first since the scales start in each category with interpersonal language use. “Reading as a leisure activity” is listed last purely because it was added in 2018.
 <!-- el:end id=prose_p053_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **53***<!-- page:53 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **53***
+
+<!-- page:53 -->
 
 <!-- el:start type=artifact id=scale_overall_reading_comprehension page=54 -->
 <!-- db:id=scale_overall_reading_comprehension type=descriptor_scale product_tier=assessment_action,detailed pages=54 -->
@@ -92,7 +94,8 @@ Reading comprehension is taken to include both written and signed texts. The cat
 | Pre-A1 | Can recognise familiar words/signs accompanied by pictures, such as a fast-food restaurant menu illustrated with photos or a picture book using familiar vocabulary. |
 <!-- el:end id=scale_overall_reading_comprehension -->
 
-<!-- el:start type=prose id=prose_p054_s2 page=54 -->**Reading correspondence**
+<!-- el:start type=prose id=prose_p054_s2 page=54 -->
+**Reading correspondence**
 
 This scale encompasses reading both personal and formal correspondence. Key concepts operationalised in the scale include the following:
 
@@ -116,7 +119,9 @@ This scale encompasses reading both personal and formal correspondence. Key conc
 | B2 | Can read correspondence relating to their field of interest and readily grasp the essential meaning.<br>Can understand what is said in a personal e-mail or posting even where some colloquial language is used. |
 <!-- el:end id=scale_overall_reading_comprehension -->
 
-*Page **54**▶**CEFR – Companion volume***<!-- page:54 -->
+*Page **54** ▶ **CEFR – Companion volume***
+
+<!-- page:54 -->
 
 <!-- el:start type=artifact id=scale_reading_correspondence page=55 -->
 <!-- db:id=scale_reading_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=55 -->
@@ -132,7 +137,8 @@ This scale encompasses reading both personal and formal correspondence. Key conc
 | Pre-A1 | Can understand from a letter, card or e-mail the event to which they are being invited and the information given about day, time and location.<br>Can recognise times and places in very simple notes and text messages from friends or colleagues (e.g.<br>“Back at 4 o’clock” or “In the meeting room”), provided there are no abbreviations. |
 <!-- el:end id=scale_reading_correspondence -->
 
-<!-- el:start type=prose id=prose_p055_s1 page=55 -->**Reading for orientation**
+<!-- el:start type=prose id=prose_p055_s1 page=55 -->
+**Reading for orientation**
 
 Reading for orientation – search reading – involves “skimming”: reading at speed in order to judge relevance and “scanning”: searching for specific information. In relation to signed texts, both functions are achieved by putting the video into “fast forward”. Key concepts operationalised in the scale include the following:
 
@@ -159,7 +165,9 @@ Reading for orientation – search reading – involves “skimming”: reading 
 | | Can scan quickly through long and complex texts, locating relevant details.<br>Can quickly identify the content and relevance of news items, articles and reports on a wide range of professional topics, deciding whether closer study is worthwhile. |
 <!-- el:end id=scale_reading_correspondence -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **55***<!-- page:55 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **55***
+
+<!-- page:55 -->
 
 <!-- el:start type=artifact id=scale_reading_for_orientation page=56 -->
 <!-- db:id=scale_reading_for_orientation type=descriptor_scale product_tier=assessment_action,detailed pages=56 -->
@@ -175,7 +183,8 @@ Reading for orientation – search reading – involves “skimming”: reading 
 | Pre-A1 | Can understand simple everyday signs such as “Parking”, “Station”, “Dining room”, “No smoking”, etc.<br>Can find information about places, times and prices on posters, flyers and notices. |
 <!-- el:end id=scale_reading_for_orientation -->
 
-<!-- el:start type=prose id=prose_p056_s1 page=56 -->**Reading for information and argument**
+<!-- el:start type=prose id=prose_p056_s1 page=56 -->
+**Reading for information and argument**
 
 Reading for information and argument – detailed reading – involves careful study of a written or signed text that one has judged to be relevant for a purpose at hand. It is often associated with study and professional life. Key concepts operationalised in the scale include the following:
 
@@ -196,7 +205,7 @@ Reading for information and argument – detailed reading – involves careful s
 | C1 | Can understand in detail a wide range of lengthy, complex texts likely to be encountered in social, professional or academic life, identifying finer points of detail including attitudes and implied as well as stated opinions. |
 <!-- el:end id=scale_reading_for_orientation -->
 
-*Page **56**▶**CEFR – Companion volume***
+*Page **56** ▶ **CEFR – Companion volume***
 
 <!-- page:56 -->
 
@@ -216,7 +225,9 @@ Reading for information and argument – detailed reading – involves careful s
 | Pre-A1 | Can understand the simplest informational material such as a fast-food restaurant menu illustrated with photos or an illustrated story formulated in very simple everyday words/signs. |
 <!-- el:end id=scale_reading_for_information_and_argument -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **57***<!-- page:57 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **57***
+
+<!-- page:57 -->
 
 <!-- el:start type=prose id=prose_p058_s0 page=58 -->
 ### Reading instructions
@@ -247,7 +258,8 @@ Reading instructions is a specialised form of reading for information, and again
 | Pre-A1 | Can understand very short, simple, instructions used in familiar everyday contexts (e.g. “No parking”, “No food or drink”), especially if there are illustrations. |
 <!-- el:end id=scale_reading_instructions -->
 
-<!-- el:start type=prose id=prose_p058_s2 page=58 -->**Reading as a leisure activity**
+<!-- el:start type=prose id=prose_p058_s2 page=58 -->
+**Reading as a leisure activity**
 
 This scale involves both fiction and non-fiction written and signed texts. These may include creative texts, different forms of literature, magazine and newspaper articles, blogs or biographies, among other types of text – depending on one’s interests. Key concepts operationalised in the scale include the following:
 
@@ -264,7 +276,7 @@ This scale involves both fiction and non-fiction written and signed texts. These
 - depth of understanding: from understanding in outline/the main points to understanding implicit as well as explicit meaning.
 <!-- el:end id=prose_p058_s2 -->
 
-*Page **58**▶**CEFR – Companion volume***
+*Page **58** ▶ **CEFR – Companion volume***
 
 <!-- page:58 -->
 
@@ -324,7 +336,9 @@ In reception, understanding progresses through a combination of bottom-up/top-do
 Production includes speaking, signing and writing activities. Oral production is a “long turn”, which may involve a short description or anecdote, or may imply a longer, more formal presentation. Productive activities have an important function in many academic and professional fields (for example oral presentations, written studies and reports – that may be transmitted in sign) and particular social value is attached to them. Judgments are made about the linguistic quality of what has been submitted in writing or in a signed video, and about the
 <!-- el:end id=prose_p060_s2 -->
 
-*Page **60**▶**CEFR – Companion volume***<!-- page:60 -->
+*Page **60** ▶ **CEFR – Companion volume***
+
+<!-- page:60 -->
 
 <!-- el:start type=figure_page id=figure_12_production_activities_strategies page=61 -->
 fluency and articulateness of expression in real time, especially when addressing an audience. Ability in this more formal production is not acquired naturally; it is a product of literacy learnt through education and experience. It involves learning the expectations and conventions of the genre concerned. Production strategies are employed to improve the quality of both informal and formal production. “Planning” is obviously more associated with formal genres, but “Monitoring and compensating” for gaps in vocabulary or terminology are also quasi-automated processes in natural language production.
@@ -353,7 +367,11 @@ Production
 ```
 
 
-Public announcements**3.2.1.1. Oral production**
+Public announcements
+
+
+
+**3.2.1.1. Oral production**
 
 
 
@@ -364,7 +382,9 @@ Compensating
 Monitoring and repair
 <!-- el:end id=figure_12_production_activities_strategies -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **61***<!-- page:61 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **61***
+
+<!-- page:61 -->
 
 <!-- el:start type=artifact id=scale_overall_oral_production page=62 -->
 <!-- db:id=scale_overall_oral_production type=descriptor_scale product_tier=assessment_action,detailed pages=62 -->
@@ -382,7 +402,8 @@ Monitoring and repair
 | Pre-A1 | Can produce short phrases about themselves, giving basic personal information (e.g. name, address, family, nationality). |
 <!-- el:end id=scale_overall_oral_production -->
 
-<!-- el:start type=prose id=prose_p062_s2 page=62 -->**Sustained monologue: describing experience**
+<!-- el:start type=prose id=prose_p062_s2 page=62 -->
+**Sustained monologue: describing experience**
 
 This scale concerns narrative and description. It has many short descriptors from A1 to B1 reflecting a relatively direct link between communicative functions and the language used to express them. There is little or no information about quality of language, for which one needs to consult the scales for communicative language competences, which are relevant to spoken, signed and written modalities. Key concepts operationalised in the scale include the following:
 
@@ -404,7 +425,9 @@ This scale concerns narrative and description. It has many short descriptors fro
 | | Can give straightforward descriptions on a variety of familiar subjects within their field of interest.<br>Can reasonably fluently relate a straightforward narrative or description as a sequence of points.<br>Can give detailed accounts of experiences, describing feelings and reactions.<br>Can relate details of unpredictable occurrences, e.g. an accident.<br>Can relate the plot of a book or film and describe their reactions.<br>Can describe dreams, hopes and ambitions.<br>Can describe events, real or imagined.<br>Can narrate a story. |
 <!-- el:end id=scale_overall_oral_production -->
 
-*Page **62**▶**CEFR – Companion volume***<!-- page:62 -->
+*Page **62** ▶ **CEFR – Companion volume***
+
+<!-- page:62 -->
 
 <!-- el:start type=artifact id=scale_sustained_monologue_describing_experience page=63 -->
 <!-- db:id=scale_sustained_monologue_describing_experience type=descriptor_scale product_tier=assessment_action,detailed pages=63 -->
@@ -418,7 +441,8 @@ This scale concerns narrative and description. It has many short descriptors fro
 | Pre-A1 | Can describe themselves (e.g. name, age, family), using simple words/signs and formulaic expressions, provided they can prepare in advance.<br>Can express how they are feeling using simple adjectives like “happy” or “tired”, accompanied by body language. |
 <!-- el:end id=scale_sustained_monologue_describing_experience -->
 
-<!-- el:start type=prose id=prose_p063_s1 page=63 -->**Sustained monologue: giving information**
+<!-- el:start type=prose id=prose_p063_s1 page=63 -->
+**Sustained monologue: giving information**
 
 Sustained monologue: giving information is a new scale concerned with explaining information to a recipient in a long turn. Although the recipient may well interrupt to ask for repetition and clarification, the information is clearly unidirectional; it is not an exchange. Key concepts operationalised in the scale include the following:
 
@@ -441,7 +465,9 @@ Sustained monologue: giving information is a new scale concerned with explaining
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_sustained_monologue_describing_experience -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **63***<!-- page:63 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **63***
+
+<!-- page:63 -->
 
 <!-- el:start type=prose id=prose_p064_s0 page=64 -->
 ### Sustained monologue: putting a case (e.g. in a debate)
@@ -473,7 +499,8 @@ This scale describes the ability to sustain an argument. The descriptors publish
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_sustained_monologue_putting_a_case_e_g_in_a_debate -->
 
-<!-- el:start type=prose id=prose_p064_s2 page=64 -->**Public announcements**
+<!-- el:start type=prose id=prose_p064_s2 page=64 -->
+**Public announcements**
 
 Public announcements are a very specialised way of passing important information to a group of people, perhaps in a private capacity (for example at a wedding), perhaps while organising an event or outing, or in the manner of air cabin staff. Key concepts operationalised in the scale include the following:
 
@@ -486,7 +513,9 @@ Public announcements are a very specialised way of passing important information
 
 41.	 Prosodic cues are, for example, stress and intonation for spoken languages, and non-manual elements for sign languages.
 
-*Page **64**▶**CEFR – Companion volume***<!-- page:64 -->
+*Page **64** ▶ **CEFR – Companion volume***
+
+<!-- page:64 -->
 
 <!-- el:start type=artifact id=scale_public_announcements page=65 -->
 <!-- db:id=scale_public_announcements type=descriptor_scale product_tier=assessment_action,detailed pages=65 -->
@@ -503,7 +532,8 @@ Public announcements are a very specialised way of passing important information
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_public_announcements -->
 
-<!-- el:start type=prose id=prose_p065_s1 page=65 -->**Addressing audiences**
+<!-- el:start type=prose id=prose_p065_s1 page=65 -->
+**Addressing audiences**
 
 This scale involves giving an oral presentation at a public event, in a meeting, seminar or class. Although the talk is clearly prepared, it is not usually read word for word/sign for sign. Nowadays it is conventional to use visual aids like PowerPoint, but this need not be the case. After a presentation, it is customary to take questions spontaneously, answering in a short monologue, so this is included in the descriptors as well. Key concepts operationalised in the scale include the following:
 
@@ -526,7 +556,9 @@ This scale involves giving an oral presentation at a public event, in a meeting,
 | | Can give a clear, prepared presentation, giving reasons in support of or against a particular point of view and giving the advantages and disadvantages of various options.<br>Can take a series of follow-up questions with a degree of fluency and spontaneity which poses no strain for either themselves or the audience. |
 <!-- el:end id=scale_public_announcements -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **65***<!-- page:65 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **65***
+
+<!-- page:65 -->
 
 <!-- el:start type=artifact id=scale_addressing_audiences page=66 -->
 <!-- db:id=scale_addressing_audiences type=descriptor_scale product_tier=assessment_action,detailed pages=66 -->
@@ -545,7 +577,9 @@ This scale involves giving an oral presentation at a public event, in a meeting,
 <!-- el:start type=prose id=prose_p066_s1 page=66 -->
 ##### 3.2.1.2. Written production
 
-In the categories for written production, the macro-functions “transactional language use” and “evaluative language use” are not separated because they are normally interwoven (“Reading for information and argument” also combined these two aspects). “Creative writing” is the equivalent of “Sustained monologue: describing experience”, and focuses on description and narrative. As an alternative to writing, signers sometimes produce and send a video.42**Overall written production**
+In the categories for written production, the macro-functions “transactional language use” and “evaluative language use” are not separated because they are normally interwoven (“Reading for information and argument” also combined these two aspects). “Creative writing” is the equivalent of “Sustained monologue: describing experience”, and focuses on description and narrative. As an alternative to writing, signers sometimes produce and send a video.42
+
+**Overall written production**
 <!-- el:end id=prose_p066_s1 -->
 
 <!-- el:start type=artifact id=scale_addressing_audiences page=66 -->
@@ -562,7 +596,7 @@ In the categories for written production, the macro-functions “transactional l
 
 42.	 The production of formal, signed texts on video is becoming increasingly common. The number of students in the primary, secondary and tertiary education who submit video-recorded assignments in a sign language has been rising rapidly. There are nowadays a number of MA and doctoral dissertations as well as other publications in various genres (e.g. storybooks, textbooks) produced in sign languages. Videoed statements, press releases and public announcements in sign are also increasingly common.
 
-*Page **66**▶**CEFR – Companion volume***
+*Page **66** ▶ **CEFR – Companion volume***
 
 <!-- page:66 -->
 
@@ -637,7 +671,9 @@ This scale covers more formal types of transactional and evaluative writing and 
 Communication strategies are presented in the CEFR in relation to the classic approach to strategies in interlanguage communication: planning, execution, monitoring and repair. For production strategies, the execution strategy for which an illustrative scale is offered is “Compensating”. Before the appearance of the CEFR, this tended to be the main communication strategy taken into consideration. Monitoring and repair are then combined into one scale.
 <!-- el:end id=prose_p068_s2 -->
 
-*Page **68**▶**CEFR – Companion volume***<!-- page:68 -->
+*Page **68** ▶ **CEFR – Companion volume***
+
+<!-- page:68 -->
 
 <!-- el:start type=prose id=prose_p069_s0 page=69 -->
 ### Planning
@@ -666,7 +702,8 @@ This scale is concerned with mental preparation before speaking, signing or writ
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_planning -->
 
-<!-- el:start type=prose id=prose_p069_s2 page=69 -->**Compensating**
+<!-- el:start type=prose id=prose_p069_s2 page=69 -->
+**Compensating**
 
 Compensating is a strategy for maintaining communication when one cannot think of the appropriate expression. Key concepts operationalised in the scale include the following:
 
@@ -735,7 +772,9 @@ Interaction, which involves two or more parties co-constructing discourse, is ce
 Interaction is also fundamental in learning. The CEFR scales for interaction strategies reflect this with scales for turntaking, co-operating (= collaborative strategies) and asking for clarification. These basic interaction strategies are as important in collaborative learning as they are in real-world communication. The majority of the scales for interaction concern oral interaction. When the CEFR was developed, the notion of written interaction did not meet with universal recognition and was not highly developed as a result. With hindsight, one can see that written interaction (= writing much as you would speak, in a slowed-down dialogue) has taken an increasingly significant role over the past 20 years. Rather than further develop that category, however, the new category of online interaction has been developed.
 <!-- el:end id=prose_p070_s2 -->
 
-*Page **70**▶**CEFR – Companion volume***<!-- page:70 -->
+*Page **70** ▶ **CEFR – Companion volume***
+
+<!-- page:70 -->
 
 <!-- el:start type=figure_page id=figure_13_interaction_activities_strategies page=71 -->
 <!-- db:id=figure_13_interaction_activities_strategies type=figure render_as=text_diagram product_tier=context pages=71 -->
@@ -779,7 +818,10 @@ Obtaining goods and services
 
 Interviewing and being interviewed
 
-Using telecommunications**3.3.1.1. Oral interaction**The other scales then follow:**Online  interaction**
+Using telecommunications
+
+
+**3.3.1.1. Oral interaction**The other scales then follow:**Online  interaction**
 
 Online conversation Turntaking and discussion
 
@@ -787,7 +829,9 @@ Online conversation Turntaking and discussion
 Asking for clarification
 <!-- el:end id=figure_13_interaction_activities_strategies -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **71***<!-- page:71 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **71***
+
+<!-- page:71 -->
 
 <!-- el:start type=artifact id=scale_overall_oral_interaction page=72 -->
 <!-- db:id=scale_overall_oral_interaction type=descriptor_scale product_tier=assessment_action,detailed pages=72 -->
@@ -807,7 +851,8 @@ Asking for clarification
 | Pre-A1 | Can ask and answer questions about themselves and daily routines, using short, formulaic expressions and relying on gestures to reinforce the information. |
 <!-- el:end id=scale_overall_oral_interaction -->
 
-<!-- el:start type=prose id=prose_p072_s2 page=72 -->**Understanding an interlocutor**
+<!-- el:start type=prose id=prose_p072_s2 page=72 -->
+**Understanding an interlocutor**
 
 This scale concerns understanding a person with whom you are conversing directly in an interaction, with the possibility of negotiating meaning. Key concepts operationalised in the scale include the following:
 
@@ -818,7 +863,9 @@ This scale concerns understanding a person with whom you are conversing directly
 - degree of accommodation by the interlocutor: from sympathetic repetition and taking the trouble to help, to just confirming details if the accent is less familiar.
 <!-- el:end id=prose_p072_s2 -->
 
-*Page **72**▶**CEFR – Companion volume***<!-- page:72 -->
+*Page **72** ▶ **CEFR – Companion volume***
+
+<!-- page:72 -->
 
 <!-- el:start type=artifact id=scale_understanding_an_interlocutor page=73 -->
 <!-- db:id=scale_understanding_an_interlocutor type=descriptor_scale product_tier=assessment_action,detailed pages=73 -->
@@ -836,7 +883,8 @@ This scale concerns understanding a person with whom you are conversing directly
 | Pre-A1 | Can understand simple questions that directly concern them (e.g. name, age and address), if the person is asking slowly and clearly.<br>Can understand simple personal information (e.g. name, age, place of residence, origin) when other people introduce themselves slowly and clearly, directly to them, and can understand questions on this theme addressed to them, though the questions may need to be repeated.<br>Can understand a number of familiar words/signs and recognise key information (e.g. numbers, prices, dates and days of the week), provided the delivery is very slow, with repetition if necessary. |
 <!-- el:end id=scale_understanding_an_interlocutor -->
 
-<!-- el:start type=prose id=prose_p073_s1 page=73 -->**Conversation**
+<!-- el:start type=prose id=prose_p073_s1 page=73 -->
+**Conversation**
 
 This scale concerns interaction with a primarily social function: the establishment and maintenance of personal relationships. Key concepts operationalised in the scale include the following:
 
@@ -859,7 +907,9 @@ This scale concerns interaction with a primarily social function: the establishm
 | | Can engage in extended conversation on most general topics in a clearly participatory fashion, even in a<br>[audially/visually] noisy environment.<br>Can sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient language user.<br>Can convey degrees of emotion and highlight the personal significance of events and experiences. |
 <!-- el:end id=scale_understanding_an_interlocutor -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **73***<!-- page:73 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **73***
+
+<!-- page:73 -->
 
 <!-- el:start type=artifact id=scale_conversation page=74 -->
 <!-- db:id=scale_conversation type=descriptor_scale product_tier=assessment_action,detailed pages=74 -->
@@ -875,7 +925,8 @@ This scale concerns interaction with a primarily social function: the establishm
 | Pre-A1 | Can understand and use basic, formulaic expressions such as “Yes”, “No”, “Excuse me”, “Please”, “Thank you”,<br>“No thank you”, “Sorry”.<br>Can recognise simple greetings.<br>Can greet people, state their name and take leave in a simple way. |
 <!-- el:end id=scale_conversation -->
 
-<!-- el:start type=prose id=prose_p074_s1 page=74 -->**Informal discussion (with friends)**
+<!-- el:start type=prose id=prose_p074_s1 page=74 -->
+**Informal discussion (with friends)**
 
 This scale includes aspects of both the interpersonal and evaluative use of language, since these tend to be interwoven in everyday interaction. Key concepts operationalised in the scale include the following:
 
@@ -886,7 +937,9 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 - language functions: from discussing and (dis)agreeing in a limited way to expressing ideas with precision and dealing diplomatically with disagreement and criticism.
 <!-- el:end id=prose_p074_s1 -->
 
-*Page **74**▶**CEFR – Companion volume***<!-- page:74 -->
+*Page **74** ▶ **CEFR – Companion volume***
+
+<!-- page:74 -->
 
 <!-- el:start type=artifact id=scale_informal_discussion_with_friends page=75 -->
 <!-- db:id=scale_informal_discussion_with_friends type=descriptor_scale product_tier=assessment_action,detailed pages=75 -->
@@ -906,7 +959,8 @@ This scale includes aspects of both the interpersonal and evaluative use of lang
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_informal_discussion_with_friends -->
 
-<!-- el:start type=prose id=prose_p075_s1 page=75 -->**Formal discussion (meetings)**
+<!-- el:start type=prose id=prose_p075_s1 page=75 -->
+**Formal discussion (meetings)**
 
 This scale is concerned with more formal discussion, mainly in a professional or academic context. Key concepts operationalised in the scale are very similar to those in informal discussion, but also include the following:
 
@@ -917,7 +971,9 @@ This scale is concerned with more formal discussion, mainly in a professional or
 - ability to contribute: from needing to rehearse and get help with formulation to probing, evaluating and challenging the contributions of others and arguing one’s own position convincingly.
 <!-- el:end id=prose_p075_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **75***<!-- page:75 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **75***
+
+<!-- page:75 -->
 
 <!-- el:start type=artifact id=scale_formal_discussion_meetings page=76 -->
 <!-- db:id=scale_formal_discussion_meetings type=descriptor_scale product_tier=assessment_action,detailed pages=76 -->
@@ -937,7 +993,8 @@ This scale is concerned with more formal discussion, mainly in a professional or
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_formal_discussion_meetings -->
 
-<!-- el:start type=prose id=prose_p076_s1 page=76 -->**Goal-oriented co-operation**
+<!-- el:start type=prose id=prose_p076_s1 page=76 -->
+**Goal-oriented co-operation**
 
 This scale concerns collaborative, task-focused work, which is a daily occurrence in real life, especially in professional contexts. As with the conversation and discussion scales, this scale includes similar descriptors on the ability to follow discussion. Key concepts operationalised in the scale include the following:
 
@@ -946,6 +1003,6 @@ This scale concerns collaborative, task-focused work, which is a daily occurrenc
 - active contribution to the work: from simply asking for things and giving things to speculating about causes and consequences and organising the entire task.
 <!-- el:end id=prose_p076_s1 -->
 
-*Page **76**▶**CEFR – Companion volume***
+*Page **76** ▶ **CEFR – Companion volume***
 
 <!-- page:76 -->

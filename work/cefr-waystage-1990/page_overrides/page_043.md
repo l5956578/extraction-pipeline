@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p043 page=43 -->
-<!-- vision: Waystage PDF page 43 -->
+<!-- vision: Waystage leaf 43 doc p.37 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p043 page=37 -->
 
 to cross
 

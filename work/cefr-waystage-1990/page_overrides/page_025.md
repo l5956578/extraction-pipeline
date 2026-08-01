@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p025 page=25 -->
-<!-- vision: Waystage PDF page 25 -->
+<!-- vision: Waystage leaf 25 doc p.19 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p025 page=19 -->
 
 **2.17 enquiring about want, desire**  
 Would you like … (e.g. a drink, to go now)?  
@@ -15,8 +15,8 @@ Are you going to …?
 Will you …? ®
 
 **2.20 expressing preference**  
-I('d) prefer + NP.  
-I('d) like + NP.  
+I(ˈd) prefer + NP.  
+I(ˈd) like + NP.  
 I'd rather … (than …). ®  
 I'd rather not (…). ®
 
@@ -39,59 +39,71 @@ Do(n't) you like + NP?
 Would you like … (e.g. to go now)? ®
 
 **2.24 expressing hope**  
-I' hope ,so.  
+
+> I ˈhope ˎso.
+
 I (do) hope + that clause. ®
 
 **2.25 expressing satisfaction**  
-·This/·That is 'very ,good/,nice.
+
+> ·This/·That is ˈvery ˎgood/ˎnice.
 
 **2.26 expressing dissatisfaction**  
-I 'don't ,like this/that.
+
+> I ˈdon't ˎlike this/that.
 
 **2.27 enquiring about satisfaction**  
-'Do you ,like this/that?  
-'Is ·this ·all ,right (·now)? ®
+
+> ˈDo you ˎlike this/that?  
+> ˈIs ·this ·all ˎright (·now)? ®
 
 **2.28 expressing disappointment**  
-'What a ,pity!  
-·That's a ('great) 'pity! ®
+
+> ˈWhat a ˎpity!  
+> ·That's a (ˈgreat) ˋpity! ®
 
 **2.29 expressing gratitude**  
-,Thank you ('very ,much).  
-That's 'very ,kind of you. ®
+
+> ˎThank you (ˈvery ˎmuch).  
+> That's ˈvery ˎkind of you. ®
 
 #### Moral
 
 **2.30 apologising**  
-I am ('very) ,sorry!  
-'Sorry!  
-I am 'so ,sorry! ®
+
+> I am (ˈvery) ˎsorry!  
+> ˇSorry!  
+> I am ˈso ˎsorry! ®
 
 **2.31 granting forgiveness**  
-'That's ·all ,right.  
-It's 'all ·right ,now. ®  
-It 'doesn't ,matter (a,t all). ®
+
+> ˈThat's ·all ˎright.  
+> It's ˈall ·right ˎnow. ®  
+> It ˈdoesn't ˎmatter (aˎt all). ®
 
 **2.32 expressing approval**  
-'Good!  
-·That's 'fine! ®
+
+> ˈGood!  
+> ·That's ˈfine! ®
 
 **2.33 expressing appreciation**  
-(It's) 'very ,good/,nice.
+
+> (It's) ˈvery ˎgood/ˎnice.
 
 **2.34 expressing regret**  
-'What a ,pity!  
-It's a ('great) ,pity! ®  
-I'm (so/very) sorry if … ®
+
+> ˈWhat a ˎpity!  
+> It's a (ˈgreat) ˎpity! ®  
+> I'm (so/very) sorry if … ®
 
 **2.35 expressing indifference**  
-It ·doesn't ,matter.  
-I don't mind (+ if clause). ®
+
+> It ·doesn't ˎmatter.  
+> I don't mind (+ if clause). ®
 
 ### 3 Getting things done (suasion)
 
 **3.1 suggesting a course of action (including the speaker)**  
 Let's …  
 Shall we …? ®
-
 <!-- el:end id=prose_p025 -->

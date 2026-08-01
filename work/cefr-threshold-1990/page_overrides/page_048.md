@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 48 = document p.42 | multipass intonation -->
+<!-- vision: leaf 48 doc p.42 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p048 page=42 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -11,7 +11,7 @@
 
 **4.8.2.2** first name + meet + first name
 
-> ˈJenny, | ˈmeet ˎBill.
+> ˈJenny, | ˈmeet !Bill.
 
 #### 4.9 when being introduced to someone, or when someone is introduced to you
 
@@ -37,7 +37,7 @@
 
 **4.11.2** Your (ˈvery) ·good ˎhealth.
 
-**4.11.3** Here's to) + NP
+**4.11.3** (Here's to) + NP
 
 > ˈHere's to the ·bride and ˎgroom!
 
@@ -109,7 +109,7 @@
 
 **5.3.1** ˎNo …
 
-**5.3.2** ˋSorry …
+**5.3.2** ˇSorry …
 
 **5.3.3** I ·mean …
 

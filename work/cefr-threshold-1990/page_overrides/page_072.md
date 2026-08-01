@@ -1,5 +1,9 @@
 <!-- el:start type=prose id=prose_p072 page=72 -->
-<!-- vision: Threshold PDF leaf 72 = doc p.66 | multipass Specific notions theme 4 Free time -->
+<!-- vision: leaf 72 doc p.66 | word-catalog multipass ch7-8 -->
+<!-- cat: I'm ˈfree ·after ˎsix. -->
+<!-- cat: I ˈalways ·go for a ˎwalk | on ˎSundays. -->
+<!-- cat: ˈLet's ·play your ·new ˎrecord. -->
+<!-- cat: ˈWhat are they ·showing on TˎV toˎnight? -->
 
 ## 4 Free time, entertainment
 
@@ -60,5 +64,7 @@ e.g. ballet, concert, film, floor show, musical, opera, revue, show
 e.g. actor, actress, ballet dancer, disc jockey, (film) star, musician, pop star, singer  
 *names of musical instruments*  
 e.g. flute, piano, violin, guitar
+
+
 
 <!-- el:end id=prose_p072 -->

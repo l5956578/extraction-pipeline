@@ -29,7 +29,9 @@ This scale mainly concerns service encounters in restaurants, shops, banks, etc.
 - demanding satisfaction: from making a complaint (B1) to negotiating a solution to a dispute or a sensitive transaction.
 <!-- el:end id=prose_p077_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **77***<!-- page:77 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **77***
+
+<!-- page:77 -->
 
 <!-- el:start type=artifact id=scale_obtaining_goods_and_services page=78 -->
 <!-- db:id=scale_obtaining_goods_and_services type=descriptor_scale product_tier=assessment_action,detailed pages=78 -->
@@ -48,7 +50,8 @@ This scale mainly concerns service encounters in restaurants, shops, banks, etc.
 | Pre-A1 | Can make simple purchases and/or order food or drink when pointing or other gesture can support the verbal reference. |
 <!-- el:end id=scale_obtaining_goods_and_services -->
 
-<!-- el:start type=prose id=prose_p078_s1 page=78 -->**Information exchange**
+<!-- el:start type=prose id=prose_p078_s1 page=78 -->
+**Information exchange**
 
 This scale does not contain descriptors for the C levels, because merely exchanging factual information is no longer a main focus in learning objectives for proficient users. Key concepts operationalised in the scale include the following:
 
@@ -57,7 +60,7 @@ This scale does not contain descriptors for the C levels, because merely exchang
 - type of information: from personal details, dates, prices, etc., through habits, routines, pastimes and straightforward factual information, to detailed and complex information or advice.
 <!-- el:end id=prose_p078_s1 -->
 
-*Page **78**▶**CEFR – Companion volume***
+*Page **78** ▶ **CEFR – Companion volume***
 
 <!-- page:78 -->
 
@@ -113,7 +116,7 @@ This scale concerns the specialised roles associated with doctor’s appointment
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_interviewing_and_being_interviewed -->
 
-*Page **80**▶**CEFR – Companion volume***
+*Page **80** ▶ **CEFR – Companion volume***
 
 <!-- page:80 -->
 
@@ -154,7 +157,9 @@ Written interaction concerns interactive communication through the medium of scr
 
 43.	 The number of formal and informal video-recorded chats and message exchanges has been rising rapidly, most notably through WhatsApp. Signers may correspond in writing or sign – or even switch between the two. In some countries, signers can now send enquiries, comments and complaints to certain service providers through a dedicated web portal. In addition, there are an increasing number of online surveys in which signers can choose whether to answer the questions in writing or in their sign language. The verb “compose” is therefore used in this section to include the possibility of signing.
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **81***<!-- page:81 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **81***
+
+<!-- page:81 -->
 
 <!-- el:start type=prose id=prose_p082_s0 page=82 -->
 In addition, most interactive situations are tolerant of some error and confusion and have some contextual support. There is usually an opportunity to use interaction strategies like asking for clarification or asking for help with formulation and to repair misunderstandings. Finally, the requirement to produce carefully structured, accurate text is less of a priority.
@@ -178,7 +183,8 @@ Online interaction is dealt with separately because it is multimodal (see next s
 | Pre-A1 | Can convey basic information (e.g. name, address, family) in short phrases on a form or in a note, with the use of a dictionary. |
 <!-- el:end id=scale_overall_written_interaction -->
 
-<!-- el:start type=prose id=prose_p082_s2 page=82 -->**Correspondence**
+<!-- el:start type=prose id=prose_p082_s2 page=82 -->
+**Correspondence**
 
 The 2001 scale concerned only personal correspondence. The update augments this with descriptors for formal correspondence, since this is an activity that some user/learners need to carry out. Key concepts operationalised in the scale therefore include the following:
 
@@ -198,7 +204,9 @@ The 2001 scale concerned only personal correspondence. The update augments this 
 | B2+ | Can maintain a relationship through personal correspondence using the language fluently and effectively to give detailed descriptions of experiences, pose sympathetic questions and follow up issues of mutual interest.<br>Can in most cases understand idiomatic expressions and colloquialisms in correspondence and other communications and use the most common ones themselves as appropriate to the situation.<br>Can compose formal correspondence such as letters of enquiry, request, application and complaint using appropriate register, structure and conventions.<br>Can compose a forceful but polite letter of complaint, including supporting details and a statement of the desired outcome. |
 <!-- el:end id=scale_overall_written_interaction -->
 
-*Page **82**▶**CEFR – Companion volume***<!-- page:82 -->
+*Page **82** ▶ **CEFR – Companion volume***
+
+<!-- page:82 -->
 
 <!-- el:start type=artifact id=scale_correspondence page=83 -->
 <!-- db:id=scale_correspondence type=descriptor_scale product_tier=assessment_action,detailed pages=83 -->
@@ -215,7 +223,8 @@ The 2001 scale concerned only personal correspondence. The update augments this 
 | Pre-A1 | Can convey basic personal information in short phrases and sentences, with reference to a dictionary. |
 <!-- el:end id=scale_correspondence -->
 
-<!-- el:start type=prose id=prose_p083_s1 page=83 -->**Notes, messages and forms**
+<!-- el:start type=prose id=prose_p083_s1 page=83 -->
+**Notes, messages and forms**
 
 This scale encompasses a range of transactional interactive writing. At the A levels it includes filling in forms with personal details. From A2 the focus is on taking or leaving messages and writing/signing short notes. Key concepts operationalised in the scale therefore include the following:
 
@@ -226,7 +235,9 @@ This scale encompasses a range of transactional interactive writing. At the A le
 - formulating notes: from short and simple to more developed notes to friends, service people, teachers, etc.
 <!-- el:end id=prose_p083_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **83***<!-- page:83 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **83***
+
+<!-- page:83 -->
 
 <!-- el:start type=artifact id=scale_notes_messages_and_forms page=84 -->
 <!-- db:id=scale_notes_messages_and_forms type=descriptor_scale product_tier=assessment_action,detailed pages=84 -->
@@ -256,7 +267,9 @@ Online communication is always mediated through a machine, which implies that it
 
 - ability to reformulate in order to help comprehension and deal with misunderstandings;
 
-- ability to handle emotional reactions.**Online conversation and discussion**
+- ability to handle emotional reactions.
+
+**Online conversation and discussion**
 
 This scalefocuses on conversation and discussion online as a multimodal phenomenon, with an emphasis on how interlocutors communicate online to handle both serious issues and social exchanges in an open-ended way. Key concepts operationalised in the scale include the following:
 
@@ -273,7 +286,7 @@ This scalefocuses on conversation and discussion online as a multimodal phenomen
 - the ability to include symbols, images and other codes to make the message convey tone, stress and prosody, but also the affective/emotional side, irony, etc.
 <!-- el:end id=prose_p084_s1 -->
 
-*Page **84**▶**CEFR – Companion volume***
+*Page **84** ▶ **CEFR – Companion volume***
 
 <!-- page:84 -->
 
@@ -303,7 +316,9 @@ Progression up the scale is characterised as follows: the move from lower to hig
 
 <!-- page:85 -->
 
-*Page **86**▶**CEFR – Companion volume***<!-- page:86 -->
+*Page **86** ▶ **CEFR – Companion volume***
+
+<!-- page:86 -->
 
 <!-- el:start type=artifact id=scale_goal_oriented_online_transactions_and_collaboration page=87 -->
 <!-- db:id=scale_goal_oriented_online_transactions_and_collaboration type=descriptor_scale product_tier=assessment_action,detailed pages=87 -->
@@ -324,10 +339,12 @@ Progression up the scale is characterised as follows: the move from lower to hig
 <!-- el:start type=prose id=prose_p087_s1 page=87 -->
 #### 3.3.2. Interaction strategies
 
-Three descriptor scales are offered for interaction strategies: “Taking the floor” (“Turntaking”), “Co-operating” and “Asking for clarification”**.**Notice that “Taking the floor” (“Turntaking”)**,** is in fact repeated in the section on “Pragmatic competence”, since it is a crucial part of discourse competence. This is the only instance in which a scale in the CEFR is repeated. In the scale for “Co-operating”, there are two aspects – cognitive strategies: framing, planning and organising ideational content, and collaborative strategies: handling interpersonal, relational aspects. In the section for mediation, these two aspects are further developed in new scales for cognitive strategies (“Collaborating to construct meaning”) and collaborative strategies (“Facilitating collaborative interaction with peers”). In many respects, these two scales represent a further development of the 2001 scale for “Co-operating”. However, since they go considerably further than the more discourse-focused approach of the “Co-operating” scale, it was decided to keep them under mediation.
+Three descriptor scales are offered for interaction strategies: “Taking the floor” (“Turntaking”), “Co-operating” and “Asking for clarification” **.**Notice that “Taking the floor” (“Turntaking”)**,** is in fact repeated in the section on “Pragmatic competence”, since it is a crucial part of discourse competence. This is the only instance in which a scale in the CEFR is repeated. In the scale for “Co-operating”, there are two aspects – cognitive strategies: framing, planning and organising ideational content, and collaborative strategies: handling interpersonal, relational aspects. In the section for mediation, these two aspects are further developed in new scales for cognitive strategies (“Collaborating to construct meaning”) and collaborative strategies (“Facilitating collaborative interaction with peers”). In many respects, these two scales represent a further development of the 2001 scale for “Co-operating”. However, since they go considerably further than the more discourse-focused approach of the “Co-operating” scale, it was decided to keep them under mediation.
 <!-- el:end id=prose_p087_s1 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **87***<!-- page:87 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **87***
+
+<!-- page:87 -->
 
 <!-- el:start type=prose id=prose_p088_s0 page=88 -->
 ### Turntaking
@@ -356,7 +373,10 @@ This scale is concerned with the ability to take the initiative in discourse. As
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_turntaking -->
 
-<!-- el:start type=prose id=prose_p088_s2 page=88 -->**Co-operating**This scale concerns collaborative discourse moves intended to help a discussion develop. Key concepts operationalised in the scale include the following:
+<!-- el:start type=prose id=prose_p088_s2 page=88 -->
+**Co-operating**
+
+This scale concerns collaborative discourse moves intended to help a discussion develop. Key concepts operationalised in the scale include the following:
 
 - confirming comprehension (lower levels);
 
@@ -364,7 +384,9 @@ This scale is concerned with the ability to take the initiative in discourse. As
 
 - summarising the point reached in the discussion in order to take stock (B levels);
 
-- inviting others to contribute.**Note:** This scale is developed further in the scales for “Facilitating collaborative interaction with peers” and “Collaborating to construct meaning”.
+- inviting others to contribute.
+
+**Note:** This scale is developed further in the scales for “Facilitating collaborative interaction with peers” and “Collaborating to construct meaning”.
 <!-- el:end id=prose_p088_s2 -->
 
 <!-- el:start type=artifact id=scale_turntaking page=88 -->
@@ -378,7 +400,9 @@ This scale is concerned with the ability to take the initiative in discourse. As
 | B2+ | Can give feedback on and follow up statements and inferences and so help the development of the discussion.<br>Can summarise and evaluate the main points of discussion on matters within their academic or professional competence. |
 <!-- el:end id=scale_turntaking -->
 
-*Page **88**▶**CEFR – Companion volume***<!-- page:88 -->
+*Page **88** ▶ **CEFR – Companion volume***
+
+<!-- page:88 -->
 
 <!-- el:start type=artifact id=scale_co_operating page=89 -->
 <!-- db:id=scale_co_operating type=descriptor_scale product_tier=assessment_action,detailed pages=89 -->
@@ -394,7 +418,8 @@ This scale is concerned with the ability to take the initiative in discourse. As
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_co_operating -->
 
-<!-- el:start type=prose id=prose_p089_s1 page=89 -->**Asking for clarification**
+<!-- el:start type=prose id=prose_p089_s1 page=89 -->
+**Asking for clarification**
 
 This scale concerns intervening in an interaction to indicate whether one is following or not, and to ask follow-up questions on certain points, to check comprehension. Key concepts operationalised in the scale include the following:
 
@@ -420,9 +445,14 @@ This scale concerns intervening in an interaction to indicate whether one is fol
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_co_operating -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **89***<!-- page:89 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **89***
 
-<!-- el:start type=figure_page id=figure_14_mediation_activities_strategies page=90 -->**3.4. MEDIATION**The development and validation of the scales for mediation is described in “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/168073ff31) (North and Piccardo 2016). The aim was to provide CEFR descriptors for a broader view of mediation, as presented in the paper “Education, mobility, otherness – The mediation functions of schools” (https://rm.coe.int/16807367ee) (Coste and Cavalli 2015).
+<!-- page:89 -->
+
+<!-- el:start type=figure_page id=figure_14_mediation_activities_strategies page=90 -->
+**3.4. MEDIATION**
+
+The development and validation of the scales for mediation is described in “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/168073ff31) (North and Piccardo 2016). The aim was to provide CEFR descriptors for a broader view of mediation, as presented in the paper “Education, mobility, otherness – The mediation functions of schools” (https://rm.coe.int/16807367ee) (Coste and Cavalli 2015).
 
 In mediation, the user/learner acts as a social agent who creates bridges and helps to construct or convey meaning, sometimes within the same language, sometimes across modalities (e.g. from spoken to signed or vice versa, in cross-modal communication) and sometimes from one language to another (cross-linguistic mediation). The focus is on the role of language in processes like creating the space and conditions for communicating and/or learning, collaborating to construct new meaning, encouraging others to construct or understand new meaning, and passing on new information in an appropriate form. The context can be social, pedagogic, cultural, linguistic or professional.
 
@@ -459,14 +489,22 @@ Mediation
   └── Strategies to simplify a text
     ├── Amplifying a dense text
     └── Streamlining a text
-```**Mediating  Mediating concepts** **a text Collaborating  Leading** **in a group group work**Relaying Facilitating Managing specific collaborative interaction information interaction with peers Encouraging Explaining conceptual data Collaborating talk to construct meaning Processing text
+```
+
+
+**Mediating  Mediating concepts** **a text Collaborating  Leading** **in a group group work**
+
+Relaying Facilitating Managing specific collaborative interaction information interaction with peers Encouraging Explaining conceptual data Collaborating talk to construct meaning Processing text
 
 Translating a written text
 
 Note-taking
 
 
-Analysis and criticism of creative texts**Mediating  Strategies** **Strategies  commu-** **to explain a  to simplify** **nication new concept** **a text**
+Analysis and criticism of creative texts
+
+
+**Mediating  Strategies** **Strategies  commu-** **to explain a  to simplify** **nication new concept** **a text**
 
 Facilitating Linking to Amplifying a pluricultural previous dense text space knowledge
 
@@ -475,7 +513,7 @@ Acting as an Adapting Streamlining intermediary language a text
 Breaking Facilitating communicadown tion in delicate complicated situations and information disagreements
 <!-- el:end id=figure_14_mediation_activities_strategies -->
 
-*Page **90**▶**CEFR – Companion volume***
+*Page **90** ▶ **CEFR – Companion volume***
 
 <!-- page:90 -->
 
@@ -523,10 +561,14 @@ For all the descriptors in the scales in this section, Language A and Language B
 It is also important to underline that the illustrative descriptors offered in this section are not intended to describe the competences of professional interpreters and translators. The descriptors focus on language competences,
 <!-- el:end id=prose_p092_s1 -->
 
-*Page **92**▶**CEFR – Companion volume***<!-- page:92 -->
+*Page **92** ▶ **CEFR – Companion volume***
+
+<!-- page:92 -->
 
 <!-- el:start type=prose id=prose_p093_s0 page=93 -->
-thinking of what a user/learner can do in this area in informal everyday situations. Translation and interpretation competences and strategies are an entirely different field.**Relaying specific information**
+thinking of what a user/learner can do in this area in informal everyday situations. Translation and interpretation competences and strategies are an entirely different field.
+
+**Relaying specific information**
 
 Relaying specific information refers to the way some particular piece of information of immediate relevance is extracted from the target text and relayed to someone else. Here, the emphasis is on the specific content that is relevant, rather than the main ideas or lines of argument presented in a text. “Relaying specific information” is related to “Reading for orientation” (although the information concerned may have been given orally in a public announcement or series of instructions). The user/learner scans the source text for the necessary information and then relays this to a recipient. Key concepts operationalised in the two scales include the following:
 
@@ -558,13 +600,16 @@ In the two scales, Language A and Language B may be different languages, varieti
 | Pre-A1 | Can relay (in Language B) simple instructions about places and times (given in Language A), provided these are repeated very slowly and clearly.<br>Can relay (in Language B) very basic information (e.g. numbers and prices) from short, simple, illustrated texts (in Language A). | Can list (in Language B) names, numbers, prices and very simple information from texts (in Language A) that are of immediate interest, that are composed in very simple language and contain illustrations. |
 <!-- el:end id=scale_relaying_specific_information -->
 
-*Page **94**▶**CEFR – Companion volume***
+*Page **94** ▶ **CEFR – Companion volume***
 
 <!-- page:94 -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **95***<!-- page:95 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **95***
 
-<!-- el:start type=prose id=prose_p096_s0 page=96 -->**Explaining data**
+<!-- page:95 -->
+
+<!-- el:start type=prose id=prose_p096_s0 page=96 -->
+**Explaining data**
 
 This scalerefers to the transformation into a verbal text of information found in figures (graphs, diagrams, etc.). The user/learner might do this as part of a PowerPoint presentation, or when explaining to a friend or colleague the key information given in graphics accompanying an article, a weather forecast or financial information. Key concepts operationalised in the two scales include the following:
 
@@ -575,7 +620,7 @@ Progression up the scale is characterised as follows: the higher the level, the 
 In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties/modalities concerned; in the latter case, users should simply remove the parts in brackets.
 <!-- el:end id=prose_p096_s0 -->
 
-*Page **96**▶**CEFR – Companion volume***
+*Page **96** ▶ **CEFR – Companion volume***
 
 <!-- page:96 -->
 
@@ -592,9 +637,12 @@ In the two scales, Language A and Language B may be different languages, varieti
 | Pre-A1 | No descriptors available | No descriptors available |
 <!-- el:end id=scale_explaining_data_in_graphs_diagrams_etc -->
 
-*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **97***<!-- page:97 -->
+*The CEFR Illustrative Descriptor Scales: communicative language activities and strategies ▶ Page **97***
 
-<!-- el:start type=prose id=prose_p098_s0 page=98 -->**Processing text**
+<!-- page:97 -->
+
+<!-- el:start type=prose id=prose_p098_s0 page=98 -->
+**Processing text**
 
 Processing text involves understanding the information and/or arguments included in the source text and then transferring these to another text, usually in a more condensed form, in a way that is appropriate to the context. In other words, the outcome represents a condensing and/or reformulating of the original information and arguments, focusing on the main points and ideas in the source text. The key word in the processing scales is “summarising”. Whereas in “Relaying specific information”the user/learner will almost certainly not read the whole text (unless the information required is well hidden!), in “Processing text” they have first to fully understand all the main points in the source text. “Processing text” is thus related to “Reading for information and argument” (sometimes called reading for detail, or careful reading), although the information concerned may have been given orally in a presentation or lecture. The user/learner may then choose to present the information to the recipient in a completely different order, depending on the goal of the communicative encounter. Key concepts operationalised in the two scales include the following:
 
@@ -605,7 +653,7 @@ Progression up the scale is characterised as follows: in general, as one moves u
 In the two scales, Language A and Language B may be different languages, varieties of the same language, registers of the same variety, modalities of the same language or variety, or any combination of the above. However, they may also be identical. In the former case, users should specify the languages/varieties/modalities concerned; in the latter case, users should simply remove the parts in brackets.
 <!-- el:end id=prose_p098_s0 -->
 
-*Page **98**▶**CEFR – Companion volume***
+*Page **98** ▶ **CEFR – Companion volume***
 
 <!-- page:98 -->
 
@@ -631,7 +679,7 @@ In the two scales, Language A and Language B may be different languages, varieti
 
 <!-- page:99 -->
 
-*Page **100**▶**CEFR – Companion volume***
+*Page **100** ▶ **CEFR – Companion volume***
 
 <!-- page:100 -->
 

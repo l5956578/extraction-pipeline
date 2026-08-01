@@ -1,5 +1,18 @@
 <!-- el:start type=prose id=prose_p081 page=81 -->
-<!-- vision: Threshold PDF leaf 81 = doc p.75 | multipass Specific notions 7.4 cont.–8.1 -->
+<!-- vision: leaf 81 doc p.75 | word-catalog multipass ch7-8 -->
+<!-- cat: I ˈhad an opeˎration | ·last ˎyear. -->
+<!-- cat: He has ˈbroken his ˎleg. -->
+<!-- cat: He has ˈburnt his ˎhand. -->
+<!-- cat: She has ˈcut her ˎfinger. -->
+<!-- cat: ˈDo you ·take any ˎmedicine? -->
+<!-- cat: ·Take ˈthree ·tablets a ˎday. -->
+<!-- cat: The ˈpatient is in the ˎchildren's ·ward. -->
+<!-- cat: The ·patient is ˈwaiting. -->
+<!-- cat: This ·tooth was ·filled ˈsix ˎmonths a·go. -->
+<!-- cat: ˈWhat ·time is your apˎpointment? -->
+<!-- cat: ˈDo you have ·third-·party ˎinsurance? -->
+<!-- cat: He (was) ˈtrained to be a ˎnurse. -->
+<!-- cat: I ˈtook a ·course in matheˎmatics. -->
 
 operation  
 I ˈhad an opeˎration | ·last ˎyear.  
@@ -71,5 +84,10 @@ student
 pupil  
 *names of types of education*  
 e.g. primary school, secondary school, university, college, adult education
+
+
+
+
+
 
 <!-- el:end id=prose_p081 -->

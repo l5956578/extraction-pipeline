@@ -1,5 +1,14 @@
 <!-- el:start type=prose id=prose_p076 page=76 -->
-<!-- vision: Threshold PDF leaf 76 = doc p.70 | multipass Specific notions 5.3 cont.–5.5 -->
+<!-- vision: leaf 76 doc p.70 | word-catalog multipass ch7-8 -->
+<!-- cat: In the ˈblue ˎzone | you can ·park for ˈone ·hour ˎonly. -->
+<!-- cat: You'll ·have to ·pay a ·fine of ˈ£ˎ10. -->
+<!-- cat: ˈFollow the ˎsigns. -->
+<!-- cat: We ˈwent with a ·group of ˎtourists. -->
+<!-- cat: ˈAre you ·going aˎbroad ·this ·year? -->
+<!-- cat: ˈAre you ·going to a ·foreign ˎcountry ·this ·year? -->
+<!-- cat: ˈPlease ·leave your ·key at the ˎdesk. -->
+<!-- cat: ˈCan you ·call me at ˎsix, ·please? -->
+<!-- cat: ˈIs there a ˎmessage for me? -->
 
 blue zone ●  
 In the ˈblue ˎzone | you can ·park for ˈone ·hour ˎonly.  
@@ -62,12 +71,17 @@ to register ●
 registration form ●  
 key  
 to call  
-ˈCan you ·call me at ˎsix, ·please?  
+ˈCan you ·call me at ˎsix, ·please?
 message  
 ˈIs there a ˎmessage for me?  
 hall  
 lounge ●  
 lift  
 to press ●
+
+
+
+
+
 
 <!-- el:end id=prose_p076 -->

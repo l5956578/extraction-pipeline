@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p061 page=61 -->
-<!-- vision: Waystage PDF page 61 -->
+<!-- vision: Waystage leaf 61 doc p.55 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p061 page=55 -->
 
 It will be seen that the sequence is not strictly linear. In hotels and restaurants 4.4 may come between 3.4 and 3.5, payment being made normally at the end of the meal or period of residence. In a village shop elements of 5.2 may be interspersed with any of the other stages. In the case of supermarkets and especially mechanised vending machines 2 and 5 do not apply. 3.1–3.6 and 4.3–4.4 are carried out in silence by the customer in 'dialogue' with written descriptions and instructions – a process often preferred by foreign visitors and even native speakers as avoidance strategies against expected difficulties of interpersonal communication.
 

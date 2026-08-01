@@ -4,8 +4,8 @@ Title: Mediating a text
 Role: start
 Rotation: 90
 Slug: page_224_appendix_5_domain_examples
-PNG: work/metadata/rotated_for_grok/page_224_appendix_5_domain_examples.png
-Write markdown: work/metadata/rotated_from_grok/page_224_appendix_5_domain_examples.md
+PNG: work/cefr-companion-2020/metadata/rotated_for_grok/page_224_appendix_5_domain_examples.png
+Write markdown: work/cefr-companion-2020/metadata/rotated_from_grok/page_224_appendix_5_domain_examples.md
 
 AUTHORITY: coding agent vision only (no chat/web Grok step).
 Schema: | Level | Receptive | Productive |  multi-row: blank Level.

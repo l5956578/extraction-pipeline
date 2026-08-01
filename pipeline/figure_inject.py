@@ -105,7 +105,8 @@ _LANG_AXIS = re.compile(
     re.I,
 )
 
-# text_diagram leaf / activity titles (Figs 1, 11–17 class) dual-emitted as prose (R1 p.47).
+# text_diagram leaf / activity titles (Figs 1, 11–17 class) dual-emitted as prose (R1 p.47, Fig 12/13).
+# MUST include every leaf of figures_catalog text diagrams — dual-emit after ``` is recurring.
 _DIAGRAM_LEAF_PHRASES = (
     "Overall oral comprehension",
     "Understanding conversation between other people",
@@ -131,6 +132,38 @@ _DIAGRAM_LEAF_PHRASES = (
     "Interaction strategies",
     "Mediation activities",
     "Mediation strategies",
+    # Figure 12 production leaves (user p.61 dual-emit trash)
+    "Overall oral production",
+    "Overall written production",
+    "Sustained monologue: describing experience",
+    "Sustained monologue: giving information",
+    "Sustained monologue: putting a case",
+    "Public announcements",
+    "Addressing audiences",
+    "Creative writing",
+    "Reports and essays",
+    "Planning",
+    "Compensating",
+    "Monitoring and repair",
+    # Figure 13 interaction leaves
+    "Overall oral interaction",
+    "Understanding an interlocutor",
+    "Conversation",
+    "Informal discussion",
+    "Formal discussion",
+    "Goal-oriented co-operation",
+    "Obtaining goods and services",
+    "Information exchange",
+    "Interviewing and being interviewed",
+    "Using telecommunications",
+    "Overall written interaction",
+    "Correspondence",
+    "Notes, messages and forms",
+    "Online conversation and discussion",
+    "Goal-oriented online transactions and collaboration",
+    "Turntaking",
+    "Cooperating",
+    "Clarifying",
     "Overall language proficiency",
     "General competences",
     "Communicative language competences",
@@ -452,42 +485,68 @@ def strip_figure_axis_soup_global(text: str) -> str:
 
 
 def strip_text_diagram_leaf_soup_global(text: str) -> str:
-    """Drop dual-emitted leaf titles anywhere after a text_diagram figure block.
+    """Drop dual-emitted leaf titles after a text_diagram ``` fence until el:end / page.
 
-    R1: p.47 soup after 3.1 lead (``Understanding as a member…``, doubled
-    comprehension lines). Never touches content inside ``` fences.
+    R1 p.47 + Fig 12/13 p.61/71: leaves already inside the fence reappear as bare
+    prose lines (``Public announcements``, ``Planning``, …). Never touches
+    content *inside* ``` fences. Never drops real sentences (ending .?!, length).
     """
     lines = text.splitlines()
     out: list[str] = []
     in_fence = False
     after_text_diagram = False
+    fence_leaves: set[str] = set()  # leaves seen in the most recent ```text fence
     for line in lines:
         s = line.strip()
         if s.startswith("```"):
-            if not in_fence and s.startswith("```text"):
-                after_text_diagram = True
+            if not in_fence and (s.startswith("```text") or s == "```"):
+                after_text_diagram = s.startswith("```text") or after_text_diagram
+                if s.startswith("```text"):
+                    fence_leaves = set()
+            elif in_fence:
+                # closing fence — stay after_text_diagram until page/el:end
+                pass
             in_fence = not in_fence
             out.append(line)
             continue
         if in_fence:
+            # Harvest leaf labels from tree lines for post-fence soup match
+            plain = re.sub(r"^[│├└─\s]+", "", s)
+            plain = re.sub(r"^\*+|\*+$", "", plain).strip()
+            if plain and len(plain) < 80 and not plain.startswith("#"):
+                fence_leaves.add(plain.lower())
             out.append(line)
             continue
-        if s.startswith("<!-- page:"):
+        if s.startswith("<!-- page:") or s.startswith("<!-- el:end"):
+            after_text_diagram = False
+            fence_leaves = set()
+            out.append(line)
+            continue
+        # Real section headers / body prose after the figure are NOT soup
+        if re.match(r"^#{1,4}\s+\d", s) or re.match(r"^\*\*\d+\.\d+", s):
             after_text_diagram = False
             out.append(line)
             continue
-        if after_text_diagram and _is_text_diagram_leaf_soup_line(line):
-            continue
-        if after_text_diagram and _is_label_soup_line(line) and not (
-            len(s) > 90 and s.endswith((".", "?", "!"))
-        ):
-            # Extra safety for bold multi-leaf dumps not caught as exact leaf
-            if _DOUBLED_COMPREHENSION.search(s) or (
-                not s.endswith((".", "?", "!"))
-                and _DIAGRAM_LEAF_RE.search(s)
-                and len(s) < 120
-            ):
+        if after_text_diagram:
+            plain = re.sub(r"^\*+|\*+$", "", s).strip()
+            plain_l = plain.lower()
+            # Exact leaf from the fence we just closed (strongest signal)
+            if plain_l in fence_leaves and not plain.endswith((".", "?", "!")):
                 continue
+            if _is_text_diagram_leaf_soup_line(line):
+                continue
+            if _is_label_soup_line(line) and not (
+                len(s) > 90 and s.endswith((".", "?", "!"))
+            ):
+                if _DOUBLED_COMPREHENSION.search(s) or (
+                    not s.endswith((".", "?", "!"))
+                    and _DIAGRAM_LEAF_RE.search(s)
+                    and len(s) < 120
+                ):
+                    continue
+                # Short title-case line matching any catalog leaf
+                if plain_l in {p.lower() for p in _DIAGRAM_LEAF_PHRASES}:
+                    continue
         out.append(line)
     return "\n".join(out)
 

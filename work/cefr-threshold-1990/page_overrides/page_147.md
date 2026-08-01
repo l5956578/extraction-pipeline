@@ -1,17 +1,17 @@
 <!-- el:start type=prose id=prose_p147 page=147 -->
 <!-- vision: Threshold PDF page 147 -->
 
-He had 'met Mary | -earlier that day.
+He had ˈmet Mary | -earlier that day.
 
-The ‘guests had ar,rived.
+The ˈguests had arˎrived.
 
-In 19°80, | when he “died, | ! had -known -Peter for 'ten years.
+In 19°80, | when he ˇdied, | ! had -known -Peter for ˈten years.
 
 reporting past statements an questions containing present perfect forms
 
 He ‘asked if she had -seen Mary
 
-She -said the 'guests had ar,rived.
+She -said the ˈguests had arˎrived.
 
 motion (6.3.11)
 
@@ -23,7 +23,7 @@ be + going to + infinitive lam -going to -sit here ‘all day.
 
 an action in progress at the time of speaking
 
-Our 'son is -sitting -quietly
+Our ˈson is -sitting -quietly
 
 -watching television.
 
@@ -45,16 +45,16 @@ He was going to -wait a ‘long time.
 
 She was ‘writing a letter | when the telephone -rang. d 7.7.6.5 continuity (6.3.18)
 
-He was 'still studying to -be a lawyer
+He was ˈstill studying to -be a lawyer
 
 The ‘students were -working as waiters.
 
 reporting past statements and
 
-  - `f questions containing present`
+ - ˈf questions containing present`
 continuous forms. @
 
-He .said it was 'still raining.
+He ·said it was ˈstill raining.
 
 The following uses are for
 
@@ -64,11 +64,11 @@ frame of reference @
 
 | have been -standing here since
 
-'six o'clock.
+ˈsix o'clock.
 
 frame of reference @
 
-He had been -learning -French for 'ten years | and 'spoke it well. j 7.7.8.2 in indirect speech (6.3.18), reporting statements and questions containing verbs in the past continuous or
+He had been -learning -French for ˈten years | and ˈspoke it well. j 7.7.8.2 in indirect speech (6.3.18), reporting statements and questions containing verbs in the past continuous or
 
 . present perfect continuous @
 

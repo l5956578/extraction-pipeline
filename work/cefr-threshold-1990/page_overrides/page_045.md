@@ -1,6 +1,11 @@
-<!-- vision: Threshold PDF leaf 45 = document p.39 | multipass intonation -->
+<!-- vision: leaf 45 doc p.39 | word-catalog multipass -->
+<!-- catalog samples:
+  2.57.4: sorry=ˈ | hurt=ˇ
+  3.1.1: Let's=ˈ | go=ˎ
+  3.1.3: could=· | go=ˈ | walk=ˋ
+  3.4.4: I=ˈ | you=ˋ | phone=ˈ | now=ˎ
+-->
 <!-- el:start type=prose id=prose_p045 page=39 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 2.57 expressing regret, sympathy
 
@@ -10,19 +15,19 @@
 
 > ˈWhat a ˎpity | ˈPeter ·died so ˎyoung.
 
-**2.57.3** It's a (great) pity (+ *that* clause)
+**2.57.3** It’s a (great) pity (+ *that* clause)
 
 > It's a ˈgreat ˎpity | he ·left the ˎparty.
 
-**2.57.4** I'm (so/very) sorry (+ *that* clause/*if* clause)
+**2.57.4** I’m (so/very) sorry (+ *that* clause/*if* clause)
 
-> I'm ˈsorry if I ˋhurt you.
+> I'm ˈsorry if I ˇhurt you.
 
-**2.57.5** I'm (so/very) sorry about NP
+**2.57.5** I’m (so/very) sorry about NP
 
 > I'm so ˈvery ˎsorry | about your ˎillness.
 
-**2.57.6** I'm (so/very) sorry to + VPinf
+**2.57.6** I’m (so/very) sorry to + VPinf
 
 > I'm ˎsorry | to ·hear you are ·going aˎway.
 
@@ -32,7 +37,7 @@
 
 #### 3.1 suggesting a course of action (involving both speaker and addressee)
 
-**3.1.1** Let's + VPinf!
+**3.1.1** Let’s + VPinf!
 
 > ˈLet's ˎgo!
 
@@ -50,13 +55,13 @@
 
 **3.1.5** We might (perhaps) + VPinf
 
-> We might perˈhaps ·go by ˈtrain.
+> We might perˈhaps ·go by ˋtrain.
 
 **3.1.6** Why not + VPinf?
 
 > ˈWhy not ˎfly there?
 
-**3.1.6** Why don't we + VPinf?
+**3.1.6** Why don’t we + VPinf?
 
 > ˈWhy don't we ·ask them to ˎdinner?
 
@@ -110,11 +115,11 @@
 
 > You ˈought to be more ˎcareful.
 
-**3.4.3** Why don't you + VPinf
+**3.4.3** Why don’t you + VPinf
 
 > ˈWhy don't you ·stop ˎworking so ·hard?
 
-**3.4.4** If I were you, I'd + VPinf
+**3.4.4** If I were you, I’d + VPinf
 
 > If ˈI were ˋyou | I'd ˈphone him ˎnow.
 

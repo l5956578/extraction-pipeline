@@ -3,21 +3,21 @@
 
 degree (6.4.3) + adjective + noun
 
-‘Chess is a 'very different
+ˈChess is a ˈvery different
 
 adverb + adjective + noun
 
 He is a ‘happily -married man.
 
-‘Do you -know the -way ,back?
+ˈDo you -know the -way ˎback?
 
-The ‘chair in the ,bedroom | is
+The ˈchair in the ˎbedroom | is
 
-\-need a 'clean shirt to -wear.
+\-need a ˈclean shirt to -wear.
 
 ‘Jane, | I'd -like you to -meet a
 
-‘very -nice -young ,man | -know.
+ˈvery -nice -young ˎman | -know.
 
 ##### 1.1.11 NP denoting container (6.4.2)
 
@@ -25,21 +25,21 @@ or measure (6.2.8.2, 4, 5, 6.4.2)
 
 + of + NP denoting mass substances, materials or plurals
 
-I'd -like a ‘pound of ,apples | and a ‘large -bottle of -dry -white wine.
+I'd -like a ˈpound of ˎapples | and a ˈlarge -bottle of -dry -white wine.
 
 1.2. Use of noun phrases
 
-The 'young ,woman | 'ran a,way.
+The ˈyoung ˎwoman | ˈran aˎway.
 
 verb (6.7.3.2)
 
-We .won | the football -match.
+We ·won | the football -match.
 
 giving (6.7.3.3)
 
-| ‘gave my ,sister | a 'C,D -player.
+| ˈgave my ˎsister | a ˈCˎD -player.
 
-We -went to a 'fine -old house.
+We -went to a ˈfine -old house.
 
 #### 1.3 Use
 
@@ -51,13 +51,13 @@ At Threshold Level, learners should be able to understand all the types of noun 
 
 B 1.1.7 and 1.1.8 above)
 
-This -food is 'not good e-nough.
+This -food is ˈnot good e-nough.
 
-"Smoking is bad for you.
+ˇSmoking is bad for you.
 
 adjective + complement phrase or clause (cf. C 2.1.1.1 below)
 
-“Apples | are 'good to eat.
+ˇApples | are ˈgood to eat.
 
 It is ‘probable that he will come.
 

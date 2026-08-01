@@ -23,7 +23,7 @@ He -drove ‘very fast.
 
 5.2. comparative of equality/inequality
 
-He -did as 'well as he could.
+He -did as ˈwell as he could.
 
 5.3. prepositional phrase(s)
 
@@ -35,14 +35,14 @@ I quite en joy | -travelling by air. stop, finish (6.3.25)
 
 At ‘last it has -stopped , raining
 
-little ,children.
+little ˎchildren.
 
-‘Don't ,leave | without 'paying the bill. id be able to understand the verb phrases oductively as exponents of the functional in Chapters 5, 6 and 7. It will be seen that
+ˈDon't ˎleave | without ˈpaying the bill. id be able to understand the verb phrases oductively as exponents of the functional in Chapters 5, 6 and 7. It will be seen that
 
-  - `s everything in the sentence apart from the`
+ - ˈs everything in the sentence apart from the`
 great complexity. The ability of learners at ex syntactic structures receptively is limited em very much more so, Whilst it is not mbinations a learner at Threshold Level will be beyond the relatively fixed collocations
 
-  - `s of particular functions, it is recommended`
+ - ˈs of particular functions, it is recommended`
 id be spread over a number of relatively e of conversation, a number of relatively partners in turn, rather than organised into ences,
 
 B6__ Preposition phrase

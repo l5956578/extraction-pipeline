@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 52 = document p.46 | multipass intonation -->
+<!-- vision: leaf 52 doc p.46 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p052 page=46 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -30,7 +30,7 @@
 
 **6.9.4** In (native language) we say …
 
-> In ˋGerman we ·say Verˎdienst ·Kreuz.
+> In ˇGerman we ·say Verˎdienst ·Kreuz.
 
 #### 6.10 appealing for assistance
 
@@ -50,11 +50,11 @@
 
 **6.10.5** … you know …
 
-> It's a … ˈyou ·know …
+> It's a ... ˈyou ·know ...
 
 **6.10.6** … er …
 
-> I ·found a … er … er …
+> I ·found a ... er ... er .,,
 
 #### 6.11 asking someone to speak more slowly
 
@@ -66,7 +66,7 @@
 
 **6.12.1** a/some kind/sort of + generic term
 
-> ˈsome ·kind of ˎanimal
+> ˈsome | kind of ˎanimal
 
 **6.12.2** something like + related term
 
@@ -80,13 +80,13 @@
 
 **6.13.1** X (simply repeated as spoken)
 
-> They'll ·come at ˈ5 oˎ'clock.
+> They'll ·come at '5 o,'clock.
 
 **6.13.2** X (repeated more slowly and without phonetic reduction)
 
 **6.13.3** I said X
 
-> I ·said ˋseven ˎhundred.
+> I ·said \seven ˎhundred.
 
 **6.13.4** What I said was X
 

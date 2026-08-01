@@ -1,6 +1,9 @@
 <!-- el:start type=prose id=prose_p136 page=136 -->
 <!-- vision: Threshold PDF page 136 -->
 
+
+
+
 married/single (7.1.7) . open/closed (6.5.1.12)
 
 4.3.2. gradable
@@ -19,17 +22,17 @@ adjectives (6.4.3, 6.7.4.2)
 
 ‘This -tastes like cheese.
 
-‘One ,car | is the 'same as another.
+ˈOne ˎcar | is the ˈsame as another.
 
-‘That “stone | is as 'sharp as a knife.
+ˈThat ˇstone | is as ˈsharp as a knife.
 
 4.4.2. comparative of inequality different (from) (6.7.4.1)
 
 Mal"tese | is ‘different from
 
-|,talian. not so + adj + as @ (6.7.4.2)
+|ˎtalian. not so + adj + as @ (6.7.4.2)
 
-“Wood | is 'not so ‘heavy as metal.
+ˇWood | is ˈnot so ˈheavy as metal.
 
 regular forms
 
@@ -41,17 +44,17 @@ with -y) deleting -y and adding -ier the heavier -suitcase
 
 adjectives) more + adj a-more ‘comfortable chair
 
-un-) more + un-+adj alternatively a-more un'pleasant occu,pation less + positive adj a ‘less pleasant occu-pation
+un-) more + un-+adj alternatively a-more un'pleasant occuˎpation less + positive adj a ˈless pleasant occu-pation
 
 regular forms
 
-adj+est the ‘oldest .man alive
+adj+est the ˈoldest ·man alive
 
 with -y) deleting -y and adding -jest the ‘earliest train
 
 adj+est the ‘bitterest pill
 
-adjectives) most + adj the 'most ‘useful dictionary
+adjectives) most + adj the ˈmost ˈuseful dictionary
 
 ##### 4.4.5 irregular comparatives
 

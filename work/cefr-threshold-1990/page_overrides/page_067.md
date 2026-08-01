@@ -1,5 +1,9 @@
 <!-- el:start type=prose id=prose_p067 page=67 -->
-<!-- vision: Threshold PDF leaf 67 = doc p.61 | multipass Specific notions 1.3–1.10 two-column -->
+<!-- vision: leaf 67 doc p.61 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈHave you ·got a ˎtelephone? -->
+<!-- cat: I was ˈborn in ˎLondon on ... -->
+<!-- cat: I'm from ˎLondon. -->
+<!-- cat: ˈWhere are you ˎfrom? -->
 
 town/city  
 village  
@@ -9,7 +13,7 @@ village
 **1.3 telephone number**  
 (See also Specific Notions 11.2.)  
 telephone  
-ˈHave you ·got a ˎtelephone?  
+ˈHave you ˈgot a ˎtelephone?
 to call/to phone/to ring up  
 telephone number  
 0 (pronounced [əʊ] in telephone numbers)
@@ -67,5 +71,7 @@ e.g. baker, businessman, businesswoman, butcher, civil servant, doctor/physician
 *names of places of work*  
 e.g. factory, farm, hospital, office, school, shop  
 *names of occupational activities*
+
+
 
 <!-- el:end id=prose_p067 -->

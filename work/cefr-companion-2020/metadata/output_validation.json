@@ -1,35 +1,16 @@
 {
-  "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\output\\CEFR_Companion_Volume.md",
+  "path": "D:\\y\\lang-platform\\pipelines\\extraction-pipeline\\output\\cefr-companion-2020\\CEFR_Companion_Volume.md",
   "valid": false,
   "issues": [
     {
-      "type": "missing_artifact",
-      "id": "table_01_descriptive_scheme_updates",
-      "title": "Table 1 \u2013 The CEFR descriptive scheme and illustrative descriptors: updates and additions"
+      "type": "missing_page_artifact",
+      "page": 23,
+      "artifact_id": "table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions"
     },
     {
-      "type": "missing_artifact",
-      "id": "table_02_summary_descriptor_changes",
-      "title": "Table 2 \u2013 Summary of changes to the illustrative descriptors"
-    },
-    {
-      "type": "missing_artifact",
-      "id": "table_03_macro_functional_basis",
-      "title": "Table 3 \u2013 Macro-functional basis of CEFR categories for communicative language activities"
-    },
-    {
-      "type": "footnote_single_owner",
-      "footnote": "19",
-      "count": 0,
-      "detail": "footnote 19 must appear exactly once in Table 2 span (pages 24-25)",
-      "pages": "24-25"
-    },
-    {
-      "type": "page_47_section_order",
-      "page": 47,
-      "detail": "page 47 missing Figure 11 block or 3.1. RECEPTION header",
-      "has_figure": true,
-      "has_header": false
+      "type": "missing_page_artifact",
+      "page": 24,
+      "artifact_id": "table_table_2_summary_of_changes_to_the_illustrative_descriptors"
     },
     {
       "type": "missing_page_artifact",
@@ -42,32 +23,44 @@
       "artifact_id": "scale_can_do_descriptors_as_competence"
     },
     {
-      "type": "missing_section_header",
-      "page": 47,
-      "header": "3.1. RECEPTION"
+      "type": "page_under_extracted",
+      "page": 57,
+      "chars": 93,
+      "min_chars": 405,
+      "content_type": "mixed"
     },
     {
-      "type": "missing_section_header",
-      "page": 61,
-      "header": "3.2.1. Production activities"
+      "type": "missing_table_markdown",
+      "page": 57,
+      "artifact_id": "scale_reading_for_information_and_argument"
     },
     {
-      "type": "missing_section_header",
-      "page": 61,
-      "header": "3.2.1.1. Oral production"
+      "type": "missing_table_markdown",
+      "page": 74,
+      "artifact_id": "scale_conversation"
     },
     {
-      "type": "missing_section_header",
-      "page": 71,
-      "header": "3.3.1. Interaction activities"
+      "type": "missing_table_markdown",
+      "page": 83,
+      "artifact_id": "scale_correspondence"
+    },
+    {
+      "type": "missing_table_markdown",
+      "page": 87,
+      "artifact_id": "scale_goal_oriented_online_transactions_and_collaboration"
+    },
+    {
+      "type": "page_under_extracted",
+      "page": 169,
+      "chars": 68,
+      "min_chars": 80,
+      "content_type": "mixed"
     }
   ],
   "issue_counts": {
-    "missing_artifact": 3,
-    "footnote_single_owner": 1,
-    "page_47_section_order": 1,
-    "missing_page_artifact": 2,
-    "missing_section_header": 4
+    "missing_page_artifact": 4,
+    "page_under_extracted": 2,
+    "missing_table_markdown": 4
   },
   "page_markers": 278,
   "required_count": 25,

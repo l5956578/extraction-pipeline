@@ -9,19 +9,19 @@ I'm ‘very «grateful to you for shelping me.
 
 You should be ‘kind to animals.
 
-I'm ‘very sorry | that | -broke your ,window.
+I'm ˈvery sorry | that | -broke your ˎwindow.
 
-\'m'so -sorry | to -hear your ,wife is -ill.
+\'m'so -sorry | to -hear your ˎwife is -ill.
 
-We 'might per-haps -go to
+We ˈmight per-haps -go to
 
 You ‘ought to -see a doctor.
 
-This -plate is 'very hot.
+This -plate is ˈvery hot.
 
-You ‘cut the -paper -like ,this.
+You ˈcut the -paper -like ˎthis.
 
-The -party will -meet ‘outside the ho,tel | at '5.-30 -a.m.
+The -party will -meet ˈoutside the hoˎtel | at '5.-30 -a·m.
 
 I'd ‘like to -say «something about
 
@@ -29,7 +29,7 @@ I'd ‘like to -say «something about
 
 In ‘my o,pinion, | ‘nuclear
 
--weapons are ,useless.
+-weapons are ˎuseless.
 
 | ‘must -stress the fact | that we are friends.
 
@@ -43,9 +43,9 @@ statement (5.1.3)
 
 But | ‘did -see him!
 
-I'm 'sure he does -eat -cheese.
+I'm ˈsure he does -eat -cheese.
 
-| 'do like -ice-’cream!
+| ˈdo like -ice-'cream!
 
 3.3. Negative sentences
 
@@ -75,6 +75,6 @@ You ‘won, | ‘didn't you?
 
 ‘Don’t you -think that’s dangerous?
 
-‘Do you -know my ,cousin?
+ˈDo you -know my ˎcousin?
 
 <!-- el:end id=prose_p160 -->

@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p047 page=47 -->
-<!-- vision: Waystage PDF page 47 -->
+<!-- vision: Waystage leaf 47 doc p.41 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p047 page=41 -->
 
 ## 12 Language
 

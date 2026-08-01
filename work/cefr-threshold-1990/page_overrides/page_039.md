@@ -1,6 +1,10 @@
-<!-- vision: Threshold PDF leaf 39 = document p.33 | multipass intonation -->
+<!-- vision: leaf 39 doc p.33 | word-catalog multipass -->
+<!-- catalog samples:
+  2.13.2.3: don't=ˈ | think=ˋ
+  2.13.2.5: not=ˈ | quite=· | sure=ˋ | gone=ˎ
+  2.13.2.7: coming=· | Thursday=ˈ | aren't=ˏ
+-->
 <!-- el:start type=prose id=prose_p039 page=33 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.13.2.1** to seem
 
@@ -10,19 +14,19 @@
 
 > ˈMaybe you're ˎright.
 
-**2.13.2.3** I ˈdon't ˋthink so.
+**2.13.2.3** I ˈdon't ˇthink so.
 
-**2.13.2.4** I (don't) think/believe + *that* clause
+**2.13.2.4** I (don’t) think/believe + *that* clause
 
 > I ·don't ·think he has ˈever ˎbeen ·here.
 
-**2.13.2.5** I'm not (quite) sure, but + declarative sentence
+**2.13.2.5** I’m not (quite) sure, but + declarative sentence
 
-> I'm ˈnot ·quite ˋsure, | but I ˈthink he has al·ready ˎgone.
+> I'm ˈnot ·quite ˇsure, | but I ˈthink he has al·ready ˎgone.
 
 **2.13.2.6** declarative sentence + I think (with rising/falling-rising intonation)
 
-> He's ˈFrench, | I ˏthink.
+> He's ˈFrench, | I ˎthink.
 
 **2.13.2.7** declarative sentences + tag with low-rising intonation
 
@@ -30,13 +34,13 @@
 
 **2.13.3** complete uncertainty
 
-**2.13.3.1** I don't know (+ *if* clause/*wh* clause)
+**2.13.3.1** I don’t know (+ *if* clause/*wh* clause)
 
 > I ˈdon't ·know if he will ˎcome.
 
-**2.13.3.2** I'm not (at all) sure (+ *if* clause/*wh* clause)
+**2.13.3.2** I’m not (at all) sure (+ *if* clause/*wh* clause)
 
-> I'm ˈnot at all ·sure what he ˈwants.
+> I'm ˈnot at all ·sure what he ˋwants.
 
 **2.13.3.3** I wonder + *if* clause/*wh* clause
 

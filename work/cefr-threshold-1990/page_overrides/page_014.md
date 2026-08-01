@@ -1,7 +1,8 @@
 <!-- el:start type=prose id=prose_p014 page=14 -->
 <!-- vision: Threshold PDF page 14 -->
+<!-- cat: Volkshochschul-Verband e·V., Bonn-Frankfurt 1987. -->
 
-transparent enough for the learner to understand how the performance of these tasks may contribute to the achievement of his or her aims. The promotion of the development of various types of insight and awareness will require the introduction of teaching/learning procedures which are not yet commonly found in language courses. One such procedure is described in the recently developed 'Stage 3 level' brochure of the International Certificate Conference.¹ It concerns the development of sociolinguistic awareness and appropriate strategies and consists of three steps:
+transparent enough for the learner to understand how the performance of these tasks may contribute to the achievement of his or her aims. The promotion of the development of various types of insight and awareness will require the introduction of teaching/learning procedures which are not yet commonly found in language courses. One such procedure is described in the recently developed ˈStage 3 level' brochure of the International Certificate Conference.¹ It concerns the development of sociolinguistic awareness and appropriate strategies and consists of three steps:
 
 - exposure to a variety of situations in which such features as participant roles, setting, communicative goal, etc., significantly influence the choice of language-forms;
 - stimulating awareness of this influence through observation, reflection, discussion;
@@ -18,3 +19,15 @@ The increased flexibility of *Threshold Level 1990* makes an assessment of the l
 ¹ *Foreign Languages in Adult and Continuing Education; Specifications for Stage 3 Level of the International Certificate Conference Language Certificate System: English*, third draft, Deutscher Volkshochschul-Verband e.V., Bonn-Frankfurt 1987.
 
 <!-- el:end id=prose_p014 -->
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.

@@ -1,6 +1,5 @@
-<!-- vision: Threshold PDF leaf 44 = document p.38 | multipass intonation -->
+<!-- vision: leaf 44 doc p.38 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p044 page=38 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.48.2** Are you worried (about NP)?
 
@@ -20,13 +19,13 @@
 
 > It was ˈmost ˎkind of you | to ˎcall.
 
-**2.49.4** I'm very grateful to you (for NP/VP gerund)
+**2.49.4** I’m very grateful to you (for NP/VP gerund)
 
 > I'm ˈvery ˎgrateful ·to you | for ˎtelling me a·bout it.
 
 #### 2.50 reacting to an expression of gratitude
 
-**2.50.1** ·Thank ˈyou.
+**2.50.1** ·Thank ˋyou.
 
 **2.50.2** ˈNot aˎt all.
 
@@ -81,7 +80,7 @@
 
 **2.54.1** (ˈvery) ˎgood
 
-**2.54.2** (That's) ˈfine/ˈexcellent.
+**2.54.2** (That's) ˋfine/ˋexcellent.
 
 **2.54.3** ˈWell ˎdone.
 
@@ -91,7 +90,7 @@
 
 **2.55.2** That's/it's ˈnot very ˋgood/ˋnice.
 
-**2.55.3** You ˈshouldn't do/have ·done ˋthat.
+**2.55.3** You ˈshouldn't do/have ·done ˇthat.
 
 #### 2.56 enquiring about approval/disapproval
 

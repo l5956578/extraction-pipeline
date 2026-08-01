@@ -1,5 +1,8 @@
 <!-- el:start type=prose id=prose_p086 page=86 -->
-<!-- vision: Threshold PDF leaf 86 = doc p.80 | multipass Specific notions 11.9 cont.–14.1 -->
+<!-- vision: leaf 86 doc p.80 | word-catalog multipass ch7-8 -->
+<!-- cat: I ˈcannot ˎwrite ·English ·very ·well. -->
+<!-- cat: ˈMay I ·ask a ˎquestion? -->
+<!-- cat: It's ˈnot ˎclear to me. -->
 
 petrol  
 unleaded  
@@ -63,5 +66,10 @@ to shine
 rain  
 rainy  
 to rain
+
+
+
+
+
 
 <!-- el:end id=prose_p086 -->

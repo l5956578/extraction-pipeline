@@ -1,6 +1,5 @@
-<!-- vision: Threshold PDF leaf 40 = document p.34 | multipass intonation -->
+<!-- vision: leaf 40 doc p.34 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p040 page=34 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.19.2** NP + *be* (not) permitted ●
 
@@ -32,7 +31,7 @@
 
 **2.21.1** ˎYes.
 
-**2.21.2** ˈCertainly.
+**2.21.2** ˋCertainly.
 
 **2.21.3** ˈPlease ˎdo.
 
@@ -50,9 +49,9 @@
 
 **2.22.3** I'm aˈfraid ˎnot.
 
-**2.22.4** I'm sorry (+ *but* clause)
+**2.22.4** I’m sorry (+ *but* clause)
 
-> I'm ˋsorry, | but it's ˈtoo ˎlate.
+> I'm ˇsorry, | but it's ˈtoo ˎlate.
 
 **2.22.5** It is not allowed/permitted  
 Not + adverbial (now/tonight/here/in this country etc.)  
@@ -64,11 +63,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 2.23 expressing wants/desires
 
-**2.23.1** I'd like + NP
+**2.23.1** I’d like + NP
 
-> I'd ˈlike an ·iceˎcream.
+> I'd ˈlike an ·iceˎcream
 
-**2.23.2** I'd like + to + VPinf
+**2.23.2** I’d like + to + VPinf
 
 > I'd ˈlike to ·wash my ˎhands.
 

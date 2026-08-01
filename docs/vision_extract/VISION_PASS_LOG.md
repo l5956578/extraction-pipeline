@@ -23,6 +23,7 @@ A “Vision invocation” = one tool call that loads a page image (or crop) for 
 | Threshold sociocultural p.97–99 (PDF 103–105) | 3+ | Politeness header + maxim examples |
 | Background multi-agents (lang funcs 36–55, notions 56–100, socio 101–120) | **dozens–100+** | Multi-pass intonation + cutoffs |
 | Prior full-book campaign (all 585 leaves) | **hundreds** | Initial Vision override generation |
+| Threshold socio+AppA leaves **104–112**, **124–130** (2026-07-31) | **40+** | Hi-res full/band/zoom crops; word catalog `INTONATION_WORD_CATALOG_SOCIO_APPA.md`; re-Vision traps (FR `ˇ` vs HF `ˋ`; weak-offer `ˏ`; `ˎmy` cigarettes; five-tone legend Unicode) |
 
 **Honest floor for full-book + this repair:** well over **600+** page-image Vision invocations across agents; hard pages intentionally re-read.
 

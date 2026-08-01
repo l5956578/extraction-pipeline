@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 104 = document p.98 | multipass ≥3 politeness maxims + intonation -->
+<!-- vision: leaf 104 doc p.98 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p104 page=98 -->
 <!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
@@ -23,14 +23,14 @@ This maxim applies to the functions of imparting factual information and express
 
 **c)** the use of tag questions to invite the partner’s agreement (falling intonation) or confirmation (rising intonation).
 
-> His ˈmother is Iˎtalian, | ˋisn’t she? (inviting agreement; no uncertainty);  
-> His ˈmother is Iˎtalian, | ˏisn’t she? (asking confirmation; uncertain).
+> His ˈmother is Iˎtalian, | ˋisn't she? (inviting agreement; no uncertainty);  
+> His ˈmother is Iˎtalian, | ˏisn't she? (asking confirmation; uncertain).
 
 Correcting is liable to give offence, since it involves telling the partner that he/she has made a mistake. Offence can be avoided by:
 
 - apologising for correcting;
 
-> I’m ˋsorry, | but the ·lecture ˈisn’t on ˈWednesday. | It’s on ˈFriday.
+> I'm ˋsorry, | but the ·lecture ˈisn't on ˈWednesday. | It's on ˈFriday.
 
 - querying what has been said, so that the partner can correct the slip;
 
@@ -42,7 +42,7 @@ Correcting is liable to give offence, since it involves telling the partner that
 
 - requesting confirmation by the use of a question tag.
 
-> Nicaˈragua? | San Jo·se is in ˏCosta ˈRica, | ˏisn’t it?
+> Nicaˈragua? | San Jo·se is in ˏCosta ˈRica, | ˏisn't it?
 
 ### 2 Be reluctant to say what may distress or displease the partner.
 

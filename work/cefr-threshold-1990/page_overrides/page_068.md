@@ -1,7 +1,14 @@
 <!-- el:start type=prose id=prose_p068 page=68 -->
-<!-- vision: Threshold PDF leaf 68 = doc p.62 | multipass Specific notions 1.11–1.15 two-column -->
+<!-- vision: leaf 68 doc p.62 | word-catalog multipass ch7-8 -->
+<!-- cat: e.g. to buy, to teach, to sell, to work (as in: I ·work in an ˋoffice.) -->
+<!-- cat: ˈWhere do you ˎwork? -->
+<!-- cat: ˈHave you ˈbrought your ˎfamily? -->
+<!-- cat: ˈHave you any ˎfamily? -->
+<!-- cat: There are ˈthree ˎservices on ·Sundays. -->
+<!-- cat: ˈWhat ·sort of ·man/·woman/ etc./ˎis he/she? -->
+<!-- cat: He is a ˈvery ·kind ˎperson. -->
 
-e.g. to buy, to teach, to sell, to work (as in: I ·work in an ˈoffice.)  
+e.g. to buy, to teach, to sell, to work (as in: I ·work in an ˋoffice.)  
 worker/employee  
 boss/employer  
 manager  
@@ -65,5 +72,7 @@ ugly
 dark (-haired)  
 fair (-haired)  
 bald
+
+
 
 <!-- el:end id=prose_p068 -->

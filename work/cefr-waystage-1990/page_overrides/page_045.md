@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p045 page=45 -->
-<!-- vision: Waystage PDF page 45 -->
+<!-- vision: Waystage leaf 45 doc p.39 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p045 page=39 -->
 
 ### 8.2 foodstuffs
 

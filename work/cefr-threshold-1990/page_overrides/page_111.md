@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 111 = document p.105 | multipass compensation strategies II–III + intonation -->
+<!-- vision: leaf 111 doc p.105 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p111 page=105 -->
 <!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
@@ -14,8 +14,8 @@
 
 #### 1 introduce a rephrasing
 
-> (ˈSorry,) I’ll ˈstart aˎgain.  
-> (ˈSorry,) I’ll ˈtry to ·say that aˎgain.
+> (ˋSorry,) I'll ˈstart aˎgain.  
+> (ˋSorry,) I'll ˈtry to ·say that aˎgain.
 
 #### 2 describe by means of paraphrase, particularly by using a general word (*person*, *thing*, etc.) or a superordinate, together with a qualification indicating:
 
@@ -35,12 +35,12 @@
 #### 4 identify by indicating
 
 > one ·like ˎthat.  
-> I’d ·like ˎthis, ·please.
+> I'd ·like ˎthis, ·please.
 
 #### 5 appeal for assistance
 
 > ˈWhat do you ˎcall ·that (a·gain)?  
-> I ˈdon’t ·know the ·English/-German, etc. ˎword.  
+> I ˈdon't ·know the ·English/-German, etc. ˎword.  
 > In [native language] we say …
 
 <!-- el:end id=prose_p111 -->

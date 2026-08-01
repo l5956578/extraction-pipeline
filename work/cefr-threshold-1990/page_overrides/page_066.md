@@ -1,5 +1,13 @@
 <!-- el:start type=prose id=prose_p066 page=66 -->
-<!-- vision: Threshold PDF leaf 66 = doc p.60 | multipass Specific notions 1.1–1.2 two-column -->
+<!-- vision: leaf 66 doc p.60 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈHow do you ·write/spell your ˎname? -->
+<!-- cat: We ·call him ˎBill. -->
+<!-- cat: He's (·called) ˎBill. -->
+<!-- cat: ˈWhat's the ·last ·letter of your ˎname? -->
+<!-- cat: ˈWhere do you ˎlive? -->
+<!-- cat: ˈWhat's your adˎdress? -->
+<!-- cat: I ·live at ˈnumber fifˎteen. -->
+<!-- cat: I ·live in the ˎcountry. -->
 
 any, which suit their own purposes. In order to provide some guidance as to those notions, which, in our view, might be primarily considered we add, in a number of cases, a list of them preceded by 'e.g.' It should be understood, however, that the notions in such lists are merely offered by way of suggestion and have not got the status of definitely recommended ones. If a word may be used in different meanings, the meaning intended usually follows from its inclusion under a particular sub-theme (e.g. tip under 'eating and drinking out') or it is clarified by means of contextualisation (e.g. letter: What's the last letter of your name?). These illustrative sentences have no other role than clarification of the meaning of the word involved; they are not meant as recommended phrases for inclusion in course materials.
 
@@ -42,5 +50,7 @@ number
 I ·live at ˈnumber fifˎteen.  
 country  
 I ·live in the ˎcountry.
+
+
 
 <!-- el:end id=prose_p066 -->

@@ -1,5 +1,6 @@
-<!-- el:start type=prose id=prose_p056 page=56 -->
-<!-- vision: Threshold PDF leaf 56 = doc p.50 | multipass two-column general notions -->
+<!-- vision: leaf 56 doc p.50 | word-catalog multipass ch5-6 -->
+<!-- el:start type=prose id=prose_p056 page=50 -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **long** (as in: ˈHow ˎlong is it?),  
 **short**

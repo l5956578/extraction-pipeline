@@ -1,5 +1,16 @@
 <!-- el:start type=prose id=prose_p074 page=74 -->
-<!-- vision: Threshold PDF leaf 74 = doc p.68 | multipass Specific notions 4.7 cont.–5.1 Travel -->
+<!-- vision: leaf 74 doc p.68 | word-catalog multipass ch7-8 -->
+<!-- cat: The ˈgame ·ended in a ˎdraw. -->
+<!-- cat: We ˈlive near the ˎfootball ·ground. -->
+<!-- cat: We ˈsaw ·England against ˎFrance | in ˈ6ˎ8. -->
+<!-- cat: ˈLet's ·buy some magaˎzines. -->
+<!-- cat: ˈHow can I ·go to ˎLiverpool? -->
+<!-- cat: Your ·flight is from ˈterminal ˎA. -->
+<!-- cat: ·Flight ˈKL 17ˎ5 | has ˈjust arˎrived. Enˈjoy your ˎflight. -->
+<!-- cat: The ˈflight to ·New ˎYork | is from ˈgate ˎ10. -->
+<!-- cat: ˈLet's ·take the ˎunderground. -->
+<!-- cat: Our ·train ·leaves from ˈplatform ˎ10. -->
+<!-- cat: For ˈLeeds | you ·have to ·change at ˈSheffield. -->
 
 game  
 to win  
@@ -15,7 +26,7 @@ We ˈlive near the ˎfootball ·ground.
 stadium  
 ball  
 against  
-We ˈsaw ·England against ˎFrance | in ˈ6ˎ.8.
+We ˈsaw ·England against ˎFrance | in ˈ6ˎ8.
 
 **4.8 press**  
 newspaper/paper  
@@ -72,5 +83,7 @@ platform
 Our ·train ·leaves from ˈplatform ˎ10.  
 to change  
 For ˈLeeds | you ·have to ·change at ˈSheffield.
+
+
 
 <!-- el:end id=prose_p074 -->

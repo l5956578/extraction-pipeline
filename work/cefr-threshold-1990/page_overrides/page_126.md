@@ -1,5 +1,6 @@
-<!-- el:start type=prose id=prose_p126 page=126 -->
-<!-- vision: Threshold PDF page 126 -->
+<!-- vision: leaf 126 doc p.120 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p126 page=120 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 ii) to indicate surprise or irritation;
 
@@ -9,9 +10,9 @@ iii) in rhetorical questions of an exclamatory type, to which no answer is sough
 
 > ˈIsn't she ˋbeautiful?
 
-iv) in tag questions, to insist on the hearer's agreement to a proposition.
+iv) in tag questions, to insist on the hearer’s agreement to a proposition.
 
-> I told ·you | ˋdidn't I?
+> I ˋtold ·you | ˋdidn't I?
 
 **c) in imperative sentences**
 
@@ -33,7 +34,7 @@ iii) to insist on the acceptance of an offer.
 
 i) (with preceding low pitches) to indicate difference or resentment, guardedness, suspicion;
 
-> It doesn't ˏmatter. You ·shouldn't ·blame ˏme.
+> It ·doesn't ˏmatter. You ·shouldn't ·blame ˏme.
 
 ii) (with preceding high pitch) to reassure.
 
@@ -47,11 +48,11 @@ i) to ask politely for confirmation or disconfirmation (also in tag questions);
 
 ii) to make polite requests and offers;
 
-> ˈWould you ·please ·open the window? ˈCan I do ·anything to ˏhelp?
+> ˈWould you ·please ·open the ˏwindow? ˈCan I do ·anything to ˏhelp?
 
 iii) in choice questions, to indicate that the list is open.
 
-> ˈWould you ·like ˏtea | or ˏcoffee | or something stronger?
+> ˈWould you ·like ˏtea | or ˏcoffee | or ·something ˏstronger?
 
 **c) in *wh* questions**
 

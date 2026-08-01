@@ -42,29 +42,29 @@ regular forms (4.4.3, 4.7.4.2)
 
 **4.1.2.1** (monosyllabic adjs) adj+er
 
-> a 'smaller ,child
+> a ˈsmaller ˎchild
 
 **4.1.2.2** (disyllabic adjs in -y) -y>i+er
 
-> an 'easier ,question
+> an ˈeasier ˎquestion
 
 **4.1.2.3** (polysyllabic) more + adj
 
-> a ·more 'careful ,driver
+> a ·more ˈcareful ˎdriver
 
 **4.1.3** superlative degree, regular forms (4.4.3)
 
 **4.1.3.1** (monosyllabic adjs) adj+est
 
-> the 'loudest ,music
+> the ˈloudest ˎmusic
 
 **4.1.3.2** (disyllabic adjs in -y) y>i+est
 
-> my 'happiest ,day
+> my ˈhappiest ˎday
 
 **4.1.3.3** (polysyllabics) most + adj
 
-> the ·most ex'pensive ,restaurant
+> the ·most ex'pensive ˎrestaurant
 
 **4.1.4** irregular comparatives and superlatives  
 good, better, best  
@@ -80,7 +80,7 @@ first, second, third, etc.
 **4.2.1** certainty (3.2.9)  
 sure, certain ®
 
-> I am 'sure he will ,come. ®
+> | am ˈsure he will ˎcome. ®
 
 ### A5 Adverbs
 

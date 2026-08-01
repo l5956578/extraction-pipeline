@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p035 page=35 -->
-<!-- vision: Waystage PDF page 35 -->
+<!-- vision: Waystage leaf 35 doc p.29 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p035 page=29 -->
 
 ### 8 Deixis
 
@@ -7,29 +7,29 @@ Deixis is the grammatical system for referring or identifying by means of lingui
 
 **8.1** *definite*
 
-**8.1.1** *non-anaphoric*  
-personal pronouns (subject forms and object forms)  
-possessive adjectives: my, your, etc.  
-possessive pronouns as complement (as in: 'This is 'mine.)  
-demonstrative adjectives: this, that, these, those, such ®  
-definite article: the  
-interrogative pronouns: who, what, which  
+**8.1.1** *non-anaphoric* 
+personal pronouns (subject forms and object forms) 
+possessive adjectives: my, your, etc. 
+possessive pronouns as complement (as in: ˈThis is ˈmine.) 
+demonstrative adjectives: this, that, these, those, such ® 
+definite article: the 
+interrogative pronouns: who, what, which 
 interrogative adjectives: whose ®, what, which
 
-**8.1.2** *anaphoric*  
-personal pronouns (subject forms and object forms)  
-possessive adjectives  
-possessive pronouns as complement (as in: 'You ·take it, | it's 'yours.)  
-demonstrative adjectives and pronouns  
-relative pronouns ®  
-definite article: the  
-adverbs: here, there, now, then, so (as in: He 'wanted to ·go, | but he 'didn't ,say so.)  
-propword: one (as in: I 'like the ,red one.)
+**8.1.2** *anaphoric* 
+personal pronouns (subject forms and object forms) 
+possessive adjectives 
+possessive pronouns as complement (as in: ˈYou ·take it, | it's ˈyours.) 
+demonstrative adjectives and pronouns 
+relative pronouns ® 
+definite article: the 
+adverbs: here, there, now, then, so (as in: He ˈwanted to ·go, | but he ˈdidn't ˎsay so.) 
+propword: one (as in: I ˈlike the ˎred one.)
 
-**8.2** *indefinite*  
-indefinite article: a, an  
-indefinite pronouns: someone ®, (not) … anyone, nobody ®, something, (not) … anything, nothing, everything, all (as in: They 'all ·went ,home; I ·want 'all of it.), some (as in: 'Some of them ·went ,home.), it (as in: It's ,raining.)  
-adverbs: everywhere, (not) … anywhere, somewhere, nowhere ®; sometimes, never, always  
-semi-deictics: person (as in: There were 'five ·persons ,present.), people (as in: There were 'many ,people ·present.), thing (as in: 'What do you ,call that ·thing?), to do (as in: 'What are you ·going to ·do to,night?)
+**8.2** *indefinite* 
+indefinite article: a, an 
+indefinite pronouns: someone ®, (not) … anyone, nobody ®, something, (not) … anything, nothing, everything, all (as in: They ˈall ·went ˎhome; I ·want ˈall of it.), some (as in: ˈSome of them ·went ˎhome.), it (as in: It's ˎraining.) 
+adverbs: everywhere, (not) … anywhere, somewhere, nowhere ®; sometimes, never, always 
+semi-deictics: person (as in: There were ˈfive ·persons ˎpresent.), people (as in: There were ˈmany ˎpeople ·present.), thing (as in: ˈWhat do you ˎcall that ·thing?), to do (as in: ˈWhat are you ·going to ·do toˎnight?)
 
 <!-- el:end id=prose_p035 -->

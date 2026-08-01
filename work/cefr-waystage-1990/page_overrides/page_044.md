@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p044 page=44 -->
-<!-- vision: Waystage PDF page 44 -->
+<!-- vision: Waystage leaf 44 doc p.38 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p044 page=38 -->
 
 ## 7 Health and body care
 

@@ -1,5 +1,13 @@
 <!-- el:start type=prose id=prose_p071 page=71 -->
-<!-- vision: Threshold PDF leaf 71 = doc p.65 | multipass Specific notions theme 3 Daily life -->
+<!-- vision: leaf 71 doc p.65 | word-catalog multipass ch7-8 -->
+<!-- cat: I'll ˈcook dinˎner for you. -->
+<!-- cat: ˈShall I ·make a ·pot of ˎtea? -->
+<!-- cat: I ·clean the ·windows ˈonce a ˎweek. -->
+<!-- cat: We get a ˈfree ˎmeal | ˈevery ˎday. -->
+<!-- cat: We are ˈfree | on ˎSaturdays. -->
+<!-- cat: We have ˈtwo ·days ·off a ˎweek. -->
+<!-- cat: I ˈmay become a ˎdoctor. -->
+<!-- cat: I ˈwon't apply for ˇthat ·job. -->
 
 ## 3 Daily life
 
@@ -68,6 +76,8 @@ to learn
 to study  
 to qualify as  
 to apply (for)  
-I ˈwon't apply for ˈthat ·job.
+I ˈwon't apply for ˇthat ·job.
+
+
 
 <!-- el:end id=prose_p071 -->

@@ -1,12 +1,12 @@
-<!-- el:start type=prose id=prose_p057 page=57 -->
-<!-- vision: Waystage PDF page 57 -->
+<!-- vision: Waystage leaf 57 doc p.51 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p057 page=51 -->
 
 | | | |
 | --- | --- | --- |
 | Sales person | : ·That'll be ˈ£2 ˎ30 | asking for payment |
 | Customer | : (gives money) | (making payment: non-verbal termination) |
 
-Apart from the variability (by no means exhausted here) of the 'fish-and-chip buying dialogue', we note the occurrence of sub-patterns as well as the integration of non-verbal turns. Communicative ability at *Waystage* implies the ability to play a part in verbal exchange patterns such as the ones illustrated above.
+Apart from the variability (by no means exhausted here) of the fish-and-chip buying dialogue, we note the occurrence of sub-patterns as well as the integration of non-verbal turns. Communicative ability at *Waystage* implies the ability to play a part in verbal exchange patterns such as the ones illustrated above.
 
 A number of dialogue types (which may, in fact, involve more than two participants) are explicitly or implicitly covered by our objective. They involve the occurrence of verbal exchange patterns with a certain measure of predictability. They are particularly associated with the following communicative events:
 

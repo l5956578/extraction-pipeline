@@ -21,7 +21,7 @@ At Threshold Level, learners should be able to understand the above types of pro
 
 ### 41 Forms containing one main
 
-The ,train ar-rived.
+The ˎtrain ar-rived.
 
 ‘This animal | is a dog.
 
@@ -31,28 +31,28 @@ object (6.7.3.2)
 
 object (6.7.3.2) + NP indirect object (6.7.3.3)
 
-| 'showed the -letter to his
+| ˈshowed the -letter to his
 
 I gave -John the -letter for
 
-  - `s (+ instrumental 6.7.3.4)`
--Susan ‘opened the ,door for me | with her key.
+ - ˈs (+ instrumental 6.7.3.4)`
+-Susan ˈopened the ˎdoor for me | with her key.
 
 ‘He and || | ‘always agree.
 
-He 'walked ,home a-gain | ‘very slowly -afterwards.
+He ˈwalked ˎhome a-gain | ˈvery slowly -afterwards.
 
-She is ‘very in,telligent.
+She is ˈvery inˎtelligent.
 
 The ‘fork is here.
 
 The ‘cup is on the , table.
 
-She -seems a 'nice girl.
+She -seems a ˈnice girl.
 
 4.1.11. stative verb + adjectival phrase
 
-The -fish -tastes ‘very ,nice.
+The -fish -tastes ˈvery ˎnice.
 
 adverbial particle (phrasal
 

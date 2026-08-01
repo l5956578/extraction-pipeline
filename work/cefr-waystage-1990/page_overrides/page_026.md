@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p026 page=26 -->
-<!-- vision: Waystage PDF page 26 -->
+<!-- vision: Waystage leaf 26 doc p.20 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p026 page=20 -->
 
 We could … ®  
 What about … (e.g. leaving now)? ®
@@ -15,13 +15,16 @@ Would you like to …?
 What about …? ®
 
 **3.4 accepting an offer or invitation**  
-'Thank you.  
-'Yes, ,please.  
-That'll be 'very ,nice. ®  
-'All ,right.
+
+> ˈThank you.  
+> ˈYes, ˎplease.  
+> That'll be ˈvery ˎnice. ®  
+> ˈAll ˎright.
 
 **3.5 declining an offer or invitation**  
-'No, ,thank you.  
+
+> ˈNo, ˎthank you.
+
 I'm afraid I cannot … ®
 
 **3.6 enquiring whether an offer or invitation is accepted or declined**  
@@ -32,10 +35,11 @@ You should … ®
 Why don't you …? ®
 
 **3.8 warning others to take care or to refrain from doing something**  
-Be 'careful!  
-'Look 'out!  
-Don't …  
-Mind … (e.g. your head)! ®
+
+> Be ˋcareful!  
+> ˈLook ˋout!  
+> Don't …  
+> Mind … (e.g. your head)! ®
 
 **3.9 offering assistance**  
 Can I … (e.g. help you)?
@@ -48,19 +52,22 @@ Can you … (e.g. help me), please?
 (See also Chapter 8 on sociocultural competence.)
 
 **4.1 attracting attention**  
-Ex'cuse ,me!  
-Hal'lo!
+
+> Exˈcuse ˎme!  
+> Halˈlo!
 
 **4.2 greeting people**  
-'Hal,lo!  
-'Good ,morning/after,noon/,evening.
+
+> ˈHalˎlo!  
+> ˈGood ˎmorning/afterˎnoon/ˎevening.
 
 **4.3 when meeting people**  
-'Hal,lo!  
-'How ,are you?  
-(I'm 'fine, ,thank you,) 'how are ,you?  
-'How do you ,do?  
-'How do you ,do?
+
+> ˈHalˎlo!  
+> ˈHow ˎare you?  
+> (I'm ˈfine, ˎthank you,) ˈhow are ˎyou?  
+> ˈHow do you ˎdo?  
+> ˈHow do you ˎdo?
 
 **4.4 addressing somebody**  
 first name  
@@ -70,20 +77,24 @@ Mr/Mrs/Miss + family name
 This is …
 
 **4.6 reacting to being introduced**  
-'Hal,lo.  
-'How do you ,do?
+
+> ˈHalˎlo.  
+> ˈHow do you ˎdo?
 
 **4.7 congratulating**  
-Con'gratu,lations!
+
+> Conˈgratuˎlations!
 
 **4.8 proposing a toast**  
-'Cheers!  
-Here's to … ®
+
+> ˈCheers!  
+> Here's to … ®
 
 **4.9 taking leave**  
-'Good,bye.  
-'Good ,night.  
-I'll ,see you (to,morrow, ·next ,week, etc.). ®
+
+> ˈGoodˎbye.  
+> ˈGood ˎnight.  
+> I'll ˎsee you (toˎmorrow, ·next ˎweek, etc.). ®
 
 ### 5 Structuring discourse
 
@@ -91,5 +102,4 @@ I'll ,see you (to,morrow, ·next ,week, etc.). ®
 
 **5.1 opening**  
 See the exponents of language functions 4.1, 4.2, 4.4.
-
 <!-- el:end id=prose_p026 -->

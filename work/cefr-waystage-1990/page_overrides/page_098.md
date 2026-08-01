@@ -5,11 +5,11 @@
 
 **2.3.1** VP infinitive (+ please)
 
-> 'Sit ,down, ·please.
+> ˈSit ˎdown, ·please.
 
 **2.3.2** let’s + VP infinitive
 
-> 'Let’s ·listen to some ,music.
+> ˈLet's ·listen to some ˎmusic.
 
 ### D3 Functions of sentence types
 
@@ -17,26 +17,26 @@
 
 **3.1.1** identifying (3.1.1)
 
-> 'This is my ,raincoat.
+> ˈThis is my ˎraincoat.
 
 **3.1.2** reporting (3.1.2)
 
 **3.1.3** narrating an event as it occurs
 
-> 'Jane ·goes ·into the ,kitchen. She ·breaks 'two ,eggs | and ·makes an ,omelette.
+> ˈJane ·goes ·into the ˎkitchen. She ·breaks ˈtwo ˎeggs | and ·makes an ˎomelette.
 
 **3.1.4** narrating an event in the past
 
-> He 'got into the ,car | and 'drove a ,way.
+> He ˈgot into the ˎcar | and ˈdrove a ˎway.
 
 **3.1.5** describing people or things
 
-> ʸCarmen | has 'brown ,eyes | and 'long, ·black ,hair.
+> ʸCarmen | has ˈbrown ˎeyes | and ˈlong, ·black ˎhair.
 
 **3.1.6** answering questions (3.1.5)
 
 > (Would you like a bath?)  
-> I'd pre'fer a ,shower.
+> I'd pre'fer a ˎshower.
 
 **3.1.7** making statements regarding
 
@@ -46,92 +46,92 @@
 
 **3.1.7.2** knowledge (3.2.5)
 
-> I 'know ,Scotland | 'very ,well.
+> | ˈknow ˎScotland | ˈvery ˎwell.
 
 **3.1.7.3** certainty (3.2.9)
 
-> I am 'sure it will ,snow to·night.
+> | am ˈsure it will ˎsnow to·night.
 
 **3.1.7.4** obligation (3.2.11)
 
-> We 'have to ,do it.
+> We ˈhave to ˎdo it.
 
 **3.1.7.5** ability (3.2.7)
 
-> I 'cannot ·drive a ,car.
+> | ˈcannot ·drive a ˎcar.
 
 **3.1.7.6** permissibility (3.2.13, 3.2.15)
 
-> You can 'get up ,late | to,morrow.
+> You can ˈget up ˎlate | toˎmorrow.
 
 **3.1.8** expressing
 
 **3.1.8.1** wants and desires (3.2.16)
 
-> I'd 'like a·nother ,blanket.
+> I'd ˈlike a·nother ˎblanket.
 
 **3.1.8.2** intentions (3.2.18)
 
-> I am ·going to ·buy a 'new ,car.
+> | am ·going to ·buy a ˈnew ˎcar.
 
 **3.1.8.3** preference (3.2.20)
 
-> I'd 'rather ·drink ,water. ®
+> I'd ˈrather ·drink ˎwater. ®
 
 **3.1.8.4** pleasure, happiness (3.2.21)
 
-> This ·food is 'very ,nice.
+> This ·food is ˈvery ˎnice.
 
 **3.1.8.5** displeasure, unhappiness (3.2.22)
 
-> I ·hate 'everything and ,everybody | to,day. ®
+> | ·hate ˈeverything and ˎeverybody | toˎday. ®
 
 **3.1.8.6** liking (3.2.21)
 
-> ·Mr ·Smith is 'very ,pleasant. ®
+> ·Mr ·Smith is ˈvery ˎpleasant. ®
 
 **3.1.8.7** dislike (3.2.22)
 
-> I 'hate | ,shopping. ®
+> | ˈhate | ˎshopping. ®
 
 **3.1.8.8** satisfaction (3.2.25)
 
-> This is 'very ,good.
+> This is ˈvery ˎgood.
 
 **3.1.8.9** dissatisfaction (3.2.26)
 
-> I 'don’t ,like ·this.
+> | ˈdon't ˎlike ·this.
 
 **3.1.8.10** hope (3.2.24)
 
-> I 'hope it will be ,fine to·morrow.
+> | ˈhope it will be ˎfine to·morrow.
 
 **3.1.8.11** gratitude ®
 
-> That is 'very ,kind ·of you. ®
+> That is ˈvery ˎkind ·of you. ®
 
 **3.1.8.12** regret ®
 
-> I am 'very ,sorry | if I ,hurt you. ®
+> | am ˈvery ˎsorry | if | ˎhurt you. ®
 
 **3.1.9** giving
 
 **3.1.9.1** suggestions ®
 
-> We could 'go to the ʸtheatre. ®
+> We could ˈgo to the ʸtheatre. ®
 
 **3.1.9.2** advice ®
 
-> You should ·go by 'taxi. ®
+> You should ·go by ˈtaxi. ®
 
 **3.2** Negative sentences
 
 **3.2.1** correcting a positive statement (3.1.3)
 
-> Her ·dress 'isn’t ʸblue.
+> Her ·dress ˈisn't ʸblue.
 
 **3.2.2** denying statements (3.2.4)
 
-> I have 'never ,been there.
+> | have ˈnever ˎbeen there.
 
 <!-- el:end id=prose_p098 -->

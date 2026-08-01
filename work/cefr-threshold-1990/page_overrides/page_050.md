@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 50 = document p.44 | multipass intonation -->
+<!-- vision: leaf 50 doc p.44 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p050 page=44 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -8,11 +8,11 @@
 
 #### 5.12 asking someone's opinion
 
-**5.12.1** ˈWhat do you ·think?
+**5.12.1** ˈWhat do ˎyou ·think?
 
 **5.12.2** ˈWhat is ˎyour o·pinion/·view?
 
-**5.12.3** ˈWhere do you ·stand on ·this ·matter?
+**5.12.3** ˈWhere do ˎyou ·stand on ·this ·matter?
 
 #### 5.13 showing that one is following a person's discourse
 
@@ -36,7 +36,7 @@
 
 **5.14.3** ˈMay ˎI say ·something?
 
-**5.14.4** ˈNo, I'm ˋsorry but …
+**5.14.4** ˈNo, I'm ˇsorry but …
 
 #### 5.15 asking someone to be silent
 
@@ -46,7 +46,7 @@
 
 #### 5.16 giving over the floor
 
-**5.16.1** ˈAfter you.  
+**5.16.1** ˈAfter ˎyou.  
 (See also Language Functions 2.21.)
 
 **5.16.2** By ˎall ·means.
@@ -67,9 +67,9 @@
 
 #### 5.19 indicating that one is coming to an end
 
-**5.19.1** ˋFinally, …
+**5.19.1** ˇFinally, …
 
-**5.19.2** To ˋfinish, | I should ˈlike to ˎsay …
+**5.19.2** To ˇfinish, | I should ˈlike to ˎsay …
 
 **5.19.3** In conˈclusion, …
 
@@ -96,7 +96,7 @@
 
 **5.21.1.2** Hallo (this is +) personal name + speaking
 
-> ˈHalˎlo this is ˈMary ˎSmith ·speaking.
+> ˋHal·lo this is ˈMary ˎSmith ·speaking.
 
 **5.21.2** when initiating a call
 

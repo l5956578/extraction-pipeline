@@ -42,10 +42,51 @@ JOBS = {
 }
 
 
+def already_document_numbered(text: str, job: str) -> bool:
+    """Detect if markers already use document pages (idempotent guard).
+
+    Heuristic: max <!-- page:N --> is near PDF-count-offset range, and
+    front-matter leaves 1-6 are absent as bare page:N (already front-*).
+    """
+    nums = [int(x) for x in re.findall(r"<!-- page:(\d+) -->", text)]
+    if not nums:
+        return False
+    # If we still see high PDF leaf indices past last document page, not converted
+    # Threshold: ~186 doc pages, PDF ~192. After convert max ~186.
+    # If max page <= PDF_count-6 and page:1 exists with Arabic content start nearby → doc mode
+    if "<!-- page:front-" in text:
+        return True
+    # Double-convert would push max down by 6 each time; v005 max is 186 for THR.
+    # If markers include both small early pages and max ~ book length, treat as doc.
+    mx = max(nums)
+    # PDF-mode for Threshold has max ~192 and includes pages 1-6 as real PDF leaves.
+    # Document-mode max is lower (~186) and often starts Arabic at 1 after front markers.
+    if job.startswith("cefr-threshold") and mx <= 186 and 1 in nums and 192 not in nums:
+        # Ambiguous — check for vision headers that already use doc p.
+        if re.search(r"doc p\.\d+", text) or mx <= 180:
+            # Prefer not re-converting if content looks post-fixed
+            if "<!-- page:186 -->" in text or "<!-- page:180 -->" in text or mx <= 186:
+                # Additional: if *Page **7*** exists as first arabic after front in PDF mode
+                # PDF mode has *Page **7*** = doc 1. Doc mode has *Page **1***.
+                # Count how many page markers > 186
+                if mx <= 186 and min(nums) == 1:
+                    # sample: document page 28 should be ch5; pdf leaf 28 is front/TOC area
+                    return True
+    if job.startswith("cefr-waystage") and mx <= 114 and min(nums) == 1:
+        return True
+    if job.startswith("cefr-en-2001") and "<!-- page:front-" in text:
+        return True
+    return False
+
+
 def fix_md(job: str) -> None:
     cfg = JOBS[job]
     path = ROOT / "output" / job / cfg["md"]
     text = path.read_text(encoding="utf-8")
+
+    if already_document_numbered(text, job):
+        print(f"skip (already document page numbers): {path}")
+        return
 
     def repl_page_comment(m: re.Match) -> str:
         pdf = int(m.group(1))

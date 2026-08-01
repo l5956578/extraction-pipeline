@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 46 = document p.40 | multipass intonation -->
+<!-- vision: leaf 46 doc p.40 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p046 page=40 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -6,19 +6,19 @@
 
 **3.5.1** VP imperative with falling/rising intonation
 
-> Be ˋcareful! Look ˋout!
+> Be ˇcareful! Look ˇout!
 
 **3.5.2** Don't + VPinf
 
-> Don't ˋcut your·self.
+> Don't ˈcut your·self.
 
 **3.5.3** Mind + NP
 
-> ˈMind your ˋhead!
+> ˈMind your ˇhead!
 
 **3.5.4** declarative sentences with implication
 
-> That ·knife is ˋsharp. (Be careful not to cut yourself.)
+> That ·knife is ˇsharp. (Be careful not to cut yourself.)
 
 #### 3.6 encouraging someone to do something
 
@@ -98,13 +98,13 @@
 
 **3.12.1** ˈNo ˎthank you.
 
-**3.12.2** (I'm ˋsorry but) I can't + VPinf
+**3.12.2** (I'm ˇsorry but) I can't + VPinf
 
-> I'm ˋsorry | but I ˈcan't ˎcome.
+> I'm ˇsorry | but I ˈcan't ˎcome.
 
 **3.12.3** It's very good of you + *but* clause
 
-> It's very ˋgood of you, | but my ˎwife is ·ill.
+> It's very ˇgood of you, | but my ˎwife is ·ill.
 
 **3.12.4** Unfortunately I can't + VPinf
 

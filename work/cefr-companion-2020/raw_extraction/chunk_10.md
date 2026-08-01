@@ -217,7 +217,7 @@ Neuner G. (2012), “The dimensions of intercultural education”, in Huber J. (
 **for living in a heterogeneous world**, Pestalozzi Series No. 2, Council of Europe Publishing, Strasbourg, pp. 11-49, available at https://rm.coe.int/16808ce20c, accessed 9 September 2019.
 <!-- el:end id=prose_p271_s0 -->
 
-59.	  The document was prepared for the Policy Forum “The right of learners to quality and equity in education – The role of linguistic and intercultural competence”, which took place in Geneva, Switzerland from 2 to 4 November 2010.
+59.	 The document was prepared for the Policy Forum “The right of learners to quality and equity in education – The role of linguistic and intercultural competence”, which took place in Geneva, Switzerland from 2 to 4 November 2010.
 
 *Sources for new descriptors ▶ Page **271***
 

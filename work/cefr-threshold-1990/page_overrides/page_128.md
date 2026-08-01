@@ -1,9 +1,10 @@
-<!-- el:start type=prose id=prose_p128 page=128 -->
-<!-- vision: Threshold PDF page 128 -->
+<!-- vision: leaf 128 doc p.122 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p128 page=122 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 iv) mental reservations in making promises;
 
-> ˈYes, | I ˇwill be ·good. || At ·least, I'll ˇtry.
+> ˇYes, | I ˇwill be ·good. || At ·least, I'll ˇtry.
 
 v) uncertainty and hesitation;
 
@@ -11,7 +12,7 @@ v) uncertainty and hesitation;
 
 vi) to soften the effect of bad news, conflict of views, etc.;
 
-> You ˈhaven't ·done very ˇwell, I'm a·fraid.
+> You ˈhaven't ·done very ˇwell, I'm a·fraid.  
 > You're ˇwrong, you ·know.
 
 vii) (with attached tag questions) anxious query;

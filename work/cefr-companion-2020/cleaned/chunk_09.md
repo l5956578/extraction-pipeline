@@ -1,12 +1,36 @@
 # chunk_09 (pages 242-266)
 
-Page **242**<!-- page:242 -->
+Page **242**
+
+<!-- page:242 -->
 
 <!-- el:start type=prose id=prose_p243_s0 page=243 -->
-Appendix 6**DEVELOPMENT AND VALIDATION OF THE  EXTENDED ILLUSTRATIVE DESCRIPTORS UPDATING THE 2001 SCALES**The illustrative descriptor scales published in 2001 are among the most widely exploited aspects of the CEFR and the relevance of the descriptors has remained remarkably stable over time. Therefore, the approach taken was to supplement the 2001 set rather than change the descriptors in it. There are, however, substantive changes to a small number of descriptors in the scales from CEFR 2001 Chapters 4 and 5. The amendment of a small number of “absolute” statements at C2 is intended to better reflect the fact that the CEFR illustrative descriptors do not take an idealised native speaker as a reference point for the competence of a user/learner. These small changes are included in the extended set of illustrative descriptors published here, and are listed in Appendix 7. The working method adopted began with a small Authoring Group from the Eurocentres Foundation that selected, incorporated and, where necessary, adapted relevant calibrated materials drawn from the sources cited in the preface. In a series of meetings with a small group of experts that acted as a Sounding Board, the resulting set of descriptors was refined before being submitted to a larger group of consultants for review.**NEW SCALES**At this stage of the project, new scales were added for “Reading as a leisure activity” (under “Written reception”), for “Using telecommunications” (under “Spoken interaction”) and for “Sustained monologue: giving information” (under “Spoken production”). Certain existing descriptors defining more monologic speech were also moved from the scale “Information exchange” to the “Sustained monologue: giving information” scale during this process.**PRE-A1**Pre-A1 represents a “milestone” halfway towards Level A1, a band of proficiency at which the learner has not yet acquired a generative capacity, but relies upon a repertoire of words and formulaic expressions. The existence of a band of proficiency below A1 is referred to at the beginning of CEFR 2001 Section 3.5. A short list of descriptors is given there that had been calibrated below A1 in the SNSF research project that had developd the illustrative descriptors. A fuller description of the competences of learners at A1 and the inclusion of a level below A1 was important for users as evidenced by the number of descriptor projects that focused on these lower levels. Therefore, a band of proficiency labelled Pre-A1 is included in the majority of the scales.**PHONOLOGY**For “Phonological control”, which was an existing CEFR 2001 (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) scale, a completely new set of descriptors was developed /see “Phonological Scale Revision Process Report” (Piccardo 2016). Phonology had been the least successful scale developed in the research behind the descriptors published in 2001. The phonology scale was the only CEFR illustrative descriptor scale for which a native-speaker norm, albeit implicit, had been adopted. In an update, it appeared more appropriate to focus on intelligibility as the primary construct in phonological control, in line with current research, especially in the context of providing descriptors for building on plurilingual/ pluricultural repertoires. The resulting phonology project followed all three validation phases described below in relation to other new scales, with over 250 informants involved in each phase.**YOUNG LEARNERS**The collated descriptors for young learners are available on the CEFR website. There is a recognised need for instruments to better support CEFR alignment of teaching and learning for young learners. However, a conscious decision was taken to avoid parallel design and calibration of new descriptors for young learners during this project, as young learner descriptors are largely derived and adapted from the CEFR illustrative descriptors, according to age and context. Moreover, a great deal of work has already been done in this area by professionals across the member states in the design and validation of European Language Portfolios for young learners. Therefore, the approach adopted for young learners was to collect and collate descriptors for young learners
+Appendix 6
+
+**DEVELOPMENT AND VALIDATION OF THE  EXTENDED ILLUSTRATIVE DESCRIPTORS UPDATING THE 2001 SCALES**
+
+The illustrative descriptor scales published in 2001 are among the most widely exploited aspects of the CEFR and the relevance of the descriptors has remained remarkably stable over time. Therefore, the approach taken was to supplement the 2001 set rather than change the descriptors in it. There are, however, substantive changes to a small number of descriptors in the scales from CEFR 2001 Chapters 4 and 5. The amendment of a small number of “absolute” statements at C2 is intended to better reflect the fact that the CEFR illustrative descriptors do not take an idealised native speaker as a reference point for the competence of a user/learner. These small changes are included in the extended set of illustrative descriptors published here, and are listed in Appendix 7. The working method adopted began with a small Authoring Group from the Eurocentres Foundation that selected, incorporated and, where necessary, adapted relevant calibrated materials drawn from the sources cited in the preface. In a series of meetings with a small group of experts that acted as a Sounding Board, the resulting set of descriptors was refined before being submitted to a larger group of consultants for review.
+
+**NEW SCALES**
+
+At this stage of the project, new scales were added for “Reading as a leisure activity” (under “Written reception”), for “Using telecommunications” (under “Spoken interaction”) and for “Sustained monologue: giving information” (under “Spoken production”). Certain existing descriptors defining more monologic speech were also moved from the scale “Information exchange” to the “Sustained monologue: giving information” scale during this process.
+
+**PRE-A1**
+
+Pre-A1 represents a “milestone” halfway towards Level A1, a band of proficiency at which the learner has not yet acquired a generative capacity, but relies upon a repertoire of words and formulaic expressions. The existence of a band of proficiency below A1 is referred to at the beginning of CEFR 2001 Section 3.5. A short list of descriptors is given there that had been calibrated below A1 in the SNSF research project that had developd the illustrative descriptors. A fuller description of the competences of learners at A1 and the inclusion of a level below A1 was important for users as evidenced by the number of descriptor projects that focused on these lower levels. Therefore, a band of proficiency labelled Pre-A1 is included in the majority of the scales.
+
+**PHONOLOGY**
+
+For “Phonological control”, which was an existing CEFR 2001 (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) scale, a completely new set of descriptors was developed /see “Phonological Scale Revision Process Report” (Piccardo 2016). Phonology had been the least successful scale developed in the research behind the descriptors published in 2001. The phonology scale was the only CEFR illustrative descriptor scale for which a native-speaker norm, albeit implicit, had been adopted. In an update, it appeared more appropriate to focus on intelligibility as the primary construct in phonological control, in line with current research, especially in the context of providing descriptors for building on plurilingual/ pluricultural repertoires. The resulting phonology project followed all three validation phases described below in relation to other new scales, with over 250 informants involved in each phase.
+
+**YOUNG LEARNERS**
+
+The collated descriptors for young learners are available on the CEFR website. There is a recognised need for instruments to better support CEFR alignment of teaching and learning for young learners. However, a conscious decision was taken to avoid parallel design and calibration of new descriptors for young learners during this project, as young learner descriptors are largely derived and adapted from the CEFR illustrative descriptors, according to age and context. Moreover, a great deal of work has already been done in this area by professionals across the member states in the design and validation of European Language Portfolios for young learners. Therefore, the approach adopted for young learners was to collect and collate descriptors for young learners
 <!-- el:end id=prose_p243_s0 -->
 
-Page**243**<!-- page:243 -->
+Page **243**
+
+<!-- page:243 -->
 
 <!-- el:start type=figure_page id=figure_18_young_learner_project_design page=244 -->
 and organise these into the two main age groups (7 to 10 and 11 to 15) that were represented by the majority of validated ELP samples available.
@@ -37,22 +61,32 @@ flowchart TD
   QV --> FIN[Finalisation]
   FIN --> FU
   FU --> OUT[A new collation of descriptors for young learners]
-```**Initial collation  of validated ELP** **& assessment  Preparatory** **descriptors work**Shortlist of 35 sources evaluated / collated from 19 member states**Judgement of  correspondences** **to 2001 illustrative  descriptors** **Development**By main researcher, according to validated Young Learner descriptor levels**Expert  consultation** **Qualitative**Peer review of Young**validation**Learner descriptor alignment and judgments of relevance**Separate  reference** **documents for  each age group**Introduction chapter**Finalisation**Reorganisation of descriptors by level rather than scale Archive version retained with both age groups organised by scale**Categorisation  Expert consultation** **of sources**Relevant age Sources aligned groups finalised by age group**Addition of  Steering** **extended set  committee** **descriptors  review of** **with judgments  collation format** **of relevance**By members of CEFR Extended descriptors extended set expert evaluated for relevance authoring group to each age group**Rework / expert  workshop**Update of alignments, judgments of relevance and comments**Final updates**Adjustments to final**A new collation**document versions**of descriptors for**to reflect validated changes to the**young learners** extended set of CEFR illustrative descriptors
+```
+
+
+**Initial collation  of validated ELP** **& assessment  Preparatory** **descriptors work**Shortlist of 35 sources evaluated / collated from 19 member states**Judgement of  correspondences** **to 2001 illustrative  descriptors** **Development**By main researcher, according to validated Young Learner descriptor levels**Expert  consultation** **Qualitative**Peer review of Young**validation**Learner descriptor alignment and judgments of relevance**Separate  reference** **documents for  each age group**Introduction chapter**Finalisation** Reorganisation of descriptors by level rather than scale Archive version retained with both age groups organised by scale **Categorisation  Expert consultation** **of sources**Relevant age Sources aligned groups finalised by age group**Addition of  Steering** **extended set  committee** **descriptors  review of** **with judgments  collation format** **of relevance** By members of CEFR Extended descriptors extended set expert evaluated for relevance authoring group to each age group
+
+**Rework / expert  workshop**Update of alignments, judgments of relevance and comments**Final updates**Adjustments to final**A new collation**document versions**of descriptors for**to reflect validated changes to the**young learners** extended set of CEFR illustrative descriptors
 <!-- el:end id=figure_18_young_learner_project_design -->
 
 51.	 Bank of supplementary descriptors, www.coe.int/en/web/common-european-framework-reference-languages/bank-ofsupplementary-descriptors.
 
-*Page **244**▶**CEFR – Companion volume***<!-- page:244 -->
+*Page **244** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p245_s0 page=245 -->**MEDIATION The conceptual approach to mediation**The 1996 provisional version of the CEFR, published during the last stages of the Swiss research project, sketched out categories for illustrative descriptor scales for mediation to complement those for reception, interaction and production. However, no project was set up to develop them. One important aim of the current update, therefore, was to finally provide such descriptor scales for mediation, given the increasing relevance of this area in education. In the consideration of mediation, descriptors for building on plurilingual and pluricultural repertoires were also added. It was to the validation of these new descriptors for mediation, online interaction, reactions to literature and building on plurilingual/pluricultural repertoires that the institutions listed in the preface contributed.
+<!-- page:244 -->
+
+<!-- el:start type=prose id=prose_p245_s0 page=245 -->
+**MEDIATION The conceptual approach to mediation**
+
+The 1996 provisional version of the CEFR, published during the last stages of the Swiss research project, sketched out categories for illustrative descriptor scales for mediation to complement those for reception, interaction and production. However, no project was set up to develop them. One important aim of the current update, therefore, was to finally provide such descriptor scales for mediation, given the increasing relevance of this area in education. In the consideration of mediation, descriptors for building on plurilingual and pluricultural repertoires were also added. It was to the validation of these new descriptors for mediation, online interaction, reactions to literature and building on plurilingual/pluricultural repertoires that the institutions listed in the preface contributed.
 
 The main focus in developing new scales was on mediation, for aspects of which 23 descriptor scales are now available (mediation activities: 18; mediation strategies: 5). The approach taken to mediation was broader than that presented in CEFR 2001, in which Section 2.1.3 introduced mediation as the fourth category of communicative language activities, in addition to reception, interaction and production:
 
-In both the receptive and productive modes, the written and/or oral activities of**mediation**make communication possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which this third party does not have direct access. Mediating language activities – (re)processing an existing text – occupy an important place in the normal linguistic functioning of our societies.
+In both the receptive and productive modes, the written and/or oral activities of **mediation** make communication possible between persons who are unable, for whatever reason, to communicate with each other directly. Translation or interpretation, a paraphrase, summary or record, provides for a third party a (re)formulation of a source text to which this third party does not have direct access. Mediating language activities – (re)processing an existing text – occupy an important place in the normal linguistic functioning of our societies.
 
 This description is taken a stage further in CEFR 2001 Section 4.4.4:
 
-In**mediating activities**, the language user is not concerned to express his/her own meanings, but simply to act as an intermediary between interlocutors who are unable to understand each other directly – normally (but not exclusively) speakers of different languages. Examples of mediating activities include spoken interpretation and written translation as well as summarising and paraphrasing texts in the same language, when the language of the original text is not understandable to the intended recipient.
+In **mediating activities**, the language user is not concerned to express his/her own meanings, but simply to act as an intermediary between interlocutors who are unable to understand each other directly – normally (but not exclusively) speakers of different languages. Examples of mediating activities include spoken interpretation and written translation as well as summarising and paraphrasing texts in the same language, when the language of the original text is not understandable to the intended recipient.
 
 The focus in the text of the CEFR 2001 book is thus on information transfer and on acting as an intermediary either in one language or across languages.
 
@@ -81,28 +115,48 @@ Finally, consideration of cross-linguistic and cultural mediation led to an inte
 - building on plurilingual repertoire.
 <!-- el:end id=prose_p245_s0 -->
 
-*Development and validation of the extended illustrative descriptors ▶ Page **245***<!-- page:245 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **245***
+
+<!-- page:245 -->
 
 <!-- el:start type=prose id=prose_p246_s0 page=246 -->
-The aim of developing descriptors for plurilingual and pluricultural competence (https://rm.coe.int/168069d29b) linked to CEFR levels is to encourage teachers to include the acquisition of plurilingual and pluricultural competence, appropriate to the proficiency level of their learners, in their planning.**METHODOLOGY ADOPTED**The project emulated and further extended the methodologies employed in the original CEFR descriptor research by Brian North and Günther Schneider in Switzerland. It followed a similar mixed methods research design, with qualitative and quantitative development, as summarised in Figure 12. An extensive review of relevant literature was followed by an intuitive authoring phase, with feedback from a Sounding Board. This was followed between February 2015 and February 2016 by three phases of validation activities with around 1 000 people. The validation was then followed between July 2016 and February 2017 by three rounds of consultation, with piloting between January 2017 and July 2017.
+The aim of developing descriptors for plurilingual and pluricultural competence (https://rm.coe.int/168069d29b) linked to CEFR levels is to encourage teachers to include the acquisition of plurilingual and pluricultural competence, appropriate to the proficiency level of their learners, in their planning.
+
+**METHODOLOGY ADOPTED**
+
+The project emulated and further extended the methodologies employed in the original CEFR descriptor research by Brian North and Günther Schneider in Switzerland. It followed a similar mixed methods research design, with qualitative and quantitative development, as summarised in Figure 12. An extensive review of relevant literature was followed by an intuitive authoring phase, with feedback from a Sounding Board. This was followed between February 2015 and February 2016 by three phases of validation activities with around 1 000 people. The validation was then followed between July 2016 and February 2017 by three rounds of consultation, with piloting between January 2017 and July 2017.
 
 The methodology followed for the development and validation of the new scales mirrored that undertaken in the original Swiss research (see CEFR 2001 Appendix B), but on a larger scale. Like the original research the project had three broad phases:
 
 - initial research and development (intuitive phase); f checking and improving the categories and quality of the descriptors (qualitative phase); f calibrating the best descriptors to a mathematical scale and confirming the cut-offs between the levels (quantitative phase).
 
-The above tasks took place between January 2014 and March 2016, followed by consultation and piloting.**PREPARATORY WORK**The first step was to collect existing instruments and articles related to mediation; at this point the mediation descriptors from Profile Deutsch and some other sources were translated into English. In a series of liaison meetings with Daniel Coste and Marisa Cavalli, the authors of “Education, mobility, otherness – The mediation functions of schools” (Coste and Cavalli 2015), a set of initial categories was developed and an initial collection of descriptors for mediating text and mediating concepts was collected and drafted. The main categories into which scales were grouped in the early stages were:
+The above tasks took place between January 2014 and March 2016, followed by consultation and piloting.
+
+**PREPARATORY WORK**
+
+The first step was to collect existing instruments and articles related to mediation; at this point the mediation descriptors from Profile Deutsch and some other sources were translated into English. In a series of liaison meetings with Daniel Coste and Marisa Cavalli, the authors of “Education, mobility, otherness – The mediation functions of schools” (Coste and Cavalli 2015), a set of initial categories was developed and an initial collection of descriptors for mediating text and mediating concepts was collected and drafted. The main categories into which scales were grouped in the early stages were:
 
 - cognitive mediation (facilitating access to knowledge, awareness and skills); f interpersonal mediation (establishing and maintaining relationships; defining roles and conventions in order to enhance receptivity, avoid/resolve conflict and negotiate compromise); f textual mediation (transmitting information and argument: clarifying, summarising, translating, etc.).
 
-The full initial collection also included a number of draft scales related to aspects of institutional mediation (for example: integrating newcomers, dealing with stakeholders as an institution, developing and maintaining institutional relationships), together with a number of scales on different aspects of mediation by teachers – both aspects reflecting the focus of Coste and Cavalli on the mediation role of schools. However, at the first consultative meeting, held in July 2014, there was a consensus that these scales were in effect recycling aspects of interaction and production already present in the CEFR, rather than breaking new ground. For this reason, development was focused on the above-mentioned categories of conceptual, interpersonal and textual mediation. The collection was reworked for an expert meeting that set up an Authoring Group in September 2014.**DEVELOPMENT**
+The full initial collection also included a number of draft scales related to aspects of institutional mediation (for example: integrating newcomers, dealing with stakeholders as an institution, developing and maintaining institutional relationships), together with a number of scales on different aspects of mediation by teachers – both aspects reflecting the focus of Coste and Cavalli on the mediation role of schools. However, at the first consultative meeting, held in July 2014, there was a consensus that these scales were in effect recycling aspects of interaction and production already present in the CEFR, rather than breaking new ground. For this reason, development was focused on the above-mentioned categories of conceptual, interpersonal and textual mediation. The collection was reworked for an expert meeting that set up an Authoring Group in September 2014.
+
+**DEVELOPMENT**
 
 The Authoring Group then conducted a thorough literature review and redrafted the initial collection in a series of meetings between September 2014 and February 2015. Sub-groups worked on online interaction, plurilingual/pluricultural competence and phonology. Work on plurilingual and pluricultural competences arose naturally from consideration of cross-linguistic mediation, particularly in the role of intermediaries. Work on phonology was undertaken because the existing CEFR 2001 scale for phonological control, alone among the CEFR illustrative scales, took an implied native speaker as a point of reference and set up unrealistic expectations (B2: “Has acquired a natural pronunciation and intonation”). This was considered incompatible with a plurilingual perspective. A Sounding Board closely supported the work of the Authoring Group with input materials and feedback. In February 2015, a set of 427 draft descriptors for online interaction, mediation activities and strategies and for plurilingual/pluricultural competence were ready for the first round of validation activities. Since work on
 <!-- el:end id=prose_p246_s0 -->
 
-*Page **246**▶**CEFR – Companion volume***<!-- page:246 -->
+*Page **246** ▶ **CEFR – Companion volume***
+
+<!-- page:246 -->
 
 <!-- el:start type=prose id=prose_p247_s0 page=247 -->
-plurilingual/pluricultural competence and phonology started later, only some of the descriptors for the former and none of those for the latter were included at this point. The phonology descriptors were first tried out in a workshop in June 2015 and in consultation with phonology experts.**QUALITATIVE VALIDATION**By this stage, 137 institutes had been recruited to take part in validation. This first phase took place at these institutions from February to March 2015 during face-to-face workshop sessions, in which almost 1 000 people took part. The task was a more systematic version of the one used in the 32 workshops in the original CEFR descriptor research project. Participants discussed in pairs some 60 descriptors for three to five related areas, decided what area they were describing, rated them for (a) clarity, (b) pedagogic relevance and (c) relation to real-world language use, and suggested improvements to formulation. Following this, some 60 descriptors were dropped, including one entire scale. Very many of the other descriptors were reformulated, usually shortened, and two new scales (“Spoken translation of written text”; “Breaking down complicated information”) were drafted at the suggestion of workshop participants. It was at this point that some of the detail being removed from descriptors was put into examples for different domains (see Appendix 5). Qualitative validation for phonology, in which 250 project participants took part online in the same (familiar) activities, came much later in the year, in November and December 2015.**QUANTITATIVE VALIDATION**
+plurilingual/pluricultural competence and phonology started later, only some of the descriptors for the former and none of those for the latter were included at this point. The phonology descriptors were first tried out in a workshop in June 2015 and in consultation with phonology experts.
+
+**QUALITATIVE VALIDATION**
+
+By this stage, 137 institutes had been recruited to take part in validation. This first phase took place at these institutions from February to March 2015 during face-to-face workshop sessions, in which almost 1 000 people took part. The task was a more systematic version of the one used in the 32 workshops in the original CEFR descriptor research project. Participants discussed in pairs some 60 descriptors for three to five related areas, decided what area they were describing, rated them for (a) clarity, (b) pedagogic relevance and (c) relation to real-world language use, and suggested improvements to formulation. Following this, some 60 descriptors were dropped, including one entire scale. Very many of the other descriptors were reformulated, usually shortened, and two new scales (“Spoken translation of written text”; “Breaking down complicated information”) were drafted at the suggestion of workshop participants. It was at this point that some of the detail being removed from descriptors was put into examples for different domains (see Appendix 5). Qualitative validation for phonology, in which 250 project participants took part online in the same (familiar) activities, came much later in the year, in November and December 2015.
+
+**QUANTITATIVE VALIDATION**
 
 In the next phase, 189 institutions took part, with a total of 1 294 participants from 45 countries. Again, each participating institution organised a face-to-face workshop. After familiarisation activities similar to those recommended in the Council of Europe’s manual entitled “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (https://rm.coe.int/1680667a2d) (Council of Europe 2009) participants took part in a standard-setting workshop in which, individually and after discussion, they assigned draft descriptors to CEFR levels. The full range of CEFR proficiency bands from the initial CEFR descriptor research was used for this purpose (= 10 bands from Pre-A1 to C2). Participants wrote their decisions on PDF printouts and only at the end did they enter their considered, final, individual decisions into an online survey.
 
@@ -117,7 +171,9 @@ The main quantitative data collection then followed in an online survey conducte
 Quantitative validation for phonology followed in January 2016, with 272 people taking part. There were two tasks: (a) assigning to levels, and (b) assessing learner performances in video clips (“Can the learner in the video do what is described in the descriptor?”). Different standard-setting techniques were employed; again, readers are referred to “Phonological Scale Revision Process Report” (Piccardo 2016) for details.
 <!-- el:end id=prose_p247_s0 -->
 
-*Development and validation of the extended illustrative descriptors ▶ Page **247***<!-- page:247 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **247***
+
+<!-- page:247 -->
 
 <!-- el:start type=artifact id=scale_the_rasch_model page=248 -->
 > The Rasch Model is named after a Danish mathematician, George Rasch. It is the most commonly used of a family of probability models that operationalise latent trait theory (also called item response theory – IRT). The model analyses the extent to which an item “fits” in the underlying construct (= latent trait) that is being measured. It also estimates on a mathematical scale, firstly difficulty values (= how difficult each item is) and secondly, ability values (= how competent each person is in the trait in question). The model is used for many purposes but two of the main ones are:
@@ -133,14 +189,15 @@ Quantitative validation for phonology followed in January 2016, with 272 people 
 > The objective scaling and the potential generalisability of the scale values obtained makes the model particularly suitable for determining at which level one should situate “can do” descriptors on a common framework scale like the CEFR levels.
 <!-- el:end id=scale_the_rasch_model -->
 
-<!-- el:start type=prose id=prose_p248_s1 page=248 -->**FURTHER VALIDATION OF PLURILINGUAL AND PLURICULTURAL COMPETENCE (https://rm.coe.int/168069d29b)**
+<!-- el:start type=prose id=prose_p248_s1 page=248 -->
+**FURTHER VALIDATION OF PLURILINGUAL AND PLURICULTURAL COMPETENCE (https://rm.coe.int/168069d29b)**
 
 Finally, an extra survey was carried out in February 2016 for three reasons. Firstly, it was an opportunity to include descriptors for reception strategies and plurilingual comprehension, mostly adapted from the MIRIADI Project;52 secondly, the task in the main online survey had not worked well for plurilingualism, so the extra survey re-ran this with a different task; finally, it was an opportunity to add more descriptors for pluricultural competence, particularly at lower levels. The survey was carried out in two completely separate parallel versions. From among the project participants, 267 volunteers completed one form, while 62 experts in plurilingual education completed the other. The results were then contrasted and it was established that there was no statistically significant difference between them. The calibrations to levels were also extremely compatible with the existing CEFR 2001 scale for sociolinguistic appropriateness.
 <!-- el:end id=prose_p248_s1 -->
 
 52.	 www.miriadi.net/en/miriadi-plan.
 
-*Page **248**▶**CEFR – Companion volume***
+*Page **248** ▶ **CEFR – Companion volume***
 
 <!-- page:248 -->
 
@@ -181,9 +238,20 @@ flowchart TB
 ```
 <!-- el:end id=figure_19_multimethod_research_design -->
 
-*Development and validation of the extended illustrative descriptors ▶ Page **249***<!-- page:249 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **249***
 
-<!-- el:start type=prose id=prose_p250_s0 page=250 -->**ISSUES AND RESPONSES**A great amount of feedback was given by participants in the validation activities in 2015, in consultation meetings and during the wider consultation and piloting in 2016-17. This section focuses on some of the key issues that were raised over the duration of the project and how each one was addressed.**RELATIONSHIP OF MEDIATION SCALES TO CEFR 2001 SCALES**Although the focus in the project was to provide descriptors for activities and strategies that were not already covered by CEFR 2001 descriptor scales, some aspects of the mediation scales, particularly at lower levels, are reminiscent of the kinds of activities described in existing CEFR scales. This is because some aspects of mediation, in the broader interpretation now being adopted, are already present in the illustrative descriptor scales published in 2001. The new scales under “Mediating a text” for “Relaying specific information”, “Explaining data” and “Processing text”, for example, are an elaboration of concepts introduced in the existing scale for “Processing text” under “Text” in CEFR 2001 Section 4.6.3. Similarly, the scales particularly concerning group interaction in “Facilitating collaborative interaction with peers”, “Collaborating to construct meaning” and “Encouraging conceptual talk”, are in many ways a further development of concepts in the existing scale “Co-operating strategies under interaction strategies”. This underlines the difficulty of any scheme of categorisation. We should never underestimate the fact that categories are convenient, invented artefacts that make it easier for us to interpret the world. Boundaries are fuzzy and overlap is inevitable.**CROSS-LINGUISTIC MEDIATION**
+<!-- page:249 -->
+
+<!-- el:start type=prose id=prose_p250_s0 page=250 -->
+**ISSUES AND RESPONSES**
+
+A great amount of feedback was given by participants in the validation activities in 2015, in consultation meetings and during the wider consultation and piloting in 2016-17. This section focuses on some of the key issues that were raised over the duration of the project and how each one was addressed.
+
+**RELATIONSHIP OF MEDIATION SCALES TO CEFR 2001 SCALES**
+
+Although the focus in the project was to provide descriptors for activities and strategies that were not already covered by CEFR 2001 descriptor scales, some aspects of the mediation scales, particularly at lower levels, are reminiscent of the kinds of activities described in existing CEFR scales. This is because some aspects of mediation, in the broader interpretation now being adopted, are already present in the illustrative descriptor scales published in 2001. The new scales under “Mediating a text” for “Relaying specific information”, “Explaining data” and “Processing text”, for example, are an elaboration of concepts introduced in the existing scale for “Processing text” under “Text” in CEFR 2001 Section 4.6.3. Similarly, the scales particularly concerning group interaction in “Facilitating collaborative interaction with peers”, “Collaborating to construct meaning” and “Encouraging conceptual talk”, are in many ways a further development of concepts in the existing scale “Co-operating strategies under interaction strategies”. This underlines the difficulty of any scheme of categorisation. We should never underestimate the fact that categories are convenient, invented artefacts that make it easier for us to interpret the world. Boundaries are fuzzy and overlap is inevitable.
+
+**CROSS-LINGUISTIC MEDIATION**
 
 Earlier versions of the descriptors had experimented with various formulations seeking to take account of this point. However, making clear distinctions proved to be remarkably difficult. “Mother tongue” and “first language” and “language of schooling” are often not synonymous and even expressions like “source language” and “target language” proved confusing (for example when mediating from another language one may be mediating to the mother tongue; the other language is in such a case the source language and the mother tongue would be the target language). Attempts to cater to these variations also meant that at one point the collection of descriptors unnecessarily tripled in size, with very minor changes in formulation.
 
@@ -204,13 +272,24 @@ Can explain the relevance of specific information given in a particular section 
 All the descriptors for mediating a text involve integrated skills, a mixture of reception and production. The focus is not on reception, for which CEFR scales already exist. The level at which descriptors are calibrated reflects the level of processing and production required. When reception and production are in different languages, then the level represented by the descriptor is that needed to process and articulate the source message in the target language(s).
 <!-- el:end id=prose_p250_s0 -->
 
-*Page **250**▶**CEFR – Companion volume***<!-- page:250 -->
+*Page **250** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p251_s0 page=251 -->**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES**In any CEFR descriptor scale, the descriptors at a particular level define what can reasonably be achieved when the user/learner has a communicative language competence (CEFR 2001 Section 5.2) in the language(s) concerned corresponding to the CEFR level given, provided the person concerned also has the personal characteristics, knowledge, cognitive maturity and experience – that is to say the general competences (CEFR 2001 Section 5.1) – necessary to do so successfully. The CEFR scales are intended to be used to profile ability. It is unlikely that all users who are globally “B1” are capable of doing exactly what is defined at B1 on all CEFR descriptor scales, no more and no less. It is far more likely that people whose overall level is at B1 will in fact be A2 or A2+ in relation to some activities and B1+ or even B2 in relation to others, depending upon their personal profile of general competences, in turn dependent on age, experience, etc. This is the case with many existing CEFR 2001 descriptor scales that concern cognitive abilities like “Note-taking”, “Reading for information and argument”, “Formal discussion (meetings)”, “Sustained monologue: addressing audiences”, and producing “Reports and essays”. It is equally the case with many mediation activities. Some of the scales under mediating a text (for example “Processing text”) or mediation strategies (for example “Streamlining text”) involve activities requiring a degree of cognitive sophistication that may also not be shared equally by everyone. Furthermore, the scales for mediating communication require interpersonal skills that are not shared equally, partly due to experience.
+<!-- page:250 -->
 
-Similarly, the profiles of user/learners at, for example, B1 will differ greatly in relation to “Building on plurilingual/ pluricultural repertoire”, dependent on their personal trajectories and the experience and competences acquired along the way. Therefore, rather than seeking to eliminate the influence of individual differences, the approach taken in the descriptors acknowledges that they are a key contributing factor to learners’ unique profiles of communicative ability.**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES  IN BUILDING ON PLURICULTURAL REPERTOIRE**As with mediating, using one’s pluricultural repertoire involves a range of general competences (CEFR 2001 Section 5.1), usually in close conjunction with pragmatic and sociolinguistic competences (CEFR 2001 Section
+<!-- el:start type=prose id=prose_p251_s0 page=251 -->
+**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES**
 
-5.2.2 and 5.2.3). Thus in this scale, as in the mediation scales and many other CEFR scales, competences other than language competences come into play. The boundaries between knowledge of the world, sociocultural knowledge and intercultural awareness are not really clear-cut, as the CEFR 2001 explains. Nor are those between practical skills and know-how – which includes social skills – and sociocultural knowledge or intercultural skills and know-how. The field of socio-pragmatics also studies aspects of these areas from a more “linguistic” point of view. What is more important than possible overlap between categories is the fact that the user/learner calls on all these various aspects, merged with the appropriate communicative language competence, in the creation of meaning in a communicative situation. Some are more likely than others to be able to do this to the extent permitted by a given language proficiency level, perhaps because of their differing aptitudes and experience.**CONSULTATION AND PILOTING**
+In any CEFR descriptor scale, the descriptors at a particular level define what can reasonably be achieved when the user/learner has a communicative language competence (CEFR 2001 Section 5.2) in the language(s) concerned corresponding to the CEFR level given, provided the person concerned also has the personal characteristics, knowledge, cognitive maturity and experience – that is to say the general competences (CEFR 2001 Section 5.1) – necessary to do so successfully. The CEFR scales are intended to be used to profile ability. It is unlikely that all users who are globally “B1” are capable of doing exactly what is defined at B1 on all CEFR descriptor scales, no more and no less. It is far more likely that people whose overall level is at B1 will in fact be A2 or A2+ in relation to some activities and B1+ or even B2 in relation to others, depending upon their personal profile of general competences, in turn dependent on age, experience, etc. This is the case with many existing CEFR 2001 descriptor scales that concern cognitive abilities like “Note-taking”, “Reading for information and argument”, “Formal discussion (meetings)”, “Sustained monologue: addressing audiences”, and producing “Reports and essays”. It is equally the case with many mediation activities. Some of the scales under mediating a text (for example “Processing text”) or mediation strategies (for example “Streamlining text”) involve activities requiring a degree of cognitive sophistication that may also not be shared equally by everyone. Furthermore, the scales for mediating communication require interpersonal skills that are not shared equally, partly due to experience.
+
+Similarly, the profiles of user/learners at, for example, B1 will differ greatly in relation to “Building on plurilingual/ pluricultural repertoire”, dependent on their personal trajectories and the experience and competences acquired along the way. Therefore, rather than seeking to eliminate the influence of individual differences, the approach taken in the descriptors acknowledges that they are a key contributing factor to learners’ unique profiles of communicative ability.
+
+**GENERAL AND COMMUNICATIVE LANGUAGE COMPETENCES  IN BUILDING ON PLURICULTURAL REPERTOIRE**
+
+As with mediating, using one’s pluricultural repertoire involves a range of general competences (CEFR 2001 Section 5.1), usually in close conjunction with pragmatic and sociolinguistic competences (CEFR 2001 Section
+
+5.2.2 and 5.2.3). Thus in this scale, as in the mediation scales and many other CEFR scales, competences other than language competences come into play. The boundaries between knowledge of the world, sociocultural knowledge and intercultural awareness are not really clear-cut, as the CEFR 2001 explains. Nor are those between practical skills and know-how – which includes social skills – and sociocultural knowledge or intercultural skills and know-how. The field of socio-pragmatics also studies aspects of these areas from a more “linguistic” point of view. What is more important than possible overlap between categories is the fact that the user/learner calls on all these various aspects, merged with the appropriate communicative language competence, in the creation of meaning in a communicative situation. Some are more likely than others to be able to do this to the extent permitted by a given language proficiency level, perhaps because of their differing aptitudes and experience.
+
+**CONSULTATION AND PILOTING**
 
 The development and validation described above were then followed by a process of consultation and piloting in three phases:
 
@@ -219,14 +298,18 @@ The development and validation described above were then followed by a process o
 After a meeting with Council of Europe experts in June 2016 and a detailed pre-consultation online survey of CEFR experts in the summer of 2016, the descriptors were revised before a formal consultation took place in English and French between October 2016 and February 2017. There were two parallel surveys of individuals and institutions. Some 500 individual informants completed the survey, together with a number of invited institutions and curriculum or assessment agencies. Among other questions, respondents were asked to state to what extent they found each of the new scales to be helpful and to comment on the descriptors. All the proposed new scales were considered to be helpful or very helpful by 80% of the respondents, with the institutions/agencies tending to give a more positive response. The most popular new scales concerned mediating a text, collaborating in small groups and online interaction. There was a considerable difference of opinion between individuals and institutions on two descriptor scales: “Goal-oriented online transactions and collaboration” and “Building on plurilingual repertoire”. While 96% of the institutions found these two scales helpful or very helpful, only 81% to 82% of individuals did so.
 <!-- el:end id=prose_p251_s0 -->
 
-*Development and validation of the extended illustrative descriptors ▶ Page **251***<!-- page:251 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **251***
+
+<!-- page:251 -->
 
 <!-- el:start type=prose id=prose_p252_s0 page=252 -->
 In the formal consultation, two thirds of the respondents definitely welcomed the fact that the descriptor scales for mediation moved beyond the area of classic modern language teaching (to Content and Language Integrated Learning – CLIL, and Language of Schooling), with over 90% of both individuals and institutions agreeing to some extent. A great number of comments and suggestions were received, which have helped to finalise descriptor formulations, scale titles and the way in which the scales are presented.
 
 Piloting took place between February and June 2017, with results continuing to feed into formulation of and presentation of the descriptor scales. The vast majority of the pilots selected descriptors from relevant scales in order to inform the design of communicative tasks in the classroom, and then used the descriptors to observe the language use of the learners. Feedback on the descriptors was very positive, with some useful suggestions for small revisions. The most popular areas for piloting were collaborating in small groups, mediating a text and plurilingual/pluricultural competence. In one pilot, the two descriptor scales for online interaction were also presented in a separate survey of 1 175 Italian teachers of English who were completing an online course in use of digital resources.53 Of these respondents, 94.8% found the descriptors very clear or quite clear, and 80.8% reported that they were very easy or quite easy to use for self-assessment.
 
-At the same time as the formal consultation, a questionnaire was also sent to Council of Europe member states asking about use of the CEFR in their countries, familiarity with support materials recently provided by the Council of Europe’s Education Policy Division (Language Policy Programme) and their reaction to the proposed new descriptor scales. Member states were also asked to suggest institutions for piloting. Results were very positive, except for some reservations concerning the use of the CEFR in initial teacher education – only half of the respondents saying it has been highly helpful. As might be expected, the dimensions of the CEFR most often referred to in official documents and implemented in practice were the descriptors (83% highly so), the levels (75% highly so) and the action-oriented approach (63% highly so). To the question of whether they welcomed the new scales, the positive response was highest for plurilingual/pluricultural competence (79%), followed by online interaction (75%), mediation (63%) and literature (58%).**INCORPORATION OF DESCRIPTORS FOR SIGN LANGUAGES**
+At the same time as the formal consultation, a questionnaire was also sent to Council of Europe member states asking about use of the CEFR in their countries, familiarity with support materials recently provided by the Council of Europe’s Education Policy Division (Language Policy Programme) and their reaction to the proposed new descriptor scales. Member states were also asked to suggest institutions for piloting. Results were very positive, except for some reservations concerning the use of the CEFR in initial teacher education – only half of the respondents saying it has been highly helpful. As might be expected, the dimensions of the CEFR most often referred to in official documents and implemented in practice were the descriptors (83% highly so), the levels (75% highly so) and the action-oriented approach (63% highly so). To the question of whether they welcomed the new scales, the positive response was highest for plurilingual/pluricultural competence (79%), followed by online interaction (75%), mediation (63%) and literature (58%).
+
+**INCORPORATION OF DESCRIPTORS FOR SIGN LANGUAGES**
 
 People who are born deaf may acquire a sign language as their first language given appropriate input by their parents and peers. Sign languages are not merely a form of gesturally-based communication, and not simply a different medium through which a spoken language is expressed. Linguistic research has provided ample evidence that sign languages are human languages in their own right, like spoken languages, and display linguistic features, means, rules and restrictions like those found in spoken language. Those features include language acquisition, processing, loss and all the other psychological processes and language-specific representations that also apply in spoken languages.
 
@@ -240,7 +323,9 @@ Ever since the CEFR was introduced, there has been a need to define common learn
 53.	 “Techno-CLIL 2017”, moderators: Letizia Cinganotto and Daniela Cuccurullo, https://moodle4teachers.org/enrol/index.php?id=90.
 54.	 The Council of Europe wishes to thank the SNSF for providing the approximately €385 000 that made the project possible.
 
-*Page **252**▶**CEFR – Companion volume***<!-- page:252 -->
+*Page **252** ▶ **CEFR – Companion volume***
+
+<!-- page:252 -->
 
 <!-- el:start type=prose id=prose_p253_s0 page=253 -->
 The ZHAW55 sign language project “Common European Framework of Reference for Sign Languages: development of descriptors for Swiss-German Sign Language” operated to a different timescale, with the research completed in June 2019, three years after the completion of the main descriptor project. Again, the sign language project followed a mixed-method, developmental research design that combined intuitive, qualitative and quantitative analyses. However, as the signing community is small, the sign language project took place on a smaller scale. The three main phases of the project are outlined in Figure 20.
@@ -249,11 +334,20 @@ The approach was entirely data-based. Rather than adapting existing CEFR descrip
 
 Furthermore, a simple validation experiment in the project demonstrated that hearing non-signers and deaf non-teachers had a significantly different interpretation of the level a descriptor refers to in comparison to deaf teachers. Therefore, the descriptors were calibrated only by deaf sign language instructors either born deaf or with L1-competence attributed by the community on the basis of their signed forms (videos).
 
-The descriptors were then grouped into categories. Initially it had been intended to produce scales for different types of text (narrative, descriptive, explanatory, etc.).56 However, very many of the descriptors were identified as relevant for several text types because they treated transversal competences. Finally, therefore, in a workshop undertaken by the project team, the descriptors were grouped into sets on the basis of similarity. Three separate groups sorted the descriptors into piles that appeared to describe related competences. A final categorisation was then negotiated. The characteristics of each set were examined and refined, leading to the definition of categories for nine scales as follows:**Linguistic competence:**1. Sign language repertoire (receptive/productive);
+The descriptors were then grouped into categories. Initially it had been intended to produce scales for different types of text (narrative, descriptive, explanatory, etc.).56 However, very many of the descriptors were identified as relevant for several text types because they treated transversal competences. Finally, therefore, in a workshop undertaken by the project team, the descriptors were grouped into sets on the basis of similarity. Three separate groups sorted the descriptors into piles that appeared to describe related competences. A final categorisation was then negotiated. The characteristics of each set were examined and refined, leading to the definition of categories for nine scales as follows:
 
-2. Diagrammatical accuracy (receptive/productive).**Sociolinguistic competence**:
+**Linguistic competence:**
 
-Sociolinguistic appropriateness and cultural repertoire (receptive/productive).**Pragmatic competence:**<!-- el:end id=prose_p253_s0 -->
+1. Sign language repertoire (receptive/productive);
+
+2. Diagrammatical accuracy (receptive/productive).
+
+**Sociolinguistic competence**:
+
+Sociolinguistic appropriateness and cultural repertoire (receptive/productive).
+
+**Pragmatic competence:**
+<!-- el:end id=prose_p253_s0 -->
 
 3.
 4. Sign text structure (receptive/productive);
@@ -263,9 +357,11 @@ Sociolinguistic appropriateness and cultural repertoire (receptive/productive).*
 8. Processing speed (receptive);
 9. Signing fluency (productive).
 55.	 Zurich University of Applied Sciences Authoring Group: Jörg Keller, Petrea Bürgin, Aline Meili and Dawei Ni.
-56.	 Keller J. et al. (2017), “Auf dem Weg zum Gemeinsamen Europäischen Referenzrahmen (GER) für Gebärdensprachen. Empirie-basierte Bestimmung von Deskriptoren für Textkompetenz am Beispiel der Deutschschweizer Gebärdensprache (DSGS)”,**Das Zeichen**, No. 105 , pp. 86-97; Keller J. et al. (2018), “Deskriptoren zur gebärdensprachlichen Textstrukturierung im GER für Gebärdensprachen”,**Das Zeichen**, No. 109 , pp. 242-5. Keller J. (2019), “Deskriptoren für Textkompetenz in Gebärdensprachen”, in Barras M. et al. (eds),**IDT 2017, Band 2**. Berlin: ESV, pp. 111-117.
+56.	 Keller J. et al. (2017), “Auf dem Weg zum Gemeinsamen Europäischen Referenzrahmen (GER) für Gebärdensprachen. Empirie-basierte Bestimmung von Deskriptoren für Textkompetenz am Beispiel der Deutschschweizer Gebärdensprache (DSGS)”, **Das Zeichen**, No. 105 , pp. 86-97; Keller J. et al. (2018), “Deskriptoren zur gebärdensprachlichen Textstrukturierung im GER für Gebärdensprachen”, **Das Zeichen**, No. 109 , pp. 242-5. Keller J. (2019), “Deskriptoren für Textkompetenz in Gebärdensprachen”, in Barras M. et al. (eds), **IDT 2017, Band 2**. Berlin: ESV, pp. 111-117.
 
-*Development and validation of the extended illustrative descriptors ▶ Page **253***<!-- page:253 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **253***
+
+<!-- page:253 -->
 
 <!-- el:start type=figure_page id=figure_20_sign_language_project_phases page=254 -->
 <!-- db:id=figure_20_sign_language_project_phases type=figure render_as=mermaid product_tier=context pages=254 -->
@@ -282,32 +378,51 @@ flowchart LR
   CC --> CAL[Calibrating to CEFR levels]
   CAL --> OUT[Sign language descriptors]
   PW --> DEV --> VAL
-```**Preparatory Identifying** **work text types Formulating** **Development descriptors Checking** **Validating categories**The final step was calibration to CEFR levels. To create a scale of descriptors, the Rasch Model was used, as in the mediation and phonology projects and the original CEFR descriptor project. However, this time it was videos of the descriptors being signed that provided the data. Videos were provided for this purpose in both Swiss-German Sign Language and International Sign (IS). The latter is a contact lingua franca, used in this case for signers from different European countries who took part. Following a successful trial of the rating scale by the project group, respondents to online surveys were asked to rate the degree of difficulty that a descriptor represented on a 4-point rating scale from 1 (not difficult) to 4 (very difficult).
+```
+
+
+**Preparatory Identifying** **work text types Formulating** **Development descriptors Checking** **Validating categories**
+
+The final step was calibration to CEFR levels. To create a scale of descriptors, the Rasch Model was used, as in the mediation and phonology projects and the original CEFR descriptor project. However, this time it was videos of the descriptors being signed that provided the data. Videos were provided for this purpose in both Swiss-German Sign Language and International Sign (IS). The latter is a contact lingua franca, used in this case for signers from different European countries who took part. Following a successful trial of the rating scale by the project group, respondents to online surveys were asked to rate the degree of difficulty that a descriptor represented on a 4-point rating scale from 1 (not difficult) to 4 (very difficult).
 
 The entire dataset (N = 223) was checked for cases with very few or no evaluations, which were then removed. Sample sizes and distributions of completed evaluations were then checked for the two main groups (Swiss and European). In the Swiss group, N = 53, with nearly all evaluating all descriptors in the entire set of over 300. In the European group, N = 37, with all participants evaluating a subset of all descriptors, resulting in a mean of 15 assessments per descriptor57 in addition to the 53 from the Swiss-German group.
 
 As mentioned above while briefly describing the Rasch Model, descriptors will be more accurately placed at the right level if persons and items for whom the data does not fit the model (because they are improbable) are removed from the data. This step was followed in this project as in the main project.
 
-The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/168073ff31) (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting method based on expert judgment was used.58**Validating  descriptors** **with signers Calibrating to  Sign language** **CEFR levels descriptors**<!-- el:end id=figure_20_sign_language_project_phases -->
+The final step was to establish the cut-off between the CEFR levels on the sign language scale. To facilitate this process, calibrated CEFR descriptors published in 2001 had been included to act as “anchor items” to transform the scale produced to the mathematical values underlying the CEFR scale. For an explanation of this process, users are referred to the sections on quantitative validation in the “Developing illustrative descriptors of aspects of mediation for the CEFR” (https://rm.coe.int/common-european-framework-of-reference-for-languages-learning-teaching/168073ff31) (North and Piccardo 2016) and the “Phonological Scale Revision Process Report” (https://rm.coe.int/phonological-scale-revision-process-report-cefr/168073fff9) (Piccardo 2016). However, unlike in those two projects, the mathematical values of these CEFR 2001 “anchors” were not credible, even when unstable anchors had been removed. Therefore an alternative standard-setting method based on expert judgment was used.58
 
-57.	 While small, these values meet the minimum**a priori**requirements for 95% confidence intervals on difficulty parameters to within +/− 1 logit: see Linacre J. (1994), “Sample size and item calibration stability”,**Rasch Measurement Transactions** Vol. 7, No. 4, p. 328. The Standard Error of Measurement for the sign language descriptors is greater than for the other descriptors, but calibration on the scale is intuitively sensible. In a few cases, descriptors within the margin of error to the next proficiency band have been moved to that adjacent band on the basis of collective expert judgment.
+
+**Validating  descriptors** **with signers Calibrating to  Sign language** **CEFR levels descriptors**
+<!-- el:end id=figure_20_sign_language_project_phases -->
+
+57.	 While small, these values meet the minimum **a priori** requirements for 95% confidence intervals on difficulty parameters to within +/− 1 logit: see Linacre J. (1994), “Sample size and item calibration stability”, **Rasch Measurement Transactions** Vol. 7, No. 4, p. 328. The Standard Error of Measurement for the sign language descriptors is greater than for the other descriptors, but calibration on the scale is intuitively sensible. In a few cases, descriptors within the margin of error to the next proficiency band have been moved to that adjacent band on the basis of collective expert judgment.
 58.	 The method used was a variant of the “Bookmark Method” explained in “Relating Language Examinations to the Common European Framework of Reference for Languages: Learning, Teaching, Assessment (CEFR) – A Manual” (Council of Europe 2009).
 
-*Page **254**▶**CEFR – Companion volume***<!-- page:254 -->
+*Page **254** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p255_s0 page=255 -->**FINALISATION**
+<!-- page:254 -->
+
+<!-- el:start type=prose id=prose_p255_s0 page=255 -->
+**FINALISATION**
 
 The feedback received in the various phases of validation, consultation and piloting between February 2015 and June 2017 was very helpful in identifying and eliminating less successful descriptors and scales, and in revising formulations. The process is documented in an archive available to researchers on the Council of Europe’s website. The definitive version of the descriptors included in this document has taken account of all the feedback received.
 
 Since very many descriptors were validated for certain levels of some scales, especially B2, a number have been excluded from the extended version of the illustrative descriptors, although they are successfully validated descriptors. They are available in Appendix 8. In itself this redundancy is a good thing as it underlines the coherence of the calibration to levels, but it is not necessary to include all the descriptors concerned in the finalised CEFR illustrative descriptor scales. They will later be presented as supplementary descriptors in the CEFR-related descriptor bank that can be found on the Council of Europe’s website.
 <!-- el:end id=prose_p255_s0 -->
 
-*Development and validation of the extended illustrative descriptors ▶ Page **255***<!-- page:255 -->
+*Development and validation of the extended illustrative descriptors ▶ Page **255***
 
-Page**256**<!-- page:256 -->
+<!-- page:255 -->
+
+Page **256**
+
+<!-- page:256 -->
 
 <!-- el:start type=prose id=prose_p257_s0 page=257 -->
-Appendix 7**SUBSTANTIVE CHANGES TO SPECIFIC  DESCRIPTORS PUBLISHED IN 2001**<!-- el:end id=prose_p257_s0 -->
+Appendix 7
+
+**SUBSTANTIVE CHANGES TO SPECIFIC  DESCRIPTORS PUBLISHED IN 2001**
+<!-- el:end id=prose_p257_s0 -->
 
 <!-- el:start type=artifact id=scale_overall_listening_oral_comprehension page=257 -->
 <!-- db:id=scale_overall_listening_oral_comprehension type=descriptor_scale product_tier=context pages=257 -->
@@ -344,12 +459,23 @@ Appendix 7**SUBSTANTIVE CHANGES TO SPECIFIC  DESCRIPTORS PUBLISHED IN 2001**<!--
 | B2 | Can interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language native speakers quite possible without imposing strain on either party. |
 <!-- el:end id=scale_overall_listening_oral_comprehension -->
 
-Page**257**<!-- page:257 -->
+Page **257**
 
-Page**258**<!-- page:258 -->
+<!-- page:257 -->
+
+Page **258**
+
+<!-- page:258 -->
 
 <!-- el:start type=prose id=prose_p259_s0 page=259 -->
-Appendix 8**SUPPLEMENTARY DESCRIPTORS**The descriptors in this appendix were also developed, validated and calibrated in the project to develop descriptors for mediation. They have been excluded from the extended illustrative descriptors for one of three reasons: because of redundancy, because it had not been possible to develop descriptors for a sufficient range of levels, or because of comments in the consultation phases. They will be added to the bank of supplementary descriptors on the Council of Europe website.**SCALES**<!-- el:end id=prose_p259_s0 -->
+Appendix 8
+
+**SUPPLEMENTARY DESCRIPTORS**
+
+The descriptors in this appendix were also developed, validated and calibrated in the project to develop descriptors for mediation. They have been excluded from the extended illustrative descriptors for one of three reasons: because of redundancy, because it had not been possible to develop descriptors for a sufficient range of levels, or because of comments in the consultation phases. They will be added to the bank of supplementary descriptors on the Council of Europe website.
+
+**SCALES**
+<!-- el:end id=prose_p259_s0 -->
 
 <!-- el:start type=artifact id=scale_interpreting page=259 -->
 <!-- db:id=scale_interpreting type=descriptor_scale product_tier=context pages=259 -->
@@ -364,7 +490,9 @@ Appendix 8**SUPPLEMENTARY DESCRIPTORS**The descriptors in this appendix were als
 | B1 | Can, during an interview, interpret and convey straightforward factual information, provided they can prepare beforehand and that the speakers articulate clearly in everyday language.<br>Can interpret informally on subjects of personal or current interest, provided the speakers articulate clearly in standard language and that they can ask for clarification and pause to plan how to express things. |
 <!-- el:end id=scale_interpreting -->
 
-Page**259**<!-- page:259 -->
+Page **259**
+
+<!-- page:259 -->
 
 <!-- el:start type=artifact id=scale_a2 page=260 -->
 <!-- db:id=scale_a2 type=descriptor_scale product_tier=context pages=260 -->
@@ -385,7 +513,8 @@ Page**259**<!-- page:259 -->
 | B1 | Can recognise when their comprehension difficulty is caused by a regional variety of pronunciation. |
 <!-- el:end id=scale_a2 -->
 
-<!-- el:start type=prose id=prose_p260_s2 page=260 -->**INDIVIDUAL DESCRIPTORS**
+<!-- el:start type=prose id=prose_p260_s2 page=260 -->
+**INDIVIDUAL DESCRIPTORS**
 <!-- el:end id=prose_p260_s2 -->
 
 <!-- el:start type=artifact id=scale_a2 page=260 -->
@@ -403,7 +532,7 @@ Page**259**<!-- page:259 -->
 | Pre-<br>A1 | Can establish basic social contact online by using the simplest everyday polite forms of greetings and farewells. |
 <!-- el:end id=scale_a2 -->
 
-*Page **260**▶**CEFR – Companion volume***
+*Page **260** ▶ **CEFR – Companion volume***
 
 <!-- page:260 -->
 
@@ -506,7 +635,7 @@ Page**259**<!-- page:259 -->
 | C1 | Can recognise different communication conventions and their effect on discourse processes, adjust the way they speak accordingly, and help to establish related “rules” to support effective intercultural communication.<br>Can interact flexibly and effectively in situations in which intercultural issues need to be acknowledged and tasks need to be completed together, by exploiting their capacity to belong to the group(s) while maintaining balance and distance. |
 <!-- el:end id=scale_expressing_a_personal_response_to_creative_texts_including_literature -->
 
-*Page **262**▶**CEFR – Companion volume***
+*Page **262** ▶ **CEFR – Companion volume***
 
 <!-- page:262 -->
 
@@ -601,7 +730,9 @@ Page**259**<!-- page:259 -->
 | C1 | Can tell a joke from a different language, keeping the punch line in the original language, because the joke depends on it and explaining the joke to those recipients who do not understand it. |
 <!-- el:end id=scale_amplifying_a_dense_text -->
 
-*Page **264**▶**CEFR – Companion volume***<!-- page:264 -->
+*Page **264** ▶ **CEFR – Companion volume***
+
+<!-- page:264 -->
 
 <!-- el:start type=artifact id=scale_b2 page=265 -->
 <!-- db:id=scale_b2 type=descriptor_scale product_tier=context pages=263 -->
@@ -612,7 +743,8 @@ Page**259**<!-- page:259 -->
 | B1 | Can use an apt word from another language that the interlocutor speaks, when they cannot think of an adequate expression in the language being spoken. |
 <!-- el:end id=scale_b2 -->
 
-<!-- el:start type=prose id=prose_p265_s1 page=265 -->**SIGN LANGUAGE COMPETENCES**
+<!-- el:start type=prose id=prose_p265_s1 page=265 -->
+**SIGN LANGUAGE COMPETENCES**
 <!-- el:end id=prose_p265_s1 -->
 
 <!-- el:start type=artifact id=scale_sign_language_repertoire page=265 -->
@@ -673,6 +805,6 @@ Page**259**<!-- page:259 -->
 | B1 | Can, when describing a person, a character, or an animal, list visible characteristics in the correct order (e.g. from head to toe).<br>Can answer key questions on a text clearly. |
 <!-- el:end id=scale_diagrammatical_accuracy -->
 
-*Page **266**▶**CEFR – Companion volume***
+*Page **266** ▶ **CEFR – Companion volume***
 
 <!-- page:266 -->

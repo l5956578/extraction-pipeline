@@ -1,5 +1,5 @@
+<!-- vision: leaf 61 doc p.55 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p061 page=61 -->
-<!-- vision: Threshold PDF leaf 61 = doc p.55 | multipass two-column general notions -->
 
 **5.2.11** *importance, unimportance*  
 (not) important, unimportant ●
@@ -19,7 +19,7 @@ no doubt ●
 See also Language Functions 2.5–2.8, 2.13–2.14.
 
 **6.2** *expression*  
-to answer, to apologise ●, to ask, to forbid ●, to invite ●, to laugh, to recommend ●, to request ● (as in: ·Guests are reˎquested to ˈleave their ·keys at the ˎdesk.), to say, to speak, to talk, to tell, to thank, to write  
+to answer, to apologise ●, to ask, to forbid ●, to invite ●, to laugh, to recommend ●, to request ● (as in: ·Guests are re·quested to ˈleave their ·keys at the ˎdesk.), to say, to speak, to talk, to tell, to thank, to write  
 nouns: answer, question, statement
 
 #### 7 Relational

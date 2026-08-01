@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p041 page=41 -->
-<!-- vision: Waystage PDF page 41 -->
+<!-- vision: Waystage leaf 41 doc p.35 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p041 page=35 -->
 
 ## 3 Daily life
 

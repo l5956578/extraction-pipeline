@@ -1,5 +1,20 @@
 <!-- el:start type=prose id=prose_p069 page=69 -->
-<!-- vision: Threshold PDF leaf 69 = doc p.63 | multipass Specific notions theme 2 House and home -->
+<!-- vision: leaf 69 doc p.63 | word-catalog multipass ch7-8 -->
+<!-- cat: I ˈhave a ˎflat | in a ˈbig ˎbuilding. -->
+<!-- cat: We have ˈtwo ˎrooms | on the ˈground ˎfloor. -->
+<!-- cat: We have ˈplenty of ˎroom ·here. -->
+<!-- cat: The ˇbedrooms | are on the ˈfirst ˎfloor. -->
+<!-- cat: The ˈkitchen is ·downˎstairs. -->
+<!-- cat: ˈLet's go downˎstairs. -->
+<!-- cat: The ˈbathroom is upˎstairs. -->
+<!-- cat: ˈLet's go upˎstairs. -->
+<!-- cat: The ·room is ˈ£55 per ˎweek. -->
+<!-- cat: ˈRooms to ·let. -->
+<!-- cat: ˈHouse for ·sale. -->
+<!-- cat: ˈWater is included in the ˎrent. -->
+<!-- cat: The ˈheating is ˎon. -->
+<!-- cat: The ˈheating is ˎoff. -->
+<!-- cat: ˈTurn on the ˎlight ·please. -->
 
 ## 2 House and home, environment
 
@@ -22,7 +37,7 @@ We have ˈplenty of ˎroom ·here.
 *names of rooms*  
 e.g. bathroom, bedroom, cellar, kitchen, lavatory/toilet/w.c., living-room  
 floor  
-The ˈbedrooms | are on the ˈfirst ˎfloor.  
+The ˇbedrooms | are on the ˈfirst ˎfloor.  
 basement ●  
 stairs  
 downstairs  
@@ -73,5 +88,7 @@ off
 The ˈheating is ˎoff.  
 to turn on  
 ˈTurn on the ˎlight ·please.
+
+
 
 <!-- el:end id=prose_p069 -->

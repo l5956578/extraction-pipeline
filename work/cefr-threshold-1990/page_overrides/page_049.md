@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 49 = document p.43 | multipass intonation -->
+<!-- vision: leaf 49 doc p.43 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p049 page=43 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -12,13 +12,13 @@
 
 #### 5.5 expressing an opinion
 
-**5.5.1** As ˋI ·see it | …
+**5.5.1** As ˇI ·see it | …
 
-> As ˋI see it, | ˈterrorists are ˎmurderers.
+> As ˇI see it, | ˈterrorists are ˎmurderers.
 
-**5.5.2** In ˋmy o·pinion, | …
+**5.5.2** In ˇmy o·pinion, | …
 
-> In ˋmy opinion, | ˈmost T·V. ·programmes are ˎboring.
+> In ˇmy opinion, | ˈmost T·V. ·programmes are ˎboring.
 
 **5.5.3** I ˈthink …
 
@@ -28,7 +28,7 @@
 
 **5.6.1** in the first place …, in the second place … (etc.)
 
-> In the ˋfirst ·place, | ˈsmoking is ˎbad for you, | in the ˋsecond ·place, | it ˈsmells unˎpleasant.
+> In the ˇfirst ·place, | ˈsmoking is ˎbad for you, | in the ˇsecond ·place, | it ˈsmells unˎpleasant.
 
 **5.6.2** First …, then …, then …
 
@@ -40,7 +40,7 @@
 
 **5.6.4** For one thing … for another …
 
-> For ˋone ·thing | she is too ˎyoung, | for aˈnother | she is ˈnot inˎtelligent e·nough for ·this ·job.
+> For ˇone ·thing | she is too ˎyoung, | for aˈnother | she is ˈnot inˎtelligent e·nough for ·this ·job.
 
 #### 5.7 exemplifying
 
@@ -56,11 +56,11 @@
 
 **5.8.1.1** use of stress
 
-> That's ˈwonderful!
+> That's ˋwonderful!
 
 **5.8.1.2** word order
 
-> Now ˋthis ·picture | I ˈlike ·very ˎmuch.
+> Now ˇthis ·picture | I ˈlike ·very ˎmuch.
 
 **5.8.2** in hand- or type-written texts:
 
@@ -106,7 +106,7 @@
 
 **5.9.1** to ˈsum ˎup …
 
-**5.9.2** in ˋbrief …
+**5.9.2** in ˇbrief …
 
 #### 5.10 changing the theme
 

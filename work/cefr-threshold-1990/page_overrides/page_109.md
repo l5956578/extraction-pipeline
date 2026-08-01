@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 109 = document p.103 | multipass Ch.12 Compensation strategies -->
+<!-- vision: leaf 109 doc p.103 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p109 page=103 -->
 
 ## 12 Compensation strategies

@@ -1,5 +1,5 @@
+<!-- vision: leaf 64 doc p.58 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p064 page=64 -->
-<!-- vision: Threshold PDF leaf 64 = doc p.58 | multipass end of general notions -->
 
 **some** (as in: ˈSome of them ·went ˎhome.), **it** (as in: It's ˎraining.), **you** (as in: It's a ˈnice ˎrecord | if you ˈlike ·modern ·music.)
 

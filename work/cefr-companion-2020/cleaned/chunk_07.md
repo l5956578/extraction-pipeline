@@ -1,7 +1,11 @@
 # chunk_07 (pages 153-181)
 
 <!-- el:start type=prose id=prose_p153_s0 page=153 -->
-**6.2. SOCIOLINGUISTIC COMPETENCE**In this scale some elements of sociocultural knowledge have been included, since it is difficult to draw a hard and fast line between the two concepts. In the SNSF research project, a number of descriptors for specific knowledge of aspects relevant to deaf communities were calibrated. Despite being important for understanding local culture, shared knowledge and values, and the meaning of particular signs, some topics that relate to regional culture have been placed in the supplementary descriptors in Appendix 9 and should be interpreted and exemplified by regional values relevant wherever needed.**Sociolinguistic appropriateness and cultural repertoire**
+**6.2. SOCIOLINGUISTIC COMPETENCE**
+
+In this scale some elements of sociocultural knowledge have been included, since it is difficult to draw a hard and fast line between the two concepts. In the SNSF research project, a number of descriptors for specific knowledge of aspects relevant to deaf communities were calibrated. Despite being important for understanding local culture, shared knowledge and values, and the meaning of particular signs, some topics that relate to regional culture have been placed in the supplementary descriptors in Appendix 9 and should be interpreted and exemplified by regional values relevant wherever needed.
+
+**Sociolinguistic appropriateness and cultural repertoire**
 
 This scale is the equivalent of the one for sociolinguistic appropriateness under communicative language competences. In addition to sociolinguistic appropriateness (register, politeness conventions, etc.) some more general elements of cultural and regional knowledge are included.
 
@@ -34,7 +38,7 @@ Key concepts operationalised in the productive scale include the following:
 | A1 | Can maintain appropriate eye contact with a signer in a dialogue. | Can greet a deaf person appropriately.<br>Can employ different strategies in order to establish the eye contact necessary for communication (e.g. waving, tapping a person on the shoulder, arm or hand, tapping on the table, turning off and on lighting).<br>Can attract attention in order to acquire the turn (e.g. by raising a hand or waving to gain eye contact, by tapping the interlocutor on the shoulder).<br>Can maintain direct eye contact with their interlocutor.<br>Can use fingerspelling as an aid when communication problems occur.<br>Can give their interlocutor visual feedback through conventionalised phrases and mouthings.<br>Can give their interlocutor visual feedback (positive and negative) using facial expressions and other non-manual elements (e.g. head nod or shake).<br>Can respond appropriately in conventionalised interactions, e.g. replying with a formulaic <welcome> / <never mind> / <all well …> / <thank you>. |
 <!-- el:end id=scale_sociolinguistic_appropriateness_and_cultural_repertoire -->
 
-*Page **154**▶**CEFR – Companion volume***
+*Page **154** ▶ **CEFR – Companion volume***
 
 <!-- page:154 -->
 
@@ -42,9 +46,16 @@ Key concepts operationalised in the productive scale include the following:
 
 <!-- page:155 -->
 
-*Page **156**▶**CEFR – Companion volume***<!-- page:156 -->
+*Page **156** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p157_s0 page=157 -->**6.3. PRAGMATIC COMPETENCE**Pragmatic competences cover discourse competences in different media, such as the ability to create personal meaning in the context of a face-to-face or a written discourse and to capture the intentions of language action (e.g. of indirect acts of speech), as well as functional competences such as processing and comprehension even of implicit meaning. These competences also relate to language awareness (metalanguage). Pairs of descriptor scales are available for “Sign text structure” and “Setting and perspectives”. In addition there are two other receptive scales, “Language awareness and interpretation” and “Processing speed”, as well as two other productive scales: “Presence and effect” and “Signing fluency”.**Sign text structure**
+<!-- page:156 -->
+
+<!-- el:start type=prose id=prose_p157_s0 page=157 -->
+**6.3. PRAGMATIC COMPETENCE**
+
+Pragmatic competences cover discourse competences in different media, such as the ability to create personal meaning in the context of a face-to-face or a written discourse and to capture the intentions of language action (e.g. of indirect acts of speech), as well as functional competences such as processing and comprehension even of implicit meaning. These competences also relate to language awareness (metalanguage). Pairs of descriptor scales are available for “Sign text structure” and “Setting and perspectives”. In addition there are two other receptive scales, “Language awareness and interpretation” and “Processing speed”, as well as two other productive scales: “Presence and effect” and “Signing fluency”.
+
+**Sign text structure**
 
 The focus of this pair of scales is on the ability of the user/learner not only to grasp and understand the structure of different types of text but also to shape and structure their contributions. Sign text structure relates to the scales for “Coherence” and “Thematic development” under “Communicative language competences”.
 
@@ -84,7 +95,7 @@ Key concepts operationalised in the productive scale include the following:
 | A1 | Can grasp the individual points in an enumeration.<br>Can recognise the end of a signed contribution by e.g., the clasped hands. | No descriptors available |
 <!-- el:end id=scale_sign_text_structure -->
 
-*Page **158**▶**CEFR – Companion volume***
+*Page **158** ▶ **CEFR – Companion volume***
 
 <!-- page:158 -->
 
@@ -92,9 +103,12 @@ Key concepts operationalised in the productive scale include the following:
 
 <!-- page:159 -->
 
-*Page **160**▶**CEFR – Companion volume***<!-- page:160 -->
+*Page **160** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p161_s0 page=161 -->**Setting and perspectives**
+<!-- page:160 -->
+
+<!-- el:start type=prose id=prose_p161_s0 page=161 -->
+**Setting and perspectives**
 
 A key aspect of sign languages is the use of spatial reference. This requires clearly establishing contexts for interpretation by creating a setting. To do so, the three-dimensional signing space is systematically divided. Discourse referents and particular relations must be placed unambiguously within the signing space. Establishing references serves two main functions: it is a means to establish reference relations within sentences (clauses) and it provides a context of interpretation for a text. Sign languages typically clearly introduce the context and setting of a text at the beginning of the interaction or production in order to establish reference points within the three-dimensional signing space. Once established, these reference points remain in place until a new setting is introduced, or an animate referent moves through space. Consistency of spatial relations is therefore essential in order to produce a coherent, unambiguous contribution.
 
@@ -130,7 +144,7 @@ Key concepts operationalised in the productive scale include the following:
 | A1 | No descriptors available | No descriptors available |
 <!-- el:end id=scale_setting_and_perspectives -->
 
-*Page **162**▶**CEFR – Companion volume***
+*Page **162** ▶ **CEFR – Companion volume***
 
 <!-- page:162 -->
 
@@ -183,7 +197,7 @@ Key concepts operationalised in the scale include the following:
 
 48.	 This is an instance of “body partitioning”.
 
-*Page **164**▶**CEFR – Companion volume***
+*Page **164** ▶ **CEFR – Companion volume***
 
 <!-- page:164 -->
 
@@ -230,11 +244,13 @@ Key concepts operationalised in the scale include the following:
 | A1 | Can position themselves so that the signing is easily visible to the recipients.<br>Can express emotional states through depiction only (without the need for lexical signs). |
 <!-- el:end id=scale_presence_and_effect -->
 
-*Page **166**▶**CEFR – Companion volume***
+*Page **166** ▶ **CEFR – Companion volume***
 
 <!-- page:166 -->
 
-*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **167***<!-- page:167 -->
+*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **167***
+
+<!-- page:167 -->
 
 <!-- el:start type=artifact id=scale_processing_speed page=168 -->
 <!-- db:id=scale_processing_speed type=descriptor_scale product_tier=assessment_action,detailed pages=168 -->
@@ -251,7 +267,8 @@ Key concepts operationalised in the scale include the following:
 | A1 | Can understand short, slowly and clearly signed texts in one go. |
 <!-- el:end id=scale_processing_speed -->
 
-<!-- el:start type=prose id=prose_p168_s1 page=168 -->**Signing fluency**
+<!-- el:start type=prose id=prose_p168_s1 page=168 -->
+**Signing fluency**
 
 This scale is a direct equivalent of the scale for fluency under communicative language competences. Key
 
@@ -284,7 +301,7 @@ emphasis (B level and beyond), or as a means of bilingual contact signing (all l
 
 49.	 These constructions are also known as “fragment buoys”.
 
-*Page **168**▶**CEFR – Companion volume***
+*Page **168** ▶ **CEFR – Companion volume***
 
 <!-- page:168 -->
 
@@ -301,16 +318,28 @@ emphasis (B level and beyond), or as a means of bilingual contact signing (all l
 | A1 | No descriptors available |
 <!-- el:end id=scale_signing_fluency -->
 
-*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **169***<!-- page:169 -->
+*The CEFR Illustrative Descriptor Scales: Signing competences ▶ Page **169***
 
-Page**170**<!-- page:170 -->
+<!-- page:169 -->
 
-Page**171**<!-- page:171 -->
+Page **170**
 
-Page**172**<!-- page:172 -->
+<!-- page:170 -->
+
+Page **171**
+
+<!-- page:171 -->
+
+Page **172**
+
+<!-- page:172 -->
 
 <!-- el:start type=prose id=prose_p173_s0 page=173 -->
-Appendix 1**SALIENT FEATURES OF THE CEFR LEVELS**Level A1 is considered the lowest level of generative language use – the point at which the learner can “interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics”, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
+Appendix 1
+
+**SALIENT FEATURES OF THE CEFR LEVELS**
+
+Level A1 is considered the lowest level of generative language use – the point at which the learner can “interact in a simple way, ask and answer simple questions about themselves, where they live, people they know, and things they have, initiate and respond to simple statements in areas of immediate need or on very familiar topics”, rather than relying purely on a very finite rehearsed, lexically organised repertoire of situation-specific phrases.
 
 Level A2 does appear to reflect the level referred to by the “Waystage” specification. It is at this level that the majority of descriptors stating social functions are to be found, like “use simple everyday polite forms of greeting and address”; “greet people, ask how they are and react to news”; “handle very short social exchanges”; “ask and answer questions about what people do at work and in free time”; “make and respond to invitations”; “discuss what to do, where to go and make arrangements to meet”; “make and accept offers”. Here too are to be found descriptors on getting out and about: the simplified cut-down version of the full set of transactional specifications in “The Threshold Level” for adults living abroad, like: “make simple transactions in shops, post offices or banks”; “get simple information about travel”; “use public transport: buses, trains, and taxis, ask for basic information, ask and give directions, and buy tickets”; “ask for and provide everyday goods and services”.
 
@@ -319,19 +348,21 @@ The next band represents a “strong Waystage” (A2+) performance. What is noti
 Level B1 reflects the “Threshold Level” specification for a visitor to a foreign country and is perhaps most obviously categorised by two features. The first feature is the ability to maintain interaction and get across what you want to, in a range of contexts, for example: “generally follow the main points of extended discussion around them, provided people articulate clearly in standard language”; “give or seek personal views and opinions in an informal discussion with friends”; “express the main point they want to make comprehensibly”; “exploit a wide range of simple language flexibly to express much of what they want to”; “maintain a conversation or discussion but may sometimes be difficult to follow when trying to express exactly what they would like to”; “keep going comprehensibly, even though pausing for grammatical and lexical planning and repair is very evident, especially in longer stretches of free production”. The second feature is the ability to cope flexibly with problems in everyday life, for example “cope with less routine situations on public transport”; “deal with most situations likely to arise when making travel arrangements through an agent or when actually travelling”; “enter unprepared into conversations on familiar topics”; “make a complaint”; “take some initiatives in an interview/consultation (e.g. to bring up a new subject) but is very dependent on interviewer in the interaction”; “ask someone to clarify or elaborate what they have just said”.
 <!-- el:end id=prose_p173_s0 -->
 
-Page**173**<!-- page:173 -->
+Page **173**
+
+<!-- page:173 -->
 
 <!-- el:start type=prose id=prose_p174_s0 page=174 -->
 The subsequent band seems to be a “strong Threshold” (B1+). The same two main features continue to be present, with the addition of a number of descriptors that focus on the exchange of “quantities” of information, for example: “take messages communicating enquiries, explaining problems”; “provide concrete information required in an interview/consultation (e.g. describe symptoms to a doctor) but does so with limited precision”; “explain why something is a problem”; “summarise and give their opinion about a short story, article, talk, discussion, interview or documentary and answer further questions of detail”; “carry out a prepared interview, checking and confirming information, though they may occasionally have to ask for repetition if the other person’s response is rapid or extended”; “describe how to do something, giving detailed instructions”; “exchange accumulated factual information on familiar routine and non-routine matters within their field with some confidence”.
 
-Level B2 represents a new level as far above B1 (“Threshold”) as A2 (“Waystage”) is below it. It is intended to reflect the “Vantage Level” specification. The metaphor is that having been progressing slowly but steadily across the intermediate plateau, the user/learner finds they have arrived somewhere, things look different, they acquire a new perspective, can look around them in a new way. This concept does seem to be borne out to a considerable extent by the descriptors calibrated at this level. They represent quite a break with the content so far. For example, at the lower end of the band there is a focus on effective argument: “account for and sustain their opinions in discussion by providing relevant explanations, arguments and comments”; “explain a viewpoint on a topical issue giving the advantages and disadvantages of various options”; “construct a chain of reasoned argument”; “develop an argument giving reasons in support of or against a particular point of view”; “explain a problem and make it clear that their counterpart in a negotiation must make a concession”; “speculate about causes, consequences, hypothetical situations”; “take an active part in informal discussion in familiar contexts, commenting, putting their point of view clearly, evaluating alternative proposals and making and responding to hypotheses”. Secondly, running right through the level there are two new focuses. The first is being able to more than hold your own in social discourse: for example, “converse naturally, fluently and effectively”; “understand in detail what is said to them in the standard language even in an [audially/visually] noisy environment”; “initiate discourse, take their turn when appropriate and end conversation when they need to, though they may not always do this elegantly”; “use stock phrases (e.g. “That’s a difficult question to answer”) to gain time and keep the turn while formulating what to say”; “interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party”; “adjust to the changes of direction, style and emphasis normally found in conversation”; “sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient user”. The second new focus is a new degree of language awareness: “correct mistakes if they have led to misunderstandings”; “make a note of their recurrent mistakes and consciously monitor their language”; “generally correct slips and errors if they become conscious of them”; “plan what is to be said and the means to say it, considering the effect on the recipient(s)”**.**In all, this does seem to be a new threshold for a language learner to cross.
+Level B2 represents a new level as far above B1 (“Threshold”) as A2 (“Waystage”) is below it. It is intended to reflect the “Vantage Level” specification. The metaphor is that having been progressing slowly but steadily across the intermediate plateau, the user/learner finds they have arrived somewhere, things look different, they acquire a new perspective, can look around them in a new way. This concept does seem to be borne out to a considerable extent by the descriptors calibrated at this level. They represent quite a break with the content so far. For example, at the lower end of the band there is a focus on effective argument: “account for and sustain their opinions in discussion by providing relevant explanations, arguments and comments”; “explain a viewpoint on a topical issue giving the advantages and disadvantages of various options”; “construct a chain of reasoned argument”; “develop an argument giving reasons in support of or against a particular point of view”; “explain a problem and make it clear that their counterpart in a negotiation must make a concession”; “speculate about causes, consequences, hypothetical situations”; “take an active part in informal discussion in familiar contexts, commenting, putting their point of view clearly, evaluating alternative proposals and making and responding to hypotheses”. Secondly, running right through the level there are two new focuses. The first is being able to more than hold your own in social discourse: for example, “converse naturally, fluently and effectively”; “understand in detail what is said to them in the standard language even in an [audially/visually] noisy environment”; “initiate discourse, take their turn when appropriate and end conversation when they need to, though they may not always do this elegantly”; “use stock phrases (e.g. “That’s a difficult question to answer”) to gain time and keep the turn while formulating what to say”; “interact with a degree of fluency and spontaneity that makes regular interaction with users of the target language quite possible without imposing strain on either party”; “adjust to the changes of direction, style and emphasis normally found in conversation”; “sustain relationships with users of the target language without unintentionally amusing or irritating them or requiring them to behave other than they would with another proficient user”. The second new focus is a new degree of language awareness: “correct mistakes if they have led to misunderstandings”; “make a note of their recurrent mistakes and consciously monitor their language”; “generally correct slips and errors if they become conscious of them”; “plan what is to be said and the means to say it, considering the effect on the recipient(s)” **.** In all, this does seem to be a new threshold for a language learner to cross.
 
-At the next band – representing a “strong Vantage” (B2+) performance– the focus on argument, effective social discourse and on language awareness that appears at B2 (“Vantage”**)**continues**.** However, the focus on argument and social discourse can also be interpreted as a new focus on discourse skills. This new degree of discourse competence shows itself in conversational management (co-operating strategies): “give feedback on and follow up statements and inferences by others and so help the development of discussion”; “relate own contribution skilfully to those of others”. It is also apparent in relation to coherence/cohesion: “use a limited number of cohesive devices to link sentences together smoothly into clear, connected discourse”; “use a variety of linking expressions efficiently to mark clearly the relationships between ideas”; “develop an argument systematically with appropriate highlighting of significant points, and relevant supporting detail”. Finally, it is at this band that there is a concentration of items on “negotiating”: “outline a case for compensation, using persuasive language and simple arguments to demand satisfaction”; “state clearly the limits to a concession”.
+At the next band – representing a “strong Vantage” (B2+) performance– the focus on argument, effective social discourse and on language awareness that appears at B2 (“Vantage” **)**continues**.** However, the focus on argument and social discourse can also be interpreted as a new focus on discourse skills. This new degree of discourse competence shows itself in conversational management (co-operating strategies): “give feedback on and follow up statements and inferences by others and so help the development of discussion”; “relate own contribution skilfully to those of others”. It is also apparent in relation to coherence/cohesion: “use a limited number of cohesive devices to link sentences together smoothly into clear, connected discourse”; “use a variety of linking expressions efficiently to mark clearly the relationships between ideas”; “develop an argument systematically with appropriate highlighting of significant points, and relevant supporting detail”. Finally, it is at this band that there is a concentration of items on “negotiating”: “outline a case for compensation, using persuasive language and simple arguments to demand satisfaction”; “state clearly the limits to a concession”.
 
 Level C1, seems to be characterised by good access to a broad range of language, which allows fluent, spontaneous communication, as illustrated by the following examples: “Can express themselves fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies”; “only a conceptually difficult subject can hinder a natural, smooth flow of language”. The discourse skills characterising the previous band continue to be evident at Level C1, with an emphasis on more fluency, for example: “select a suitable phrase from a fluent repertoire of discourse functions to preface their remarks in order to get the floor, or to gain time and keep it while thinking”; “produce clear, smoothly flowing, well-structured language, showing controlled use of organisational patterns, connectors and cohesive devices”.
 <!-- el:end id=prose_p174_s0 -->
 
-*Page **174**▶**CEFR – Companion volume***
+*Page **174** ▶ **CEFR – Companion volume***
 
 <!-- page:174 -->
 
@@ -352,9 +383,13 @@ TheCommon Reference Levels can be presented and exploited in a number of differe
 | A1 | Can understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce themselves and others and can ask and answer questions about personal details such as where someone lives, people they know and things they have. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help. |
 <!-- el:end id=scale_proifcient_resu -->
 
-*Salient features of the CEFR levels ▶ Page **175***<!-- page:175 -->
+*Salient features of the CEFR levels ▶ Page **175***
 
-Page**176**<!-- page:176 -->
+<!-- page:175 -->
+
+Page **176**
+
+<!-- page:176 -->
 
 <!-- el:start type=artifact id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation page=177 -->
 <!-- db:id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation type=section_block product_tier=base pages=177-181 -->
@@ -421,11 +456,11 @@ Page**176**<!-- page:176 -->
 | Mediation | communication<br>Mediating |
 <!-- el:end id=table_self_assessment_grid_expanded_with_online_interaction_and_mediation -->
 
-Page**177**
+Page **177**
 
 <!-- page:177 -->
 
-*Page **178**▶**CEFR – Companion volume***
+*Page **178** ▶ **CEFR – Companion volume***
 
 <!-- page:178 -->
 
@@ -433,7 +468,7 @@ Page**177**
 
 <!-- page:179 -->
 
-*Page **180**▶**CEFR – Companion volume***
+*Page **180** ▶ **CEFR – Companion volume***
 
 <!-- page:180 -->
 

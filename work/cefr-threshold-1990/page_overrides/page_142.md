@@ -15,9 +15,9 @@ The -train will ar-rive at '10 p.m.
 
 ‘Are you listening to me? ;
 
-The 'car was waiting for us | when we ar'rived. ’
+The ˈcar was waiting for us | when we ar'rived. '
 
-We have ‘often been | to ,Paris.
+We have ˈoften been | to ˎParis.
 
 | had ‘never -seen her before.
 
@@ -27,7 +27,7 @@ of other combinations and understand their gist.
 
 I've been -waiting for a ‘long time.
 
-"If [had known, | | would have stold you. .
+ˇIf [had known, | | would have stold you. .
 
 #### 7.5 Uses of be, have, and do .
 
@@ -39,15 +39,15 @@ adjective
 
 phrase (6.2.1)
 
-*Cornwall | is in the 'West of
+*Cornwall | is in the ˈWest of
 
-,England.
+ˎEngland.
 
 Our guests are -here.
 
 There are '30 cows on the -farm.
 
-She is from 'New Zealand.
+She is from ˈNew Zealand.
 
 He is six.
 
@@ -59,11 +59,11 @@ to visit (6.2.1)
 
 She has ‘never -been to London.
 
-‘How -much are -those ,trousers?
+ˈHow -much are -those ˎtrousers?
 
 participle (continuous aspect) (6.3.12, 13)
 
-She is 'reading a book.
+She is ˈreading a book.
 
 participle (passive voice) cf. A 7.7.9 below (5.3.7, 6.7.3)
 
@@ -75,12 +75,12 @@ the right to use the objects, accommodation, transport, services, etc. (6.7.5.1)
 
 They -have a ‘house in the country.
 
-He has a -name | ‘can’t pro,nounce. address (7.1.2)
+He has a -name | ˈcan't proˎnounce. address (7.1.2)
 
 They have an ad'dress in
 
 \Mayfair. telephone number (7.1.3)
 
-We have a 'new telephone
+We have a ˈnew telephone
 
 <!-- el:end id=prose_p142 -->

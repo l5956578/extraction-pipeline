@@ -36,7 +36,7 @@
 # Threshold 1990
 
 **Council of Europe**  
-**Conseil de l'Europe**
+**Conseil de lˈEurope**
 
 J. A. van Ek and J. L. M. Trim
 
@@ -270,8 +270,9 @@ Such changes and additions as distinguish *Threshold Level 1990* from its predec
 
 <!-- el:start type=prose id=prose_p014 page=8 -->
 <!-- vision: Threshold PDF page 14 -->
+<!-- cat: Volkshochschul-Verband e·V., Bonn-Frankfurt 1987. -->
 
-transparent enough for the learner to understand how the performance of these tasks may contribute to the achievement of his or her aims. The promotion of the development of various types of insight and awareness will require the introduction of teaching/learning procedures which are not yet commonly found in language courses. One such procedure is described in the recently developed 'Stage 3 level' brochure of the International Certificate Conference.¹ It concerns the development of sociolinguistic awareness and appropriate strategies and consists of three steps:
+transparent enough for the learner to understand how the performance of these tasks may contribute to the achievement of his or her aims. The promotion of the development of various types of insight and awareness will require the introduction of teaching/learning procedures which are not yet commonly found in language courses. One such procedure is described in the recently developed ˈStage 3 level' brochure of the International Certificate Conference.¹ It concerns the development of sociolinguistic awareness and appropriate strategies and consists of three steps:
 
 - exposure to a variety of situations in which such features as participant roles, setting, communicative goal, etc., significantly influence the choice of language-forms;
 - stimulating awareness of this influence through observation, reflection, discussion;
@@ -288,6 +289,18 @@ The increased flexibility of *Threshold Level 1990* makes an assessment of the l
 ¹ *Foreign Languages in Adult and Continuing Education; Specifications for Stage 3 Level of the International Certificate Conference Language Certificate System: English*, third draft, Deutscher Volkshochschul-Verband e.V., Bonn-Frankfurt 1987.
 
 <!-- el:end id=prose_p014 -->
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 14 -->
+> Volkshochschul-Verband e·V., Bonn-Frankfurt 1987.
 
 *Page **8***
 
@@ -407,6 +420,9 @@ Learners should be able to:
 
 <!-- el:start type=prose id=prose_p019 page=13 -->
 <!-- vision: Threshold PDF page 19 -->
+<!-- cat: summon police assistance in the case of emergency (e·g. an accident, -->
+<!-- cat: enquire, in writing or speech, about accommodation to rent, e·g. -->
+<!-- cat: - the charges, services and amenities provided (e·g. local taxes, gas, -->
 
 - personal identification
 - details of any vehicle they drive
@@ -416,7 +432,7 @@ Learners should be able to:
 - apologise and ask for understanding of their position in case of minor infringements of regulations
 - ask questions and understand the answers given regarding regulations (parking, public access to buildings, etc.)
 
-(See also 1.11 'Finding the way'.)
+(See also 1.11 ˈFinding the way'.)
 
 - summon police assistance in the case of emergency (e.g. an accident, assault, robbery)
 
@@ -449,6 +465,24 @@ Learners should be able to:
 - make oral and written complaints to landlord
 
 <!-- el:end id=prose_p019 -->
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 19 -->
+> summon police assistance in the case of emergency (e·g. an accident,
+> enquire, in writing or speech, about accommodation to rent, e·g.
+> - the charges, services and amenities provided (e·g. local taxes, gas,
 
 *Page **13***
 
@@ -922,9 +956,8 @@ Language functions may be fulfilled directly and indirectly. They are fulfilled 
 
 <!-- page:27 -->
 
-<!-- vision: Threshold PDF leaf 34 = document p.28 | multipass 3× intonation + two-column -->
+<!-- vision: leaf 34 doc p.28 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p034 page=22 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (no ASCII apostrophe-as-tone) -->
 
 in the meaning that would normally be assigned to it if it were used in isolation. *‘You should go now’* fulfils the function of ‘advising others to do something’ directly, whereas *‘It’s getting late’* – in its conventional meaning fulfilling the function of ‘reporting’ – may serve the same purpose indirectly. The possibilities for the indirect fulfilment of language functions vary in accordance with the situational and the linguistic context of a communicative act. This variation is such that a systematic description and selection on behalf of our objective is not possible. The exponents we propose, therefore, are on the whole those which may be considered to fulfil the functions concerned directly. This does not mean that the indirect fulfilment of language functions should be avoided in course materials designed for *Threshold Level*. On the contrary, an attempt to do so might lead to highly unnatural language use.
 
@@ -943,11 +976,11 @@ these, those
 **1.1.3** the + NP/this, that, these, those (+ NP) + *be* + NP
 
 > ˈThis is the ˎbedroom.  
-> The ˇanimal over ·there | is my ·dog.
+> The ˇanimal over ·there | is my ˎdog.
 
 **1.1.4** I, you, he, she, it, we, they + *be* + NP
 
-> ˈHe is the ·owner of the ·restaurant.
+> ˈHe is the ˎowner of the ·restaurant.
 
 #### 1.2 reporting (describing and narrating)
 
@@ -963,38 +996,35 @@ these, those
 
 **1.3.1** As 1.1 and 1.2, with contrastive stress
 
-> ˈThis is the ·bedroom.  
-> The ·train ˈhas ·left.
+> ˋThis is the ·bedroom.
+> The ·train ˋhas ·left.
 
 **1.3.2** (correcting a positive statement)  
 (e.g. Vaˈletta is in ˎItaly.)  
 **No** (+ tag)
 
-> ˈNo it ˋisn’t.
+> ˈNo it ˇisn't.
 
 **1.3.3** negative sentences
 
-> Va·letta ˈisn’t in ˋItaly.
+> Va·letta ˈisn't in ˇItaly.
 
 **1.3.4** (correcting a negative statement)  
-(e.g. We ˈdidn’t go to ˎLondon.)  
+(e.g. We ˈdidn't go to ˎLondon.)  
 **Yes** (+ tag)
 
 > ˈYes you ˇdid.
 
-<!-- el:end id=prose_p034 -->
+
 
 *Page **28***
 
 <!-- page:28 -->
 
-<!-- vision: Threshold PDF leaf 35 = document p.29 | multipass 3× intonation two-column -->
-<!-- el:start type=prose id=prose_p035 page=23 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
-
+<!-- vision: leaf 35 doc p.29 | word-catalog multipass ch5-6 -->
 **1.3.5** positive statements (with intensifying *do*)
 
-> You ˇdid ·go to ·London.
+You ˇdid ·go to ·London.
 
 #### 1.4 asking
 
@@ -1002,7 +1032,7 @@ these, those
 
 **1.4.1.1** interrogative sentences
 
-> ˈDid you ˎsee him?
+> ˊDid you ˎsee him?
 
 **1.4.1.2** declarative sentences with high-rising intonation
 
@@ -1010,7 +1040,7 @@ these, those
 
 **1.4.1.3** statement and question tag
 
-> They ˎlost the ·match, | ˎdidn’t they?
+> They ˎlost the ·match, | ˎdidn't they?
 
 **1.4.2** for information
 
@@ -1061,17 +1091,17 @@ these, those
 **1.5.1** (for confirmation)  
 Yes, No (+ tag)
 
-> ˎYes, | he ˎis.  
-> ˎNo, | he ˎisn’t.
+> ˎYes, | he ˎis.
+> ˎNo, | he ˎisn't.
 
 **1.5.2** (for information)  
 declarative sentences, clauses, phrases and single words
 
 **1.5.2.1** (time) (ˈWhen will it ˎhappen?)
 
-> At ˈ6 p.ˎm.
+At ˈ6 p.ˎm.
 
-**1.5.2.2** (place) (ˈWhere’s my ˎbox?)
+**1.5.2.2** (place) (ˈWhere's my ˎbox?)
 
 > ˈOn the ˎtable.
 
@@ -1086,8 +1116,7 @@ declarative sentences, clauses, phrases and single words
 **1.5.2.5** (reason) (ˈWhy are you ˎhere?)  
 (because +) declarative sentence
 
-> Be·cause I am a ˎmember.
-
+Be·cause I am a ˎmember.
 **1.5.3** (seeking identification)  
 See 1.1.
 
@@ -1099,11 +1128,11 @@ See 1.1.
 
 **2.1.1** I (ˈquite) aˎgree.
 
-**2.1.2** ˈThat’s ˎright.
+**2.1.2** ˈThat's ˎright.
 
-**2.1.3** ˈThat’s corˎrect.
+**2.1.3** ˈThat's corˎrect.
 
-**2.1.4** Inˎdeed.
+**2.1.4** Inˋdeed.
 
 **2.1.5** Eˎxactly.
 
@@ -1124,24 +1153,23 @@ See 1.1.
 
 <!-- page:29 -->
 
-<!-- vision: Threshold PDF leaf 36 = document p.30 | multipass intonation -->
+<!-- vision: leaf 36 doc p.30 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p036 page=24 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.1.6.4** (ˎYes) I ˈthink/beˈlieve ˎso.
 
 #### 2.1.7 (with a negative statement)
 
 **2.1.7.1** No (+ tag)  
-(You ˈcan't ·stop ˈnow.)
+(You ˈcan't ·stop ˇnow.)
 
-> ˈNo, | we ˈcan't.
+> ˋNo, | we ˋcan't.
 
-**2.1.7.2** Of ˎcourse ·not.
+**2.1.7.2** Of ˋcourse ·not.
 
 **2.1.7.3** ˈCertainly ˎnot.
 
-**2.1.7.4** (No) I don't ˋthink so.
+**2.1.7.4** (No) I don't ˇthink so.
 
 **2.1.7.5** I beˈlieve ˎnot.
 
@@ -1149,14 +1177,14 @@ See 1.1.
 
 **2.2.1** I ˈdon't aˎgree.
 
-**2.2.2** That's ˈnot ˎright.
+**2.2.2** That's ˋnot ˎright.
 
-**2.2.3** You are ˈwrong (ˎthere).
+**2.2.3** You are ˋwrong (ˎthere).
 
 **2.2.4** (with a positive statement)
 
 **2.2.4.1** No (+ tag)  
-(ˈSpinach is ˈhorrible.)
+(ˈSpinach is ˋhorrible.)
 
 > ˈNo it ˎisn't.
 
@@ -1164,30 +1192,30 @@ See 1.1.
 
 **2.2.4.3** ˈCertainly ˎnot.
 
-**2.2.4.4** I ˈdon't ˋthink so.
+**2.2.4.4** I ˈdon't ˇthink so.
 
 **2.2.5** (with a negative statement)
 
 **2.2.5.1** Yes (+ tag)  
-(To·morrow ˈisn't ˋWednesday.)
+(To·morrow ˈisn't ˇWednesday.)
 
-> ˈYes it ˋis.
+> ˈYes it ˇis.
 
 **2.2.5.2** I think (+ positive statement)
 
-> I ·think he ˈwill ·come.
+I ·think he ˋwill ·come.
 
 #### 2.3 enquiring about agreement and disagreement
 
 **2.3.1** statement + question tag
 
-> She is ˈFrench, | ˎisn't she?
+She is ˈFrench, | ˎisn't she?
 
 **2.3.2** ˈDon't you agree (+ *that* clause)?
 
-> ˈDon't you aˎgree that she is ˎbeautiful?
+> ˈDon't you a·gree that she is ˎbeautiful?
 
-**2.3.3** Do(n't) you think + complement clause
+**2.3.3** Do(n’t) you think + complement clause
 
 > ˈDon't you ·think it's ˎnice?
 
@@ -1196,14 +1224,14 @@ See 1.1.
 **2.4.1** That ˈisn't ˎtrue.
 
 **2.4.2** No (+ negative tag)  
-(You ˈsaw me ·there.)
+(You ˋsaw me ·there.)
 
-> ˈNo I ˋdidn't.
+> ˈNo I ˇdidn't.
 
 **2.4.3** Negative sentences (with not, never, nowhere, nobody, nothing, or not + ever, anybody, anywhere, anything)
 
-> I ·saw ˎnothing.  
-> I ˈdidn't ·see ˎanything.
+I ·saw ˎnothing.
+I ˈdidn't ·see ˎanything.
 
 **factual: knowledge, etc.**
 
@@ -1213,13 +1241,13 @@ See 1.1.
 
 **2.5.1.1** + complement clause
 
-> I ˈknow she ˋleft, | but I ˈdon't ·know ˎwhy (she ·left).
+I ˈknow she ˋleft, | but I ˈdon't ·know ˎwhy (she ·left).
 
 **2.5.1.2** + *wh* (+ clause)
 
 **2.5.1.3** + NP
 
-> I ˈknow ·Mrs ˈThatcher.
+I ˈknow ·Mrs ˋThatcher.
 
 #### 2.6 enquiring whether someone knows or does not know a person, thing or fact
 
@@ -1235,7 +1263,7 @@ See 1.1.
 
 **2.6.1.3** + *wh* (+ clause)?
 
-> ˈDo you ·know where he ˎlives?  
+> ˈDo you ·know where he ˎlives?
 > ˈDo you ·know ˎwhy he did that?
 
 **2.6.2** Have you heard
@@ -1246,7 +1274,7 @@ See 1.1.
 
 **2.6.2.2** + of + NP?
 
-> ˈHave you ·heard of an ·opera called ˈDie ˎNachtschwalbe'?
+> ˈHave you ·heard of an ·opera called ˈDie ˎNachtschwalbe’?
 
 <!-- el:end id=prose_p036 -->
 
@@ -1254,9 +1282,9 @@ See 1.1.
 
 <!-- page:30 -->
 
-<!-- vision: Threshold PDF leaf 37 = document p.31 | multipass intonation -->
+<!-- vision: Threshold PDF leaf 37 = document p.31 | multipass word-catalog intonation 2026-07-31 -->
 <!-- el:start type=prose id=prose_p037 page=25 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.6.2.3** + *wh* clause
 
@@ -1266,15 +1294,15 @@ See 1.1.
 
 **2.6.3.1** + complement clause, + don't you?
 
-> You ˈknow it's ·six o'ˋclock, | ˈdon't you?
+You ˈknow it's ·six o'ˋclock, | ˈdon't you?
 
 **2.6.3.2** + NP, + don't you?
 
-> You ˎknow ·Mrs ˎJames, | ˎdon't you?
+You ˎknow ·Mrs ˎJames, | ˎdon't you?
 
 **2.6.3.4** + *wh* clause, + don't you?
 
-> You ˎknow where he ˎlives, | ˎdon't you?
+You ˎknow where he ˎlives, | ˎdon't you?
 
 #### 2.7 stating whether one remembers or has forgotten a person, thing or fact or action
 
@@ -1282,19 +1310,19 @@ See 1.1.
 
 **2.7.1.1** + VP gerund
 
-> I ˈdon't remember ·saying ˋthat.
+I ˈdon't remember ·saying ˇthat.
 
 **2.7.1.2** + *wh* clause
 
-> I ˈcan't re·member ·where I ·put my ˎhandbag.
+I ˈcan't re·member ·where I ·put my ˎhandbag.
 
 **2.7.1.3** + complement clause
 
-> I reˈmember that he ·gave it ˎback.
+I reˈmember that he ·gave it ˎback.
 
 **2.7.1.4** + NP
 
-> I reˈmember our ·holiday in ˎSpain.
+I reˈmember our ·holiday in ˎSpain.
 
 **2.7.2** I forˎget.
 
@@ -1302,12 +1330,12 @@ See 1.1.
 
 **2.7.3.1** + to + VPinf
 
-> I've forˈgotten to ·lock the ˎdoor.
+I've forˈgotten to ·lock the ˎdoor.
 
 **2.7.3.2** + NP
 
-> I ˈhaven't for·gotten your ˎbirthday.  
-> I have forˈgotten my ˎpassport.
+I ˈhaven't for·gotten your ˎbirthday.
+I have forˈgotten my ˎpassport.
 
 **2.7.3.3** + VP gerund
 
@@ -1315,7 +1343,7 @@ See 1.1.
 
 **2.7.3.4** + *wh* clause
 
-> I've forˈgotten where it ˈis.
+I've forˈgotten where it ˋis.
 
 #### 2.8 enquiring whether someone remembers or has forgotten a person, thing, fact or action
 
@@ -1353,7 +1381,7 @@ See 1.1.
 
 **2.9.1** (certainˈly)
 
-> He will ˈcertainly be ˎthere.
+He will ˈcertainly be ˎthere.
 
 **2.9.2** probably
 
@@ -1361,11 +1389,11 @@ See 1.1.
 
 **2.9.3** possibly
 
-> but they may ˋpossibly ˈwin.
+but they may ˇpossibly ˋwin.
 
 **2.9.4** (not) (very) likely
 
-> It's ˈnot very ˋlikely, … |
+It's ˈnot very ˋlikely, … |
 
 <!-- el:end id=prose_p037 -->
 
@@ -1373,25 +1401,24 @@ See 1.1.
 
 <!-- page:31 -->
 
-<!-- vision: Threshold PDF leaf 38 = document p.32 | multipass intonation -->
+<!-- vision: leaf 38 doc p.32 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p038 page=26 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.9.5** impossible
 
-> … but ˈnot imˎpossible.
+... but ˈnot imˎpossible.
 
 **2.9.6** NP + *be* + certain/likely + to + VPinf ●
 
-> The mu·seum is ˈcertain to be ˎclosed.
+The mu·seum is ˈcertain to be ˎclosed.
 
 **2.9.7** It is certain/probable/likely/possible/impossible + complement clause
 
-> It is ˈlikely you will ˎpass.
+It is ˈlikely you will ˎpass.
 
 **2.9.8** NP will/must/may/can/cannot + VPinf
 
-> That ·painting ˈcannot be by Piˎcasso.
+That ·painting ˈcannot be by Piˎcasso.
 
 #### 2.10 enquiring as to degrees of probability
 
@@ -1409,7 +1436,7 @@ See 1.1.
 
 **2.10.4** sentences in 2.9 + high rising intonation
 
-> The mu·seum is ˈcertain to be ˊclosed?
+The mu·seum is ˈcertain to be ·closed?
 
 #### 2.11 expressing or denying necessity (including logical deduction)
 
@@ -1419,7 +1446,7 @@ See 1.1.
 
 **2.11.2** NP + must/cannot + VPinf
 
-> People ˈmust ˎsleep ·sometimes.
+People ˈmust ˎsleep ·sometimes.
 
 **2.11.3** NP + need not + inf
 
@@ -1433,11 +1460,11 @@ See 1.1.
 
 **2.12.1** necessary/necessarily (in interrogative sentences)
 
-> Is ˈthat neces·sarily ˎso?
+Is ˈthat neces·sarily ˎso?
 
 **2.12.2** must + NP + VPinf?
 
-> ˈMust ·things be ·black or ·white?
+> ˇMust ·things be ·black or ·white?
 
 #### 2.13 expressing degrees of certainty
 
@@ -1445,15 +1472,15 @@ See 1.1.
 
 **2.13.1.1** certainly (in declarative sentences)
 
-> She is ˈcertainly ·over ˎthirty.
+She is ˈcertainly ·over ˎthirty.
 
 **2.13.1.2** I am (quite) certain/sure (+ complement clause)
 
-> I am ˈquite ˎsure | that ˈStalin ·died in ·19ˎ52.
+I am ˈquite ˎsure | that ˈStalin ·died in ·19ˎ52.
 
 **2.13.1.3** declarative sentences with stressed *do*, *be* or auxiliary
 
-> I ˎdid ·post the ·letter.
+I ˎdid ·post the ·letter.
 
 **2.13.1.4** declarative sentences (+ tag) (with low falling intonation)
 
@@ -1465,11 +1492,11 @@ See 1.1.
 
 **2.13.1.6** I know + *that* clause
 
-> I ˈknow I·run is in ˎSpain | ˈnot ˎFrance.
+I ˈknow I·run is in ˎSpain | ˈnot ˎFrance.
 
 **2.13.1.7** declarative sentence + tag with low falling/high falling intonation
 
-> You're ˈPolish, | ˋaren't you?
+You're ˈPolish, | ˋaren't you?
 
 **2.13.2** tentative assertion
 
@@ -1479,49 +1506,48 @@ See 1.1.
 
 <!-- page:32 -->
 
-<!-- vision: Threshold PDF leaf 39 = document p.33 | multipass intonation -->
+<!-- vision: leaf 39 doc p.33 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p039 page=27 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.13.2.1** to seem
 
-> The trans·lation ˈseems to be corˎrect.
+The trans·lation ˈseems to be corˎrect.
 
 **2.13.2.2** perhaps/maybe (also in declarative sentences)
 
 > ˈMaybe you're ˎright.
 
-**2.13.2.3** I ˈdon't ˋthink so.
+**2.13.2.3** I ˈdon't ˇthink so.
 
-**2.13.2.4** I (don't) think/believe + *that* clause
+**2.13.2.4** I (don’t) think/believe + *that* clause
 
-> I ·don't ·think he has ˈever ˎbeen ·here.
+I ·don't ·think he has ˈever ˎbeen ·here.
 
-**2.13.2.5** I'm not (quite) sure, but + declarative sentence
+**2.13.2.5** I’m not (quite) sure, but + declarative sentence
 
-> I'm ˈnot ·quite ˋsure, | but I ˈthink he has al·ready ˎgone.
+I'm ˈnot ·quite ˇsure, | but I ˈthink he has al·ready ˎgone.
 
 **2.13.2.6** declarative sentence + I think (with rising/falling-rising intonation)
 
-> He's ˈFrench, | I ˏthink.
+He's ˈFrench, | I ˎthink.
 
 **2.13.2.7** declarative sentences + tag with low-rising intonation
 
-> You're ·coming on ˈThursday, | ˏaren't you?
+You're ·coming on ˈThursday, | ˏaren't you?
 
 **2.13.3** complete uncertainty
 
-**2.13.3.1** I don't know (+ *if* clause/*wh* clause)
+**2.13.3.1** I don’t know (+ *if* clause/*wh* clause)
 
-> I ˈdon't ·know if he will ˎcome.
+I ˈdon't ·know if he will ˎcome.
 
-**2.13.3.2** I'm not (at all) sure (+ *if* clause/*wh* clause)
+**2.13.3.2** I’m not (at all) sure (+ *if* clause/*wh* clause)
 
-> I'm ˈnot at all ·sure what he ˈwants.
+I'm ˈnot at all ·sure what he ˋwants.
 
 **2.13.3.3** I wonder + *if* clause/*wh* clause
 
-> I ˈwonder why they ·go to ·London by ˎcar.
+I ˈwonder why they ·go to ·London by ˎcar.
 
 #### 2.14 enquiring about degrees of certainty
 
@@ -1535,7 +1561,7 @@ See 1.1.
 
 **2.14.3** How sure are you + *that* clause?
 
-> How ˎsure are you that ·Basle is in ·Switzerland?
+How ˎsure are you that ·Basle is in ·Switzerland?
 
 **factual: modality**
 
@@ -1543,24 +1569,24 @@ See 1.1.
 
 **2.15.1** NP + have to/must + VPinf
 
-> We ˈmust be ·home before ˎmidnight.
+We ˈmust be ·home before ˎmidnight.
 
 #### 2.16 enquiring about obligation
 
 **2.16.1** interrogative sentences and *wh* questions corresponding to 2.15
 
-> ˈMust we ·fill in this ˈform ˎnow?  
+> ˈMust we ·fill in this ˈform ˎnow?
 > ˈWhen ·have we to ˎleave?
 
 #### 2.17 expressing ability/inability to do something
 
 **2.17.1** NP + can(not) + VPinf
 
-> I can underˈstand ·Spanish | but I ˈcan't ˎspeak it ·well.
+I can underˈstand ·Spanish | but I ˈcan't ˎspeak it ·well.
 
 **2.17.2** NP + *be* (not) able to + VPinf
 
-> I am ˈable to ·ride a ˎhorse.
+I am ˈable to ·ride a ˎhorse.
 
 **2.17.3** NP + *be* unable to + VPinf
 
@@ -1570,7 +1596,7 @@ See 1.1.
 
 **2.18.1** interrogative sentences and *wh* questions corresponding to 2.17
 
-> ˈCan you ·speak ˎSpanish?  
+> ˈCan you ·speak ˎSpanish?
 > ˈAre you ·able to ·ride a ˎhorse?
 
 #### 2.19 expressing that something is or is not permitted, or permissible
@@ -1585,17 +1611,16 @@ See 1.1.
 
 <!-- page:33 -->
 
-<!-- vision: Threshold PDF leaf 40 = document p.34 | multipass intonation -->
+<!-- vision: leaf 40 doc p.34 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p040 page=28 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.19.2** NP + *be* (not) permitted ●
 
-> Phoˈtography is ·not perˎmitted in the ca·thedral.
+Phoˈtography is ·not perˎmitted in the ca·thedral.
 
 **2.19.3** People/You/can/may/must not + VPinf
 
-> You must ˈnot be ˎlazy.
+You must ˈnot be ˎlazy.
 
 **2.19.4** People/You are not supposed to + VPinf
 
@@ -1619,7 +1644,7 @@ See 1.1.
 
 **2.21.1** ˎYes.
 
-**2.21.2** ˈCertainly.
+**2.21.2** ˋCertainly.
 
 **2.21.3** ˈPlease ˎdo.
 
@@ -1637,9 +1662,9 @@ See 1.1.
 
 **2.22.3** I'm aˈfraid ˎnot.
 
-**2.22.4** I'm sorry (+ *but* clause)
+**2.22.4** I’m sorry (+ *but* clause)
 
-> I'm ˋsorry, | but it's ˈtoo ˎlate.
+I'm ˇsorry, | but it's ˈtoo ˎlate.
 
 **2.22.5** It is not allowed/permitted  
 Not + adverbial (now/tonight/here/in this country etc.)  
@@ -1651,21 +1676,21 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 2.23 expressing wants/desires
 
-**2.23.1** I'd like + NP
+**2.23.1** I’d like + NP
 
-> I'd ˈlike an ·iceˎcream.
+I'd ˈlike an ·iceˎcream
 
-**2.23.2** I'd like + to + VPinf
+**2.23.2** I’d like + to + VPinf
 
-> I'd ˈlike to ·wash my ˎhands.
+I'd ˈlike to ·wash my ˎhands.
 
 **2.23.3** I want + NP, please
 
-> I ·want a ˈcup of ˎtea, ·please.
+I ·want a ˈcup of ˎtea, ·please.
 
 **2.23.4** I want + to + VPinf, please
 
-> I ˈwant to ·go to the ˎtoilet, ·please.
+I ˈwant to ·go to the ˎtoilet, ·please.
 
 **2.23.5** (please) may I (+ VPinf)
 
@@ -1691,11 +1716,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.25.1** NP + *be* + going to + VPinf
 
-> I'm ˈgoing to ·buy a ·new ˎcar.
+I'm ˈgoing to ·buy a ·new ˎcar.
 
 **2.25.2** NP + will + VPinf
 
-> I'll exˈplain ˎlater.
+I'll exˈplain ˎlater.
 
 **2.25.3** NP + intend(s) to + VPinf
 
@@ -1703,7 +1728,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.25.4** NP + *be* thinking of + VP gerund
 
-> We are ˈthinking of ˎdriving to ·Turkey.
+We are ˈthinking of ˎdriving to ·Turkey.
 
 #### 2.26 enquiring about intentions
 
@@ -1715,34 +1740,33 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:34 -->
 
-<!-- vision: Threshold PDF leaf 41 = document p.35 | multipass intonation -->
+<!-- vision: leaf 41 doc p.35 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p041 page=29 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 #### 2.27 expressing preference
 
-**2.27.1** I('d) prefer + NP | to + VPinf
+**2.27.1** I(’d) prefer + NP | to + VPinf
 
-> I'd preˈfer to ·go by ˎtrain.
+I'd preˈfer to ·go by ˎtrain.
 
 **2.27.2** I prefer + NP + to + NP
 
-> I preˈfer ˈhockey | to ˎfootball.
+I preˈfer ˈhockey | to ˎfootball.
 
-**2.27.3** I('d) rather (not) + VP
+**2.27.3** I(’d) rather (not) + VP
 
-> I'd ˈrather ·not ˎfly ·there.
+I'd ˈrather ·not ˎfly ·there.
 
-**2.27.4** I('d) rather VPinf (than + contrastive element)
+**2.27.4** I(’d) rather VPinf (than + contrastive element)
 
-> I'd ˈrather ·drink ˎcoffee | than ˎtea.
+I'd ˈrather ·drink ˎcoffee | than ˎtea.
 
 #### 2.28 enquiring about preference
 
 **2.28.1** interrogative sentences and *wh* questions corresponding to 2.27
 
-> ˈDo you pre·fer ˎcoffee to ·tea?  
-> ˈWhich do you preˎfer?  
+> ˈDo you pre·fer ˎcoffee to ·tea?
+> ˈWhich do you preˎfer?
 > ˈWhere would you ·rather ˎgo, | ˈLondon or ˎOxford?
 
 **2.28.2** NP or NP?
@@ -1757,17 +1781,17 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 2.29 expressing pleasure, happiness
 
-**2.29.1** That's ˈlovely/ˈwonderful/ˈgreat!
+**2.29.1** That's ˈlovely/ˈwonderful/ˋgreat!
 
-**2.29.2** How ˈnice!
+**2.29.2** How ˋnice!
 
-**2.29.3** I'm/I feel so ˈhappy!
+**2.29.3** I'm/I feel so ˋhappy!
 
 **2.29.4** I'm ˈvery ˎpleased.
 
-**2.29.5** I'm (very) glad/delighted (+ *that* clause to + VPinf)
+**2.29.5** I’m (very) glad/delighted (+ *that* clause to + VPinf)
 
-> I'm ˈvery ·glad to ˎsee you ·here.
+I'm ˈvery ·glad to ˎsee you ·here.
 
 #### 2.30 expressing displeasure, unhappiness
 
@@ -1791,15 +1815,15 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.32.1** NP + *be* (very) good/nice/pleasant
 
-> This ·coffee is ˈvery ˎgood.
+This ·coffee is ˈvery ˎgood.
 
 **2.32.2** I like/enjoy + NP/VP gerund (very much)
 
-> I ˈlike ·riding ·very ˎmuch.
+I ˈlike ·riding ·very ˎmuch.
 
 **2.32.3** I love NP/VP gerund
 
-> I ˈlove ˎcats.
+I ˈlove ˎcats.
 
 #### 2.33 expressing dislike
 
@@ -1807,23 +1831,23 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.33.2** NP + *be* not (very/at all) nice/pleasant
 
-> That's ·not aˈt all ˎnice.
+That's ·not at ˈall ˎnice.
 
 **2.33.3** NP + *be* + nasty/horrible
 
 > ˈSour ·milk is ˎnasty.
 
-**2.33.4** I don't like/enjoy NP/VP gerund (very much/at all)
+**2.33.4** I don’t like/enjoy NP/VP gerund (very much/at all)
 
-> I ˈdon't ˎlike | ˎsweet ·tea.
+I ˈdon't ˎlike | ˎsweet ·tea.
 
 **2.33.5** I hate + NP/VP gerund
 
-> I ˈhate ˎhurting ·people.
+I ˈhate ˎhurting ·people.
 
-**2.33.6** I'd hate/I wouldn't like + to + VPinf
+**2.33.6** I’d hate/I wouldn’t like + to + VPinf
 
-> I ˈwouldn't ·like to be ˎlate.
+I ˈwouldn't ·like to be ˎlate.
 
 #### 2.34 enquiring about likes and dislikes
 
@@ -1837,9 +1861,8 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:35 -->
 
-<!-- vision: Threshold PDF leaf 42 = document p.36 | multipass intonation -->
+<!-- vision: leaf 42 doc p.36 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p042 page=30 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.34.2** How do you like NP/VP gerund
 
@@ -1849,13 +1872,13 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 2.35 expressing satisfaction
 
-**2.35.1** ˈGood!
+**2.35.1** ˋGood!
 
-**2.35.2** ˈFine!
+**2.35.2** ˋFine!
 
 **2.35.3** demonstrative + *be* (very) good/nice
 
-> ·That's ˈgood.
+> ·That's ˋgood.
 
 **2.35.4** (This is) ˈjust what I ˎwant(ed)/ˎneed/ˎmeant/·had in ˎmind.
 
@@ -1873,28 +1896,28 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.36.1** declarative sentences
 
-> ˈThis ·soup is ˎcold.  
-> The ˈTˎV ·doesn't ·work.
+> ˈThis ·soup is ˎcold.
+The ˈTˎV ·doesn't ·work.
 
-**2.36.2** I'm not satisfied/happy (with this + NP)
+**2.36.2** I’m not satisfied/happy (with this + NP)
 
-> I'm ˈnot ·happy with this ˎfridge.
+I'm ˈnot ·happy with this ˎfridge.
 
-**2.36.3** I don't like/want this (+ NP)
+**2.36.3** I don’t like/want this (+ NP)
 
-> I ˈdon't ˎwant this ·soup.
+I ˈdon't ˎwant this ·soup.
 
-**2.36.4** I don't like/want NP like this
+**2.36.4** I don’t like/want NP like this
 
-> I ˈdon't ˎlike ·cabbage like ·this.
+I ˈdon't ˎlike ·cabbage like ·this.
 
 **2.36.5** Demonstrative *be* not right (yet)
 
-> This is ˈnot ˎright ·yet.
+This is ˈnot ˎright ·yet.
 
 **2.36.6** Demonstrative *be* not what I want(ed)/had in mind/meant
 
-> These are ˈnot what I ·had in ˎmind.
+These are ˈnot what I ·had in ˎmind.
 
 **2.36.7** That will ˈnot ˎdo.
 
@@ -1922,7 +1945,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 2.38 expressing interest
 
-**2.38.1** ˈReally!
+**2.38.1** ˋReally!
 
 **2.38.2** Is ˈthat ˎso!
 
@@ -1930,7 +1953,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.38.4** I am (very) interested in NP/VP gerund
 
-> I am ˈinterested in ·old ˎstamps.
+I am ˈinterested in ·old ˎstamps.
 
 **2.38.5** NP interests me (greatly)
 
@@ -1942,19 +1965,19 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.39.2** I am bored (by NP)
 
-> I am ˈbored | by ˎpolitics | on ·TˎV.
+I am ˈbored | by ˎpolitics | on ·TˎV.
 
 **2.39.3** I am not/not very/not at all interested in NP/VP gerund
 
-> I am not aˈt all ˎinterested | in ·going aˎbroad.
+I am not at ˈall ˎinterested | in ·going aˎbroad.
 
 **2.39.4** NP does not interest me (very much/at all).
 
 > ·Sport does ˈnot ·interest me aˎt all.
 
-**2.39.5** It doesn't matter (+ *that* clause/*if* clause)
+**2.39.5** It doesn’t matter (+ *that* clause/*if* clause)
 
-> It ˈdoesn't ˎmatter | if it ˈrains or ˎnot.
+It ˈdoesn't ˎmatter | if it ˈrains or ˎnot.
 
 <!-- el:end id=prose_p042 -->
 
@@ -1962,27 +1985,26 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:36 -->
 
-<!-- vision: Threshold PDF leaf 43 = document p.37 | multipass intonation -->
+<!-- vision: leaf 43 doc p.37 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p043 page=31 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
-**2.39.6** I don't care (+ *that* clause/*if* clause)
+**2.39.6** I don’t care (+ *that* clause/*if* clause)
 
-> I ˈdon't ˎcare | if it is ˈfoggy or ˎfine.
+I ˈdon't ˎcare | if it is ˈfoggy or ˎfine.
 
-**2.39.7** I don't mind (+ *that* clause/*if* clause)
+**2.39.7** I don’t mind (+ *that* clause/*if* clause)
 
-> I ˈdon't ˎmind | if you ˎsmoke.
+I ˈdon't ˎmind | if you ˎsmoke.
 
 **2.39.8** Whaˈtever you ˎsay/ ˎlike.
 
 #### 2.40 enquiring about interest or lack of interest
 
-**2.40.1** Are(n't) you interested in NP/VP gerund?
+**2.40.1** Are(n’t) you interested in NP/VP gerund?
 
 > ˈAren't you ˈinterested in ·foreign ˎlanguages?
 
-**2.40.2** Do(es)(n't) NP interest you?
+**2.40.2** Do(es)(n’t) NP interest you?
 
 > ˈDoes phoˎtography ·interest you?
 
@@ -1998,9 +2020,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.41.5** ˈThat is surˎprising!
 
-**2.41.6** I'm surprised (+ *that* clause/to + VPinf)
+**2.41.6** I’m surprised (+ *that* clause/to + VPinf)
 
-> I'm surˈprised | to ˈhear ˎthat.
+I'm surˈprised | to ˈhear ˎthat.
 
 **2.41.7** Fancy + VP gerund ●
 
@@ -2008,11 +2030,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.41.8** It surprises me + *that* clause ●
 
-> It surˎprises me | that the ·dollar is ˈso ˎweak.
+It surˎprises me | that the ·dollar is ˈso ˎweak.
 
 #### 2.42 expressing lack of surprise
 
-**2.42.1** ˈWell?
+**2.42.1** ˋWell?
 
 **2.42.2** ˈSo ˎwhat?
 
@@ -2036,11 +2058,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.44.3** I (do) hope + *that* clause.
 
-> I ˈhope it ·stays ˋfine.
+I ˈhope it ·stays ˇfine.
 
 **2.44.4** I hope/am hoping + to + VPinf
 
-> I ˈhope to be·come a ˎdoctor.
+I ˈhope to be·come a ˎdoctor.
 
 #### 2.45 expressing disappointment
 
@@ -2049,21 +2071,21 @@ Not + adverbial (now/tonight/here/in this country etc.)
 > ˈWhat a ˎpity | that they ˈcan't have ˎchildren.
 
 **2.45.2** That's a (ˈgreat) ˎpity!  
-ˈWhat a ˎshame!
+> ˈWhat a ˎshame!
 
 #### 2.46 expressing fear
 
-**2.46.1** ˈHelp!
+**2.46.1** ˋHelp!
 
-**2.46.2** I'm ˈfrightened.
+**2.46.2** I'm ˋfrightened.
 
-**2.46.3** I'm afraid (+ *that* clause/ to + VPinf/of + NP)
+**2.46.3** I’m afraid (+ *that* clause/ to + VPinf/of + NP)
 
-> I'm aˈfraid of ·that ·man.
+I'm aˈfraid of ·that ·man.
 
-**2.46.4** I'm (rather) worried (about NP)
+**2.46.4** I’m (rather) worried (about NP)
 
-> I'm ˈrather ·worried about ˎJoan.
+I'm ˈrather ·worried about ˎJoan.
 
 #### 2.47 giving reassurance
 
@@ -2087,9 +2109,8 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:37 -->
 
-<!-- vision: Threshold PDF leaf 44 = document p.38 | multipass intonation -->
+<!-- vision: leaf 44 doc p.38 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p044 page=32 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 **2.48.2** Are you worried (about NP)?
 
@@ -2107,15 +2128,15 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.49.3** It/That was (ˈvery/ˈmost) ˎkind/nice/good of you (to + VPinf)
 
-> It was ˈmost ˎkind of you | to ˎcall.
+It was ˈmost ˎkind of you | to ˎcall.
 
-**2.49.4** I'm very grateful to you (for NP/VP gerund)
+**2.49.4** I’m very grateful to you (for NP/VP gerund)
 
-> I'm ˈvery ˎgrateful ·to you | for ˎtelling me a·bout it.
+I'm ˈvery ˎgrateful ·to you | for ˎtelling me a·bout it.
 
 #### 2.50 reacting to an expression of gratitude
 
-**2.50.1** ·Thank ˈyou.
+**2.50.1** ·Thank ˋyou.
 
 **2.50.2** ˈNot aˎt all.
 
@@ -2139,8 +2160,8 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.51.7** (for disturbing somebody)
 
-> I ˈbeg your ˎpardon.  
-> Exˎcuse me ·please.
+I ˈbeg your ˎpardon.
+Exˎcuse me ·please.
 
 #### 2.52 accepting an apology
 
@@ -2160,17 +2181,17 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.53.1** NP *be* not supposed to + VPinf
 
-> You are ˈnot sup·posed to ˎdo that.
+You are ˈnot sup·posed to ˎdo that.
 
 **2.53.2** NP should (not)/ought (not) to
 
-> You ˈought to ·drive more ˎslowly.
+You ˈought to ·drive more ˎslowly.
 
 #### 2.54 expressing approval
 
 **2.54.1** (ˈvery) ˎgood
 
-**2.54.2** (That's) ˈfine/ˈexcellent.
+**2.54.2** (That's) ˋfine/ˋexcellent.
 
 **2.54.3** ˈWell ˎdone.
 
@@ -2178,9 +2199,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **2.55.1** Tut-tut (clicks)
 
-**2.55.2** That's/it's ˈnot very ˋgood/ˋnice.
+**2.55.2** That's/it's ˈnot very ˇgood/ˇnice.
 
-**2.55.3** You ˈshouldn't do/have ·done ˋthat.
+**2.55.3** You ˈshouldn't do/have ·done ˇthat.
 
 #### 2.56 enquiring about approval/disapproval
 
@@ -2206,9 +2227,8 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:38 -->
 
-<!-- vision: Threshold PDF leaf 45 = document p.39 | multipass intonation -->
+<!-- vision: leaf 45 doc p.39 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p045 page=33 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
 
 #### 2.57 expressing regret, sympathy
 
@@ -2218,21 +2238,21 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 > ˈWhat a ˎpity | ˈPeter ·died so ˎyoung.
 
-**2.57.3** It's a (great) pity (+ *that* clause)
+**2.57.3** It’s a (great) pity (+ *that* clause)
 
-> It's a ˈgreat ˎpity | he ·left the ˎparty.
+It's a ˈgreat ˎpity | he ·left the ˎparty.
 
-**2.57.4** I'm (so/very) sorry (+ *that* clause/*if* clause)
+**2.57.4** I’m (so/very) sorry (+ *that* clause/*if* clause)
 
-> I'm ˈsorry if I ˋhurt you.
+I'm ˈsorry if I ˇhurt you.
 
-**2.57.5** I'm (so/very) sorry about NP
+**2.57.5** I’m (so/very) sorry about NP
 
-> I'm so ˈvery ˎsorry | about your ˎillness.
+I'm so ˈvery ˎsorry | about your ˎillness.
 
-**2.57.6** I'm (so/very) sorry to + VPinf
+**2.57.6** I’m (so/very) sorry to + VPinf
 
-> I'm ˎsorry | to ·hear you are ·going aˎway.
+I'm ˎsorry | to ·hear you are ·going aˎway.
 
 **2.57.7** ˈOh ˎdear …
 
@@ -2240,7 +2260,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 3.1 suggesting a course of action (involving both speaker and addressee)
 
-**3.1.1** Let's + VPinf!
+**3.1.1** Let’s + VPinf!
 
 > ˈLet's ˎgo!
 
@@ -2250,7 +2270,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.1.3** We could + VPinf
 
-> We ·could ˈgo for a ˋwalk.
+We ·could ˈgo for a ˋwalk.
 
 **3.1.4** What/How about + NP/VP gerund
 
@@ -2258,13 +2278,13 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.1.5** We might (perhaps) + VPinf
 
-> We might perˈhaps ·go by ˈtrain.
+We might perˈhaps ·go by ˋtrain.
 
 **3.1.6** Why not + VPinf?
 
 > ˈWhy not ˎfly there?
 
-**3.1.6** Why don't we + VPinf?
+**3.1.6** Why don’t we + VPinf?
 
 > ˈWhy don't we ·ask them to ˎdinner?
 
@@ -2312,19 +2332,19 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.4.1** You should + VPinf
 
-> You should ˈgo to the polˎice.
+You should ˈgo to the polˎice.
 
 **3.4.2** You ought to + VPinf
 
-> You ˈought to be more ˎcareful.
+You ˈought to be more ˎcareful.
 
-**3.4.3** Why don't you + VPinf
+**3.4.3** Why don’t you + VPinf
 
 > ˈWhy don't you ·stop ˎworking so ·hard?
 
-**3.4.4** If I were you, I'd + VPinf
+**3.4.4** If I were you, I’d + VPinf
 
-> If ˈI were ˋyou | I'd ˈphone him ˎnow.
+If ˈI were ˋyou | I'd ˈphone him ˎnow.
 
 <!-- el:end id=prose_p045 -->
 
@@ -2332,27 +2352,27 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:39 -->
 
-<!-- vision: Threshold PDF leaf 46 = document p.40 | multipass intonation -->
+<!-- vision: leaf 46 doc p.40 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p046 page=34 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 3.5 warning others to do something or to refrain from doing something
 
 **3.5.1** VP imperative with falling/rising intonation
 
-> Be ˋcareful! Look ˋout!
+Be ˇcareful! Look ˇout!
 
 **3.5.2** Don't + VPinf
 
-> Don't ˋcut your·self.
+Don't ˈcut your·self.
 
 **3.5.3** Mind + NP
 
-> ˈMind your ˋhead!
+> ˈMind your ˇhead!
 
 **3.5.4** declarative sentences with implication
 
-> That ·knife is ˋsharp. (Be careful not to cut yourself.)
+That ·knife is ˇsharp. (Be careful not to cut yourself.)
 
 #### 3.6 encouraging someone to do something
 
@@ -2368,7 +2388,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.7.1** You + VP (simple present)
 
-> You ·take a ˈfreshly ·peeled ˎonion.
+You ·take a ˈfreshly ·peeled ˎonion.
 
 **3.7.2** imperative sentence
 
@@ -2376,7 +2396,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.7.3** passive sentences (esp. in written instructions)
 
-> The ˈkit is asˎsembled | by ˈbolting the ·parts toˎgether. ●
+The ˈkit is asˎsembled | by ˈbolting the ·parts toˎgether. ●
 
 #### 3.8 requesting assistance
 
@@ -2408,7 +2428,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.10.4** You must + VPinf
 
-> You ˈmust ·come to ˎdinner ·with us.
+You ˈmust ·come to ˎdinner ·with us.
 
 #### 3.11 accepting an offer or invitation
 
@@ -2420,7 +2440,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.11.4** I'd be glad to + VPinf
 
-> I'd be ˈglad to ·come ˎwith you.
+I'd be ˈglad to ·come ˎwith you.
 
 **3.11.5** With ˎpleasure.
 
@@ -2432,17 +2452,17 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.12.1** ˈNo ˎthank you.
 
-**3.12.2** (I'm ˋsorry but) I can't + VPinf
+**3.12.2** (I'm ˇsorry but) I can't + VPinf
 
-> I'm ˋsorry | but I ˈcan't ˎcome.
+I'm ˇsorry | but I ˈcan't ˎcome.
 
 **3.12.3** It's very good of you + *but* clause
 
-> It's very ˋgood of you, | but my ˎwife is ·ill.
+It's very ˇgood of you, | but my ˎwife is ·ill.
 
 **3.12.4** Unfortunately I can't + VPinf
 
-> Unˈfortunately | I ˈcan't ·eat ˎcheese.
+Unˈfortunately | I ˈcan't ·eat ˎcheese.
 
 <!-- el:end id=prose_p046 -->
 
@@ -2450,13 +2470,13 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:40 -->
 
-<!-- vision: Threshold PDF leaf 47 = document p.41 | multipass intonation -->
+<!-- vision: leaf 47 doc p.41 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p047 page=35 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **3.12.5** I'm afraid I can't + VPinf
 
-> I'm a·fraid I ˈcan't ·leave the ˎdog.
+I'm a·fraid I ˈcan't ·leave the ˎdog.
 
 #### 3.13 enquiring whether an offer or invitation is accepted or declined
 
@@ -2468,7 +2488,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.14.1** (I'd like) NP + (please)
 
-> I'd ·like a ˈgin and ˎtonic, ·please.
+I'd ·like a ˈgin and ˎtonic, ·please.
 
 **3.14.2** Can I have + NP, (please)
 
@@ -2476,7 +2496,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **3.14.3** Please may I have + NP
 
-> ˈPlease ·may I ·have ˎthat ·one?  
+> ˈPlease ·may I ·have ˎthat ·one?
 > (See also volitional attitudes 2.23–28.)
 
 ## 4 Socialising
@@ -2485,13 +2505,13 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.1.1** Exˈcuse ˎme.
 
-**4.1.2** ˈHalˎlo. (informal)
+**4.1.2** ˋHal·lo. (informal)
 
 **4.1.3** I ˈsay … ●
 
 #### 4.2 greeting people
 
-**4.2.1** ˈHalˎlo.
+**4.2.1** ˋHal·lo.
 
 **4.2.2** ·Good ˎmorning/afterˎnoon/ˎevening (more formal)
 
@@ -2511,7 +2531,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.4.2** if in poor health, etc.
 
-**4.4.2.1** ˋWell, | ˋso-so. | ˈHow are ˎyou?
+**4.4.2.1** ˇWell, | ˇso-so. | ˈHow are ˎyou?
 
 **4.4.3** if recovering from an illness, etc.
 
@@ -2521,7 +2541,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.5.1** first name
 
-> ˈHalˎlo ·John, | ˈhow are you ˎkeeping?
+> ˋHal·lo ·John, | ˈhow are you ˎkeeping?
 
 #### 4.6 addressing a stranger
 
@@ -2533,7 +2553,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.7.1** formal: Sir/Madam
 
-> That will be ˈ35 ˎpounds, Sir.
+That will be '35 ˎpounds, Sir.
 
 **4.7.2** popular, familiar: Dear/Love ●
 
@@ -2549,7 +2569,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.8.1.1** address form + may I introduce + honorific + first name + family name
 
-> Proˈfessor ˎSmith, | ˈmay I intro·duce Dr ·Anthony ˎBrowning?
+Proˈfessor ˎSmith, | ˈmay I intro·duce Dr ·Anthony ˎBrowning?
 
 **4.8.1.2** address form + I'd like you to meet (+ honorific) + first name + family name
 
@@ -2561,20 +2581,20 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:41 -->
 
-<!-- vision: Threshold PDF leaf 48 = document p.42 | multipass intonation -->
+<!-- vision: leaf 48 doc p.42 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p048 page=36 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **4.8.2** informal
 
 **4.8.2.1** address form, this is + first name + family name
 
-> ˈJohn | ˈthis is ·Jane ˎHargreaves,  
+> ˈJohn | ˈthis is ·Jane ˎHargreaves,
 > ˈJane | ˈthis is ·John ˎSmith.
 
 **4.8.2.2** first name + meet + first name
 
-> ˈJenny, | ˈmeet ˎBill.
+> ˈJenny, | ˈmeet !Bill.
 
 #### 4.9 when being introduced to someone, or when someone is introduced to you
 
@@ -2600,7 +2620,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **4.11.2** Your (ˈvery) ·good ˎhealth.
 
-**4.11.3** Here's to) + NP
+**4.11.3** (Here's to) + NP
 
 > ˈHere's to the ·bride and ˎgroom!
 
@@ -2672,7 +2692,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.3.1** ˎNo …
 
-**5.3.2** ˋSorry …
+**5.3.2** ˇSorry …
 
 **5.3.3** I ·mean …
 
@@ -2688,9 +2708,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:42 -->
 
-<!-- vision: Threshold PDF leaf 49 = document p.43 | multipass intonation -->
+<!-- vision: leaf 49 doc p.43 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p049 page=37 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **5.3.7** ·that is to ·say …
 
@@ -2698,27 +2718,27 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.4.1** I'd like to say something about + NP
 
-> I'd ˈlike to say ·something about the ·problem of polˎlution.
+I'd ˈlike to say ·something about the ·problem of polˎlution.
 
 #### 5.5 expressing an opinion
 
-**5.5.1** As ˋI ·see it | …
+**5.5.1** As ˇI ·see it | …
 
-> As ˋI see it, | ˈterrorists are ˎmurderers.
+As ˇI see it, | ˈterrorists are ˎmurderers.
 
-**5.5.2** In ˋmy o·pinion, | …
+**5.5.2** In ˇmy o·pinion, | …
 
-> In ˋmy opinion, | ˈmost T·V. ·programmes are ˎboring.
+In ˇmy opinion, | ˈmost T·V. ·programmes are ˎboring.
 
 **5.5.3** I ˈthink …
 
-> I ˈthink we should ˎgo now.
+I ˈthink we should ˎgo now.
 
 #### 5.6 enumerating
 
 **5.6.1** in the first place …, in the second place … (etc.)
 
-> In the ˋfirst ·place, | ˈsmoking is ˎbad for you, | in the ˋsecond ·place, | it ˈsmells unˎpleasant.
+In the ˇfirst ·place, | ˈsmoking is ˎbad for you, | in the ˇsecond ·place, | it ˈsmells unˎpleasant.
 
 **5.6.2** First …, then …, then …
 
@@ -2730,7 +2750,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.6.4** For one thing … for another …
 
-> For ˋone ·thing | she is too ˎyoung, | for aˈnother | she is ˈnot inˎtelligent e·nough for ·this ·job.
+For ˇone ·thing | she is too ˎyoung, | for aˈnother | she is ˈnot inˎtelligent e·nough for ·this ·job.
 
 #### 5.7 exemplifying
 
@@ -2746,11 +2766,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.8.1.1** use of stress
 
-> That's ˈwonderful!
+That's ˋwonderful!
 
 **5.8.1.2** word order
 
-> Now ˋthis ·picture | I ˈlike ·very ˎmuch.
+Now ˇthis ·picture | I ˈlike ·very ˎmuch.
 
 **5.8.2** in hand- or type-written texts:
 
@@ -2776,7 +2796,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.8.4.1** especially
 
-> These ·cakes are eˈspecially ·nice.
+These ·cakes are eˈspecially ·nice.
 
 **5.8.4.2** (please) note + *that* clause
 
@@ -2784,19 +2804,19 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.8.4.3** it is important + *that* clause (not) to + VPinf
 
-> It is imˈportant to ·close the ˎdoor.
+It is imˈportant to ·close the ˎdoor.
 
 **5.8.4.4** Now this is important.
 
 **5.8.4.5** I must stress the fact + *that* clause
 
-> I must ˈstress the ˎfact | that ˈfire is ˎdangerous.
+I must ˈstress the ˎfact | that ˈfire is ˎdangerous.
 
 #### 5.9 summarising
 
 **5.9.1** to ˈsum ˎup …
 
-**5.9.2** in ˋbrief …
+**5.9.2** in ˇbrief …
 
 #### 5.10 changing the theme
 
@@ -2812,9 +2832,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:43 -->
 
-<!-- vision: Threshold PDF leaf 50 = document p.44 | multipass intonation -->
+<!-- vision: leaf 50 doc p.44 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p050 page=38 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 5.11 asking someone to change the theme
 
@@ -2822,11 +2842,11 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 5.12 asking someone's opinion
 
-**5.12.1** ˈWhat do you ·think?
+**5.12.1** ˈWhat do ˎyou ·think?
 
 **5.12.2** ˈWhat is ˎyour o·pinion/·view?
 
-**5.12.3** ˈWhere do you ·stand on ·this ·matter?
+**5.12.3** ˈWhere do ˎyou ·stand on ·this ·matter?
 
 #### 5.13 showing that one is following a person's discourse
 
@@ -2850,7 +2870,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.14.3** ˈMay ˎI say ·something?
 
-**5.14.4** ˈNo, I'm ˋsorry but …
+**5.14.4** ˈNo, I'm ˇsorry but …
 
 #### 5.15 asking someone to be silent
 
@@ -2860,7 +2880,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 5.16 giving over the floor
 
-**5.16.1** ˈAfter you.  
+**5.16.1** ˈAfter ˎyou.  
 (See also Language Functions 2.21.)
 
 **5.16.2** By ˎall ·means.
@@ -2881,9 +2901,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 #### 5.19 indicating that one is coming to an end
 
-**5.19.1** ˋFinally, …
+**5.19.1** ˇFinally, …
 
-**5.19.2** To ˋfinish, | I should ˈlike to ˎsay …
+**5.19.2** To ˇfinish, | I should ˈlike to ˎsay …
 
 **5.19.3** In conˈclusion, …
 
@@ -2910,17 +2930,17 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.21.1.2** Hallo (this is +) personal name + speaking
 
-> ˈHalˎlo this is ˈMary ˎSmith ·speaking.
+> ˋHal·lo this is ˈMary ˎSmith ·speaking.
 
 **5.21.2** when initiating a call
 
 **5.21.2.1** personal name + here
 
-> Marˈcel Leˎblanc ˎhere.
+Marˈcel Leˎblanc ˎhere.
 
 **5.21.2.2** This is + personal name
 
-> This is ˈGunther ˎSchmidt.
+This is ˈGunther ˎSchmidt.
 
 #### 5.22 asking for:
 
@@ -2932,9 +2952,9 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 <!-- page:44 -->
 
-<!-- vision: Threshold PDF leaf 51 = document p.45 | multipass intonation -->
+<!-- vision: leaf 51 doc p.45 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p051 page=39 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **5.22.1.1** (Can I speak to) + personal name + please?
 
@@ -2948,7 +2968,7 @@ Not + adverbial (now/tonight/here/in this country etc.)
 
 **5.22.2.1** extension + number + please
 
-> Ex·tension ˈone oh ˎsix, ·please.
+Ex·tension ˈone oh ˎsix, ·please.
 
 #### 5.23 asking someone to wait
 
@@ -2968,7 +2988,7 @@ See Language Functions 5.13.
 
 #### 5.26 announcing new call
 
-> I'll ˈcall ˎback/aˎgain ˎlater/this ˎevening, etc.
+I'll ˈcall ˎback/aˎgain ˎlater/this ˎevening, etc.
 
 **letters**
 
@@ -3004,11 +3024,11 @@ See Language Functions 5.13.
 
 #### 6.1 signalling non-understanding
 
-**6.1.1** ˋSorry, I ˈdon't underˎstand.
+**6.1.1** ˇSorry, I ˈdon't underˎstand.
 
 #### 6.2 asking for repetition of sentence
 
-**6.2.1** (I ˈbeg your) ˈpardon?
+**6.2.1** (I ˈbeg your) ˋpardon?
 
 **6.2.2** ˈWhat did you ·say ·please?
 
@@ -3020,17 +3040,17 @@ See Language Functions 5.13.
 
 **6.3.1** (sorry +) *wh* question
 
-> ˋSorry, ˈwhere does she ·live?
+> ˇSorry, ˈwhere does she ·live?
 
 **6.3.2** (sorry +) *wh* did you say + interrogative clause
 
-> ˋSorry, ˈwhat did you ·say his ·name was?
+> ˇSorry, ˈwhat did you ·say his ·name was?
 
 #### 6.4 asking for confirmation of text
 
 **6.4.1** Did you say: X?
 
-> ˈDid you say ˎanchovies?
+> ˈDid you say (anchovies?
 
 #### 6.5 asking for confirmation or understanding
 
@@ -3054,9 +3074,9 @@ See Language Functions 5.13.
 
 <!-- page:45 -->
 
-<!-- vision: Threshold PDF leaf 52 = document p.46 | multipass intonation -->
+<!-- vision: leaf 52 doc p.46 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p052 page=40 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **6.6.3** What is X?
 
@@ -3086,7 +3106,7 @@ See Language Functions 5.13.
 
 **6.9.4** In (native language) we say …
 
-> In ˋGerman we ·say Verˎdienst ·Kreuz.
+In ˇGerman we ·say Verˎdienst ·Kreuz.
 
 #### 6.10 appealing for assistance
 
@@ -3106,11 +3126,11 @@ See Language Functions 5.13.
 
 **6.10.5** … you know …
 
-> It's a … ˈyou ·know …
+It's a ... ˈyou ·know ...
 
 **6.10.6** … er …
 
-> I ·found a … er … er …
+I ·found a ... er ... er …
 
 #### 6.11 asking someone to speak more slowly
 
@@ -3122,7 +3142,7 @@ See Language Functions 5.13.
 
 **6.12.1** a/some kind/sort of + generic term
 
-> ˈsome ·kind of ˎanimal
+> ˈsome | kind of ˎanimal
 
 **6.12.2** something like + related term
 
@@ -3136,13 +3156,13 @@ See Language Functions 5.13.
 
 **6.13.1** X (simply repeated as spoken)
 
-> They'll ·come at ˈ5 oˎ'clock.
+They'll ·come at ˈ5 o'ˎclock.
 
 **6.13.2** X (repeated more slowly and without phonetic reduction)
 
 **6.13.3** I said X
 
-> I ·said ˋseven ˎhundred.
+I ·said ˈseven ˎhundred.
 
 **6.13.4** What I said was X
 
@@ -3150,7 +3170,7 @@ See Language Functions 5.13.
 
 **6.13.5** I said that + indirect speech form or close paraphrase ●
 
-> I ·said that I was ˈvery ˎtired.
+I ·said that I was ˈvery ˎtired.
 
 #### 6.14 asking if you have been understood
 
@@ -3164,9 +3184,9 @@ See Language Functions 5.13.
 
 <!-- page:46 -->
 
-<!-- vision: Threshold PDF leaf 53 = document p.47 | multipass intonation -->
+<!-- vision: leaf 53 doc p.47 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p053 page=41 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 6.15 spelling out a word or expression
 
@@ -3190,11 +3210,11 @@ See Language Functions 5.13.
 
 **6.16.2** Perhaps you mean X?
 
-> Perˈhaps you ·mean ˎraspberry?
+Perˈhaps you ·mean ˎraspberry?
 
 **6.16.3** I think you mean X?
 
-> I ˈthink you ·mean a ˎbadge.
+I ˈthink you ·mean a ˎbadge.
 
 **6.16.4** X (perhaps)?
 
@@ -3206,9 +3226,9 @@ See Language Functions 5.13.
 
 <!-- page:47 -->
 
-<!-- vision: Threshold PDF leaf 54 = document p.48 | multipass intonation -->
+<!-- vision: leaf 54 doc p.48 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p054 page=42 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 ## 6 General notions
 
@@ -3254,9 +3274,9 @@ There isn't any + NP
 
 <!-- page:48 -->
 
-<!-- vision: Threshold PDF leaf 55 = document p.49 | multipass intonation -->
+<!-- vision: leaf 55 doc p.49 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p055 page=43 -->
-<!-- intonation: docs/library/INTONATION_NOTATION.md -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 ready (as in ˈWhen will it be ˎready?)
 
@@ -3268,7 +3288,7 @@ to happen
 **2.1** *location*  
 the following adverbs: **here**, **there**, everywhere, somewhere, nowhere, (not) anywhere, where?; inside, outside  
 (in) the east/north/south/west  
-to have been to (as in: She has ·been to ˈParis.)  
+to have been to (as in: She has ·been to ˋParis.)  
 this, that, these those
 
 **2.2** *relative position*  
@@ -3320,8 +3340,9 @@ centimetre, foot, inch, kilometre, metre, mile, millimetre, yard
 
 <!-- page:49 -->
 
-<!-- el:start type=prose id=prose_p056 page=50 -->
-<!-- vision: Threshold PDF leaf 56 = doc p.50 | multipass two-column general notions -->
+<!-- vision: leaf 56 doc p.50 | word-catalog multipass ch5-6 -->
+<!-- el:start type=prose id=prose_p056 page=44 -->
+<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **long** (as in: ˈHow ˎlong is it?),  
 **short**
@@ -3388,8 +3409,8 @@ adjectives: **long** (as in: a ˈlong ˎtime), **short** (as in: a ˈshort ˎtim
 
 <!-- page:50 -->
 
+<!-- vision: leaf 57 doc p.51 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p057 page=51 -->
-<!-- vision: Threshold PDF leaf 57 = doc p.51 | multipass two-column general notions -->
 
 **3.5** *earliness*  
 **early** (as in: You are ˈearly; There's an ˈearly ·train on ˎMondays.)
@@ -3412,7 +3433,7 @@ afterwards, later (on)
 later than ...
 
 **3.9** *sequence*  
-**first** (as in: ˈFirst we ·went to Maˎdrid.), **then** (as in: ˈFirst we ·went to Maˎdrid, | ˈthen we ·travelled to Gibˎraltar.), **next** ● (as in: ˈWhat did you ·do ˎnext?), **finally** (as in: ˈFinally | we ·went ˎback.), later on ●, in the end ●, afterwards
+**first** (as in: ˈFirst we ·went to Maˎdrid.), **then** (as in: ˈFirst we ·went to Maˎdrid, | ˈthen we ·travelled to Gibˎraltar.), **next** ● (as in: ˈWhat did you ·do ˎnext?), **finally** (as in: ˇFinally | we ·went ˎback.), later on ●, in the end ●, afterwards
 
 **3.10** *simultaneousness*  
 when + sub-clause ●, while + sub-clause ●, as soon as + sub-clause ●  
@@ -3462,8 +3483,8 @@ always, (hardly) ever, never, (not) often, once, rarely, seldom ●, sometimes, 
 
 <!-- page:51 -->
 
+<!-- vision: leaf 58 doc p.52 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p058 page=52 -->
-<!-- vision: Threshold PDF leaf 58 = doc p.52 | multipass two-column general notions -->
 
 usually  
 daily ●, weekly ●, monthly ● (as in: There are ˈdaily ˎflights.)  
@@ -3506,7 +3527,7 @@ to end ●, to finish ●, to stop (as in: The ·game will ˈstop at ˎsix; He �
 till, until ●, to (as in: from ˈ9 to ˎ12)
 
 **3.26** *stability*  
-to remain ● (as in: ˈHow ·long will you reˎmain ·here; ˈWill it reˎmain ˎdry today?), to stay (as in: I will ˈstay here for a ˎweek; It ˈwon't ·stay ·dry for ˈlong.), to keep (as in: ˈHow ·long will this ·milk ·keep ˎfresh?), to wait (as in: We ·had to ·wait ·only ˈfive ˎminutes.)
+to remain ● (as in: ˈHow ·long will you reˎmain ·here; ˈWill it reˎmain ˎdry today?), to stay (as in: I will ˈstay here for a ˎweek; It ˈwon't ·stay ·dry for ˇlong.), to keep (as in: ˈHow ·long will this ·milk ·keep ˎfresh?), to wait (as in: We ·had to ·wait ·only ˈfive ˎminutes.)
 
 **3.27** *change, transition*  
 to become (as in: ˈSugar has become exˎpensive.), to change, to get ● (as in: He's ·getting ˎold.), to turn (as in: The ·leaves ·turned ˎyellow.)  
@@ -3531,8 +3552,8 @@ at least (as in: I ·need at ˈleast ˎ£5.)
 
 <!-- page:52 -->
 
+<!-- vision: leaf 59 doc p.53 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p059 page=53 -->
-<!-- vision: Threshold PDF leaf 59 = doc p.53 | multipass two-column general notions -->
 
 a bottle/box/cup/glass, packet/piece, etc. of ...  
 See further General Notions 2.8.
@@ -3540,7 +3561,7 @@ See further General Notions 2.8.
 **4.3** *degree*  
 comparative and superlative degrees of adjectives and adverbs  
 **enough** (as in: ˈgood eˎnough), too ..., very ...  
-a bit (as in: a ˈbit ˎbetter; a ˈbit ˎtired) ●, a little (as in: a ˈlittle ˎbetter; a ˎlittle ˎtired), a lot (as in: a ˈlot ˎbetter) ●, much (as in: ˈmuch ˎbetter), almost, hardly ●, quite (as in: ˈquite ˎold), rather (as in: ˈrather ˎold), so (as in: I'm ˈso ˎsorry!), such ● (as in: It was ˈsuch ˈfun! He is ˈsuch a ˈnice ·boy!) even (as in: I've ˈeven ·paid ˈ£5.)
+a bit (as in: a ˈbit ˎbetter; a ˈbit ˎtired) ●, a little (as in: a ˈlittle ˎbetter; a ·little ˎtired), a lot (as in: a ˈlot ˎbetter) ●, much (as in: ˈmuch ˎbetter), almost, hardly ●, quite (as in: ˈquite ˎold), rather (as in: ˈrather ˎold), so (as in: I'm ˈso ˎsorry!), such ● (as in: It was ˈsuch ˋfun! He is ˈsuch a ˋnice ·boy!) even (as in: I've ˈeven ·paid ˋ£5.)
 
 #### 5 Qualitative
 
@@ -3559,7 +3580,7 @@ to dry, to (make) wet
 **5.1.4** *visibility, sight*  
 NP + can(not) see + NP  
 NP + can(not) be seen ●  
-to look (as in: ˈDon't ·look ˈnow!), to look at, to watch  
+to look (as in: ˈDon't ·look ˇnow!), to look at, to watch  
 adjectives: **dark**, **light**, (in)visible
 
 **5.1.5** *audibility, hearing*  
@@ -3603,8 +3624,8 @@ adjectives: **alive**, **all right**,
 
 <!-- page:53 -->
 
+<!-- vision: leaf 60 doc p.54 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p060 page=54 -->
-<!-- vision: Threshold PDF leaf 60 = doc p.54 | multipass two-column general notions -->
 
 **better** (as in: He ·got ˎbetter.), **dead**, **ill**, **well**  
 in/out of order ● (as in: The ˈtelephone is ·out of ˎorder.)  
@@ -3691,8 +3712,8 @@ NP + *be* able to ...
 
 <!-- page:54 -->
 
+<!-- vision: leaf 61 doc p.55 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p061 page=55 -->
-<!-- vision: Threshold PDF leaf 61 = doc p.55 | multipass two-column general notions -->
 
 **5.2.11** *importance, unimportance*  
 (not) important, unimportant ●
@@ -3712,7 +3733,7 @@ no doubt ●
 See also Language Functions 2.5–2.8, 2.13–2.14.
 
 **6.2** *expression*  
-to answer, to apologise ●, to ask, to forbid ●, to invite ●, to laugh, to recommend ●, to request ● (as in: ·Guests are reˎquested to ˈleave their ·keys at the ˎdesk.), to say, to speak, to talk, to tell, to thank, to write  
+to answer, to apologise ●, to ask, to forbid ●, to invite ●, to laugh, to recommend ●, to request ● (as in: ·Guests are re·quested to ˈleave their ·keys at the ˎdesk.), to say, to speak, to talk, to tell, to thank, to write  
 nouns: answer, question, statement
 
 #### 7 Relational
@@ -3769,8 +3790,8 @@ adverbs: badly, fast, hard (as in: We ·have to ·work ˈvery ˎhard.), how?, qu
 
 <!-- page:55 -->
 
+<!-- vision: leaf 62 doc p.56 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p062 page=56 -->
-<!-- vision: Threshold PDF leaf 62 = doc p.56 | multipass two-column general notions -->
 
 **7.4** *contrastive relations*
 
@@ -3781,7 +3802,7 @@ difference ●
 different (from), else (as in: ˈAnything ˎelse?), other, another (as in: ˈGive me aˎnother (=different) ·book.)
 
 **7.4.2** *correspondence*  
-in addition to the exponents of 7.4.1: **like** (as in: It's ·like an ˈorange.)  
+in addition to the exponents of 7.4.1: **like** (as in: It's ·like an ˋorange.)  
 comparative degree + than (as in: ˈJohn is ˎolder than his ·brother; ˈJohn ·works ˎharder than his ·brother.)  
 superlative degree (as in: He is the ˈtallest ·boy in the ˎclass.)  
 as ... as ● (as in: He is as ˈbig as his ˎbrother.)  
@@ -3800,7 +3821,7 @@ to belong to ... ●, to have (got) (as in: I have (·got) a ˈsmall ˎcar.), to
 **7.6** *logical relations*
 
 **7.6.1** *conjunction*  
-and, as well as ●, but, also, too (as in: ˈJohn is ·leaving | ˎtoo.), not ... either (as in: ˈI cannot ·swim | ˈeither.)  
+and, as well as ●, but, also, too (as in: ˎJohn is ·leaving | ˎtoo.), not ... either (as in: ˈI cannot ·swim | ˈeither.)  
 together  
 pair (as in: I ˈwant to ·buy a ·pair of ˎshoes.), group (as in: a ˈgroup of ˎfriends)
 
@@ -3808,7 +3829,7 @@ pair (as in: I ˈwant to ·buy a ·pair of ˎshoes.), group (as in: a ˈgroup of
 or
 
 **7.6.3** *inclusion/exclusion*  
-with (as in: We are ˈgoing to ·take him with us.), without (as in: We are ˈnot ·going withˎout him.)  
+with (as in: We are ˈgoing to ·take him ˎwith us.), without (as in: We are ˈnot ·going withˎout him.)  
 except ● (as in: We ˈall ·went, except ˎJohn.)  
 also, too (as in: ˈJohn is leaving | ˈtoo.)
 
@@ -3818,7 +3839,7 @@ because + sub-clause, as + sub-clause ●
 
 **7.6.5** *effect*  
 then ..., so ... (as in: He ˎate too ·much, | so he ˈdid not ·feel ˎwell.), so ... that ● (as in: He ate ˈso ˎmuch | that he ˈfell ˎill.)  
-the reˈsult is ... ●
+the reˈsult ˎis ... ●
 
 **7.6.6** *reason*  
 Why ...?  
@@ -3840,12 +3861,12 @@ if + sub-clause
 
 <!-- page:56 -->
 
+<!-- vision: leaf 63 doc p.57 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p063 page=57 -->
-<!-- vision: Threshold PDF leaf 63 = doc p.57 | multipass two-column general notions + Deixis -->
 
 **7.6.9** *focusing*  
 **about** (as in: I ˈdon't ·want to ˎtalk about the ·war.), **on** (as in: I ˈcannot ·give you ·any inforˎmation on ·train ·services.) ●,  
-**only** (as in: I ˈonly ·wanted to ˈhelp.)
+**only** (as in: I ˈonly ·wanted to ˋhelp.)
 
 #### 8 Deixis
 
@@ -3868,14 +3889,14 @@ interrogative adjectives: whose ●, what, which
 **8.1.2** *anaphoric*  
 personal pronouns (subject forms and object forms)  
 possessive adjectives  
-possessive pronouns as complement (as in: ˈYou ·take it, it's ˈyours.)  
+possessive pronouns as complement (as in: ˈYou ·take it, it's ˋyours.)  
 demonstrative adjectives and pronouns  
 relative pronouns: who, whom ●, whose ●, which, that ●, omission of relative pronoun ●  
 reflexive/emphatic pronouns: myˎself, yourself, etc. (as in: I ˎhurt myself; I've ˈdone it myˎself.)  
 reciprocal pronoun: each other  
 definite article: the  
-adverbs: here, there, now, then, so (as in: He ˈwanted to ·go ·out | but he ˈdidn't ˎsay so.)  
-prop word: one, ones (as in: I ˈlike the ˈred one.)  
+adverbs: here, there, now, then, so (as in: He ˋwanted to ·go ·out | but he ˈdidn't ˎsay so.)  
+prop word: one, ones (as in: I ˈlike the ˋred one.)  
 substitute-verb: do (as in: He ˈasked me to ·help him, | and I ˎdid.)
 
 **8.2** *indefinite*  
@@ -3888,8 +3909,8 @@ indefinite pronouns: someone, somebody, no one, (not) ... anybody, (not) ... any
 
 <!-- page:57 -->
 
+<!-- vision: leaf 64 doc p.58 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p064 page=58 -->
-<!-- vision: Threshold PDF leaf 64 = doc p.58 | multipass end of general notions -->
 
 **some** (as in: ˈSome of them ·went ˎhome.), **it** (as in: It's ˎraining.), **you** (as in: It's a ˈnice ˎrecord | if you ˈlike ·modern ·music.)
 
@@ -3943,7 +3964,7 @@ The specification contains several open-ended items indicated by italics (e.g. *
 <!-- page:59 -->
 
 <!-- el:start type=prose id=prose_p066 page=60 -->
-<!-- vision: Threshold PDF leaf 66 = doc p.60 | multipass Specific notions 1.1–1.2 two-column -->
+<!-- vision: leaf 66 doc p.60 | word-catalog multipass ch7-8 -->
 
 any, which suit their own purposes. In order to provide some guidance as to those notions, which, in our view, might be primarily considered we add, in a number of cases, a list of them preceded by 'e.g.' It should be understood, however, that the notions in such lists are merely offered by way of suggestion and have not got the status of definitely recommended ones. If a word may be used in different meanings, the meaning intended usually follows from its inclusion under a particular sub-theme (e.g. tip under 'eating and drinking out') or it is clarified by means of contextualisation (e.g. letter: What's the last letter of your name?). These illustrative sentences have no other role than clarification of the meaning of the word involved; they are not meant as recommended phrases for inclusion in course materials.
 
@@ -3965,7 +3986,7 @@ Mrs ...
 Miss ...  
 Ms ... (writing)  
 to write/to spell  
-ˈHow do you ·write/spell your ˎname?  
+> ˈHow do you ·write/spell your ˎname?
 *names of letters of the alphabet*  
 to call  
 We ·call him ˎBill.  
@@ -3974,13 +3995,13 @@ He's (·called) ˎBill.
 to sign ●  
 signature ●  
 letter  
-ˈWhat's the ·last ·letter of your ˎname?
+> ˈWhat's the ·last ·letter of your ˎname?
 
 **1.2 address**  
 to live  
-ˈWhere do you ˎlive?  
+> ˈWhere do you ˎlive?
 address  
-ˈWhat's your adˎdress?  
+> ˈWhat's your adˎdress?
 *names of roads etc. e.g.* park, road, square, street  
 number  
 I ·live at ˈnumber fifˎteen.  
@@ -3994,7 +4015,7 @@ I ·live in the ˎcountry.
 <!-- page:60 -->
 
 <!-- el:start type=prose id=prose_p067 page=61 -->
-<!-- vision: Threshold PDF leaf 67 = doc p.61 | multipass Specific notions 1.3–1.10 two-column -->
+<!-- vision: leaf 67 doc p.61 | word-catalog multipass ch7-8 -->
 
 town/city  
 village  
@@ -4004,7 +4025,7 @@ village
 **1.3 telephone number**  
 (See also Specific Notions 11.2.)  
 telephone  
-ˈHave you ·got a ˎtelephone?  
+> ˈHave you ˈgot a ˎtelephone?
 to call/to phone/to ring up  
 telephone number  
 0 (pronounced [əʊ] in telephone numbers)
@@ -4050,7 +4071,7 @@ foreigner
 **1.9 origin**  
 to be from ...  
 I'm from ˎLondon.  
-ˈWhere are you ˎfrom?  
+> ˈWhere are you ˎfrom?
 to come from ... ●
 
 **1.10 occupation**  
@@ -4070,20 +4091,20 @@ e.g. factory, farm, hospital, office, school, shop
 <!-- page:61 -->
 
 <!-- el:start type=prose id=prose_p068 page=62 -->
-<!-- vision: Threshold PDF leaf 68 = doc p.62 | multipass Specific notions 1.11–1.15 two-column -->
+<!-- vision: leaf 68 doc p.62 | word-catalog multipass ch7-8 -->
 
-e.g. to buy, to teach, to sell, to work (as in: I ·work in an ˈoffice.)  
+e.g. to buy, to teach, to sell, to work (as in: I ·work in an ˋoffice.)  
 worker/employee  
 boss/employer  
 manager  
 firm/company  
 to work  
-ˈWhere do you ˎwork?
+> ˈWhere do you ˎwork?
 
 **1.11 family**  
 family  
-ˈHave you ˈbrought your ˎfamily?  
-ˈHave you any ˎfamily?  
+> ˈHave you ˈbrought your ˎfamily?
+> ˈHave you any ˎfamily?
 parents/father and mother  
 child  
 baby  
@@ -4110,7 +4131,7 @@ See Language Functions 2.32–34, objects of likes and dislikes to be derived fr
 
 **1.14 character, disposition**  
 What sort of ...?  
-ˈWhat ·sort of ·man/·woman/ etc./ˎis he/she?  
+> ˈWhat ·sort of ·man/·woman/ etc./ˎis he/she?
 kind  
 He is a ˈvery ·kind ˎperson.  
 nice  
@@ -4144,7 +4165,7 @@ bald
 <!-- page:62 -->
 
 <!-- el:start type=prose id=prose_p069 page=63 -->
-<!-- vision: Threshold PDF leaf 69 = doc p.63 | multipass Specific notions theme 2 House and home -->
+<!-- vision: leaf 69 doc p.63 | word-catalog multipass ch7-8 -->
 
 ## 2 House and home, environment
 
@@ -4167,15 +4188,15 @@ We have ˈplenty of ˎroom ·here.
 *names of rooms*  
 e.g. bathroom, bedroom, cellar, kitchen, lavatory/toilet/w.c., living-room  
 floor  
-The ˈbedrooms | are on the ˈfirst ˎfloor.  
+The ˇbedrooms | are on the ˈfirst ˎfloor.  
 basement ●  
 stairs  
 downstairs  
 The ˈkitchen is ·downˎstairs.  
-ˈLet's go downˎstairs.  
+> ˈLet's go downˎstairs.
 upstairs  
 The ˈbathroom is upˎstairs.  
-ˈLet's go upˎstairs.  
+> ˈLet's go upˎstairs.
 lift  
 window  
 door  
@@ -4199,11 +4220,11 @@ to be
 The ·room is ˈ£55 per ˎweek.  
 rent  
 to let  
-ˈRooms to ·let.  
+> ˈRooms to ·let.
 for sale  
-ˈHouse for ·sale.  
+> ˈHouse for ·sale.
 included ●  
-ˈWater is included in the ˎrent.
+> ˈWater is included in the ˎrent.
 
 **2.5 services**  
 electricity  
@@ -4217,7 +4238,7 @@ The ˈheating is ˎon.
 off  
 The ˈheating is ˎoff.  
 to turn on  
-ˈTurn on the ˎlight ·please.
+> ˈTurn on the ˎlight ·please.
 
 <!-- el:end id=prose_p069 -->
 
@@ -4226,10 +4247,10 @@ to turn on
 <!-- page:63 -->
 
 <!-- el:start type=prose id=prose_p070 page=64 -->
-<!-- vision: Threshold PDF leaf 70 = doc p.64 | multipass Specific notions 2.6–2.8 -->
+<!-- vision: leaf 70 doc p.64 | word-catalog multipass ch7-8 -->
 
 to turn off  
-ˈHow do you ·turn off the ˎheating?
+> ˈHow do you ·turn off the ˎheating?
 
 **2.6 amenities**  
 bath  
@@ -4246,7 +4267,7 @@ You can ˈwash your ·clothes downˎstairs.
 
 **2.7 region**  
 part of the country  
-In ˈour ·part of the ·country | there are many ˎfactories.  
+In ˇour ·part of the ·country | there are many ˎfactories.  
 area ●  
 farmland ●  
 industry ●  
@@ -4272,7 +4293,7 @@ We could ·see the ˈtops of the ˎmountains.
 bottom  
 We could ·see the ˈbottom of the ˎlake.  
 flat  
-ˈOur ·part of the ·country | is ˈquite ˎflat.
+> ˇOur ·part of the ·country | is ˈquite ˎflat.
 
 **2.8 flora and fauna**  
 animal  
@@ -4293,7 +4314,7 @@ e.g. daffodil, fuchsia, grass, oak, pine
 <!-- page:64 -->
 
 <!-- el:start type=prose id=prose_p071 page=65 -->
-<!-- vision: Threshold PDF leaf 71 = doc p.65 | multipass Specific notions theme 3 Daily life -->
+<!-- vision: leaf 71 doc p.65 | word-catalog multipass ch7-8 -->
 
 ## 3 Daily life
 
@@ -4313,7 +4334,7 @@ e.g. breakfast, lunch, tea, dinner, supper
 to cook  
 I'll ˈcook dinˎner for you.  
 to make  
-ˈShall I ·make a ·pot of ˎtea?  
+> ˈShall I ·make a ·pot of ˎtea?
 to wash up  
 to clean  
 I ·clean the ·windows ˈonce a ˎweek.  
@@ -4362,7 +4383,7 @@ to learn
 to study  
 to qualify as  
 to apply (for)  
-I ˈwon't apply for ˈthat ·job.
+I ˈwon't apply for ˇthat ·job.
 
 <!-- el:end id=prose_p071 -->
 
@@ -4371,7 +4392,7 @@ I ˈwon't apply for ˈthat ·job.
 <!-- page:65 -->
 
 <!-- el:start type=prose id=prose_p072 page=66 -->
-<!-- vision: Threshold PDF leaf 72 = doc p.66 | multipass Specific notions theme 4 Free time -->
+<!-- vision: leaf 72 doc p.66 | word-catalog multipass ch7-8 -->
 
 ## 4 Free time, entertainment
 
@@ -4416,12 +4437,12 @@ record player
 CD/compact disc  
 CD player  
 to play  
-ˈLet's ·play your ·new ˎrecord.  
+> ˈLet's ·play your ·new ˎrecord.
 song  
 *names of types of music*  
 e.g. classical, folk, jazz, modern music, pop music  
 to show  
-ˈWhat are they ·showing on TˎV toˎnight?
+> ˈWhat are they ·showing on TˎV toˎnight?
 
 **4.4 cinema, theatre**  
 *names of places for public entertainment concert, etc.*  
@@ -4440,16 +4461,16 @@ e.g. flute, piano, violin, guitar
 <!-- page:66 -->
 
 <!-- el:start type=prose id=prose_p073 page=67 -->
-<!-- vision: Threshold PDF leaf 73 = doc p.67 | multipass Specific notions 4.4 cont.–4.7 -->
+<!-- vision: leaf 73 doc p.67 | word-catalog multipass ch7-8 -->
 
 to dance  
 to play  
-ˈWho is ·playing ˎHamlet?  
+> ˈWho is ·playing ˎHamlet?
 She ·plays the guiˎtar.  
 to sing  
 performance ●  
 ticket  
-ˈI'll ·get the ˎtickets.  
+> ˈI'll ·get the ˎtickets.
 ticket office ●  
 booking office ●  
 afternoon performance ●  
@@ -4461,14 +4482,14 @@ front
 We have ·seats in the ˎfront.  
 centre  
 back  
-ˈTwo ·seats at the ˎback, ·please.  
+> ˈTwo ·seats at the ˎback, ·please.
 entrance ●  
 exit ●  
 emergency exit ●  
 cloakroom ●  
 lavatory/toilet/w.c.  
 programme  
-ˈShall I ·buy a ˎprogramme?  
+> ˈShall I ·buy a ˎprogramme?
 interval ●
 
 **4.5 exhibitions, museums, etc.**  
@@ -4483,7 +4504,7 @@ modern
 old  
 antique ●  
 open  
-ˈOpen on ˎSundays | 2–5 p.ˎm.  
+> ˈOpen on ˎSundays | 2–5 p.ˎm.
 opening-hours ●  
 closed  
 to close  
@@ -4525,7 +4546,7 @@ to race
 <!-- page:67 -->
 
 <!-- el:start type=prose id=prose_p074 page=68 -->
-<!-- vision: Threshold PDF leaf 74 = doc p.68 | multipass Specific notions 4.7 cont.–5.1 Travel -->
+<!-- vision: leaf 74 doc p.68 | word-catalog multipass ch7-8 -->
 
 game  
 to win  
@@ -4541,12 +4562,12 @@ We ˈlive near the ˎfootball ·ground.
 stadium  
 ball  
 against  
-We ˈsaw ·England against ˎFrance | in ˈ6ˎ.8.
+We ˈsaw ·England against ˎFrance | in ˈ6ˎ8.
 
 **4.8 press**  
 newspaper/paper  
 magazine  
-ˈLet's ·buy some magaˎzines.  
+> ˈLet's ·buy some magaˎzines.
 article  
 picture  
 advertisement  
@@ -4562,7 +4583,7 @@ The learners can use and refer to means of transport; travel by road, rail, sea 
 
 **5.1 public transport**  
 to go  
-ˈHow can I ·go to ˎLiverpool?  
+> ˈHow can I ·go to ˎLiverpool?
 to travel  
 traveller ●  
 passenger ●  
@@ -4577,7 +4598,7 @@ Your ·flight is from ˈterminal ˎA.
 to check in  
 boarding-pass ●  
 flight ●  
-·Flight ˈKL 17ˎ5 | has ˈjust arˎrived. Enˈjoy your ˎflight.  
+> ·Flight ˈKL 17ˎ5 | has ˈjust arˎrived. Enˈjoy your ˎflight.
 charter flight ●  
 to fly  
 security (as in: security check) ●  
@@ -4591,13 +4612,13 @@ bus stop
 driver  
 train  
 underground  
-ˈLet's ·take the ˎunderground.  
+> ˈLet's ·take the ˎunderground.
 (railway) station  
 railways ●  
 platform  
 Our ·train ·leaves from ˈplatform ˎ10.  
 to change  
-For ˈLeeds | you ·have to ·change at ˈSheffield.
+For ˈLeeds | you ·have to ·change at ˋSheffield.
 
 <!-- el:end id=prose_p074 -->
 
@@ -4606,10 +4627,10 @@ For ˈLeeds | you ·have to ·change at ˈSheffield.
 <!-- page:68 -->
 
 <!-- el:start type=prose id=prose_p075 page=69 -->
-<!-- vision: Threshold PDF leaf 75 = doc p.69 | multipass Specific notions 5.1 cont.–5.3 -->
+<!-- vision: leaf 75 doc p.69 | word-catalog multipass ch7-8 -->
 
 connection ●  
-We'll ˈmiss our conˈnection | to ˈReading!  
+We'll ˈmiss our conˈnection | to ˋReading!
 fast train  
 slow train  
 tram  
@@ -4627,14 +4648,14 @@ booking-office
 to book  
 time table  
 fare ●  
-ˈWhat's the ·fare to ˎLiverpool?  
+> ˈWhat's the ·fare to ˎLiverpool?
 ticket  
 adult  
-ˈOne ˎadult | and ˈtwo ˎchildren.  
+> ˈOne ˎadult | and ˈtwo ˎchildren.
 single  
-ˈTwo ·singles to ˎBrighton, ·please.  
+> ˈTwo ·singles to ˎBrighton, ·please.
 return  
-A reˈturn ·ticket is ˈcheaper | than ·two ˎsingles.  
+A reˈturn ·ticket is ˋcheaper | than ·two ˎsingles.  
 class  
 I ˈalways ·travel ˎsecond ·class.  
 business class ●  
@@ -4656,7 +4677,7 @@ bar
 delay ●  
 to be delayed ●  
 to cancel  
-ˈHas our ·flight been ˎcancelled?
+> ˈHas our ·flight been ˎcancelled?
 
 **5.2 private transport**  
 (See also Specific Notions 5.3, 11.8 and 11.9.)  
@@ -4667,7 +4688,7 @@ driver
 to ride  
 cyclist  
 to hire/to rent  
-We could ˈalways ·rent a ˈcar.
+We could ˈalways ·rent a ˇcar.
 
 **5.3 traffic**  
 street ●  
@@ -4680,7 +4701,7 @@ crossing
 level crossing ●  
 roundabout ●  
 to cross  
-ˈDon't ·cross ˈhere!  
+> ˈDon't ·cross ˇhere!
 corner  
 traffic lights
 
@@ -4691,7 +4712,16 @@ traffic lights
 <!-- page:69 -->
 
 <!-- el:start type=prose id=prose_p076 page=70 -->
-<!-- vision: Threshold PDF leaf 76 = doc p.70 | multipass Specific notions 5.3 cont.–5.5 -->
+<!-- vision: leaf 76 doc p.70 | word-catalog multipass ch7-8 -->
+<!-- cat: In the ˈblue ˎzone | you can ·park for ˈone ·hour ˎonly. -->
+<!-- cat: You'll ·have to ·pay a ·fine of ˈ£ˎ10. -->
+<!-- cat: ˈFollow the ˎsigns. -->
+<!-- cat: We ˈwent with a ·group of ˎtourists. -->
+<!-- cat: ˈAre you ·going aˎbroad ·this ·year? -->
+<!-- cat: ˈAre you ·going to a ·foreign ˎcountry ·this ·year? -->
+<!-- cat: ˈPlease ·leave your ·key at the ˎdesk. -->
+<!-- cat: ˈCan you ·call me at ˎsix, ·please? -->
+<!-- cat: ˈIs there a ˎmessage for me? -->
 
 blue zone ●  
 In the ˈblue ˎzone | you can ·park for ˈone ·hour ˎonly.  
@@ -4706,7 +4736,7 @@ safety ●
 safety belt ●  
 signpost  
 to follow  
-ˈFollow the ˎsigns.  
+> ˈFollow the ˎsigns.
 pedestrian ●  
 map  
 distance ●  
@@ -4729,9 +4759,9 @@ sights ●
 *names of sights and buildings of interest*  
 e.g. castle, cathedral, ruins, zoo  
 abroad ●  
-ˈAre you ·going aˎbroad ·this ·year?  
+> ˈAre you ·going aˎbroad ·this ·year?
 to a foreign country  
-ˈAre you ·going to a ·foreign ˎcountry ·this ·year?  
+> ˈAre you ·going to a ·foreign ˎcountry ·this ·year?
 *names of continents:* Africa, America, Asia, Australia, Europe
 
 **5.5 accommodation**  
@@ -4749,18 +4779,21 @@ to book
 reservation ●  
 reception ●  
 desk ●  
-ˈPlease ·leave your ·key at the ˎdesk.  
+> ˈPlease ·leave your ·key at the ˎdesk.
 to register ●  
 registration form ●  
 key  
 to call  
-ˈCan you ·call me at ˎsix, ·please?  
+> ˈCan you ·call me at ˎsix, ·please?
 message  
-ˈIs there a ˎmessage for me?  
+> ˈIs there a ˎmessage for me?
 hall  
 lounge ●  
 lift  
 to press ●
+
+
+
 
 <!-- el:end id=prose_p076 -->
 
@@ -4769,19 +4802,29 @@ to press ●
 <!-- page:70 -->
 
 <!-- el:start type=prose id=prose_p077 page=71 -->
-<!-- vision: Threshold PDF leaf 77 = doc p.71 | multipass Specific notions 5.5 cont.–6.2 -->
+<!-- vision: leaf 77 doc p.71 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈPress the ˎbutton | for the ˈthird ˎfloor. -->
+<!-- cat: ˎPush | to ˈopen the ˎdoor. -->
+<!-- cat: ˎPull | to ˈopen the ˎdoor. -->
+<!-- cat: In ˈcase of ˎfire | ... -->
+<!-- cat: ˈCan I have my ˎbill, ·please? -->
+<!-- cat: ˈDo you ·want a ˎporter for your ·luggage? -->
+<!-- cat: ˈHave you ·anything to deˎclare? -->
+<!-- cat: ˈWill you ·open your ˎbag, ·please? -->
+<!-- cat: You'll ˈhave to ·pay ˋduty | on ˎthis. -->
+<!-- cat: I ·want to ·change ˈ500 ˎdollars. -->
 
 button  
-ˈPress the ˎbutton | for the ˈthird ˎfloor.  
+> ˈPress the ˎbutton | for the ˈthird ˎfloor.
 to push ●  
-ˎPush | to ˈopen the ˎdoor.  
+> ˎPush to ˈopen the ˎdoor.
 to pull ●  
-ˎPull | to ˈopen the ˎdoor.  
+> ˎPull | to ˈopen the ˎdoor.
 fire  
 In ˈcase of ˎfire | ...  
 to check out ●  
 bill  
-ˈCan I have my ˎbill, ·please?  
+> ˈCan I ·have my ˎbill, ·please?
 receipt  
 cheque  
 to pay cash  
@@ -4794,7 +4837,7 @@ suitcase
 box  
 camera  
 porter ●  
-ˈDo you ·want a ˎporter for your ·luggage?  
+> ˈDo you ·want a ˎporter for your ·luggage?
 locker ●
 
 **5.7 entering and leaving a country**  
@@ -4805,11 +4848,11 @@ visa ●
 customs  
 to import ●  
 to declare ●  
-ˈHave you ·anything to deˎclare?  
+> ˈHave you ·anything to deˎclare?
 to open  
-ˈWill you ·open your ˎbag, ·please?  
+> ˈWill you ·open your ˎbag, ·please?
 duty ●  
-You'll ˈhave to ·pay ˈduty | on ˎthis.  
+You'll ˈhave to ·pay ˋduty | on ˎthis.  
 duty-free ●  
 money  
 to change  
@@ -4842,6 +4885,9 @@ to invite
 invitation  
 to make an appointment
 
+
+
+
 <!-- el:end id=prose_p077 -->
 
 *Page **71***
@@ -4849,21 +4895,35 @@ to make an appointment
 <!-- page:71 -->
 
 <!-- el:start type=prose id=prose_p078 page=72 -->
-<!-- vision: Threshold PDF leaf 78 = doc p.72 | multipass Specific notions 6.2 cont.–6.6 -->
+<!-- vision: leaf 78 doc p.72 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWill you ·join us for ˎlunch? -->
+<!-- cat: We'll ˈexpect you at ˎsix. -->
+<!-- cat: ˈWhy don't you ·come and ˎsee us toˎnight? -->
+<!-- cat: We're ˈhaving a ˋparty | toˎnight. -->
+<!-- cat: He ·brought a ˋpresent for me. -->
+<!-- cat: ˈHave you ·got some ˎpaper for me? -->
+<!-- cat: I'll ˈsend you a ˎpostcard. -->
+<!-- cat: I ·got a ˎletter from her. -->
+<!-- cat: We ·meet ˈevery ˎWednesday. -->
+<!-- cat: ˈAre you a ·party ˎmember? -->
+<!-- cat: He is the ˈleader of the conˎservatives. -->
+<!-- cat: The ·state ·owns ˈmany ˎfactories. -->
+<!-- cat: NATO [ˈneɪtəʊ] -->
+<!-- cat: He is a ˎcriminal. -->
 
 to join ●  
-ˈWill you ·join us for ˎlunch?  
+> ˈWill you ·join us for ˎlunch?
 to expect ●  
 We'll ˈexpect you at ˎsix.  
 to visit  
 to come and see ... ●  
-ˈWhy don't you ·come and ˎsee us toˎnight?  
+> ˈWhy don't you ·come and ˎsee us toˎnight?
 party  
-We're ˈhaving a ˈparty | toˎnight.  
+We're ˈhaving a ˋparty | toˎnight.  
 to talk  
 to dance  
 present  
-He ·brought a ˈpresent for me.  
+He ·brought a ˋpresent for me.  
 guest
 
 **6.3 correspondence**  
@@ -4875,7 +4935,7 @@ envelope
 postcard  
 note paper  
 paper  
-ˈHave you ·got some ˎpaper for me?  
+> ˈHave you ·got some ˎpaper for me?
 stamp  
 airmail  
 pen  
@@ -4912,7 +4972,7 @@ to vote
 politics  
 political  
 party  
-ˈAre you a ·party ˎmember?  
+> ˈAre you a ·party ˎmember?
 *names of political parties*  
 e.g. communist, conservative, liberal, socialist  
 right wing  
@@ -4930,6 +4990,9 @@ criminal
 He is a ˎcriminal.  
 to steal
 
+
+
+
 <!-- el:end id=prose_p078 -->
 
 *Page **72***
@@ -4937,7 +5000,8 @@ to steal
 <!-- page:72 -->
 
 <!-- el:start type=prose id=prose_p079 page=73 -->
-<!-- vision: Threshold PDF leaf 79 = doc p.73 | multipass Specific notions 6.6 cont.–6.8 -->
+<!-- vision: leaf 79 doc p.73 | word-catalog multipass ch7-8 -->
+<!-- cat: The ˈkidnapper ·threw a ˎbomb | into the ˎgarage. -->
 
 thief  
 burglar ●  
@@ -5018,6 +5082,9 @@ welfare
 rich  
 poor
 
+
+
+
 <!-- el:end id=prose_p079 -->
 
 *Page **73***
@@ -5025,7 +5092,16 @@ poor
 <!-- page:73 -->
 
 <!-- el:start type=prose id=prose_p080 page=74 -->
-<!-- vision: Threshold PDF leaf 80 = doc p.74 | multipass Specific notions theme 7 Health -->
+<!-- vision: leaf 80 doc p.74 | word-catalog multipass ch7-8 -->
+<!-- cat: I'm ˈquite ˎcomfortable | ˎnow. -->
+<!-- cat: The ·chair ˈisn't very ˇcomfortable. -->
+<!-- cat: I'd ˈlike to ˎrest a ·little. -->
+<!-- cat: ˈWill you ·cut my ˎhair, ·please? -->
+<!-- cat: I'd ˈlike to ˎwash before ·dinner. -->
+<!-- cat: ˈCan you ·wash these ˎclothes for me? -->
+<!-- cat: ˈIs there a ˎlaundry ·here? -->
+<!-- cat: ˈHas the ·laundry come ˎback ·yet? -->
+<!-- cat: I have a ˎheadache. -->
 
 ## 7 Health and body care
 
@@ -5038,7 +5114,7 @@ e.g. arm, back, chest, foot, hair, hand, head, heart, leg, lungs, neck, stomach,
 **7.2 personal comfort**  
 comfortable  
 I'm ˈquite ˎcomfortable | ˎnow.  
-The ·chair ˈisn't very ˈcomfortable.  
+The ·chair ˈisn't very ˇcomfortable.  
 hunger ●  
 hungry  
 thirst ●  
@@ -5065,14 +5141,14 @@ toothbrush
 toothpaste  
 towel  
 to cut  
-ˈWill you ·cut my ˎhair, ·please?  
+> ˈWill you ·cut my ˎhair, ·please?
 to shave  
 to wash  
-I'd ˈlike to ·wash before ·dinner.  
-ˈCan you ·wash these ˎclothes for me?  
+I'd ˈlike to ˎwash before ·dinner.  
+> ˈCan you ·wash these ˎclothes for me?
 laundry ●  
-ˈIs there a ˎlaundry ·here?  
-ˈHas the ·laundry come ˎback ·yet?
+> ˈIs there a ˎlaundry ·here?
+> ˈHas the ·laundry come ˎback ·yet?
 
 **7.4 ailments, accidents**  
 health ●  
@@ -5093,6 +5169,9 @@ to feel sick
 to hurt  
 *names of diseases e.g.* AIDS ●, diabetes, diarrhoea, influenza (flu), V.D. ●
 
+
+
+
 <!-- el:end id=prose_p080 -->
 
 *Page **74***
@@ -5100,7 +5179,20 @@ to hurt
 <!-- page:74 -->
 
 <!-- el:start type=prose id=prose_p081 page=75 -->
-<!-- vision: Threshold PDF leaf 81 = doc p.75 | multipass Specific notions 7.4 cont.–8.1 -->
+<!-- vision: leaf 81 doc p.75 | word-catalog multipass ch7-8 -->
+<!-- cat: I ˈhad an opeˎration | ·last ˎyear. -->
+<!-- cat: He has ˈbroken his ˎleg. -->
+<!-- cat: He has ˈburnt his ˎhand. -->
+<!-- cat: She has ˈcut her ˎfinger. -->
+<!-- cat: ˈDo you ·take any ˎmedicine? -->
+<!-- cat: ·Take ˈthree ·tablets a ˎday. -->
+<!-- cat: The ˈpatient is in the ˎchildren's ·ward. -->
+<!-- cat: The ·patient is ˈwaiting. -->
+<!-- cat: This ·tooth was ·filled ˈsix ˎmonths a·go. -->
+<!-- cat: ˈWhat ·time is your apˎpointment? -->
+<!-- cat: ˈDo you have ·third-·party ˎinsurance? -->
+<!-- cat: He (was) ˈtrained to be a ˎnurse. -->
+<!-- cat: I ˈtook a ·course in matheˎmatics. -->
 
 operation  
 I ˈhad an opeˎration | ·last ˎyear.  
@@ -5124,20 +5216,20 @@ nurse
 specialist  
 chemist  
 medicine  
-ˈDo you ·take any ˎmedicine?  
+> ˈDo you ·take any ˎmedicine?
 tablet  
-·Take ˈthree ·tablets a ˎday.  
+> ·Take ˈthree ·tablets a ˎday.
 pill ●  
 ambulance  
 hospital  
 ward ●  
 The ˈpatient is in the ˎchildren's ·ward.  
 patient ●  
-The ·patient is ˈwaiting.  
+The ·patient is ˋwaiting.
 to fill ●  
 This ·tooth was ·filled ˈsix ˎmonths a·go.  
 appointment ●  
-ˈWhat ·time is your apˎpointment?  
+> ˈWhat ·time is your apˎpointment?
 to see a doctor (dentist, etc.)  
 prescription ●  
 glasses
@@ -5146,7 +5238,7 @@ glasses
 to insure  
 insurance  
 third-party  
-ˈDo you have ·third-·party ˎinsurance?
+> ˈDo you have ·third-·party ˎinsurance?
 
 ---
 
@@ -5173,6 +5265,9 @@ pupil
 *names of types of education*  
 e.g. primary school, secondary school, university, college, adult education
 
+
+
+
 <!-- el:end id=prose_p081 -->
 
 *Page **75***
@@ -5180,11 +5275,17 @@ e.g. primary school, secondary school, university, college, adult education
 <!-- page:75 -->
 
 <!-- el:start type=prose id=prose_p082 page=76 -->
-<!-- vision: Threshold PDF leaf 82 = doc p.76 | multipass Specific notions 8.2–9.4 Shopping -->
+<!-- vision: leaf 82 doc p.76 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWhat ˎsubjects did you ·take at ·school? -->
+<!-- cat: I ˈpassed my examiˎnation | ˈlast ˎyear. -->
+<!-- cat: I ˈfailed my ·driving-·test ˎtwice. -->
+<!-- cat: I've ˈbought ˋthis | at the ˎsales. -->
+<!-- cat: I ˈwant to ·change this ˎshirt; | it is ˈnot the ·right ˎcolour. -->
+<!-- cat: ˈHave you ·got a ·new ˎwatch? -->
 
 **8.2 subjects**  
 subject  
-ˈWhat ·subjects did you ·take at ·school?  
+> ˈWhat ˎsubjects did you ·take at ·school?
 *names of school subjects*  
 e.g. arithmetic, computer science, economics, geography, history, mathematics, physics, reading, science, writing
 
@@ -5216,7 +5317,7 @@ self-service
 *names of types of shops*  
 e.g. baker's, butcher's, greengrocer's, grocer's, tobacconist's  
 sale  
-I've ˈbought ˈthis | at the ˎsales.  
+I've ˈbought ˋthis | at the ˎsales.  
 it is my (etc.) turn ●  
 to show  
 to wrap up ●  
@@ -5237,7 +5338,7 @@ wallet
 handbag  
 jewellery ●  
 watch  
-ˈHave you ·got a ·new ˎwatch?  
+> ˈHave you ·got a ·new ˎwatch?
 to try on  
 to put on (clothes)  
 to take off (clothes)  
@@ -5246,6 +5347,9 @@ to wear (clothes)
 **9.4 smoking**  
 tobacco
 
+
+
+
 <!-- el:end id=prose_p082 -->
 
 *Page **76***
@@ -5253,7 +5357,9 @@ tobacco
 <!-- page:76 -->
 
 <!-- el:start type=prose id=prose_p083 page=77 -->
-<!-- vision: Threshold PDF leaf 83 = doc p.77 | multipass Specific notions 9.4 cont.–10.1 -->
+<!-- vision: leaf 83 doc p.77 | word-catalog multipass ch7-8 -->
+<!-- cat: Be ˈcareful, | the ·plate is ˈhot. -->
+<!-- cat: ˈWhat's the ˎmain ·course? -->
 
 pipe  
 cigar  
@@ -5268,7 +5374,7 @@ knife
 spoon  
 dish  
 plate  
-Be ˈcareful, | the ·plate is ˈhot.  
+Be ˋcareful, | the ·plate is ˋhot.
 cup  
 saucer  
 bottle  
@@ -5308,7 +5414,7 @@ snack
 e.g. breakfast, lunch, tea, dinner, supper  
 to have breakfast, etc.  
 course  
-ˈWhat's the ˎmain ·course?  
+> ˈWhat's the ˎmain ·course?
 vegetables  
 *names of vegetables*  
 e.g. beans, cabbage, carrots, cauliflower, mushrooms, peas, potatoes, spinach  
@@ -5328,6 +5434,9 @@ poultry ●
 e.g. chicken, turkey  
 egg
 
+
+
+
 <!-- el:end id=prose_p083 -->
 
 *Page **77***
@@ -5335,18 +5444,27 @@ egg
 <!-- page:77 -->
 
 <!-- el:start type=prose id=prose_p084 page=78 -->
-<!-- vision: Threshold PDF leaf 84 = doc p.78 | multipass Specific notions 10.1 cont.–10.2 -->
+<!-- vision: leaf 84 doc p.78 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWould you ·like a ˎsweet? -->
+<!-- cat: ˈWould you ·like a ·piece of ˎchocolate? -->
+<!-- cat: ˈChocolate ·ice-ˎcream, ·please. -->
+<!-- cat: ˈWould you ·like a ·piece of ˎcake? -->
+<!-- cat: ˈWould you ·like a ˎdrink? -->
+<!-- cat: ˈNo ·service in the ˎgarden. -->
+<!-- cat: ˈService is in·cluded in the ˎbill. -->
+<!-- cat: ˈHave you deˎcided ·yet? -->
+<!-- cat: ˈCan I ·take this aˎway? -->
 
 omelette  
 cheese  
 dessert  
 sweet ●  
-ˈWould you ·like a ˎsweet?  
+> ˈWould you ·like a ˎsweet?
 ice-cream  
 vanilla  
 chocolate  
-ˈWould you ·like a ·piece of ˎchocolate?  
-ˈChocolate ·ice-ˎcream, ·please.  
+> ˈWould you ·like a ·piece of ˎchocolate?
+> ˈChocolate ·ice-ˎcream, ·please.
 cake  
 pastry  
 pie  
@@ -5362,7 +5480,7 @@ vinegar
 flour  
 bread  
 piece  
-ˈWould you ·like a ·piece of ˎcake?  
+> ˈWould you ·like a ·piece of ˎcake?
 slice  
 (bread) roll  
 sandwich  
@@ -5377,7 +5495,7 @@ cream
 milk  
 sugar  
 drink  
-ˈWould you ·like a ˎdrink?  
+> ˈWould you ·like a ˎdrink?
 *names of beverages*  
 e.g. beer, fruit juice, mineral water, soft drinks, orange juice, water, wine  
 *ways of preparing food*  
@@ -5395,20 +5513,23 @@ self-service
 help-yourself ●  
 to serve  
 service ●  
-ˈNo ·service in the ˎgarden.  
-ˈService is in·cluded in the ˎbill.  
+> ˈNo ·service in the ˎgarden.
+> ˈService is in·cluded in the ˎbill.
 waiter  
 waitress  
 menu  
 to choose  
 to decide ●  
-ˈHave you deˎcided ·yet?  
+> ˈHave you deˎcided ·yet?
 to order  
 bill  
 tip ●  
 service charge ●  
 to take away ●  
-ˈCan I ·take this aˎway?
+> ˈCan I ·take this aˎway?
+
+
+
 
 <!-- el:end id=prose_p084 -->
 
@@ -5417,7 +5538,12 @@ to take away ●
 <!-- page:78 -->
 
 <!-- el:start type=prose id=prose_p085 page=79 -->
-<!-- vision: Threshold PDF leaf 85 = doc p.79 | multipass Specific notions theme 11 Services -->
+<!-- vision: leaf 85 doc p.79 | word-catalog multipass ch7-8 -->
+<!-- cat: I'd ˈlike to ·change ˈ500 ˎfrancs. -->
+<!-- cat: I'd ˈlike to ·cash this ˎcheque. -->
+<!-- cat: I ˈhave an ·acˎcount | with the ˈMidland ˎBank. -->
+<!-- cat: I've ˈlost my ˎpassport. -->
+<!-- cat: My ˋbrakes ·don't ·work. -->
 
 ## 11 Services
 
@@ -5491,11 +5617,14 @@ steering
 to help  
 to repair  
 to work  
-My ˈbrakes ·don't ·work.
+My ˋbrakes ·don't ·work.
 
 **11.9 petrol station**  
 (See also General Notions 2.8.5.)  
 petrol station
+
+
+
 
 <!-- el:end id=prose_p085 -->
 
@@ -5504,7 +5633,10 @@ petrol station
 <!-- page:79 -->
 
 <!-- el:start type=prose id=prose_p086 page=80 -->
-<!-- vision: Threshold PDF leaf 86 = doc p.80 | multipass Specific notions 11.9 cont.–14.1 -->
+<!-- vision: leaf 86 doc p.80 | word-catalog multipass ch7-8 -->
+<!-- cat: I ˈcannot ˎwrite ·English ·very ·well. -->
+<!-- cat: ˈMay I ·ask a ˎquestion? -->
+<!-- cat: It's ˈnot ˎclear to me. -->
 
 petrol  
 unleaded  
@@ -5544,7 +5676,7 @@ translation
 to interpret  
 dictionary  
 question  
-ˈMay I ·ask a ˎquestion?  
+> ˈMay I ·ask a ˎquestion?
 clear  
 It's ˈnot ˎclear to me.  
 to explain  
@@ -5569,6 +5701,9 @@ rain
 rainy  
 to rain
 
+
+
+
 <!-- el:end id=prose_p086 -->
 
 *Page **80***
@@ -5576,7 +5711,9 @@ to rain
 <!-- page:80 -->
 
 <!-- el:start type=prose id=prose_p087 page=81 -->
-<!-- vision: Threshold PDF leaf 87 = doc p.81 | multipass Specific notions 14.1 end (complete short page) -->
+<!-- vision: leaf 87 doc p.81 | word-catalog multipass ch7-8 -->
+<!-- cat: It will be ˋfine | toˎmorrow. -->
+<!-- cat: ˈShall we ·sit in the ˎshade? -->
 
 fog  
 foggy  
@@ -5593,10 +5730,13 @@ thunderstorm
 snowstorm  
 lightning  
 fine ●  
-It will be ˈfine | toˎmorrow.  
+It will be ˋfine | toˎmorrow.  
 mild  
 shade  
-ˈShall we ·sit in the ˎshade?
+> ˈShall we ·sit in the ˎshade?
+
+
+
 
 <!-- el:end id=prose_p087 -->
 
@@ -5605,7 +5745,16 @@ shade
 <!-- page:81 -->
 
 <!-- el:start type=prose id=prose_p088 page=82 -->
-<!-- vision: Threshold PDF leaf 88 = doc p.82 | multipass Verbal exchange patterns + dialogue tables -->
+<!-- vision: leaf 88 doc p.82 | word-catalog multipass ch7-8 -->
+<!-- cat: Sales person : ˈYes? -->
+<!-- cat: Customer : ˈHaddock and ˎchips. -->
+<!-- cat: Sales person : ·That'll be ˈ£1.ˎ20 -->
+<!-- cat: Sales person : ˎThanks. -->
+<!-- cat: Customer : ˈFish and ˎchips | – ˎtwice. -->
+<!-- cat: Sales person : ˈCod, | or ˎplaice? -->
+<!-- cat: Customer : ˎPlaice. -->
+<!-- cat: Sales person : ˈLarge, | or ˎsmall -->
+<!-- cat: Customer : ˎLarge. And ˈsalt and ˎvinegar. -->
 
 ## 8 Verbal exchange patterns
 
@@ -5635,7 +5784,8 @@ Exponents of single language functions may occur in isolation. 'Stop!' as an ord
 <!-- page:82 -->
 
 <!-- el:start type=prose id=prose_p089 page=83 -->
-<!-- vision: Threshold PDF leaf 89 = doc p.83 | multipass dialogue table continuation + dialogue types list -->
+<!-- vision: leaf 89 doc p.83 | word-catalog multipass ch7-8 -->
+<!-- cat: | | Sales person | : ·That'll be ˈ£2.ˎ30 | asking for payment | -->
 
 | | | | |
 | --- | --- | --- | --- |
@@ -5676,6 +5826,9 @@ A number of dialogue types (which may, in fact, involve more than two participan
 
 However predictable the occurrence of certain verbal exchange patterns in the above dialogue types may be, there is always a strong element of unpredictability as well. When the more or less standardised patterns are broken, or even set aside completely, conversation does not lend itself to a didactically meaningful
 
+
+
+
 <!-- el:end id=prose_p089 -->
 
 *Page **83***
@@ -5683,13 +5836,16 @@ However predictable the occurrence of certain verbal exchange patterns in the ab
 <!-- page:83 -->
 
 <!-- el:start type=prose id=prose_p090 page=84 -->
-<!-- vision: Threshold PDF leaf 90 = doc p.84 | multipass verbal exchange prose (full page) -->
+<!-- vision: leaf 90 doc p.84 | word-catalog multipass ch7-8 -->
 
 description of the kind we try to provide in this document. 'All we can be said to understand about such talk' Peck observes, 'is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: 'We can teach pupils to recognise these elements of discourse and to use them themselves.'
 
 Chapter 5 contains a classified list of the language functions, together with their common exponents, which are combined in verbal interaction. We have not thought it necessary, or even desirable, to attempt to specify the verbal interaction patterns to be used by learners (e.g. in the form of praxeograms).
 
 As we have shown, not even the most routine transactions of daily life are fully predictable. Many conditions may have to be fulfilled before a transaction can be successfully completed. A complex transaction may have to pass through numerous stages of negotiation each involving lengthy verbal exchanges. In routine cases many may be passed over in silence and the exchange limited to a few words on either side. Making travel arrangements, say, may take either form. We all know what it is like to queue behind someone who wishes to travel to a remote place involving different means of transport, choices of route, co-ordination of timetable, comparison of prices using different combinations of various categories of tickets, involving different currencies, wishing to use a foreign credit card, etc., when all one wishes to do oneself is to buy a single ticket to the next station, and the train is due to leave in five minutes. One wishes there were simply a ticket vending machine, in which case no oral interaction need – or indeed can – take place, but instead a set of written instructions must be followed. The example could be paralleled in the settings of shopping, eating out, garages, and others where goods and services are required. In each case the services and/or goods must be identified, made available and paid for. Each stage may be carried out through personal interaction involving more or less verbal interaction or by self-service with or without mechanisation, normally eliminating verbal interaction in favour of written instructions. What is to be done at each stage may be self-evident, requiring no language, or a perfunctory exchange, or a brief unrelated interactional exchange to establish human contact. On the other hand, there may be choices to be exercised, preferences to be expressed, pros and cons to be discussed, conflicts of interest to be resolved, before the decisions can be made on which the next stage depends. At any time, communication difficulties may arise, needing to be dealt with by repair procedures. As social beings we have the larger schemata in our social competence, though it is only in exceptional circumstances that we need to follow the full process through in detail by means of language. In any case:
+
+
+
 
 <!-- el:end id=prose_p090 -->
 
@@ -5850,6 +6006,12 @@ No indications are given as to the range and nature of the lexical content of te
 
 <!-- el:start type=prose id=prose_p095 page=89 -->
 <!-- vision: Threshold PDF leaf 95 = doc p.89 | multipass reading text types -->
+<!-- cat: Signs (e·g. street signs), directions (e·g. how to make a phone call), -->
+<!-- cat: notices, instructions (e·g. warnings), posters, advertisements, -->
+<!-- cat: brochures, leaflets, guides (e·g. hotel guides, city guides), price lists, -->
+<!-- cat: maps), telephone directories, forms (e·g. landing forms, hotel -->
+<!-- cat: registration forms), shop signs, product packaging (e·g. in -->
+<!-- cat: articles, features, weather forecastsˎfrorn newspapers and magazines. -->
 
 devices and the command of a core vocabulary such as the one recommended in this volume the learners' range of action – particularly as readers – is, as far as vocabulary is concerned, sufficient for the kinds of texts that fall within the terms of our definition. Only one further, and obvious, reservation has to be made with regard to vocabulary, and that is that the learners cannot be expected to be able to understand items whose meaning, in the available context, would be obscure to them even if the text had been produced in their native language. This would apply to items whose meaning would be, conceptually, beyond the learners' mental reach. They would be unlikely to occur, however, in texts referred to in this specification.
 
@@ -5869,6 +6031,33 @@ personal correspondence (letters, postcards, telegrams); informative articles, f
 
 <!-- el:end id=prose_p095 -->
 
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.
+
 *Page **89***
 
 <!-- page:89 -->
@@ -5878,7 +6067,7 @@ personal correspondence (letters, postcards, telegrams); informative articles, f
 
 ### Listening
 
-The range of text types proposed for listening is considerably narrower than that for reading. Generally, the understanding of orally produced texts is subject to time constraints: they are produced only once and in a linear form which does not allow the listener to go back to earlier parts or to reflect on the text as a whole as easily as may be done with written texts. It would, therefore, be unrealistic to expect a listening ability fully corresponding to what was included under 'reading'. Such texts as news programmes on radio and especially on television with its stronger visual support may be partly understood by learners at *Threshold Level* but because of their low degree of predictability we would situate a general ability to understand their gist and/or relevant details at a somewhat higher level. However, learners at *Threshold Level* should be capable of understanding the gist and many relevant details of programmes (e.g. BBC World Service broadcasts) specifically directed to non-native audiences with correspondingly appropriate vocabulary, grammar and pronunciation.
+The range of text types proposed for listening is considerably narrower than that for reading. Generally, the understanding of orally produced texts is subject to time constraints: they are produced only once and in a linear form which does not allow the listener to go back to earlier parts or to reflect on the text as a whole as easily as may be done with written texts. It would, therefore, be unrealistic to expect a listening ability fully corresponding to what was included under ˈreading'. Such texts as news programmes on radio and especially on television with its stronger visual support may be partly understood by learners at *Threshold Level* but because of their low degree of predictability we would situate a general ability to understand their gist and/or relevant details at a somewhat higher level. However, learners at *Threshold Level* should be capable of understanding the gist and many relevant details of programmes (e·g. BBC World Service broadcasts) specifically directed to non-native audiences with correspondingly appropriate vocabulary, grammar and pronunciation.
 
 #### Text types for listening:
 
@@ -6079,9 +6268,9 @@ The exponents recommended for use at *Threshold Level*, even more so for *Waysta
 
 <!-- page:97 -->
 
-<!-- vision: Threshold PDF leaf 104 = document p.98 | multipass ≥3 politeness maxims + intonation -->
+<!-- vision: leaf 104 doc p.98 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p104 page=92 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
 some cases, the use of a politeness marker is so usual that we have included it directly in the suggested exponent. However, to have attempted to do so in all cases would have both overloaded the specification and been in fact too directive and even misleading. We have preferred to state the principles and to leave it to learners, under guidance from their teachers, to apply them appropriately.
 
@@ -6095,23 +6284,23 @@ This maxim applies to the functions of imparting factual information and express
 
 **a)** the use of *I think*, *I believe*, *I expect*, as introducers or as tags. If they are unstressed, their use does not indicate uncertainty or lack of confidence;
 
-> I ·think his ˈmother is Iˎtalian.  
-> She ·comes from Caˎlabria, I beˎlieve.
+I ·think his ˈmother is Iˎtalian.
+She ·comes from Caˎlabria, I beˎlieve.
 
 **b)** the use of *you know*, *of course*, to imply that the partner is not ignorant;
 
-> Of ·course, his ˈmother is Iˎtalian, you ·know.
+Of ·course, his ˈmother is Iˎtalian, you ·know.
 
 **c)** the use of tag questions to invite the partner’s agreement (falling intonation) or confirmation (rising intonation).
 
-> His ˈmother is Iˎtalian, | ˋisn’t she? (inviting agreement; no uncertainty);  
-> His ˈmother is Iˎtalian, | ˏisn’t she? (asking confirmation; uncertain).
+His ˈmother is Iˎtalian, | ˋisn't she? (inviting agreement; no uncertainty);
+His ˈmother is Iˎtalian, | ˏisn't she? (asking confirmation; uncertain).
 
 Correcting is liable to give offence, since it involves telling the partner that he/she has made a mistake. Offence can be avoided by:
 
 - apologising for correcting;
 
-> I’m ˋsorry, | but the ·lecture ˈisn’t on ˈWednesday. | It’s on ˈFriday.
+I'm ˋsorry, | but the ·lecture ˈisn't on ˈWednesday. | It's on ˈFriday.
 
 - querying what has been said, so that the partner can correct the slip;
 
@@ -6123,7 +6312,7 @@ Correcting is liable to give offence, since it involves telling the partner that
 
 - requesting confirmation by the use of a question tag.
 
-> Nicaˈragua? | San Jo·se is in ˏCosta ˈRica, | ˏisn’t it?
+Nicaˈragua? | San Jo·se is in ˏCosta ˈRica, | ˏisn't it?
 
 ### 2 Be reluctant to say what may distress or displease the partner.
 
@@ -6135,69 +6324,69 @@ This applies to such functions as breaking bad news, expressing disagreement,
 
 <!-- page:98 -->
 
-<!-- vision: Threshold PDF leaf 105 = document p.99 | multipass ≥3 politeness maxims + intonation -->
+<!-- vision: leaf 105 doc p.99 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p105 page=93 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only; no ASCII ' as tone) -->
 
 declining offers and invitations, saying that the partner is obliged to do something, prohibiting and withholding permission, expressing displeasure, dislike, dissatisfaction, disappointment and disapproval. The maxim implies such strategies as:
 
 **a)** expressing reluctance;
 
-> I ˈdon’t ·want to comˈplain | but, …  
-> (e.g. this ·soup is ˋcold).
+I ˈdon't ·want to comˋplain | but, …
+(e.g. this ·soup is ˋcold).
 
-> I ˈdon’t ·want to be ˋdifficult | but …  
-> (e.g. this ma·chine doesn’t ˋwork).
+I ˈdon't ·want to be ˋdifficult | but …
+(e.g. this ma·chine doesn't ˋwork).
 
-> I ˈdon’t ·like ˋsaying so, | but …  
-> (e.g. the ·music is ˈtoo ˎloud).
+I ˈdon't ·like ˋsaying so, | but …
+(e.g. the ·music is ˈtoo ˎloud).
 
 **b)** seeking the partner’s agreement;
 
-> I ˈhope you ·don’t ·mind me ˋsaying so, | but …  
-> (e.g. ˈthose ˈcolours ·don’t ˎmix).
+I ˈhope you ·don't ·mind me ˋsaying so, | but …
+(e.g. ˈthose ˈcolours ·don't ˎmix).
 
-> ˈDon’t you aˎgree | that …  
-> (e.g. ˈthat ·colour is ·rather too ˎbright).
+> ˈDon't you aˎgree | that …
+(e.g. ˈthat ·colour is ·rather too ˎbright).
 
 **c)** apologising or expressing regret;
 
-> I’m ˋsorry, | but …  
-> (e.g. your ˈwork is ·not ˎgood e·nough).
+I'm ˋsorry, | but …
+(e.g. your ˈwork is ·not ˎgood e·nough).
 
-> I’m a·fraid …  
-> (e.g. you ˈhaven’t ·passed your eˎxam).
+I'm a·fraid …
+(e.g. you ˈhaven't ·passed your eˎxam).
 
 This is especially frequent in prohibitions and withholding permission.
 
-> I’m ˋsorry, | but you ˈcan’t ·leave toˈmorrow.  
-> I’m a·fraid you ˈcan’t ·smoke in ˋhere.
+I'm ˋsorry, | but you ˈcan't ·leave toˋmorrow.
+I'm a·fraid you ˈcan't ·smoke in ˋhere.
 
 **d)** using euphemisms;
 
-> e.g. Your ·work ˈisn’t ·very ˇgood …  
+e.g. Your ·work ˈisn't ·very ˇgood …
 > (= your work is bad).
 
-> I ˈcan’t ·say I ˇlike it …  
+I ˈcan't ·say I ˇlike it …
 > (= I dislike it).
 
 **e)** implying something unpleasant rather than stating it openly.
 
-> e.g. I’d ˇlike to ·help you …  
-> (implying but I can’t).
+e.g. I'd ˇlike to ·help you …
+> (implying but I can't).
 
-> Your i·deas are ˇinteresting …  
-> (implying but I don’t agree with them).
+Your i·deas are ˇinteresting …
+> (implying but I don't agree with them).
 
 Note the frequent use of falling–rising intonations.
 
 Expressing *disagreement* is likely to cause offence and to lead to conflict. The risk can be reduced by:
 
 - apologising for not agreeing;  
-  e.g. I’m ˋsorry, | but I ˈdon’t aˎgree.
+  e.g. I'm ˋsorry, | but I ˈdon't aˎgree.
 
 - expressing regret for not agreeing.  
-  e.g. I’m a·fraid that ˈisn’t ˎtrue.
+  e.g. I'm a·fraid that ˈisn't ˎtrue.
 
 ### 3 Do not force the partner to act.
 
@@ -6209,15 +6398,15 @@ Allow him/her to appear to act voluntarily. This maxim applies to the functions 
 
 <!-- page:99 -->
 
-<!-- vision: Threshold PDF leaf 106 = document p.100 | multipass politeness maxims + intonation -->
+<!-- vision: leaf 106 doc p.100 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p106 page=94 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 **a)** adding *please* when you call for action by the partner;
 
-> **i)** ˈWhere is the ˎtoilet, ·please?  (asking for information);  
-> **ii)** A reˈturn ·ticket to ˎLondon, ·please.  (requesting something);  
-> **iii)** ˈSit ˎdown, ·please.  (giving instructions, orders).
+**i)** ˈWhere is the ˎtoilet, ·please?  (asking for information);
+**ii)** A reˈturn ·ticket to ˎLondon, ·please.  (requesting something);
+**iii)** ˈSit ˎdown, ·please.  (giving instructions, orders).
 
 **b)** avoiding simple imperatives when asking the partner to do something for you. Instead,
 
@@ -6239,19 +6428,19 @@ Allow him/her to appear to act voluntarily. This maxim applies to the functions 
 
 **iii)** use warnings or advice
 
-> e.g. ˈDon’t for·get to ·post the ˋletter.  
-> If ˈI were ·you, | I’d ˈkeep your ˈeyes on the ˈroad.
+e.g. ˈDon't for·get to ·post the ˋletter.
+If ˋI were ·you, | I'd ˈkeep your ˈeyes on the ˋroad.
 
 **iv)** draw attention to the situation, inviting the partner to recognise that there is a problem that needs to be dealt with.
 
-> e.g. It’s ˈcold in ·here, | ˋisn’t it?  (= please close the window).  
-> I ˈcan’t ·open this ˎtin.  (= please open it for me).  
-> ˈDinner’s ˎready.  (= come and sit down to eat it).
+e.g. It's ˈcold in ·here, | ˋisn't it?  (= please close the window).
+I ˈcan't ·open this ˎtin.  (= please open it for me).
+> ˈDinner's ˎready.  (= come and sit down to eat it).
 
 Asking is a form of suasion, since the partner is asked to do something for you, namely provide information. *Wh* questions are normally accompanied by ‘please’. After the partner has replied it is normal to thank him/her for doing so.
 
-> ˈWhat’s the ˎtime, ·please?  
-> ˈTwelve oˎclock.  
+> ˈWhat's the ˎtime, ·please?
+> ˈTwelve oˎclock.
 > ˎThank you.
 
 *Offers and invitations* are very much subject to politeness conventions, but in a complex way, since they attempt to persuade the partner to act in a certain way, but in the interests of the partner rather than of the speaker. Invitations and offers may be strong or weak.
@@ -6260,8 +6449,8 @@ A ‘strong’ offer or invitation, making it easier for the partner to accept, 
 
 - by using an imperative as though it were an order;  
   e.g. ˈLet me ˎhelp you.  
-  ˈGive ˎme that ·case to ·carry.  
-  ˈCome and ·spend the ·day in ˎOxford.
+  > ˈGive ˎme that ·case to ·carry.
+  > ˈCome and ·spend the ·day in ˎOxford.
 
 <!-- el:end id=prose_p106 -->
 
@@ -6269,9 +6458,9 @@ A ‘strong’ offer or invitation, making it easier for the partner to accept, 
 
 <!-- page:100 -->
 
-<!-- vision: Threshold PDF leaf 107 = document p.101 | multipass politeness offers + intonation -->
+<!-- vision: leaf 107 doc p.101 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p107 page=95 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 - by expressing obligation or necessity;  
   e.g. You ˈmust let ˎme ·carry that ·case.
@@ -6280,49 +6469,49 @@ A ‘strong’ offer or invitation, making it easier for the partner to accept, 
   e.g. ˈPromise you will ·come to ˎdinner with us.
 
 - by demanding confirmation of an imputed intention.  
-  e.g. You ˎwill be our ˎguests, | ˎwon’t you?
+  e.g. You ˎwill be our ˎguests, | ˎwon't you?
 
 Note the use of low falling intonations with strong offers and invitations.
 
 A ‘weak’ offer or invitation makes it possible for the partner to decline:
 
 - by using an interrogative question regarding the partner’s intentions, desires, needs or ability.  
-  e.g. ˈAre you ·coming to ˎdinner?  
-  ˈWould you ·like some ˎhelp with that ·problem?  
-  ˈDo you ·need any ˎhelp?  
-  ˈCan you ·come to ·dinner next ˎWednesday?
+  e.g. ˈAre you ·coming to ˏdinner?  
+  > ˈWould you ·like some ˏhelp with that ·problem?
+  > ˈDo you ·need any ˏhelp?
+  > ˈCan you ·come to ·dinner next ˏWednesday?
 
 Especially weak are offers that:
 
 **a)** require the partner to admit that he/she is unable to refuse;
 
-> e.g. ˈCan you ˎmanage?  
-> ˈAre you ˎstuck?
+e.g. ˈCan you ˏmanage?
+> ˈAre you ˏstuck?
 
 **b)** are negatively phrased.
 
-> e.g. I ˈdon’t sup·pose you could ·do with some ˋhelp?  
-> ˈYou ˈdon’t re·quire asˎsistance, | ˎdo you?
+e.g. I ˈdon't sup·pose you could ·do with some ˋhelp?
+> ˈYou ˈdon't re·quire asˏsistance, | ˏdo you?
 
 Note the prevalence of rising intonation with weak offers. Strong offers can be accepted without demur, or confirmation can be invited:
 
-> e.g. ˈAre you ˎsure?  
-> ˈIs ·that ·all ˎright?
+e.g. ˈAre you ˏsure?
+> ˈIs ·that ·all ˏright?
 
 A weak offer or invitation is not usually accepted without demur. More commonly, a repeated offer is invited:
 
-> e.g. ˈWon’t that be ·too much ˎtrouble?  
-> ˈCan you ·spare the ˎtime?  
-> It’s very ˈheavy, | ·that ˎcase.
+e.g. ˈWon't that be ·too much ˏtrouble?
+> ˈCan you ·spare the ˏtime?
+It's very ˈheavy, | ·that ˎcase.
 
 or a weak rejection is offered:
 
-> e.g. ˈNo, ˎthank you, | I ˈdon’t want to ˋbother you.  
-> I’m ·sure you’re ˈmuch ·too ·busy.
+e.g. ˈNo, ˎthank you, | I ˈdon't want to ˋbother you.
+I'm ·sure you're ˈmuch ·too ·busy.
 
 This allows the partner to withdraw the offer or invitation:
 
-> e.g. ˈWell, | as a ˈmatter of ˋfact, | I ˈam ·rather ˎbusy.  
+e.g. ˈWell, | as a ˈmatter of ˋfact, | I ˈam ·rather ˎbusy.
 > ˎRight ·then. | So ˈlong as you can ˎmanage.
 
 <!-- el:end id=prose_p107 -->
@@ -6331,33 +6520,33 @@ This allows the partner to withdraw the offer or invitation:
 
 <!-- page:101 -->
 
-<!-- vision: Threshold PDF leaf 108 = document p.102 | multipass politeness closing + intonation -->
+<!-- vision: leaf 108 doc p.102 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p108 page=96 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 or to repeat it, usually in a stronger form:
 
-> e.g. ˋNo, | ˋreally. | I’d ˈlike to ·help.  
-> ˋNo, | ˋdo ·come. | We’d ˈvery ·much ˈlike you to ·come.
+e.g. ˋNo, | ˋreally. | I'd ˈlike to ·help.
+> ˋNo, | ˋdo ·come. | We'd ˈvery ·much ˈlike you to ·come.
 
 The declining of a strong invitation is usually accompanied by an apology, or a reason for declining an offer:
 
-> e.g. ·Well, ˈthank you, | but I’m ˋsorry, | I’m a·fraid I have aˈnother enˎgagement.  
-> ˈNo ˎthank you, | I ˈdon’t ˎsmoke.  
-> ˎThanks, | but it’s ˈeasier by myˎself.
+e.g. ·Well, ˈthank you, | but I'm ˋsorry, | I'm a·fraid I have aˈnother enˎgagement.
+> ˈNo ˎthank you, | I ˈdon't ˎsmoke.
+> ˎThanks, | but it's ˈeasier by myˎself.
 
 A suggestion for further contact, or even an invitation to visit, may be a polite or a well-intentioned way of ending a contact. Its formal acceptance need not entail a firm commitment on either side:
 
-> e.g. **A:** ˈDo ·visit us ·next ·time you’re in ·London.  
-> **B:** ˈThank you, | I ˈwill.
+e.g. **A:** ˈDo ·visit us ·next ·time you're in ·London.
+**B:** ˈThank you, | I ˋwill.
 
 Apologies are often called for in social life, for reasons ranging from the trivial and conventional to serious damage or inconvenience. For brushing against someone in passing a perfunctory apology is sufficient:
 
-> e.g. ˋSorry.
+e.g. ˋSorry.
 
 On the other hand, if damage or inconvenience are caused, as when you keep someone waiting for an appreciable time, the apology normally involves an explanation:
 
-> e.g. I’m ˈvery ˋsorry | to ·be so ˎlate. || I’m a·fraid I ˈmissed the ˎtrain.
+e.g. I'm ˈvery ˋsorry | to ·be so ˎlate. || I'm a·fraid I ˈmissed the ˎtrain.
 
 The politeness conventions described above are widely used and understood in English-speaking countries, especially between speakers in the roles characteristic of *Threshold Level*. A learner at *Threshold Level* should be able to recognise their use and to identify the attitudes and intentions of speakers who use them. Their appropriate use is, however, governed by such factors as:
 
@@ -6372,7 +6561,7 @@ The politeness conventions described above are widely used and understood in Eng
 
 <!-- page:102 -->
 
-<!-- vision: Threshold PDF leaf 109 = document p.103 | multipass Ch.12 Compensation strategies -->
+<!-- vision: leaf 109 doc p.103 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p109 page=97 -->
 
 ## 12 Compensation strategies
@@ -6397,7 +6586,7 @@ There is no direct relationship between these attitudinal aspects and specific a
 
 <!-- page:103 -->
 
-<!-- vision: Threshold PDF leaf 110 = document p.104 | multipass compensation strategies I–II -->
+<!-- vision: leaf 110 doc p.104 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p110 page=98 -->
 
 Like other aspects of communicative ability at *Threshold Level*, this may be described and listed in terms of what the learner can do, and supplemented with recommended exponents where this is appropriate. Because some items will require the fulfilling of particular language functions and the handling of particular notions, a partial overlap with other lists in the present objective is inevitable. A similar overlap will occur between the present list and that of the chapter on ‘dealing with texts’ (Chapter 9).
@@ -6424,9 +6613,9 @@ Like other aspects of communicative ability at *Threshold Level*, this may be de
 
 <!-- page:104 -->
 
-<!-- vision: Threshold PDF leaf 111 = document p.105 | multipass compensation strategies II–III + intonation -->
+<!-- vision: leaf 111 doc p.105 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p111 page=99 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 2. carry out the operation described in I.2, provided that the contextual clues are presented in such a way that they are recognisable as such and interpretable in linear sequence without necessitating backtracking and reconsideration of the context;
 
@@ -6440,8 +6629,8 @@ Like other aspects of communicative ability at *Threshold Level*, this may be de
 
 #### 1 introduce a rephrasing
 
-> (ˈSorry,) I’ll ˈstart aˎgain.  
-> (ˈSorry,) I’ll ˈtry to ·say that aˎgain.
+(ˋSorry,) I'll ˈstart aˎgain.
+(ˋSorry,) I'll ˈtry to ·say that aˎgain.
 
 #### 2 describe by means of paraphrase, particularly by using a general word (*person*, *thing*, etc.) or a superordinate, together with a qualification indicating:
 
@@ -6460,13 +6649,13 @@ Like other aspects of communicative ability at *Threshold Level*, this may be de
 
 #### 4 identify by indicating
 
-> one ·like ˎthat.  
-> I’d ·like ˎthis, ·please.
+one ·like ˎthat.
+I'd ·like ˎthis, ·please.
 
 #### 5 appeal for assistance
 
-> ˈWhat do you ˎcall ·that (a·gain)?  
-> I ˈdon’t ·know the ·English/-German, etc. ˎword.  
+> ˈWhat do you ˎcall ·that (a·gain)?
+I ˈdon't ·know the ·English/-German, etc. ˎword.
 > In [native language] we say …
 
 <!-- el:end id=prose_p111 -->
@@ -6475,16 +6664,16 @@ Like other aspects of communicative ability at *Threshold Level*, this may be de
 
 <!-- page:105 -->
 
-<!-- vision: Threshold PDF leaf 112 = document p.106 | multipass compensation strategies IV–V + intonation -->
+<!-- vision: leaf 112 doc p.106 | word-catalog multipass socio-appa -->
 <!-- el:start type=prose id=prose_p112 page=100 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 ### IV As a writer, the learner can:
 
 #### 1 express ignorance
 
-> I ˈdon’t ·know ·how to ˎsay it.  
-> I ˈdon’t ·know ·what you ˎcall it.
+I ˈdon't ·know ·how to ˎsay it.
+I ˈdon't ·know ·what you ˎcall it.
 
 #### 2 use the devices mentioned under III.2 and III.3;
 
@@ -6494,18 +6683,18 @@ Like other aspects of communicative ability at *Threshold Level*, this may be de
 
 #### 1 apologise for uncertainty or ignorance as to the accepted code of behaviour
 
-> I’m ˋsorry | I ˈdon’t/ˈdidn’t ˈknow …
+I'm ˋsorry | I ˈdon't/ˈdidn't ˈknow …
 
 #### 2 refer to what is customary in his/her own country
 
-> In ˈmy ·country we …
+In ˋmy ·country we …
 
 #### 3 ask for guidance
 
-> ˈHow is this ˎdone in ·your ·country?  
-> ˈHow should I ˎdo this?  
-> ˈWhat should I ˎdo?  
-> At ˈwhat ·time should I ˎcome?  
+> ˈHow is this ˎdone in ·your ·country?
+> ˈHow should I ˎdo this?
+> ˈWhat should I ˎdo?
+At ˈwhat ·time should I ˎcome?
 > etc.
 
 The above strategies and techniques are those that every learner at *Threshold Level* may be expected to be able to use together with the use of the language functions listed in section 6 of Chapter 5. In addition, each individual learner is likely to have other privileged devices at his or her disposal. They may, but will not necessarily, include such techniques as finding information in grammatical surveys, in general reference works, etc., and such strategies as using a synonym for an unknown word, allowing oneself to use grammatically imperfect forms, experimenting with word formation, foreignising a native-language form, etc. Which of these devices the learners are given opportunities to adopt cannot be laid down in a general objective but is to be left to those providing learning facilities.
@@ -6556,8 +6745,11 @@ Thus, in describing what learners should be able to do with and through the use 
 <!-- page:108 -->
 
 <!-- vision: Threshold PDF leaf 115 = document p.109 | multipass learning-to-learn I–II + intonation -->
+
+
+
 <!-- el:start type=prose id=prose_p115 page=103 -->
-<!-- intonation: marks per docs/library/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 3. The learners have insight into the degree of relevance to their communicative needs of the learning objective offered to them.
 
@@ -6567,8 +6759,8 @@ Thus, in describing what learners should be able to do with and through the use 
 
 6. The learners can describe, in general terms, additional objectives which will satisfy the needs referred to under 5 above and/or they can recognise the relevance to those needs of further objectives offered to them, for example:
 
-> I’d ˈlike to ·read ·articles about ecoˎnomics.  
-> I’d ˈlike to ·write ˎbusiness ·letters.
+> I'd ˈlike to ·read ·articles about ecoˎnomics.  
+> I'd ˈlike to ·write ˎbusiness ·letters.
 
 ### II Concerning learning processes
 
@@ -6751,9 +6943,9 @@ Some form of phonetic transcription conforming to the principles of the Internat
 
 ### Intonation
 
-The intonation of English (RP) is described in detail in such works as G. F. Arnold and J. D. O'Connor: *The Intonation of Colloquial English*. It is used by native speakers on the one hand to indicate the informational structure of sentences and on the other to express nuances of meaning, to indicate unspoken implications or reservations and to convey attitudes and emotional states. As such it plays a very important part in communication and is a frequent source of intercultural misunderstandings. Learners at Threshold Level should recognise and understand the most common intonations used in RP for such purposes. In their own speech they should organise the phrasing, stressing and rhythm of tone groups in accordance with RP norms, and employ rising and falling nuclei appropriately.
+The intonation of English (RP) is described in detail in such works as G. F. Arnold and J. D. OˈConnor: *The Intonation of Colloquial English*. It is used by native speakers on the one hand to indicate the informational structure of sentences and on the other to express nuances of meaning, to indicate unspoken implications or reservations and to convey attitudes and emotional states. As such it plays a very important part in communication and is a frequent source of intercultural misunderstandings. Learners at Threshold Level should recognise and understand the most common intonations used in RP for such purposes. In their own speech they should organise the phrasing, stressing and rhythm of tone groups in accordance with RP norms, and employ rising and falling nuclei appropriately.
 
-Where language forms are cited in this book (e.g. as exponents of language functions or examples of grammatical or lexical entries) the most common intonation pattern (not always the only one possible) is shown in accordance with the conventions shown below. These conventions are similar, but not identical, to those used by Arnold and O'Connor.
+Where language forms are cited in this book (e.g. as exponents of language functions or examples of grammatical or lexical entries) the most common intonation pattern (not always the only one possible) is shown in accordance with the conventions shown below. These conventions are similar, but not identical, to those used by Arnold and OˈConnor.
 
 A full treatment of English intonation is beyond the scope of this book. The most important features at Threshold Level are tone groups. For the most part, learners at Threshold Level will express themselves in fairly short simple sentences, each consisting of a single tone group. Within the tone group, stressed syllables are spoken in a regular rhythm, unstressed syllables being made to fit in between the beats. The stressed syllables of words which convey lexical information (mainly nouns, adjectives, principal verbs and adverbs) are given prominence in the intonation pattern, unless the information has already been mentioned or is obvious in context. In that case, whilst continuing to mark the rhythmic beat, they are not given pitch prominence. At
 
@@ -6763,365 +6955,407 @@ A full treatment of English intonation is beyond the scope of this book. The mos
 
 <!-- page:117 -->
 
+<!-- vision: leaf 124 doc p.118 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p124 page=118 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
-<!-- el:start type=prose id=prose_p124_app_a_nuclear page=118 -->
-<!-- db:id=threshold_appendix_a type=section product_tier=context pages=121-130 -->
+<!-- db:id=threshold_appendix_a type=section product_tier=context pages=118-124 -->
 
-Threshold Level, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its **nucleus**, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category.
+*Threshold Level*, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its **nucleus**, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category.
 
-<!-- el:start type=artifact id=threshold_appendix_a_nuclear_tones -->
-<!-- db:id=threshold_five_nuclear_tones type=section_block product_tier=context -->
+At *Threshold Level*, **five nuclear tones** should be distinguished:
 
-### Five nuclear tones
+<!-- el:start type=artifact id=threshold_appendix_a_nuclear_tones page=118 -->
+<!-- db:id=threshold_five_nuclear_tones type=section_block product_tier=context pages=118-123 -->
 
-**Critical notation — used throughout Threshold (and the paired 1990 book).**  
-Marks are placed **before** the nuclear syllable. Position above vs below the line of writing is distinctive.
+### Five nuclear tones (Threshold 1990)
 
-| # | Name | Mark | Position | Pitch |
-|---|------|------|----------|-------|
-| **1** | **Low falling** | **ˎ** | **Below** the line | Nuclear vowel starts clear **low-mid**; drops to **low creak**; stays low to end of tone group. |
-| **2** | **High falling** | **ˋ** | **Above** the line | Like low fall, but nuclear vowel starts **above mid**. |
-| **3** | **Low rising** | **ˏ** | **Below** the line | Starts **low level**; continuous upward glide **not above mid**. With a non-prominent “tail”, nucleus stays low and the **rise spans the tail**. |
-| **4** | **High rising** | **ˊ** | **Above** the line | Starts between **low and mid**; upward glide extends **well above mid**. |
-| **5** | **Falling-rising** | **ˇ** | **Above** the line (v-shaped) | High fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
+**Critical notation.** Marks are placed **before** the nuclear syllable. Above vs below the line of writing is distinctive.
 
-**Other marks in examples**
+| # | Name | Mark | Position | Pitch description |
+|---|------|------|----------|-------------------|
+| **1** | **Low falling** | **ˎ** | **Below** the line | Nuclear vowel starts on a clear, level **low-mid** tone; voice drops to a **low creaky** note and remains low to the end of the tone group. |
+| **2** | **High falling** | **ˋ** | **Above** the line | Like low fall, but nuclear vowel starts on a pitch **above the mid point**. |
+| **3** | **Low rising** | **ˏ** | **Below** the line | Nuclear vowel starts **low level**; continuous upward glide **not rising above mid**. If a non-prominent “tail” follows, nucleus stays low and the **rise spans the tail**. |
+| **4** | **High rising** | **ˊ** | **Above** the line | Nuclear vowel starts somewhere between **low and mid**; upward glide extends **well above mid**. |
+| **5** | **Falling-rising** | **ˇ** | **Above** the line (v-shaped) | Sequence of high fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
+
+**Other marks**
 
 | Mark | Meaning |
 |------|---------|
 | **ˈ** | Head (first prominent syllable; upright mark **above** the line) |
 | **·** | Stressed non-prominent syllable (rhythmic beat; mid-height dot) |
-| **|** | End of minor tone group |
-| **||** | End of major tone group |
+| **\|** | End of minor tone group |
+| **\|\|** | End of major tone group |
 
-**Examples** (mark immediately before the nuclear syllable):
+*Threshold Level* learners should be made aware of the following uses of nuclear tones and be stimulated to use them themselves as appropriate.
 
-- Low falling: ˈThis is a ˎdoor.
-- High falling: That's ˋexcellent!
-- Low rising: There's ˈno ·need to be ˏworried.
-- High rising: You were ·born in ˊScotland?
-- Falling-rising: That ·jug is ˇhot!
+#### 1 Low falling **ˎ** is used
 
+**a) in declarative sentences**
+
+i) for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);
+
+> ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
+
+ii) for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite
 <!-- el:end id=threshold_appendix_a_nuclear_tones -->
 
-
-At Threshold Level, five nuclear tones should be distinguished:
-
-1. **Low falling** — Marked by a left-to-right diagonal falling mark, **below** the line of writing, placed before the nuclear syllable (**ˎ**). The next syllable is stressed. Its vowel starts on a clear, level low-mid tone. The voice then drops to a low creaky note and remains on this low pitch until the end of the tone group.
-
-2. **High falling** — Similar to the low fall, except that the nuclear vowel starts on a pitch above the mid point. Marked by placing the mark **above** the line of writing (**ˋ**).
-
-3. **Low rising** — Rising mark placed before the nuclear syllable and **below** the line of writing (**ˏ**). Vowel starts on a clear, low level pitch; continuous upward glide, not rising above mid, until the end of the tone group. With a non-prominent “tail”, the nuclear syllable is spoken on a low level pitch and the rise spans the tail.
-
-4. **High rising** — Rising mark **above** the line of writing (**ˊ**). Nuclear vowel starts somewhere between low and mid-level; upward glide extends well above mid.
-
-5. **Falling-rising** — Sequence of 2 and 3. Nuclear vowel starts high-mid and drops to a low creak; upward glide follows, not above mid. V-shaped mark **above** the line before the nuclear syllable (**ˇ**).
-
-Threshold Level learners should be made aware of the following uses of nuclear tones and be stimulated to use them themselves as appropriate.
-
-### 1. Low falling **ˎ** is used
-
-#### a) in declarative sentences
-
-1. for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);
-
-   > ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
-
-2. for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
-
-   > That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
-
-#### b) in interrogative sentences answerable by *yes* or *no*
-
-1. in interrogation, to indicate that an answer is demanded;
-
-   > ˈHave you ·seen this ·man beˎfore?
-
-2. in requests to indicate that they are in effect orders;
-
-   > ˈMay I ·see your ·driving ·licence, ·please? ·Will you ˈplease be ˎquiet.
-
-3. when a series of *yes/no* questions is posed in rapid succession;
-
-   > ˈIs it ˎred? ˈCan you ˎeat it? ˈIs it a ˎcabbage?
-
-4. in tag questions, to invite agreement to a statement that is not in doubt;
-
-   > ˈThis ·tastes ˎnice, | ˎdoesn't it?
-
-5. in choice questions, to indicate that the list of options is closed.
-
-   > ˈWould you prefer ˎtea | or ˎcoffee?
-
-#### c) in *wh* questions
-
-as a definite request for a piece of information
-
-> ˈWhere is the ˎtoilet, ·please?
-
-#### d) in imperative sentences
-
-1. as a direct order or prohibition;
-
-   > ˈSit ˎdown. ˈDon't ·smoke in ˎhere, ·please.
-
-2. as an instruction;
-
-   > ˎPush to ˈopen the ˎdoor.
-
-3. as a strong form of offer.
-
-   > ˈHave ·one of ·my cigaˎrettes.
-
-### 2. High falling **ˋ** is used
-
-#### a) in declarative sentences
-
-1. in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;
-
-   > That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
-
-2. to indicate contrast with an element previously mentioned or believed to be in the listener's mind.
-
-   > ˋNo, | Mount ˋElburz is the ·highest ·mountain in ·Europe.
-
-#### b) in interrogative sentences, both *yes/no* and *wh*
-
-1. to insist on an answer being given;
-
-   > ˈDid you ˋpost ·that ·letter?
-
-2. to indicate surprise or irritation;
-
-   > ˈAre you ˋstill ·not ·ready?
-
-3. in rhetorical questions of an exclamatory type, to which no answer is sought;
-
-   > ˈIsn't she ˋbeautiful?
-
-4. in tag questions, to insist on the hearer's agreement to a proposition.
-
-   > I ˋtold ·you | ˋdidn't I?
-
-#### c) in imperative sentences
-
-1. to insist on an order or prohibition where compliance is in doubt;
-
-   > ˋStop it, I ·say. ˈDon't ˋlisten ·to him.
-
-2. to indicate the urgency of an instruction (e.g. because of imminent danger);
-
-   > ˋStop. ˈDon't ˋmove.
-
-3. to insist on the acceptance of an offer.
-
-   > ˈDo let me ˋhelp you.
-
-### 3. Low rising **ˏ** is used
-
-#### a) in declarative sentences
-
-1. (with preceding low pitches) to indicate difference or resentment, guardedness, suspicion;
-
-   > It ·doesn't ˏmatter. You ·shouldn't ·blame ˏme.
-
-2. (with preceding high pitch) to reassure.
-
-   > There's ˈno ·need to be ˏworried.
-
-#### b) in interrogative questions answerable by *yes* or *no*
-
-1. to ask politely for confirmation or disconfirmation (also in tag questions);
-
-   > You're ˈFrench, ˏaren't you?
-
-2. to make polite requests and offers;
-
-   > ˈWould you ·please ·open the ˏwindow? ˈCan I do ·anything to ˏhelp?
-
-3. in choice questions, to indicate that the list is open.
-
-   > ˈWould you ·like ˏtea | or ˏcoffee | or ·something ˏstronger?
-
-#### c) in *wh* questions
-
-1. to indicate polite interest rather than a need for information;
-
-   > ˈWhere are you ·spending your ˏholidays?
-
-2. to avoid the appearance of interrogation or peremptory questioning.
-
-   > ˈWhat are you ˏdoing ·there?
-
-#### d) in imperative sentences
-
-for gentle commands, especially to children, hospital patients, etc.
-
-> ˈCome and ·have your ·nice ˏbath. ˈJust ·drink this ˏmedicine ·nicely.
-
-### 4. High rising **ˊ** is used
-
-#### a) in declarative sentences (including isolated phrases and words used instead of full sentences)
-
-1. to convert a statement into a question;
-
-   > You were ·born in ˊScotland?
-
-2. to query what someone has said.
-
-   > You ·say you're ˊthirsty?
-
-#### b) in interrogative questions answerable by *yes* or *no*
-
-1. (with preceding low pitch) to indicate a casual enquiry;
-
-   > (Would you) ·care for a ˊsandwich?
-
-2. to repeat a question (with change of 1st and 2nd person) before answering.
-
-   > A ˊsandwich? Would I ·care for a ˊsandwich?
-
-#### c) in *wh* questions
-
-1. to repeat a question (with change of 1st and 2nd person) before answering;
-
-   > (ˈWhere do you ˏlive?) ·Where do I ˊlive?
-
-2. (with the *wh* word as nucleus) to ask for repetition of information given but not heard (or understood).
-
-   > (He ·lives in (unintelligible).)  
-   > He ·lives ˊwhere? ˈWhere does he ·live?
-
-#### d) in imperative sentences
-
-to repeat an order, instruction or offer while deciding whether or how to comply
-
-> (ˈSit ˏdown, ·please.) ·Sit ˊdown? | ˈWhy ˏnot?
-
-### 5. Falling–rising **ˇ** is used
-
-#### a) in declarative sentences to convey various implications
-
-1. warnings;
-
-   > That ·jug is ˇhot!
-
-2. corrections;
-
-   > Her ·dress ˈis ˇgreen, you know. | It ˈisn't ˇblue.
-
-3. demurral and limited agreement (with implied disagreement on the major issue);
-
-   > I ˈdon't ·know if I a·gree with ˇthat.  
-   > ˇYes, | he ˈis an ˇactive ·person.
-
-4. mental reservations in making promises;
-
-   > ˇYes, | I ˇwill be ·good. || At ·least, I'll ˇtry.
-
-5. uncertainty and hesitation;
-
-   > ·Yes ˇpossibly. | I ˈcan't be ˇcertain.
-
-6. to soften the effect of bad news, conflict of views, etc.;
-
-   > You ˈhaven't ·done very ˇwell, I'm a·fraid.  
-   > You're ˇwrong, you ·know.
-
-7. (with attached tag questions) anxious query;
-
-   > You ˈdo ˇlove me, ·don't you?
-
-8. discouragement of a possible course of action;
-
-   > You can ˈgo to the ·cinema if you ˇlike.
-
-9. tentative advice;
-
-   > If ˈI were ˇyou …
-
-10. implying that something has been left unsaid, which contrasts with, or contradicts what has been overtly stated;
-
-    > Your o·pinion is ˇinteresting. (implying: but I ˈdon't aˏgree with it).
-
-11. to query what has been said, implying that it is mistaken or untrue.
-
-    > ˈSeven ·eights are ·fifty ˇfour?
-
-#### b) in interrogative questions answered by *yes* or *no*
-
-1. to add a note of warning or doubt;
-
-   > Are you ˇsure you ·locked the ·door?
-
-2. when giving the answer to the question may be unwelcome to the person giving it.
-
-   > ˈHave you ·thought what might ·happen if you ˇdid?
-
-#### c) in *wh* questions
-
-1. to repeat a question, focusing on the key issue in contrast with other possible issues;
-
-   > ˈWhat did I ·do on ˇFriday of ·last ·week?
-
-2. (with the *wh* word as nucleus) to query a statement, implying scepticism regarding the element queried by the *wh* word employed.
-
-   > ˇWhere did he ·find your ·purse?
-
-#### d) in imperative sentences
-
-1. for issuing warnings rather than commands or instructions;
-
-   > ˈWatch where you're ˇgoing. ˈDon't ·try to ·pull the ˇdoor ·open.
-
-2. (with the imperative as nucleus) for pleading.
-
-   > ˇDo ·try to be a ·little more ·careful.
-
-Every tone group contains a **nucleus**. Many short utterances will comprise a single tone group, containing only one prominent syllable, which is then the nucleus of the tone group. Where there is more than one prominent syllable, the last of these is the nucleus and the first is the **head**. The head is usually marked by a jump up in pitch to a high-mid level and by an upright mark before the syllable, **above** the line (**ˈ**).
-
-Stressed non-prominent syllables are marked by a mid-height dot (**·**). Minor tone groups end with **|**; major tone groups with **||**.
-
-| Pattern | Non-final | Final | Example |
-| --- | --- | --- | --- |
-| Unemphatic, non-contrastive | low rising | low falling | ˈWhen you ·see John \| ˈtell him to ˎphone me.\|\| |
-| Contrasting | falling-rising | high falling | But ˈwhen you see ˇHarry \| ˈtell him I've ·left the ˋcountry.\|\| |
-| Main statement + modifier | low falling | low rising | I'm ˈleaving for ˋGermany \| on ˏFriday.\|\| |
-| Main statement + supplement | low fall | low fall | He ·lives in ˎLondon \| in a ˈsemi-de·tached ·house in ˎPeckham.\|\| |
-
-In all cases of apposition, the same nuclear tone is used for both tone groups. The word *too* similarly repeats the tone of its antecedent nucleus.
-
-> John ˎSmith, | a comˎputer ·programmer | ·lives in ˎCambridge, | a university ˎcity.||  
-> His ˈbrother ·lives ˎthere, | ˎtoo.||
-
-**Note.** In this document, **||** is omitted at the end of examples consisting of a single sentence.
-
-<!-- el:end id=prose_p124_app_a_nuclear -->
-
+<!-- el:end id=prose_p124 -->
 
 *Page **118***
 
 <!-- page:118 -->
 
+<!-- vision: leaf 125 doc p.119 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p125 page=113 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
+
+That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
+
+**b) in interrogative sentences answerable by *yes* or *no***
+
+i) in interrogation, to indicate that an answer is demanded;
+
+> ˈHave you ·seen this ·man beˎfore?
+
+ii) in requests to indicate that they are in effect orders;
+
+> ˈMay I ·see your ·driving ·licence, ·please? ·Will you ˈplease be ˎquiet.
+
+iii) when a series of *yes/no* questions is posed in rapid succession;
+
+> ˈIs it ˎred? ˈCan you ˎeat it? ˈIs it a ˎcabbage?
+
+iv) in tag questions, to invite agreement to a statement that is not in doubt;
+
+> ˈThis ·tastes ˎnice, | ˎdoesn't it?
+
+v) in choice questions, to indicate that the list of options is closed.
+
+> ˈWould you prefer ˎtea | or ˎcoffee?
+
+**c) in *wh* questions** as a definite request for a piece of information
+
+> ˈWhere is the ˎtoilet, ·please?
+
+**d) in imperative sentences**
+
+i) as a direct order or prohibition;
+
+> ˈSit ˎdown. ˈDon't ·smoke in ˎhere, ·please.
+
+ii) as an instruction;
+
+> ˎPush to ˈopen the ˎdoor.
+
+iii) as a strong form of offer.
+
+> ˈHave ·one of ˎmy ciga·rettes.
+
+#### 2 High falling **ˋ** is used
+
+**a) in declarative sentences**
+
+i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;
+
+That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
+
+ii) to indicate contrast with an element previously mentioned or believed to be in the listener’s mind.
+
+> ˋNo, | Mount ˋElburz is the ·highest ·mountain in ·Europe.
+
+**b) in interrogative sentences**, both those answerable by *yes* or *no* and *wh* questions
+
+i) to insist on an answer being given;
+
+> ˈDid you ˋpost ·that ·letter?
+
+<!-- el:end id=prose_p125 -->
+
 *Page **119***
 
 <!-- page:119 -->
+
+<!-- vision: leaf 126 doc p.120 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p126 page=114 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+ii) to indicate surprise or irritation;
+
+> ˈAre you ˋstill ·not ·ready?
+
+iii) in rhetorical questions of an exclamatory type, to which no answer is sought;
+
+> ˈIsn't she ˋbeautiful?
+
+iv) in tag questions, to insist on the hearer’s agreement to a proposition.
+
+I ˋtold ·you | ˋdidn't I?
+
+**c) in imperative sentences**
+
+i) to insist on an order or prohibition where compliance is in doubt;
+
+> ˋStop it, | ·say. ˈDon't ˋlisten ·to him.
+
+ii) to indicate the urgency of an instruction (e.g. because of imminent danger);
+
+> ˋStop. ˈDon't ˋmove.
+
+iii) to insist on the acceptance of an offer.
+
+> ˈDo let me ˋhelp you.
+
+#### 3 Low rising **ˏ** is used
+
+**a) in declarative sentences**
+
+i) (with preceding low pitches) to indicate difference or resentment, guardedness, suspicion;
+
+It ·doesn't ˏmatter. You ·shouldn't ·blame ˏme.
+
+ii) (with preceding high pitch) to reassure.
+
+There's ˈno ·need to be ˏworried.
+
+**b) in interrogative questions, answerable by *yes* or *no***
+
+i) to ask politely for confirmation or disconfirmation (also in tag questions);
+
+You're ˈFrench, ˏaren't you?
+
+ii) to make polite requests and offers;
+
+> ˈWould you ·please ·open the ˏwindow? ˈCan I do ·anything to ˏhelp?
+
+iii) in choice questions, to indicate that the list is open.
+
+> ˈWould you ·like ˏtea | or ˏcoffee | or ·something ˏstronger?
+
+**c) in *wh* questions**
+
+i) to indicate polite interest rather than a need for information;
+
+> ˈWhere are you ·spending your ˏholidays?
+
+ii) to avoid the appearance of interrogation or peremptory questioning.
+
+> ˈWhat are you ˏdoing ·there?
+
+<!-- el:end id=prose_p126 -->
 
 *Page **120***
 
 <!-- page:120 -->
 
+<!-- vision: leaf 127 doc p.121 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p127 page=115 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+**d) in imperative sentences** for gentle commands, especially to children, hospital patients, etc.
+
+> ˈCome and ·have your ·nice ˏbath. ˈJust ·drink this ˏmedicine ·nicely.
+
+#### 4 High rising **ˊ** is used
+
+**a) in declarative sentences** (including isolated phrases and words used instead of full sentences)
+
+i) to convert a statement into a question;
+
+You were ·born in ˊScotland?
+
+ii) to query what someone has said.
+
+You ·say you're ˊthirsty?
+
+**b) in interrogative questions answerable by *yes* or *no***
+
+i) (with preceding low pitch) to indicate a casual enquiry;
+
+(Would you) ·care for a ˊsandwich?
+
+ii) to repeat a question (with change of 1st and 2nd person) before answering.
+
+A ˊsandwich? Would I ·care for a ˊsandwich?
+
+**c) in *wh* questions**
+
+i) to repeat a question (with change of 1st and 2nd person) before answering;
+
+(ˈWhere do you ˎlive?) ·Where do I ˊlive?
+
+ii) (with the *wh* word as nucleus) to ask for repetition of information given but not heard (or understood).
+
+(He ·lives in (unintelligible).) He ·lives ˊwhere? ˊWhere does he ·live?
+
+**d) in imperative sentences** to repeat an order, instruction or offer while deciding whether or how to comply
+
+(ˈSit ˎdown, ·please.) ·Sit ˊdown? | ˈWhy ˏnot?
+
+#### 5 Falling-rising **ˇ** is used
+
+**a) in declarative sentences** to convey various implications
+
+i) warnings;
+
+That ·jug is ˇhot!
+
+ii) corrections;
+
+Her ·dress ˈis ˇgreen, you know. | It ˈisn't ˇblue.
+
+iii) demurral and limited agreement (with implied disagreement on the major issue);
+
+I ˈdon't ·know if I a·gree with ˇthat.
+> ˇYes, | he ˈis an ˇactive ·person.
+
+<!-- el:end id=prose_p127 -->
+
 *Page **121***
 
 <!-- page:121 -->
+
+<!-- vision: leaf 128 doc p.122 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p128 page=116 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+iv) mental reservations in making promises;
+
+> ˇYes, | I ˇwill be ·good. || At ·least, I'll ˇtry.
+
+v) uncertainty and hesitation;
+
+> ˇYes ˇpossibly. | I ˈcan't be ˇcertain.
+
+vi) to soften the effect of bad news, conflict of views, etc.;
+
+You ˈhaven't ·done very ˇwell, I'm a·fraid.
+You're ˇwrong, you ·know.
+
+vii) (with attached tag questions) anxious query;
+
+You ˈdo ˇlove me, ·don't you?
+
+viii) discouragement of a possible course of action;
+
+You can ˈgo to the ·cinema if you ˇlike.
+
+ix) tentative advice;
+
+If I were ˇyou …
+
+x) implying that something has been left unsaid, which contrasts with, or contradicts what has been overtly stated;
+
+Your o·pinion is ˇinteresting. (implying: but I ˈdon't agree with it).
+
+xi) to query what has been said, implying that it is mistaken or untrue.
+
+> ˈSeven ·eights are ·fifty ˇfour?
+
+**b) in interrogative questions answered by *yes* or *no***
+
+i) to add a note of warning or doubt;
+
+Are you ˇsure you ·locked the ·door?
+
+ii) when giving the answer to the question may be unwelcome to the person giving it.
+
+> ˈHave you ·thought what might ·happen if you ˇdid?
+
+**c) in *wh* questions**
+
+i) to repeat a question, focusing on the key issue in contrast with other possible issues;
+
+> ˈWhat did I ·do on ˇFriday of ·last ·week?
+
+ii) (with the *wh* word as nucleus) to query a statement, implying scepticism regarding the element queried by the *wh* word employed.
+
+> ˇWhere did he ·find your ·purse?
+
+**d) in imperative sentences**
+
+i) for issuing warnings rather than commands or instructions;
+
+> ˈWatch where you're ˇgoing. ˈDon't ·try to ·pull the ˇdoor ·open.
+
+ii) (with the imperative as nucleus) for pleading.
+
+> ˈDo ·try to be a ·little more ·careful.
+
+<!-- el:end id=prose_p128 -->
 
 *Page **122***
 
 <!-- page:122 -->
 
+<!-- vision: leaf 129 doc p.123 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p129 page=117 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+Every tone group contains a nucleus. Many short utterances will comprise a single tone group, containing only one prominent syllable, which is then the nucleus of the tone group. Where there is more than one prominent syllable, the last of these is the nucleus and the first is the **head**. The head is usually marked by a jump up in pitch to a high-mid level. The actual pitch varies from mid to high, depending on the attitude of the speaker towards what he is saying and towards the hearer. The higher the level, the more cheerful and friendly the speaker sounds. The (high) head is marked in the texts by an upright line before the syllable concerned, above the line of writing **ˈ**.
+
+Non-prominent syllables, stressed or unstressed, which precede the head, are spoken on a low mid pitch. Those following a high head are kept on the same level, or form a descending sequence. Those following the nucleus conform to the configuration of the nucleus, as elaborated above. Stressed non-prominent syllables are marked in texts by a dot raised to mid-letter height **·**. As stated, they mark rhythmic beats in the utterance, but have no effect on the pitch pattern. Non-prominent unstressed syllables are left unmarked.
+
+Many, perhaps most, short exchanges in conversation — especially the contributions of learners at *Threshold Level* — consist of single tone groups. Longer utterances may simply juxtapose tone groups as already described. However, compound (*and*, *but*, *either*, *or*) and complex (*if*, *because*, *when*) sentences may have two or more closely linked tone groups. Only in the last of these has the nucleus the functions listed above. The sequence is then termed a **major tone group**, and its completion is shown in a text with the mark **||**. The constituent **minor tone groups** are marked **|**. The following are the most common types of sequence, and should be within the productive and receptive competence of *Threshold Level* learners:
+
+#### 1 Unemphatic, non-constructive sentences
+
+| non-final | final group |
+|-----------|-------------|
+| low rising | low falling |
+
+> ˈWhen you ·see ˏJohn | ˈtell him to ˎphone me.||
+
+#### 2 Contrasting
+
+| | |
+|--|--|
+| falling-rising | high falling |
+
+But ˈwhen you see ˇHarry | ˈtell him I've ·left the ˋcountry.||
+
+#### 3 Main statement and modifier (non-contrastive)
+
+| | |
+|--|--|
+| low falling | low rising |
+
+I'm ˈleaving for ˎGermany | on ˏFriday.||
+
+#### 4 Main statement and supplement
+
+| | |
+|--|--|
+| low fall | low fall |
+
+He ·lives in ˎLondon | in a ˈsemi-de·tached ·house in ˎPeckham.||
+
+<!-- el:end id=prose_p129 -->
+
 *Page **123***
 
 <!-- page:123 -->
+
+<!-- vision: leaf 130 doc p.124 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p130 page=118 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
+
+#### 5 Apposition
+
+In all cases of apposition, the same nuclear tone is used for both tone groups. The word *too* similarly repeats the tone of its antecedent nucleus.
+
+> ˈJohn ˎSmith, | a comˎputer ·programmer | ·lives in ˎCambridge, | a uniˎversity ·city.||
+His ˈbrother ·lives ˋthere, | ˋtoo.||
+
+**Note.** In this document, **||** is omitted at the end of examples consisting of a single sentence.
+
+<!-- el:end id=prose_p130 -->
+
+*Page **124***
 
 <!-- page:124 -->
 
@@ -7284,6 +7518,9 @@ Mary’s feet, John’s mother, the secretary's boss, the actor's performance, e
 <!-- el:start type=prose id=prose_p134 page=128 -->
 <!-- vision: Threshold PDF page 134 -->
 
+
+
+
 A2_ Pronouns
 
 #### 2.1 Types of pronoun
@@ -7324,13 +7561,13 @@ At Threshold Level, learners should be able to use the pronouns he or she corres
 
 They should be aware of the traditional use of he/him/himselffhis to refer anaphorically to a non-sexspecific personal noun and also of the alternative use of the plural forms, which are not gender-marked.
 
-‘Good teachers | 'help their
+> ˈGood teachers | ˈhelp their
 
-«students to -pass their exami,nations as against
+«students to -pass their examiˎnations as against
 
-A'‘good ,teacher | 'helps his
+A''good ˎteacher | ˈhelps his
 
-«students to -pass their exami,nations.
+«students to -pass their examiˎnations.
 
 ### A3 Determiners
 
@@ -7346,7 +7583,7 @@ A'‘good ,teacher | 'helps his
 
 ##### 3.1.2 Use
 
-The ,sun is «shining.
+The ˎsun is «shining.
 
 <!-- el:end id=prose_p134 -->
 
@@ -7357,19 +7594,22 @@ The ,sun is «shining.
 <!-- el:start type=prose id=prose_p135 page=129 -->
 <!-- vision: Threshold PDF page 135 -->
 
+
+
+
 person or situation
 
 ‘Send for the doctor. (7.7.5)
 
-The “cow | ‘eats ,grass | and
+The ˇcow | ˈeats ˎgrass | and
 
--makes ,milk. (7.2.8)
+-makes ˎmilk. (7.2.8)
 
-'Italy is beautiful | and 'like the
+> ˈItaly is beautiful | and ˈlike the
 
 -country -very much.
 
-phrase or clause the 'man over ,there the 'woman | saw yesterday
+phrase or clause the ˈman over ˎthere the ˈwoman | saw yesterday
 
 ##### 3.2.1 forms
 
@@ -7383,9 +7623,9 @@ thing (6.8.2)
 
 There is a man out-side.
 
-‘May | -have an ,orange?
+> ˈMay | ·have an ˎorange?
 
--Take the -medicine 'twice a day
+-Take the -medicine ˈtwice a day
 
 “Apples | cost '35-p a pound.
 
@@ -7401,25 +7641,25 @@ some, any, no, every, much, many, more, most, several, few
 
 | 3.9 _ pre-determiners all (6.4.2)
 
-‘All the -guests have ar,rived. such @ (6.4.3)
+> ˈAll the -guests have arˎrived. such @ (6.4.3)
 
-He is 'such a strange -man.
+He is ˈsuch a strange -man.
 
 one, two, three, etc.
 
 first, second, third, etc.
 
-The 'pain is in the ‘other -leg.
+The ˈpain is in the ˈother -leg.
 
 ### A4 Adjectives
 
 ### 41 Participial
 
-a 'working mother
+a ˈworking mother
 
 ‘This novel | is boring.
 
-_ 4.1.2 _ past, passive Vinf + ed/en a'closed door
+_ 4.1.2 _ past, passive Vinf + ed/en aˈclosed door
 
 My ‘pen is ‘broken.
 
@@ -7442,6 +7682,9 @@ alive, all right, ill, well, so-so
 <!-- el:start type=prose id=prose_p136 page=130 -->
 <!-- vision: Threshold PDF page 136 -->
 
+
+
+
 married/single (7.1.7) . open/closed (6.5.1.12)
 
 4.3.2. gradable
@@ -7460,17 +7703,17 @@ adjectives (6.4.3, 6.7.4.2)
 
 ‘This -tastes like cheese.
 
-‘One ,car | is the 'same as another.
+> ˈOne ˎcar | is the ˈsame as another.
 
-‘That “stone | is as 'sharp as a knife.
+> ˈThat ˇstone | is as ˈsharp as a knife.
 
 4.4.2. comparative of inequality different (from) (6.7.4.1)
 
 Mal"tese | is ‘different from
 
-|,talian. not so + adj + as @ (6.7.4.2)
+|ˎtalian. not so + adj + as @ (6.7.4.2)
 
-“Wood | is 'not so ‘heavy as metal.
+> ˇWood | is ˈnot so ˈheavy as metal.
 
 regular forms
 
@@ -7478,21 +7721,21 @@ adj+er a ‘longer journey
 
 with -y) deleting -y and adding -ier the heavier -suitcase
 
-‘a'quieter room
+ˈaˈquieter room
 
 adjectives) more + adj a-more ‘comfortable chair
 
-un-) more + un-+adj alternatively a-more un'pleasant occu,pation less + positive adj a ‘less pleasant occu-pation
+un-) more + un-+adj alternatively a-more unˈpleasant occuˎpation less + positive adj a ˈless pleasant occu-pation
 
 regular forms
 
-adj+est the ‘oldest .man alive
+adj+est the ˈoldest ·man alive
 
 with -y) deleting -y and adding -jest the ‘earliest train
 
 adj+est the ‘bitterest pill
 
-adjectives) most + adj the 'most ‘useful dictionary
+adjectives) most + adj the ˈmost ˈuseful dictionary
 
 ##### 4.4.5 irregular comparatives
 
@@ -7594,17 +7837,17 @@ where (?)
 
 ‘Where is my pen?
 
-'This | is -where it is. r
+> ˈThis | is -where it is. r
 
 how (?) t
 
 ‘How do you know?
 
-| know | -how to ,do it.
+| know | -how to ˎdo it.
 
 why (?) (
 
-'Why did he go?
+> ˈWhy did he go?
 
 | know | -why he went. (
 
@@ -7822,9 +8065,9 @@ The -train will ar-rive at '10 p.m.
 
 ‘Are you listening to me? ;
 
-The 'car was waiting for us | when we ar'rived. ’
+The ˈcar was waiting for us | when we arˈrived. '
 
-We have ‘often been | to ,Paris.
+We have ˈoften been | to ˎParis.
 
 | had ‘never -seen her before.
 
@@ -7834,7 +8077,7 @@ of other combinations and understand their gist.
 
 I've been -waiting for a ‘long time.
 
-"If [had known, | | would have stold you. .
+> ˇIf [had known, | | would have stold you. .
 
 #### 7.5 Uses of be, have, and do .
 
@@ -7846,15 +8089,15 @@ adjective
 
 phrase (6.2.1)
 
-*Cornwall | is in the 'West of
+*Cornwall | is in the ˈWest of
 
-,England.
+> ˎEngland?
 
 Our guests are -here.
 
 There are '30 cows on the -farm.
 
-She is from 'New Zealand.
+She is from ˈNew Zealand.
 
 He is six.
 
@@ -7866,11 +8109,11 @@ to visit (6.2.1)
 
 She has ‘never -been to London.
 
-‘How -much are -those ,trousers?
+> ˈHow -much are -those ˎtrousers?
 
 participle (continuous aspect) (6.3.12, 13)
 
-She is 'reading a book.
+She is ˈreading a book.
 
 participle (passive voice) cf. A 7.7.9 below (5.3.7, 6.7.3)
 
@@ -7882,13 +8125,13 @@ the right to use the objects, accommodation, transport, services, etc. (6.7.5.1)
 
 They -have a ‘house in the country.
 
-He has a -name | ‘can’t pro,nounce. address (7.1.2)
+He has a -name | ˈcan't proˎnounce. address (7.1.2)
 
-They have an ad'dress in
+They have an adˈdress in
 
 \Mayfair. telephone number (7.1.3)
 
-We have a 'new telephone
+We have a ˈnew telephone
 
 <!-- el:end id=prose_p142 -->
 
@@ -7901,59 +8144,59 @@ We have a 'new telephone
 
 family (7.1.11)
 
-She has ‘four ,children | and ‘six
+She has ˈfour ˎchildren | and ˋsix
 
 \grandchildren. friends (7.6.1)
 
 We have ‘friends in Strasbourg. occupation (7.1.10) salary (7.3.3)
 
-She has a 'new job | anda
+She has a ˈnew job | anda
 
 ‘better salary. accommodation (7.2.1, 2)
 
 We have a ‘flat in Islington. pets (7.2.8)
 
-Our -daughter has a 'cat and a
+Our -daughter has a ˈcat and a
 
-,dog. hobbies (7.4.2)
+> ˎdog. hobbies (7.4.2)
 
-My -husband has an un'usual shobby. bank account (7.11.4), etc.
+My -husband has an unˈusual shobby. bank account (7.11.4), etc.
 
-They -say he has a 'bank ac-count in Switzerland. qualifications (7.8.3)
+They -say he has a ˈbank ac-count in Switzerland. qualifications (7.8.3)
 
-My 'son has a de-gree in economics.
+My ˈson has a de-gree in economics.
 
 (6.2.8), shape (6.5.1.1), taste (6.5.1.6), smell
 
 “Leaves | have ‘many -different colours, | , shapes | and sizes.
 
-The -plane has 'four engines. membership of clubs, parties, etc.
+The -plane has ˈfour engines. membership of clubs, parties, etc.
 
 Our -club has '2,-000 members
 
-We have guests | this ,weekenc
+We have guests | this ˎweekenc
 
 undergo a process or event, e.g. meals (7.3.1)
 
-We had a ‘good ,meal | -last night.
+We had a ˈgood ˎmeal | -last night.
 
-You 'must have a bath | or a
+You ˈmust have a bath | or a
 
 ‘good wash.
 
 leisure activities, hobbies (7.4)
 
-We are -having a ‘party | to,night. ‘Do ,come! holidays, travel (7.5)
+We are -having a ˈparty | toˎnight. ˈDo ˎcome! holidays, travel (7.5)
 
 ‘Have a -good -journey ,|home! ailments (7.7.4)
 
-She has a 'bad ,cold. operation (7.7.4)
+She has a ˈbad ˎcold. operation (7.7.4)
 
-‘When is she -having her oper,ation? appointments (7.7.5)
+> ˈWhen is she -having her operˎation? appointments (7.7.5)
 
-‘Have you an ap,pointment with the -doctor? education (7.8)
+> ˈHave you an apˎpointment with the -doctor? education (7.8)
 
-She ‘had her edu,cation | in
+She ˈhad her eduˎcation | in
 
 \France. weather (7.14)
 
@@ -7961,19 +8204,19 @@ We had a ‘thunderstorm | last night.
 
 | thave to go -now.
 
-They have 'gone a,way.
+They have ˈgone aˎway.
 
 ‘Why not have the garage
 
 «clean your -car?
 
-| 'have my -shirts -made in -Hong
+| ˈhave my -shirts -made in -Hong
 
-| ‘always -do the -washing-,up.
+| ‘always -do the -washing-ˎup.
 
-|. 7.5.3.2 pro-verb (6.8.1.2) lam sup'posed to ,rest | and! do.
+|. 7.5.3.2 pro-verb (6.8.1.2) lam supˈposed to ˎrest | and! do.
 
-Ido -like a -good ,wine!
+Ido -like a -good ˎwine!
 
 But | ‘did -tell you!
 
@@ -7986,31 +8229,31 @@ But | ‘did -tell you!
 <!-- el:start type=prose id=prose_p144 page=138 -->
 <!-- vision: Threshold PDF page 144 -->
 
-It 'doesn’t rain | in the ,desert.
+It ˈdoesn't rain | in the ˎdesert.
 
 ###### 7.5.3.6 interrogative (5.1.4)
 
-"Do you -eat cheese? 1
+> ˇDo you -eat cheese? 1
 
-You -work in an ‘office, | ,don’t you? ’
+You -work in an ˈoffice, | ˎdon't you? '
 
-Yes, | | do. ,No, | | don’t.
+Yes, | | do. ˎNo, | | don't.
 
 ‘Where do you live? ’
 
 invitations (5.3.10) ;
 
-‘Do -sit ,down!
+> ˈDo ·sit ˎdown!
 
 #### 7.6 Uses of modal auxiliaries
 
 This -actress can -sing ‘very well.
 
-‘Can you -do ,this -for me?
+> ˈCan you -do ˎthis -for me?
 
 ‘Can | help you? .
 
-'Can|,go now?
+> ˈCan|ˎgo now?
 
 It ‘cannot -snow | in “Ghana.
 
@@ -8020,7 +8263,7 @@ Mithri‘dates | could -speak
 
 ‘many languages. indirect speech (5.6.13.5) @
 
-| -said that you could 'come in.
+| -said that you could ˈcome in.
 
 ‘Could | be of -any help?
 
@@ -8034,11 +8277,11 @@ You could ‘easily get ‘lost | if you
 
 -went on foot.
 
-{t 'may ‘rain | this after,noon.
+{t ˈmay ˈrain | this afterˎnoon.
 
-‘May | -drive the ,car? including also: making introductions
+> ˈMay | -drive the ˎcar? including also: making introductions
 
-‘May | intro-duce my ,husband? wants and desires (5.2.23)
+> ˈMay | intro-duce my ˎhusband? wants and desires (5.2.23)
 
 ‘May | -watch television? asking someone for something (5.3.14)
 
@@ -8046,13 +8289,13 @@ You could ‘easily get ‘lost | if you
 
 ‘May || «say something?
 
-We 'might per-haps -go to
+We ˈmight per-haps -go to
 
 He «speaks ‘Flemish and
 
 He -must be ‘Belgian.
 
-We must all -die | 'sooner or later.
+We must all -die | ˈsooner or later.
 
 You must -eat ‘everything on your plate.
 
@@ -8065,7 +8308,7 @@ You must -eat ‘everything on your plate.
 <!-- el:start type=prose id=prose_p145 page=139 -->
 <!-- vision: Threshold PDF page 145 -->
 
-You must 'not -smoke in here.
+You must ˈnot -smoke in here.
 
 You ‘must -come and stay with us.
 
@@ -8077,21 +8320,21 @@ We shall be in ‘London | -next week.
 
 7.6.6.2. making an offer
 
-‘Shall | .cook the ,meal?
+> ˈShall | ·cook the ˎmeal?
 
 ‘Shall we -go to the theatre?
 
-He 'said it should be done.
+He ˈsaid it should be done.
 
 You should be careful.
 
-You should 'do your ,best.
+You should ˈdo your ˎbest.
 
 The ‘train should be ‘there | by snow.
 
-We should 'help our mothers.
+We should ˈhelp our mothers.
 
-The -sun will -rise at '6 a..m. to,morrow.
+The -sun will -rise at '6 a..m. toˎmorrow.
 
 certainty (5.2.9)
 
@@ -8105,13 +8348,13 @@ accepted or not (5.3.13)
 
 ‘Will you ‘visit us, -after -all?
 
-‘Will you -come to ,dinner with us?
+> ˈWill you -come to ˎdinner with us?
 
 dissatisfaction (5.2.35, 36)
 
 That will (‘not) do.
 
-To” morrow | will be 'warm and sunny.
+To" morrow | will be ˈwarm and sunny.
 
 I will go to ‘London | -next week.
 
@@ -8119,17 +8362,17 @@ The car -won't «start.
 
 Our -car will ‘only -run on leaded -petrol.
 
-The ,car -wouldn’t -start.
+The ˎcar -wouldn't -start.
 
 He ‘thought he would -go to
 
-‘London | the -next ,day.
+> ˈLondon | the -next ˎday.
 
-"Would you -like an -ice,cream?
+> ˇWould you ·like an -iceˎcream?
 
 ‘Would you -like to -come to -us for a meal?
 
-‘Would you -close the ,window,
+> ˈWould you -close the ˎwindow,
 
 If you ‘asked me, | | would
 
@@ -8146,13 +8389,13 @@ If you had “asked me, | | would have ‘come.
 
 If “I were -you, | I’d -go by ‘train.
 
-\'d 'rather -drink ‘coffee | than tea.
+\'d ˈrather -drink ˈcoffee | than tea.
 
 #### 7.7 Use of verb forms
 
 time reference (6.3.14)
 
-‘Cats and ,dogs | are animals.
+> ˈCats and ˎdogs | are animals.
 
 actions (6.3.12)
 
@@ -8162,33 +8405,33 @@ My ‘sister -works in a factory.
 
 etc. denoting future time
 
-The -train leaves | ,soon.
+The -train leaves | ˎsoon.
 
 (cf. A7.2.4.1 above) denoting: cognitive attitudes (5.2)
 
 | -think she is French. volition (5.2.23-27)
 
-He 'wants to -go to ,bed. emotions (5.2.29-44)
+He ˈwants to -go to ˎbed. emotions (5.2.29-44)
 
-I 'hope the -plane will leave on
+I ˈhope the -plane will leave on
 
 “time. sensory perception (6.5.1.4-7)
 
 ‘This -food tastes ‘good. reflection (6.6.1)
 
-I 'know you are tired. appearance (5.2.13)
+I ˈknow you are tired. appearance (5.2.13)
 
-He -seems to be a'sleep.
+He -seems to be aˋsleep.
 
 ###### 7.7.2.1 verbs denoting actions
 
 completed in a past period
 
-| saw 'Helen | yesterday.
+| saw ˈHelen | yesterday.
 
 questions which contained simple present verb forms
 
-He «said 'dogs and ,cats | were animals.
+He «said ˈdogs and ˎcats | were animals.
 
 He ‘asked if my -sister -worked in a factory.
 
@@ -8202,7 +8445,7 @@ As a “child, | | -lived in London. habitual actions
 
 ‘Last year, | | drove to -work every -day. stative verbs (cf. A 7.7.1.5 above)
 
-He ‘thought it was -time to ,go.
+He ˈthought it was -time to ˎgo.
 
 reference to the present time)
 
@@ -8214,7 +8457,7 @@ It has ‘stopped raining.
 
 action or state, beginning in the past, which is still continuing
 
-Ihave -known -Peter for 'ten years, | since | 'met him in
+Ihave -known -Peter for ˈten years, | since | ˈmet him in
 
 denotations as the present perfect, but with reference to a previous time)
 
@@ -8227,17 +8470,17 @@ denotations as the present perfect, but with reference to a previous time)
 <!-- el:start type=prose id=prose_p147 page=141 -->
 <!-- vision: Threshold PDF page 147 -->
 
-He had 'met Mary | -earlier that day.
+He had ˈmet Mary | -earlier that day.
 
-The ‘guests had ar,rived.
+The ˈguests had arˎrived.
 
-In 19°80, | when he “died, | ! had -known -Peter for 'ten years.
+In 19°80, | when he ˇdied, | ! had -known -Peter for ˈten years.
 
 reporting past statements an questions containing present perfect forms
 
 He ‘asked if she had -seen Mary
 
-She -said the 'guests had ar,rived.
+She -said the ˈguests had arˎrived.
 
 motion (6.3.11)
 
@@ -8249,7 +8492,7 @@ be + going to + infinitive lam -going to -sit here ‘all day.
 
 an action in progress at the time of speaking
 
-Our 'son is -sitting -quietly
+Our ˈson is -sitting -quietly
 
 -watching television.
 
@@ -8271,16 +8514,16 @@ He was going to -wait a ‘long time.
 
 She was ‘writing a letter | when the telephone -rang. d 7.7.6.5 continuity (6.3.18)
 
-He was 'still studying to -be a lawyer
+He was ˈstill studying to -be a lawyer
 
 The ‘students were -working as waiters.
 
 reporting past statements and
 
-  - `f questions containing present`
+ - ˈf questions containing present`
 continuous forms. @
 
-He .said it was 'still raining.
+He ·said it was ˈstill raining.
 
 The following uses are for
 
@@ -8290,11 +8533,11 @@ frame of reference @
 
 | have been -standing here since
 
-'six o'clock.
+> ˈsix o'clock.
 
 frame of reference @
 
-He had been -learning -French for 'ten years | and 'spoke it well. j 7.7.8.2 in indirect speech (6.3.18), reporting statements and questions containing verbs in the past continuous or
+He had been -learning -French for ˈten years | and ˈspoke it well. j 7.7.8.2 in indirect speech (6.3.18), reporting statements and questions containing verbs in the past continuous or
 
 . present perfect continuous @
 
@@ -8313,15 +8556,15 @@ He -said he had been -playing tennis (reporting either ‘I have been playing te
 
 A7.5.1.13 above): passive with by adjunct @
 
-He was 'warned by the police. . agentless passive J
+He was ˈwarned by the police. . agentless passive J
 
-My ,purse has been -stolen. F
+My ˎpurse has been -stolen. F
 
 corresponding to the direct object in an active sentence F
 
-The 'train was de-layed by fog. ‘ corresponding to the indirect object in an active sentence
+The ˈtrain was de-layed by fog. ' corresponding to the indirect object in an active sentence
 
-| was -given a'nother ,room | when | asked for it.
+| was -given aˈnother ˎroom | when | asked for it.
 
 ###### 7.7.9.3 Use
 
@@ -8329,19 +8572,19 @@ At Threshold Level learners should be able to understand passive sentences, e.g.
 
 *Smoking | is ‘not allowed. 8 permitted (5.2.19)
 
-‘Smoking is per,mitted. baked, boiled, fried, grilled g
+> ˈSmoking is perˎmitted. baked, boiled, fried, grilled g
 
-| pre'fer my -fish to be grilled. 8 included (7.10.2)
+| preˈfer my -fish to be grilled. 8 included (7.10.2)
 
 ‘Service is in-cluded in the , bill. seen (6.5.1.4), heard (6.5.1.5) 8
 
-‘Children | should be 'seen and
+> ˈChildren | should be ˈseen and
 
 -not heard. called (7.1.1) 8
 
 The ‘pub in our village | is called
 
-‘The 'King’s Head’. operated (up)on (7.7.4)
+> ˈThe ˈKing's Head'. operated (up)on (7.7.4)
 
 He was ‘operated (up)on for
 
@@ -8361,13 +8604,13 @@ See C 1 and D 1 below.)
 
 joining non-contrastive constituents of the same rank
 
-She is ‘always ,happy | and
+She is ˈalways ˎhappy | and
 
-,beautiful | and 'she and -I are in love | and in'tend to get
+> ˎbeautiful | and ˈshe and -I are in love | and inˈtend to get
 
 \Married. expressing sequence of actions
 
-He 'went to the ,station | and
+He ˈwent to the ˎstation | and
 
 ‘took the -train to London.
 
@@ -8375,19 +8618,19 @@ He 'went to the ,station | and
 
 He is intelligent | but lazy.
 
-He is in‘telligent | as 'well as active.
+He is inˈtelligent | as ˈwell as active.
 
-He is as 'strong as a horse.
+He is as ˈstrong as a horse.
 
-He -works as ‘hard as he ,can.
+He -works as ˈhard as he ˎcan.
 
 .1.2.1 or (inclusive)
 
-‘This -play is 'good for ,children | or older -people.
+> ˈThis -play is ˈgood for ˎchildren | or older -people.
 
 .1.2.2 or (exclusive)
 
-‘Are you ,married | or single?
+> ˈAre you ˎmarried | or single?
 
 ### 2 Subordinating (cf. C2 below)
 
@@ -8406,13 +8649,13 @@ I hope that he will come.
 
 before (6.3.7), since, until
 
-He ‘left before | ar,rived.
+He ˈleft before | arˎrived.
 
 preposition + which
 
 The ‘town where/in which | live is in Dorset.
 
-"Teach me -how you -make an omelette.
+> ˇTeach me -how you -make an omelette.
 
 | know how -hard you work.
 
@@ -8422,17 +8665,17 @@ We are glad | be-cause the sur is -shining.
 
 so (+ adj + that)
 
-It was 'so ,hot | that | 'took off my ,coat. or It was hot, | so!
+It was ˈso ˎhot | that | ˈtook off my ˎcoat. or It was hot, | so!
 
 ‘took off my coat.
 
-If it ‘doesn’t ,rain, | we'll -go fishing.
+If it ˈdoesn't ˎrain, | we'll -go fishing.
 
 whom, that, which, whose
 
 ‘What you -say interests me.
 
-| know | -who you ,mean.
+| know | -who you ˎmean.
 
 B_ Phrase level
 
@@ -8460,21 +8703,21 @@ denoting: colour (6.5.1.9)
 
 | pre-fer ‘leather-shoes. days, months (6.3.2, 6.3.3)
 
-To-morrow is 'Tuesday the
+To-morrow is ˈTuesday the
 
 -fourth of April. drinks (7.10.1)
 
 ‘Beer tastes bitter. foodstuffs (7.10.1)
 
-, | ‘don’t ‘eat | ,meat. meals (7.3.1, 7.10.1)
+, | ˈdon't ˈeat | ˎmeat. meals (7.3.1, 7.10.1)
 
 ‘What is for lunch to-day? festivals (6.3.3)
 
 ‘Easter is early | -this year. numerals (6.4.1)
 
-‘Three and ,eight | make e,leven. abstracts (7.8)
+> ˈThree and ˎeight | make eˎleven. abstracts (7.8)
 
-Edu'cation is im,portant. arts, sports, games (7.4.2)
+Eduˈcation is imˎportant. arts, sports, games (7.4.2)
 
 | pre-fer ‘music | or ‘chess | to football. vehicles seen as means of
 
@@ -8486,15 +8729,15 @@ Edu'cation is im,portant. arts, sports, games (7.4.2)
 
 above) + determiner + noun
 
-‘Did she -eat -all the ,cakes?
+> ˈDid she -eat -all the ˎcakes?
 
 determiner + post determiner
 
-Is 'this your -first ,visit to -Britain?
+Is ˈthis your -first ˎvisit to -Britain?
 
 (determiner +) (postdeterminer +) adjective(s) + noun
 
-She was -wearing a 'nice -new
+She was -wearing a ˈnice -new
 
 -white dress.
 
@@ -8509,21 +8752,21 @@ She was -wearing a 'nice -new
 
 degree (6.4.3) + adjective + noun
 
-‘Chess is a 'very different
+> ˈChess is a ˈvery different
 
 adverb + adjective + noun
 
 He is a ‘happily -married man.
 
-‘Do you -know the -way ,back?
+> ˈDo you ·know the -way ˎback?
 
-The ‘chair in the ,bedroom | is
+The ˈchair in the ˎbedroom | is
 
-\-need a 'clean shirt to -wear.
+\-need a ˈclean shirt to -wear.
 
 ‘Jane, | I'd -like you to -meet a
 
-‘very -nice -young ,man | -know.
+> ˈvery -nice -young ˎman | -know.
 
 ##### 1.1.11 NP denoting container (6.4.2)
 
@@ -8531,21 +8774,21 @@ or measure (6.2.8.2, 4, 5, 6.4.2)
 
 + of + NP denoting mass substances, materials or plurals
 
-I'd -like a ‘pound of ,apples | and a ‘large -bottle of -dry -white wine.
+I'd -like a ˈpound of ˎapples | and a ˈlarge -bottle of -dry -white wine.
 
 1.2. Use of noun phrases
 
-The 'young ,woman | 'ran a,way.
+The ˈyoung ˎwoman | ˈran aˎway.
 
 verb (6.7.3.2)
 
-We .won | the football -match.
+We ·won | the football -match.
 
 giving (6.7.3.3)
 
-| ‘gave my ,sister | a 'C,D -player.
+| ˈgave my ˎsister | a ˈCˎD -player.
 
-We -went to a 'fine -old house.
+We -went to a ˈfine -old house.
 
 #### 1.3 Use
 
@@ -8557,13 +8800,13 @@ At Threshold Level, learners should be able to understand all the types of noun 
 
 B 1.1.7 and 1.1.8 above)
 
-This -food is 'not good e-nough.
+This -food is ˈnot good e-nough.
 
-"Smoking is bad for you.
+> ˇSmoking is bad for you.
 
 adjective + complement phrase or clause (cf. C 2.1.1.1 below)
 
-“Apples | are 'good to eat.
+> ˇApples | are ˈgood to eat.
 
 It is ‘probable that he will come.
 
@@ -8608,7 +8851,7 @@ At Threshold Level, learners should be able to understand the above types of pro
 
 ### 41 Forms containing one main
 
-The ,train ar-rived.
+The ˎtrain ar-rived.
 
 ‘This animal | is a dog.
 
@@ -8618,28 +8861,28 @@ object (6.7.3.2)
 
 object (6.7.3.2) + NP indirect object (6.7.3.3)
 
-| 'showed the -letter to his
+| ˈshowed the -letter to his
 
 I gave -John the -letter for
 
-  - `s (+ instrumental 6.7.3.4)`
--Susan ‘opened the ,door for me | with her key.
+ - ˈs (+ instrumental 6.7.3.4)`
+-Susan ˈopened the ˎdoor for me | with her key.
 
 ‘He and || | ‘always agree.
 
-He 'walked ,home a-gain | ‘very slowly -afterwards.
+He ˈwalked ˎhome a-gain | ˈvery slowly -afterwards.
 
-She is ‘very in,telligent.
+She is ˈvery inˎtelligent.
 
 The ‘fork is here.
 
 The ‘cup is on the , table.
 
-She -seems a 'nice girl.
+She -seems a ˈnice girl.
 
 4.1.11. stative verb + adjectival phrase
 
-The -fish -tastes ‘very ,nice.
+The -fish -tastes ˈvery ˎnice.
 
 adverbial particle (phrasal
 
@@ -8668,17 +8911,17 @@ auxiliary or pro-verb only
 
 ### 43 Pro-verb phrase do so
 
-He 'asked me to stop | and | did so.
+He ˈasked me to stop | and | did so.
 
 ### 44 Nominalised verb phrases
 
-| 'want to -go home.
+| ˈwant to -go home.
 
 | don’t -know ‘what to do.
 
 ##### 4.4.3 VP gerund
 
-I'like «swimming in the sea.
+Iˈlike «swimming in the sea.
 
 #### 4.5 Use of nominalised verb
 
@@ -8686,9 +8929,9 @@ To ‘kill -people | is wrong.
 
 adjectives (cf. A 4.5 above) of probability (5.2.9, 10)
 
-It is ‘likely to ,rain to-morrow. of certainty (5.2.13, 14)
+It is ˈlikely to ˎrain to-morrow. of certainty (5.2.13, 14)
 
-He is ex'pected to ar-rive late. of evaluation (6.5.2)
+He is exˈpected to ar-rive late. of evaluation (6.5.2)
 
 Itis ‘wrong to kill -people. denoting emotional states
 
@@ -8696,19 +8939,19 @@ Itis ‘wrong to kill -people. denoting emotional states
 
 This -bed is soft to -lie on. denoting moral qualities
 
-It is ‘kind of you | to in,vite us. denoting order (6.3.9)
+It is ˈkind of you | to inˎvite us. denoting order (6.3.9)
 
 They are ‘always the last to ar-rive. denoting availability (6.1.3)
 
-‘Is the -food -ready to ,eat?
+> ˈIs the -food -ready to ˎeat?
 
 degree (6.4.3) enough
 
-The 'tea is now -cool e-nough to drink. 'Have you had e-nough to eat?
+The ˈtea is now -cool e-nough to drink. ˈHave you had e-nough to eat?
 
 My -grandfather is ‘too old | to travel. very
 
-This -case is 'very heavy to -carry.
+This -case is ˈvery heavy to -carry.
 
 complementising verbs (cf. A 7.1.7 above) forget, remember
 
@@ -8716,13 +8959,13 @@ complementising verbs (cf. A 7.1.7 above) forget, remember
 
 | ‘want to be-come a doctor. verbs expressing emotions
 
-| hope to ,pass the exami-nation. commencement (6.3.24)
+| hope to ˎpass the exami-nation. commencement (6.3.24)
 
-It is be'ginning to ,rain. suasion (6.6.2)
+It is beˈginning to ˎrain. suasion (6.6.2)
 
 ‘Tell him to -come here. appearance (5.2.13)
 
-She 'seems to be a,sleep.
+She ˈseems to be aˎsleep.
 
 pronoun (6.8.2)
 
@@ -8730,23 +8973,23 @@ pronoun (6.8.2)
 
 adverb (6.8.2)
 
-\ have 'nowhere to sleep.
+\ have ˈnowhere to sleep.
 
 complementising adjectives certain (5.2.13)
 
-‘Are you -certain -where to ,go?
+> ˈAre you -certain -where to ˎgo?
 
 complementising verbs denoting cognitive attitudes
 
-‘Do you -know -where to ,go?
+> ˈDo you ·know -where to ˎgo?
 
 ‘Teach me -how to swim.
 
 4.5.3. VP gerund
 
-‘Swimming in the ,sea | 'can be
+> ˈSwimming in the ˎsea | ˈcan be
 
-,dangerous.
+> ˎdangerous.
 
 <!-- el:end id=prose_p152 -->
 
@@ -8779,7 +9022,7 @@ He -drove ‘very fast.
 
 5.2. comparative of equality/inequality
 
-He -did as 'well as he could.
+He -did as ˈwell as he could.
 
 5.3. prepositional phrase(s)
 
@@ -8791,14 +9034,14 @@ I quite en joy | -travelling by air. stop, finish (6.3.25)
 
 At ‘last it has -stopped , raining
 
-little ,children.
+little ˎchildren.
 
-‘Don't ,leave | without 'paying the bill. id be able to understand the verb phrases oductively as exponents of the functional in Chapters 5, 6 and 7. It will be seen that
+> ˈDon't ˎleave | without ˈpaying the bill. id be able to understand the verb phrases oductively as exponents of the functional in Chapters 5, 6 and 7. It will be seen that
 
-  - `s everything in the sentence apart from the`
+ - ˈs everything in the sentence apart from the`
 great complexity. The ability of learners at ex syntactic structures receptively is limited em very much more so, Whilst it is not mbinations a learner at Threshold Level will be beyond the relatively fixed collocations
 
-  - `s of particular functions, it is recommended`
+ - ˈs of particular functions, it is recommended`
 id be spread over a number of relatively e of conversation, a number of relatively partners in turn, rather than organised into ences,
 
 B6__ Preposition phrase
@@ -8822,13 +9065,13 @@ The ‘plates are at the -back of the cupboard.
 <!-- el:start type=prose id=prose_p154 page=148 -->
 <!-- vision: Threshold PDF page 154 -->
 
-‘Put the ,knife | to the 'side of the plate.
+> ˈPut the ˎknife | to the ˈside of the plate.
 
-Their -house is at the 'end of the road.
+Their -house is at the ˈend of the road.
 
 The ‘fridge is to the -right of the
 
-,washing-ma-chine.
+> ˎwashing-ma-chine.
 
 ‘Sonning is in the
 
@@ -8836,7 +9079,7 @@ The ‘fridge is to the -right of the
 
 6.2. Adverb and preposition
 
-We ‘live -next to an ,actor.
+We ˈlive -next to an ˎactor.
 
 The -house is ‘not -far from the shops.
 
@@ -8852,15 +9095,15 @@ functions
 
 sentence (See D 1.1 below.)
 
-| will ‘come -home ,soon.
+| will ˈcome -home ˎsoon.
 
 a compound sentence
 
-My work is 'nearly finished | and
+My work is ˈnearly finished | and
 
 Iwill ‘come home | soon.
 
-I will ‘come ,home | when my
+I will ˈcome ˎhome | when my
 
 \work is finished.
 
@@ -8880,9 +9123,9 @@ subordinate clauses
 
 of probability (5.2.9, 10)
 
-It is ‘likely that it will snow | to,night. certainty (5.2.13, 14)
+It is ˈlikely that it will snow | toˎnight. certainty (5.2.13, 14)
 
-It is ex'pected that the -teachers will strike. evaluation (6.5.2)
+It is exˈpected that the -teachers will strike. evaluation (6.5.2)
 
 It is ‘good that he has come.
 
@@ -8890,9 +9133,9 @@ complementising verbs matter (5.2.39)
 
 It doesn’t matter | that she is
 
--not ,here. surprise (5.2.41)
+-not ˎhere. surprise (5.2.41)
 
-It sur'prises me | that he has left al-ready.
+It surˈprises me | that he has left al-ready.
 
 noun phrases
 
@@ -8900,11 +9143,11 @@ It is a ‘pity | (that) they cannot
 
 complementising adjectives
 
-(cf. A4.5 above) certainty (5.2.13, 14) lam 'sure (that) he will come. denoting emotional states
+(cf. A4.5 above) certainty (5.2.13, 14) lam ˈsure (that) he will come. denoting emotional states
 
 (5.2.29-50) lam sorry | (that) she is ill. expressing surprise (5.2.41)
 
-1am sur'prised | (that) he "loves
+1am surˈprised | (that) he ˇloves
 
 <!-- el:end id=prose_p154 -->
 
@@ -8917,21 +9160,21 @@ complementising adjectives
 
 complementising verbs cf. 47.1.7 above) reporting (5.1.2)
 
-He -said that the -food was 'very good. knowing (5.2.5, 6)
+He -said that the -food was ˈvery good. knowing (5.2.5, 6)
 
 | know (that) she -works in an
 
-Office. remembering (5.2.7, 8) tre'member (that) he is -very ,tal expressing certainty (5.2.13,
+Office. remembering (5.2.7, 8) treˈmember (that) he is -very ˎtal expressing certainty (5.2.13,
 
-Do you 'think (that) it will be ifoggy? expressing hope (5.2.44)
+Do you ˈthink (that) it will be ifoggy? expressing hope (5.2.44)
 
-Ido -hope | (that) you will .com to ,dinner.
+Ido -hope | (that) you will ·com to ˎdinner.
 
 following verbs of: asking
 
-She ‘asked if he was ,ready yet. wondering
+She ˈasked if he was ˎready yet. wondering
 
-| 'wonder if you could help me. knowing
+| ˈwonder if you could help me. knowing
 
 | ‘don't -know if you will like this.
 
@@ -8939,21 +9182,21 @@ She ‘asked if he was ,ready yet. wondering
 
 ‘What | like | is ‘watching football.
 
-This is '‘not what | ex,pected | or
+This is ˈnot what | exˎpected | or
 
 following verbs of: asking
 
 | ‘asked him -where he was going. wondering
 
-| ‘wonder where my ,keys are. telling
+| ˈwonder where my ˎkeys are. telling
 
-| 'told him when the -train was leaving.
+| ˈtold him when the -train was leaving.
 
 remembering
 
-Ihave for'gotten | -when he was jborn. knowing
+Ihave forˈgotten | -when he was jborn. knowing
 
-| 'don't -know ‘why | he ,left her.
+| ˈdon't -know ˈwhy | he ˎleft her.
 
 ‘What interests me | is politics.
 
@@ -8979,7 +9222,7 @@ smoke. suasion (6.6.2)
 
 -here. cognition (5.2.5-8) @
 
-I 'know him to be a kind -man.
+I ˈknow him to be a kind -man.
 
 2.1.7. NP+VP gerund
 
@@ -8989,11 +9232,11 @@ remembering (5.2.7, 8) tre'member my brother being
 
 I hate -insects -eating my
 
-,vegetables.
+> ˎvegetables.
 
 ##### 2.1.8 NP (+ tobe) + adjective @
 
-| pre'fer -water (to be) boiled.
+| preˈfer -water (to be) boiled.
 
 <!-- el:end id=prose_p155 -->
 
@@ -9006,7 +9249,7 @@ I hate -insects -eating my
 
 complementising verbs of reflection (6.6.1)
 
-(‘Will he ,come?) | ‘hope/’think/ believe so. of expression (6.6.2)
+(ˈWill he ˎcome?) | ˈhope/ˈthink/ believe so. of expression (6.6.2)
 
 2.2. Adjectival (relative) clauses
 
@@ -9022,27 +9265,27 @@ This is the -man who lives with me.
 
 preposition
 
-"Joe's a -man (who/that) | -play
+> ˇJoe's a -man (who/that) | -play
 
 \tugby with.
 
-The 'man whose -daughter
+The ˈman whose -daughter
 
 -taught me French has -just
 
 ‘This is a -colleague whose -wife | strained as a nurse.
 
-| 'read a -book which/that ex-plains -nuclear physics.
+| ˈread a -book which/that ex-plains -nuclear physics.
 
-‘Have you seen the ,car which/that | -bought?
+> ˈHave you seen the ˎcar which/that | -bought?
 
 Is ‘that the -best (that) you can
 
 relative clauses
 
-| 'do not buy -books which are boring. (i.e. |only buy interesting books.)
+| ˈdo not buy -books which are boring. (i·e. |only buy interesting books.)
 
-| 'do not buy ,books, | which are boring. (i.e. |do not buy any books, because all books are boring.)
+| ˈdo not buy ˎbooks, | which are boring. (i·e. |do not buy any books, because all books are boring.)
 
 2.3. Adverbial clauses
 
@@ -9050,19 +9293,19 @@ It hurts where | -put my finger.
 
 ‘Please come when | -call you
 
-It is quiet -here | since ,lan -left.
+It is quiet -here | since ˎlan -left.
 
 6.3.25) until @/till
 
 Iwill (‘not) sleep | un'ti/till he re.turns.
 
-The ‘accident -happened be-fore lar,rived.
+The ˈaccident -happened be-fore larˎrived.
 
-‘After we -finished ,eating, | we
+> ˈAfter we -finished ˎeating, | we
 
 ‘paid the bill.
 
-"Tell me as -soon as the -boat
+> ˇTell me as -soon as the -boat
 
 <!-- el:end id=prose_p156 -->
 
@@ -9073,27 +9316,27 @@ The ‘accident -happened be-fore lar,rived.
 <!-- el:start type=prose id=prose_p157 page=151 -->
 <!-- vision: Threshold PDF page 157 -->
 
-There will be a 'short de, lay | while we 'check the ,plane.
+There will be a ˈshort de, lay | while we ˈcheck the ˎplane.
 
 | eat brown -bread | be-cause it is good for me.
 
 ‘As he was , tired, | he ‘lost the
 
-‘Since you are sorry, | I'll for,give you.
+> ˈSince you are sorry, | I'll forˎgive you.
 
-He 'turned ,right, | so he ‘lost hi way.
+He ˈturned ˎright, | so he ˈlost hi way.
 
-The -suitcase was 'so ,heavy |
+The -suitcase was ˈso ˎheavy |
 
-"If you like, | you can «come | too.
+> ˇIf you like, | you can «come | too.
 
 ###### 2.3.3.7 comparison (6.7.4.2) than
 
-The -tea is ‘stronger than | had ex,pected. as..as@
+The -tea is ˈstronger than | had exˎpected. as..as@
 
 He -works as ‘hard as he can. not so ..as@
 
-He is 'not so in,telligent | as he thinks he -is.
+He is ˈnot so inˎtelligent | as he thinks he -is.
 
 D_ Sentence level
 
@@ -9115,7 +9358,7 @@ consisting of a main clause + one or more subordinate clauses (cf. C 1.2 above)
 
 #### 2.1 Declarative
 
-The 'tourists -ate their sandwiches.
+The ˈtourists -ate their sandwiches.
 
 NP + do + VP infinitive
 
@@ -9133,13 +9376,13 @@ infinitive
 
 It ‘doesn’t -rain in the Sa-hara
 
-He 'can't speak “French.
+He ˈcan't speak ˇFrench.
 
 pronouns, adverbs, etc. (6.8.2)
 
 ‘Nobody likes me.
 
-‘Old soldiers | 'never die.
+> ˈOld soldiers | ˈnever die.
 
 <!-- el:end id=prose_p157 -->
 
@@ -9158,13 +9401,13 @@ He ‘won't -eat anything.
 
 #### 2.2 Interrogative
 
-‘Are you ,ready?
+> ˈAre you ˎready?
 
 ‘Haven't you -been to Italy?
 
 infinitive
 
-‘Don’t you -eat ,meat?
+> ˈDon't you -eat ˎmeat?
 
 ‘Can | help you?
 
@@ -9174,15 +9417,15 @@ You're ‘ready?
 
 negative tag question with falling intonation conducive to the answer ‘yes’
 
-You ‘are ,coming, | ,aren’t you? with low-rising intonation non-conductive
+You ˈare ˎcoming, | ˏaren't you? with low-rising intonation non-conductive
 
-You are German, | ,aren’t you?
+You are German, | ˏaren't you?
 
 ###### 2.2.1.5 negative sentence + positive
 
 tag with falling intonation conducive to the answer ‘no’
 
-You 'don't a,gree with her, | do you? with low-rising intonation, non-conducive
+You ˈdon't aˎgree with her, | do you? with low-rising intonation, non-conducive
 
 Jane ‘hasn't left yet, | has she?
 
@@ -9190,7 +9433,7 @@ requiring an answer consisting in or containing:
 
 Who + VP finite
 
-‘Who has -drunk my ,tea?
+> ˈWho has -drunk my ˎtea?
 
 What + VP finite
 
@@ -9198,7 +9441,7 @@ What + VP finite
 
 Which + NP + VP finite
 
-"Which -driver «owns this ,car?
+> ˇWhich -driver «owns this ˎcar?
 
 ‘Who/Whom @ + auxiliary + NP
 
@@ -9232,7 +9475,7 @@ How + interrogative sentence structure
 
 Why + auxiliary + interrogative sentence
 
-"Why do you -go to church?
+> ˇWhy do you -go to church?
 
 Why are you a-fraid of the
 
@@ -9255,7 +9498,7 @@ Why are you a-fraid of the
 
 2.3.2. you + VP infinitive @
 
-John, | -you be a 'good ,boy | and ‘eat your spinach!
+John, | -you be a ˈgood ˎboy | and ˈeat your spinach!
 
 2.3.3. do+VP infinitive
 
@@ -9269,7 +9512,7 @@ John, | -you be a 'good ,boy | and ‘eat your spinach!
 
 The -flight ar-rived at '9 a..m.
 
-‘Sue | has 'blue eyes.
+> ˈSue | has ˈblue eyes.
 
 It -happened ‘early this morning
 
@@ -9277,9 +9520,9 @@ concerning:
 
 | ‘quite agree with you.
 
-| 'know he was -here yesterday.
+| ˈknow he was -here yesterday.
 
-\re'member ,meeting you | in
+\reˈmember ˎmeeting you | in
 
 tam ‘likely to -see him in
 
@@ -9287,11 +9530,11 @@ tam ‘likely to -see him in
 
 1am ‘sure he will come.
 
-You 'must -stay here -till | return.
+You ˈmust -stay here -till | return.
 
-‘All -young Swedes | can 'speak
+> ˈAll -young Swedes | can ˋspeak
 
-'Parking is al,lowed | from
+> ˈParking is alˎlowed | from
 
 '6 p.m. | to'8 -a..m.
 
@@ -9299,21 +9542,21 @@ You 'must -stay here -till | return.
 
 lam ‘going to -buy a -new car.
 
-I'd 'rather ‘die | than -give -up tennis.
+I'd ˈrather ˈdie | than -give -up tennis.
 
-I'm de'lighted to see you a-gain.
+I'm deˈlighted to see you a-gain.
 
 . I'm -feeling ‘very miserable this
 
 -morning.
 
-| 'like -cakes and ,pastries | 'very much.
+| ˈlike -cakes and ˎpastries | ˈvery much.
 
 ‘This ‘coffee | -tastes ‘horrible.
 
 This -brandy is ‘just what | need.
 
-The ‘shower in the ,bathroom | is
+The ˈshower in the ˎbathroom | is
 
 ‘not working.
 
@@ -9321,7 +9564,7 @@ lam ‘very -interested in -old buildings.
 
 | -don't -care if it -rains ‘all day.
 
-I'm sur'prised | he -didn't iphone.
+I'm surˈprised | he -didn't iphone.
 
 <!-- el:end id=prose_p159 -->
 
@@ -9340,27 +9583,27 @@ I'm ‘very «grateful to you for shelping me.
 
 You should be ‘kind to animals.
 
-I'm ‘very sorry | that | -broke your ,window.
+I'm ˈvery sorry | that | -broke your ˎwindow.
 
-\'m'so -sorry | to -hear your ,wife is -ill.
+\'mˈso -sorry | to -hear your ˎwife is -ill.
 
-We 'might per-haps -go to
+We ˈmight per-haps -go to
 
 You ‘ought to -see a doctor.
 
-This -plate is 'very hot.
+This -plate is ˈvery hot.
 
-You ‘cut the -paper -like ,this.
+You ˈcut the -paper ·like ˎthis.
 
-The -party will -meet ‘outside the ho,tel | at '5.-30 -a.m.
+The -party will -meet ˈoutside the hoˎtel | at '5.-30 -a·m.
 
 I'd ‘like to -say «something about
 
 -world poverty.
 
-In ‘my o,pinion, | ‘nuclear
+In ˈmy oˎpinion, | ˋnuclear
 
--weapons are ,useless.
+-weapons are ˎuseless.
 
 | ‘must -stress the fact | that we are friends.
 
@@ -9374,9 +9617,9 @@ statement (5.1.3)
 
 But | ‘did -see him!
 
-I'm 'sure he does -eat -cheese.
+I'm ˈsure he does -eat -cheese.
 
-| 'do like -ice-’cream!
+| ˈdo like -ice-'cream!
 
 3.3. Negative sentences
 
@@ -9406,7 +9649,7 @@ You ‘won, | ‘didn't you?
 
 ‘Don’t you -think that’s dangerous?
 
-‘Do you -know my ,cousin?
+> ˈDo you ·know my ˎcousin?
 
 <!-- el:end id=prose_p160 -->
 
@@ -9417,13 +9660,13 @@ You ‘won, | ‘didn't you?
 <!-- el:start type=prose id=prose_p161 page=155 -->
 <!-- vision: Threshold PDF page 161 -->
 
-'Do you re-member the ,war?
+> ˈDo you re-member the ˎwar?
 
 ‘Are you -likely to -vote Labour?
 
-‘Must you -leave al,ready?
+> ˈMust you -leave alˎready?
 
-‘Are you -sure it has -stopped sFaining? 'Do you -really think so?
+> ˈAre you -sure it has -stopped sFaining? ˈDo you -really think so?
 
 ‘Are you -able to see?
 
@@ -9431,17 +9674,17 @@ You ‘won, | ‘didn't you?
 
 3.4.3. enquiring about:
 
-"Would you -like to dance?
+> ˇWould you ·like to dance?
 
 ‘Are you -thinking of -getting sup?
 
 ‘Do you pre-fer -orange--juice to jbeer?
 
-‘Do you -like my -new ,hat?
+> ˈDo you ·like my -new ˎhat?
 
-‘Could you -open the ,window,
+> ˈCould you ·open the ˎwindow,
 
-'Can you ,help me, -please?
+> ˈCan you ˎhelp me, ·please?
 
 ‘Can | help you?
 
@@ -9453,13 +9696,13 @@ information (5.1.3)
 
 3.5.2. asking about wants and desires (5.2.24)
 
-"Where would you -like to go?
+> ˇWhere would you ·like to go?
 
 3.5.3. asking for preferences (5.2.8)
 
 ‘Which do you prefer, | ‘coffee or tea?
 
-"How are you feeling?
+> ˇHow are you feeling?
 
 ‘How do you -find our food?
 
@@ -9467,21 +9710,21 @@ information (5.1.3)
 
 #### 3.6 Imperative sentences
 
-"Tell me what happened.
+> ˇTell me what happened.
 
-‘Don’t be a,fraid.
+ˈDon't be aˎfraid.
 
-‘Please for,give me | for hurting you.
+> ˈPlease forˎgive me | for hurting you.
 
 ‘Let's go -out for a meal.
 
-‘Please -make -less ,noise!
+> ˈPlease -make -less ˎnoise!
 
 ‘Don’t for-get your “passport!
 
 ‘Let me help you.
 
-‘Go ,on, ‘ring him up!
+> ˈGo ˎon, ˈring him up!
 
 directions (5.3.7)
 
@@ -9500,35 +9743,35 @@ directions (5.3.7)
 
 At Threshold Level, learners should simple sentences within the limi given that noun and verb phrases above). Within the same limits th produce compound sentences. Th complex sentences which are str to one subordinate clause of fairl frame of a basic character, as for i summary. Learners should be abl containing more than one embec structure of clauses and the relat uncomplicated. It is difficult to d has attained Threshold Level compe with such sentences as
 
-He -said he 'wanted to leave.
+He -said he ˈwanted to leave.
 
 ‘When | left, | | ‘saw that it wa or even:
 
-We 'thought you were ill | be-
+We ˈthought you were ill | be-
 
 An experienced and literate read textual material of greater comp! achieve gist and single point com texts. Listening comprehension i: understanding may be broken if conditions where repair strategie too dense. In writing, simplicity i learners should be able to unders where they are short and within | that is not the case, they should t using the expressions given in 5. contributions may be expected tc answers consisting of single phra the simplest of complex sentence however, be sufficient to ensure ¢
 
 be able to understand and produce
 
-'s of the Threshold Level specification, are not overloaded (cf. D 1.3 and B 4.6 ey should be able to understand and ey can be expected to produce ightforward in character, e.g. limited
+> ˈs of the Threshold Level specification, are not overloaded (cf. D 1.3 and B 4.6 ey should be able to understand and ey can be expected to produce ightforward in character, e·g. limited
 
-  - `y simple structure with a main clause`
+ - ˈy simple structure with a main clause`
 nstance in the examples in this e to understand complex sentences ded clause, given that the internal ions between them are efine exact limits. Any learner who tence should have little difficulty
 
 cause you -Said you had a headache. sr will perhaps be able to handle exity and most learners will be able to prehension in dealing with such
 
-  - `s more demanding and the chain of`
+ - ˈs more demanding and the chain of`
 che speech presented under
 
-  - `s cannot be used is too complicated or`
-  - `s generally a virtue. In conversation,`
+ - ˈs cannot be used is too complicated or`
+ - ˈs generally a virtue. In conversation,`
 tand the interlocutor’s contributions the limits of this specification. Where e able to operate repair strategies,
 
 ) (see also Chapter 12). Their own.
 
 ) be relatively short, with short ses and clauses, simple sentences or
 
-  - `s. These simple means should,`
+ - ˈs. These simple means should,`
 communication at a basic level.
 
 <!-- el:end id=prose_p162 -->

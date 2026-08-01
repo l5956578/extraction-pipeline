@@ -9,13 +9,13 @@ He ‘won't -eat anything.
 
 #### 2.2 Interrogative
 
-‘Are you ,ready?
+ˈAre you ˎready?
 
 ‘Haven't you -been to Italy?
 
 infinitive
 
-‘Don’t you -eat ,meat?
+ˈDon't you -eat ˎmeat?
 
 ‘Can | help you?
 
@@ -25,15 +25,15 @@ You're ‘ready?
 
 negative tag question with falling intonation conducive to the answer ‘yes’
 
-You ‘are ,coming, | ,aren’t you? with low-rising intonation non-conductive
+You ˈare ˎcoming, | ˎaren't you? with low-rising intonation non-conductive
 
-You are German, | ,aren’t you?
+You are German, | ˎaren't you?
 
 ###### 2.2.1.5 negative sentence + positive
 
 tag with falling intonation conducive to the answer ‘no’
 
-You 'don't a,gree with her, | do you? with low-rising intonation, non-conducive
+You ˈdon't aˎgree with her, | do you? with low-rising intonation, non-conducive
 
 Jane ‘hasn't left yet, | has she?
 
@@ -41,7 +41,7 @@ requiring an answer consisting in or containing:
 
 Who + VP finite
 
-‘Who has -drunk my ,tea?
+ˈWho has -drunk my ˎtea?
 
 What + VP finite
 
@@ -49,7 +49,7 @@ What + VP finite
 
 Which + NP + VP finite
 
-"Which -driver «owns this ,car?
+ˇWhich -driver «owns this ˎcar?
 
 ‘Who/Whom @ + auxiliary + NP
 
@@ -83,7 +83,7 @@ How + interrogative sentence structure
 
 Why + auxiliary + interrogative sentence
 
-"Why do you -go to church?
+ˇWhy do you -go to church?
 
 Why are you a-fraid of the
 

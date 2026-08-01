@@ -1,19 +1,22 @@
 <!-- el:start type=prose id=prose_p135 page=135 -->
 <!-- vision: Threshold PDF page 135 -->
 
+
+
+
 person or situation
 
 ‘Send for the doctor. (7.7.5)
 
-The “cow | ‘eats ,grass | and
+The ˇcow | ˈeats ˎgrass | and
 
--makes ,milk. (7.2.8)
+-makes ˎmilk. (7.2.8)
 
-'Italy is beautiful | and 'like the
+ˈItaly is beautiful | and ˈlike the
 
 -country -very much.
 
-phrase or clause the 'man over ,there the 'woman | saw yesterday
+phrase or clause the ˈman over ˎthere the ˈwoman | saw yesterday
 
 ##### 3.2.1 forms
 
@@ -27,9 +30,9 @@ thing (6.8.2)
 
 There is a man out-side.
 
-‘May | -have an ,orange?
+ˈMay | -have an ˎorange?
 
--Take the -medicine 'twice a day
+-Take the -medicine ˈtwice a day
 
 “Apples | cost '35-p a pound.
 
@@ -45,21 +48,21 @@ some, any, no, every, much, many, more, most, several, few
 
 | 3.9 _ pre-determiners all (6.4.2)
 
-‘All the -guests have ar,rived. such @ (6.4.3)
+ˈAll the -guests have arˎrived. such @ (6.4.3)
 
-He is 'such a strange -man.
+He is ˈsuch a strange -man.
 
 one, two, three, etc.
 
 first, second, third, etc.
 
-The 'pain is in the ‘other -leg.
+The ˈpain is in the ˈother -leg.
 
 ### A4 Adjectives
 
 ### 41 Participial
 
-a 'working mother
+a ˈworking mother
 
 ‘This novel | is boring.
 

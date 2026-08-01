@@ -1,6 +1,9 @@
 <!-- el:start type=prose id=prose_p134 page=134 -->
 <!-- vision: Threshold PDF page 134 -->
 
+
+
+
 A2_ Pronouns
 
 #### 2.1 Types of pronoun
@@ -41,13 +44,13 @@ At Threshold Level, learners should be able to use the pronouns he or she corres
 
 They should be aware of the traditional use of he/him/himselffhis to refer anaphorically to a non-sexspecific personal noun and also of the alternative use of the plural forms, which are not gender-marked.
 
-‘Good teachers | 'help their
+ˈGood teachers | ˈhelp their
 
-«students to -pass their exami,nations as against
+«students to -pass their examiˎnations as against
 
-A'‘good ,teacher | 'helps his
+A''good ˎteacher | ˈhelps his
 
-«students to -pass their exami,nations.
+«students to -pass their examiˎnations.
 
 ### A3 Determiners
 
@@ -63,6 +66,6 @@ A'‘good ,teacher | 'helps his
 
 ##### 3.1.2 Use
 
-The ,sun is «shining.
+The ˎsun is «shining.
 
 <!-- el:end id=prose_p134 -->

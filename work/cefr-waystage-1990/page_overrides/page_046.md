@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p046 page=46 -->
-<!-- vision: Waystage PDF page 46 -->
+<!-- vision: Waystage leaf 46 doc p.40 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p046 page=40 -->
 
 drink
 

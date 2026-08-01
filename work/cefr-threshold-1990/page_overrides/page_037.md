@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 37 = document p.31 | multipass intonation -->
+<!-- vision: Threshold PDF leaf 37 = document p.31 | multipass word-catalog intonation 2026-07-31 -->
 <!-- el:start type=prose id=prose_p037 page=31 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -26,7 +26,7 @@
 
 **2.7.1.1** + VP gerund
 
-> I ˈdon't remember ·saying ˋthat.
+> I ˈdon't remember ·saying ˇthat.
 
 **2.7.1.2** + *wh* clause
 
@@ -59,7 +59,7 @@
 
 **2.7.3.4** + *wh* clause
 
-> I've forˈgotten where it ˈis.
+> I've forˈgotten where it ˋis.
 
 #### 2.8 enquiring whether someone remembers or has forgotten a person, thing, fact or action
 
@@ -105,7 +105,7 @@
 
 **2.9.3** possibly
 
-> but they may ˋpossibly ˈwin.
+> but they may ˇpossibly ˋwin.
 
 **2.9.4** (not) (very) likely
 

@@ -165,7 +165,7 @@ Furthermore, van Ek's words in his introduction to *Objectives for Foreign Langu
 <!-- el:start type=prose id=prose_p009 page=3 -->
 <!-- vision: Waystage PDF page 9 -->
 
-together in the framework of successive modern language projects of the Council of Europe. The number of those who in some way or other, directly or indirectly, have contributed to our study is so large that we can only say to them collectively. "Thank you all".'
+together in the framework of successive modern language projects of the Council of Europe. The number of those who in some way or other, directly or indirectly, have contributed to our study is so large that we can only say to them collectively. ˇThank you all".'
 
 J. A. van Ek
 
@@ -369,7 +369,7 @@ The *Waystage* specification is not a closed syllabus, nor is the communicative 
 
 It is in accordance with the above considerations that the *Waystage* specification consists largely of components and items relevant to general basic communicative ability, the requirements of specific selected situations being met by – mainly – concrete vocabulary items.
 
-*Waystage*, while being a worthwhile objective in its own right, marks the conclusion of a first significant phase for learners on their way to *Threshold*, the objective that gives them a more general freedom of action in the foreign language. To a large extent, then, the specification of *Waystage* is a selection from that of *Threshold*. This selection is based on what, in view of the general description of the objective (see Chapter 1), the learners are likely to need most in order to satisfy their most urgent communication needs. As is the case in *Threshold*, *Waystage* offers lists of recommended 'exponents', i.e. of those language forms which are estimated to enable the learners to do all the things specified in a highly economical manner. This means that whenever feasible those language forms have been chosen which offer a wide functional range. If the learners' linguistic resources are to be narrowly limited – as they necessarily are at this stage – it is all the more important that those resources should be selected which provide the widest possible range of action.
+*Waystage*, while being a worthwhile objective in its own right, marks the conclusion of a first significant phase for learners on their way to *Threshold*, the objective that gives them a more general freedom of action in the foreign language. To a large extent, then, the specification of *Waystage* is a selection from that of *Threshold*. This selection is based on what, in view of the general description of the objective (see Chapter 1), the learners are likely to need most in order to satisfy their most urgent communication needs. As is the case in *Threshold*, *Waystage* offers lists of recommended ˈexponents', i·e. of those language forms which are estimated to enable the learners to do all the things specified in a highly economical manner. This means that whenever feasible those language forms have been chosen which offer a wide functional range. If the learners' linguistic resources are to be narrowly limited – as they necessarily are at this stage – it is all the more important that those resources should be selected which provide the widest possible range of action.
 
 <!-- el:end id=prose_p018 -->
 
@@ -447,9 +447,9 @@ The second category is the most comprehensive and is subdivided as follows:
 | 2.21–2.29 | emotional |
 | 2.30–2.35 | moral |
 
-The lists of functions under each category heading are the result of a two-step process of selection. The first step produced the list in *Threshold 1990* and the second step the present specification. The principle of selection has been throughout that the functions selected should meet the most likely and urgent needs of the learners and together they should be manageable within the estimated average learning time stated for the objective (see section 5 of the Introduction). In many cases exponents – sometimes even all the exponents of a function – are followed by the symbol ® (i.e. 'for receptive use only'). This symbol is used to indicate that a particular exponent, though likely to be encountered in contact with native speakers, is felt to be of lower priority in the learners' productive repertoire.
+The lists of functions under each category heading are the result of a two-step process of selection. The first step produced the list in *Threshold 1990* and the second step the present specification. The principle of selection has been throughout that the functions selected should meet the most likely and urgent needs of the learners and together they should be manageable within the estimated average learning time stated for the objective (see section 5 of the Introduction). In many cases exponents – sometimes even all the exponents of a function – are followed by the symbol ® (i·e. ˈfor receptive use only'). This symbol is used to indicate that a particular exponent, though likely to be encountered in contact with native speakers, is felt to be of lower priority in the learners' productive repertoire.
 
-Language functions may be fulfilled directly and indirectly. They are fulfilled directly if an exponent is used in its conventional meaning, i.e. in the meaning that would normally be assigned to it if it were used in isolation. '*You should go now*' fulfils the function of 'advising others to
+Language functions may be fulfilled directly and indirectly. They are fulfilled directly if an exponent is used in its conventional meaning, i·e. in the meaning that would normally be assigned to it if it were used in isolation. '*You should go now*' fulfils the function of ˈadvising others to
 
 <!-- el:end id=prose_p021 -->
 
@@ -457,10 +457,10 @@ Language functions may be fulfilled directly and indirectly. They are fulfilled 
 
 <!-- page:15 -->
 
+<!-- vision: Waystage leaf 22 doc p.16 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p022 page=16 -->
-<!-- vision: Waystage PDF page 22 -->
 
-do something' directly, whereas '*It's getting late*' – in its conventional meaning fulfilling the function of 'reporting' – may serve the same purpose indirectly. The possibilities for the indirect fulfilment of language functions vary in accordance with the situational and the linguistic context of a communicative act.
+do something' directly, whereas *'It's getting late'* – in its conventional meaning fulfilling the function of 'reporting' – may serve the same purpose indirectly. The possibilities for the indirect fulfilment of language functions vary in accordance with the situational and the linguistic context of a communicative act.
 
 This variation is such that a systematic description and selection on behalf of our objective is not possible. The exponents we propose, therefore, are on the whole those which may be considered to fulfil the functions concerned directly. This does not mean that the indirect fulfilment of language functions should be avoided in course materials designed for *Waystage*. On the contrary, an attempt to do so might lead to highly unnatural language use.
 
@@ -472,94 +472,127 @@ This variation is such that a systematic description and selection on behalf of 
 (with pointing gesture) this (one), that (one), these, those  
 me, you, him, her, us, them  
 the, this, that, these, those, (+N) + *be* + NP  
-'This is the ,bedroom.  
+
+> ˈThis is the ˎbedroom.
+
 I, you, he, she, it, we, they + *be* + NP  
-'He is the ,owner of the ·restaurant.
+
+> ˈHe is the ˎowner of the ·restaurant.
 
 **1.2 reporting (describing and narrating)**  
 declarative sentences  
-The 'train has ,left.  
+
+> The ˈtrain has ˎleft.
+
 NP + say, think + complement clause  
-He ·says the 'shop is ,shut.
+
+> He ·says the ˈshop is ˎshut.
 
 **1.3 correcting**  
 As 1.1 and 1.2, with contrastive stress  
-'This is the ·bedroom.  
-The ·train 'has ·left.  
+
+> ˈThis is the ·bedroom.  
+> The ·train ˈhas ·left.
+
 (correcting a positive statement)  
 No (+ tag)  
-'No.  
-'No it 'isn't.  
+
+> ˈNo.  
+> ˈNo it ˇisn't.
+
 negative sentences  
-Va·letta 'isn't in 'Italy.  
+
+> Va·letta ˈisn't in ˇItaly.
+
 (correcting a negative statement)  
 Yes (+ tag)  
-'Yes.  
-'Yes you 'did.
+
+> ˈYes.  
+> ˈYes you ˇdid.
 
 **1.4 asking**  
 **a** for confirmation  
 interrogative sentences  
-'Did you ,see him?  
+
+> ˈDid you ˎsee him?
+
 declarative sentences with high-rising intonation  
-You 'saw him? ®  
+
+> You ˊsaw him? ®
+
 short questions  
-,Are you? ®
+
+> ˏAre you? ®
 
 **b** for information  
 wh questions  
-(time) ,when?  
-(place) ,where?  
-(manner) ,how?
-
+(time) ˏwhen?  
+(place) ˏwhere?  
+(manner) ˏhow?
 <!-- el:end id=prose_p022 -->
 
 *Page **16***
 
 <!-- page:16 -->
 
-<!-- el:start type=prose id=prose_p023 page=17 -->
-<!-- vision: Waystage PDF page 23 -->
 
-(degree) how ,far/,much/,long/,hot/etc.?  
-(reason) ,why?
+<!-- vision: Waystage leaf 23 doc p.17 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p023 page=17 -->
+
+(degree) how ˎfar/ˎmuch/ˎlong/ˎhot/etc.?  
+(reason) ˎwhy?
 
 **c** seeking identification  
 wh questions  
-(person) ,who?  
+(person) ˎwho?  
 (possession) whose + NP?  
-'Whose ,watch is ·this?  
-(thing) ,what?  
+
+> ˈWhose ˎwatch is ·this?
+
+(thing) ˎwhat?  
 which + NP?  
-'Which ,sport do you ·play? ®
+
+> ˈWhich ˎsport do you ·play? ®
 
 **1.5 answering questions**  
 **a** for confirmation  
 Yes, No (+ tag)  
-,Yes (he ,is).  
-,No (he ,isn't).
+
+> ˎYes (he ˎis).  
+> ˎNo (he ˎisn't).
 
 **b** for information  
 declarative sentences  
-('Where did you ,go?)  
-I ·went to ,London.  
+(ˈWhere did you ˎgo?)  
+
+> I ·went to ˎLondon.
+
 (time)  
 adverb, prepositional phrase  
-,yesterday. At 'ten o',clock.  
+
+> ˎyesterday. At ˈten o'ˎclock.
+
 (place)  
 adverb, prepositional phrase  
-,There. 'On the ,table.  
+
+> ˎThere. ˈOn the ˎtable.
+
 (manner)  
 adverb, prepositional phrase  
-,Fast. With a ,spoon.  
+
+> ˎFast. With a ˎspoon.
+
 (degree)  
 adverb, prepositional phrase  
-('How ,hot is it?) ,Very.  
-('How ·much do you ,like it?)  
-'Better than 'water.  
+
+> (ˈHow ˎhot is it?) ˎVery.  
+> (ˈHow ·much do you ˎlike it?)  
+> ˈBetter than ˇwater.
+
 (reason) (because +) declarative sentence  
-('Why did you ,leave?)  
-Because I was ,tired.
+(ˈWhy did you ˎleave?)  
+
+> Because I was ˎtired.
 
 **c** seeking identification – see 1.1
 
@@ -568,53 +601,69 @@ Because I was ,tired.
 #### Factual: agreement, etc.
 
 **2.1 expressing agreement with a statement**  
-I a,gree.  
-'That's ,right. ®  
+
+> I aˎgree.  
+> ˈThat's ˎright. ®
+
 (with a positive statement)  
-'Yes (+ tag).  
-(She's 'nice!) 'Yes, she 'is!  
-Of ,course. ®  
-,Certainly. ®  
+ˈYes (+ tag).  
+(She's ˈnice!)  
+
+> ˈYes, she ˋis!
+
+Of ˎcourse. ®  
+ˎCertainly. ®  
 (with a negative statement)  
-,No (+ tag)  
-(He 'doesn't look ,well.)  
-,No, he ,doesn't.  
-Of ,course ·not. ®  
-'Certainly ,not. ®
+ˎNo (+ tag)  
+(He ˈdoesn't look ˎwell.)  
+
+> ˎNo, he ˎdoesn't.
+
+Of ˎcourse ·not. ®  
+ˈCertainly ˎnot. ®
 
 **2.2 expressing disagreement with a statement**  
-That's 'not ,right.  
-I 'don't a,gree. ®  
+
+> That's ˈnot ˎright.  
+> I ˈdon't aˎgree. ®
+
 (with a positive statement)  
-,No (+ tag).  
-'Certainly ,not. ®  
-I 'don't 'think so.  
+ˎNo (+ tag).  
+ˈCertainly ˎnot. ®  
+
+> I ˈdon't ˇthink so.
+
 (with a negative statement)  
 Yes (+ tag).  
-(They 'aren't ,French)  
-'Yes, they 'are  
+(They ˈaren't ˎFrench)  
+
+> ˈYes, they ˇare
+
 I think + positive statement  
-I·think he 'will ·come.
+
+> I ·think he ˈwill ·come.
 
 **2.3 enquiring about agreement and disagreement**  
 Do(n't) you think + complement clause?  
-'Do you ·think it'll ,rain?  
-'Do(n't) you ,think so (,too)?  
-'Do(n't) you a,gree? ®
+
+> ˈDo you ·think it'll ˎrain?  
+> ˈDo(n't) you ˎthink so (ˎtoo)?  
+> ˈDo(n't) you aˎgree? ®
 
 **2.4 denying something**  
 No (+ negative tag)  
-(You ,saw him)  
-,No, I ,didn't.
+(You ˎsaw him)  
 
+> ˎNo, I ˎdidn't.
 <!-- el:end id=prose_p023 -->
 
 *Page **17***
 
 <!-- page:17 -->
 
+
+<!-- vision: Waystage leaf 24 doc p.18 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p024 page=18 -->
-<!-- vision: Waystage PDF page 24 -->
 
 negative sentences with not, never, no (adjective), nobody ®, nothing
 
@@ -644,26 +693,37 @@ declarative sentence
 I know + that clause.
 
 **c** intermediate  
-I 'think so.  
+
+> I ˇthink so.
+
 I think + that clause.  
-I sup'pose/be'lieve so. ®  
+
+> I supˇpose/beˇlieve so. ®
+
 I suppose/believe + that clause. ®
 
 **d** weak  
 NP + may … ®  
-Per'haps. ®  
-I'm not 'sure (+ that clause). ®  
-I ,wonder. ®
+
+> Perˈhaps. ®  
+> I'm not ˇsure (+ that clause). ®  
+> I ˎwonder. ®
 
 **e** negative  
 NP + cannot … ®  
-I 'don't ,think so.  
+
+> I ˈdon't ˎthink so.
+
 I don't think + that clause.
 
 **2.10 enquiring how (un)certain others are of something**  
-'Are you (·quite) ,sure? ®  
+
+> ˈAre you (·quite) ˎsure? ®
+
 Are you (quite) sure + that clause? ®  
-'Do you ,think so? ®  
+
+> ˈDo you ˎthink so? ®
+
 Do you think + that clause? ®
 
 **2.11 expressing one is (not) obliged to do something**  
@@ -676,8 +736,9 @@ Do I/we have to …?
 You can …  
 You may …  
 Yes.  
-Of ,course (you·may). ®  
-('That's)·all ,right.
+
+> Of ˎcourse (you·may). ®  
+> (ˈThat's)·all ˎright.
 
 **2.14 seeking permission**  
 May I …?  
@@ -696,15 +757,15 @@ NP + must not … ®
 I'd like … (e.g. a drink, to go now).  
 I want … (e.g. a drink, to go now) (please).  
 May I have + NP (please)?
-
 <!-- el:end id=prose_p024 -->
 
 *Page **18***
 
 <!-- page:18 -->
 
+
+<!-- vision: Waystage leaf 25 doc p.19 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p025 page=19 -->
-<!-- vision: Waystage PDF page 25 -->
 
 **2.17 enquiring about want, desire**  
 Would you like … (e.g. a drink, to go now)?  
@@ -720,8 +781,8 @@ Are you going to …?
 Will you …? ®
 
 **2.20 expressing preference**  
-I('d) prefer + NP.  
-I('d) like + NP.  
+I(ˈd) prefer + NP.  
+I(ˈd) like + NP.  
 I'd rather … (than …). ®  
 I'd rather not (…). ®
 
@@ -744,69 +805,82 @@ Do(n't) you like + NP?
 Would you like … (e.g. to go now)? ®
 
 **2.24 expressing hope**  
-I' hope ,so.  
+
+> I ˈhope ˎso.
+
 I (do) hope + that clause. ®
 
 **2.25 expressing satisfaction**  
-·This/·That is 'very ,good/,nice.
+
+> ·This/·That is ˈvery ˎgood/ˎnice.
 
 **2.26 expressing dissatisfaction**  
-I 'don't ,like this/that.
+
+> I ˈdon't ˎlike this/that.
 
 **2.27 enquiring about satisfaction**  
-'Do you ,like this/that?  
-'Is ·this ·all ,right (·now)? ®
+
+> ˈDo you ˎlike this/that?  
+> ˈIs ·this ·all ˎright (·now)? ®
 
 **2.28 expressing disappointment**  
-'What a ,pity!  
-·That's a ('great) 'pity! ®
+
+> ˈWhat a ˎpity!  
+> ·That's a (ˈgreat) ˋpity! ®
 
 **2.29 expressing gratitude**  
-,Thank you ('very ,much).  
-That's 'very ,kind of you. ®
+
+> ˎThank you (ˈvery ˎmuch).  
+> That's ˈvery ˎkind of you. ®
 
 #### Moral
 
 **2.30 apologising**  
-I am ('very) ,sorry!  
-'Sorry!  
-I am 'so ,sorry! ®
+
+> I am (ˈvery) ˎsorry!  
+> ˇSorry!  
+> I am ˈso ˎsorry! ®
 
 **2.31 granting forgiveness**  
-'That's ·all ,right.  
-It's 'all ·right ,now. ®  
-It 'doesn't ,matter (a,t all). ®
+
+> ˈThat's ·all ˎright.  
+> It's ˈall ·right ˎnow. ®  
+> It ˈdoesn't ˎmatter (aˎt all). ®
 
 **2.32 expressing approval**  
-'Good!  
-·That's 'fine! ®
+
+> ˈGood!  
+> ·That's ˈfine! ®
 
 **2.33 expressing appreciation**  
-(It's) 'very ,good/,nice.
+
+> (It's) ˈvery ˎgood/ˎnice.
 
 **2.34 expressing regret**  
-'What a ,pity!  
-It's a ('great) ,pity! ®  
-I'm (so/very) sorry if … ®
+
+> ˈWhat a ˎpity!  
+> It's a (ˈgreat) ˎpity! ®  
+> I'm (so/very) sorry if … ®
 
 **2.35 expressing indifference**  
-It ·doesn't ,matter.  
-I don't mind (+ if clause). ®
+
+> It ·doesn't ˎmatter.  
+> I don't mind (+ if clause). ®
 
 ### 3 Getting things done (suasion)
 
 **3.1 suggesting a course of action (including the speaker)**  
 Let's …  
 Shall we …? ®
-
 <!-- el:end id=prose_p025 -->
 
 *Page **19***
 
 <!-- page:19 -->
 
+
+<!-- vision: Waystage leaf 26 doc p.20 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p026 page=20 -->
-<!-- vision: Waystage PDF page 26 -->
 
 We could … ®  
 What about … (e.g. leaving now)? ®
@@ -822,13 +896,16 @@ Would you like to …?
 What about …? ®
 
 **3.4 accepting an offer or invitation**  
-'Thank you.  
-'Yes, ,please.  
-That'll be 'very ,nice. ®  
-'All ,right.
+
+> ˈThank you.  
+> ˈYes, ˎplease.  
+> That'll be ˈvery ˎnice. ®  
+> ˈAll ˎright.
 
 **3.5 declining an offer or invitation**  
-'No, ,thank you.  
+
+> ˈNo, ˎthank you.
+
 I'm afraid I cannot … ®
 
 **3.6 enquiring whether an offer or invitation is accepted or declined**  
@@ -839,10 +916,11 @@ You should … ®
 Why don't you …? ®
 
 **3.8 warning others to take care or to refrain from doing something**  
-Be 'careful!  
-'Look 'out!  
-Don't …  
-Mind … (e.g. your head)! ®
+
+> Be ˋcareful!  
+> ˈLook ˋout!  
+> Don't …  
+> Mind … (e.g. your head)! ®
 
 **3.9 offering assistance**  
 Can I … (e.g. help you)?
@@ -855,19 +933,22 @@ Can you … (e.g. help me), please?
 (See also Chapter 8 on sociocultural competence.)
 
 **4.1 attracting attention**  
-Ex'cuse ,me!  
-Hal'lo!
+
+> Exˈcuse ˎme!  
+> Halˈlo!
 
 **4.2 greeting people**  
-'Hal,lo!  
-'Good ,morning/after,noon/,evening.
+
+> ˈHalˎlo!  
+> ˈGood ˎmorning/afterˎnoon/ˎevening.
 
 **4.3 when meeting people**  
-'Hal,lo!  
-'How ,are you?  
-(I'm 'fine, ,thank you,) 'how are ,you?  
-'How do you ,do?  
-'How do you ,do?
+
+> ˈHalˎlo!  
+> ˈHow ˎare you?  
+> (I'm ˈfine, ˎthank you,) ˈhow are ˎyou?  
+> ˈHow do you ˎdo?  
+> ˈHow do you ˎdo?
 
 **4.4 addressing somebody**  
 first name  
@@ -877,20 +958,24 @@ Mr/Mrs/Miss + family name
 This is …
 
 **4.6 reacting to being introduced**  
-'Hal,lo.  
-'How do you ,do?
+
+> ˈHalˎlo.  
+> ˈHow do you ˎdo?
 
 **4.7 congratulating**  
-Con'gratu,lations!
+
+> Conˈgratuˎlations!
 
 **4.8 proposing a toast**  
-'Cheers!  
-Here's to … ®
+
+> ˈCheers!  
+> Here's to … ®
 
 **4.9 taking leave**  
-'Good,bye.  
-'Good ,night.  
-I'll ,see you (to,morrow, ·next ,week, etc.). ®
+
+> ˈGoodˎbye.  
+> ˈGood ˎnight.  
+> I'll ˎsee you (toˎmorrow, ·next ˎweek, etc.). ®
 
 ### 5 Structuring discourse
 
@@ -898,24 +983,26 @@ I'll ,see you (to,morrow, ·next ,week, etc.). ®
 
 **5.1 opening**  
 See the exponents of language functions 4.1, 4.2, 4.4.
-
 <!-- el:end id=prose_p026 -->
 
 *Page **20***
 
 <!-- page:20 -->
 
+
+<!-- vision: Waystage leaf 27 doc p.21 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p027 page=21 -->
-<!-- vision: Waystage PDF page 27 -->
 
 **5.2 hesitating, looking for words**  
-·Er …  
-'Just a ,moment.  
-'What's the ,word for it?
+
+> ·Er …  
+> ˈJust a ˎmoment.  
+> ˈWhat's the ˎword for it?
 
 **5.3 correcting oneself**  
-,No, …  
-'Sorry, …
+
+> ˎNo, …  
+> ˇSorry, …
 
 **5.4 enumerating**  
 … and … and …  
@@ -925,22 +1012,25 @@ First …, then …, then …
 So …
 
 **5.6 closing**  
-·Well, 'good,bye/'good ,night.  
-'Well, it's been 'nice ,talking with you. ®  
-I'll 'see you (,later/,soon/to,morrow, etc.) ®
+
+> ·Well, ˈgoodˎbye/ˈgood ˎnight.  
+> ˈWell, it's been ˈnice ˎtalking with you. ®  
+> I'll ˈsee you (ˎlater/ˎsoon/toˎmorrow, etc.) ®
 
 #### Telephone
 
 **5.7 opening (on lifting the handset)**  
 telephone number  
 Oxford 785423  
-'Hal,lo (this is …)
+
+> ˈHalˎlo (this is …)
 
 **5.8 asking for extension**  
 I'd like to talk to …
 
 **5.9 giving notice of a new call**  
-I'll 'call a'gain (,later/this after,noon, etc.)
+
+> I'll ˈcall aˈgain (ˎlater/this afterˎnoon, etc.)
 
 #### Letter
 
@@ -957,46 +1047,55 @@ Love from …
 (See also Chapter 10.)
 
 **6.1 signalling non-understanding**  
-'Sorry, I 'don't/'didn't under,stand (that).  
-(I ·beg your) 'pardon? ®
+
+> ˇSorry, | I ˈdon't/ˈdidn't underˎstand (that).  
+> (I ·beg your) ˈpardon? ®
 
 **6.2 asking for overall repetition**  
-('Sorry,) 'can you ·say that a,gain, ·please?  
-(I ·beg your) 'pardon? ®
+
+> (ˇSorry,) ˈcan you ·say that aˎgain, ·please?  
+> (I ·beg your) ˈpardon? ®
 
 **6.3 asking for partial repetition**  
-('Sorry,) when/where/why/how/who …?
+(ˇSorry,) when/where/why/how/who …?
 
 **6.4 asking for clarification**  
-('Sorry,) 'what is ,X?
+
+> (ˇSorry,) ˈwhat is ˎX?
 
 **6.5 asking for confirmation of understanding**  
-'Did you say ,X?
+
+> ˈDid you say ˎX?
 
 **6.6 asking to spell something**  
-'Can you ,spell that, ·please?
+
+> ˈCan you ˎspell that, ·please?
 
 **6.7 asking to write something down**  
-'Can you ·write that ,down for me, ·please?
+
+> ˈCan you ·write that ˎdown for me, ·please?
 
 **6.8 expressing ignorance**  
-I 'don't know ·how to ,say it.
+
+> I ˈdon't know ·how to ˎsay it.
 
 **6.9 appealing for assistance**  
-I ·don't 'know the ·English ,word.  
-In [native language] we say …
+
+> I ·don't ˈknow the ·English ˎword.  
+> In [native language] we say …
 
 **6.10 asking to slow down**  
-'Can you ·speak ,slowly, ·please?
 
+> ˈCan you ·speak ˎslowly, ·please?
 <!-- el:end id=prose_p027 -->
 
 *Page **21***
 
 <!-- page:21 -->
 
+
+<!-- vision: Waystage leaf 28 doc p.22 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p028 page=22 -->
-<!-- vision: Waystage PDF page 28 -->
 
 ## 4 General notions
 
@@ -1004,20 +1103,13 @@ In [native language] we say …
 
 The list of general notions is derived from a consideration of what, in general, people deal with by means of language, of what concepts they may be likely to refer to whatever the specific features of a particular communication situation may be. We present the general notions under eight headings:
 
-1 existential
-
-2 spatial
-
-3 temporal
-
-4 quantitative
-
-5 qualitative
-
-6 mental
-
-7 relational
-
+1 existential  
+2 spatial  
+3 temporal  
+4 quantitative  
+5 qualitative  
+6 mental  
+7 relational  
 8 deixis
 
 In the following list we present both the sub-classes of the notions selected and the various notions in the form of their exponents. Strictly speaking, we should have presented each notion and its exponent(s) separately, but since the large majority of the notions would then have to be referred to by means of the corresponding exponent – the lexical item *among* is the exponent of the notion *among* – this would have led to almost constant duplication without any practical gain.
@@ -1031,7 +1123,7 @@ There is …
 Is there …?  
 There's no …  
 There isn't any …  
-to make (as in: She 'made a ·new ,dress.); to become
+to make (as in: She ˈmade a ·new ˎdress.); to become
 
 **1.2** *presence, absence*  
 (not) here, away, (not) there
@@ -1049,65 +1141,66 @@ There isn't any …
 
 <!-- page:22 -->
 
+
+<!-- vision: Waystage leaf 29 doc p.23 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p029 page=23 -->
-<!-- vision: Waystage PDF page 29 -->
 
-ready (as in: 'When will it be ,ready?)
+ready (as in: ˈWhen will it be ˎready?)
 
-**1.4** *occurrence, non-occurrence*  
+**1.4** *occurrence, non-occurrence* 
 to happen
 
 ### 2 Spatial
 
-**2.1** *location*  
-the following adverbs: here, there, nowhere ®, everywhere, somewhere, (not) anywhere, where?; inside, outside  
-(in) the east/north/south/west  
-to have been to (as in: He has ·been to 'Paris.)  
+**2.1** *location* 
+the following adverbs: here, there, nowhere ®, everywhere, somewhere, (not) anywhere, where?; inside, outside 
+(in) the east/north/south/west 
+to have been to (as in: He has ·been to ˈParis.) 
 this, that, these, those
 
-**2.2** *relative position*  
+**2.2** *relative position* 
 the following prepositions of position: against ®, among ®, at, at the end of, behind, between, in, in front of, in the centre of, next to, on, opposite ®, under, with.
 
-**2.3** *distance*  
-near  
-far (away) (from)  
-… away (as in: It's 'two ,miles a·way.)
+**2.3** *distance* 
+near 
+far (away) (from) 
+… away (as in: It's ˈtwo ˎmiles a·way.)
 
-**2.4** *motion*  
-the following verbs of motion: to come, to come along ®, to come to (as in: He 'came to the ,house.), to fall, to get up, to go, to hurry ®, to leave, to lie down, to pass (as in: You 'pass the ,railway ·station.), to sit (down), to stand, to stop (as in: The 'train ,stopped.)
+**2.4** *motion* 
+the following verbs of motion: to come, to come along ®, to come to (as in: He ˈcame to the ˎhouse.), to fall, to get up, to go, to hurry ®, to leave, to lie down, to pass (as in: You ˈpass the ˎrailway ·station.), to sit (down), to stand, to stop (as in: The ˈtrain ˎstopped.)
 
-**2.5** *direction*  
-the following adverbs: away, back, down, in, out, (to the) left, (to the) right, straight on, up, east (as in: He 'went ,east.), north, south, west  
-the following prepositions: across ®, down ®, from, into, past, through, to, up ®  
-the following verbs: to bring, to carry ®, to follow, to pull ®, to push ®, to put, to send, to take (as in: I'll 'take it to your ,room.), to turn (as in: 'Turn ·left at the ,river.)
+**2.5** *direction* 
+the following adverbs: away, back, down, in, out, (to the) left, (to the) right, straight on, up, east (as in: He ˈwent ˎeast.), north, south, west 
+the following prepositions: across ®, down ®, from, into, past, through, to, up ® 
+the following verbs: to bring, to carry ®, to follow, to pull ®, to push ®, to put, to send, to take (as in: I'll ˈtake it to your ˎroom.), to turn (as in: ˈTurn ·left at the ˎriver.)
 
-**2.6** *origin*  
-from (as in: We ·came from ,London.)
+**2.6** *origin* 
+from (as in: We ·came from ˎLondon.)
 
-**2.7** *arrangement*  
-after (as in: 'B comes ·after ,A.), before (as in: 'A ·comes before ,B.), between, first (as in: 'John ·came ,first.), last (as in: 'John ·came ,last.)
+**2.7** *arrangement* 
+after (as in: ˈB comes ·after ˎA.), before (as in: ˈA ·comes before ˎB.), between, first (as in: ˈJohn ·came ˎfirst.), last (as in: ˈJohn ·came ˎlast.)
 
 **2.8** *dimension*
 
-**2.8.1** *size*  
-size (as in: 'What ·size ,shoes do you ·take?) ®  
+**2.8.1** *size* 
+size (as in: ˈWhat ·size ˎshoes do you ·take?) ® 
 the following adjectives: big, high, large ®, long, low, short, small, tall ®
 
-**2.8.2** *length*  
-centimetre, foot, inch, kilometre, metre, mile, yard  
+**2.8.2** *length* 
+centimetre, foot, inch, kilometre, metre, mile, yard 
 long, short
 
-**2.8.3** *pressure*  
+**2.8.3** *pressure* 
 heavy, light (as in: a light blanket)
 
-**2.8.4** *weight*  
-gram(me)s, kilos, lbs., oz.  
+**2.8.4** *weight* 
+gram(me)s, kilos, lbs., oz. 
 heavy, light
 
-**2.8.5** *volume*  
+**2.8.5** *volume* 
 gallon, litre, pint
 
-**2.8.6** *space*  
+**2.8.6** *space* 
 big, small
 
 <!-- el:end id=prose_p029 -->
@@ -1116,69 +1209,70 @@ big, small
 
 <!-- page:23 -->
 
-<!-- el:start type=prose id=prose_p030 page=24 -->
-<!-- vision: Waystage PDF page 30 -->
 
-**2.8.7** *temperature*  
-temperature ®, degree ®, zero ®  
+<!-- vision: Waystage leaf 30 doc p.24 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p030 page=24 -->
+
+**2.8.7** *temperature* 
+temperature ®, degree ®, zero ® 
 the adjectives: cold, hot, warm
 
 ### 3 Temporal
 
-**3.1** *points of time*  
-(three) o'clock, (five) to/past (three), a quarter to/past (three), (sixteen) minutes to/past (three), half past (three)  
-3 a.m./p.m. ®  
+**3.1** *points of time* 
+(three) o'clock, (five) to/past (three), a quarter to/past (three), (sixteen) minutes to/past (three), half past (three) 
+3 a.m./p.m. ® 
 noon ®, midnight ®
 
-**3.2** *divisions of time*  
-moment, second ®, minute, quarter (of an hour), half (an) hour, hour, day, week, month, year, century ®; autumn, spring, summer, winter; afternoon, evening, morning, night; weekend, holiday(s)  
+**3.2** *divisions of time* 
+moment, second ®, minute, quarter (of an hour), half (an) hour, hour, day, week, month, year, century ®; autumn, spring, summer, winter; afternoon, evening, morning, night; weekend, holiday(s) 
 names of days of the week, names of months
 
-**3.3** *indications of time*  
-time (as in: 'What ,time is it?)  
-now, then, when?, soon, ago (as in: 'two ,days ago)  
-today, tomorrow, yesterday, the day before yesterday, the day after tomorrow  
-this morning/afternoon/evening/week/month/year; tonight  
-last/next + week/month/year  
-names of days of the week  
-prepositions: at (as in: at 'three o',clock), in (as in: in a week; in 1989), on (as in: on Sunday)  
-dates: (spoken) the first of June, (written) 1 June 1989  
+**3.3** *indications of time* 
+time (as in: ˈWhat ˎtime is it?) 
+now, then, when?, soon, ago (as in: ˈtwo ˎdays ago) 
+today, tomorrow, yesterday, the day before yesterday, the day after tomorrow 
+this morning/afternoon/evening/week/month/year; tonight 
+last/next + week/month/year 
+names of days of the week 
+prepositions: at (as in: at ˈthree o'clock), in (as in: in a week; in 1989), on (as in: on Sunday) 
+dates: (spoken) the first of June, (written) 1 June 1989 
 Christmas, Easter
 
-**3.4** *duration*  
-prepositions: during ®, for (as in: for 'three ,hours), since (as in: since 1945), till, until ®  
-to take (as in: It ·takes 'three ,hours.) ®  
-long (as in: a 'long ,time), short
+**3.4** *duration* 
+prepositions: during ®, for (as in: for ˈthree ˎhours), since (as in: since 1945), till, until ® 
+to take (as in: It ·takes ˈthree ˎhours.) ® 
+long (as in: a ˈlong ˎtime), short
 
-**3.5** *earliness*  
-early (as in: You are 'early; an 'early ,train)
+**3.5** *earliness* 
+early (as in: You are ˈearly; an ˈearly ˎtrain)
 
-**3.6** *lateness*  
-late (as in: We are 'late; We are 'too ,late for the ·show; the ,late ·show)
+**3.6** *lateness* 
+late (as in: We are ˈlate; We are ˈtoo ˎlate for the ·show; the ˎlate ·show)
 
-**3.7** *anteriority*  
-present perfect (as in: I 'haven't ·seen ,John ·yet; I've ·been to ,Paris.)  
-before + NP  
-before (as in: 'Have you ·been here be,fore?) ®  
-already (as in: I have al'ready ,done it.)  
-yet (as in: 'Has he ,come ·yet?; He 'hasn't ,come ·yet.)
+**3.7** *anteriority* 
+present perfect (as in: I ˈhaven't ·seen ˎJohn ·yet; I've ·been to ˎParis.) 
+before + NP 
+before (as in: ˈHave you ·been here beˎfore?) ® 
+already (as in: I have alˈready ˎdone it.) 
+yet (as in: ˈHas he ˎcome ·yet?; He ˈhasn't ˎcome ·yet.)
 
-**3.8** *posteriority*  
-after + NP  
+**3.8** *posteriority* 
+after + NP 
 afterwards ®, later (on)
 
-**3.9** *sequence*  
+**3.9** *sequence* 
 first … then
 
-**3.10** *simultaneousness*  
+**3.10** *simultaneousness* 
 at the same time
 
-**3.11** *future reference*  
-NP + *be* going to …  
-NP + will … ®  
-soon  
-in (as in: in 'four ,weeks)  
-next week / month/ year/ Saturday, etc.  
+**3.11** *future reference* 
+NP + *be* going to … 
+NP + will … ® 
+soon 
+in (as in: in ˈfour ˎweeks) 
+next week / month/ year/ Saturday, etc. 
 tonight, tomorrow, the day after tomorrow, this afternoon
 
 <!-- el:end id=prose_p030 -->
@@ -1187,86 +1281,87 @@ tonight, tomorrow, the day after tomorrow, this afternoon
 
 <!-- page:24 -->
 
-<!-- el:start type=prose id=prose_p031 page=25 -->
-<!-- vision: Waystage PDF page 31 -->
 
-**3.12** *present reference*  
-present continuous  
-simple present  
-present perfect  
-now, today, still (as in: He is 'still ,working.)  
+<!-- vision: Waystage leaf 31 doc p.25 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p031 page=25 -->
+
+**3.12** *present reference* 
+present continuous 
+simple present 
+present perfect 
+now, today, still (as in: He is ˈstill ˎworking.) 
 this morning/afternoon/year etc.
 
-**3.13** *past reference*  
-past continuous ®  
-simple past  
-yesterday, the day before yesterday, just  
+**3.13** *past reference* 
+past continuous ® 
+simple past 
+yesterday, the day before yesterday, just 
 last week/month, etc.
 
-**3.14** *reference without time focus*  
-simple present (as in: 'Edinburgh is in ,Scotland.)
+**3.14** *reference without time focus* 
+simple present (as in: ˈEdinburgh is in ˎScotland.)
 
-**3.15** *delay*  
-late (as in: The ·train is ·going to be 'late.)  
-delay (as in: There will ·be a de·lay of 'two ,hours.) ®  
-delayed (as in: The 'flight has been de,layed.) ®
+**3.15** *delay* 
+late (as in: The ·train is ·going to be ˈlate.) 
+delay (as in: There will ·be a de·lay of ˈtwo ˎhours.) ® 
+delayed (as in: The ˈflight has been deˎlayed.) ®
 
-**3.16** *speed*  
-fast, slow  
+**3.16** *speed* 
+fast, slow 
 … miles/kilometres per hour
 
-**3.17** *frequency*  
-always, never, (not) often, once ®, sometimes, twice ®, usually  
-daily ®, weekly ®, monthly ®  
-… times a/per week/month, etc.  
-on weekdays/Sundays, etc.  
+**3.17** *frequency* 
+always, never, (not) often, once ®, sometimes, twice ®, usually 
+daily ®, weekly ®, monthly ® 
+… times a/per week/month, etc. 
+on weekdays/Sundays, etc. 
 every week/Sunday, etc.
 
-**3.18** *continuity*  
-present continuous  
-past continuous ®  
-present perfect (as in: I've ·lived ·here for 'two ,years.)
+**3.18** *continuity* 
+present continuous 
+past continuous ® 
+present perfect (as in: I've ·lived ·here for ˈtwo ˎyears.)
 
-**3.19** *intermittence*  
+**3.19** *intermittence* 
 not always
 
-**3.20** *permanence*  
+**3.20** *permanence* 
 always
 
-**3.21** *temporariness*  
-for + NP (as in: for a ,week)  
+**3.21** *temporariness* 
+for + NP (as in: for a ˎweek) 
 not always
 
-**3.22** *repetitiousness*  
+**3.22** *repetitiousness* 
 again, many times, twice ®, several times ®
 
-**3.23** *uniqueness*  
-(only) once ®  
+**3.23** *uniqueness* 
+(only) once ® 
 (only) one time
 
-**3.24** *commencement*  
-to begin ®, to start  
-since + NP, from (as in: I ·work from '9 to ,12.)
+**3.24** *commencement* 
+to begin ®, to start 
+since + NP, from (as in: I ·work from ˈ9 to ˎ12.)
 
-**3.25** *cessation*  
-to end ®, to stop  
-till, to (as in: from '9 to ,12)
+**3.25** *cessation* 
+to end ®, to stop 
+till, to (as in: from ˈ9 to ˎ12)
 
-**3.26** *stability*  
-to stay (as in: I am 'going to ·stay ·here for a ,week; 'Will it ·stay ,dry to·day?)  
-to wait (as in: We 'had to ·wait for an ,hour.)
+**3.26** *stability* 
+to stay (as in: I am ˈgoing to ·stay ·here for a ˎweek; ˈWill it ·stay ˎdry to·day?) 
+to wait (as in: We ˈhad to ·wait for an ˎhour.)
 
-**3.27** *change, transition*  
-to become (as in: 'Sugar has be·come ex,pensive.)  
+**3.27** *change, transition* 
+to become (as in: ˈSugar has be·come exˎpensive.) 
 suddenly …
 
 ### 4 Quantitative
 
-**4.1** *number*  
-singular/plural  
-cardinal numerals up to four digits, ordinal numerals up to two digits  
-another (as in: 'May I have a·nother cup of ,tea, ·please?)  
-about (as in: I ·have about ,£25.)
+**4.1** *number* 
+singular/plural 
+cardinal numerals up to four digits, ordinal numerals up to two digits 
+another (as in: ˈMay I have a·nother cup of ˎtea, ·please?) 
+about (as in: I ·have about ˎ£25.)
 
 <!-- el:end id=prose_p031 -->
 
@@ -1274,94 +1369,95 @@ about (as in: I ·have about ,£25.)
 
 <!-- page:25 -->
 
-<!-- el:start type=prose id=prose_p032 page=26 -->
-<!-- vision: Waystage PDF page 32 -->
 
-**4.2** *quantity*  
-the following determiners: all, a lot of, (not) any, enough, (a) few, (a) little, many, more, most, much, no, some  
-half (as in: 'Give me ,half of it; the ,other ·half; 'half a ,bottle)  
-a bottle/cup/glass/piece of …  
+<!-- vision: Waystage leaf 32 doc p.26 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p032 page=26 -->
+
+**4.2** *quantity* 
+the following determiners: all, a lot of, (not) any, enough, (a) few, (a) little, many, more, most, much, no, some 
+half (as in: ˈGive me ˎhalf of it; the ˎother ·half; ˈhalf a ˎbottle) 
+a bottle/cup/glass/piece of … 
 See further: General Notions 2.8.
 
-**4.3** *degree*  
-comparative and superlative degrees of adjectives and adverbs  
-enough (as in: good enough), too …, very …  
-a little (as in: a 'little ,better), much (as in: 'much ,better)  
-almost, quite (as in: 'quite ,old) ®  
-rather (as in: 'rather ,old) ®
+**4.3** *degree* 
+comparative and superlative degrees of adjectives and adverbs 
+enough (as in: good enough), too …, very … 
+a little (as in: a ˈlittle ˎbetter), much (as in: ˈmuch ˎbetter) 
+almost, quite (as in: ˈquite ˎold) ® 
+rather (as in: ˈrather ˎold) ®
 
 ### 5 Qualitative
 
 **5.1** *physical*
 
-**5.1.1** *shape*  
+**5.1.1** *shape* 
 adjectives: round, square
 
-**5.1.2** *dimension*  
+**5.1.2** *dimension* 
 See General Notions 2.8.
 
-**5.1.3** *moisture, humidity*  
-dry, wet  
+**5.1.3** *moisture, humidity* 
+dry, wet 
 to dry, to make wet
 
-**5.1.4** *visibility, sight*  
-NP + can(not) see + NP  
-to look (as in: 'Don't ·look 'now!), to look at  
+**5.1.4** *visibility, sight* 
+NP + can(not) see + NP 
+to look (as in: ˈDon't ·look ˈnow!), to look at 
 adjectives: dark, light
 
-**5.1.5** *audibility, hearing*  
-NP + can(not) hear + NP  
-to listen, to listen to  
-noise  
+**5.1.5** *audibility, hearing* 
+NP + can(not) hear + NP 
+to listen, to listen to 
+noise 
 loud
 
-**5.1.6** *taste*  
-nice (as in: This ·meat is 'not ·very ,nice.)
+**5.1.6** *taste* 
+nice (as in: This ·meat is ˈnot ·very ˎnice.)
 
-**5.1.7** *texture*  
+**5.1.7** *texture* 
 hard, soft, strong
 
-**5.1.8** *colour*  
-colour  
-adjectives: blue, black, brown, green, grey, orange, red, white, yellow  
+**5.1.8** *colour* 
+colour 
+adjectives: blue, black, brown, green, grey, orange, red, white, yellow 
 light, dark (as in: a light/dark colour; light/dark blue)
 
-**5.1.9** *age*  
-age ®  
-I am … (years old)  
-How old + *be* + NP?  
-new, old, young  
+**5.1.9** *age* 
+age ® 
+I am … (years old) 
+How old + *be* + NP? 
+new, old, young 
 adult, child; month, year
 
-**5.1.10** *physical condition*  
-all right, dead, ill, well  
-to break, to cut, to hurt, to die  
+**5.1.10** *physical condition* 
+all right, dead, ill, well 
+to break, to cut, to hurt, to die 
 to repair
 
-**5.1.11** *accessibility*  
-to close ®, to open ®  
-(as in: The ·shop 'opens/'closes at ,six.)  
+**5.1.11** *accessibility* 
+to close ®, to open ® 
+(as in: The ·shop ˈopens/ˈcloses at ˎsix.) 
 closed/open
 
-**5.1.12** *cleanness*  
-to clean, to wash  
+**5.1.12** *cleanness* 
+to clean, to wash 
 clean
 
-**5.1.13** *material*  
-nouns and adjectives: gold, leather, nylon, paper, plastic, silver  
-nouns: wood, wool  
+**5.1.13** *material* 
+nouns and adjectives: gold, leather, nylon, paper, plastic, silver 
+nouns: wood, wool 
 made of wood, made of wool
 
-**5.1.14** *fullness*  
-empty, full (of)  
+**5.1.14** *fullness* 
+empty, full (of) 
 to fill
 
 **5.2** *evaluative*
 
-**5.2.1** *value, price*  
-How much + *be* …? (as in: 'How ·much are ·these ,shoes?)  
-to be (as in: 'How ·much is ,this?)  
-price ®  
+**5.2.1** *value, price* 
+How much + *be* …? (as in: ˈHow ·much are ·these ˎshoes?) 
+to be (as in: ˈHow ·much is ˎthis?) 
+price ® 
 cheap, expensive
 
 <!-- el:end id=prose_p032 -->
@@ -1370,82 +1466,83 @@ cheap, expensive
 
 <!-- page:26 -->
 
+
+<!-- vision: Waystage leaf 33 doc p.27 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p033 page=27 -->
-<!-- vision: Waystage PDF page 33 -->
 
-**5.2.2** *quality*  
-adjectives: bad, worse, worst; good, better, best; fine  
-adverb: well (as in: He 'cannot ,write ·English ·very ·well.)
+**5.2.2** *quality* 
+adjectives: bad, worse, worst; good, better, best; fine 
+adverb: well (as in: He ˈcannot ˎwrite ·English ·very ·well.)
 
-**5.2.3** *acceptability*  
-'That's ·all ,right/,fine.
+**5.2.3** *acceptability* 
+ˈThat's ·all ˎright/ˎfine.
 
-**5.2.4** *adequacy, inadequacy*  
-NP + *be* all right  
+**5.2.4** *adequacy, inadequacy* 
+NP + *be* all right 
 NP + *be* (not) enough
 
-**5.2.5** *desirability, undesirability*  
+**5.2.5** *desirability, undesirability* 
 to like
 
-**5.2.6** *correctness, incorrectness*  
-adjectives: better, right, wrong  
+**5.2.6** *correctness, incorrectness* 
+adjectives: better, right, wrong 
 to be right, to be wrong
 
-**5.2.7** *capacity, incapacity*  
+**5.2.7** *capacity, incapacity* 
 NP + can(not) …
 
-**5.2.8** *importance, unimportance*  
+**5.2.8** *importance, unimportance* 
 (not) important
 
-**5.2.9** *abnormality*  
+**5.2.9** *abnormality* 
 strange
 
-**5.2.10** *facility, difficulty*  
+**5.2.10** *facility, difficulty* 
 easy, difficult
 
 ### 6 Mental
 
-**6.1** *reflection*  
+**6.1** *reflection* 
 to believe ®, to be sure ®, to be certain ®, to hope, to know, to think, to wonder ®
 
-**6.2** *expression*  
-to ask, to forbid ®, to say, to speak, to talk, to tell, to thank, to write  
+**6.2** *expression* 
+to ask, to forbid ®, to say, to speak, to talk, to tell, to thank, to write 
 noun: question
 
 ### 7 Relational
 
-**7.1** *spatial relations*  
+**7.1** *spatial relations* 
 See General Notions 2.2–3, 2.5–7.
 
-**7.2** *temporal relations*  
+**7.2** *temporal relations* 
 See General Notions 3.4–14.
 
 **7.3** *action/event relations*
 
-**7.3.1** *agency*  
-agent as subject  
+**7.3.1** *agency* 
+agent as subject 
 agent in by-adjunct (passive) ®
 
-**7.3.2** *objective/factitive*  
-objective as object (as in: 'John ·opened the ,door.)  
-objective as subject of passive (as in: The 'door was ·opened by ,John.) ®  
-factitive as object (as in: She 'made a ·new ,dress.)  
-factitive as subject of passive (as in: 'This ca,thedral | was ·built in the 'thirteenth ,century.) ®
+**7.3.2** *objective/factitive* 
+objective as object (as in: ˈJohn ·opened the ˎdoor.) 
+objective as subject of passive (as in: The ˈdoor was ·opened by ˎJohn.) ® 
+factitive as object (as in: She ˈmade a ·new ˎdress.) 
+factitive as subject of passive (as in: ˈThis caˎthedral | was ·built in the ˈthirteenth ˎcentury.) ®
 
-**7.3.3** *dative*  
-dative as indirect object (as in: He 'gave me a ,book.)  
-dative in to-adjunct (as in: He 'gave the ·ticket to ,me.)
+**7.3.3** *dative* 
+dative as indirect object (as in: He ˈgave me a ˎbook.) 
+dative in to-adjunct (as in: He ˈgave the ·ticket to ˎme.)
 
-**7.3.4** *instrumental*  
-instrumental in with-adjunct (as in: You can 'open the ,door | with 'this ,key.)
+**7.3.4** *instrumental* 
+instrumental in with-adjunct (as in: You can ˈopen the ˎdoor | with ˈthis ˎkey.)
 
-**7.3.5** *benefactive*  
-benefactive in for-adjunct (as in: I've 'bought this for my ,wife.)
+**7.3.5** *benefactive* 
+benefactive in for-adjunct (as in: I've ˈbought this for my ˎwife.)
 
-**7.3.6** *place*  
+**7.3.6** *place* 
 See General Notions, section 2.
 
-**7.3.7** *time*  
+**7.3.7** *time* 
 See General Notions, section 3.
 
 <!-- el:end id=prose_p033 -->
@@ -1454,69 +1551,70 @@ See General Notions, section 3.
 
 <!-- page:27 -->
 
-<!-- el:start type=prose id=prose_p034 page=28 -->
-<!-- vision: Waystage PDF page 34 -->
 
-**7.3.8** *manner, means*  
-in this way, like this ®  
+<!-- vision: Waystage leaf 34 doc p.28 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p034 page=28 -->
+
+**7.3.8** *manner, means* 
+in this way, like this ® 
 adverbs: badly, fast, hard (as in: to work hard), how?, quickly, slowly, well
 
 **7.4** *contrastive relations*
 
-**7.4.1** *equality, inequality*  
-(not) the same (thing)  
-different (from), else (as in: 'Anything 'else?) ®, other, another (as in: I want a'nother ,room.)
+**7.4.1** *equality, inequality* 
+(not) the same (thing) 
+different (from), else (as in: ˈAnything ˈelse?) ®, other, another (as in: I want aˈnother ˎroom.)
 
-**7.4.2** *correspondence, contrast*  
-in addition to the exponents of 7.4.1:  
-like (as in: It's ·like an ,orange.)  
+**7.4.2** *correspondence, contrast* 
+in addition to the exponents of 7.4.1: 
+like (as in: It's ·like an ˎorange.) 
 comparative degree + than …
 
 **7.5** *possessive relations*
 
-**7.5.1** *ownership, possession*  
-possessive adjectives (my, your, etc.)  
-possessive pronouns (mine, yours, etc.) (as in: ·This is 'mine.)  
-genitive singular of personal nouns  
-of-adjuncts, with-adjuncts, without-adjuncts (as in: You 'cannot ·travel here with·out a ,passport.)  
-to have (got), to get (as in: I ·got a 'nice ,present from him.), to give, to keep (as in: 'May I ,keep this?)
+**7.5.1** *ownership, possession* 
+possessive adjectives (my, your, etc.) 
+possessive pronouns (mine, yours, etc.) (as in: ·This is ˈmine.) 
+genitive singular of personal nouns 
+of-adjuncts, with-adjuncts, without-adjuncts (as in: You ˈcannot ·travel here with·out a ˎpassport.) 
+to have (got), to get (as in: I ·got a ˈnice ˎpresent from him.), to give, to keep (as in: ˈMay I ˎkeep this?)
 
 **7.6** *logical relations*
 
-**7.6.1** *conjunction*  
-and, but  
-also ®, too (as in: John is ·leaving | ,too.)  
-together  
-pair (as in: a 'pair of ,shoes), group (as in: a 'group of ,people)
+**7.6.1** *conjunction* 
+and, but 
+also ®, too (as in: John is ·leaving | ˎtoo.) 
+together 
+pair (as in: a ˈpair of ˎshoes), group (as in: a ˈgroup of ˎpeople)
 
-**7.6.2** *disjunction*  
+**7.6.2** *disjunction* 
 or
 
-**7.6.3** *inclusion/exclusion*  
-with (as in: We are 'going to ·take him ,with us.), without  
-also ®, too (as in: ,He is ·leaving | ,too.)
+**7.6.3** *inclusion/exclusion* 
+with (as in: We are ˈgoing to ·take him ˎwith us.), without 
+also ®, too (as in: ˎHe is ·leaving | ˎtoo.)
 
-**7.6.4** *cause*  
-Why …?  
+**7.6.4** *cause* 
+Why …? 
 because + sub-clause
 
-**7.6.5** *effect*  
-then …, so … (as in: He ,ate too ·much, | so he 'did not ·feel ,well.)
+**7.6.5** *effect* 
+then …, so … (as in: He ˎate too ·much, | so he ˈdid not ·feel ˎwell.)
 
-**7.6.6** *reason*  
-Why …?  
+**7.6.6** *reason* 
+Why …? 
 because + sub-clause
 
-**7.6.7** *purpose*  
-to … (as in: He ·did it to ,help me.)  
+**7.6.7** *purpose* 
+to … (as in: He ·did it to ˎhelp me.) 
 in order to … ®
 
-**7.6.8** *condition*  
+**7.6.8** *condition* 
 if + sub-clause ®
 
-**7.6.9** *focusing*  
-about (as in: I 'don't ·want to ,talk a·bout it.)  
-only (as in: I 'only ·wanted to 'help.)
+**7.6.9** *focusing* 
+about (as in: I ˈdon't ·want to ˎtalk a·bout it.) 
+only (as in: I ˈonly ·wanted to ˇhelp.)
 
 <!-- el:end id=prose_p034 -->
 
@@ -1524,8 +1622,9 @@ only (as in: I 'only ·wanted to 'help.)
 
 <!-- page:28 -->
 
+
+<!-- vision: Waystage leaf 35 doc p.29 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p035 page=29 -->
-<!-- vision: Waystage PDF page 35 -->
 
 ### 8 Deixis
 
@@ -1533,30 +1632,30 @@ Deixis is the grammatical system for referring or identifying by means of lingui
 
 **8.1** *definite*
 
-**8.1.1** *non-anaphoric*  
-personal pronouns (subject forms and object forms)  
-possessive adjectives: my, your, etc.  
-possessive pronouns as complement (as in: 'This is 'mine.)  
-demonstrative adjectives: this, that, these, those, such ®  
-definite article: the  
-interrogative pronouns: who, what, which  
+**8.1.1** *non-anaphoric* 
+personal pronouns (subject forms and object forms) 
+possessive adjectives: my, your, etc. 
+possessive pronouns as complement (as in: ˈThis is ˈmine.) 
+demonstrative adjectives: this, that, these, those, such ® 
+definite article: the 
+interrogative pronouns: who, what, which 
 interrogative adjectives: whose ®, what, which
 
-**8.1.2** *anaphoric*  
-personal pronouns (subject forms and object forms)  
-possessive adjectives  
-possessive pronouns as complement (as in: 'You ·take it, | it's 'yours.)  
-demonstrative adjectives and pronouns  
-relative pronouns ®  
-definite article: the  
-adverbs: here, there, now, then, so (as in: He 'wanted to ·go, | but he 'didn't ,say so.)  
-propword: one (as in: I 'like the ,red one.)
+**8.1.2** *anaphoric* 
+personal pronouns (subject forms and object forms) 
+possessive adjectives 
+possessive pronouns as complement (as in: ˈYou ·take it, | it's ˈyours.) 
+demonstrative adjectives and pronouns 
+relative pronouns ® 
+definite article: the 
+adverbs: here, there, now, then, so (as in: He ˈwanted to ·go, | but he ˈdidn't ˎsay so.) 
+propword: one (as in: I ˈlike the ˎred one.)
 
-**8.2** *indefinite*  
-indefinite article: a, an  
-indefinite pronouns: someone ®, (not) … anyone, nobody ®, something, (not) … anything, nothing, everything, all (as in: They 'all ·went ,home; I ·want 'all of it.), some (as in: 'Some of them ·went ,home.), it (as in: It's ,raining.)  
-adverbs: everywhere, (not) … anywhere, somewhere, nowhere ®; sometimes, never, always  
-semi-deictics: person (as in: There were 'five ·persons ,present.), people (as in: There were 'many ,people ·present.), thing (as in: 'What do you ,call that ·thing?), to do (as in: 'What are you ·going to ·do to,night?)
+**8.2** *indefinite* 
+indefinite article: a, an 
+indefinite pronouns: someone ®, (not) … anyone, nobody ®, something, (not) … anything, nothing, everything, all (as in: They ˈall ·went ˎhome; I ·want ˈall of it.), some (as in: ˈSome of them ·went ˎhome.), it (as in: It's ˎraining.) 
+adverbs: everywhere, (not) … anywhere, somewhere, nowhere ®; sometimes, never, always 
+semi-deictics: person (as in: There were ˈfive ·persons ˎpresent.), people (as in: There were ˈmany ˎpeople ·present.), thing (as in: ˈWhat do you ˎcall that ·thing?), to do (as in: ˈWhat are you ·going to ·do toˎnight?)
 
 <!-- el:end id=prose_p035 -->
 
@@ -1629,12 +1728,13 @@ The themes may represent the situational context in which particular transaction
 
 <!-- page:31 -->
 
+
+<!-- vision: Waystage leaf 38 doc p.32 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p038 page=32 -->
-<!-- vision: Waystage PDF page 38 -->
 
 topics for communicative interactions (e.g. talking about shopping facilities). Under the title of each theme an indication is given as to what learners at *Waystage* may be expected to be able to do with regard to it. These indications are necessarily incomplete and are to be supplemented from other components of our specification.
 
-The specification contains various open-ended items indicated by italics (e.g. *names of occupations*). In these cases we leave it to materials designers, teachers and learners to identify those specific notions, if any, which suit their own purposes. In order to provide some guidance we add, in a number of cases, some items that might be primarily considered, preceded by 'e.g.'. It should be understood that such examples are merely suggestions and in no way recommended for inclusion in any kind of prescribed syllabus.
+The specification contains various open-ended items indicated by italics (e·g. *names of occupations*). In these cases we leave it to materials designers, teachers and learners to identify those specific notions, if any, which suit their own purposes. In order to provide some guidance we add, in a number of cases, some items that might be primarily considered, preceded by ˈe·g.'. It should be understood that such examples are merely suggestions and in no way recommended for inclusion in any kind of prescribed syllabus.
 
 A number of items are accompanied by illustrative sentences which are meant to clarify the meaning of the item involved. In cases where there is no such example the item is either unambiguous or the intended meaning follows from the (sub-)theme under which it is included.
 
@@ -1646,25 +1746,25 @@ A number of items are accompanied by illustrative sentences which are meant to c
 
 The learners can say who they are, spell their name, state their address, give their telephone number, say when and where they were born, state their age, sex, say whether they are married or not, state their nationality, say where they are from, what they do for a living, describe their family, state their religion, if any, state their likes and dislikes; elicit/understand similar information from others.
 
-**1.1 name**  
-name  
-first name  
-surname  
-Mr …  
-Mrs …  
-Miss …  
-Ms … (writing)  
-to write  
-'How do you ,write your ·name?  
-*names of letters of the alphabet*  
-to be  
-He is 'Bill ,Robinson.
+**1.1 name** 
+name 
+first name 
+surname 
+Mr … 
+Mrs … 
+Miss … 
+Ms … (writing) 
+to write 
+ˈHow do you ˎwrite your ·name? 
+*names of letters of the alphabet* 
+to be 
+He is ˈBill ˎRobinson.
 
-**1.2 address**  
-to live  
-'Where do you ,live?  
-street  
-road  
+**1.2 address** 
+to live 
+ˈWhere do you ˎlive? 
+street 
+road 
 park
 
 <!-- el:end id=prose_p038 -->
@@ -1673,93 +1773,94 @@ park
 
 <!-- page:32 -->
 
-<!-- el:start type=prose id=prose_p039 page=33 -->
-<!-- vision: Waystage PDF page 39 -->
 
-square  
-number  
-I ·live at 'number ·fif,teen.  
-country  
-I 'live in the ,country.  
-town  
-village  
+<!-- vision: Waystage leaf 39 doc p.33 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p039 page=33 -->
+
+square 
+number 
+I ·live at ˈnumber ·fifˎteen. 
+country 
+I ˈlive in the ˎcountry. 
+town 
+village 
 *names of countries*
 
-**1.3 telephone number**  
-telephone  
-'Have you got a ,telephone?  
-to phone  
-telephone number  
+**1.3 telephone number** 
+telephone 
+ˈHave you got a ˎtelephone? 
+to phone 
+telephone number 
 O (as pronounced in telephone numbers)
 
-**1.4 date and place of birth**  
-to be born  
-I was 'born in ,London on …  
-*names of the months*  
+**1.4 date and place of birth** 
+to be born 
+I was ˈborn in ˎLondon on … 
+*names of the months* 
 *the required numerals*
 
-**1.5 age**  
+**1.5 age** 
 See General Notions 5.1.9.
 
-**1.6 sex**  
-man  
-woman  
-boy  
+**1.6 sex** 
+man 
+woman 
+boy 
 girl
 
-**1.7 marital status**  
+**1.7 marital status** 
 (not) married
 
-**1.8 nationality**  
+**1.8 nationality** 
 *names of nationalities*
 
-**1.9 origin**  
-to be from …  
-I am from ,London.
+**1.9 origin** 
+to be from … 
+I am from ˎLondon.
 
-**1.10 occupation**  
-job  
-*names of occupations*  
-*names of places of work*  
-e.g. factory, farm, hospital, office, school, shop  
-*names of occupational activities*  
-e.g. to buy, to teach, to sell, to work (as in: I 'work in an ,office.)  
-boss  
-to work  
-'Where do you ,work?
+**1.10 occupation** 
+job 
+*names of occupations* 
+*names of places of work* 
+e.g. factory, farm, hospital, office, school, shop 
+*names of occupational activities* 
+e·g. to buy, to teach, to sell, to work (as in: I ˈwork in an ˎoffice.) 
+boss 
+to work 
+ˈWhere do you ˎwork?
 
-**1.11 education**  
-school  
-university  
-student  
-to study  
-to go to (school, university)  
-*names of subjects*  
+**1.11 education** 
+school 
+university 
+student 
+to study 
+to go to (school, university) 
+*names of subjects* 
 e.g. English, history, science, mathematics
 
-**1.12 family**  
-father and mother  
-husband  
-wife  
-child  
-son  
-daughter  
-brother  
+**1.12 family** 
+father and mother 
+husband 
+wife 
+child 
+son 
+daughter 
+brother 
 sister
 
-**1.13 religion**  
-church  
+**1.13 religion** 
+church 
 *name of one's own religion, if any*
 
-**1.14 likes and dislikes**  
+**1.14 likes and dislikes** 
 See Language Functions 2.21–23; objects of likes and dislikes to be derived from other themes.
 
-**1.15 personal appearance**  
-tall  
-short  
-slim  
-dark  
-fair  
+**1.15 personal appearance** 
+tall 
+short 
+slim 
+dark 
+fair 
 good-looking
 
 <!-- el:end id=prose_p039 -->
@@ -1768,80 +1869,81 @@ good-looking
 
 <!-- page:33 -->
 
+
+<!-- vision: Waystage leaf 40 doc p.34 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p040 page=34 -->
-<!-- vision: Waystage PDF page 40 -->
 
 ### 2 House and home, environment
 
 The learners can describe a house or flat and the rooms in it, refer to furniture and bedclothes, services and amenities, describe regions (particularly the one where they themselves live); obtain/understand similar descriptions and references from others; exchange views on these matters.
 
-**2.1 accommodation, rooms**  
-house  
-flat  
-room  
-*names of rooms*  
-e.g. bathroom, bedroom, kitchen, toilet, living-room  
-floor  
-The 'bedrooms are on the ·first ,floor.  
-stairs  
-downstairs  
-The 'kitchen is ·down,stairs.  
-'Let's go ·down,stairs.  
-upstairs  
-The 'bathroom is ·up,stairs.  
-'Let's go ·up,stairs.  
-lift  
-window  
-door  
+**2.1 accommodation, rooms** 
+house 
+flat 
+room 
+*names of rooms* 
+e.g. bathroom, bedroom, kitchen, toilet, living-room 
+floor 
+The ˈbedrooms are on the ·first ˎfloor. 
+stairs 
+downstairs 
+The ˈkitchen is ·downˎstairs. 
+ˈLet's go ·downˎstairs. 
+upstairs 
+The ˈbathroom is ·upˎstairs. 
+ˈLet's go ·upˎstairs. 
+lift 
+window 
+door 
 garden
 
-**2.2 furniture, bedclothes**  
-furniture  
-*names of pieces of furniture*  
-e.g. bed, chair, table  
-blanket  
-pillow  
+**2.2 furniture, bedclothes** 
+furniture 
+*names of pieces of furniture* 
+e.g. bed, chair, table 
+blanket 
+pillow 
 sheet
 
-**2.3 services**  
-electricity  
-gas  
-heating  
-telephone  
-water  
-on/off  
-The 'heating is ,on/,off.  
-to turn on/off  
-'How do you ·turn on/off the ,heating?
+**2.3 services** 
+electricity 
+gas 
+heating 
+telephone 
+water 
+on/off 
+The ˈheating is ˎon/ˎoff. 
+to turn on/off 
+ˈHow do you ·turn on/off the ˎheating?
 
-**2.4 amenities**  
-bath  
-shower  
-radio  
-television  
+**2.4 amenities** 
+bath 
+shower 
+radio 
+television 
 garage
 
-**2.5 region**  
-farm  
-factory  
-fields  
-forest  
-hill  
-lake  
-mountain  
-canal  
-river  
-sea  
-beach  
+**2.5 region** 
+farm 
+factory 
+fields 
+forest 
+hill 
+lake 
+mountain 
+canal 
+river 
+sea 
+beach 
 island
 
-**2.6 flora and fauna**  
-animal  
-*names of animals*  
-e.g. bird, cat, dog, fly, horse, insect  
-plant  
-tree  
-flower  
+**2.6 flora and fauna** 
+animal 
+*names of animals* 
+e.g. bird, cat, dog, fly, horse, insect 
+plant 
+tree 
+flower 
 grass
 
 <!-- el:end id=prose_p040 -->
@@ -1850,8 +1952,9 @@ grass
 
 <!-- page:34 -->
 
+
+<!-- vision: Waystage leaf 41 doc p.35 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p041 page=35 -->
-<!-- vision: Waystage PDF page 41 -->
 
 ## 3 Daily life
 
@@ -1979,8 +2082,9 @@ to sing
 
 <!-- page:35 -->
 
+
+<!-- vision: Waystage leaf 42 doc p.36 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p042 page=36 -->
-<!-- vision: Waystage PDF page 42 -->
 
 to play
 
@@ -2128,8 +2232,9 @@ crossing
 
 <!-- page:36 -->
 
+
+<!-- vision: Waystage leaf 43 doc p.37 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p043 page=37 -->
-<!-- vision: Waystage PDF page 43 -->
 
 to cross
 
@@ -2265,8 +2370,9 @@ to answer
 
 <!-- page:37 -->
 
+
+<!-- vision: Waystage leaf 44 doc p.38 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p044 page=38 -->
-<!-- vision: Waystage PDF page 44 -->
 
 ## 7 Health and body care
 
@@ -2392,8 +2498,9 @@ to show
 
 <!-- page:38 -->
 
+
+<!-- vision: Waystage leaf 45 doc p.39 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p045 page=39 -->
-<!-- vision: Waystage PDF page 45 -->
 
 ### 8.2 foodstuffs
 
@@ -2541,8 +2648,9 @@ sugar
 
 <!-- page:39 -->
 
+
+<!-- vision: Waystage leaf 46 doc p.40 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p046 page=40 -->
-<!-- vision: Waystage PDF page 46 -->
 
 drink
 
@@ -2658,8 +2766,9 @@ The learners can ask the way and give strangers directions. See General Notions 
 
 <!-- page:40 -->
 
+
+<!-- vision: Waystage leaf 47 doc p.41 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p047 page=41 -->
-<!-- vision: Waystage PDF page 47 -->
 
 ## 12 Language
 
@@ -2955,18 +3064,19 @@ In addition to what is specified above, *Waystage* contains a further, implicit,
 
 <!-- page:49 -->
 
+
+<!-- vision: Waystage leaf 56 doc p.50 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p056 page=50 -->
-<!-- vision: Waystage PDF page 56 -->
 
 ## 9 Verbal exchange patterns
 
-Exponents of single language functions may occur in isolation. 'Stop!' as an order, and 'Look out!' as a warning, are obvious examples. On the whole, however, function exponents are more likely to occur in sequences. Such sequences will usually exhibit certain regularities in the order of their elements. Thus, an apology will very often be followed by an explanation: 'I'm sorry I'm late, but I had to see my dentist first.' Such more or less regularly occurring combinations may be referred to as *patterns*. Monologues may be thus patterned, if only in that they may start with an utterance calling for attention and end with one signalling termination. With regard to oral communication involving contributions by the learner, the emphasis, at *Waystage*, is not so much on monologues as on verbal exchanges between two, or more than two, speakers. In such exchanges the participants may mesh their contributions in accordance with certain conventions. We then speak of *verbal exchange patterns*. It is a characteristic of these patterns that they are variable, in that a conversation may move in various directions. Especially when they are very short, however, involving only two or three utterances, they may also be standardised. This may be said, for instance, of the typical greeting + response pattern occurring when two people pass each other in the street. The large majority of the verbal exchange patterns, however, that are relevant to *Waystage* learners in the light of the objective are variable. We may illustrate this by reproducing two examples of 'predictable fish-and-chip discourses' provided by A. J. Peck in an article called 'Some ideas on teaching discourse synthesis'. (The function labels are ours.)
+Exponents of single language functions may occur in isolation. ˈStop!' as an order, and ˈLook out!' as a warning, are obvious examples. On the whole, however, function exponents are more likely to occur in sequences. Such sequences will usually exhibit certain regularities in the order of their elements. Thus, an apology will very often be followed by an explanation: ˈI'm sorry I'm late, but I had to see my dentist first.' Such more or less regularly occurring combinations may be referred to as *patterns*. Monologues may be thus patterned, if only in that they may start with an utterance calling for attention and end with one signalling termination. With regard to oral communication involving contributions by the learner, the emphasis, at *Waystage*, is not so much on monologues as on verbal exchanges between two, or more than two, speakers. In such exchanges the participants may mesh their contributions in accordance with certain conventions. We then speak of *verbal exchange patterns*. It is a characteristic of these patterns that they are variable, in that a conversation may move in various directions. Especially when they are very short, however, involving only two or three utterances, they may also be standardised. This may be said, for instance, of the typical greeting + response pattern occurring when two people pass each other in the street. The large majority of the verbal exchange patterns, however, that are relevant to *Waystage* learners in the light of the objective are variable. We may illustrate this by reproducing two examples of ˈpredictable fish-and-chip discourses' provided by A. J. Peck in an article called ˈSome ideas on teaching discourse synthesis'. (The function labels are ours.)
 
 | | | |
 | --- | --- | --- |
 | 1 Sales person | : ˈYes? | asking for wish (opening) |
 | Customer | : ˈHaddock and ˎchips. | expressing wish |
-| Sales person | : ·That'll be ˈ£1 ˎ20. | asking for payment |
+| Sales person | : ·That'll be ˈ£1ˎ20. | asking for payment |
 | Customer | : (gives money) | (making payment) |
 | Sales person | : ˎThanks. | thanking (termination) |
 
@@ -2986,15 +3096,16 @@ Exponents of single language functions may occur in isolation. 'Stop!' as an ord
 
 <!-- page:50 -->
 
+
+<!-- vision: Waystage leaf 57 doc p.51 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p057 page=51 -->
-<!-- vision: Waystage PDF page 57 -->
 
 | | | |
 | --- | --- | --- |
 | Sales person | : ·That'll be ˈ£2 ˎ30 | asking for payment |
 | Customer | : (gives money) | (making payment: non-verbal termination) |
 
-Apart from the variability (by no means exhausted here) of the 'fish-and-chip buying dialogue', we note the occurrence of sub-patterns as well as the integration of non-verbal turns. Communicative ability at *Waystage* implies the ability to play a part in verbal exchange patterns such as the ones illustrated above.
+Apart from the variability (by no means exhausted here) of the fish-and-chip buying dialogue, we note the occurrence of sub-patterns as well as the integration of non-verbal turns. Communicative ability at *Waystage* implies the ability to play a part in verbal exchange patterns such as the ones illustrated above.
 
 A number of dialogue types (which may, in fact, involve more than two participants) are explicitly or implicitly covered by our objective. They involve the occurrence of verbal exchange patterns with a certain measure of predictability. They are particularly associated with the following communicative events:
 
@@ -3040,10 +3151,11 @@ However predictable the occurrence of certain verbal exchange patterns in the ab
 
 <!-- page:51 -->
 
-<!-- el:start type=prose id=prose_p058 page=52 -->
-<!-- vision: Waystage PDF page 58 -->
 
-conversation does not lend itself to a didactically meaningful description of the kind we try to provide in this document. 'All we can be said to understand about such talk,' Peck observes, 'is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: 'We can teach pupils to recognise these elements of discourse and to use them themselves.'
+<!-- vision: Waystage leaf 58 doc p.52 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p058 page=52 -->
+
+conversation does not lend itself to a didactically meaningful description of the kind we try to provide in this document. ‘All we can be said to understand about such talk,' Peck observes, ‘is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: ‘We can teach pupils to recognise these elements of discourse and to use them themselves.'
 
 Chapter 3 contains a classified list of the language functions, together with their common exponents, which are combined in verbal interaction. We have not thought it necessary, or even desirable, to attempt to specify the verbal interaction patterns to be used by learners (e.g. in the form of praxeograms).
 
@@ -3055,8 +3167,9 @@ As we have shown, not even the most routine transactions of daily life are fully
 
 <!-- page:52 -->
 
+
+<!-- vision: Waystage leaf 59 doc p.53 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p059 page=53 -->
-<!-- vision: Waystage PDF page 59 -->
 
 - the schemata are largely shared by European societies. Where transactions and interactions are governed by different rules, effective communication and co-operation depend, of course, on mutual understanding between participants from different backgrounds (e.g. whether and how bargaining is conducted over prices, whether tipping is expected for small services, etc.);
 - the order in which the steps occur is not altogether fixed;
@@ -3087,8 +3200,9 @@ For these reasons, we do not specify here in an exhaustive way the patterns of v
 
 <!-- page:53 -->
 
+
+<!-- vision: Waystage leaf 60 doc p.54 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p060 page=54 -->
-<!-- vision: Waystage PDF page 60 -->
 
 3 Selecting goods/services
 
@@ -3112,7 +3226,7 @@ For these reasons, we do not specify here in an exhaustive way the patterns of v
 
 3.3.5 asking for preference
 
-3.3.6 expressing preference  
+3.3.6 expressing preference 
 etc.
 
 3.4 identifying particular goods required
@@ -3159,8 +3273,9 @@ etc.
 
 <!-- page:54 -->
 
+
+<!-- vision: Waystage leaf 61 doc p.55 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p061 page=55 -->
-<!-- vision: Waystage PDF page 61 -->
 
 It will be seen that the sequence is not strictly linear. In hotels and restaurants 4.4 may come between 3.4 and 3.5, payment being made normally at the end of the meal or period of residence. In a village shop elements of 5.2 may be interspersed with any of the other stages. In the case of supermarkets and especially mechanised vending machines 2 and 5 do not apply. 3.1–3.6 and 4.3–4.4 are carried out in silence by the customer in 'dialogue' with written descriptions and instructions – a process often preferred by foreign visitors and even native speakers as avoidance strategies against expected difficulties of interpersonal communication.
 
@@ -3178,8 +3293,9 @@ Peck's examples are brief and businesslike, in a situation where choice is extre
 
 <!-- page:55 -->
 
+
+<!-- vision: Waystage leaf 62 doc p.56 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p062 page=56 -->
-<!-- vision: Waystage PDF page 62 -->
 
 ## 10 Compensation strategies
 
@@ -3205,8 +3321,9 @@ There is no direct relationship between these attitudinal aspects and specific a
 
 <!-- page:56 -->
 
+
+<!-- vision: Waystage leaf 63 doc p.57 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p063 page=57 -->
-<!-- vision: Waystage PDF page 63 -->
 
 Like other aspects of communicative ability at *Waystage*, this may be described and listed in terms of what the learner can do, and supplemented with recommended exponents where this is appropriate. Because some items will involve the fulfilling of particular language functions and the handling of particular notions, a partial overlap with other lists in the present objective is inevitable. A similar overlap will occur between the present list and that of the chapter on 'dealing with texts' (Chapter 6).
 
@@ -3232,8 +3349,9 @@ Like other aspects of communicative ability at *Waystage*, this may be described
 
 <!-- page:57 -->
 
+
+<!-- vision: Waystage leaf 64 doc p.58 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p064 page=58 -->
-<!-- vision: Waystage PDF page 64 -->
 
 2 carry out the operation described in I.2, provided that the contextual clues are presented in such a way that they are recognisable as such and interpretable in linear sequence without necessitating backtracking and reconsideration of the context;
 
@@ -3245,8 +3363,8 @@ Like other aspects of communicative ability at *Waystage*, this may be described
 
 ### III As a speaker, the learner can:
 
-1 introduce a rephrasing  
-(ˇSorry,) I'll ˈstart aˎgain.  
+1 introduce a rephrasing 
+(ˇSorry,) I'll ˈstart aˎgain. 
 (ˇSorry,) I'll ˈtry to ·say that aˎgain.
 
 2 describe by means of paraphrase, particularly by using a general word (person, thing, etc.) or a superordinate, together with a qualification indicating:
@@ -3257,15 +3375,15 @@ Like other aspects of communicative ability at *Waystage*, this may be described
 
 3 describe by referring to qualities and properties:
 
-- general physical properties (See General Notions.)  
+- general physical properties (See General Notions.) 
 It is ·made of ˎwood.
-- specific features  
+- specific features 
 It has ˈthree ˎlegs | and ˈno ˎback.
-- use  
+- use 
 You ˎsit on it.
 
-4 identify by indicating  
-one ·like ˎthat  
+4 identify by indicating 
+one ·like ˎthat 
 I'd ·like ˎthis, ·please.
 
 <!-- el:end id=prose_p064 -->
@@ -3274,38 +3392,44 @@ I'd ·like ˎthis, ·please.
 
 <!-- page:58 -->
 
+
+<!-- vision: Waystage leaf 65 doc p.59 | word-catalog multipass -->
 <!-- el:start type=prose id=prose_p065 page=59 -->
-<!-- vision: Waystage PDF page 65 -->
 
 5 appeal for assistance  
-ˈWhat do you ˎcall ·that (a·gain)?  
-I ˈdon't ·know the ·English/-German, etc. ˎword.  
-In [native language] we say …
 
-### IV As a writer, the learner can:
+> ˈWhat do you ˎcall ·that (a·gain)?  
+> I ˈdon't ·know the ·English/·German, etc. ˎword.  
+> In [native language] we say …
+
+IV As a writer, the learner can:
 
 1 express ignorance  
-I ˈdon't ·know ·how to ˎsay it.  
-I ˈdon't ·know ·what you ˎcall it.
+
+> I ˈdon't ·know ·how to ˎsay it.  
+> I ˈdon't ·know ·what you ˎcall it.
 
 2 use the devices mentioned under III.2 and III.3;
 
 3 use dictionaries, both bilingual and monolingual of an appropriate kind.
 
-### V As a social agent, the learner can:
+V As a social agent, the learner can:
 
 1 apologise for uncertainty or ignorance as to the accepted code of behaviour  
-I'm ˇsorry | I ˈdon't/'didn't ˎknow …
+
+> I'm ˇsorry | I ˈdon't/ˈdidn't ˎknow …
 
 2 refer to what is customary in his/her own country  
-In ˇmy ·country we …
+
+> In ˇmy ·country we …
 
 3 ask for guidance  
-ˈHow is this ˎdone in ·your ·country?  
-ˈHow should I ˎdo this?  
-ˈWhat should I ˎdo?  
-At ˈwhat ·time should I ˎcome?  
-etc.
+
+> ˈHow is this ˎdone in ·your ·country?  
+> ˈHow should I ˎdo this?  
+> ˈWhat should I ˎdo?  
+> At ˈwhat ·time should I ˎcome?  
+> etc.
 
 The above strategies and techniques are those that every learner at *Waystage* may be expected to be able to use in association with the use of the language functions listed in section 6 of Chapter 3. In addition, each individual learner is likely to have other privileged devices at his or her disposal. They may, but will not necessarily, include such techniques as finding information in grammatical surveys, in general reference works, etc., and such strategies as using a synonym for an unknown word, allowing oneself to use grammatically imperfect forms, experimenting with word formation, foreignising a native-language form, etc. Which of these devices the learners are given opportunities to adopt cannot be laid down in a general objective but is to be left to those providing learning facilities.
 
@@ -3339,7 +3463,7 @@ Finally it should be said that the promotion of learner autonomy is a fundamenta
 
 Thus, in describing what learners should be able to do with and through the use of language for communication, we legitimately take into account their use of the experience of language learning to become more efficient and effective language learners as well as language users. It is part of the *Waystage* objective for learners to be willing and able to engage in the struggle to communicate in the situations confronting them with the resources and strategies they command, taking the risk of error, inviting and welcoming various forms of assistance from more experienced interlocutors and, systematically, to learn from the experience. It is also part of the objective that learners should actively seek opportunities for engaging in such encounters, exploiting not only the presence of native speakers in the environment but also the opportunities offered by radio and television broadcasts as well as printed and recorded material.
 
-'Learning to learn', as we said above, should be incorporated into the *Waystage* objective, not as an additional objective that will affect the pragmatic/linguistic content but as one that is to be achieved through the form and manner of presentation and practice of this content or, indeed, through the individual's experience of the language. We shall formulate the learning-to-learn component in terms of a learning objective, but at a fairly high level of generality, leaving scope for a range of concrete realisations by individual learners with possibly different learning styles.
+ˈLearning to learn', as we said above, should be incorporated into the *Waystage* objective, not as an additional objective that will affect the pragmatic/linguistic content but as one that is to be achieved through the form and manner of presentation and practice of this content or, indeed, through the individual's experience of the language. We shall formulate the learning-to-learn component in terms of a learning objective, but at a fairly high level of generality, leaving scope for a range of concrete realisations by individual learners with possibly different learning styles.
 
 ## The 'learning-to-learn' objective
 
@@ -3547,9 +3671,9 @@ Some form of phonetic transcription conforming to the principles of the Internat
 
 ## Intonation
 
-The intonation of English (RP) is described in detail in such works as G.F. Arnold and J.D. O'Connor: *The Intonation of Colloquial English*. It is used by native speakers on the one hand to indicate the informational structure of sentences, and on the other to express nuances of meaning, to indicate unspoken implications or reservations and to convey attitudes and emotional states. As such it plays a very important part in communication and is a frequent source of intercultural misunderstandings. Learners at *Waystage* should recognise and understand the most common intonations used in RP for such purposes. In their own speech they should organise the phrasing, stressing and rhythm of tone groups in accordance with RP norms, and employ rising and falling nuclei appropriately.
+The intonation of English (RP) is described in detail in such works as G.F. Arnold and J.D. OˈConnor: *The Intonation of Colloquial English*. It is used by native speakers on the one hand to indicate the informational structure of sentences, and on the other to express nuances of meaning, to indicate unspoken implications or reservations and to convey attitudes and emotional states. As such it plays a very important part in communication and is a frequent source of intercultural misunderstandings. Learners at *Waystage* should recognise and understand the most common intonations used in RP for such purposes. In their own speech they should organise the phrasing, stressing and rhythm of tone groups in accordance with RP norms, and employ rising and falling nuclei appropriately.
 
-Where language forms are cited in this book (e.g. as exponents of language functions or examples of grammatical or lexical entries) the most common intonation pattern (not always the only one possible) is shown in accordance with the conventions shown below. These conventions are similar, but not identical, to those used by Arnold and O'Connor (1961).
+Where language forms are cited in this book (e.g. as exponents of language functions or examples of grammatical or lexical entries) the most common intonation pattern (not always the only one possible) is shown in accordance with the conventions shown below. These conventions are similar, but not identical, to those used by Arnold and OˈConnor (1961).
 
 A full treatment of English intonation is beyond the scope of this book. The most important features at *Waystage* are tone groups. For the most part, learners at *Waystage* will express themselves in fairly short simple sentences, each consisting of a single tone group. Within the tone group, stressed syllables are spoken in a regular rhythm, unstressed syllables being made to fit in between the beats. The stressed syllables of words which convey lexical information (mainly nouns, adjectives, principal verbs and adverbs) are given prominence in the intonation pattern, unless the information has already been mentioned or is obvious in context. In that case, whilst continuing to mark the
 
@@ -3560,198 +3684,202 @@ A full treatment of English intonation is beyond the scope of this book. The mos
 <!-- page:70 -->
 
 
-<!-- el:start type=prose id=prose_p077_app_a_nuclear page=71 -->
-<!-- db:id=waystage_appendix_a type=section product_tier=context pages=68-80 -->
 
-At Waystage, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its **nucleus**, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category.
+<!-- vision: Waystage leaf 77 doc p.71 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p077 page=71 -->
 
-<!-- el:start type=artifact id=waystage_appendix_a_nuclear_tones -->
-<!-- db:id=waystage_five_nuclear_tones type=section_block product_tier=context -->
+rhythmic beat, they are not given pitch prominence. At *Waystage*, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its *nucleus*, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category. At *Waystage*, five nuclear tones should be distinguished:
 
-### Five nuclear tones
+1 **Low falling** This is marked in a text by a left to right diagonal falling mark, below the line of writing, placed before the nuclear syllable [ˎ]. This mark is to be interpreted as indicating that the next syllable is stressed. Its vowel starts on a clear level, low-mid tone. The voice then drops to a low creaky note and remains on this low pitch until the end of the tone group.
 
-**Critical notation — used throughout Waystage (and the paired 1990 book).**  
-Marks are placed **before** the nuclear syllable. Position above vs below the line of writing is distinctive.
+2 **High falling** This is similar to the low fall, except that the nuclear vowel starts on a pitch above the mid point. It is marked by placing the mark above the line of writing [ˋ].
 
-| # | Name | Mark | Position | Pitch |
-|---|------|------|----------|-------|
-| **1** | **Low falling** | **ˎ** | **Below** the line | Nuclear vowel starts clear **low-mid**; drops to **low creak**; stays low to end of tone group. |
-| **2** | **High falling** | **ˋ** | **Above** the line | Like low fall, but nuclear vowel starts **above mid**. |
-| **3** | **Low rising** | **ˏ** | **Below** the line | Starts **low level**; continuous upward glide **not above mid**. With a non-prominent “tail”, nucleus stays low and the **rise spans the tail**. |
-| **4** | **High rising** | **ˊ** | **Above** the line | Starts between **low and mid**; upward glide extends **well above mid**. |
-| **5** | **Falling-rising** | **ˇ** | **Above** the line (v-shaped) | High fall + low rise: starts **high-mid**, drops to **low creak**, then upward glide **not above mid**. |
+3 **Low rising** This is marked by a rising mark placed before the nuclear syllable and below the line of writing [ˏ]. It indicates that the next syllable is stressed. Its vowel starts on a clear, low level pitch. There is then a continuous glide upward, but not rising above mid, until the end of the tone group. The glide occurs within the nuclear syllable if it is the last in the group.
 
-**Other marks in examples**
+It is followed by one or more non-prominent syllables (the 'tail'), stressed or unstressed, the nuclear syllable is spoken on a low level pitch and the rise spans the tail.
 
-| Mark | Meaning |
-|------|---------|
-| **ˈ** | Head (first prominent syllable; upright mark **above** the line) |
-| **·** | Stressed non-prominent syllable (rhythmic beat; mid-height dot) |
-| **|** | End of minor tone group |
-| **||** | End of major tone group |
+4 **High rising** This is shown by placing the rising mark above the line of writing [ˊ]. It indicates that the nuclear vowel starts somewhere between low and mid level, and that the upward glide extends well above mid.
 
-**Examples** (mark immediately before the nuclear syllable):
+5 **Falling-rising** This may be seen as a sequence of 2 and 3. The nuclear vowel starts high-mid pitch and drops to a low creak. An upward glide follows, which does not go above mid. This tone is indicated by a v-shaped mark placed before the nuclear syllable above the line of writing [ˇ]. *Waystage* learners should be made aware of the following uses of nuclear tones and be stimulated to use them themselves as appropriate.
 
-- Low falling: ˈThis is a ˎdoor.
-- High falling: That's ˋexcellent!
-- Low rising: There's ˈno ·need to be ˏworried.
-- High rising: You were ·born in ˊScotland?
-- Falling-rising: That ·jug is ˇhot!
+1 **Low falling** [ˎ] is used
 
-<!-- el:end id=waystage_appendix_a_nuclear_tones -->
+a) in declarative sentences
 
+i) for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);  
 
-At Waystage, five nuclear tones should be distinguished:
+> ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
 
-1. **Low falling** — Falling mark **below** the line before the nuclear syllable (**ˎ**). Starts low-mid; drops to low creak; stays low to end of tone group.
-
-2. **High falling** — Same falling mark **above** the line (**ˋ**). Nuclear vowel starts above mid.
-
-3. **Low rising** — Rising mark **below** the line (**ˏ**). Starts low; upward glide not above mid; rise may span the tail.
-
-4. **High rising** — Rising mark **above** the line (**ˊ**). Starts between low and mid; glide well above mid.
-
-5. **Falling-rising** — V-shaped mark **above** the line (**ˇ**). High-mid → low creak → upward glide not above mid.
-
-Waystage learners should be made aware of the following uses and be stimulated to use them as appropriate.
-
-### 1. Low falling **ˎ** is used
-
-#### a) in declarative sentences
-
-1. for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions;
-
-   > ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
-
-2. for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
-
-   > That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
-
-#### b) in interrogative sentences answerable by *yes* or *no*
-
-1. in tag questions, to invite agreement to a statement that is not in doubt;
-
-   > ˈThis ·tastes ˎnice, | ˎdoesn't it?
-
-2. in choice questions, to indicate that the list of options is closed.
-
-   > ˈWould you prefer ˎtea | or ˎcoffee?
-
-#### c) in *wh* questions
-
-as a definite request for a piece of information
-
-> ˈWhere is the ˎtoilet, ·please?
-
-#### d) in imperative sentences
-
-1. as a direct order or prohibition;
-
-   > ˈSit ˎdown. ˈDon't ·smoke in ·here, ·please.
-
-2. as an instruction;
-
-   > ˎPush | to ˈopen the ˎdoor.
-
-3. as a strong form of offer.
-
-   > ˈHave ·one of ·my cigaˎrettes.
-
-### 2. High falling **ˋ** is used
-
-#### a) in declarative sentences
-
-1. in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;
-
-   > That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
-
-2. to indicate contrast with an element previously mentioned or believed to be in the listener's mind.
-
-   > ˋElbruz is the ·highest ·mountain in ·Europe (not Mont Blanc).
-
-#### b) in rhetorical questions of an exclamatory type
-
-> ˈIsn't she ˋbeautiful?
-
-#### c) in imperative sentences
-
-to indicate the urgency of an instruction (e.g. because of imminent danger)
-
-> ˋStop. ˈDon't ˋmove.
-
-### 3. Low rising **ˏ** is used
-
-#### a) in interrogative questions answerable by *yes* or *no*
-
-1. to ask politely for confirmation or disconfirmation (also in tag questions);
-
-   > You're ˈFrench, | ˏaren't you?
-
-2. to make polite requests and offers;
-
-   > ˈWould you ·please ·open the ˏwindow? ˈCan I do ·anything to ˏhelp?
-
-3. in choice questions, to indicate that the list is open.
-
-   > ˈWould you ·like ˏtea | or ˏcoffee | or ˈsomething ˏstronger?
-
-### 4. High rising **ˊ** is used
-
-#### a) in declarative sentences
-
-1. to convert a statement into a question;
-
-   > You were ·born in ˊScotland?
-
-2. to query what someone has said.
-
-   > You ·say you're ˊthirsty?
-
-#### b) with the *wh* word as nucleus
-
-to ask for repetition of information given but not heard (or understood)
-
-> (He ·lives in (unintelligible).)  
-> He ·lives ˊwhere? ˈWhere does he ·live?
-
-### 5. Falling–rising **ˇ** is used
-
-#### a) in declarative sentences to convey various implications
-
-1. warnings;
-
-   > That ·jug is ˇhot!
-
-2. corrections;
-
-   > Her ·dress ˈisn't ˇblue, | it's ˇgreen.
-
-3. implying that something has been left unsaid, which contrasts with, or contradicts what has been overtly stated.
-
-   > Your o·pinion is ˇinteresting. (implying: but I ˈdon't ˎagree with it)
-
-#### b) in imperative sentences
-
-for issuing warnings rather than commands or instructions
-
-> ˈWatch where you're ˇgoing. ˈDon't ·try to ˇpull the ·door ·open.
-
-Every tone group contains a **nucleus**. Where there is more than one prominent syllable, the last is the nucleus and the first is the **head** (mark **ˈ** above the line). Stressed non-prominent syllables use **·**.
-
-<!-- el:end id=prose_p077_app_a_nuclear -->
-
+<!-- el:end id=prose_p077 -->
 
 *Page **71***
 
 <!-- page:71 -->
 
+
+<!-- vision: Waystage leaf 78 doc p.72 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p078 page=72 -->
+
+ii) for expressing definite agreement or disagreement, firm denials, firm acceptance or rejection of an offer, definite statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.  
+
+> That's ˈquite ˎright. You ˈmust ·eat your ˎdinner.
+
+b) in interrogative sentences answerable by *yes* or *no*
+
+i) in tag questions, to invite agreement to a statement that is not in doubt;  
+
+> ˈThis ·tastes ˎnice, | ˎdoesn't it?
+
+ii) in choice questions, to indicate that the list of options is closed.  
+
+> ˈWould you prefer ˎtea | or ˎcoffee?
+
+c) in *wh* questions as a definite request for a piece of information  
+
+> ˈWhere is the ˎtoilet, ·please?
+
+d) in imperative sentences
+
+i) as a direct order or prohibition;  
+
+> ˈSit ˎdown. ˈDon't ˎsmoke in ·here, ·please.
+
+ii) as an instruction;  
+
+> ˎPush | to ˈopen the ˎdoor.
+
+iii) as a strong form of offer.  
+
+> ˈHave ·one of ˎmy ciga·rettes.
+
+2 **High falling** [ˋ] is used
+
+a) in declarative sentences
+
+i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insistence;  
+
+> That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
+
+ii) to indicate contrast with an element previously mentioned or believed to be in the listener's mind.  
+
+> ˋElbruz is the ·highest ·mountain in ·Europe (not Mont Blanc).
+
+b) in rhetorical questions of an exclamatory type, to which no answer is sought  
+
+> ˈIsn't she ˋbeautiful?
+
+c) in imperative sentences to indicate the urgency of an instruction (e.g. because of imminent danger)  
+
+> ˋStop. ˈDon't ˋmove.
+
+<!-- el:end id=prose_p078 -->
+
 *Page **72***
 
 <!-- page:72 -->
 
+
+<!-- vision: Waystage leaf 79 doc p.73 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p079 page=73 -->
+
+3 **Low rising** [ˏ] is used
+
+a) in interrogative questions, answerable by *yes* or *no*
+
+i) to ask politely for confirmation or disconfirmation (also in tag questions);  
+
+> You're ˈFrench, | ˏaren't you?
+
+ii) to make polite requests and offers;  
+
+> ˈWould you ·please ·open the ˏwindow? ˈCan I do ·anything to ˏhelp?
+
+iii) in choice questions, to indicate that the list is open.  
+
+> ˈWould you ·like ˏtea | or ˏcoffee | or ˈsomething ˏstronger?
+
+4 **High rising** [ˊ] is used
+
+a) in declarative sentences (including isolated phrases and words used instead of full sentences)
+
+i) to convert a statement into a question;  
+
+> You were ·born in ˊScotland?
+
+ii) to query what someone has said.  
+
+> You ·say you're ˊthirsty?
+
+b) (with the *wh* word as nucleus) to ask for repetition of information given but not heard (or understood)  
+(He ·lives in (unintelligible).)  
+
+> He ·lives ˊwhere? ˊWhere does he ·live?
+
+5 **Falling–rising** [ˇ] is used
+
+a) in declarative sentences to convey various implications
+
+i) warnings;  
+
+> That ·jug is ˇhot!
+
+ii) corrections;  
+
+> Her ·dress ˈisn't ˇblue, | it's ˇgreen.
+
+iii) implying that something has been left unsaid, which contrasts with, or contradicts what has been overtly stated.  
+
+> Your o·pinion is ˇinteresting. (implying: but I ˈdon't ˎagree with it)
+
+b) in imperative sentences for issuing warnings rather than commands or instructions  
+
+> ˈWatch where you're ˇgoing. ˈDon't ·try to ˇpull the ·door ·open.
+
+Every tone group contains a *nucleus*. Many short utterances will comprise a single tone group, containing only one prominent syllable, which is then the nucleus of the tone group. Where there is more than one prominent syllable, the last of these is the nucleus and the first is the *head*. The head is usually marked by a jump up in pitch to a high-mid level. The actual pitch varies from mid to high, depending on the
+
+<!-- el:end id=prose_p079 -->
+
 *Page **73***
 
 <!-- page:73 -->
+
+<!-- vision: Waystage leaf 80 doc p.74 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p080 page=74 -->
+
+attitude of the speaker towards what he is saying and towards the hearer. The higher the level, the more cheerful and friendly the speaker sounds. The (high) head is marked in the texts by an upright line before the syllable concerned, above the line of writing [ˈ].
+
+Non-prominent syllables, stressed or unstressed, which precede the head, are spoken on a low-mid pitch. Those following a high head are kept on the same level, or on a descending scale. Those following the nucleus conform to the configuration of the nucleus, as elaborated above. Stressed non-prominent syllables are marked in texts by a dot raised to mid-letter height [·]. As stated, they mark rhythmic beats in the utterance, but have no effect on the pitch pattern. Non-prominent unstressed syllables are left unmarked.
+
+Many, perhaps most, short exchanges in conversation – especially the contributions of learners at *Waystage* – consist of single tone groups. Longer utterances may simply juxtapose tone groups as already described. However, in slower speech sentences contain two or more closely linked tone groups. The boundaries between constituent tone groups are marked [|]. The following are the most common types of sequence, and should be within the productive and receptive competence of *Waystage* learners:
+
+1 Unemphatic, non-constructive sentences
+
+| non-final | final group |
+| --- | --- |
+| low rising | low falling |
+| ˈWhen you ·see ˏJohn \| | ˈtell him to ˎphone me. |
+
+2 Contrastive or emphatic
+
+| falling–rising | high falling |
+| --- | --- |
+| Toˇmorrow \| | ˈwe are ·going to ˋTurkey. |
+
+3 Main statement and modifier (non-contrastive)
+
+| low falling | low rising |
+| --- | --- |
+| I'm ·leaving for ˎGermany \| | on ˏFriday. |
+
+4 Main statement and supplement
+
+| low fall | low fall |
+| --- | --- |
+| He ˈlives in ˎLondon \| | in a ˈlarge ·house in ˎPeckham. |
+
+<!-- el:end id=prose_p080 -->
+
+*Page **74***
 
 <!-- page:74 -->
 
@@ -3793,27 +3921,27 @@ We trust that with a little experience users will find that the systematic prese
 
 **1.1.1.1** names of persons
 
-> 'This is ·John ,Smith.
+> ˈThis is ·John ˎSmith.
 
 **1.1.1.2** places
 
-> We ·live in ,Sheffield.
+> We ·live in ˎSheffield.
 
 **1.1.1.3** days (4.3.2)
 
-> To 'day is ·Friday the ,13th.
+> To ˈday is ·Friday the ,13th.
 
 **1.1.1.4** months (4.3.2)
 
-> Our 'holiday is in ,August.
+> Our ˈholiday is in ˎAugust.
 
 **1.1.1.5** festivals (4.3.3)
 
-> ,Christmas is ·coming.
+> ˎChristmas is ·coming.
 
 **1.1.1.6** religion (5.1.13)
 
-> Our 'friends are ,Baptists.
+> Our ˈfriends are ˎBaptists.
 
 **1.1.2** common
 
@@ -3823,63 +3951,63 @@ We trust that with a little experience users will find that the systematic prese
 
 - arts, sports, games (5.4.2)
 
-  > I ·like 'music and ,sport.
+ > | ·like ˈmusic and ˎsport.
 
 - cardinal numbers (4.4.1)
 
-  > 'Three and ,six | make ,nine.
+ > ˈThree and ˎsix | make ˎnine.
 
 - colours (4.5.1.8)
 
-  > 'Are ·black and ·white ,colours?
+ > ˈAre ·black and ·white ˎcolours?
 
 - points of compass (4.2.1)
 
-  > Go 'ten ·miles ,north, | 'then ,east.
+ > Go ˈten ·miles ˎnorth, | ˈthen ˎeast.
 
 - weather (5.13.1)
 
-  > We'll have 'fog | to,night.
+ > We'll have ˈfog | toˎnight.
 
 **1.1.2.1.2** material and mass substances
 
 - drinks (5.9.1)
 
-  > 'Have some more ,wine!
+ > ˈHave some more ˎwine!
 
 - foodstuffs (5.9.1)
 
-  > A'nother ·slice of 'toast?
+ > Aˈnother ·slice of ˈtoast?
 
 - meals (5.3.1, 5.9.1)
 
-  > 'When is ,lunch?
+ > ˈWhen is ˎlunch?
 
 - means of transport (5.5.1, 5.5.2)
 
-  > 'Let's ·go by ,bicycle!
+ > ˈLet's ·go by ˎbicycle!
 
 - fluids (5.9.1, 5.10.8)
 
-  > 'Where can I ·get ,water?
+ > ˈWhere can | ·get ˎwater?
 
 - collectives
 
   - traffic (5.5.3)
 
-    > The 'traffic was ,light.
+ > The ˈtraffic was ˎlight.
 
   - police (5.10.5)
 
-    > The po·lice were 'very ,helpful.
+ > The po·lice were ˈvery ˎhelpful.
 
   - underwear (5.8.3)
 
-    > I 'want to ·wash my ,underwear.
+ > | ˈwant to ·wash my ˎunderwear.
 
 **1.1.2.1.3** verbal nouns (gerund)
 
-> I 'hate ,shopping.
+> | ˈhate ˎshopping.
 
 **1.1.2.2** countables
 
@@ -3887,11 +4015,11 @@ individuals belonging to classes of
 
 - persons
 
-  > ·Nurses ·work 'very ,hard.
+ > ·Nurses ·work ˈvery ˎhard.
 
 - things
 
-  > I'd ·like a ,sandwich.
+ > I'd ·like a ˎsandwich.
 
 <!-- el:end id=prose_p082 -->
 
@@ -3904,11 +4032,11 @@ individuals belonging to classes of
 
 - events
 
-  > He has ·had an ,accident.
+ > He has ·had an ˎaccident.
 
 - measures
 
-  > It is 'two ·miles ,long.
+ > It is ˈtwo ·miles ˎlong.
 
 #### 1.2 Forms
 
@@ -3948,28 +4076,28 @@ clothes (5.8.3), people (4.8.2), tights (5.8.3), trousers (5.8.3)
 
 **1.2.2.4.1** in the sense of ‘kinds of’
 
-> 'Most ·German ·wines are ,white.
+> ˈMost ·German ·wines are ˎwhite.
 
 **1.2.2.4.2** ‘objects made of …’ nylons, papers, plastics
 
 **1.2.2.4.3** ‘servings of’
 
-> 'Two ,teas and 'three ,coffees, ·please.
+> ˈTwo ˎteas and ˈthree ˎcoffees, ·please.
 
 **1.2.3** possessives (persons and animals only) (4.7.5.1)
 
 **1.2.3.1** singular  
 N+’s
 
-> my 'aunt’s ,dog
+> my ˈaunt's ˎdog
 
 **1.2.3.2** plural (not ending in s) ’s
 
-> the 'men’s ,bosses
+> the ˈmen's ˎbosses
 
 (ending in s)’ only
 
-> the 'wives’ ,club
+> the ˈwives' ˎclub
 
 ### A2 Pronouns
 
@@ -4059,29 +4187,29 @@ regular forms (4.4.3, 4.7.4.2)
 
 **4.1.2.1** (monosyllabic adjs) adj+er
 
-> a 'smaller ,child
+> a ˈsmaller ˎchild
 
 **4.1.2.2** (disyllabic adjs in -y) -y>i+er
 
-> an 'easier ,question
+> an ˈeasier ˎquestion
 
 **4.1.2.3** (polysyllabic) more + adj
 
-> a ·more 'careful ,driver
+> a ·more ˈcareful ˎdriver
 
 **4.1.3** superlative degree, regular forms (4.4.3)
 
 **4.1.3.1** (monosyllabic adjs) adj+est
 
-> the 'loudest ,music
+> the ˈloudest ˎmusic
 
 **4.1.3.2** (disyllabic adjs in -y) y>i+est
 
-> my 'happiest ,day
+> my ˈhappiest ˎday
 
 **4.1.3.3** (polysyllabics) most + adj
 
-> the ·most ex'pensive ,restaurant
+> the ·most exˈpensive ˎrestaurant
 
 **4.1.4** irregular comparatives and superlatives  
 good, better, best  
@@ -4097,7 +4225,7 @@ first, second, third, etc.
 **4.2.1** certainty (3.2.9)  
 sure, certain ®
 
-> I am 'sure he will ,come. ®
+> | am ˈsure he will ˎcome. ®
 
 ### A5 Adverbs
 
@@ -4402,49 +4530,49 @@ would not/wouldn’t/’d not
 
 **7.1.5.1.1** (I, you, we they) verb stem
 
-> They ,ask.
+> They ˎask.
 
 **7.1.5.1.2** (he, she, it, NP) verb stem+s
 
-> He ar,rives.
+> He arˎrives.
 
 **7.1.5.1.3** verb stem+es
 
-> He ,teaches.
+> He ˎteaches.
 
 **7.1.5.1.4** verb stem (replacing -y by -i) +es
 
-> He ,tries.
+> He ˎtries.
 
 **7.1.5.2** simple present, negative
 
 **7.1.5.2.1** (I, you, we, they) do not/don’t + infinitive
 
-> I 'don’t ,ask.
+> | ˈdon't ˎask.
 
 **7.1.5.2.2** (he, she, it, NP) does not/doesn’t + infinitive
 
-> She 'doesn’t ,try.
+> She ˈdoesn't ˎtry.
 
 **7.1.5.3** simple present, interrogative (affirmative)
 
 **7.1.5.3.1** do (I, you, we, they) + infinitive?
 
-> 'Do you ,smoke?
+> ˈDo you ˎsmoke?
 
 **7.1.5.3.2** does (he, she, it, NP) + infinitive?
 
-> 'Does he ,dance?
+> ˈDoes he ˎdance?
 
 **7.1.5.4** simple present, interrogative (negative)
 
 **7.1.5.4.1** don’t (I, you, we, they) + infinitive?
 
-> 'Don’t you ,smoke?
+> ˈDon't you ˎsmoke?
 
 **7.1.5.4.2** doesn’t (he, she, it, NP) + infinitive?
 
-> 'Doesn’t it ,matter?
+> ˈDoesn't it ˎmatter?
 
 **7.1.5.5** simple past, affirmative (all persons)
 
@@ -4459,39 +4587,39 @@ would not/wouldn’t/’d not
 
 **7.1.5.5.1** verb stem+d
 
-> He ar,rived.
+> He arˎrived.
 
 **7.1.5.5.2** verb stem+ed
 
-> I ,asked.
+> | ˎasked.
 
 **7.1.5.5.3** verb stem (replacing -y by -i) +ed
 
-> She ,tried.
+> She ˎtried.
 
 **7.1.5.6** simple past, negative (all persons)
 
 **7.1.5.6.1** did not/didn’t + infinitive
 
-> They 'didn’t ,mind.
+> They ˈdidn't ˎmind.
 
 **7.1.5.7** simple past, interrogative (affirmative, all persons)
 
 **7.1.5.7.1** did + NP + infinitive?
 
-> 'Did you ,like it?
+> ˈDid you ˎlike it?
 
 **7.1.5.8** simple past, interrogative (negative, all persons)
 
 **7.1.5.8.1** didn’t + NP + infinitive?
 
-> 'Didn’t they ,play?
+> ˈDidn't they ˎplay?
 
 **7.1.5.9** infinitive and imperative
 
 **7.1.5.9.1** verb stem
 
-> 'Listen!
+> ˈListen!
 
 **7.1.5.10** present participle and gerund
 
@@ -4563,117 +4691,117 @@ simple past of *be* + present participle ®
 
 **7.2.1.1** agreement (3.2.1, 3.2.2)
 
-> I a,gree/'don’t a,gree.
+> I aˎgree / don't aˎgree.
 
 **7.2.1.2** motion (4.2.4)
 
-> We 'sent the ·letter to ,London.
+> We ˈsent the ·letter to ˎLondon.
 
 **7.2.1.3** direction (4.2.5)
 
-> 'Bring the ·book ,here, ·please.
+> ˈBring the ·book ˎhere, ·please.
 
 **7.2.1.4** commencement (4.3.24)
 
-> The ·programme has ,started.
+> The ·programme has ˎstarted.
 
 **7.2.1.5** cessation (4.3.25)
 
-> The ,film has al'ready ,ended.
+> The ˎfilm has alˈready ˎended.
 
 **7.2.1.6** change, transition (4.3.27)
 
-> She has become a 'mother.
+> She has become a ˈmother.
 
 **7.2.1.7** sight (4.5.1.4)
 
-> 'Don’t ·look ʸyet!
+> ˈDon't ·look ʸyet!
 
 **7.2.1.8** hearing (4.5.1.5)
 
-> 'Please ,listen to me.
+> ˈPlease ˎlisten to me.
 
 **7.2.1.9** physical condition (4.5.1.10)
 
-> My 'father’s ,mother has ·died.
+> My ˈfather's ˎmother has ·died.
 
 **7.2.1.10** accessibility (4.5.1.11)
 
-> The ·pub ·closes at '11 p,m. ®
+> The ·pub ·closes at ˈ11 p.ˎm. ®
 
 **7.2.1.11** expression (4.6.2, 5.12.1)
 
-> 'Let’s ,talk.
+> ˈLet's ˎtalk.
 
 **7.2.1.12** address (5.1.2)
 
-> I ·live in ,London.
+> | ·live in ˎLondon.
 
 **7.2.1.13** occupation (5.1.10)
 
-> I ·work in a ,hospital.
+> | ·work in a ˎhospital.
 
 **7.2.1.14** activities of daily life (5.3)
 
-> We ·get up ·rather ,early.
+> We ·get up ·rather ˎearly.
 
 **7.2.1.15** leisure activities (5.4)
 
-> I 'can’t ,sing ·very ·well.
+> | ˈcan't ˎsing ·very ·well.
 
 **7.2.1.16** intellectual pursuits (5.4.5)
 
-> I 'have to ,study | and ,read.
+> | ˈhave to ˎstudy | and ˎread.
 
 **7.2.1.17** sports (5.4.6)
 
-> We 'never ,win.
+> We ˈnever ˎwin.
 
 **7.2.1.18** weather (5.13.1)
 
-> It is ,raining a·gain.
+> It is ˎraining a·gain.
 
 **7.2.2** transitive verbs, denoting
 
 **7.2.2.1** factual knowledge (3.2.6)
 
-> 'Do you ·know my ,sister?
+> ˈDo you ·know my ˎsister?
 
 **7.2.2.2** liking (3.2.21)
 
-> I 'love ,tennis.
+> | ˈlove ˎtennis.
 
 **7.2.2.3** moving things (4.2.5)
 
-> 'Bring me some ,food ·please.
+> ˈBring me some ˎfood ·please.
 
 **7.2.2.4** perception (4.5.1.4–6)
 
-> 'Can you ,hear me?
+> ˈCan you ˎhear me?
 
 **7.2.2.5** physical state (4.5.1.3, 4.5.1.10, 5.7.4)
 
-> I have 'cut my ,hand.
+> | have ˈcut my ˎhand.
 
 **7.2.2.6** expression (4.6.2, 5.6.2)
 
-> 'Write her a ,letter.
+> ˈWrite her a ˎletter.
 
 **7.2.2.7** possession (4.7.5.1)
 
-> 'Give him a ,cheque.
+> ˈGive him a ˎcheque.
 
 **7.2.2.8** activities of daily life (5.3)
 
-> We have ·dinner at '8 p,m.
+> We have ·dinner at ˈ8 p.ˎm.
 
 **7.2.2.9** leisure activities (5.4)
 
-> 'Why are you ·watching ·T·V ,now?
+> ˈWhy are you ·watching ·T·V ˎnow?
 
 **7.2.2.10** sports (5.4.6)
 
-> 'Do you ·play ,football?
+> ˈDo you ·play ˎfootball?
 
 <!-- el:end id=prose_p089 -->
 
@@ -4686,57 +4814,57 @@ simple past of *be* + present participle ®
 
 **7.2.2.11** shopping (5.8)
 
-> I have ·bought a 'new ,raincoat.
+> | have ·bought a ˈnew ˎraincoat.
 
 **7.2.2.12** food and drink (5.9)
 
-> I 'don’t ,eat | ,fish.
+> | ˈdon't ˎeat | ˎfish.
 
 **7.2.2.13** services (5.10)
 
-> 'Can you ·check the ,oil, ·please?
+> ˈCan you ·check the ˎoil, ·please?
 
 **7.2.2.14** language (5.12)
 
-> 'Do you ·speak ,English?
+> ˈDo you ·speak ˎEnglish?
 
 **7.2.3** complementising verbs (for syntax see below) denoting
 
 **7.2.3.1** reporting (3.1.2)
 
-> He ·says he is ,hungry.
+> He ·says he is ˎhungry.
 
 **7.2.3.2** agreement (3.2.3)
 
-> I 'don’t ·think he is ʸFrench.
+> | ˈdon't ·think he is ʸFrench.
 
 **7.2.3.3** knowledge (3.2.5, 3.2.6, 4.6.1), certainty (3.2.9, 3.2.10)
 
-> I 'know he ·likes ,cheese.
+> | ˈknow he ·likes ˎcheese.
 
 **7.2.3.4** hope (3.2.24)
 
-> I 'hope she will ·come ʸsoon.
+> | ˈhope she will ·come ʸsoon.
 
 **7.2.3.5** regret (3.2.34)
 
-> I am ,sorry | if you ,lost.
+> | am ˎsorry | if you ˎlost.
 
 **7.2.3.6** indifference (3.2.35)
 
-> I 'don’t ,mind if it ·rains.
+> | ˈdon't ˎmind if it ·rains.
 
 **7.2.3.7** want, desire (3.2.16, 3.2.17, 3.2.23)
 
-> 'Do you ·want to ·go ,home?
+> ˈDo you ·want to ·go ˎhome?
 
 **7.2.3.8** requests (3.3.2)
 
-> 'Do you ·mind ·closing the ,door?
+> ˈDo you ·mind ·closing the ˎdoor?
 
 **7.2.3.9** expressions (4.6.2)
 
-> 'Tell him to ·come down,stairs.
+> ˈTell him to ·come downˎstairs.
 
 #### 7.3 Usage of verbs
 
@@ -4744,51 +4872,51 @@ simple past of *be* + present participle ®
 
 **7.3.1.1** identifying (3.1.1)
 
-> 'This is my ,bicycle.
+> ˈThis is my ˎbicycle.
 
 **7.3.1.2** describing (3.1.2)
 
-> My ·flat is 'very ,small.
+> My ·flat is ˈvery ˎsmall.
 
 **7.3.1.3** correcting (3.1.3)
 
-> ,No, | she 'isn’t ,French, | she is I,talian.
+> ˎNo, | she ˈisn't ˎFrench, | she is Iˎtalian.
 
 **7.3.1.4** asking for confirmation (3.1.4a)
 
-> 'Are you ,ready?
+> ˈAre you ˎready?
 
 **7.3.1.5** answering for confirmation (3.1.5a)
 
-> ,Yes, | I ,am.
+> ˎYes, | | ˎam.
 
 **7.3.1.6** location (4.2.1)
 
-> I have 'never 'been | to ,China.
+> | have ˈnever ˈbeen | to ˎChina.
 
 **7.3.1.7** with predicative adjectives
 
-> I am ,certain.  
-> This is 'nice.
+> | am ˎcertain. 
+> This is ˈnice.
 
 **7.3.1.8** intention and future reference  
 *be* + going to + VP infinitive (4.3.11)
 
-> It is ·going to 'snow.
+> It is ·going to ˈsnow.
 
 **7.3.1.9** present continuous  
 *be* + present participle (4.3.12)
 
-> They are ·having ,dinner.
+> They are ·having ˎdinner.
 
 **7.3.1.10** past continuous  
 past of *be* + present participle (4.3.13)
 
-> He was ·playing ,chess.
+> He was ·playing ˎchess.
 
 **7.3.1.11** age (4.5.1.9)
 
-> He is 'twenty,-one.
+> He is ˈtwenty-ˎone.
 
 **7.3.1.12** price (4.5.2.1)
 
@@ -4797,23 +4925,23 @@ past of *be* + present participle (4.3.13)
 **7.3.1.13** passive voice (4.7.3.2) ®  
 *be* + past participle
 
-> His ,glasses have been ·broken. ®
+> His ˎglasses have been ·broken. ®
 
 **7.3.1.14** origin (5.1.9)
 
-> He is from ,Germany.
+> He is from ˎGermany.
 
 **7.3.1.15** occupation (5.1.10)
 
-> He is a ,teacher.
+> He is a ˎteacher.
 
 **7.3.1.16** religion (5.1.13)
 
-> They are ,Anglican.
+> They are ˎAnglican.
 
 **7.3.1.17** health (5.7.4)
 
-> His ·mother is 'very ,ill.
+> His ·mother is ˈvery ˎill.
 
 <!-- el:end id=prose_p090 -->
 
@@ -4829,141 +4957,141 @@ past of *be* + present participle (4.3.13)
 **7.3.2.1** obligation (3.2.11, 3.2.12)  
 *have* + to + VP infinitive
 
-> We 'have to 'go | ,now.
+> We ˈhave to ˈgo | ˎnow.
 
 **7.3.2.2** wants, desires (3.2.16, 3.2.17)
 
-> 'May I ·have a ,drink?
+> ˈMay | ·have a ˎdrink?
 
 **7.3.2.3** availability (4.1.3)
 
-> We 'haven’t got ·any ,ice.
+> We ˈhaven't got ·any ˎice.
 
 **7.3.2.4** present perfect (4.3.7, 4.3.12, 4.3.18)  
 *have* + past participle
 
-> 'Have you ·seen the ,cat?
+> ˈHave you ·seen the ˎcat?
 
 **7.3.2.5** ownership (4.7.5.1)  
 *have* (+ *got*)
 
-> 'Have you ·got a ·C,D ·player ·yet?
+> ˈHave you ·got a ·CˎD ·player ·yet?
 
 **7.3.2.6** meals (5.3.1)
 
-> We have ·lunch at '1 p,m.
+> We have ·lunch at ˈ1 p.ˎm.
 
 **7.3.2.7** ailments (5.7.4)
 
-> I ·have a 'bad ,cold.
+> | ·have a ˈbad ˎcold.
 
 **7.3.3** do
 
 **7.3.3.1** interrogative (3.1.4)
 
-> 'Did you ·bring some ,money?
+> ˈDid you ·bring some ˎmoney?
 
 **7.3.3.2** tag questions
 
-> You 'saw them, | ,didn’t you?
+> You ˈsaw them, | ˎdidn't you?
 
 **7.3.3.3** tag responses (3.1.5, 3.2.1)
 
-> ('Did you ,see him?) ,Yes, | I ,did.
+> (ˈDid you ˎsee him?) ˎYes, | | ˎdid.
 
 **7.3.3.4** agreement (3.2.1)
 
-> (He ·works 'hard.) 'Yes, | he 'does.
+> (He ·works ˈhard.) ˈYes, | he ˈdoes.
 
 **7.3.3.5** negative sentences
 
-> It 'doesn’t ,matter.
+It ·doesn't ˎmatter.
 
 **7.3.3.6** denying (3.2.4)
 
-> (You ,stole it.) 'No, | I 'didn’t.
+> (You ˎstole it.) ˈNo, | | ˈdidn't.
 
 **7.3.3.7** negative imperatives (3.2.15, 3.3.8)
 
-> 'Please don’t ·smoke ,here.
+> ˈPlease don't ·smoke ˎhere.
 
 **7.3.3.8** strong hopes (3.2.24)
 
-> I 'do ·hope | they ,come. ®
+> | ˈdo ·hope | they ˎcome. ®
 
 **7.3.3.9** on being introduced (3.4.6)
 
-> 'How do you ,do!
+ˈHow do you ˎdo?
 
 **7.3.3.10** anaphoric use (4.8.1.2)
 
-> He 'asked me to ,stop, | so I ,did.
+> He ˈasked me to ˎstop, | so | ˎdid.
 
 **7.3.3.11** semi-deictic (4.8.2)
 
-> 'What can we ·do ,now?
+> ˈWhat can we ·do ˎnow?
 
 **7.3.4** can
 
 **7.3.4.1** short questions (3.1.4a)
 
-> ,Can you?
+> ˎCan you?
 
 **7.3.4.2** short answers
 
-> ,Yes, | ,can.
+> ˎYes, | ˎcan.
 
 **7.3.4.3** ability (3.2.7)
 
-> I 'can’t ,swim.
+> | ˈcan't ˎswim.
 
 **7.3.4.4** denying possibility (3.2.9e)
 
-> He 'can’t | be ·60 ·years ,old.
+> He ˈcan't | be ·60 ·years ˎold.
 
 **7.3.4.5** permission (3.2.13–15)
 
-> 'Can I go ,out this ·evening?
+> ˈCan | go ˎout this ·evening?
 
 **7.3.4.6** declining an invitation (3.3.5)
 
-> I am a·fraid I 'can’t ,come. ®
+> | am a·fraid | ˈcan't ˎcome. ®
 
 **7.3.4.7** offering assistance (3.3.9)
 
-> 'Can I ,help ·you?
+> ˈCan | ˎhelp ·you?
 
 **7.3.4.8** requesting assistance (3.3.10)
 
-> 'Can you ·tell me the ·way to the ,station?
+> ˈCan you ·tell me the ·way to the ˎstation?
 
 **7.3.4.9** sensory perception (4.5.1.4, 4.5.1.5)
 
-> I can ·see an 'island.
+> | can ·see an ˈisland.
 
 **7.3.4.10** capacity (4.5.2.7)
 
-> ·Animals 'cannot ,speak.
+> ·Animals ˈcannot ˎspeak.
 
 **7.3.4.11** travel (5.5.1)
 
-> 'How can I ·get to ,Croydon?
+> ˈHow can | ·get to ˎCroydon?
 
 **7.3.5** could
 
 **7.3.5.1** suggestions (3.3.1)
 
-> We could 'drink ʸwater. ®
+> We could ˈdrink ʸwater. ®
 
 **7.3.5.2** requests (3.3.2)
 
-> 'Could you ·please ,write your ·name? ®
+> ˈCould you ·please ˎwrite your ·name? ®
 
 **7.3.6** may
 
 **7.3.6.1** permission (3.2.13, 3.2.14)
 
-> 'May I ,smoke? ,Yes, | you ,may.
+> ˈMay | ˎsmoke? ˎYes, | you ˎmay.
 
 <!-- el:end id=prose_p091 -->
 
@@ -4978,51 +5106,51 @@ past of *be* + present participle (4.3.13)
 
 **7.3.7.1** withholding permission, forbidding (3.2.15)
 
-> You must 'not ·drive too ,fast.
+> You must ˈnot ·drive too ˎfast.
 
 **7.3.8** shall
 
 **7.3.8.1** suggestions (3.3.1)
 
-> 'Shall we ,eat ·now?
+> ˈShall we ˎeat ·now?
 
 **7.3.9** should
 
 **7.3.9.1** advice (3.3.7)
 
-> You should ·see a ,doctor.
+> You should ·see a ˎdoctor.
 
 **7.3.10** will
 
 **7.3.10.1** intention (3.2.18, 3.2.19)
 
-> I'll 'wash up ,afterwards. ®
+> I'll ˈwash up ˎafterwards. ®
 
 **7.3.10.2** requests (3.3.2)
 
-> 'Will you ·turn off the ,lights, ·please? ®
+> ˈWill you ·turn off the ˎlights, ·please? ®
 
 **7.3.10.3** accepting (3.3.4)
 
-> ,Thank you, that will be 'very ,nice.
+> ˎThank you, that will be ˈvery ˎnice.
 
 **7.3.10.4** future reference (4.3.11, 4.3.15)
 
-> The 'train will be de,layed. ®
+> The ˈtrain will be deˎlayed. ®
 
 **7.3.11** would
 
 **7.3.11.1** wants, desires (3.2.16, 3.2.17)
 
-> 'Would you ·like an ·ice,-cream?
+> ˈWould you ·like an ·ice-ˎcream?
 
 **7.3.11.2** preference (3.2.20)
 
-> I'd pre'fer ,coffee.
+> I'd preˈfer ˎcoffee.
 
 **7.3.11.3** inviting (3.3.3)
 
-> 'Would you ·like to ·come for ,lunch?
+> ˈWould you ·like to ·come for ˎlunch?
 
 #### 7.4 Use of verb forms
 
@@ -5030,71 +5158,71 @@ past of *be* + present participle (4.3.13)
 
 **7.4.1.1** general statements without time reference (4.3.14)
 
-> He 'never | ·answers ,letters.
+> He ˈnever | ·answers ˎletters.
 
 **7.4.1.2** permanent states (4.3.20)
 
-> She ·lives in ,Paris.
+> She ·lives in ˎParis.
 
 **7.4.1.3** habitual actions (4.3.17)
 
-> I 'usually ,drive to ·work.
+> | ˈusually ˎdrive to ·work.
 
 **7.4.1.4** present reference with verbs denoting
 
 **7.4.1.4.1** cognitive attitudes (3.2.1)
 
-> I a,gree.
+I aˎgree.
 
 **7.4.1.4.2** reflection (3.2.9c, 4.6.1)
 
-> I be'lieve he’ll ,come.
+> | beˈlieve he'll ˎcome.
 
 **7.4.1.4.3** volition (3.2.16–20)
 
-> I 'want an ·ice-,cream.
+> | ˈwant an ·ice-ˎcream.
 
 **7.4.1.4.4** emotions (3.2.21–29)
 
-> I 'like ,swimming.
+> | ˈlike ˎswimming.
 
 **7.4.2** simple past
 
 **7.4.2.1** narrating actions completed in a past period (4.3.13)
 
-> We 'went there ,yesterday.
+> We ˈwent there ˎyesterday.
 
 **7.4.2.2** reporting a statement made in the past containing a simple present verb (3.1.2)
 
-> I ·said I ·wanted 'fish.
+> | ·said | ·wanted ˈfish.
 
 **7.4.2.3** for the equivalents of simple present usage (see above), but relating to a past period
 
 **7.4.2.3.1** habitual actions (4.3.17)
 
-> I 'went to ,church | 'every ,Sunday.
+> | ˈwent to ˎchurch | ˈevery ˎSunday.
 
 **7.4.2.3.2** cognitive attitudes (3.2.1–15)
 
-> I 'knew he was ,right.
+> | ˈknew he was ˎright.
 
 **7.4.2.3.3** volition (3.2.16–20)
 
-> ·Mozart pre·ferred Vi'enna | to ,Salzburg.
+> ·Mozart pre·ferred Viˈenna | to ˎSalzburg.
 
 **7.4.2.3.4** emotions (3.2.21–29)
 
-> I 'hated ·sports | at ,school.
+> | ˈhated ·sports | at ˎschool.
 
 **7.4.3** present perfect (with reference to present time)
 
 **7.4.3.1** anteriority (4.3.7)
 
-> 'Have they ,left yet?
+> ˈHave they ˎleft yet?
 
 **7.4.3.2** past action leading to a present condition (4.3.12)
 
-> The ·soup has ,burnt.
+> The ·soup has ˎburnt.
 
 <!-- el:end id=prose_p092 -->
 
@@ -5107,34 +5235,34 @@ past of *be* + present participle (4.3.13)
 
 **7.4.3.3** continuity, i.e. present action or state beginning in the past (4.3.18)
 
-> I have ·waited ·here for 'two ,hours.
+> | have ·waited ·here for ˈtwo ˎhours.
 
 **7.4.4** present continuous
 
 **7.4.4.1** action in progress at time of speaking (4.3.12, 4.3.18)
 
-> It is 'snowing.
+> It is ˈsnowing.
 
 **7.4.4.2** temporariness (4.3.21)
 
-> I am ·feeling ,ill | this ,morning.
+> | am ·feeling ˎill | this ˎmorning.
 
 **7.4.4.3** proximal future (4.3.11)  
 *be* + going to + VP infinitive
 
-> 'When is the ·play ·going to ,start?
+> ˈWhen is the ·play ·going to ˎstart?
 
 **7.4.4** past continuous ®
 
 **7.4.4.1** reporting actions in progress at a point in the past (4.3.13)
 
-> It was ,raining, | so I 'put my ,raincoat ·on.
+> It was ˎraining, | so | ˈput my ˎraincoat ·on.
 
 **7.4.5** passive voice ®
 
 **7.4.5.1** objective as subject (4.7.3.2)
 
-> This ·door must 'not be ,closed.
+> This ·door must ˈnot be ˎclosed.
 
 ### A8 Conjunctions
 
@@ -5144,39 +5272,39 @@ past of *be* + present participle (4.3.13)
 
 **8.1.1.1** non-contrastive **and** (4.7.6.1)
 
-> 'Mary and ,Jane | are ,friends.
+> ˈMary and ˎJane | are ˎfriends.
 
 **8.1.1.2** contrastive **but** (4.7.6.1)
 
-> Those ·shoes are ʸgood, | but ex,pensive.
+> Those ·shoes are ʸgood, | but exˎpensive.
 
 **8.1.2** disjunctive **or** (4.7.6.2)
 
-> 'Do you want ,coffee | or ,tea?
+> ˈDo you want ˎcoffee | or ˎtea?
 
 #### 8.2 Subordinating
 
 **8.2.1** complementising **that** ®
 
-> I 'hope that he will ,come. ®
+> | ˈhope that he will ˎcome. ®
 
 **8.2.2** adverbial
 
 **8.2.2.1** time when (3.1.4,5, 4.3.3)
 
-> (I'll 'leave) when the ,doctor ar·rives.
+> (I'll ˈleave) when the ˎdoctor ar·rives.
 
 **8.2.2.2** place where (3.1.4,5, 4.2.1)
 
-> 'Please ·tell me ·where you ,live.
+> ˈPlease ·tell me ·where you ˎlive.
 
 **8.2.2.3** reason, cause **because** (4.7.6.4)
 
-> (I 'work) be·cause I ,have to.
+> (I ˈwork) be·cause | ˎhave to.
 
 **8.2.2.4** condition **if** (4.7.6.8)
 
-> 'I don’t ·mind | if you ,smoke.
+> ˈI don't ·mind | if you ˎsmoke.
 
 ## B Phrase level
 
@@ -5190,41 +5318,41 @@ past of *be* + present participle (4.3.13)
 
 **1.2.1** proper names
 
-> 'Jean-,Paul | ·lives in ,Paris.
+> ˈJean-ˎPaul | ·lives in ˎParis.
 
 **1.2.2** plural indefinites
 
-> 'Animals ·eat ,plants.
+> ˈAnimals ·eat ˎplants.
 
 **1.2.3** unspecified singular names denoting
 
 **1.2.4** colour (4.5.1.8)
 
-> 'Blue is a ,cold ·colour.
+> ˈBlue is a ˎcold ·colour.
 
 **1.2.5** material (4.5.1.13)
 
-> 'Is this ·skirt ·made of ,wool?
+> ˈIs this ·skirt ·made of ˎwool?
 
 **1.2.6** days, months (4.3.3, 5.1.4)
 
-> To'day is ,Monday.
+> Toˈday is ˎMonday.
 
 **1.2.7** drinks (5.9.1)
 
-> I 'don’t 'drink | ,beer.
+> | ˈdon't ˈdrink | ˎbeer.
 
 **1.2.8** foodstuffs (5.9.1)
 
-> 'Ice-,cream | is 'very ,nice.
+> ˈIce-ˎcream | is ˈvery ˎnice.
 
 **1.2.9** meals (5.3.1, 5.9.1)
 
-> 'Dinner is at ·8 p,m.
+> ˈDinner is at ·8 pˎm.
 
 **1.2.10** festivals (4.3.3)
 
-> 'Will you ·stay at ,home for ·Christmas?
+> ˈWill you ·stay at ˎhome for ·Christmas?
 
 <!-- el:end id=prose_p093 -->
 
@@ -5237,71 +5365,71 @@ past of *be* + present participle (4.3.13)
 
 **1.2.11** numerals (4.4.1)
 
-> 'Two and ,two | make ,four.
+> ˈTwo and ˎtwo | make ˎfour.
 
 **1.2.12** languages (3.6.9)
 
-> She ·speaks 'English, ·French and ,German.
+> She ·speaks ˈEnglish, ·French and ˎGerman.
 
 **1.2.13** arts, sports and games (5.4.2, 5.4.6)
 
-> He 'plays ʸfootball, | but 'also ·listens to ,music.
+> He ˈplays ʸfootball, | but ˈalso ·listens to ˎmusic.
 
 **1.2.14** means of transport (5.5.1, 5.5.2)
 
-> We 'travelled to ,Portugal | by ,train.
+> We ˈtravelled to ˎPortugal | by ˎtrain.
 
 **1.3** determiner + noun (cf A3 above)
 
-> 'Some ·people ·like a ,dog in their ·house.
+> ˈSome ·people ·like a ˎdog in their ·house.
 
 **1.4** (determiner +) adjective + noun
 
-> I 'like a ·good ,film.
+> | ˈlike a ·good ˎfilm.
 
 **1.5** (determiner +) qualifying adverb + adjective + noun
 
-> His ·wife is a 'very ·nice ,woman.
+> His ·wife is a ˈvery ·nice ˎwoman.
 
 **1.6** (determiner+) (adjective+) noun denoting container (4.4.2)
 
-> I'd like a 'nice ·cup of ,tea.
+> I'd like a ˈnice ·cup of ˎtea.
 
 or measure (4.2.2, 4.2.8.4, 4.2.8.5)+ of + mass nouns or plural NP
 
-> A 'pound of ,apples, ·please.
+> A ˈpound of ˎapples, ·please.
 
 ### B2 Use of noun phrase
 
 **2.1** as subject (4.7.3.1)
 
-> My 'new ,dentist | is 'very ,good.
+> My ˈnew ˎdentist | is ˈvery ˎgood.
 
 **2.2** as direct object of a transitional verb (4.7.3.2)
 
-> I 'hate | ·cold ,coffee.
+> | ˈhate | ·cold ˎcoffee.
 
 **2.3** as indirect object of a verb of giving (4.7.3.3)
 
-> 'Give your ·father a ·new ,tie.
+> ˈGive your ·father a ·new ˎtie.
 
 **2.4** in prepositional phrases
 
-> He ·works in a 'very ·large ,hospital.
+> He ·works in a ˈvery ·large ˎhospital.
 
 ### B3 Pronoun phrase (Pron. P)
 
 **3.1** demonstrative + one (3.1.1)
 
-> I'd 'like ,that one, ·please.
+> I'd ˈlike ˎthat one, ·please.
 
 **3.2** determiner + adjective + one (4.8.1.2)
 
-> 'Give me a ,bigger one, ·please.
+> ˈGive me a ˎbigger one, ·please.
 
 **3.3** indefinite pronoun of quantity (4.4.2, 4.8.2) + of + NP
 
-> 'Some of these ,apples are ,bad.
+> ˈSome of these ˎapples are ˎbad.
 
 ### B4 Verb phrase (VP)
 
@@ -5309,31 +5437,31 @@ or measure (4.2.2, 4.2.8.4, 4.2.8.5)+ of + mass nouns or plural NP
 
 **4.1.1** intransitive verb
 
-> 'What ,happened?
+> ˈWhat ˎhappened?
 
 **4.1.2** copula + complement (NP or AdjP)
 
-> The ·man is 'very ,ill.
+> The ·man is ˈvery ˎill.
 
 **4.1.3** transitive verb + direct object (NP)
 
-> They ·eat ,vegetables.
+> They ·eat ˎvegetables.
 
 **4.1.4** transitive verb + indirect object + direct object
 
-> 'Give me the ,letter.
+> ˈGive me the ˎletter.
 
 **4.1.5** adverb + verb
 
-> I 'never | ,smoke.
+> | ˈnever | ˎsmoke.
 
 **4.1.6** verb + adverb(s)
 
-> 'Come ,home ·now.
+> ˈCome ˎhome ·now.
 
 **4.1.7** verb + prepositional phrase
 
-> We 'drove on the ,motorway.
+> We ˈdrove on the ˎmotorway.
 
 **4.1.8** short answers (3.1.5, 3.2)  
 auxiliary or pro-verb
@@ -5349,19 +5477,19 @@ auxiliary or pro-verb
 
 **4.1.8.1** be
 
-> (Is that enough?) ,Yes, | it ,is.
+> (Is that enough?) ˎYes, | it ˎis.
 
 **4.1.8.2** have
 
-> (Have they eaten?) ,No, | they ,haven’t.
+> (Have they eaten?) ˎNo, | they ˎhaven't.
 
 **4.1.8.3** modals
 
-> (Can I go now?) ,Yes, | you ,can.
+> (Can | go now?) ˎYes, | you ˎcan.
 
 **4.1.8.4** do
 
-> (Don’t you agree?) ,Yes, | I ,do.
+> (Don't you agree?) ˎYes, | | ˎdo.
 
 **4.2** Nominalised VPs
 
@@ -5369,45 +5497,45 @@ auxiliary or pro-verb
 
 **4.2.1.1** following verbs expressing wants and desires (3.2.16)
 
-> I'd 'like to ·go to the ,theatre.
+> I'd ˈlike to ·go to the ˎtheatre.
 
 **4.2.2** VP gerund
 
 **4.2.2.1** following verbs expressing dislike (3.2.22) ®
 
-> I 'hate ·saying good,bye. ®
+> | ˈhate ·saying goodˎbye. ®
 
 **4.2.2.2** in suggestions and invitations (3.3.1, 3.3.3) ®
 
-> 'What about ·playing ,tennis? ®
+> ˈWhat about ·playing ˎtennis? ®
 
 **4.2.2.3** in requests (3.3.2) ®
 
-> 'Would you ·mind ·sitting ,down? ®
+> ˈWould you ·mind ·sitting ˎdown? ®
 
 ### B5 Adverb phrase (AdvP)
 
 **5.1** adverb of degree + gradable adverb (4.7.3.8)
 
-> He ·works 'very ,hard.
+> He ·works ˈvery ˎhard.
 
 **5.2** prepositional phrase
 
-> We 'eat in the ,kitchen.
+> We ˈeat in the ˎkitchen.
 
 ### B6 Preposition phrase (PrepP)
 
 **6.1** preposition + NP + of (4.2.2)
 
-> The 'bus ·stops in ·front of the 'bank | at the 'end of the ,road.
+> The ˈbus ·stops in ·front of the ˈbank | at the ˈend of the ˎroad.
 
 **6.2** next to
 
-> 'Your ,bedroom | is 'next to the ,bathroom.
+> ˈYour ˎbedroom | is ˈnext to the ˎbathroom.
 
 **6.3** far from
 
-> The ho·tel is 'not ·far from the ,station.
+> The ho·tel is ˈnot ·far from the ˎstation.
 
 ## C Clause level
 
@@ -5417,26 +5545,26 @@ auxiliary or pro-verb
 
 **1.1.1** sole constituent of a simple sentence
 
-> 'Jaap is ,Dutch.
+> ˈJaap is ˎDutch.
 
 **1.1.2** co-ordinate constituent of a compound sentence
 
-> 'Jaap is ,Dutch | and his 'wife is ,English.
+> ˈJaap is ˎDutch | and his ˈwife is ˎEnglish.
 
 **1.1.3** main clause in a complex sentence
 
-> I 'hope it ·won’t ,rain.
+> | ˈhope it ·won't ˎrain.
 
 **1.2** Subordinate clause
 
 **1.2.1** as short answer to a *wh* question
 
-> ('Why are you ,waiting?)  
-> Be·cause my ·friend is ,late.
+> (ˈWhy are you ˎwaiting?) 
+> Be·cause my ·friend is ˎlate.
 
 **1.2.2** as part of a complex sentence
 
-> 'I don’t ·mind | if you ,smoke.
+> ˈI don't ·mind | if you ˎsmoke.
 
 ### C2 Forms and functions of subordinate clauses
 
@@ -5446,7 +5574,7 @@ auxiliary or pro-verb
 
 **2.1.1.1** sure, certain (3.2.9a) ®
 
-> I’m 'sure (that) she’s ,Greek.
+> I'm ˈsure (that) she's ˎGreek.
 
 <!-- el:end id=prose_p095 -->
 
@@ -5461,38 +5589,38 @@ auxiliary or pro-verb
 
 **2.1.2.1** know, think, believe, (3.2.9, 4.6.1), hope (3.2.24)
 
-> I 'hope | (that) you’re ,well.
+> | ˈhope | (that) you're ˎwell.
 
 **2.1.2.2** say, tell + NP (3.1.2, 4.6.2)
 
-> She 'says (that) she’s his ,sister.
+> She ˈsays (that) she's his ˎsister.
 
 **2.2** if + NP + VPfinite
 
 **2.2.1** in indirect questions, following *ask*
 
-> He 'asks if he can ,go ·now.
+> He ˈasks if he can ˎgo ·now.
 
 **2.2.2** after *mind*, e.g. asking permission (3.2.14)
 
-> 'Do you ·mind if we ·go by ,air?
+> ˈDo you ·mind if we ·go by ˎair?
 
 **2.2.3** expressing a condition  
 if + NP + VPfinite
 
-> He will 'eat an ·egg if it is ʸboiled.
+> He will ˈeat an ·egg if it is ʸboiled.
 
 **2.3** adverbial of time *when*
 
-> I will 'come when you ,call.
+> | will ˈcome when you ˎcall.
 
 **2.4** adverbial of place *where*
 
-> He will 'follow where you ,go.
+> He will ˈfollow where you ˎgo.
 
 **2.5** because + NP + VPfinite
 
-> I 'came be·cause you 'asked me.
+> | ˈcame be·cause you ˈasked me.
 
 #### 3 pro-clause
 
@@ -5510,15 +5638,15 @@ if + NP + VPfinite
 
 **1.1** simple sentences, consisting of one main clause only (cf. C1.1 above)
 
-> I 'must ·go ,home.
+> | ˈmust ·go ˎhome.
 
 **1.2** compound sentences, consisting of two or more main clauses, linked by co-ordinating conjunctions
 
-> It is 'late | and I 'must ·go 'home.
+> It is ˈlate | and | ˈmust ·go ˈhome.
 
 **1.3** complex sentences, consisting of a main clause linked (by a subordinating conjunction) to a subordinate clause
 
-> I 'must ·go ,home | be·cause it is ,late.
+> | ˈmust ·go ˎhome | be·cause it is ˎlate.
 
 ### D2 Sentence types
 
@@ -5526,37 +5654,37 @@ if + NP + VPfinite
 
 **2.1.1** affirmative
 
-> I 'have an ap,pointment | at 'six o',clock.
+> | ˈhave an apˎpointment | at ˈsix o'clock.
 
 **2.1.2** negative
 
 **2.1.2.1** NP + *be* + not/n’t + participle (+ …)
 
-> The ·heating is 'not ,working.
+> The ·heating is ˈnot ˎworking.
 
 **2.1.2.2** + AdjP
 
-> I’m 'not ·very ,hungry.
+> I'm ˈnot ·very ˎhungry.
 
 **2.1.2.3** + NP
 
-> ·Anne is 'not my ,sister.
+> ·Anne is ˈnot my ˎsister.
 
 **2.1.2.4** NP + *have* + not/n’t + past participle (+ …)
 
-> I 'haven’t ,seen her.
+> | ˈhaven't ˎseen her.
 
 **2.1.2.5** + NP
 
-> We 'haven’t any ,milk.
+> We ˈhaven't any ˎmilk.
 
 **2.1.2.6** NP + *do* + not/n’t + VPinfinitive
 
-> I 'don’t ·know 'anything | a·bout ,cricket.
+> | ˈdon't ·know ˈanything | a·bout ˎcricket.
 
 **2.1.2.7** affirmative form including negative indefinite pronoun or adverb
 
-> She 'never | ·eats ,fish.
+> She ˈnever | ·eats ˎfish.
 
 <!-- el:end id=prose_p096 -->
 
@@ -5569,7 +5697,7 @@ if + NP + VPfinite
 
 **2.1.2.8** negative form + indefinite pronoun or adverb
 
-> He ·can’t 'ever ·eat ·anything with ,sugar in it.
+> He ·can't ˈever ·eat ·anything with ˎsugar in it.
 
 **2.2** Interrogative
 
@@ -5578,99 +5706,99 @@ interrogative sentence structure, i.e.
 
 **2.2.1.1** *be* (+ not/n’t) +NP + participle (+ …)
 
-> 'Are you ,coming?
+> ˈAre you ˎcoming?
 
 **2.2.1.2** + AdjP?
 
-> 'Isn’t ·lunch ·ready ,yet?
+> ˈIsn't ·lunch ·ready ˎyet?
 
 **2.2.1.3** + NP?
 
-> 'Is this the ,exit?
+> ˈIs this the ˎexit?
 
 **2.2.1.4** *have* (not/n’t) + NP + past participle (+ …)
 
-> 'Has the ·film ,started ·yet?
+> ˈHas the ·film ˎstarted ·yet?
 
 **2.2.1.5** + NP
 
-> 'Have you an ap,pointment?
+> ˈHave you an apˎpointment?
 
 **2.2.1.6** modal auxiliary (+ not/n’t) + NP + VPinfinitive
 
-> 'Can you ,help me?
+> ˈCan you ˎhelp me?
 
 **2.2.1.7** *do* (+ not/n’t) + NP + VPinfinitive
 
-> 'Don’t you a,gree?
+> ˈDon't you aˎgree?
 
 **2.2.1.8** declarative sentence with high-rising intonation
 
-> 'That was her 'husband?
+> ˈThat was her ˈhusband?
 
 **2.2.1.9** affirmative sentence + negative tag question
 
-> That ho·tel is ex'pensive, | ,isn’t it?
+> That ho·tel is exˈpensive, | ˎisn't it?
 
 **2.2.1.10** negative sentence + positive tag question
 
-> It 'isn’t 'far, | ,is it?
+> It ˈisn't ˈfar, | ˎis it?
 
 **2.2.1.11** response tag question (with same polarity as statement of partner)
 
-> (I’m tired.) 'Are you?
+> (I'm tired.) ˈAre you?
 
 **2.2.2** special (*wh*) questions, requiring an answer containing
 
 **2.2.2.1** a subject NP (human)  
 *who* + VPfinite
 
-> 'Who is that ,man?
+> ˈWho is that ˎman?
 
 **2.2.2.2** a subject NP (non-human)  
 *what* + VPfinite
 
-> 'What is ,that?
+> ˈWhat is ˎthat?
 
 **2.2.2.3** specification of a subject NP  
 *which* + NP + VPfinite
 
-> 'Which ho·tel is ,cheapest?
+> ˈWhich ho·tel is ˎcheapest?
 
 **2.2.2.4** an object NP (human)  
 *who* + interrogative sentence structure
 
-> 'Who do you ,want?
+> ˈWho do you ˎwant?
 
 **2.2.2.5** an object NP (non-human)  
 *what* + interrogative sentence structure
 
-> 'What are you ,drinking?
+> ˈWhat are you ˎdrinking?
 
 **2.2.2.6** a specified NP  
 *which* + NP + interrogative sentence structure
 
-> 'Which ,newspaper do you ·read?
+> ˈWhich ˎnewspaper do you ·read?
 
 **2.2.2.7** an adverbial of time  
 *when* + interrogative sentence structure
 
-> 'When does the ,train ·leave?
+> ˈWhen does the ˎtrain ·leave?
 
 **2.2.2.8** an adverbial of place  
 *where* + interrogative sentence structure
 
-> 'Where do they ,live?
+> ˈWhere do they ˎlive?
 
 **2.2.2.9** an adverbial of manner  
 *how* + interrogative sentence structure
 
-> 'How can I ·get to Picca,dilly?
+> ˈHow can | ·get to Piccaˎdilly?
 
 **2.2.2.10** an adverbial of reason or related declarative sentence  
 *why* + interrogative sentence structure
 
-> 'Why ·didn’t you ,tell me?
+> ˈWhy ·didn't you ˎtell me?
 
 <!-- el:end id=prose_p097 -->
 
@@ -5685,11 +5813,11 @@ interrogative sentence structure, i.e.
 
 **2.3.1** VP infinitive (+ please)
 
-> 'Sit ,down, ·please.
+> ˈSit ˎdown, ·please.
 
 **2.3.2** let’s + VP infinitive
 
-> 'Let’s ·listen to some ,music.
+> ˈLet's ·listen to some ˎmusic.
 
 ### D3 Functions of sentence types
 
@@ -5697,122 +5825,122 @@ interrogative sentence structure, i.e.
 
 **3.1.1** identifying (3.1.1)
 
-> 'This is my ,raincoat.
+> ˈThis is my ˎraincoat.
 
 **3.1.2** reporting (3.1.2)
 
 **3.1.3** narrating an event as it occurs
 
-> 'Jane ·goes ·into the ,kitchen. She ·breaks 'two ,eggs | and ·makes an ,omelette.
+> ˈJane ·goes ·into the ˎkitchen. She ·breaks ˈtwo ˎeggs | and ·makes an ˎomelette.
 
 **3.1.4** narrating an event in the past
 
-> He 'got into the ,car | and 'drove a ,way.
+> He ˈgot into the ˎcar | and ˈdrove a ˎway.
 
 **3.1.5** describing people or things
 
-> ʸCarmen | has 'brown ,eyes | and 'long, ·black ,hair.
+> ʸCarmen | has ˈbrown ˎeyes | and ˈlong, ·black ˎhair.
 
 **3.1.6** answering questions (3.1.5)
 
 > (Would you like a bath?)  
-> I'd pre'fer a ,shower.
+> I'd preˈfer a ˎshower.
 
 **3.1.7** making statements regarding
 
 **3.1.7.1** agreement (3.2.1)
 
-> I a,gree.
+I aˎgree.
 
 **3.1.7.2** knowledge (3.2.5)
 
-> I 'know ,Scotland | 'very ,well.
+> | ˈknow ˎScotland | ˈvery ˎwell.
 
 **3.1.7.3** certainty (3.2.9)
 
-> I am 'sure it will ,snow to·night.
+> | am ˈsure it will ˎsnow to·night.
 
 **3.1.7.4** obligation (3.2.11)
 
-> We 'have to ,do it.
+> We ˈhave to ˎdo it.
 
 **3.1.7.5** ability (3.2.7)
 
-> I 'cannot ·drive a ,car.
+> | ˈcannot ·drive a ˎcar.
 
 **3.1.7.6** permissibility (3.2.13, 3.2.15)
 
-> You can 'get up ,late | to,morrow.
+> You can ˈget up ˎlate | toˎmorrow.
 
 **3.1.8** expressing
 
 **3.1.8.1** wants and desires (3.2.16)
 
-> I'd 'like a·nother ,blanket.
+> I'd ˈlike a·nother ˎblanket.
 
 **3.1.8.2** intentions (3.2.18)
 
-> I am ·going to ·buy a 'new ,car.
+> | am ·going to ·buy a ˈnew ˎcar.
 
 **3.1.8.3** preference (3.2.20)
 
-> I'd 'rather ·drink ,water. ®
+> I'd ˈrather ·drink ˎwater. ®
 
 **3.1.8.4** pleasure, happiness (3.2.21)
 
-> This ·food is 'very ,nice.
+> This ·food is ˈvery ˎnice.
 
 **3.1.8.5** displeasure, unhappiness (3.2.22)
 
-> I ·hate 'everything and ,everybody | to,day. ®
+> | ·hate ˈeverything and ˎeverybody | toˎday. ®
 
 **3.1.8.6** liking (3.2.21)
 
-> ·Mr ·Smith is 'very ,pleasant. ®
+> ·Mr ·Smith is ˈvery ˎpleasant. ®
 
 **3.1.8.7** dislike (3.2.22)
 
-> I 'hate | ,shopping. ®
+> | ˈhate | ˎshopping. ®
 
 **3.1.8.8** satisfaction (3.2.25)
 
-> This is 'very ,good.
+> This is ˈvery ˎgood.
 
 **3.1.8.9** dissatisfaction (3.2.26)
 
-> I 'don’t ,like ·this.
+> | ˈdon't ˎlike ·this.
 
 **3.1.8.10** hope (3.2.24)
 
-> I 'hope it will be ,fine to·morrow.
+> | ˈhope it will be ˎfine to·morrow.
 
 **3.1.8.11** gratitude ®
 
-> That is 'very ,kind ·of you. ®
+> That is ˈvery ˎkind ·of you. ®
 
 **3.1.8.12** regret ®
 
-> I am 'very ,sorry | if I ,hurt you. ®
+> | am ˈvery ˎsorry | if | ˎhurt you. ®
 
 **3.1.9** giving
 
 **3.1.9.1** suggestions ®
 
-> We could 'go to the ʸtheatre. ®
+> We could ˈgo to the ʸtheatre. ®
 
 **3.1.9.2** advice ®
 
-> You should ·go by 'taxi. ®
+> You should ·go by ˈtaxi. ®
 
 **3.2** Negative sentences
 
 **3.2.1** correcting a positive statement (3.1.3)
 
-> Her ·dress 'isn’t ʸblue.
+> Her ·dress ˈisn't ʸblue.
 
 **3.2.2** denying statements (3.2.4)
 
-> I have 'never ,been there.
+> | have ˈnever ˎbeen there.
 
 <!-- el:end id=prose_p098 -->
 
@@ -5825,118 +5953,118 @@ interrogative sentence structure, i.e.
 
 **3.2.3** denying knowledge (3.2.5)
 
-> I 'don’t ,know the ·man.
+> | ˈdon't ˎknow the ·man.
 
 **3.2.4** expressing inability (3.2.7)
 
-> I 'can’t re,pair the ·engine.
+> | ˈcan't reˎpair the ·engine.
 
 **3.2.5** expressing doubt (3.2.9e)
 
-> I 'don’t ·think ʸall ·birds can ·fly.
+> | ˈdon't ·think ʸall ·birds can ·fly.
 
 **3.2.6** denying obligation (3.2.11)
 
-> We 'don’t ·have to ,follow him.
+> We ˈdon't ·have to ˎfollow him.
 
 **3.2.7** withholding permission, forbidding (3.2.15) ®
 
-> ·Guests must 'not ·play ·music ·after ,midnight. ®
+> ·Guests must ˈnot ·play ·music ·after ˎmidnight. ®
 
 **3.2.8** expressing negative preferences (3.2.20) ®
 
-> I'd 'rather ·not ·watch ,television. ®
+> I'd ˈrather ·not ·watch ˎtelevision. ®
 
 **3.2.9** expressing displeasure, dislike (3.2.22)
 
-> ·Smoking is 'not ·very ,nice.
+> ·Smoking is ˈnot ·very ˎnice.
 
 **3.2.10** hoping something will not happen
 
-> I 'hope he ·won’t ·go aʸway.  
+> | ˈhope he ·won't ·go aʸway. 
 > I ʸhope ·not.
 
 **3.2.11** expressing indifference (3.2.35)
 
-> It 'doesn’t ,matter.
+It ·doesn't ˎmatter.
 
 forgiveness (3.2.31)
 
-> 'I don’t ,mind.
+> ˈI don't ˎmind.
 
 **3.2.12** signalling non-understanding (3.6.1)
 
-> I 'didn’t under,stand that.
+> | ˈdidn't underˎstand that.
 
 **3.3** Decision questions
 
 **3.3.1** asking for confirmation (3.1.4a)
 
-> 'Did you ,win?
+> ˈDid you ˎwin?
 
 **3.3.2** asking about
 
 **3.3.2.1** agreement (3.2.3)
 
-> 'Don’t you ·think she’s ,nice?
+> ˈDon't you ·think she's ˎnice?
 
 **3.3.2.2** knowledge (3.2.6)
 
-> 'Do you ·know my ,husband?
+> ˈDo you ·know my ˎhusband?
 
 **3.3.2.3** ability (3.2.8)
 
-> 'Can you ,see ·well?
+> ˈCan you ˎsee ·well?
 
 **3.3.2.4** certainty (3.2.10) ®
 
-> 'Are you ,sure? ®
+> ˈAre you ˎsure? ®
 
 **3.3.2.5** obligation (3.2.12)
 
-> 'Do we have to ·wash ·up ,now?
+> ˈDo we have to ·wash ·up ˎnow?
 
 **3.3.3** seeking permission (3.2.14)
 
-> 'Can I ,go ·now, ·please?
+> ˈCan | ˎgo ·now, ·please?
 
 **3.3.4** expressing wants, desires (3.2.16)
 
-> 'May I have ·something to ,drink?
+> ˈMay | have ·something to ˎdrink?
 
 **3.3.5** enquiring about
 
 **3.3.5.1** wants, desires (3.2.17)
 
-> 'Would you ·like some ,jam?
+> ˈWould you ·like some ˎjam?
 
 **3.3.5.2** intentions (3.2.19)
 
-> 'Are you ·going to ·get ,up ·soon?
+> ˈAre you ·going to ·get ˎup ·soon?
 
 **3.3.5.3** likes and dislikes (3.2.23)
 
-> 'Do you ·like ,cheese?
+> ˈDo you ·like ˎcheese?
 
 **3.3.6** making suggestions (3.3.1)
 
-> 'Shall we ,dance?
+> ˈShall we ˎdance?
 
 **3.3.7** making requests (3.3.2, 3.6.2, 3.6.6, 3.6.7, 3.6.10)
 
-> 'Could you ·close the ,door, ·please?
+> ˈCould you ·close the ˎdoor, ·please?
 
 **3.3.8** inviting someone to do something (3.3.3)
 
-> 'Would you ·like to ,play with us?
+> ˈWould you ·like to ˎplay with us?
 
 **3.3.9** offering assistance (3.3.9)
 
-> 'Can I ,help you?
+> ˈCan | ˎhelp you?
 
 **3.3.10** requesting assistance (3.3.10)
 
-> 'Can you ,carry this ·for me, ·please?
+> ˈCan you ˎcarry this ·for me, ·please?
 
 **3.4** Special (*wh*) questions
 
@@ -5944,7 +6072,7 @@ forgiveness (3.2.31)
 
 **3.4.1.1** time when?
 
-> 'When did he ,leave?
+> ˈWhen did he ˎleave?
 
 <!-- el:end id=prose_p099 -->
 
@@ -5957,37 +6085,37 @@ forgiveness (3.2.31)
 
 **3.4.1.2** place where?
 
-> 'Where does she ,live?
+> ˈWhere does she ˎlive?
 
 **3.4.1.3** manner how?
 
-> 'How can I ,do it?
+> ˈHow can | ˎdo it?
 
 **3.4.1.4** degree how far/much/long/hot, etc.?
 
-> 'How much is that ,dress?
+> ˈHow much is that ˎdress?
 
 **3.4.1.5** reason why?
 
-> 'Why did you ,come?
+> ˈWhy did you ˎcome?
 
 **3.4.2** seeking identification (3.1.4c)
 
 **3.4.2.1** person who?
 
-> 'Who is your ,boss?
+> ˈWho is your ˎboss?
 
 **3.4.2.2** possession whose + NP?
 
-> 'Whose ,bag is ·this?
+> ˈWhose ˎbag is ·this?
 
 **3.4.2.3** thing what?
 
-> 'What is ,that ·thing?
+> ˈWhat is ˎthat ·thing?
 
 **3.4.2.4** which + NP?
 
-> 'Which ·pet is ,yours?
+> ˈWhich ·pet is ˎyours?
 
 **3.4.2.5** events What happened?
 
@@ -5995,7 +6123,7 @@ forgiveness (3.2.31)
 
 **3.4.3.1** What about + NP
 
-> 'What about a ·glass of ,beer?
+> ˈWhat about a ·glass of ˎbeer?
 
 **3.4.3.2** What would you like?
 
@@ -6004,74 +6132,74 @@ forgiveness (3.2.31)
 **3.4.4** suggesting a course of action (3.3.1)  
 What about + VPgerund ®
 
-> 'What about ·going to the ,cinema?
+> ˈWhat about ·going to the ˎcinema?
 
 **3.4.5** inviting others to do something? (3.3.3)  
 What about + VPgerund ®
 
-> 'What about ·coming ,home?
+> ˈWhat about ·coming ˎhome?
 
 **3.4.6** advising others to do something (3.3.7)  
 Why don’t you + VP infinitive?
 
-> 'Why don’t you ,ask her?
+> ˈWhy don't you ˎask her?
 
 **3.4.7** asking for partial repetition (3.6.3) (with high-rising intonation on *wh* word)
 
 **3.4.7.1** time (Sorry +) when + interrogative structure
 
-> ʸSorry, | 'when did it ·happen?
+> ʸSorry, | ˈwhen did it ·happen?
 
 **3.4.7.2** place (Sorry +) where + interrogative structure
 
-> 'Where did they ·go?
+> ˈWhere did they ·go?
 
 **3.4.7.3** manner (Sorry +) how + interrogative structure
 
-> 'How do you ·get there?
+> ˈHow do you ·get there?
 
 **3.4.7.4** degree (Sorry +) how + far, much, etc.
 
-> ʸSorry, 'how ·far is it?
+> ʸSorry, ˈhow ·far is it?
 
 **3.4.7.5** reason (Sorry +) why + interrogative structure
 
-> 'Why did he ·leave?
+> ˈWhy did he ·leave?
 
 **3.4.7.6** person (Sorry +) who
 
-> ʸSorry, | 'who did you ·say it was?
+> ʸSorry, | ˈwho did you ·say it was?
 
 **3.4.8** asking for clarification (3.6.4)  
 (Sorry +) what is + NP
 
-> ʸSorry, | 'what is a ,daffodil?
+> ʸSorry, | ˈwhat is a ˎdaffodil?
 
 **3.5** Imperative sentences
 
 **3.5.1** making suggestions (3.3.1)  
 Let’s + VPinfinitive
 
-> 'Let’s ·check the ,tyres.
+> ˈLet's ·check the ˎtyres.
 
 **3.5.2** making requests (3.3.2)
 
-> 'Please ·open the ,window.  
-> ,Listen, ·please.
+> ˈPlease ·open the ˎwindow. 
+> ˎListen, ·please.
 
 **3.5.3** giving warnings (3.3.8)
 
 **3.5.3.1** Be ʸcareful!
 
-**3.5.3.2** 'Look ʸout!
+**3.5.3.2** ˈLook ʸout!
 
 **3.5.3.3** Don’t + VPinfinitive
 
-> 'Don’t be ʸlate.
+> ˈDon't be ʸlate.
 
 **3.5.3.4** Mind + NP
 
-> 'Mind that ʸknife.
+> ˈMind that ʸknife.
 
 <!-- el:end id=prose_p100 -->
 

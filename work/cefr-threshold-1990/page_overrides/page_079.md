@@ -1,5 +1,6 @@
 <!-- el:start type=prose id=prose_p079 page=79 -->
-<!-- vision: Threshold PDF leaf 79 = doc p.73 | multipass Specific notions 6.6 cont.–6.8 -->
+<!-- vision: leaf 79 doc p.73 | word-catalog multipass ch7-8 -->
+<!-- cat: The ˈkidnapper ·threw a ˎbomb | into the ˎgarage. -->
 
 thief  
 burglar ●  
@@ -79,5 +80,10 @@ question
 welfare  
 rich  
 poor
+
+
+
+
+
 
 <!-- el:end id=prose_p079 -->

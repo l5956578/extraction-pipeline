@@ -275,9 +275,9 @@ The Framework includes the description of ‘partial’ qualifications, appropri
 
 <!-- el:end id=prose_p010 -->
 
-*Page **1***
+*[title]**
 
-<!-- page:1 -->
+<!-- page:front-1 label=title -->
 
 <!-- vision: CEFR 2001 PDF page 11 -->
 <!-- el:start type=prose id=prose_p011 page=2 -->
@@ -306,9 +306,9 @@ Consequently, the activities of the CDCC (Council for Cultural Co-operation), it
 
 <!-- el:end id=prose_p011 -->
 
-*Page **2***
+*[contents]**
 
-<!-- page:2 -->
+<!-- page:front-2 label=contents -->
 
 <!-- vision: CEFR 2001 PDF page 12 -->
 <!-- el:start type=prose id=prose_p012 page=3 -->
@@ -339,9 +339,9 @@ The preamble to R(98)6 reaffirms the political objectives of its actions in the 
 
 <!-- el:end id=prose_p012 -->
 
-*Page **3***
+*[prefatory]**
 
-<!-- page:3 -->
+<!-- page:front-3 label=prefatory -->
 
 <!-- vision: CEFR 2001 PDF page 13 -->
 <!-- el:start type=prose id=prose_p013 page=4 -->
@@ -360,9 +360,9 @@ In recent years, the concept of plurilingualism has grown in importance in the C
 
 <!-- el:end id=prose_p013 -->
 
-*Page **4***
+*[notes]**
 
-<!-- page:4 -->
+<!-- page:front-4 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 14 -->
 <!-- el:start type=prose id=prose_p014 page=5 -->
@@ -387,9 +387,9 @@ In the words of the Intergovernmental Symposium held in Rüschlikon, Switzerland
 
 <!-- el:end id=prose_p014 -->
 
-*Page **5***
+*[notes]**
 
-<!-- page:5 -->
+<!-- page:front-5 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 15 -->
 <!-- el:start type=prose id=prose_p015 page=6 -->
@@ -429,9 +429,9 @@ Learning programmes and certification can be:
 
 <!-- el:end id=prose_p015 -->
 
-*Page **6***
+*[notes]**
 
-<!-- page:6 -->
+<!-- page:front-6 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 16 -->
 <!-- el:start type=prose id=prose_p016 page=7 -->
@@ -465,9 +465,9 @@ The construction of a comprehensive, transparent and coherent framework for lang
 
 <!-- el:end id=prose_p016 -->
 
-*Page **7***
+*[notes]**
 
-<!-- page:7 -->
+<!-- page:front-7 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 17 -->
 <!-- el:start type=prose id=prose_p017 page=8 -->
@@ -479,9 +479,9 @@ The construction of a comprehensive, transparent and coherent framework for lang
 
 <!-- el:end id=prose_p017 -->
 
-*Page **8***
+*[synopsis]**
 
-<!-- page:8 -->
+<!-- page:front-8 label=synopsis -->
 
 <!-- vision: CEFR 2001 PDF page 18 -->
 <!-- el:start type=prose id=prose_p018 page=9 -->
@@ -504,12 +504,12 @@ Accordingly, any form of language use and learning could be described as follows
 
 <!-- el:end id=prose_p018 -->
 
-*Page **9***
+*[synopsis]**
 
-<!-- page:9 -->
+<!-- page:front-9 label=synopsis -->
 
 <!-- vision: CEFR 2001 PDF page 19 -->
-<!-- el:start type=prose id=prose_p019 page=10 -->
+<!-- el:start type=prose id=prose_p019 page=1 -->
 
 - *Language activities* involve the exercise of one’s communicative language competence in a specific domain in processing (receptively and/or productively) one or more texts in order to carry out a task.
 - *Language processes* refer to the chain of events, neurological and physiological, involved in the production and reception of speech and writing.
@@ -526,12 +526,12 @@ Each of the main categories outlined above can be divided into sub-categories, s
 
 <!-- el:end id=prose_p019 -->
 
-*Page **10***
+*[title]***
 
-<!-- page:10 -->
+<!-- page:front-1 label=title -->
 
 <!-- vision: CEFR 2001 PDF page 20 -->
-<!-- el:start type=prose id=prose_p020 page=11 -->
+<!-- el:start type=prose id=prose_p020 page=2 -->
 
 #### 2.1.1 The general competences of an individual
 
@@ -547,12 +547,12 @@ Any new knowledge is not simply added onto the knowledge one had before but is c
 
 <!-- el:end id=prose_p020 -->
 
-*Page **11***
+*[contents]***
 
-<!-- page:11 -->
+<!-- page:front-2 label=contents -->
 
 <!-- vision: CEFR 2001 PDF page 21 -->
-<!-- el:start type=prose id=prose_p021 page=12 -->
+<!-- el:start type=prose id=prose_p021 page=3 -->
 
 and one’s view of others and willingness to engage with other people in social interaction. This type of competence is not seen simply as resulting from immutable personality characteristics. It includes factors which are the product of various kinds of acculturation and may be modified.
 
@@ -573,12 +573,12 @@ For the same individual there can be many variations in the use of skills and kn
 
 <!-- el:end id=prose_p021 -->
 
-*Page **12***
+*[prefatory]***
 
-<!-- page:12 -->
+<!-- page:front-3 label=prefatory -->
 
 <!-- vision: CEFR 2001 PDF page 22 -->
-<!-- el:start type=prose id=prose_p022 page=13 -->
+<!-- el:start type=prose id=prose_p022 page=4 -->
 
 - Variations according to the prevailing circumstances and past experience: it is quite probable that the skills applied in learning a fifth foreign language will be different from those applied in learning the first.
 
@@ -596,12 +596,12 @@ Communicative language competence can be considered as comprising several compon
 
 <!-- el:end id=prose_p022 -->
 
-*Page **13***
+*[notes]***
 
-<!-- page:13 -->
+<!-- page:front-4 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 23 -->
-<!-- el:start type=prose id=prose_p023 page=14 -->
+<!-- el:start type=prose id=prose_p023 page=5 -->
 
 All the categories used here are intended to characterise areas and types of competences internalised by a social agent, i.e. internal representations, mechanisms and capacities, the cognitive existence of which can be considered to account for observable behaviour and performance. At the same time, any learning process will help to develop or transform these same internal representations, mechanisms and capacities.
 
@@ -623,12 +623,12 @@ Language activities are contextualised within *domains*. These may themselves be
 
 <!-- el:end id=prose_p023 -->
 
-*Page **14***
+*[notes]***
 
-<!-- page:14 -->
+<!-- page:front-5 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 24 -->
-<!-- el:start type=prose id=prose_p024 page=15 -->
+<!-- el:start type=prose id=prose_p024 page=6 -->
 
 The *public domain* refers to everything connected with ordinary social interaction (business and administrative bodies, public services, cultural and leisure activities of a public nature, relations with the media, etc.). Complementarily, the *personal domain* comprises family relations and individual social practices.
 
@@ -646,12 +646,12 @@ The relationship between strategies, task and text depends on the nature of the 
 
 <!-- el:end id=prose_p024 -->
 
-*Page **15***
+*[notes]***
 
-<!-- page:15 -->
+<!-- page:front-6 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 25 -->
-<!-- el:start type=prose id=prose_p025 page=16 -->
+<!-- el:start type=prose id=prose_p025 page=7 -->
 
 at all to do with the task, or they may carry out the task while one of them is humming a tune. The use of language becomes necessary when one of the group does not know what to do next, or when for some reason the established routine does not work.
 
@@ -673,12 +673,12 @@ The addition of a vertical dimension to the Framework nevertheless enables learn
 
 <!-- el:end id=prose_p025 -->
 
-*Page **16***
+*[notes]***
 
-<!-- page:16 -->
+<!-- page:front-7 label=notes -->
 
 <!-- vision: CEFR 2001 PDF page 26 -->
-<!-- el:start type=prose id=prose_p026 page=17 -->
+<!-- el:start type=prose id=prose_p026 page=8 -->
 
 - A framework including both horizontal and vertical dimensions facilitates the definition of partial objectives and the recognition of uneven profiles, partial competencies.
 - A framework of levels and categories facilitating profiling of objectives for particular purposes may aid inspectors. Such a framework may help to assess whether learners are working at an appropriate level in different areas. It may inform decisions on whether performance in those areas represents a standard appropriate to the stage of learning, immediate future goals and wider longer-term goals of effective language proficiency and personal development.
@@ -692,12 +692,12 @@ Finally, one should be careful about interpreting sets of levels and scales of l
 
 <!-- el:end id=prose_p026 -->
 
-*Page **17***
+*[synopsis]***
 
-<!-- page:17 -->
+<!-- page:front-8 label=synopsis -->
 
 <!-- vision: CEFR 2001 PDF page 27 -->
-<!-- el:start type=prose id=prose_p027 page=18 -->
+<!-- el:start type=prose id=prose_p027 page=9 -->
 
 from Waystage than they needed to reach Waystage. They will then probably need more than twice as long to reach Vantage Level from Threshold Level than they needed to reach Threshold Level from Waystage, even if the levels appear to be equidistant on the scale. This is because of the necessary broadening of the range of activities, skills and language involved. This fact of life is reflected in the frequent presentation of a scale of levels with a diagram like an ice cream cornet – a three-dimensional cone which broadens towards the top. Extreme caution should be exercised in using any scale of levels to calculate the ‘mean seat time’ necessary to meet particular objectives.
 
@@ -715,12 +715,12 @@ An open, ‘neutral’ framework of reference does not of course imply an absenc
 
 <!-- el:end id=prose_p027 -->
 
-*Page **18***
+*[synopsis]***
 
-<!-- page:18 -->
+<!-- page:front-9 label=synopsis -->
 
 <!-- vision: CEFR 2001 PDF page 28 -->
-<!-- el:start type=prose id=prose_p028 page=19 -->
+<!-- el:start type=prose id=prose_p028 page=1 -->
 
 #### 2.3.3
 
@@ -742,12 +742,12 @@ The chapter proceeds to consider questions of feasibility in assessment. The app
 
 <!-- el:end id=prose_p028 -->
 
-*Page **19***
+*Page **1*****
 
-<!-- page:19 -->
+<!-- page:1 -->
 
 <!-- vision: CEFR 2001 PDF page 29 -->
-<!-- el:start type=prose id=prose_p029 page=20 -->
+<!-- el:start type=prose id=prose_p029 page=2 -->
 
 areas of special relevance. The chapter discusses the issues raised and illustrates the discussion by presenting the schemes adopted by a number of examining bodies for proficiency assessment criteria.
 
@@ -759,12 +759,12 @@ Those professionally involved in test development as well as in the administrati
 
 <!-- el:end id=prose_p029 -->
 
-*Page **20***
+*Page **2*****
 
-<!-- page:20 -->
+<!-- page:2 -->
 
 <!-- vision: CEFR 2001 PDF page 30 -->
-<!-- el:start type=prose id=prose_p030 page=21 -->
+<!-- el:start type=prose id=prose_p030 page=3 -->
 <!-- db:id=cefr2001_ch3_levels type=section product_tier=context pages=30-42 -->
 
 
@@ -788,12 +788,12 @@ One of the aims of the Framework is to help partners to describe the levels of p
 
 <!-- el:end id=prose_p030 -->
 
-*Page **21***
+*Page **3*****
 
-<!-- page:21 -->
+<!-- page:3 -->
 
 <!-- vision: CEFR 2001 PDF page 31 -->
-<!-- el:start type=prose id=prose_p031 page=22 -->
+<!-- el:start type=prose id=prose_p031 page=4 -->
 
 
 two-tier approach between broader (common, conventional) and narrower (local, pedagogic) levels.
@@ -810,12 +810,12 @@ There does appear in practice to be a wide, though by no means universal, consen
 
 <!-- el:end id=prose_p031 -->
 
-*Page **22***
+*Page **4*****
 
-<!-- page:22 -->
+<!-- page:4 -->
 
 <!-- vision: CEFR 2001 PDF page 32 -->
-<!-- el:start type=prose id=prose_p032 page=23 -->
+<!-- el:start type=prose id=prose_p032 page=5 -->
 
 
 and the public recognition of achievement. It seems that an outline framework of six broad levels gives an adequate coverage of the learning space relevant to European language learners for these purposes.
@@ -829,7 +829,7 @@ and the public recognition of achievement. It seems that an outline framework of
 
 When one looks at these six levels, however, one sees that they are respectively higher and lower interpretations of the classic division into basic, intermediate and advanced. Also, some of the names given to Council of Europe specifications for levels have proved resistant to translation (e.g. *Waystage*, *Vantage*). The scheme therefore proposed adopts a ‘hypertext’ branching principle, starting from an initial division into three broad levels – A, B and C:
 
-<!-- el:start type=figure id=cefr2001_figure_01_common_reference_levels page=23 -->
+<!-- el:start type=figure id=cefr2001_figure_01_common_reference_levels page=5 -->
 <!-- db:id=cefr2001_figure_01_common_reference_levels type=figure product_tier=context pages=32 -->
 
 **Figure 1.** Common Reference Levels branching principle
@@ -851,12 +851,12 @@ The establishment of a set of common reference points in no way limits how diffe
 
 <!-- el:end id=prose_p032 -->
 
-*Page **23***
+*Page **5*****
 
-<!-- page:23 -->
+<!-- page:5 -->
 
 <!-- vision: CEFR 2001 PDF page 33 -->
-<!-- el:start type=prose id=prose_p033 page=24 -->
+<!-- el:start type=prose id=prose_p033 page=6 -->
 
 
 experience of member states and of institutions with related expertise is incorporated into the description.
@@ -867,9 +867,9 @@ It is also desirable that the common reference points are presented in different
 
 <!-- el:end id=prose_p033 -->
 
-*Page **24***
+*Page **6*****
 
-<!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=24 -->
+<!-- el:start type=table id=cefr2001_table_1_common_reference_levels_global_scale page=6 -->
 <!-- db:id=cefr2001_table_1_common_reference_levels_global_scale type=table product_tier=base pages=33 -->
 
 **Table 1. Common Reference Levels: global scale**
@@ -885,10 +885,10 @@ It is also desirable that the common reference points are presented in different
 
 <!-- el:end id=cefr2001_table_1_common_reference_levels_global_scale -->
 
-<!-- page:24 -->
+<!-- page:6 -->
 
 <!-- vision: CEFR 2001 PDF page 34 -->
-<!-- el:start type=prose id=prose_p034 page=25 -->
+<!-- el:start type=prose id=prose_p034 page=7 -->
 
 
 In order to orient learners, teachers and other users within the educational system for some practical purpose, however, a more detailed overview is likely to be necessary. Such an overview can be presented in the form of a grid showing major categories of language use at each of the six levels. The example in Table 2 (on the next two pages) is a draft for a self-assessment orientation tool based on the six levels. It is intended to help learners to profile their main language skills, and decide at which level they might look at a checklist of more detailed descriptors in order to self-assess their level of proficiency.
@@ -913,16 +913,16 @@ For ease of consultation, scales of descriptors are juxtaposed to the relevant c
 
 <!-- el:end id=prose_p034 -->
 
-*Page **25***
+*Page **7*****
 
-<!-- page:25 -->
+<!-- page:7 -->
 
 <!-- vision: CEFR 2001 PDF leaf 35 = document p.26 | multipass: stitch+vertical band -->
 
 
-*Page **26***
+*Page **8*****
 
-<!-- el:start type=table id=cefr2001_table_2_self_assessment_grid page=26 -->
+<!-- el:start type=table id=cefr2001_table_2_self_assessment_grid page=8 -->
 <!-- db:id=cefr2001_table_2_self_assessment_grid type=table product_tier=base pages=26-27 -->
 <!-- book-qa: stitched multipage self-assessment grid (Table 2); one db:id / full grid -->
 
@@ -938,7 +938,7 @@ For ease of consultation, scales of descriptors are juxtaposed to the relevant c
 
 <!-- el:end id=cefr2001_table_2_self_assessment_grid -->
 
-<!-- page:26 -->
+<!-- page:8 -->
 
 <!-- vision: CEFR 2001 PDF leaf 36 = document p.27 | multipass: continuity only (no table body) -->
 <!-- table-continuity: full multipage Table 2 lives on document page 26
@@ -946,12 +946,12 @@ For ease of consultation, scales of descriptors are juxtaposed to the relevant c
 
 *Table 2 continues from document page 26 (self-assessment grid, full stitch).*
 
-*Page **27***
+*Page **9*****
 
-<!-- page:27 -->
+<!-- page:9 -->
 
 <!-- vision: CEFR 2001 PDF leaf 37 = document p.28 | multipass: Table 3 stitch + rotation → normal table -->
-<!-- el:start type=table id=cefr2001_table_3_qualitative_spoken_language page=19 -->
+<!-- el:start type=table id=cefr2001_table_3_qualitative_spoken_language page=1 -->
 <!-- db:id=cefr2001_table_3_qualitative_spoken_language type=table product_tier=base pages=28-29 -->
 <!-- multipage-stitch: FULL grid once here; doc p.29 continuity only -->
 
@@ -971,9 +971,9 @@ For ease of consultation, scales of descriptors are juxtaposed to the relevant c
 
 <!-- el:end id=cefr2001_table_3_qualitative_spoken_language -->
 
-*Page **28***
+*Page **10*****
 
-<!-- page:28 -->
+<!-- page:10 -->
 
 <!-- vision: CEFR 2001 PDF leaf 38 = document p.29 | multipass: continuity only -->
 <!-- table-continuity: full multipage Table 3 lives on document page 28
@@ -981,12 +981,12 @@ For ease of consultation, scales of descriptors are juxtaposed to the relevant c
 
 *Table 3 continues from document page 28 (qualitative aspects of spoken language use, full stitch).*
 
-*Page **29***
+*Page **11*****
 
-<!-- page:29 -->
+<!-- page:11 -->
 
 <!-- vision: CEFR 2001 PDF page 39 -->
-<!-- el:start type=prose id=prose_p039 page=30 -->
+<!-- el:start type=prose id=prose_p039 page=12 -->
 
 #### Communicative language competences
 
@@ -1007,12 +1007,12 @@ The descriptors juxtaposed with the text in Chapters 4 and 5:
 
 <!-- el:end id=prose_p039 -->
 
-*Page **30***
+*Page **12*****
 
-<!-- page:30 -->
+<!-- page:12 -->
 
 <!-- vision: CEFR 2001 PDF page 40 -->
-<!-- el:start type=prose id=prose_p040 page=31 -->
+<!-- el:start type=prose id=prose_p040 page=13 -->
 
 The set as a whole, whilst not being fully comprehensive and having been scaled in one (admittedly multi-lingual, multi-sector) context of foreign language learning in instructional settings:
 
@@ -1036,16 +1036,16 @@ Secondly, the Swiss empirical results suggest a scale of 9 more or less equally 
 
 <!-- el:end id=prose_p040 -->
 
-*Page **31***
+*Page **13*****
 
-<!-- page:31 -->
+<!-- page:13 -->
 
 <!-- vision: CEFR 2001 PDF leaf 41 = document p.32 | multipass: Figure 2 PNG crop + Table 4 + Figure 3 -->
-<!-- el:start type=prose id=prose_p041 page=23 -->
+<!-- el:start type=prose id=prose_p041 page=5 -->
 
 In the illustrative descriptors a distinction is made between the ‘criterion levels’ (e.g. A2 or A2.1) and the ‘plus levels’ (e.g. A2+ or A2.2). The latter are distinguished from the former by a horizontal line, as in this example for overall listening comprehension.
 
-<!-- el:start type=figure id=cefr2001_figure_02_nine_level_branching page=23 -->
+<!-- el:start type=figure id=cefr2001_figure_02_nine_level_branching page=5 -->
 <!-- db:id=cefr2001_figure_02_nine_level_branching type=figure product_tier=context pages=32 -->
 
 **Figure 2.** Nine-level branching (A/B/C with plus levels A2+, B1+, B2+)
@@ -1054,7 +1054,7 @@ In the illustrative descriptors a distinction is made between the ‘criterion l
 
 <!-- el:end id=cefr2001_figure_02_nine_level_branching -->
 
-<!-- el:start type=table id=cefr2001_table_4_a2_plus_listening page=23 -->
+<!-- el:start type=table id=cefr2001_table_4_a2_plus_listening page=5 -->
 <!-- db:id=cefr2001_table_4_a2_plus_listening type=table product_tier=context pages=32 -->
 
 **Table 4. Levels A2.1 and A2.2 (A2+): listening comprehension**
@@ -1071,7 +1071,7 @@ Establishing cut-off points between levels is always a subjective procedure; som
 **Example 1:**  
 A primary to lower secondary school system, for example, or system for adult evening classes in which the provision of visible progress at low levels is felt necessary, could develop the *Basic User* stem to produce a set of perhaps six milestones with finer differentiation at *A2 (Waystage)* where large numbers of learners would be found.
 
-<!-- el:start type=figure id=cefr2001_figure_03_basic_user_branching_example page=23 -->
+<!-- el:start type=figure id=cefr2001_figure_03_basic_user_branching_example page=5 -->
 <!-- db:id=cefr2001_figure_03_basic_user_branching_example type=figure product_tier=context pages=32 -->
 
 **Figure 3.** Example branching under Basic User / Independent User
@@ -1082,12 +1082,12 @@ A primary to lower secondary school system, for example, or system for adult eve
 
 <!-- el:end id=prose_p041 -->
 
-*Page **32***
+*Page **14*****
 
-<!-- page:32 -->
+<!-- page:14 -->
 
 <!-- vision: CEFR 2001 PDF page 42 -->
-<!-- el:start type=prose id=prose_p042 page=33 -->
+<!-- el:start type=prose id=prose_p042 page=15 -->
 
 **Example 2:**
 
@@ -1131,12 +1131,12 @@ An analysis of the functions, notions, grammar and vocabulary necessary to perfo
 
 <!-- el:end id=prose_p042 -->
 
-*Page **33***
+*Page **15*****
 
-<!-- page:33 -->
+<!-- page:15 -->
 
 <!-- vision: CEFR 2001 PDF page 43 -->
-<!-- el:start type=prose id=prose_p043 page=34 -->
+<!-- el:start type=prose id=prose_p043 page=16 -->
 
 descriptors on getting out and about: the simplified cut-down version of the full set of transactional specifications in ‘The Threshold Level’ for adults living abroad, like: *make simple transactions in shops, post offices or banks; get simple information about travel; use public transport: buses, trains, and taxis, ask for basic information, ask and give directions, and buy tickets; ask for and provide everyday goods and services*.
 
@@ -1148,12 +1148,12 @@ descriptors on getting out and about: the simplified cut-down version of the ful
 
 <!-- el:end id=prose_p043 -->
 
-*Page **34***
+*Page **16*****
 
-<!-- page:34 -->
+<!-- page:16 -->
 
 <!-- vision: CEFR 2001 PDF page 44 -->
-<!-- el:start type=prose id=prose_p044 page=35 -->
+<!-- el:start type=prose id=prose_p044 page=17 -->
 
 *thing, giving detailed instructions; exchange accumulated factual information on familiar routine and non-routine matters within his/her field with some confidence*.
 
@@ -1163,12 +1163,12 @@ descriptors on getting out and about: the simplified cut-down version of the ful
 
 <!-- el:end id=prose_p044 -->
 
-*Page **35***
+*Page **17*****
 
-<!-- page:35 -->
+<!-- page:17 -->
 
 <!-- vision: CEFR 2001 PDF page 45 -->
-<!-- el:start type=prose id=prose_p045 page=36 -->
+<!-- el:start type=prose id=prose_p045 page=18 -->
 
 - **Level C1**, the next band, was labelled *Effective Operational Proficiency*. What seems to characterise this level is good access to a broad range of language, which allows fluent, spontaneous communication, as illustrated by the following examples: *Can express him/herself fluently and spontaneously, almost effortlessly. Has a good command of a broad lexical repertoire allowing gaps to be readily overcome with circumlocutions. There is little obvious searching for expressions or avoidance strategies; only a conceptually difficult subject can hinder a natural, smooth flow of language*. The discourse skills characterising the previous band continue to be evident at Level C1, with an emphasis on more fluency, for example: *select a suitable phrase from a fluent repertoire of discourse functions to preface his remarks in order to get the floor, or to gain time and keep it whilst thinking; produce clear, smoothly flowing, well-structured speech, showing controlled use of organisational patterns, connectors and cohesive devices*.
 
@@ -1186,12 +1186,12 @@ Each level should be taken to subsume the levels below it on the scale. That is 
 
 <!-- el:end id=prose_p045 -->
 
-*Page **36***
+*Page **18*****
 
-<!-- page:36 -->
+<!-- page:18 -->
 
 <!-- vision: CEFR 2001 PDF page 46 -->
-<!-- el:start type=prose id=prose_p046 page=37 -->
+<!-- el:start type=prose id=prose_p046 page=19 -->
 
 (*Waystage*), to be better than what is stated at A2 (*Waystage*). That means that provisos attached to a performance placed at A2 (*Waystage*) for example ‘provided speech is clearly and slowly articulated’ will have less force, or be non-applicable to a performance at B1 (*Threshold*).
 
@@ -1218,12 +1218,12 @@ A functional distinction has been made between three types of scales of proficie
 
 <!-- el:end id=prose_p046 -->
 
-*Page **37***
+*Page **19*****
 
-<!-- page:37 -->
+<!-- page:19 -->
 
 <!-- vision: CEFR 2001 PDF page 47 -->
-<!-- el:start type=prose id=prose_p047 page=38 -->
+<!-- el:start type=prose id=prose_p047 page=20 -->
 
 > Can understand simple English spoken slowly and carefully to him/her and catch the main points in short, clear, simple messages and announcements.
 >
@@ -1253,12 +1253,12 @@ Some analytic scales have a large number of categories in order to profile achie
 
 <!-- el:end id=prose_p047 -->
 
-*Page **38***
+*Page **20*****
 
-<!-- page:38 -->
+<!-- page:20 -->
 
 <!-- vision: CEFR 2001 PDF page 48 -->
-<!-- el:start type=prose id=prose_p048 page=39 -->
+<!-- el:start type=prose id=prose_p048 page=21 -->
 
 **(c)** *constructor-oriented* scales guide the construction of tests at appropriate levels. Statements are typically expressed in terms of *specific communication tasks the learner might be asked to perform in tests*. These types of scales, or lists of specifications, also concentrate on *what the learner can do*.
 
@@ -1296,12 +1296,12 @@ All these orientations can be considered relevant to a common framework.
 
 <!-- el:end id=prose_p048 -->
 
-*Page **39***
+*Page **21*****
 
-<!-- page:39 -->
+<!-- page:21 -->
 
 <!-- vision: CEFR 2001 PDF page 49 -->
-<!-- el:start type=prose id=prose_p049 page=40 -->
+<!-- el:start type=prose id=prose_p049 page=22 -->
 
 Another way of looking at the orientations discussed above is to say that a user-oriented scale is a less detailed version of a constructor-oriented scale which is intended to give an overview. Similarly, an assessor-oriented scale is a less detailed version of a diagnostic-oriented scale which helps an assessor to arrive at an overview. Some user-oriented scales take this process of reducing detail into an overview to its logical conclusion and present a ‘global’ scale describing typical achievement at each level. In some cases this is instead of reporting detail (e.g. the Finnish scale cited above). In some cases it is to give meaning to a profile of numbers reported for particular skills (e.g. IELTS: International English Language Testing System). In other cases it is to give an entry point or overview to a more detailed specification (e.g. Eurocentres). In all these cases, the view taken is similar to that in hypertext computer presentations. The user is presented with an information pyramid and can get an overview by considering the top layer of the hierarchy (here the ‘global’ scale). More detail can be presented by going down layers of the system, but at any one point, what is being looked at is confined to one or two screens – or pieces of paper. In this way complexity can be presented without blinding people with irrelevant detail, or simplifying to the point of banality. Detail is there – if it is required.
 
@@ -1320,12 +1320,12 @@ Users of the Framework may wish to consider and where appropriate state:
 
 <!-- el:end id=prose_p049 -->
 
-*Page **40***
+*Page **22*****
 
-<!-- page:40 -->
+<!-- page:22 -->
 
 <!-- vision: CEFR 2001 PDF page 50 -->
-<!-- el:start type=prose id=prose_p050 page=41 -->
+<!-- el:start type=prose id=prose_p050 page=23 -->
 
 A particular objective may be situated at a certain level. In Figure 7, examination ‘Y’ aims to cover the band of proficiency represented by Levels 4 and 5 on the proficiency scale. There may be other examinations aimed at different levels, and the proficiency scale may be used to help make transparent the relationship between them. This is the idea behind the English-speaking Union (ESU) Framework project for examinations in English as a Foreign Language, and of the ALTE scheme to relate examinations for different European languages to each other.
 
@@ -1353,11 +1353,11 @@ Proficiency          Exam ‘Y’          Examination
 
 <!-- el:end id=prose_p050 -->
 
-*Page **41***
+*Page **23*****
 
-<!-- page:41 -->
+<!-- page:23 -->
 
-<!-- el:start type=prose id=prose_p051 page=42 -->
+<!-- el:start type=prose id=prose_p051 page=24 -->
 <!-- vision: CEFR 2001 PDF page 51 -->
 
 It is possible to establish the relationship between examination grades and proficiency levels in this way because examinations have, by definition, a standard and a group of trained assessors capable of interpreting that standard. It is necessary to make the common standards explicit and transparent, provide examples which operationalise the standards, and then scale them.
@@ -1374,11 +1374,11 @@ Nevertheless, it is possible to establish an approximate relationship between th
 
 <!-- el:end id=prose_p051 -->
 
-*Page **42***
+*Page **24*****
 
-<!-- page:42 -->
+<!-- page:24 -->
 
-<!-- el:start type=prose id=prose_p052 page=43 -->
+<!-- el:start type=prose id=prose_p052 page=25 -->
 <!-- vision: CEFR 2001 PDF page 52 -->
 
 ## 4 Language use and the language user/learner
@@ -1391,11 +1391,11 @@ The analysis of language use and the language user contained in Chapter 4 is fun
 
 <!-- el:end id=prose_p052 -->
 
-*Page **43***
+*Page **25*****
 
-<!-- page:43 -->
+<!-- page:25 -->
 
-<!-- el:start type=prose id=prose_p053 page=44 -->
+<!-- el:start type=prose id=prose_p053 page=26 -->
 <!-- vision: CEFR 2001 PDF page 53 -->
 
 writers, teachers and examiners will have to make very detailed concrete decisions on the content of texts, exercises, activities, tests, etc. This process can never be reduced simply to choosing from a pre-determined menu. That level of decision must, and should, be in the hands of the practitioners concerned, calling on their judgement and creativity. They should, however, find represented here all the major aspects of language use and competence they need to take into consideration. The overall structure of Chapter 4 is thus a kind of checklist and for this reason is presented at the beginning of the chapter. Users are recommended to familiarise themselves with this overall structure and to refer to it when asking themselves such questions as:
@@ -1426,11 +1426,11 @@ It has long been recognised that language in use varies greatly according to the
 
 <!-- el:end id=prose_p053 -->
 
-*Page **44***
+*Page **26*****
 
-<!-- page:44 -->
+<!-- page:26 -->
 
-<!-- el:start type=prose id=prose_p054 page=45 -->
+<!-- el:start type=prose id=prose_p054 page=27 -->
 <!-- vision: CEFR 2001 PDF page 54 -->
 
 ment of thought like, say, mathematics. The need and the desire to communicate arise in a particular situation and the form as well as the content of the communication is a response to that situation. The first section of Chapter 4 is therefore devoted to different aspects of context.
@@ -1452,11 +1452,11 @@ On the other hand, the personal domain individualises or personalises actions in
 
 <!-- el:end id=prose_p054 -->
 
-*Page **45***
+*Page **27*****
 
-<!-- page:45 -->
+<!-- page:27 -->
 
-<!-- el:start type=prose id=prose_p055 page=46 -->
+<!-- el:start type=prose id=prose_p055 page=28 -->
 <!-- vision: CEFR 2001 PDF page 55 -->
 
 other domains. Without ceasing to be social agents, the persons involved situate themselves as individuals; a technical report, a class presentation, a purchase made can – fortunately – enable a ‘personality’ to be expressed other than solely in relation to the professional, educational or public domain of which, in a specific time and place, its language activity forms part.
@@ -1490,11 +1490,11 @@ The external conditions under which communication occurs impose various constrai
 
 <!-- el:end id=prose_p055 -->
 
-*Page **46***
+*Page **28*****
 
-<!-- page:46 -->
+<!-- page:28 -->
 
-<!-- el:start type=prose id=prose_p056 page=47 -->
+<!-- el:start type=prose id=prose_p056 page=29 -->
 <!-- vision: CEFR 2001 PDF page 56 -->
 
 - Physical conditions:
@@ -1525,14 +1525,14 @@ Care has to be taken to ensure that all candidates in listening comprehension te
 
 <!-- el:end id=prose_p056 -->
 
-*Page **47***
+*Page **29*****
 
-<!-- page:47 -->
+<!-- page:29 -->
 
-<!-- el:start type=prose id=prose_p057 page=48 -->
+<!-- el:start type=prose id=prose_p057 page=30 -->
 <!-- vision: CEFR 2001 PDF page 57 -->
 
-<!-- el:start type=table id=cefr2001_table_5_external_context_of_use page=39 -->
+<!-- el:start type=table id=cefr2001_table_5_external_context_of_use page=21 -->
 <!-- db:id=cefr2001_table_5_external_context_of_use type=table product_tier=base pages=48-49 -->
 <!-- multipage-stitch: FULL 8-col grid once here; doc p.49 = continuity chrome only (RIE-010) -->
 <!-- document pages 48–49 = PDF leaves 57–58; left Domain–Persons + right Objects–Texts merged -->
@@ -1550,9 +1550,9 @@ Care has to be taken to ensure that all candidates in listening comprehension te
 
 <!-- el:end id=prose_p057 -->
 
-*Page **48***
+*Page **30*****
 
-<!-- page:48 -->
+<!-- page:30 -->
 
 <!-- vision: CEFR 2001 PDF leaf 58 = document p.49 | multipass: continuity only (no table body) -->
 <!-- table-continuity: full multipage Table 5 lives on document page 48
@@ -1560,11 +1560,11 @@ Care has to be taken to ensure that all candidates in listening comprehension te
 
 *Table 5 continues from document page 48 (external context of use, full stitch).*
 
-*Page **49***
+*Page **31*****
 
-<!-- page:49 -->
+<!-- page:31 -->
 
-<!-- el:start type=prose id=prose_p059 page=50 -->
+<!-- el:start type=prose id=prose_p059 page=32 -->
 <!-- vision: CEFR 2001 PDF page 59 -->
 
 > **Users of the Framework may wish to consider and where appropriate state:**
@@ -1601,11 +1601,11 @@ External conditions and constraints are also relevant mainly in so far as the us
 
 <!-- el:end id=prose_p059 -->
 
-*Page **50***
+*Page **32*****
 
-<!-- page:50 -->
+<!-- page:32 -->
 
-<!-- el:start type=prose id=prose_p060 page=51 -->
+<!-- el:start type=prose id=prose_p060 page=33 -->
 <!-- vision: CEFR 2001 PDF page 60 -->
 
 recognises, accepts and adjusts to them (or fails to do so). This is very much a matter of the individual’s interpretation of the situation in the light of his or her general competences (see section 5.1) such as prior knowledge, values and beliefs.
@@ -1636,11 +1636,11 @@ Within the various domains we may distinguish *themes*, the topics which are the
 
 <!-- el:end id=prose_p060 -->
 
-*Page **51***
+*Page **33*****
 
-<!-- page:51 -->
+<!-- page:33 -->
 
-<!-- el:start type=prose id=prose_p061 page=52 -->
+<!-- el:start type=prose id=prose_p061 page=34 -->
 <!-- vision: CEFR 2001 PDF page 61 -->
 
 particular communicative acts. Thematic categories can be classified in many different ways. One influential classification, into themes, sub-themes and ‘specific notions’ is that presented in *Threshold Level 1990*, Chapter 7:
@@ -1684,11 +1684,11 @@ Clearly, this particular selection and organisation of themes, sub-themes and sp
 
 <!-- el:end id=prose_p061 -->
 
-*Page **52***
+*Page **34*****
 
-<!-- page:52 -->
+<!-- page:34 -->
 
-<!-- el:start type=prose id=prose_p062 page=53 -->
+<!-- el:start type=prose id=prose_p062 page=35 -->
 <!-- vision: CEFR 2001 PDF page 62 -->
 
 country. Some (e.g. area 4) are partly in the personal and partly in the public domain. Users of the Framework, including where possible the actual learners concerned, will of course make their own decisions based on their assessment of learner needs, motivations, characteristics and resources in the relevant domain or domains with which they are concerned. For example, vocationally-oriented language learning (VOLL) may develop themes in the occupational area relevant to the students concerned. Students in upper secondary education may explore scientific, technological, economic, etc. themes in some depth. The use of a foreign language as medium of instruction will necessarily entail a close concern with the thematic content of the subject area taught.
@@ -1718,11 +1718,11 @@ As temporary residents learners should be able to:
 
 <!-- el:end id=prose_p062 -->
 
-*Page **53***
+*Page **35*****
 
-<!-- page:53 -->
+<!-- page:35 -->
 
-<!-- el:start type=prose id=prose_p063 page=54 -->
+<!-- el:start type=prose id=prose_p063 page=36 -->
 <!-- vision: CEFR 2001 PDF page 63 -->
 
 - read employment advertisements;
@@ -1752,11 +1752,11 @@ Practitioners (teachers, course-writers, examiners, curriculum designers, etc.) 
 
 <!-- el:end id=prose_p063 -->
 
-*Page **54***
+*Page **36*****
 
-<!-- page:54 -->
+<!-- page:36 -->
 
-<!-- el:start type=prose id=prose_p064 page=55 -->
+<!-- el:start type=prose id=prose_p064 page=37 -->
 <!-- vision: CEFR 2001 PDF page 64 -->
 
 #### 4.3.3
@@ -1791,11 +1791,11 @@ Social language games:
 
 <!-- el:end id=prose_p064 -->
 
-*Page **55***
+*Page **37*****
 
-<!-- page:55 -->
+<!-- page:37 -->
 
-<!-- el:start type=prose id=prose_p065 page=56 -->
+<!-- el:start type=prose id=prose_p065 page=38 -->
 <!-- vision: CEFR 2001 PDF page 65 -->
 
 - board and card games (Scrabble, Lexicon, Diplomacy, etc.);
@@ -1830,11 +1830,11 @@ This summary treatment of what has traditionally been a major, often dominant, a
 
 <!-- el:end id=prose_p065 -->
 
-*Page **56***
+*Page **38*****
 
-<!-- page:56 -->
+<!-- page:38 -->
 
-<!-- el:start type=prose id=prose_p066 page=57 -->
+<!-- el:start type=prose id=prose_p066 page=39 -->
 <!-- vision: CEFR 2001 PDF page 66 -->
 
 ### 4.4 Communicative language activities and strategies
@@ -1861,11 +1861,11 @@ Productive activities and strategies include both speaking and writing activitie
 
 <!-- el:end id=prose_p066 -->
 
-*Page **57***
+*Page **39*****
 
-<!-- page:57 -->
+<!-- page:39 -->
 
-<!-- el:start type=prose id=prose_p067 page=58 -->
+<!-- el:start type=prose id=prose_p067 page=40 -->
 <!-- vision: CEFR 2001 PDF page 67 -->
 
 #### 4.4.1.1
@@ -1891,7 +1891,7 @@ Illustrative scales are provided for:
 - Public announcements;
 - Addressing audiences.
 
-<!-- el:start type=table id=cefr2001_scale_overall_oral_production page=58 -->
+<!-- el:start type=table id=cefr2001_scale_overall_oral_production page=40 -->
 
 **OVERALL ORAL PRODUCTION**
 
@@ -1908,14 +1908,14 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p067 -->
 
-*Page **58***
+*Page **40*****
 
-<!-- page:58 -->
+<!-- page:40 -->
 
-<!-- el:start type=prose id=prose_p068 page=59 -->
+<!-- el:start type=prose id=prose_p068 page=41 -->
 <!-- vision: CEFR 2001 PDF page 68 -->
 
-<!-- el:start type=table id=cefr2001_scale_sustained_monologue_describing_experience page=59 -->
+<!-- el:start type=table id=cefr2001_scale_sustained_monologue_describing_experience page=41 -->
 
 **SUSTAINED MONOLOGUE: Describing experience**
 
@@ -1930,7 +1930,7 @@ Illustrative scales are provided for:
 
 <!-- el:end id=cefr2001_scale_sustained_monologue_describing_experience -->
 
-<!-- el:start type=table id=cefr2001_scale_sustained_monologue_putting_a_case page=59 -->
+<!-- el:start type=table id=cefr2001_scale_sustained_monologue_putting_a_case page=41 -->
 
 **SUSTAINED MONOLOGUE: Putting a case (e.g. in a debate)**
 
@@ -1947,14 +1947,14 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p068 -->
 
-*Page **59***
+*Page **41*****
 
-<!-- page:59 -->
+<!-- page:41 -->
 
-<!-- el:start type=prose id=prose_p069 page=60 -->
+<!-- el:start type=prose id=prose_p069 page=42 -->
 <!-- vision: CEFR 2001 PDF page 69 -->
 
-<!-- el:start type=table id=cefr2001_scale_public_announcements page=60 -->
+<!-- el:start type=table id=cefr2001_scale_public_announcements page=42 -->
 
 **PUBLIC ANNOUNCEMENTS**
 
@@ -1971,7 +1971,7 @@ Note: The descriptors on this sub-scale have not been empirically calibrated.
 
 <!-- el:end id=cefr2001_scale_public_announcements -->
 
-<!-- el:start type=table id=cefr2001_scale_addressing_audiences page=60 -->
+<!-- el:start type=table id=cefr2001_scale_addressing_audiences page=42 -->
 
 **ADDRESSING AUDIENCES**
 
@@ -1990,11 +1990,11 @@ Note: The descriptors on this sub-scale have been created by recombining element
 
 <!-- el:end id=prose_p069 -->
 
-*Page **60***
+*Page **42*****
 
-<!-- page:60 -->
+<!-- page:42 -->
 
-<!-- el:start type=prose id=prose_p070 page=61 -->
+<!-- el:start type=prose id=prose_p070 page=43 -->
 <!-- vision: CEFR 2001 PDF page 70 -->
 
 > **Users of the Framework may wish to consider and where appropriate state:**
@@ -2022,7 +2022,7 @@ Illustrative scales are provided for:
 - Creative writing;
 - Reports and essays.
 
-<!-- el:start type=table id=cefr2001_scale_overall_written_production page=61 -->
+<!-- el:start type=table id=cefr2001_scale_overall_written_production page=43 -->
 
 **OVERALL WRITTEN PRODUCTION**
 
@@ -2041,14 +2041,14 @@ Note: The descriptors on this scale and on the two sub-scales which follow (Crea
 
 <!-- el:end id=prose_p070 -->
 
-*Page **61***
+*Page **43*****
 
-<!-- page:61 -->
+<!-- page:43 -->
 
-<!-- el:start type=prose id=prose_p071 page=62 -->
+<!-- el:start type=prose id=prose_p071 page=44 -->
 <!-- vision: CEFR 2001 PDF page 71 -->
 
-<!-- el:start type=table id=cefr2001_scale_creative_writing page=62 -->
+<!-- el:start type=table id=cefr2001_scale_creative_writing page=44 -->
 
 **CREATIVE WRITING**
 
@@ -2063,7 +2063,7 @@ Note: The descriptors on this scale and on the two sub-scales which follow (Crea
 
 <!-- el:end id=cefr2001_scale_creative_writing -->
 
-<!-- el:start type=table id=cefr2001_scale_reports_and_essays page=62 -->
+<!-- el:start type=table id=cefr2001_scale_reports_and_essays page=44 -->
 
 **REPORTS AND ESSAYS**
 
@@ -2080,11 +2080,11 @@ Note: The descriptors on this scale and on the two sub-scales which follow (Crea
 
 <!-- el:end id=prose_p071 -->
 
-*Page **62***
+*Page **44*****
 
-<!-- page:62 -->
+<!-- page:44 -->
 
-<!-- el:start type=prose id=prose_p072 page=63 -->
+<!-- el:start type=prose id=prose_p072 page=45 -->
 <!-- vision: CEFR 2001 PDF page 72 -->
 
 > **Users of the Framework may wish to consider and where appropriate state:**
@@ -2106,11 +2106,11 @@ Ways of scaling down ambitions to fit resources in order to ensure success in a 
 
 <!-- el:end id=prose_p072 -->
 
-*Page **63***
+*Page **45*****
 
-<!-- page:63 -->
+<!-- page:45 -->
 
-<!-- el:start type=prose id=prose_p073 page=64 -->
+<!-- el:start type=prose id=prose_p073 page=46 -->
 <!-- vision: CEFR 2001 PDF page 73 -->
 
 - **Execution**
@@ -2128,7 +2128,7 @@ Illustrative scales are provided for:
 - Compensating;
 - Monitoring and repair.
 
-<!-- el:start type=table id=cefr2001_scale_planning page=64 -->
+<!-- el:start type=table id=cefr2001_scale_planning page=46 -->
 
 **PLANNING**
 
@@ -2143,7 +2143,7 @@ Illustrative scales are provided for:
 
 <!-- el:end id=cefr2001_scale_planning -->
 
-<!-- el:start type=table id=cefr2001_scale_compensating page=64 -->
+<!-- el:start type=table id=cefr2001_scale_compensating page=46 -->
 
 **COMPENSATING**
 
@@ -2160,11 +2160,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p073 -->
 
-*Page **64***
+*Page **46*****
 
-<!-- page:64 -->
+<!-- page:46 -->
 
-<!-- el:start type=prose id=prose_p074 page=65 -->
+<!-- el:start type=prose id=prose_p074 page=47 -->
 <!-- vision: CEFR 2001 PDF page 74 -->
 
 **MONITORING AND REPAIR**
@@ -2208,11 +2208,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p074 -->
 
-*Page **65***
+*Page **47*****
 
-<!-- page:65 -->
+<!-- page:47 -->
 
-<!-- el:start type=prose id=prose_p075 page=66 -->
+<!-- el:start type=prose id=prose_p075 page=48 -->
 <!-- vision: CEFR 2001 PDF page 75 -->
 
 **OVERALL LISTENING COMPREHENSION**
@@ -2239,11 +2239,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p075 -->
 
-*Page **66***
+*Page **48*****
 
-<!-- page:66 -->
+<!-- page:48 -->
 
-<!-- el:start type=prose id=prose_p076 page=67 -->
+<!-- el:start type=prose id=prose_p076 page=49 -->
 <!-- vision: CEFR 2001 PDF page 76 -->
 
 **LISTENING AS A MEMBER OF A LIVE AUDIENCE**
@@ -2270,11 +2270,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p076 -->
 
-*Page **67***
+*Page **49*****
 
-<!-- page:67 -->
+<!-- page:49 -->
 
-<!-- el:start type=prose id=prose_p077 page=68 -->
+<!-- el:start type=prose id=prose_p077 page=50 -->
 <!-- vision: CEFR 2001 PDF page 77 -->
 
 **LISTENING TO AUDIO MEDIA AND RECORDINGS**
@@ -2317,11 +2317,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p077 -->
 
-*Page **68***
+*Page **50*****
 
-<!-- page:68 -->
+<!-- page:50 -->
 
-<!-- el:start type=prose id=prose_p078 page=69 -->
+<!-- el:start type=prose id=prose_p078 page=51 -->
 <!-- vision: CEFR 2001 PDF page 78 -->
 
 - Reading for orientation;
@@ -2352,11 +2352,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p078 -->
 
-*Page **69***
+*Page **51*****
 
-<!-- page:69 -->
+<!-- page:51 -->
 
-<!-- el:start type=prose id=prose_p079 page=70 -->
+<!-- el:start type=prose id=prose_p079 page=52 -->
 <!-- vision: CEFR 2001 PDF page 79 -->
 
 **READING FOR ORIENTATION**
@@ -2383,11 +2383,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p079 -->
 
-*Page **70***
+*Page **52*****
 
-<!-- page:70 -->
+<!-- page:52 -->
 
-<!-- el:start type=prose id=prose_p080 page=71 -->
+<!-- el:start type=prose id=prose_p080 page=53 -->
 <!-- vision: CEFR 2001 PDF page 80 -->
 
 **READING INSTRUCTIONS**
@@ -2429,11 +2429,11 @@ An illustrative scale is provided for watching TV and film:
 
 <!-- el:end id=prose_p080 -->
 
-*Page **71***
+*Page **53*****
 
-<!-- page:71 -->
+<!-- page:53 -->
 
-<!-- el:start type=prose id=prose_p081 page=72 -->
+<!-- el:start type=prose id=prose_p081 page=54 -->
 <!-- vision: CEFR 2001 PDF page 81 -->
 
 #### 4.4.2.4
@@ -2460,11 +2460,11 @@ An illustrative scale is provided:
 
 <!-- el:end id=prose_p081 -->
 
-*Page **72***
+*Page **54*****
 
-<!-- page:72 -->
+<!-- page:54 -->
 
-<!-- el:start type=prose id=prose_p082 page=73 -->
+<!-- el:start type=prose id=prose_p082 page=55 -->
 <!-- vision: CEFR 2001 PDF page 82 -->
 
 ### 4.4.3 Interactive activities and strategies
@@ -2501,11 +2501,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p082 -->
 
-*Page **73***
+*Page **55*****
 
-<!-- page:73 -->
+<!-- page:55 -->
 
-<!-- el:start type=prose id=prose_p083 page=74 -->
+<!-- el:start type=prose id=prose_p083 page=56 -->
 <!-- vision: CEFR 2001 PDF page 83 -->
 
 **OVERALL SPOKEN INTERACTION**
@@ -2521,11 +2521,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p083 -->
 
-*Page **74***
+*Page **56*****
 
-<!-- page:74 -->
+<!-- page:56 -->
 
-<!-- el:start type=prose id=prose_p084 page=75 -->
+<!-- el:start type=prose id=prose_p084 page=57 -->
 <!-- vision: CEFR 2001 PDF page 84 -->
 
 **UNDERSTANDING A NATIVE SPEAKER INTERLOCUTOR**
@@ -2541,11 +2541,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p084 -->
 
-*Page **75***
+*Page **57*****
 
-<!-- page:75 -->
+<!-- page:57 -->
 
-<!-- el:start type=prose id=prose_p085 page=76 -->
+<!-- el:start type=prose id=prose_p085 page=58 -->
 <!-- vision: CEFR 2001 PDF page 85 -->
 
 **CONVERSATION**
@@ -2561,11 +2561,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p085 -->
 
-*Page **76***
+*Page **58*****
 
-<!-- page:76 -->
+<!-- page:58 -->
 
-<!-- el:start type=prose id=prose_p086 page=77 -->
+<!-- el:start type=prose id=prose_p086 page=59 -->
 <!-- vision: CEFR 2001 PDF page 86 -->
 
 **INFORMAL DISCUSSION (WITH FRIENDS)**
@@ -2581,11 +2581,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p086 -->
 
-*Page **77***
+*Page **59*****
 
-<!-- page:77 -->
+<!-- page:59 -->
 
-<!-- el:start type=prose id=prose_p087 page=78 -->
+<!-- el:start type=prose id=prose_p087 page=60 -->
 <!-- vision: CEFR 2001 PDF page 87 -->
 
 **FORMAL DISCUSSION AND MEETINGS**
@@ -2603,11 +2603,11 @@ Note: The descriptors on this sub-scale have not been empirically calibrated wit
 
 <!-- el:end id=prose_p087 -->
 
-*Page **78***
+*Page **60*****
 
-<!-- page:78 -->
+<!-- page:60 -->
 
-<!-- el:start type=prose id=prose_p088 page=79 -->
+<!-- el:start type=prose id=prose_p088 page=61 -->
 <!-- vision: CEFR 2001 PDF page 88 -->
 
 **GOAL-ORIENTED CO-OPERATION**
@@ -2624,11 +2624,11 @@ Note: The descriptors on this sub-scale have not been empirically calibrated wit
 
 <!-- el:end id=prose_p088 -->
 
-*Page **79***
+*Page **61*****
 
-<!-- page:79 -->
+<!-- page:61 -->
 
-<!-- el:start type=prose id=prose_p089 page=80 -->
+<!-- el:start type=prose id=prose_p089 page=62 -->
 <!-- vision: CEFR 2001 PDF page 89 -->
 
 **TRANSACTIONS TO OBTAIN GOODS AND SERVICES**
@@ -2644,11 +2644,11 @@ Note: The descriptors on this sub-scale have not been empirically calibrated wit
 
 <!-- el:end id=prose_p089 -->
 
-*Page **80***
+*Page **62*****
 
-<!-- page:80 -->
+<!-- page:62 -->
 
-<!-- el:start type=prose id=prose_p090 page=81 -->
+<!-- el:start type=prose id=prose_p090 page=63 -->
 <!-- vision: CEFR 2001 PDF page 90 -->
 
 **INFORMATION EXCHANGE**
@@ -2664,11 +2664,11 @@ Note: The descriptors on this sub-scale have not been empirically calibrated wit
 
 <!-- el:end id=prose_p090 -->
 
-*Page **81***
+*Page **63*****
 
-<!-- page:81 -->
+<!-- page:63 -->
 
-<!-- el:start type=prose id=prose_p091 page=82 -->
+<!-- el:start type=prose id=prose_p091 page=64 -->
 <!-- vision: CEFR 2001 PDF page 91 -->
 
 **INTERVIEWING AND BEING INTERVIEWED**
@@ -2701,11 +2701,11 @@ With the increasing sophistication of computer software, interactive man-machine
 
 <!-- el:end id=prose_p091 -->
 
-*Page **82***
+*Page **64*****
 
-<!-- page:82 -->
+<!-- page:64 -->
 
-<!-- el:start type=prose id=prose_p092 page=83 -->
+<!-- el:start type=prose id=prose_p092 page=65 -->
 <!-- vision: CEFR 2001 PDF page 92 -->
 
 Illustrative scales are provided for:
@@ -2738,11 +2738,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p092 -->
 
-*Page **83***
+*Page **65*****
 
-<!-- page:83 -->
+<!-- page:65 -->
 
-<!-- el:start type=prose id=prose_p093 page=84 -->
+<!-- el:start type=prose id=prose_p093 page=66 -->
 <!-- vision: CEFR 2001 PDF page 93 -->
 
 **NOTES, MESSAGES & FORMS**
@@ -2769,11 +2769,11 @@ Planning for spoken interaction involves the activation of schemata or a ‘prax
 
 <!-- el:end id=prose_p093 -->
 
-*Page **84***
+*Page **66*****
 
-<!-- page:84 -->
+<!-- page:66 -->
 
-<!-- el:start type=prose id=prose_p094 page=85 -->
+<!-- el:start type=prose id=prose_p094 page=67 -->
 <!-- vision: CEFR 2001 PDF page 94 -->
 
 interpersonal), to help mutual understanding and maintain a focused approach to the task at hand (*Co-operating: ideational*), and so that they themselves can ask for assistance in formulating something (*Asking for Help*). As with Planning, Evaluation takes place at a communicative level: judging the ‘fit’ between the schemata thought to apply, and what is actually happening (*Monitoring: schemata, praxeogram*) and the extent to which things are going the way one wants them to go (*Monitoring: effect, success*); miscomprehension or intolerable ambiguity leads to requests for clarification which may be on a communicative or linguistic level (*Asking for, giving clarification*), and to active intervention to re-establish communication and clear up misunderstandings when necessary (*Communication Repair*).
@@ -2812,11 +2812,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p094 -->
 
-*Page **85***
+*Page **67*****
 
-<!-- page:85 -->
+<!-- page:67 -->
 
-<!-- el:start type=prose id=prose_p095 page=86 -->
+<!-- el:start type=prose id=prose_p095 page=68 -->
 <!-- vision: CEFR 2001 PDF page 95 -->
 
 **TAKING THE FLOOR (TURNTAKING)**
@@ -2843,11 +2843,11 @@ Illustrative scales are provided for:
 
 <!-- el:end id=prose_p095 -->
 
-*Page **86***
+*Page **68*****
 
-<!-- page:86 -->
+<!-- page:68 -->
 
-<!-- el:start type=prose id=prose_p096 page=87 -->
+<!-- el:start type=prose id=prose_p096 page=69 -->
 <!-- vision: CEFR 2001 PDF page 96 -->
 
 **ASKING FOR CLARIFICATION**
@@ -2888,11 +2888,11 @@ In *mediating activities*, the language user is not concerned to express his/her
 
 <!-- el:end id=prose_p096 -->
 
-*Page **87***
+*Page **69*****
 
-<!-- page:87 -->
+<!-- page:69 -->
 
-<!-- el:start type=prose id=prose_p097 page=88 -->
+<!-- el:start type=prose id=prose_p097 page=70 -->
 <!-- vision: CEFR 2001 PDF page 97 -->
 
 involve some pre-planning to organise and maximise resources (*Developing background knowledge; Locating supports; Preparing a glossary*) as well as consideration of how to tackle the task at hand (*Considering the interlocutors’ needs; Selecting the size of interpretation unit*). During the process of interpretation, glossing, or translation, the mediator needs to look ahead at what is coming next whilst formulating what has just been said, generally juggling with two different ‘chunks’ or interpretation units simultaneously (*Previewing*). He or she needs to note ways of expressing things to extend his or her glossary (*Noting possibilities, equivalences*), and to construct islands of reliability, (prefabricated chunks) which free up processing capacity for previewing. On the other hand he or she also needs to use techniques to skate over uncertainty and avoid breakdown – whilst maintaining previewing (*Bridging gaps*). Evaluation takes place at a communicative level (*Checking congruence*) and at a linguistic level (*Checking consistency of usage*) and, certainly with written translation, leads to repair through consultation of reference works and people knowledgeable in the field concerned (*refining by consulting dictionaries, thesaurus; consulting experts, sources*).
@@ -2931,11 +2931,11 @@ No illustrative scales are yet available.
 
 <!-- el:end id=prose_p097 -->
 
-*Page **88***
+*Page **70*****
 
-<!-- page:88 -->
+<!-- page:70 -->
 
-<!-- el:start type=prose id=prose_p098 page=89 -->
+<!-- el:start type=prose id=prose_p098 page=71 -->
 <!-- vision: CEFR 2001 PDF page 98 -->
 
 - *clearly observable actions*, which can be assumed as known in narrative, comment, orders, etc., such as, ‘Don’t do that!’, ‘Well done there!’, ‘Oh no, he’s dropped it!’. In all these cases, the utterance is uninterpretable unless the action is perceived.
@@ -2981,11 +2981,11 @@ Many paralinguistic effects are produced by combinations of pitch, length, loudn
 
 <!-- el:end id=prose_p098 -->
 
-*Page **89***
+*Page **71*****
 
-<!-- page:89 -->
+<!-- page:71 -->
 
-<!-- el:start type=prose id=prose_p099 page=90 -->
+<!-- el:start type=prose id=prose_p099 page=72 -->
 <!-- vision: CEFR 2001 PDF page 99 -->
 
 Paralinguistic communication should be carefully distinguished from developed *sign languages*, which fall outside the present scope of CEF, though experts in that field may find many of its concepts and categories relevant to their concerns.
@@ -3030,11 +3030,11 @@ To listen, the learner must be able to:
 
 <!-- el:end id=prose_p099 -->
 
-*Page **90***
+*Page **72*****
 
-<!-- page:90 -->
+<!-- page:72 -->
 
-<!-- el:start type=prose id=prose_p100 page=91 -->
+<!-- el:start type=prose id=prose_p100 page=73 -->
 <!-- vision: CEFR 2001 PDF page 100 -->
 
 To read, the reader must be able to:
@@ -3072,11 +3072,11 @@ The *receptive process* involves four steps which, while they take place in line
 
 <!-- el:end id=prose_p100 -->
 
-*Page **91***
+*Page **73*****
 
-<!-- page:91 -->
+<!-- page:73 -->
 
-<!-- el:start type=prose id=prose_p101 page=92 -->
+<!-- el:start type=prose id=prose_p101 page=74 -->
 <!-- vision: CEFR 2001 PDF page 101 -->
 
 The skills involved include:
@@ -3115,11 +3115,11 @@ In a wider sense, the strategic component is also concerned with the monitoring 
 
 <!-- el:end id=prose_p101 -->
 
-*Page **92***
+*Page **74*****
 
-<!-- page:92 -->
+<!-- page:74 -->
 
-<!-- el:start type=prose id=prose_p102 page=93 -->
+<!-- el:start type=prose id=prose_p102 page=75 -->
 <!-- vision: CEFR 2001 PDF page 102 -->
 
 - dealing with the unexpected, such as changes of domain, theme schema, etc.;
@@ -3144,11 +3144,11 @@ Every text is carried by a particular medium, normally by sound waves or written
 
 <!-- el:end id=prose_p102 -->
 
-*Page **93***
+*Page **75*****
 
-<!-- page:93 -->
+<!-- page:75 -->
 
-<!-- el:start type=prose id=prose_p103 page=94 -->
+<!-- el:start type=prose id=prose_p103 page=76 -->
 <!-- vision: CEFR 2001 PDF page 103 -->
 
 The above must not discourage people who have learning difficulties or sensory/motor disabilities from learning or using foreign languages. Devices ranging from simple hearing aids to eye-operated computer speech synthesisers have been developed to overcome even the most severe sensory and motor difficulties, whilst the use of appropriate methods and strategies have enabled young people with learning difficulties to achieve worthwhile foreign language learning objectives with remarkable success. Lip-reading, the exploitation of residual hearing and phonetic training have enabled the severely deaf to achieve a high level of speech communication in a second or foreign language. Given the necessary determination and encouragement, human beings have an extraordinary capacity to overcome obstacles to communication and the production and understanding of texts. In principle, any text can be carried by any medium. However, in practice medium and text are more closely related. Scripts do not generally carry the full meaningful phonetic information carried by speech. Alphabetic scripts do not generally carry prosodic information systematically (e.g. stress, intonation, pausing, stylistic reduction, etc.). Consonantal and logographic scripts carry less. Paralinguistic features are usually unrepresented in any script, though they may of course be referred to in the text of a novel, play, etc. In compensation, paratextual features are employed in writing, which are tied to the spatial medium and not available to speech. Moreover, the nature of the medium exercises a strong pressure on the nature of the text and vice-versa. As extreme examples, a stone inscription is difficult and expensive to produce and is very durable and immovable. An air-letter is cheap and easy to use, easily transported, but light and fragile. Electronic communication using a VDU need not produce a permanent artefact at all. The texts they typically carry are correspondingly contrasted: in the one case, a carefully composed, frugal text preserving monumental information for future generations and inducing reverence for the place and person(s) celebrated, and in the other, a hastily scribbled personal note of topical but ephemeral interest to the correspondents. A similar ambiguity of classification thus arises between text-types and media to that between text-types and activities. Books, magazines and newspapers are, from their physical nature and appearance, different media. From the nature and structure of their contents they are different text-types. Medium and text-type are closely related and both are derivative from the function they perform.
@@ -3169,11 +3169,11 @@ The above must not discourage people who have learning difficulties or sensory/m
 - etc.
 <!-- el:end id=prose_p103 -->
 
-*Page **94***
+*Page **76*****
 
-<!-- page:94 -->
+<!-- page:76 -->
 
-<!-- el:start type=prose id=prose_p104 page=95 -->
+<!-- el:start type=prose id=prose_p104 page=77 -->
 <!-- vision: CEFR 2001 PDF page 104 -->
 
 #### 4.6.3 Text-types include:
@@ -3186,11 +3186,11 @@ Spoken, e.g.: public announcements and instructions; public speeches, lectures, 
 
 <!-- el:end id=prose_p104 -->
 
-*Page **95***
+*Page **77*****
 
-<!-- page:95 -->
+<!-- page:77 -->
 
-<!-- el:start type=prose id=prose_p105 page=96 -->
+<!-- el:start type=prose id=prose_p105 page=78 -->
 <!-- vision: CEFR 2001 PDF page 105 -->
 
 activities can enable a learner to meet the requirements of university studies or professional training, though some ability to deal with simple input text and to produce a written response is feasible at more modest levels.
@@ -3223,11 +3223,11 @@ activities can enable a learner to meet the requirements of university studies o
 
 <!-- el:end id=prose_p105 -->
 
-*Page **96***
+*Page **78*****
 
-<!-- page:96 -->
+<!-- page:78 -->
 
-<!-- el:start type=prose id=prose_p106 page=97 -->
+<!-- el:start type=prose id=prose_p106 page=79 -->
 <!-- vision: CEFR 2001 PDF page 106 -->
 
 Sections 4.6.1 to 4.6.3 confine themselves to text types and the media which carry them. Matters often dealt with under ‘genre’ are treated in this Framework in 5.2.3 ‘pragmatic competences’.
@@ -3242,22 +3242,22 @@ The output of the process of language production is a text, which once it is utt
 
 <!-- el:end id=prose_p106 -->
 
-*Page **97***
+*Page **79*****
 
-<!-- page:97 -->
+<!-- page:79 -->
 
-<!-- el:start type=prose id=prose_p107 page=98 -->
+<!-- el:start type=prose id=prose_p107 page=80 -->
 <!-- vision: CEFR 2001 PDF page 107 -->
 
 listening and in the medium itself. ‘Before’ and ‘after’ in a spoken text are to be taken quite literally. In a written text, which is usually (excluding ‘scrolled’ texts) a static spatial artefact, this is not necessarily so. In production, a written text can be edited, passages inserted or deleted. We cannot tell in what order the elements have been produced, though they are presented in a linear order as a string of symbols. Receptively, the reader’s eye is free to move over the text in any way, possibly following the linear sequence in strict order, as a child learning to read will generally do. Skilled, mature readers are much more likely to scan a text for highly information-bearing elements in order to establish an overall structure of meaning and then return to read more closely – and if need be to re-read a number of times – such words, phrases, sentences and paragraphs as are of particular relevance to their needs and purposes. An author or editor may well use paratextual features (see section 4.4.5.3) to steer this process and, indeed, plan the text in accordance with the way in which it is expected to be read by the audience for which it is intended. Similarly, a spoken text may be carefully planned in advance so as to appear to be spontaneous, yet to ensure that an essential message is effectively conveyed under the different conditions that constrain the reception of speech. Process and product are indissolubly linked. The text is central to any act of linguistic communication, the external, objective link between producer and receiver, whether they are communicating face to face or at a distance. The diagrams below show in a schematic form the relation between the user/learner, on whom the Framework is focused, the interlocutor(s), activities and texts. 1. Production. The user/learner produces a spoken or written text, received, often at a distance, by one or more listeners or readers, who are not called upon to reply. 1.1. Speaking (listener) ↗ USER →sound waves →Listener ↘(listener) 1.2. Writing (reader) ↗ USER →written text →Reader ↘(reader) 2. Reception. The user/learner receives a text from one or more speakers or writers, again often at a distance, and is not called upon to reply. 2.1. Listening (speaker) ↘ Speaker →sound waves →USER ↗ (speaker) 2.2. Reading (writer) ↘ Writer →written text →USER ↗ (writer)
 
 <!-- el:end id=prose_p107 -->
 
-*Page **98***
+*Page **80*****
 
-<!-- page:98 -->
+<!-- page:80 -->
 
-<!-- el:start type=prose id=prose_p108 page=99 -->
+<!-- el:start type=prose id=prose_p108 page=81 -->
 <!-- vision: CEFR 2001 PDF page 108 -->
 
 3. Interaction. The user/learner enters into a face-to-face dialogue with an interlocutor. The text of the dialogue consists of utterances respectively produced and received by each party in alternation. USER ↔ discourse ↔ Interlocutor USER → Text 1. → interlocutor USER ← Text 2. ← interlocutor USER → Text 3. → interlocutor USER ← Text 4. ← interlocutor etc. 4. Mediation covers two activities.
@@ -3272,22 +3272,22 @@ Interpretation. The user/learner acts as an intermediary in a face-to-face inter
 
 <!-- el:end id=prose_p108 -->
 
-*Page **99***
+*Page **81*****
 
-<!-- page:99 -->
+<!-- page:81 -->
 
-<!-- el:start type=prose id=prose_p109 page=100 -->
+<!-- el:start type=prose id=prose_p109 page=82 -->
 <!-- vision: CEFR 2001 PDF page 109 -->
 
 closely on the ability to use linguistic competences to reduce the information content of the text. In any case, the advantage of examining all possible combinations of categories in taxonomic sets is not only that it enables experience to be ordered, but also that it reveals gaps and suggests new possibilities. Table 6. Text-to-text activities Input text Output text Medium Language Medium Language Meaning Activity type preserving preserving (examples) spoken L2 spoken L2 Yes repetition spoken L2 written L2 Yes dictation spoken L2 spoken L2 No oral question/ answer spoken L2 written L2 No written answers to oral L2 questions written L2 spoken L2 Yes reading aloud written L2 written L2 Yes copying, transcription written L2 spoken L2 No spoken response to written L2 rubric written L2 written L2 No writing in response to written L2 rubric
 
 <!-- el:end id=prose_p109 -->
 
-*Page **100***
+*Page **82*****
 
-<!-- page:100 -->
+<!-- page:82 -->
 
-<!-- el:start type=prose id=prose_p110 page=101 -->
+<!-- el:start type=prose id=prose_p110 page=83 -->
 <!-- vision: CEFR 2001 PDF page 110 -->
 
 The user/learner’s competences In order to carry out the tasks and activities required to deal with the communicative situations in which they are involved, users and learners draw upon a number of competences developed in the course of their previous experience. In return, participation in communicative events (including, of course, those events specifically designed to promote language learning) results in the further development of the learner’s competences, for both immediate and long-term use. All human competences contribute in one way or another to the language user’s ability to communicate and may be regarded as aspects of communicative competence. It may however be useful to distinguish those less closely related to language from linguistic competences more narrowly defined.
@@ -3302,11 +3302,11 @@ Mature human beings have a highly developed and finely articulated model of the 
 
 <!-- el:end id=prose_p110 -->
 
-*Page **101***
+*Page **83*****
 
-<!-- page:101 -->
+<!-- page:83 -->
 
-<!-- el:start type=prose id=prose_p111 page=102 -->
+<!-- el:start type=prose id=prose_p111 page=84 -->
 <!-- vision: CEFR 2001 PDF page 111 -->
 
 Knowledge of the world (whether it derives from experience, education or from information sources, etc.) embraces:
@@ -3336,11 +3336,11 @@ Strictly speaking, knowledge of the society and culture of the community or comm
 
 <!-- el:end id=prose_p111 -->
 
-*Page **102***
+*Page **84*****
 
-<!-- page:102 -->
+<!-- page:84 -->
 
-<!-- el:start type=prose id=prose_p112 page=103 -->
+<!-- el:start type=prose id=prose_p112 page=85 -->
 <!-- vision: CEFR 2001 PDF page 112 -->
 
 - race and community relations;
@@ -3377,11 +3377,11 @@ Knowledge, awareness and understanding of the relation (similarities and distinc
 
 <!-- el:end id=prose_p112 -->
 
-*Page **103***
+*Page **85*****
 
-<!-- page:103 -->
+<!-- page:85 -->
 
-<!-- el:start type=prose id=prose_p113 page=104 -->
+<!-- el:start type=prose id=prose_p113 page=86 -->
 <!-- vision: CEFR 2001 PDF page 113 -->
 
 #### 5.1.2 Skills and know-how (savoir-faire)
@@ -3412,11 +3412,11 @@ These include:
 
 <!-- el:end id=prose_p113 -->
 
-*Page **104***
+*Page **86*****
 
-<!-- page:104 -->
+<!-- page:86 -->
 
-<!-- el:start type=prose id=prose_p114 page=105 -->
+<!-- el:start type=prose id=prose_p114 page=87 -->
 <!-- vision: CEFR 2001 PDF page 114 -->
 
 - the capacity to fulfil the role of cultural intermediary between one’s own culture and the foreign culture and to deal effectively with intercultural misunderstanding and conflict situations;
@@ -3444,11 +3444,11 @@ The communicative activity of users/learners is affected not only by their knowl
 
 <!-- el:end id=prose_p114 -->
 
-*Page **105***
+*Page **87*****
 
-<!-- page:105 -->
+<!-- page:87 -->
 
-<!-- el:start type=prose id=prose_p115 page=106 -->
+<!-- el:start type=prose id=prose_p115 page=88 -->
 <!-- vision: CEFR 2001 PDF page 115 -->
 
 - intropunitive/extrapunitive/impunitive personality (guilt);
@@ -3480,11 +3480,11 @@ In its most general sense, savoir-apprendre is the ability to observe and partic
 
 <!-- el:end id=prose_p115 -->
 
-*Page **106***
+*Page **88*****
 
-<!-- page:106 -->
+<!-- page:88 -->
 
-<!-- el:start type=prose id=prose_p116 page=107 -->
+<!-- el:start type=prose id=prose_p116 page=89 -->
 <!-- vision: CEFR 2001 PDF page 116 -->
 
 and communication awareness; general phonetic skills; study skills; and heuristic skills.
@@ -3517,11 +3517,11 @@ These include:
 
 <!-- el:end id=prose_p116 -->
 
-*Page **107***
+*Page **89*****
 
-<!-- page:107 -->
+<!-- page:89 -->
 
-<!-- el:start type=prose id=prose_p117 page=108 -->
+<!-- el:start type=prose id=prose_p117 page=90 -->
 <!-- vision: CEFR 2001 PDF page 117 -->
 
 - ability to organise and use materials for self-directed learning;
@@ -3553,11 +3553,11 @@ No complete, exhaustive description of any language as a formal system for the e
 
 <!-- el:end id=prose_p117 -->
 
-*Page **108***
+*Page **90*****
 
-<!-- page:108 -->
+<!-- page:90 -->
 
-<!-- el:start type=prose id=prose_p118 page=109 -->
+<!-- el:start type=prose id=prose_p118 page=91 -->
 <!-- vision: CEFR 2001 PDF page 118 -->
 
 the language of a large, diversified, advanced society is never completely mastered by any of its users. Nor could it be, since every language is in continuous evolution in response to the exigencies of its use in communication. Most nation states have attempted to establish a standard form of the language, though never in exhaustive detail. For its presentation, the model of linguistic description in use for teaching the corpus is still the same model as was employed for the long-dead classical languages. This ‘traditional’ model was, however, repudiated over 100 years ago by most professional linguists, who insisted that languages should be described as they exist in use rather than as some authority thinks they should be and that the traditional model, having been developed for languages of a particular type, was inappropriate for the description of language systems with a very different organisation. However, none of the many proposals for alternative models has gained general acceptance. Indeed, the possibility of one universal model of description for all languages has been denied. Recent work on linguistic universals has not as yet produced results which can be used directly to facilitate language learning, teaching and assessment. Most descriptive linguists are now content to codify practice, relating form and meaning, using terminology which diverges from traditional practice only where it is necessary to deal with phenomena outside the range of traditional models of description. This is the approach adopted in Section 4.2. It attempts to identify and classify the main components of linguistic competence defined as knowledge of, and ability to use, the formal resources from which well-formed, meaningful messages may be assembled and formulated. The scheme that follows aims only to offer as classificatory tools some parameters and categories which may be found useful for the description of linguistic content and as a basis for reflection. Those practitioners who prefer to use a different frame of reference are free, here as elsewhere, to do so. They should then identify the theory, tradition or practice they are following. Here, we distinguish:
@@ -3586,11 +3586,11 @@ Progress in the development of a learner’s ability to use linguistic resources
 
 <!-- el:end id=prose_p118 -->
 
-*Page **109***
+*Page **91*****
 
-<!-- page:109 -->
+<!-- page:91 -->
 
-<!-- el:start type=prose id=prose_p119 page=110 -->
+<!-- el:start type=prose id=prose_p119 page=92 -->
 <!-- vision: CEFR 2001 PDF page 119 -->
 
 **GENERAL LINGUISTIC RANGE**
@@ -3623,11 +3623,11 @@ a) Fixed expressions, consisting of several words, which are used and learnt as 
 
 <!-- el:end id=prose_p119 -->
 
-*Page **110***
+*Page **92*****
 
-<!-- page:110 -->
+<!-- page:92 -->
 
-<!-- el:start type=prose id=prose_p120 page=111 -->
+<!-- el:start type=prose id=prose_p120 page=93 -->
 <!-- vision: CEFR 2001 PDF page 120 -->
 
 He drove hell for leather (i.e. very fast). intensifiers. Their use is often contextually and stylistically restricted, e.g. as white as snow (= ‘pure’), as against as white as a sheet (= ‘pallid’).
@@ -3639,11 +3639,11 @@ Illustrative scales are available for the range of vocabulary knowledge, and the
 
 <!-- el:end id=prose_p120 -->
 
-*Page **111***
+*Page **93*****
 
-<!-- page:111 -->
+<!-- page:93 -->
 
-<!-- el:start type=prose id=prose_p121 page=112 -->
+<!-- el:start type=prose id=prose_p121 page=94 -->
 <!-- vision: CEFR 2001 PDF page 121 -->
 
 **VOCABULARY RANGE**
@@ -3681,11 +3681,11 @@ Formally, the grammar of a language may be seen as the set of principles governi
 
 <!-- el:end id=prose_p121 -->
 
-*Page **112***
+*Page **94*****
 
-<!-- page:112 -->
+<!-- page:94 -->
 
-<!-- el:start type=prose id=prose_p122 page=113 -->
+<!-- el:start type=prose id=prose_p122 page=95 -->
 <!-- vision: CEFR 2001 PDF page 122 -->
 
 the assembly of elements into meaningful labelled and bracketed strings (sentences). Grammatical competence is the ability to understand and express meaning by producing and recognising well-formed phrases and sentences in accordance with these principles (as opposed to memorising and reproducing them as fixed formulae). The grammar of any language in this sense is highly complex and so far defies definitive or exhaustive treatment. There are a number of competing theories and models for the organisation of words into sentences. It is not the function of the Framework to judge between them or to advocate the use of any one, but rather to encourage users to state which they have chosen to follow and what consequences their choice has for their practice. Here we limit ourselves to identifying some parameters and categories which have been widely used in grammatical description. The description of grammatical organisation involves the specification of:
@@ -3698,11 +3698,11 @@ the assembly of elements into meaningful labelled and bracketed strings (sentenc
 - relations, e.g.: government concord valency An illustrative scale is available for grammatical accuracy. This scale should be seen in relation to the scale for general linguistic range shown at the beginning of this section. It is not considered possible to produce a scale for progression in respect of grammatical structure which would be applicable across all languages. The user/learner’s competences
 <!-- el:end id=prose_p122 -->
 
-*Page **113***
+*Page **95*****
 
-<!-- page:113 -->
+<!-- page:95 -->
 
-<!-- el:start type=prose id=prose_p123 page=114 -->
+<!-- el:start type=prose id=prose_p123 page=96 -->
 <!-- vision: CEFR 2001 PDF page 123 -->
 
 **GRAMMATICAL ACCURACY**
@@ -3740,11 +3740,11 @@ Words may be classified into:
 
 <!-- el:end id=prose_p123 -->
 
-*Page **114***
+*Page **96*****
 
-<!-- page:114 -->
+<!-- page:96 -->
 
-<!-- el:start type=prose id=prose_p124 page=115 -->
+<!-- el:start type=prose id=prose_p124 page=97 -->
 <!-- vision: CEFR 2001 PDF page 124 -->
 
 Morphology also deals with other ways of modifying word forms, e.g.:
@@ -3766,11 +3766,11 @@ deals with the learner’s awareness and control of the organisation of meaning.
 
 <!-- el:end id=prose_p124 -->
 
-*Page **115***
+*Page **97*****
 
-<!-- page:115 -->
+<!-- page:97 -->
 
-<!-- el:start type=prose id=prose_p125 page=116 -->
+<!-- el:start type=prose id=prose_p125 page=98 -->
 <!-- vision: CEFR 2001 PDF page 125 -->
 
 Grammatical semantics deals with the meaning of grammatical elements, categories, structures and processes (see section 5.2.1.2). Pragmatic semantics deals with logical relations such as entailment, presupposition, implicature, etc. Questions of meaning are of course central to communication and are treated passim in this Framework (see particularly section 5.1.1.1). Linguistic competence is treated here in a formal sense. From the point of view of theoretical or descriptive linguistics, a language is a highly complex symbolic system. When an attempt is made, as here, to separate out the many different components of communicative competence, knowledge (largely unconscious) of and ability to handle formal structure is legitimately identifiable as one of those components. How much, if indeed any, of this formal analysis should enter into language learning or teaching is a different matter. The functional/notional approach adopted in the Council of Europe publications Waystage 1990, Threshold Level 1990 and Vantage Level offers an alternative to the treatment of linguistic competence in Section 5.2.1–3. Instead of starting from language forms and their meanings, it starts from a systematic classification of communicative functions and of notions, divided into general and specific, and secondarily deals with forms, lexical and grammatical, as their exponents. The approaches are complementary ways of dealing with the ‘double articulation’ of language. Languages are based on an organisation of form and an organisation of meaning. The two kinds of organisation cut across each other in a largely arbitrary fashion. A description based on the organisation of the forms of expression atomises meaning, and that based on the organisation of meaning atomises form. Which is to be preferred by the user will depend on the purpose for which the description is produced. The success of the Threshold Level approach indicates that many practitioners find it more advantageous to go from meaning to form rather than the more traditional practice of organising progression in purely formal terms. On the other hand, some may prefer to use a ‘communicative grammar’, as for example, in Un niveau-seuil. What is clear is that a language learner has to acquire both forms and meanings.
@@ -3791,11 +3791,11 @@ involves a knowledge of, and skill in the perception and production of:
 
 <!-- el:end id=prose_p125 -->
 
-*Page **116***
+*Page **98*****
 
-<!-- page:116 -->
+<!-- page:98 -->
 
-<!-- el:start type=prose id=prose_p126 page=117 -->
+<!-- el:start type=prose id=prose_p126 page=99 -->
 <!-- vision: CEFR 2001 PDF page 126 -->
 
 - phonetic reduction
@@ -3837,11 +3837,11 @@ Conversely, users required to read aloud a prepared text, or to use in speech wo
 
 <!-- el:end id=prose_p126 -->
 
-*Page **117***
+*Page **99*****
 
-<!-- page:117 -->
+<!-- page:99 -->
 
-<!-- el:start type=prose id=prose_p127 page=118 -->
+<!-- el:start type=prose id=prose_p127 page=100 -->
 <!-- vision: CEFR 2001 PDF page 127 -->
 
 - knowledge of spelling conventions
@@ -3870,11 +3870,11 @@ Sociolinguistic competence is concerned with the knowledge and skills required t
 
 <!-- el:end id=prose_p127 -->
 
-*Page **118***
+*Page **100*****
 
-<!-- page:118 -->
+<!-- page:100 -->
 
-<!-- el:start type=prose id=prose_p128 page=119 -->
+<!-- el:start type=prose id=prose_p128 page=101 -->
 <!-- vision: CEFR 2001 PDF page 128 -->
 
 #### 5.2.2.1 Linguistic markers of social relations
@@ -3900,11 +3900,11 @@ Politeness conventions provide one of the most important reasons for departing f
 - expressing contempt, dislike; The user/learner’s competences
 <!-- el:end id=prose_p128 -->
 
-*Page **119***
+*Page **101*****
 
-<!-- page:119 -->
+<!-- page:101 -->
 
-<!-- el:start type=prose id=prose_p129 page=120 -->
+<!-- el:start type=prose id=prose_p129 page=102 -->
 <!-- vision: CEFR 2001 PDF page 129 -->
 
 - strong complaint and reprimand;
@@ -3930,11 +3930,11 @@ The term ‘register’ is used to refer to systematic differences between varie
 - intimate, e.g. Ready dear? In early learning (say up to level B1), a relatively neutral register is appropriate, unless there are compelling reasons otherwise. It is this register that native speakers are likely to use towards and expect from foreigners and strangers generally. Acquaintance with more formal or more familiar registers is likely to come over a period of time, perhaps through the reading of different text-types, particularly novels, at first as a receptive competence. Some caution should be exercised in using more formal or more familiar registers, since their inappropriate use may well lead to misinterpretation and ridicule.
 <!-- el:end id=prose_p129 -->
 
-*Page **120***
+*Page **102*****
 
-<!-- page:120 -->
+<!-- page:102 -->
 
-<!-- el:start type=prose id=prose_p130 page=121 -->
+<!-- el:start type=prose id=prose_p130 page=103 -->
 <!-- vision: CEFR 2001 PDF page 130 -->
 
 #### 5.2.2.5 Dialect and accent
@@ -3954,11 +3954,11 @@ Sociolinguistic competence also includes the ability to recognise the linguistic
 - body language No European language communities are entirely homogenous. Different regions have their peculiarities in language and culture. These are usually most marked in those who live purely local lives and therefore correlate with social class, occupation and educational level. Recognition of such dialectal features therefore gives significant clues as to the interlocutor’s characteristics. Stereotyping plays a large role in this process. It can be reduced by the development of intercultural skills (see section 5.1.2.2). Learners will in the course of time also come into contact with speakers of various provenances. Before themselves adopting dialect forms they should be aware of their social connotations and of the need for coherence and consistency. The scaling of items for aspects of sociolinguistic competence proved problematic (see Appendix B). Items successfully scaled are shown in the illustrative scale below. As can be seen, the bottom part of the scale concerns only markers of social relations and politeness conventions. From Level B2, users are then found able to express themselves adequately in language which is sociolinguistically appropriate to the situations and persons involved, and begin to acquire an ability to cope with variation of speech, plus a greater degree of control over register and idiom. The user/learner’s competences
 <!-- el:end id=prose_p130 -->
 
-*Page **121***
+*Page **103*****
 
-<!-- page:121 -->
+<!-- page:103 -->
 
-<!-- el:start type=prose id=prose_p131 page=122 -->
+<!-- el:start type=prose id=prose_p131 page=104 -->
 <!-- vision: CEFR 2001 PDF page 131 -->
 
 **SOCIOLINGUISTIC APPROPRIATENESS**
@@ -3983,11 +3983,11 @@ Sociolinguistic competence also includes the ability to recognise the linguistic
 
 <!-- el:end id=prose_p131 -->
 
-*Page **122***
+*Page **104*****
 
-<!-- page:122 -->
+<!-- page:104 -->
 
-<!-- el:start type=prose id=prose_p132 page=123 -->
+<!-- el:start type=prose id=prose_p132 page=105 -->
 <!-- vision: CEFR 2001 PDF page 132 -->
 
 #### 5.2.3 Pragmatic competences
@@ -4012,11 +4012,11 @@ sequence so as to produce coherent stretches of language. It includes knowledge 
 - Text design: knowledge of the design conventions in the community concerning, e.g.: how information is structured in realising the various macrofunctions (description, narrative, exposition, etc.); how stories, anecdotes, jokes, etc. are told; how a case is built up (in law, debate, etc.); how written texts (essays, formal letters, etc.) are laid out, signposted and sequenced. A good deal of mother tongue education is devoted to building a young person’s discourse skills. In learning a foreign language, a learner is likely to start with short turns, usually of single sentence length. At higher levels of proficiency, the development of discourse competence, the components of which are indicated in the section, becomes of increasing importance. The user/learner’s competences
 <!-- el:end id=prose_p132 -->
 
-*Page **123***
+*Page **105*****
 
-<!-- page:123 -->
+<!-- page:105 -->
 
-<!-- el:start type=prose id=prose_p133 page=124 -->
+<!-- el:start type=prose id=prose_p133 page=106 -->
 <!-- vision: CEFR 2001 PDF page 133 -->
 
 Illustrative scales are available for the following aspects of discourse competence:
@@ -4050,11 +4050,11 @@ Illustrative scales are available for the following aspects of discourse compete
 
 <!-- el:end id=prose_p133 -->
 
-*Page **124***
+*Page **106*****
 
-<!-- page:124 -->
+<!-- page:106 -->
 
-<!-- el:start type=prose id=prose_p134 page=125 -->
+<!-- el:start type=prose id=prose_p134 page=107 -->
 <!-- vision: CEFR 2001 PDF page 134 -->
 
 **THEMATIC DEVELOPMENT**
@@ -4087,11 +4087,11 @@ This component is concerned with the use of spoken discourse and written texts i
 
 <!-- el:end id=prose_p134 -->
 
-*Page **125***
+*Page **107*****
 
-<!-- page:125 -->
+<!-- page:107 -->
 
-<!-- el:start type=prose id=prose_p135 page=126 -->
+<!-- el:start type=prose id=prose_p135 page=108 -->
 <!-- vision: CEFR 2001 PDF page 135 -->
 
 1.1 imparting and seeking factual information:
@@ -4123,11 +4123,11 @@ This component is concerned with the use of spoken discourse and written texts i
 - persuasion etc. 3. Interaction schemata Functional competence also includes knowledge of and ability to use the schemata (patterns of social interaction) which underlie communication, such as verbal exchange pat-
 <!-- el:end id=prose_p135 -->
 
-*Page **126***
+*Page **108*****
 
-<!-- page:126 -->
+<!-- page:108 -->
 
-<!-- el:start type=prose id=prose_p136 page=127 -->
+<!-- el:start type=prose id=prose_p136 page=109 -->
 <!-- vision: CEFR 2001 PDF page 136 -->
 
 terns. The interactive communicative activities set out in section 4.4.3 involve structured sequences of actions by the parties in turns. At their simplest, they form pairs such as: question: answer statement: agreement/disagreement request/offer/apology: acceptance/non-acceptance greeting/toast: response Triplets, in which the first speaker acknowledges or responds to the interlocutor’s reply, are common. Pairs and triplets are usually embedded in longer transactions and interactions. For instance, in more complex goal-oriented co-operative transactions, language is used as necessary to:
@@ -4143,11 +4143,11 @@ terns. The interactive communicative activities set out in section 4.4.3 involve
 - complete and terminate the transaction. The total process can be represented schematically. An example is the general schema offered for the purchase of goods or services in Threshold Level 1990, Chapter 8: General Schema for purchase of goods or services 1. Moving to place of transaction 1.1 Finding the way to the shop, store, supermarket, restaurant, station, hotel, etc. 1.2 Finding the way to the counter, department, table, ticket office, reception, etc. 2. Establishing contact 2.1 Exchanging greetings with the shopkeeper/assistant/waiter/receptionist, etc. 2.1.1 assistant greets 2.1.2 customer greets 3. Selecting goods/services 3.1 identifying category of goods/services required 3.1.1 seeking information 3.1.2 giving information 3.2 identifying options 3.3 discussing pros and cons of options (e.g. quality, price, colour, size of goods) 3.3.1 seeking information 3.3.2 giving information The user/learner’s competences
 <!-- el:end id=prose_p136 -->
 
-*Page **127***
+*Page **109*****
 
-<!-- page:127 -->
+<!-- page:109 -->
 
-<!-- el:start type=prose id=prose_p137 page=128 -->
+<!-- el:start type=prose id=prose_p137 page=110 -->
 <!-- vision: CEFR 2001 PDF page 137 -->
 
 3.3.3 seeking advice 3.3.4 giving advice 3.3.5 asking for preference 3.3.6 expressing preference, etc. 3.4 identifying particular goods required 3.5 examining goods 3.6 agreeing to purchase 4. Exchanging goods for payment
@@ -4210,11 +4210,11 @@ customer greets NB It should be noted that, as with similar schemata, the availa
 
 <!-- el:end id=prose_p137 -->
 
-*Page **128***
+*Page **110*****
 
-<!-- page:128 -->
+<!-- page:110 -->
 
-<!-- el:start type=prose id=prose_p138 page=129 -->
+<!-- el:start type=prose id=prose_p138 page=111 -->
 <!-- vision: CEFR 2001 PDF page 138 -->
 
 Illustrative scales are available for these two qualitative aspects:
@@ -4243,11 +4243,11 @@ Illustrative scales are available for these two qualitative aspects:
 
 <!-- el:end id=prose_p138 -->
 
-*Page **129***
+*Page **111*****
 
-<!-- page:129 -->
+<!-- page:111 -->
 
-<!-- el:start type=prose id=prose_p139 page=130 -->
+<!-- el:start type=prose id=prose_p139 page=112 -->
 <!-- vision: CEFR 2001 PDF page 139 -->
 
 > **Users of the Framework may wish to consider and where appropriate state:**
@@ -4256,11 +4256,11 @@ Illustrative scales are available for these two qualitative aspects:
 
 <!-- el:end id=prose_p139 -->
 
-*Page **130***
+*Page **112*****
 
-<!-- page:130 -->
+<!-- page:112 -->
 
-<!-- el:start type=prose id=prose_p140 page=131 -->
+<!-- el:start type=prose id=prose_p140 page=113 -->
 <!-- vision: CEFR 2001 PDF page 140 -->
 
 Language learning and teaching In the body of this chapter we ask: In what ways does the learner come to be able to carry out the tasks, activities and processes and build up the competences necessary for communication? How can teachers, assisted by their various support services, facilitate these processes? How can education authorities and other decision-makers best plan curricula for modern languages? First, however, we should give some further consideration to learning objectives. 6.1 What is it that learners have to learn or acquire? 6.1.1 Statements of the aims and objectives of language learning and teaching should be based on an appreciation of the needs of learners and of society, on the tasks, activities and processes that the learners need to carry out in order to satisfy those needs, and on the competences and strategies they need to develop/build up in order to do so. Accordingly, Chapters 4 and 5 attempt to set out what a fully competent user of a language is able to do and what knowledge, skills and attitudes make these activities possible. They do as comprehensively as possible since we cannot know which activities will be of importance to a particular learner. They indicate that, in order to participate with full effectiveness in communicative events, learners must have learnt or acquired:
@@ -4270,11 +4270,11 @@ Language learning and teaching In the body of this chapter we ask: In what ways 
 - the ability to employ the strategies necessary to bring the competences into action. 6.1.2 For the purposes of representing or steering the progress of language learners, it is useful to describe their abilities at a series of successive levels. Such scales have been offered where appropriate in Chapters 4 and 5. When charting the progress of students through the earlier stages of their general education, at a time when their future career needs cannot be foreseen, or indeed whenever an overall assessment has to be made of a learner’s language proficiency, it may be most useful and practical to combine a number of these categories into a single summary characterisation of language ability, as, for instance, in Table 1 presented in Chapter 3.
 <!-- el:end id=prose_p140 -->
 
-*Page **131***
+*Page **113*****
 
-<!-- page:131 -->
+<!-- page:113 -->
 
-<!-- el:start type=prose id=prose_p141 page=132 -->
+<!-- el:start type=prose id=prose_p141 page=114 -->
 <!-- vision: CEFR 2001 PDF page 141 -->
 
 Greater flexibility is afforded by a scheme, such as that in Table 2 in Chapter 3, intended for the purposes of learner self-assessment, in which the various language activities are scaled separately, though each again holistically. This presentation allows a profile to be established in cases where skills development is uneven. Even greater flexibility is of course provided by the detailed and separate scaling of sub-categories as in Chapters 4 and 5. Whilst all the abilities set out in those chapters have to be deployed by a language user to deal effectively with the full range of communicative events, not all learners will wish, or need, to acquire them all in a non-native language. For instance, some learners will have no requirement for written language. Others may be concerned only with the understanding of written texts. However, there is no strict implication that such learners should confine themselves to the spoken and written forms of the language respectively.
@@ -4283,11 +4283,11 @@ It may be, according to the learner’s cognitive style, that the memorisation o
 
 <!-- el:end id=prose_p141 -->
 
-*Page **132***
+*Page **114*****
 
-<!-- page:132 -->
+<!-- page:114 -->
 
-<!-- el:start type=prose id=prose_p142 page=133 -->
+<!-- el:start type=prose id=prose_p142 page=115 -->
 <!-- vision: CEFR 2001 PDF page 142 -->
 
 #### 6.1.3 Plurilingual competence and pluricultural competence
@@ -4315,11 +4315,11 @@ Because of this imbalance, one of the features of a plurilingual and pluricultur
 
 <!-- el:end id=prose_p142 -->
 
-*Page **133***
+*Page **115*****
 
-<!-- page:133 -->
+<!-- page:115 -->
 
-<!-- el:start type=prose id=prose_p143 page=134 -->
+<!-- el:start type=prose id=prose_p143 page=116 -->
 <!-- vision: CEFR 2001 PDF page 143 -->
 
 adopt a more distant or reserved attitude. The task may also be redefined, the linguistic message reshaped or redistributed, according to the resources available for expression or the individual’s perception of these resources. A further characteristic of plurilingual and pluricultural competence is that it does not consist of the simple addition of monolingual competences but permits combinations and alternations of different kinds. It is possible to code switch during the message, to resort to bilingual forms of speech. A single, richer repertoire of this kind thus allows choice concerning strategies for task accomplishment, drawing where appropriate on an interlinguistic variation and language switching.
@@ -4339,11 +4339,11 @@ It may, therefore, to some degree accelerate subsequent learning in the linguist
 
 <!-- el:end id=prose_p143 -->
 
-*Page **134***
+*Page **116*****
 
-<!-- page:134 -->
+<!-- page:116 -->
 
-<!-- el:start type=prose id=prose_p144 page=135 -->
+<!-- el:start type=prose id=prose_p144 page=117 -->
 <!-- vision: CEFR 2001 PDF page 144 -->
 
 #### 6.1.3.4 Partial competence and plurilingual and pluricultural competence
@@ -4362,11 +4362,11 @@ a) In terms of the development of the learner’s general competences (see secti
 
 <!-- el:end id=prose_p144 -->
 
-*Page **135***
+*Page **117*****
 
-<!-- page:135 -->
+<!-- page:117 -->
 
-<!-- el:start type=prose id=prose_p145 page=136 -->
+<!-- el:start type=prose id=prose_p145 page=118 -->
 <!-- vision: CEFR 2001 PDF page 145 -->
 
 b) In terms of the extension and diversification of communicative language competence
@@ -4383,11 +4383,11 @@ d) In terms of optimal functional operation in a given domain (see section 4.1.1
 
 <!-- el:end id=prose_p145 -->
 
-*Page **136***
+*Page **118*****
 
-<!-- page:136 -->
+<!-- page:118 -->
 
-<!-- el:start type=prose id=prose_p146 page=137 -->
+<!-- el:start type=prose id=prose_p146 page=119 -->
 <!-- vision: CEFR 2001 PDF page 146 -->
 
 major components of the model proposed, such aims are explicitly reflected in course descriptions, in proposals and requests for language services, and learning/teaching materials. It is in this area that it has been possible to speak of ‘specific objectives’, ‘specialised courses’, ‘vocational language’, ‘preparation for a period of residence abroad’, ‘linguistic reception of migrant workers’. This does not mean that consideration given to the specific needs of a particular target group which has to adapt its plurilingual and pluricultural competence to a particular social field of activity must always require an educational approach appropriate to this aim. But, as with the other components, formulating an objective under this heading and with this focus normally has consequences for other aspects and stages of curriculum design and the provision of teaching and learning. It should be noted that this type of objective involving functional adaptation for a given domain also corresponds to situations of bilingual education, immersion (as understood by the experiments carried out in Canada) and schooling where the language of tuition is different from that spoken in the family environment (e.g. an education exclusively in French in some multilingual former colonies in Africa). From this point of view, and this is not incompatible with the main thrust of this analysis, these situations of immersion, whatever the linguistic results they may lead to, are aimed at developing partial competences: those relating to the educational domain and the acquisition of knowledge other than linguistic. It will be recalled that in many experiments of total immersion at a young age in Canada, despite the fact that the language of education was French, initially no specific provision was made in the timetable for teaching French to the English-speaking children concerned.
@@ -4398,11 +4398,11 @@ In many learning experiences it may seem preferable, at one time or another, to 
 
 <!-- el:end id=prose_p146 -->
 
-*Page **137***
+*Page **119*****
 
-<!-- page:137 -->
+<!-- page:119 -->
 
-<!-- el:start type=prose id=prose_p147 page=138 -->
+<!-- el:start type=prose id=prose_p147 page=120 -->
 <!-- vision: CEFR 2001 PDF page 147 -->
 
 examples are more a case of semi-automated behaviour than partial competences but there can be no denying that the carrying out of well-defined repetitive tasks in such cases can also constitute the primary focus of a learning objective. More generally, formulating objectives in terms of tasks has the advantage, for the learner too, of identifying in practical terms what the expected results are, and can also play a short-term motivating role throughout the learning process. To quote a simple example, telling children that the activity they are about to undertake will enable them to play ‘Happy Families’ in the foreign language (the objective being the possible carrying out of a ‘task’) can also be a motivating way of learning the vocabulary for the various family members (part of the linguistic component of a broader communicative objective). In this sense, too, the so-called project-based approach, global simulations and various role-playing games establish what are basically transitory objectives defined in terms of tasks to be carried out but the major interest of which as far as learning is concerned resides either in the language resources and activities that such a task (or sequence of tasks) requires or in the strategies employed or applied. In other terms, although in the rationale adopted for the conception of the framework of reference plurilingual and pluricultural competence becomes apparent and is developed through the carrying out of tasks, in the approach to learning adapted, these tasks are only presented as apparent objectives or as a step towards the achievement of other objectives.
@@ -4413,11 +4413,11 @@ Defining language teaching/learning objectives in this manner, in terms of the m
 
 <!-- el:end id=prose_p147 -->
 
-*Page **138***
+*Page **120*****
 
-<!-- page:138 -->
+<!-- page:120 -->
 
-<!-- el:start type=prose id=prose_p148 page=139 -->
+<!-- el:start type=prose id=prose_p148 page=121 -->
 <!-- vision: CEFR 2001 PDF page 148 -->
 
 ### 6.2 The processes of language learning
@@ -4446,11 +4446,11 @@ There is at present no sufficiently strong research-based consensus on how learn
 
 <!-- el:end id=prose_p148 -->
 
-*Page **139***
+*Page **121*****
 
-<!-- page:139 -->
+<!-- page:121 -->
 
-<!-- el:start type=prose id=prose_p149 page=140 -->
+<!-- el:start type=prose id=prose_p149 page=122 -->
 <!-- vision: CEFR 2001 PDF page 149 -->
 
 #### 6.2.2.2
@@ -4473,11 +4473,11 @@ Those concerned with examinations and qualifications will have to consider which
 
 <!-- el:end id=prose_p149 -->
 
-*Page **140***
+*Page **122*****
 
-<!-- page:140 -->
+<!-- page:122 -->
 
-<!-- el:start type=prose id=prose_p150 page=141 -->
+<!-- el:start type=prose id=prose_p150 page=123 -->
 <!-- vision: CEFR 2001 PDF page 150 -->
 
 #### 6.3.2
@@ -4498,11 +4498,11 @@ Learners are, of course, the persons ultimately concerned with language acquisit
 
 <!-- el:end id=prose_p150 -->
 
-*Page **141***
+*Page **123*****
 
-<!-- page:141 -->
+<!-- page:123 -->
 
-<!-- el:start type=prose id=prose_p151 page=142 -->
+<!-- el:start type=prose id=prose_p151 page=124 -->
 <!-- vision: CEFR 2001 PDF page 151 -->
 
 brought increasingly to make choices in respect of objectives, materials and working methods in the light of their own needs, motivations, characteristics and resources. We hope that the Framework, together with the series of specialised user guides, will be of use not only to teachers and their support services, but also directly to learners in helping to make them, too, more aware of the options open to them and articulate concerning the choices they make.
@@ -4513,11 +4513,11 @@ Up to this point, the Framework has been concerned with the construction of a co
 
 <!-- el:end id=prose_p151 -->
 
-*Page **142***
+*Page **124*****
 
-<!-- page:142 -->
+<!-- page:124 -->
 
-<!-- el:start type=prose id=prose_p152 page=143 -->
+<!-- el:start type=prose id=prose_p152 page=125 -->
 <!-- vision: CEFR 2001 PDF page 152 -->
 
 always preferable to simple acceptance of a current orthodoxy merely because it is an orthodoxy.
@@ -4540,11 +4540,11 @@ i) by combining the above with group and individual planning, implementation and
 
 <!-- el:end id=prose_p152 -->
 
-*Page **143***
+*Page **125*****
 
-<!-- page:143 -->
+<!-- page:125 -->
 
-<!-- el:start type=prose id=prose_p153 page=144 -->
+<!-- el:start type=prose id=prose_p153 page=126 -->
 <!-- vision: CEFR 2001 PDF page 153 -->
 
 #### 6.4.2
@@ -4590,11 +4590,11 @@ b) participate actively in the learning process in co-operation with the teacher
 
 <!-- el:end id=prose_p153 -->
 
-*Page **144***
+*Page **126*****
 
-<!-- page:144 -->
+<!-- page:126 -->
 
-<!-- el:start type=prose id=prose_p154 page=145 -->
+<!-- el:start type=prose id=prose_p154 page=127 -->
 <!-- vision: CEFR 2001 PDF page 154 -->
 
 c) work independently with self-study materials including self-assessment?
@@ -4639,11 +4639,11 @@ a) ‘authentic’, i.e. produced for communicative purposes with no language te
 
 <!-- el:end id=prose_p154 -->
 
-*Page **145***
+*Page **127*****
 
-<!-- page:145 -->
+<!-- page:127 -->
 
-<!-- el:start type=prose id=prose_p155 page=146 -->
+<!-- el:start type=prose id=prose_p155 page=128 -->
 <!-- vision: CEFR 2001 PDF page 155 -->
 
 untreated authentic texts that the learner encounters in the course of direct experience of the language in use (daily newspapers, magazines, broadcasts, etc.); authentic texts selected, graded and/or edited so as to be judged appropriate to the learner’s experience, interests and characteristics.
@@ -4663,11 +4663,11 @@ In receptive, productive and interactive modes, how far may learners be expected
 
 <!-- el:end id=prose_p155 -->
 
-*Page **146***
+*Page **128*****
 
-<!-- page:146 -->
+<!-- page:128 -->
 
-<!-- el:start type=prose id=prose_p156 page=147 -->
+<!-- el:start type=prose id=prose_p156 page=129 -->
 <!-- vision: CEFR 2001 PDF page 156 -->
 
 > Users of the Framework may wish to consider and where appropriate state the place of texts (spoken and written) in their learning/teaching programme and exploitation activities: e.g.
@@ -4709,11 +4709,11 @@ With regard to knowledge of the world, learning a new language does not mean sta
 
 <!-- el:end id=prose_p156 -->
 
-*Page **147***
+*Page **129*****
 
-<!-- page:147 -->
+<!-- page:129 -->
 
-<!-- el:start type=prose id=prose_p157 page=148 -->
+<!-- el:start type=prose id=prose_p157 page=130 -->
 <!-- vision: CEFR 2001 PDF page 157 -->
 
 European languages, even from different language families. Judgement is needed in deciding such questions as: Does the language to be taught or tested involve a knowledge of the world which in fact is beyond the learners’ state of maturation, or outside their adult experience? If so, it cannot be taken for granted. The problem should not be avoided; in the case of the use of a non-native language as the medium of instruction in schools or universities (and indeed in mother tongue education itself) both the subject content and the language used are new. In the past many language textbooks, such as the Orbis pictus of the celebrated 17th century Czech educationist Comenius, have attempted to structure language learning in a way explicitly designed to give young people a structured world-view.
@@ -4741,11 +4741,11 @@ With regard to existential competence, the learner’s personality features, mot
 
 <!-- el:end id=prose_p157 -->
 
-*Page **148***
+*Page **130*****
 
-<!-- page:148 -->
+<!-- page:130 -->
 
-<!-- el:start type=prose id=prose_p158 page=149 -->
+<!-- el:start type=prose id=prose_p158 page=131 -->
 <!-- vision: CEFR 2001 PDF page 158 -->
 
 a) ignored as the learner’s personal concern
@@ -4783,11 +4783,11 @@ b) by learner elicitation or dictionary, etc. look-up as needed for specific tas
 
 <!-- el:end id=prose_p158 -->
 
-*Page **149***
+*Page **131*****
 
-<!-- page:149 -->
+<!-- page:131 -->
 
-<!-- el:start type=prose id=prose_p159 page=150 -->
+<!-- el:start type=prose id=prose_p159 page=132 -->
 <!-- vision: CEFR 2001 PDF page 159 -->
 
 c) through inclusion in context, e.g. in course-book texts and subsequent recycling in exercises, exploitation activities, etc.?
@@ -4826,11 +4826,11 @@ Constructors of testing and textbook materials are obliged to choose which words
 
 <!-- el:end id=prose_p159 -->
 
-*Page **150***
+*Page **132*****
 
-<!-- page:150 -->
+<!-- page:132 -->
 
-<!-- el:start type=prose id=prose_p160 page=151 -->
+<!-- el:start type=prose id=prose_p160 page=133 -->
 <!-- vision: CEFR 2001 PDF page 160 -->
 
 - to follow lexico-statistical principles selecting the highest frequency words in large
@@ -4859,11 +4859,11 @@ Inherent complexity is not the only ordering principle to be considered. 1. The 
 
 <!-- el:end id=prose_p160 -->
 
-*Page **151***
+*Page **133*****
 
-<!-- page:151 -->
+<!-- page:133 -->
 
-<!-- el:start type=prose id=prose_p161 page=152 -->
+<!-- el:start type=prose id=prose_p161 page=134 -->
 <!-- vision: CEFR 2001 PDF page 161 -->
 
 The Framework cannot replace reference grammars or provide a strict ordering (though scaling may involve selection and hence some ordering in global terms) but provides a framework for the decisions of practitioners to be made known.
@@ -4910,11 +4910,11 @@ h) grammar-focused fluency exercises
 
 <!-- el:end id=prose_p161 -->
 
-*Page **152***
+*Page **134*****
 
-<!-- page:152 -->
+<!-- page:134 -->
 
-<!-- el:start type=prose id=prose_p162 page=153 -->
+<!-- el:start type=prose id=prose_p162 page=135 -->
 <!-- vision: CEFR 2001 PDF page 162 -->
 
 > Users of the Framework may wish to consider and where appropriate state:
@@ -4959,11 +4959,11 @@ f) by the practice of dictation.
 
 <!-- el:end id=prose_p162 -->
 
-*Page **153***
+*Page **135*****
 
-<!-- page:153 -->
+<!-- page:135 -->
 
-<!-- el:start type=prose id=prose_p163 page=154 -->
+<!-- el:start type=prose id=prose_p163 page=136 -->
 <!-- vision: CEFR 2001 PDF page 163 -->
 
 > Users of the Framework may wish to consider and where appropriate state how the phonetic and orthographic forms of words, sentences, etc. are conveyed to and mastered by learners.
@@ -4999,11 +4999,11 @@ f) by explicit teaching and exercising of functions, verbal exchange patterns an
 
 <!-- el:end id=prose_p163 -->
 
-*Page **154***
+*Page **136*****
 
-<!-- page:154 -->
+<!-- page:136 -->
 
-<!-- el:start type=prose id=prose_p164 page=155 -->
+<!-- el:start type=prose id=prose_p164 page=137 -->
 <!-- vision: CEFR 2001 PDF page 164 -->
 
 ### 6.5 Errors and mistakes
@@ -5042,11 +5042,11 @@ c) in the evaluation and assessment of learning and teaching, e.g. are students 
 
 <!-- el:end id=prose_p164 -->
 
-*Page **155***
+*Page **137*****
 
-<!-- page:155 -->
+<!-- page:137 -->
 
-<!-- el:start type=prose id=prose_p165 page=156 -->
+<!-- el:start type=prose id=prose_p165 page=138 -->
 <!-- vision: CEFR 2001 PDF page 165 -->
 
 vocabulary morphology syntax usage sociocultural content?
@@ -5063,11 +5063,11 @@ vocabulary morphology syntax usage sociocultural content?
 
 <!-- el:end id=prose_p165 -->
 
-*Page **156***
+*Page **138*****
 
-<!-- page:156 -->
+<!-- page:138 -->
 
-<!-- el:start type=prose id=prose_p166 page=157 -->
+<!-- el:start type=prose id=prose_p166 page=139 -->
 <!-- vision: CEFR 2001 PDF page 166 -->
 
 ## 7 Tasks and their role in language teaching
@@ -5078,11 +5078,11 @@ Tasks are a feature of everyday life in the personal, public, educational or occ
 
 <!-- el:end id=prose_p166 -->
 
-*Page **157***
+*Page **139*****
 
-<!-- page:157 -->
+<!-- page:139 -->
 
-<!-- el:start type=prose id=prose_p167 page=158 -->
+<!-- el:start type=prose id=prose_p167 page=140 -->
 <!-- vision: CEFR 2001 PDF page 167 -->
 
 decontextualised practice of forms) aim to actively involve learners in meaningful communication, are relevant (here and now in the formal learning context), are challenging but feasible (with task manipulation where appropriate), and have identifiable (and possibly less immediately evident) outcomes. Such tasks may involve ‘metacommunicative’ (sub)tasks, i.e. communication around task implementation and the language used in carrying out the task. This includes learner contributions to task selection, management, and evaluation, which in a language learning context may often become integral parts of the tasks themselves. Classroom tasks, whether reflecting ‘real-life’ use or essentially ‘pedagogic’ in nature, are communicative to the extent that they require learners to comprehend, negotiate and express meaning in order to achieve a communicative goal. The emphasis in a communicative task is on successful task completion and consequently the primary focus is on meaning as learners realise their communicative intentions. However, in the case of tasks designed for language learning or teaching purposes, performance is concerned both with meaning and the way meanings are comprehended, expressed and negotiated. A changing balance needs to be established between attention to meaning and form, fluency and accuracy, in the overall selection and sequencing of tasks so that both task performance and language learning progress can be facilitated and appropriately acknowledged.
@@ -5097,11 +5097,11 @@ Tasks of any kind require the activation of a range of appropriate general compe
 
 <!-- el:end id=prose_p167 -->
 
-*Page **158***
+*Page **140*****
 
-<!-- page:158 -->
+<!-- page:140 -->
 
-<!-- el:start type=prose id=prose_p168 page=159 -->
+<!-- el:start type=prose id=prose_p168 page=141 -->
 <!-- vision: CEFR 2001 PDF page 168 -->
 
 content and/or form-related problems that may arise, thereby increasing the likelihood of successful task completion in both quantitative and qualitative terms.
@@ -5120,11 +5120,11 @@ Individuals may differ considerably in their approach to the same task. Conseque
 
 <!-- el:end id=prose_p168 -->
 
-*Page **159***
+*Page **141*****
 
-<!-- page:159 -->
+<!-- page:141 -->
 
-<!-- el:start type=prose id=prose_p169 page=160 -->
+<!-- el:start type=prose id=prose_p169 page=142 -->
 <!-- vision: CEFR 2001 PDF page 169 -->
 
 characteristics, and the specific conditions and constraints under which the task is carried out. For these reasons the ease or difficulty of tasks cannot be predicted with certainty, least of all for individual learners, and in language learning contexts consideration needs to be given to ways of building flexibility and differentiation into task design and implementation. In spite of the problems associated with establishing task difficulty, the effective use of classroom learning experiences requires a principled and coherent approach to task selection and sequencing. This means taking into account the specific competences of the learner and factors that affect task difficulty, and manipulating task parameters in order to modify the task according to the needs and capabilities of the learner. In considering levels of task difficulty, therefore, it is necessary to take into account:
@@ -5153,11 +5153,11 @@ Skills: task completion depends on the learner’s ability to exercise, inter al
 
 <!-- el:end id=prose_p169 -->
 
-*Page **160***
+*Page **142*****
 
-<!-- page:160 -->
+<!-- page:142 -->
 
-<!-- el:start type=prose id=prose_p170 page=161 -->
+<!-- el:start type=prose id=prose_p170 page=143 -->
 <!-- vision: CEFR 2001 PDF page 170 -->
 
 - the learning skills and strategies that facilitate task completion, including coping
@@ -5188,11 +5188,11 @@ The stage of development of the learner’s linguistic resources is a primary fa
 
 <!-- el:end id=prose_p170 -->
 
-*Page **161***
+*Page **143*****
 
-<!-- page:161 -->
+<!-- page:143 -->
 
-<!-- el:start type=prose id=prose_p171 page=162 -->
+<!-- el:start type=prose id=prose_p171 page=144 -->
 <!-- vision: CEFR 2001 PDF page 171 -->
 
 A task may be linguistically demanding but cognitively simple, or vice versa, and consequently one factor may be offset against the other in task selection for pedagogic purposes (although an appropriate response to a cognitively demanding task may be linguistically challenging in a real life context). In carrying out a task learners have to handle both content and form. Where they do not need to devote undue attention to formal aspects, then more resources are available to attend to cognitive aspects, and vice versa. The availability of routinised schematic knowledge frees the learner to deal with content and, in the case of interaction and spontaneous production activities, to concentrate on more accurate use of less well established forms. The learner’s ability to compensate for ‘gaps’ in his or her linguistic competence is an important factor in successful task completion for all activities (see communication strategies, section 4.4).
@@ -5223,11 +5223,11 @@ The provision of adequate information concerning contextual features and the ava
 
 <!-- el:end id=prose_p171 -->
 
-*Page **162***
+*Page **144*****
 
-<!-- page:162 -->
+<!-- page:144 -->
 
-<!-- el:start type=prose id=prose_p172 page=163 -->
+<!-- el:start type=prose id=prose_p172 page=145 -->
 <!-- vision: CEFR 2001 PDF page 172 -->
 
 ities will obviously be facilitated by the availability of resources such as reference works, relevant models, and assistance from others.
@@ -5262,11 +5262,11 @@ and acceptability of different outcomes (as opposed to learners’ (perhaps subc
 
 <!-- el:end id=prose_p172 -->
 
-*Page **163***
+*Page **145*****
 
-<!-- page:163 -->
+<!-- page:145 -->
 
-<!-- el:start type=prose id=prose_p173 page=164 -->
+<!-- el:start type=prose id=prose_p173 page=146 -->
 <!-- vision: CEFR 2001 PDF page 173 -->
 
 - Predictability:
@@ -5301,11 +5301,11 @@ The introduction of various forms of support can reduce the possible difficulty 
 
 <!-- el:end id=prose_p173 -->
 
-*Page **164***
+*Page **146*****
 
-<!-- page:164 -->
+<!-- page:146 -->
 
-<!-- el:start type=prose id=prose_p174 page=165 -->
+<!-- el:start type=prose id=prose_p174 page=147 -->
 <!-- vision: CEFR 2001 PDF page 174 -->
 
 clear task instructions help to avoid possible confusion, and work arrangements involving small group settings offer possibilities for learner co-operation and mutual assistance.
@@ -5342,11 +5342,11 @@ because of the need to process information in spoken text in real time. In addit
 
 <!-- el:end id=prose_p174 -->
 
-*Page **165***
+*Page **147*****
 
-<!-- page:165 -->
+<!-- page:147 -->
 
-<!-- el:start type=prose id=prose_p175 page=166 -->
+<!-- el:start type=prose id=prose_p175 page=148 -->
 <!-- vision: CEFR 2001 PDF page 175 -->
 
 of spoken (audio) text the greater the number of speakers and the less distinct their voices, the more difficult it is to identify and understand individual speakers; other factors which increase difficulty in listening/viewing include overlapping speech, phonetic reduction, unfamiliar accents, speed of delivery, monotony, low volume, etc.;
@@ -5365,11 +5365,11 @@ While a text may be relatively difficult the type of response required by the ta
 
 <!-- el:end id=prose_p175 -->
 
-*Page **166***
+*Page **148*****
 
-<!-- page:166 -->
+<!-- page:148 -->
 
-<!-- el:start type=prose id=prose_p176 page=167 -->
+<!-- el:start type=prose id=prose_p176 page=149 -->
 <!-- vision: CEFR 2001 PDF page 176 -->
 
 Users of the Framework may wish to consider and where appropriate state:
@@ -5400,11 +5400,11 @@ of successful task completion and in (self) assessment of the learner’s commun
 
 <!-- el:end id=prose_p176 -->
 
-*Page **167***
+*Page **149*****
 
-<!-- page:167 -->
+<!-- page:149 -->
 
-<!-- el:start type=prose id=prose_p177 page=168 -->
+<!-- el:start type=prose id=prose_p177 page=150 -->
 <!-- vision: CEFR 2001 PDF page 177 -->
 
 ## 8 Linguistic diversification and the curriculum
@@ -5424,11 +5424,11 @@ A general observation can nevertheless be made, linking different distinct langu
 
 <!-- el:end id=prose_p177 -->
 
-*Page **168***
+*Page **150*****
 
-<!-- page:168 -->
+<!-- page:150 -->
 
-<!-- el:start type=prose id=prose_p178 page=169 -->
+<!-- el:start type=prose id=prose_p178 page=151 -->
 <!-- vision: CEFR 2001 PDF page 178 -->
 
 ferent practices with respect to one another and show that they should in fact be complementary.
@@ -5453,11 +5453,11 @@ achieve the ‘limited’ goal of increasing understanding of specialised texts 
 
 <!-- el:end id=prose_p178 -->
 
-*Page **169***
+*Page **151*****
 
-<!-- page:169 -->
+<!-- page:151 -->
 
-<!-- el:start type=prose id=prose_p179 page=170 -->
+<!-- el:start type=prose id=prose_p179 page=152 -->
 <!-- vision: CEFR 2001 PDF page 179 -->
 
 skills which can also be used for many other purposes. Such ‘spin-off’ value is however a matter for the learner rather than the responsibility of the curriculum planner;
@@ -5474,11 +5474,11 @@ From the above, it can be seen that each of the major components and sub-compone
 
 <!-- el:end id=prose_p179 -->
 
-*Page **170***
+*Page **152*****
 
-<!-- page:170 -->
+<!-- page:152 -->
 
-<!-- el:start type=prose id=prose_p180 page=171 -->
+<!-- el:start type=prose id=prose_p180 page=153 -->
 <!-- vision: CEFR 2001 PDF page 180 -->
 
 home in it?; be given confidence from the realisation and confirmation that they are capable of learning another language?; learn how to learn?; acquire a minimum of oral comprehension skills?; play with a foreign language and become familiar with it (in particular some of its phonetic and rhythmic characteristics) through counting-rhymes and songs? It goes without saying that it is possible to keep several irons in the fire and that many objectives could be combined or accommodated with others. However, it should be emphasised that in drawing up a curriculum the selection and balancing of objectives, content, ordering and means of assessment are closely linked to the analysis which has been made for each of the specified components. These considerations imply that:
@@ -5499,11 +5499,11 @@ In the following brief illustration of what might be envisaged by scenario optio
 
 <!-- el:end id=prose_p180 -->
 
-*Page **171***
+*Page **153*****
 
-<!-- page:171 -->
+<!-- page:153 -->
 
-<!-- el:start type=prose id=prose_p181 page=172 -->
+<!-- el:start type=prose id=prose_p181 page=154 -->
 <!-- vision: CEFR 2001 PDF page 181 -->
 
 a) First scenario: Primary school: The first foreign language (FL1) begins in primary school with the main aim of developing ‘language awareness’, a general consciousness of linguistic phenomena (relationship with the native language or other languages present in the classroom environment). The focus here is on partial objectives concerned above all with an individual’s general competences – (discovery or recognition by the school of the plurality of languages and cultures, preparation for moving away from ethnocentrism, relativisation but also confirmation of the learner’s own linguistic and cultural identity; attention paid to body language and gestures, sound aspects, music and rhythm, experience of the physical and aesthetic dimensions of certain elements of another language) – and their relationship with communicative competence, but without there being a structured and explicit attempt to develop this specific competence. Lower secondary school:
@@ -5519,11 +5519,11 @@ b) Second scenario: Primary school: The first foreign language (FL1) starts at p
 
 <!-- el:end id=prose_p181 -->
 
-*Page **172***
+*Page **154*****
 
-<!-- page:172 -->
+<!-- page:154 -->
 
-<!-- el:start type=prose id=prose_p182 page=173 -->
+<!-- el:start type=prose id=prose_p182 page=155 -->
 <!-- vision: CEFR 2001 PDF page 182 -->
 
 establishing the beginnings of a basic linguistic component, primarily phonetic and syntactic aspects, while promoting elementary oral interaction in class).
@@ -5548,11 +5548,11 @@ To these brief indications it may be added that in all cases time should be allo
 
 <!-- el:end id=prose_p182 -->
 
-*Page **173***
+*Page **155*****
 
-<!-- page:173 -->
+<!-- page:155 -->
 
-<!-- el:start type=prose id=prose_p183 page=174 -->
+<!-- el:start type=prose id=prose_p183 page=156 -->
 <!-- vision: CEFR 2001 PDF page 183 -->
 
 progressive development of ‘learning awareness’ and the introduction of general language education which helps learners establish metacognitive control over their own competences and strategies. Learners situate these in relation to other possible competences and strategies and with regard to the language activities in which they are applied in order to accomplish tasks within specific domains. In other words, one of the aims of curriculum design, whatever the particular curriculum, is to make learners aware of categories and their dynamic interrelationship as proposed in the model adopted for the reference framework.
@@ -5570,11 +5570,11 @@ To accept the notion that the educational curriculum is not limited to school an
 
 <!-- el:end id=prose_p183 -->
 
-*Page **174***
+*Page **156*****
 
-<!-- page:174 -->
+<!-- page:156 -->
 
-<!-- el:start type=prose id=prose_p184 page=175 -->
+<!-- el:start type=prose id=prose_p184 page=157 -->
 <!-- vision: CEFR 2001 PDF page 184 -->
 
 #### 8.4.2 Portfolio and profiling
@@ -5587,11 +5587,11 @@ This chapter aims to draw attention generally to the shift in focus or at least 
 
 <!-- el:end id=prose_p184 -->
 
-*Page **175***
+*Page **157*****
 
-<!-- page:175 -->
+<!-- page:157 -->
 
-<!-- el:start type=prose id=prose_p185 page=176 -->
+<!-- el:start type=prose id=prose_p185 page=158 -->
 <!-- vision: CEFR 2001 PDF page 185 -->
 
 learning approaches and resources, ways of using the out-of-school environment, and dealing with misunderstandings in intercultural relations. They would give greater overall coherence and transparency to the underlying curricular choices and would improve the general structure without upsetting the programmes devised for other subjects. Furthermore, a modular approach to qualifications would enable a specific assessment to be made, in an ad hoc module, of the plurilingual and pluricultural management abilities referred to above. Multidimensionality and modularity thus appear as key concepts in developing a sound basis for linguistic diversification in the curriculum and in assessment. The reference framework is structured in a manner that allows it, through the categories it offers, to indicate the directions for such a modular or multidimensional organisation. However, the way forward is clearly to implement projects and experimental work in the school environment and in a variety of contexts.
@@ -5612,11 +5612,11 @@ Users of the Framework may wish to consider and where appropriate state:
 
 <!-- el:end id=prose_p185 -->
 
-*Page **176***
+*Page **158*****
 
-<!-- page:176 -->
+<!-- page:158 -->
 
-<!-- el:start type=prose id=prose_p186 page=177 -->
+<!-- el:start type=prose id=prose_p186 page=159 -->
 <!-- vision: CEFR 2001 PDF page 186 -->
 
 ## 9 Assessment
@@ -5631,11 +5631,11 @@ Reliability, on the other hand, is a technical term. It is basically the extent 
 
 <!-- el:end id=prose_p186 -->
 
-*Page **177***
+*Page **159*****
 
-<!-- page:177 -->
+<!-- page:159 -->
 
-<!-- el:start type=prose id=prose_p187 page=178 -->
+<!-- el:start type=prose id=prose_p187 page=160 -->
 <!-- vision: CEFR 2001 PDF page 187 -->
 
 This concept is obviously related to reliability, since unreliable tests will not correlate. However, what is more central is the extent of communality between the two tests regarding what is assessed, and how performance is interpreted. It is with these two questions that the Common European Framework is concerned. The next section outlines three main ways in which the Framework can be used: 1. For the specification of the content of tests and what is assessed examinations: 2. For stating the criteria to determine the attainment how performance is interpreted of a learning objective: 3. For describing the levels of proficiency in existing how comparisons can be made tests and examinations thus enabling comparisons to be made across different systems of qualifications: These issues relate to different kinds of assessment in different ways. There are many different kinds and traditions of assessment. It is a mistake to assume that one approach (e.g. a public examination) is necessarily superior in its educational effects to another approach (e.g. teacher assessment). It is indeed a major advantage of a set of common standards – such as the Common Reference Levels of the Framework – that they make it possible to relate different forms of assessment to one another. The third section of the chapter lays out choices between different types of assessment. The choices are presented in the form of contrasting pairs. In each case the terms used are defined and the relative advantages and disadvantages are discussed in relation to the purpose of the assessment in its educational context. The implications of exercising one or another of the alternative options are also stated. The relevance of the Framework to the type of assessment concerned is then pointed out. An assessment procedure also needs to be practical, to be feasible. Feasibility is particularly an issue with performance testing. Assessors operate under time pressure. They are only seeing a limited sample of performance and there are definite limits to the type and number of categories they can handle as criteria. The Framework seeks to provide a point of reference, not a practical assessment tool. The Framework must be comprehensive, but all its users must be selective. Selectivity may well involve the use of a simpler operational scheme, which collapses categories separated in the Framework. For instance, the categories used in the illustrative scales of descriptors juxtaposed to the text in Chapters 4 and 5 are frequently considerably simpler than the categories and exponents discussed in the text itself. The final section of this chapter discusses this issue, with examples.
@@ -5648,11 +5648,11 @@ The description of ‘Language Use and the Language User’, in Chapter 4 and in
 
 <!-- el:end id=prose_p187 -->
 
-*Page **178***
+*Page **160*****
 
-<!-- page:178 -->
+<!-- page:160 -->
 
-<!-- el:start type=prose id=prose_p188 page=179 -->
+<!-- el:start type=prose id=prose_p188 page=161 -->
 <!-- vision: CEFR 2001 PDF page 188 -->
 
 example, in relation to the testing of speaking, a recently developed test illustrates this point. First, there is a simulated Conversation which functions as a warm up; then there is an Informal Discussion of topical issues in which the candidate declares an interest. This is followed by a Transaction phase, which takes the form either of a face-to-face or simulated telephone information seeking activity. This is followed by a Production phase, based upon a written Report in which the candidate gives a Description of his/her academic field and plans. Finally there is a Goal-orientated Co-operation, a consensus task between candidates. To summarise, the Framework categories for communicative activities employed are: Interaction Production (Spontaneous, short turns) (Prepared, long turns) Spoken: Conversation Description of his/her academic field Informal discussion Goal-orientated co-operation Written: Report/Description of his/her academic field In constructing the detail of the task specifications the user may wish to consult section 4.1, on ‘the context of language use’ (domains, conditions and constraints, mental context), section 4.6 on ‘Texts’, and Chapter 7 on ‘Tasks and their Role in Language Teaching’, specifically section 7.3 on ‘Task difficulty’. Section 5.2 on ‘Communicative language competences’ will inform the construction of the test items, or phases of a spoken test, in order to elicit evidence of the relevant linguistic, sociolinguistic and pragmatic competences. The set of content specifications at Threshold Level produced by the Council of Europe for over 20 European languages (see Bibliography items listed on p. 200) and at Waystage and Vantage Level for English, plus their equivalents when developed for other languages and levels, can be seen as ancillary to the main Framework document. They offer examples of a further layer of detail to inform test construction for Levels A1, A2, B1 and B2.
@@ -5663,11 +5663,11 @@ The scales provide a source for the development of rating scales for the assessm
 
 <!-- el:end id=prose_p188 -->
 
-*Page **179***
+*Page **161*****
 
-<!-- page:179 -->
+<!-- page:161 -->
 
-<!-- el:start type=prose id=prose_p189 page=180 -->
+<!-- el:start type=prose id=prose_p189 page=162 -->
 <!-- vision: CEFR 2001 PDF page 189 -->
 
 The former are very suitable for teacheror self-assessment with regard to real-world tasks. Such teacheror self-assessments are made on the basis of a detailed picture of the learner’s language ability built up during the course concerned. They are attractive because they can help to focus both learners and teachers on an action-oriented approach. However, it is not usually advisable to include descriptors of communicative activities in the criteria for an assessor to rate performance in a particular speaking or writing test if one is interested in reporting results in terms of a level of proficiency attained. This is because to report on proficiency, the assessment should not be primarily concerned with any one particular performance, but should rather seek to judge the generalisable competences evidenced by that performance. There may of course be sound educational reasons for focusing on success at completing a given activity, especially with younger Basic Users (Levels A1; A2). Such results will be less generalisable, but generalisability of results is not usually the focus of attention in the earlier stages of language learning. This reinforces the fact that assessments can have many different functions. What is appropriate for one assessment purpose may be inappropriate for another.
@@ -5683,11 +5683,11 @@ The use of descriptors in this way has become more common in the last 10 years. 
 
 <!-- el:end id=prose_p189 -->
 
-*Page **180***
+*Page **162*****
 
-<!-- page:180 -->
+<!-- page:162 -->
 
-<!-- el:start type=prose id=prose_p190 page=181 -->
+<!-- el:start type=prose id=prose_p190 page=163 -->
 <!-- vision: CEFR 2001 PDF page 190 -->
 
 #### 9.2.2.2 Descriptors of aspects of proficiency related to particular competences
@@ -5710,11 +5710,11 @@ Examination Rating Scale: by selecting or defining a descriptor for each relevan
 
 <!-- el:end id=prose_p190 -->
 
-*Page **181***
+*Page **163*****
 
-<!-- page:181 -->
+<!-- page:163 -->
 
-<!-- el:start type=prose id=prose_p191 page=182 -->
+<!-- el:start type=prose id=prose_p191 page=164 -->
 <!-- vision: CEFR 2001 PDF page 191 -->
 
 other descriptors drawn or adapted from the adjacent levels on the scale from the appropriate section of Chapter 5, or the descriptor may be formulated in relation to the wording of the descriptor defined as ‘3’.
@@ -5738,11 +5738,11 @@ Appendix A provides readers with an overview of methods to develop scales of des
 
 <!-- el:end id=prose_p191 -->
 
-*Page **182***
+*Page **164*****
 
-<!-- page:182 -->
+<!-- page:164 -->
 
-<!-- el:start type=prose id=prose_p192 page=183 -->
+<!-- el:start type=prose id=prose_p192 page=165 -->
 <!-- vision: CEFR 2001 PDF page 192 -->
 
 The User Guide for Examiners produced by ALTE (Document CC-Lang (96) 10 rev) provides detailed advice on operationalising constructs in tests, and avoiding unnecessary distortion though test method effects.
@@ -5753,7 +5753,7 @@ A number of important distinctions can be made in relation to assessment. The fo
 
 Table 7. Types of assessment
 
-<!-- el:start type=table id=cefr2001_p192_t0 page=183 -->
+<!-- el:start type=table id=cefr2001_p192_t0 page=165 -->
 | # | Left | Right |
 | --- | --- | --- |
 | 1 | Achievement assessment | Proficiency assessment |
@@ -5777,11 +5777,11 @@ Achievement assessment is the assessment of the achievement of specific objectiv
 
 <!-- el:end id=prose_p192 -->
 
-*Page **183***
+*Page **165*****
 
-<!-- page:183 -->
+<!-- page:165 -->
 
-<!-- el:start type=prose id=prose_p193 page=184 -->
+<!-- el:start type=prose id=prose_p193 page=166 -->
 <!-- vision: CEFR 2001 PDF page 193 -->
 
 to the learner’s experience. The advantage of a proficiency approach is that it helps everyone to see where they stand; results are transparent. In communicative testing in a needs-oriented teaching and learning context one can argue that the distinction between achievement (oriented to the content of the course) and proficiency (oriented to the continuum of real world ability) should ideally be small. To the extent that an achievement assessment tests practical language use in relevant situations and aims to offer a balanced picture of emerging competence, it has a proficiency angle. To the extent that a proficiency assessment consists of language and communicative tasks based on a transparent relevant syllabus, giving the learner the opportunity to show what they have achieved, that test has an achievement element. The scales of illustrative descriptors relate to proficiency assessment: the continuum of real world ability. The importance of achievement testing as a reinforcement to learning is discussed in Chapter 6.
@@ -5807,11 +5807,11 @@ The mastery criterion-referencing approach is one in which a single ‘minimum c
 
 <!-- el:end id=prose_p193 -->
 
-*Page **184***
+*Page **166*****
 
-<!-- page:184 -->
+<!-- page:166 -->
 
-<!-- el:start type=prose id=prose_p194 page=185 -->
+<!-- el:start type=prose id=prose_p194 page=167 -->
 <!-- vision: CEFR 2001 PDF page 194 -->
 
 There are in fact many approaches to CR, but most of them can be identified as primarily a ‘mastery learning’ or ‘continuum’ interpretation. Much confusion is caused by the misidentification of criterion-referencing exclusively with the mastery approach. The mastery approach is an achievement approach related to the content of the course/module. It puts less emphasis on situating that module (and so achievement in it) on the continuum of proficiency. The alternative to the mastery approach is to reference results from each test to the relevant continuum of proficiency, usually with a series of grades. In this approach, that continuum is the ‘criterion’, the external reality which ensures that the test results mean something. Referencing to this external criterion can be undertaken with a scalar analysis (e.g. Rasch model) to relate results from all the tests to each other and so report results directly onto a common scale. The Framework can be exploited with mastery or continuum approach. The scale of levels used in a continuum approach can be matched to the Common Reference Levels; the objective to be mastered in a mastery approach can be mapped onto the conceptual grid of categories and levels offered by the Framework.
@@ -5822,11 +5822,11 @@ Continuous assessment is assessment by the teacher and possibly by the learner o
 
 <!-- el:end id=prose_p194 -->
 
-*Page **185***
+*Page **167*****
 
-<!-- page:185 -->
+<!-- page:167 -->
 
-<!-- el:start type=prose id=prose_p195 page=186 -->
+<!-- el:start type=prose id=prose_p195 page=168 -->
 <!-- vision: CEFR 2001 PDF page 195 -->
 
 #### 9.3.5 Formative assessment/summative assessment
@@ -5849,11 +5849,11 @@ Direct assessment is assessing what the candidate is actually doing. For example
 
 <!-- el:end id=prose_p195 -->
 
-*Page **186***
+*Page **168*****
 
-<!-- page:186 -->
+<!-- page:168 -->
 
-<!-- el:start type=prose id=prose_p196 page=187 -->
+<!-- el:start type=prose id=prose_p196 page=169 -->
 <!-- vision: CEFR 2001 PDF page 196 -->
 
 Indirect assessment, on the other hand, uses a test, usually on paper, which often assesses enabling skills. Direct assessment is effectively limited to speaking, writing and listening in interaction, since you can never see receptive activity directly. Reading can, for example, only be assessed indirectly by requiring learners to demonstrate evidence of understanding by ticking boxes, finishing sentences, answering questions, etc. Linguistic range and control can be assessed either directly through judging the match to criteria or indirectly by interpreting and generalising from the responses to test questions. A classic direct test is an interview; a classic indirect test is a cloze. Descriptors defining different aspects of competence at different levels in Chapter 5 can be used to develop assessment criteria for direct tests. The parameters in Chapter 4 can inform the selection of themes, texts and test tasks for direct tests of the productive skills and indirect tests of listening and reading. The parameters of Chapter 5 can in addition inform the identification of key linguistic competences to include in an indirect test of language knowledge, and of key pragmatic, sociolinguistic and linguistic competences to focus on in the formulation of test questions for item-based tests of the four skills.
@@ -5864,11 +5864,11 @@ Performance assessment requires the learner to provide a sample of language in s
 
 <!-- el:end id=prose_p196 -->
 
-*Page **187***
+*Page **169*****
 
-<!-- page:187 -->
+<!-- page:169 -->
 
-<!-- el:start type=prose id=prose_p197 page=188 -->
+<!-- el:start type=prose id=prose_p197 page=170 -->
 <!-- vision: CEFR 2001 PDF page 197 -->
 
 #### 9.3.8 Subjective assessment/objective assessment
@@ -5884,11 +5884,11 @@ Subjective assessment is a judgement by an assessor. What is normally meant by t
 
 <!-- el:end id=prose_p197 -->
 
-*Page **188***
+*Page **170*****
 
-<!-- page:188 -->
+<!-- page:170 -->
 
-<!-- el:start type=prose id=prose_p198 page=189 -->
+<!-- el:start type=prose id=prose_p198 page=171 -->
 <!-- vision: CEFR 2001 PDF page 198 -->
 
 - checking the quality of the assessment (validity, reliability) by analysing assessment
@@ -5905,11 +5905,11 @@ Impression: fully subjective judgement made on the basis of experience of the le
 
 <!-- el:end id=prose_p198 -->
 
-*Page **189***
+*Page **171*****
 
-<!-- page:189 -->
+<!-- page:171 -->
 
-<!-- el:start type=prose id=prose_p199 page=190 -->
+<!-- el:start type=prose id=prose_p199 page=172 -->
 <!-- vision: CEFR 2001 PDF page 199 -->
 
 the person concerned over a period of time. Very many school systems operate on this basis. The term ‘guided judgement’ is here used to describe the situation in which that impression is guided into a considered judgement through an assessment approach. Such an approach implies (
@@ -5947,11 +5947,11 @@ b) Calculating the result: some approaches holistically match observed performan
 
 <!-- el:end id=prose_p199 -->
 
-*Page **190***
+*Page **172*****
 
-<!-- page:190 -->
+<!-- page:172 -->
 
-<!-- el:start type=prose id=prose_p200 page=191 -->
+<!-- el:start type=prose id=prose_p200 page=173 -->
 <!-- vision: CEFR 2001 PDF page 200 -->
 
 ferent points and then adding them up to give a score, which may then convert into a grade. It is characteristic of this approach that the categories are weighted, i.e. the categories do not each account for an equal number of points.
@@ -5976,11 +5976,11 @@ is related to a specific experience. This experience may itself even be a test a
 
 <!-- el:end id=prose_p200 -->
 
-*Page **191***
+*Page **173*****
 
-<!-- page:191 -->
+<!-- page:173 -->
 
-<!-- el:start type=prose id=prose_p201 page=192 -->
+<!-- el:start type=prose id=prose_p201 page=174 -->
 <!-- vision: CEFR 2001 PDF page 201 -->
 
 The main potential for self-assessment, however, is in its use as a tool for motivation and awareness raising: helping learners to appreciate their strengths, recognise their weaknesses and orient their learning more effectively.
@@ -6007,28 +6007,28 @@ The scales interspersed in Chapters 4 and 5 present an example of a set of categ
 
 <!-- el:end id=prose_p201 -->
 
-*Page **192***
+*Page **174*****
 
-<!-- page:192 -->
+<!-- page:174 -->
 
-<!-- el:start type=prose id=prose_p202 page=193 -->
+<!-- el:start type=prose id=prose_p202 page=175 -->
 <!-- vision: CEFR 2001 PDF page 202 -->
 
 with a large number of categories and in addition, the full range of levels presented may not be appropriate in the context concerned. Rather, the set of scales is intended as a reference tool. Whatever approach is being adopted, any practical assessment system needs to reduce the number of possible categories to a feasible number. Received wisdom is that more than 4 or 5 categories starts to cause cognitive overload and that 7 categories is psychologically an upper limit. Thus choices have to be made. In relation to oral assessment, if interaction strategies are considered a qualitative aspect of communication relevant in oral assessment, then the illustrative scales contain 12 qualitative categories relevant to oral assessment: Turntaking strategies Co-operating strategies Asking for clarification Fluency Flexibility Coherence Thematic development Precision Sociolinguistic competence General range Vocabulary range Grammatical accuracy Vocabulary control Phonological control It is obvious that, whilst descriptors on many of these features could possibly be included in a general checklist, 12 categories are far too many for an assessment of any performance. In any practical approach, therefore, such a list of categories would be approached selectively. Features need to be combined, renamed and reduced into a smaller set of assessment criteria appropriate to the needs of the learners concerned, to the requirements of the assessment task concerned and to the style of the pedagogic culture concerned. The resultant criteria might be equally weighted, or alternatively certain factors considered more crucial to the task at hand might be more heavily weighted. The following four examples show ways in which this can be done. The first three examples are brief notes on the way categories are used as test criteria in existing assessment approaches. The fourth example shows how descriptors in scales in the Framework were merged and reformulated in order to provide an assessment grid for a particular purpose on a particular occasion.
 
 <!-- el:end id=prose_p202 -->
 
-*Page **193***
+*Page **175*****
 
-<!-- page:193 -->
+<!-- page:175 -->
 
-<!-- el:start type=prose id=prose_p203 page=194 -->
+<!-- el:start type=prose id=prose_p203 page=176 -->
 <!-- vision: CEFR 2001 PDF page 203 -->
 
 **Example 1:**  
 Cambridge Certificate in Advanced English (CAE), Paper 5: Criteria for Assessment (1991)
 
-<!-- el:start type=table id=cefr2001_p203_t0 page=194 -->
+<!-- el:start type=table id=cefr2001_p203_t0 page=176 -->
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
 | Fluency | Fluency | |
@@ -6043,7 +6043,7 @@ Cambridge Certificate in Advanced English (CAE), Paper 5: Criteria for Assessmen
 **Example 2:**  
 International Certificate Conference (ICC): Certificate in English for Business Purposes, Test 2: Business Conversation (1987)
 
-<!-- el:start type=table id=cefr2001_p203_t1 page=194 -->
+<!-- el:start type=table id=cefr2001_p203_t1 page=176 -->
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
 | Scale 1 (not named) | Sociolinguistic appropriacy<br>Grammatical accuracy<br>Vocabulary control | Task success |
@@ -6052,17 +6052,17 @@ International Certificate Conference (ICC): Certificate in English for Business 
 
 <!-- el:end id=prose_p203 -->
 
-*Page **194***
+*Page **176*****
 
-<!-- page:194 -->
+<!-- page:176 -->
 
-<!-- el:start type=prose id=prose_p204 page=195 -->
+<!-- el:start type=prose id=prose_p204 page=177 -->
 <!-- vision: CEFR 2001 PDF page 204 -->
 
 **Example 3:**  
 Eurocentres – Small Group Interaction Assessment (RADIO) (1987)
 
-<!-- el:start type=table id=cefr2001_p204_t0 page=195 -->
+<!-- el:start type=table id=cefr2001_p204_t0 page=177 -->
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
 | Range | General range<br>Vocabulary range | |
@@ -6076,7 +6076,7 @@ Swiss National Research Council: Assessment of Video Performances
 
 Context: The illustrative descriptors were scaled in a research project in Switzerland as explained in Appendix A. At the conclusion of the research project, teachers who had participated were invited to a conference to present the results and to launch experimentation in Switzerland with the European Language Portfolio. At the conference, two of the subjects of discussion were (a) the need to relate continuous assessment and self-assessment checklists to an overall framework, and (b) the ways in which the descriptors scaled in the project could be exploited in different ways in assessment. As part of this process of discussion, videos of some of the learners in the survey were rated onto the assessment grid presented as Table 3 in Chapter 3. It presents a selection from the illustrative descriptors in a merged, edited form.
 
-<!-- el:start type=table id=cefr2001_p204_t1 page=195 -->
+<!-- el:start type=table id=cefr2001_p204_t1 page=177 -->
 | Test criteria | Illustrative scales | Other categories |
 | --- | --- | --- |
 | Range | General range<br>Vocabulary range | |
@@ -6088,11 +6088,11 @@ Context: The illustrative descriptors were scaled in a research project in Switz
 
 <!-- el:end id=prose_p204 -->
 
-*Page **195***
+*Page **177*****
 
-<!-- page:195 -->
+<!-- page:177 -->
 
-<!-- el:start type=prose id=prose_p205 page=196 -->
+<!-- el:start type=prose id=prose_p205 page=178 -->
 <!-- vision: CEFR 2001 PDF page 205 -->
 
 Different systems with different learners in different contexts simplify, select and combine features in different ways for different kinds of assessment. Indeed rather than being too long, the list of 12 categories is probably unable to accommodate all the variants people choose, and would need to be expanded to be fully comprehensive.
@@ -6107,11 +6107,11 @@ Different systems with different learners in different contexts simplify, select
 
 <!-- el:end id=prose_p205 -->
 
-*Page **196***
+*Page **178*****
 
-<!-- page:196 -->
+<!-- page:178 -->
 
-<!-- el:start type=prose id=prose_p206 page=197 -->
+<!-- el:start type=prose id=prose_p206 page=179 -->
 <!-- vision: CEFR 2001 PDF page 206 -->
 
 N.B. Starred publications and documents have been produced in English and French.
@@ -6128,11 +6128,11 @@ Baldegger, M., Müller, M. & Schneider, G. in Zusammenarbeit mit Näf, A. (1980)
 
 <!-- el:end id=prose_p206 -->
 
-*Page **197***
+*Page **179*****
 
-<!-- page:197 -->
+<!-- page:179 -->
 
-<!-- el:start type=prose id=prose_p207 page=198 -->
+<!-- el:start type=prose id=prose_p207 page=180 -->
 <!-- vision: CEFR 2001 PDF page 207 -->
 
 Belart, M. & Rancé, L. (1991) Nivell Llindar per a escolars (8–14 anys). Gener, Generalitat de Catalunya. Castaleiro, J.M., Meira, A. & Pascoal, J. (1988) Nivel limiar (para o ensino/aprendizagem do Portugues como lingua segunda/lingua estrangeira). Strasbourg, Council of Europe. Coste, D., J. Courtillon, V. Ferenczi, M. Martins-Baltar et E. Papo (1976) Un niveau-seuil. Paris, Hatier. Dannerfjord, T. (1983) Et taerskelniveau for dansk – Appendix – Annexe – Appendiks. Strasbourg, Council of Europe. Efstathiadis, S. (ed.) (1998) Katofli gia ta nea Ellenika. Strasbourg, Council of Europe. Ehala, M., Liiv. S., Saarso, K., Vare, S. & Õispuu, J. (1997) Eesti keele suhtluslävi. Strasbourg, Council of Europe. Ek, J.A. van (1977) The Threshold Level for modern language learning in schools. London, Longman. Ek, J.A. van & Trim, J.L.M. (1991) Threshold Level 1990. Cambridge, CUP. (1991) Waystage 1990. Cambridge, CUP. (1997) Vantage Level. Strasbourg, Council of Europe (to be republished by CUP c. November 2000). Galli de’ Paratesi, N. (1981) Livello soglia per l’insegnamento dell’italiano come lingua straniera. Strasbourg, Council of Europe. Grinberga, I., Martinsone, G., Piese, V., Veisberg, A. & Zuicena, I. (1997) Latvie sˇu valodas prasmes limenis. Strasbourg, Council of Europe. Jessen, J. (1983) Et taerskelniveau for dansk. Strasbourg, Council of Europe. Jones, G.E., Hughes, M., & Jones, D. (1996) Y lefel drothwy: ar gyfer y gymraeg. Strasbourg, Council of Europe. Kallas, E. (1990) Yatabi lebaaniyyi: un livello sogla per l’insegnamento/apprendimento dell’ arabo libanese nell’ universitá italiana. Venezia, Cafoscarina. King, A. (ed.) (1988) Atalase Maila. Strasbourg, Council of Europe. Mas, M., Melcion, J., Rosanas, R. & Vergé, M.H. (1992) Nivell llindar per a la llengua catalana. Barcelona, Generalitat de Catalunya. Mifsud, M. & Borg, A.J. (1997) Fuq l-ghatba tal-Malti. Strasbourg, Council of Europe.
@@ -6145,11 +6145,11 @@ Hest, E. van & Oud-de Glas, M. (1990) A survey of techniques used in the diagnos
 
 <!-- el:end id=prose_p207 -->
 
-*Page **198***
+*Page **180*****
 
-<!-- page:198 -->
+<!-- page:180 -->
 
-<!-- el:start type=prose id=prose_p208 page=199 -->
+<!-- el:start type=prose id=prose_p208 page=181 -->
 <!-- vision: CEFR 2001 PDF page 208 -->
 
 Richterich, R. (1985) Objectifs d’apprentissage et besoins langagiers. Col. F. Paris, Hachette. (ed.) (1983) Case studies in identifying language needs. Oxford, Pergamon. Richterich, R. and J.-L. Chancerel (1980) Identifying the needs of adults learning a foreign language. Oxford, Pergamon. (1981) L’identification des besoins des adultes apprenant une langue étrangère. Paris, Hatier. Trim, J.L.M. (1980) Developing a Unit/Credit scheme of adult language learning. Oxford, Pergamon. Trim, J.L.M. Richterich, R., van Ek, J.A. & Wilkins, D.A. (1980) Systems development in adult language learning. Oxford, Pergamon. *Trim, J.L.M., Holec, H. Coste, D. and Porcher, L. (eds.) (1984) Towards a more comprehensive framework for the definition of language learning objectives. Vol I Analytical summaries of the preliminary studies. Vol II Preliminary studies (contributions in English and French). Strasbourg, Council of Europe. Widdowson, H.G. (1989) ‘Knowledge of Language and Ability for Use’. Applied Linguistics 10/2, 128–137. Wilkins, D.A. (1972) Linguistics in language teaching. London, Edward Arnold.
@@ -6160,11 +6160,11 @@ Chapter 4 Bygate, M. (1987) Speaking. Oxford, OUP. Canale, M. & Swain, M. (1981)
 
 <!-- el:end id=prose_p208 -->
 
-*Page **199***
+*Page **181*****
 
-<!-- page:199 -->
+<!-- page:181 -->
 
-<!-- el:start type=prose id=prose_p209 page=200 -->
+<!-- el:start type=prose id=prose_p209 page=182 -->
 <!-- vision: CEFR 2001 PDF page 209 -->
 
 Martins-Baltar, M., Boutgain, D. Coste, D. Ferenczi, V. et M.-A. Mochet (1979) L’écrit et les écrits: problèmes d’analyse et considérations didactiques. Paris, Hatier. Swales, J.M. (1990) Genre analysis: English in academic and research settings. Cambridge, CUP.
@@ -6173,11 +6173,11 @@ Chapter 5 Allport, G. (1979) The Nature of Prejudice. Reading MA, Addison-Wesley
 
 <!-- el:end id=prose_p209 -->
 
-*Page **200***
+*Page **182*****
 
-<!-- page:200 -->
+<!-- page:182 -->
 
-<!-- el:start type=prose id=prose_p210 page=201 -->
+<!-- el:start type=prose id=prose_p210 page=183 -->
 <!-- vision: CEFR 2001 PDF page 210 -->
 
 Wray, A. (1999) ‘Formulaic language in learners and native speakers’. Language teaching 32,4. Cambridge, CUP. Wunderlich, D. (ed.) (1972) Linguistische Pragmatik. Frankfurt, Athanäum. Zarate, G. (1986) Enseigner une culture étrangère. Paris, Hachette. (1993) Représentations de l’étranger et didactique des langues. Paris, Hachette.
@@ -6186,11 +6186,11 @@ Chapter 6 Berthoud, A.-C. (ed.) (1996) ‘Acquisition des compétences discursiv
 
 <!-- el:end id=prose_p210 -->
 
-*Page **201***
+*Page **183*****
 
-<!-- page:201 -->
+<!-- page:183 -->
 
-<!-- el:start type=prose id=prose_p211 page=202 -->
+<!-- el:start type=prose id=prose_p211 page=184 -->
 <!-- vision: CEFR 2001 PDF page 211 -->
 
 Grauberg, W. (1997) The elements of foreign language teaching. Clevedon, Multilingual Matters. Hameline, D., (1979) Les objectifs pédagogiques en formation initiale et en formation continué. Paris, E.S.F. Hawkins, E.W. (1987) Modern languages in the curriculum, revised edn. Cambridge, CUP. Hill, J. (1986) Literature in language teaching. London, Macmillan. Holec, H. (1982) Autonomie et apprentissage des langues étrangères. Paris, Hatier. (1981) Autonomy and foreign language learning. Oxford, Pergamon. *(ed.) (1988) Autonomy and self-directed learning: present fields of application (with contributions in English and French). Strasbourg, Council of Europe. Komensky, J.A. (Comenius) (1658) Orbis sensualium pictus. Nuremberg. Kramsch, C. (1993) Context and Culture in Language Teaching. Oxford, OUP. Krashen, S.D. (1982) Principles and practice of second language acquisition. Oxford, Pergamon. Krashen, S.D. & Terrell, T.D. (1983) The natural approach: language acquisition in the classroom. Oxford, Pergamon. Little, D., Devitt, S. & Singleton, D. (1988) Authentic texts in foreign language teaching: theory and practice. Dublin, Authentik. MacKay, W.F. (1965) Language teaching analysis. London, Longman. McDonough, S.H. (1981) Psychology in foreign language teaching. London, Allen & Unwin. Melde, W. (1987) Zur Integration von Landeskunde und Kommunikation im Fremdsprachenunterricht Tübingen, Gunter Narr Verlag. Pêcheur, J. and Viguer, G. (eds.) (1995) Méthodes et méthodologies. Col. Recherches et applications. Paris, Le français dans le monde. Piepho, H.E. (1974) Kommunikative Kompetenz als übergeordnetes Lernziel. München, Frankonius. *Porcher, L. (1980) Reflections on language needs in the school. Strasbourg, Council of Europe. (ed.) (1992) Les auto-apprentissages. Col. Recherches et applications. Paris, Le français dans le monde. Py, B. (ed.) (1994) ‘l’acquisition d’une langue seconde. Quelques développements récents’. Bulletin suisse de linguistique appliquée. VALS/ASLA. Rampillon, U. and Zimmermann, G. (eds.) (1997) Strategien und Techniken beim Erwerb fremder Sprachen. Ismaning, Hueber. Savignon, S.J. (1983) Communicative Competence: Theory and Classroom Practice. Reading (Mass.), Addison-Wesley. *Sheils, J. (1988) Communication in the modern language classroom. Strasbourg, Council of Europe (also available in German, Russian and Lithuanian). Schmidt, R. W. (1990) ‘The Role of Consciousness in Second Language Learning’. Applied Linguistics 11/2, 129–158. Skehan, P. (1987) Individual differences in second language learning. London, Arnold. Spolsky, B. (1989) Conditions for second language learning. Oxford, OUP. Stern, H.H. (1983) Fundamental concepts of language teaching. Oxford, OUP. Stern, H.H. and A. Weinrib (1977) ‘Foreign languages for younger children: trends and assessment’. Language Teaching and Linguistics: Abstracts 10, 5–25. The British Council (1978) The teaching of comprehension. London, British Council. Trim, J.L.M. (1991) ‘Criteria for the evaluation of classroom-based materials for the learning and teaching of languages for communication’. In Grebing, R. Grenzenlöses Sprachenlernen. Festschrift für Reinhold Freudenstein. Berlin, Cornelsen. Williams, E. (1984) Reading in the language classroom. London, Macmillan.
@@ -6199,11 +6199,11 @@ Chapter 7 Jones, K. (1982) Simulations in language teaching. Cambridge, CUP. Nun
 
 <!-- el:end id=prose_p211 -->
 
-*Page **202***
+*Page **184*****
 
-<!-- page:202 -->
+<!-- page:184 -->
 
-<!-- el:start type=prose id=prose_p212 page=203 -->
+<!-- el:start type=prose id=prose_p212 page=185 -->
 <!-- vision: CEFR 2001 PDF page 212 -->
 
 Chapter 8 Breen, M.P. (1987) ‘Contemporary paradigms in syllabus design’, Parts I and II. Language Teaching, vol. 20 nos. 2 & 3, p.81–92 & 157–174. Burstall, C., Jamieson, M. Cohen, S. and Margreaves, M. (1974) Primary French in the balance. Slough, NFER. Clark, J.L. (1987) Curriculum Renewal in School Foreign Language Learning. Oxford, OUP. *Coste, D. (ed.) (1983) Contributions à une rénovation de l’apprentissage et de l’enseignement des languages. Quelques expériences en cours en Europe. Paris, Hatier. Coste, D. and Lehman, D. (1995) ‘Langues et curriculum. Contenus, programmes et parcours’. Etudes de linguistique appliquée, 98. Damen, L. (1987) Culture Learning: the Fifth Dimension in the Language Classroom. Reading, Mass: Addison Wesley. Fitzpatrick, A. (1994) Competence for vocationally oriented language learning: descriptive parameters, organisation and assessment. Doc. CC-LANG 994) 6. Strasbourg, Council of Europe. Johnson, K. (1982) Communicative syllabus design and methodology. Oxford, Pergamon. Labrie, C. (1983) La construction de la Communauté européenne. Paris, Champion. Munby, J. (1972) Communicative syllabus design. Cambridge, CUP. Nunan, D. (1988) The learner-centred curriculum: a study in second language teaching. Cambridge, CUP. Roulet, E. (1980) Langue maternelle et langue seconde. Vers une pédagogie intégrée. Col. L.A.’L’ Paris, Hatier. Schneider, G., North, B., Flügel, Ch. and Koch, L. (1999) Europäisches Sprachenportfolio – Portfolio européen des langues – Portfolio europeo delle lingue – European Language Portfolio, Schweizer Version. Bern EDK. Also available online: http//www.unifr.ch/ids/portfolio. Schweizerische Konferenz der kantonalen Erzeihungsdirektoren EDK (1995) Mehrsprachiges Land – mehrsprachige Schulen. 7. Schweizerisches Forum Langue 2. Dossier 33. Bern, EDK. Vigner, G. (ed.) (1996) ‘Promotion, réforme des langues et systèmes éducatifs’. Etudes de linguistique appliquée, 103. *Wilkins, D. (1987) The educational value of foreign language learning. Doc. CC-GP(87)10. Strasbourg, Council of Europe. Wilkins, D.A. (1976) Notional syllabuses. Oxford, OUP.
@@ -6212,22 +6212,22 @@ Chapter 9 Alderson, J.C., Clapham, C. and Wall, D. (1995) Language Test Construc
 
 <!-- el:end id=prose_p212 -->
 
-*Page **203***
+*Page **185*****
 
-<!-- page:203 -->
+<!-- page:185 -->
 
-<!-- el:start type=prose id=prose_p213 page=204 -->
+<!-- el:start type=prose id=prose_p213 page=186 -->
 <!-- vision: CEFR 2001 PDF page 213 -->
 
 Reid, J. (2000) Assessing Vocabulary. (Cambridge Language Assessment Series, eds. J.C. Alderson and L.F. Bachman). Cambridge, CUP. Tagliante, C. (ed.) (1991) L’évaluation. Paris, CLE International. University of Cambridge Local Examinations Syndicate (1998) The multilingual glossary of language testing terms (Studies in language testing 6). Cambridge, CUP.
 
 <!-- el:end id=prose_p213 -->
 
-*Page **204***
+*Page **186*****
 
-<!-- page:204 -->
+<!-- page:186 -->
 
-<!-- el:start type=prose id=prose_p214 page=205 -->
+<!-- el:start type=prose id=prose_p214 page=187 -->
 <!-- vision: CEFR 2001 PDF page 214 -->
 
 This appendix discusses technical aspects of describing levels of language attainment. Criteria for descriptor formulation are discussed. Methodologies for scale development are then listed, and an annotated bibliography is provided.
@@ -6251,16 +6251,16 @@ chance to get help with formulating what he/she wants to say. Often these points
 
 <!-- el:end id=prose_p214 -->
 
-*Page **205***
+*Page **187*****
 
-<!-- page:205 -->
+<!-- page:187 -->
 
-<!-- el:start type=prose id=prose_p215 page=206 -->
+<!-- el:start type=prose id=prose_p215 page=188 -->
 <!-- vision: CEFR 2001 PDF page 215 -->
 
 Table A1. Assessment: positive and negative criteria
 
-<!-- el:start type=table id=cefr2001_p215_t0 page=206 -->
+<!-- el:start type=table id=cefr2001_p215_t0 page=188 -->
 | Positive | Negative |
 | --- | --- |
 | • has a repertoire of basic language and | • has a narrow language repertoire, |
@@ -6297,11 +6297,11 @@ Secondly, since the 1940s, it has been a principle that distinctions between ste
 
 <!-- el:end id=prose_p215 -->
 
-*Page **206***
+*Page **188*****
 
-<!-- page:206 -->
+<!-- page:188 -->
 
-<!-- el:start type=prose id=prose_p216 page=207 -->
+<!-- el:start type=prose id=prose_p216 page=189 -->
 <!-- vision: CEFR 2001 PDF page 216 -->
 
 comprehensibly covers what are felt to be the major features. Such scales achieve ‘definiteness’ by a very comprehensive listing which is intended to transmit a detailed portrait of what raters can recognise as a typical learner at the level concerned, and are as a result very rich sources of description. There are two disadvantages to such an approach however. Firstly, no individual is actually ‘typical’. Detailed features co-occur in different ways. Secondly, a descriptor which is longer than a two clause sentence cannot realistically be referred to during the assessment process. Teachers consistently seem to prefer short descriptors. In the project which produced the illustrative descriptors, teachers tended to reject or split descriptors longer than about 25 words (approximately two lines of normal type).
@@ -6324,11 +6324,11 @@ The existence of a series of levels presupposes that certain things can be place
 
 <!-- el:end id=prose_p216 -->
 
-*Page **207***
+*Page **189*****
 
-<!-- page:207 -->
+<!-- page:189 -->
 
-<!-- el:start type=prose id=prose_p217 page=208 -->
+<!-- el:start type=prose id=prose_p217 page=190 -->
 <!-- vision: CEFR 2001 PDF page 217 -->
 
 Starting with descriptors: One starting point is to consider what you wish to describe, and then write, collect or edit draft descriptors for the categories concerned as input to the qualitative phase. Methods 4 and 9, the first and last in the qualitative group below, are examples of this approach. It is particularly suitable for developing descriptors for curriculum-related categories such as communicative language activities, but can also be used to develop descriptors for aspects of competence. The advantage of starting with categories and descriptors is that a theoretically balanced coverage can be defined.
@@ -6349,11 +6349,11 @@ No 3. Experiential: As committee, but the process lasts a considerable time with
 
 <!-- el:end id=prose_p217 -->
 
-*Page **208***
+*Page **190*****
 
-<!-- page:208 -->
+<!-- page:190 -->
 
-<!-- el:start type=prose id=prose_p218 page=209 -->
+<!-- el:start type=prose id=prose_p218 page=191 -->
 <!-- vision: CEFR 2001 PDF page 218 -->
 
 the criteria. Systematic piloting and feedback may follow in order to refine the wording. Groups of raters may discuss performances in relation to the definitions, and the definitions in relation to sample performances. This is the traditional way proficiency scales have been developed (Wilds 1975; Ingram 1985; Liskin-Gasparro 1984; Lowe 1985, 1986).
@@ -6375,11 +6375,11 @@ No 7. Binary decisions: Another variant of the primary trait method is to first 
 
 <!-- el:end id=prose_p218 -->
 
-*Page **209***
+*Page **191*****
 
-<!-- page:209 -->
+<!-- page:191 -->
 
-<!-- el:start type=prose id=prose_p219 page=210 -->
+<!-- el:start type=prose id=prose_p219 page=192 -->
 <!-- vision: CEFR 2001 PDF page 219 -->
 
 However, the feature concerned is then formulated as a short criterion question with a Yes/No answer. A tree of binary choices is thus built up. This offers the assessor an algorithm of decisions to follow (Upshur and Turner 1995).
@@ -6400,16 +6400,16 @@ No 12. Item response theory (IRT) or ‘latent trait’ analysis: IRT offers a f
 
 <!-- el:end id=prose_p219 -->
 
-*Page **210***
+*Page **192*****
 
-<!-- page:210 -->
+<!-- page:192 -->
 
-<!-- el:start type=prose id=prose_p220 page=211 -->
+<!-- el:start type=prose id=prose_p220 page=193 -->
 <!-- vision: CEFR 2001 PDF page 220 -->
 
 approach allows it to be used to scale descriptors of communicative proficiency as well as test items. In a Rasch analysis, different tests or questionnaires can be formed into an overlapping chain through the employment of ‘anchor items’, which are common to adjacent forms. In the diagram below, the anchor items are shaded grey. In this way, forms can be targeted to particular groups of learners, yet linked into a common scale. Care must, however, be taken in this process, since the model distorts results for the high scores and low scores on each form.
 
-<!-- el:start type=table id=cefr2001_p220_t0 page=211 -->
+<!-- el:start type=table id=cefr2001_p220_t0 page=193 -->
 | Test B |  |  |  | Test C |
 | --- | --- | --- | --- | --- |
 |  |  | Test B |  |  |
@@ -6422,11 +6422,11 @@ No 12. In addition to its usefulness in the development of a scale, Rasch can al
 
 <!-- el:end id=prose_p220 -->
 
-*Page **211***
+*Page **193*****
 
-<!-- page:211 -->
+<!-- page:193 -->
 
-<!-- el:start type=prose id=prose_p221 page=212 -->
+<!-- el:start type=prose id=prose_p221 page=194 -->
 <!-- vision: CEFR 2001 PDF page 221 -->
 
 > Users of the Framework may wish to consider and where appropriate state:
@@ -6457,11 +6457,11 @@ Fulcher 1996: Does thick description lead to Systematic approach to descriptor a
 
 <!-- el:end id=prose_p221 -->
 
-*Page **212***
+*Page **194*****
 
-<!-- page:212 -->
+<!-- page:194 -->
 
-<!-- el:start type=prose id=prose_p222 page=213 -->
+<!-- el:start type=prose id=prose_p222 page=195 -->
 <!-- vision: CEFR 2001 PDF page 222 -->
 
 Gipps, C. 1994: Beyond testing. London, Falmer Promotion of teacher ‘standards-oriented Press. assessment’ in relation to common reference points built up by networking. Discussion of problems caused by vague descriptors in the English National Curriculum. Cross-curricula.
@@ -6484,11 +6484,11 @@ Milanovic, M., Saville, N., Pollitt, A. and Classic account of the use of Rasch 
 
 <!-- el:end id=prose_p222 -->
 
-*Page **213***
+*Page **195*****
 
-<!-- page:213 -->
+<!-- page:195 -->
 
-<!-- el:start type=prose id=prose_p223 page=214 -->
+<!-- el:start type=prose id=prose_p223 page=196 -->
 <!-- vision: CEFR 2001 PDF page 223 -->
 
 Mullis, I.V.S. 1981: Using the primary trait system Classic account of the primary trait methodology in for evaluating writing. Manuscript No. 10-W-51. mother tongue writing to develop an assessment Princeton N.J.: Educational Testing Service. scale.
@@ -6511,11 +6511,11 @@ Scarino, A. 1997: Analysing the language of As above. frameworks of outcomes for
 
 <!-- el:end id=prose_p223 -->
 
-*Page **214***
+*Page **196*****
 
-<!-- page:214 -->
+<!-- page:196 -->
 
-<!-- el:start type=prose id=prose_p224 page=215 -->
+<!-- el:start type=prose id=prose_p224 page=197 -->
 <!-- vision: CEFR 2001 PDF page 224 -->
 
 Schneider, G and North, B. 1999: ‘In anderen Short report on the project which produced the Sprachen kann ich’ . . . Skalen zur Beschreibung, illustrative scales. Also introduces Swiss version of Beurteilung und Selbsteinschätzung der the Portfolio (40 page A5). fremdsprachlichen Kommunikationsfähigkeit. Bern/Aarau: NFP 33/SKBF (Umsetzungsbericht).
@@ -6536,11 +6536,11 @@ Tyndall, B. and Kenyon, D. 1996: Validation of a Simple account of the validatio
 
 <!-- el:end id=prose_p224 -->
 
-*Page **215***
+*Page **197*****
 
-<!-- page:215 -->
+<!-- page:197 -->
 
-<!-- el:start type=prose id=prose_p225 page=216 -->
+<!-- el:start type=prose id=prose_p225 page=198 -->
 <!-- vision: CEFR 2001 PDF page 225 -->
 
 Upshur, J. and Turner, C. 1995: Constructing Sophisticated further development of the primary rating scales for second language tests. English trait technique to produce charts of binary decisions. Language Teaching Journal 49 (1), 3–12. Very relevant to school sector.
@@ -6549,11 +6549,11 @@ Wilds, C.P. 1975: The oral interview test. In: The original coming out of the or
 
 <!-- el:end id=prose_p225 -->
 
-*Page **216***
+*Page **198*****
 
-<!-- page:216 -->
+<!-- page:198 -->
 
-<!-- el:start type=prose id=prose_p226 page=217 -->
+<!-- el:start type=prose id=prose_p226 page=199 -->
 <!-- vision: CEFR 2001 PDF page 226 -->
 
 This appendix contains a description of the Swiss project which developed the illustrative descriptors for the CEF. Categories scaled are also listed, with references to the pages where they can be found in the main document. The descriptors in this project were scaled and used to create the CEF levels with Method No 12c (Rasch modelling) outlined at the end of Appendix A.
@@ -6564,7 +6564,7 @@ This appendix contains a description of the Swiss project which developed the il
 
 The scales of descriptors included in Chapters 3, 4 and 5 have been drawn up on the basis of the results of a Swiss National Science Research Council project which took place between 1993 and 1996. This project was undertaken as a follow-up to the 1991 Rüschlikon Symposium. The aim was to develop transparent statements of proficiency of different aspects of the CEF descriptive scheme, which might also contribute to the development of a European Language Portfolio. A 1994 survey concentrated on Interaction and Production and was confined to English as a Foreign Language and to teacher assessment. A 1995 survey was a partial replication of the 1994 study, with the addition of Reception, but French and German proficiency were surveyed as well as English. Self-assessment and some examination information (Cambridge; Goethe; DELF/DALF) were also added to the teacher assessment. Altogether almost 300 teachers and some 2,800 learners representing approximately 500 classes were involved in the two surveys. Learners from lower secondary, upper secondary, vocational and adult education, were represented in the following proportions: Teachers from the GermanFrenchItalianand Romansch-speaking language regions of Switzerland were involved, though the numbers involved from the Italianand
 
-<!-- el:start type=table id=cefr2001_p226_t0 page=217 -->
+<!-- el:start type=table id=cefr2001_p226_t0 page=199 -->
 |  | Lower secondary | Upper secondary | Vocational | Adult |
 | --- | --- | --- | --- | --- |
 | 1994 | 35% | 19% | 15% | 31% |
@@ -6575,11 +6575,11 @@ The scales of descriptors included in Chapters 3, 4 and 5 have been drawn up on 
 
 <!-- el:end id=prose_p226 -->
 
-*Page **217***
+*Page **199*****
 
-<!-- page:217 -->
+<!-- page:199 -->
 
-<!-- el:start type=prose id=prose_p227 page=218 -->
+<!-- el:start type=prose id=prose_p227 page=200 -->
 <!-- vision: CEFR 2001 PDF page 227 -->
 
 Romansch-speaking regions was very limited. In each year about a quarter of the teachers were teaching their mother tongue. Teachers completed questionnaires in the target language. Thus in 1994 the descriptors were used just in English, whilst in 1995 they were completed in English, French and German.
@@ -6604,11 +6604,11 @@ a) sorting descriptors into categories they purported to describe; (b) making qu
 
 <!-- el:end id=prose_p227 -->
 
-*Page **218***
+*Page **200*****
 
-<!-- page:218 -->
+<!-- page:200 -->
 
-<!-- el:start type=prose id=prose_p228 page=219 -->
+<!-- el:start type=prose id=prose_p228 page=201 -->
 <!-- vision: CEFR 2001 PDF page 228 -->
 
 descriptors in relation to different educational sectors, language regions and target languages in order to identify descriptors with a very high stability of values across different contexts to use in constructing holistic scales summarising the Common Reference Levels. 7. Performance assessment by all participating teachers of videos of some of the learners in the survey. The aim of this assessment was to quantify differences in severity of participating teachers in order to take such variation in severity into account in identifying the range of achievement in educational sectors in Switzerland.
@@ -6639,11 +6639,11 @@ Scaling descriptors for different skills and for different kinds of competences 
 
 <!-- el:end id=prose_p228 -->
 
-*Page **219***
+*Page **201*****
 
-<!-- page:219 -->
+<!-- page:201 -->
 
-<!-- el:start type=prose id=prose_p229 page=220 -->
+<!-- el:start type=prose id=prose_p229 page=202 -->
 <!-- vision: CEFR 2001 PDF page 229 -->
 
 a)
@@ -6680,11 +6680,11 @@ Reading proved to be on a separate measurement dimension to spoken interaction a
 
 <!-- el:end id=prose_p229 -->
 
-*Page **220***
+*Page **202*****
 
-<!-- page:220 -->
+<!-- page:202 -->
 
-<!-- el:start type=prose id=prose_p230 page=221 -->
+<!-- el:start type=prose id=prose_p230 page=203 -->
 <!-- vision: CEFR 2001 PDF page 230 -->
 
 have a stricter interpretation of the word ‘understand’ at advanced levels, particularly with regard to literature.
@@ -6723,16 +6723,16 @@ In addition to the tables used in Chapter 3 to summarise the Common Reference Le
 
 <!-- el:end id=prose_p230 -->
 
-*Page **221***
+*Page **203*****
 
-<!-- page:221 -->
+<!-- page:203 -->
 
-<!-- el:start type=prose id=prose_p231 page=222 -->
+<!-- el:start type=prose id=prose_p231 page=204 -->
 <!-- vision: CEFR 2001 PDF page 231 -->
 
 ### Document B1 Illustrative scales in Chapter 4: Communicative activities
 
-<!-- el:start type=table id=cefr2001_p231_t0 page=222 -->
+<!-- el:start type=table id=cefr2001_p231_t0 page=204 -->
 | Domain | Mode | Scales |
 | --- | --- | --- |
 | **RECEPTION** | Spoken | • Overall listening comprehension<br>• Understanding Interaction between native speakers<br>• Listening as a member of a live audience<br>• Listening to announcements and instructions<br>• Listening to radio & audio recordings |
@@ -6746,7 +6746,7 @@ In addition to the tables used in Chapter 3 to summarise the Common Reference Le
 
 ### Document B2 Illustrative scales in Chapter 4: Communication strategies
 
-<!-- el:start type=table id=cefr2001_p231_t1 page=222 -->
+<!-- el:start type=table id=cefr2001_p231_t1 page=204 -->
 | Strategy area | Scales |
 | --- | --- |
 | **RECEPTION** | • Identifying cues and inferring |
@@ -6756,16 +6756,16 @@ In addition to the tables used in Chapter 3 to summarise the Common Reference Le
 
 <!-- el:end id=prose_p231 -->
 
-*Page **222***
+*Page **204*****
 
-<!-- page:222 -->
+<!-- page:204 -->
 
-<!-- el:start type=prose id=prose_p232 page=223 -->
+<!-- el:start type=prose id=prose_p232 page=205 -->
 <!-- vision: CEFR 2001 PDF page 232 -->
 
 ### Document B3 Illustrative scales in Chapter 4: Working with text
 
-<!-- el:start type=table id=cefr2001_p232_t0 page=223 -->
+<!-- el:start type=table id=cefr2001_p232_t0 page=205 -->
 | Category | Scales |
 | --- | --- |
 | **TEXT** | • Note taking in seminars and lectures<br>• Processing text |
@@ -6773,7 +6773,7 @@ In addition to the tables used in Chapter 3 to summarise the Common Reference Le
 
 ### Document B4 Illustrative scales in Chapter 5: Communicative language competence
 
-<!-- el:start type=table id=cefr2001_p232_t1 page=223 -->
+<!-- el:start type=table id=cefr2001_p232_t1 page=205 -->
 | Competence | Sub-area | Scales |
 | --- | --- | --- |
 | **LINGUISTIC** | Range: | • General range<br>• Vocabulary range |
@@ -6790,14 +6790,14 @@ The charts below compare the way topics are treated in those three areas. Althou
 
 <!-- el:end id=prose_p232 -->
 
-*Page **223***
+*Page **205*****
 
-<!-- page:223 -->
+<!-- page:205 -->
 
-<!-- el:start type=prose id=prose_p233 page=224 -->
+<!-- el:start type=prose id=prose_p233 page=206 -->
 <!-- vision: CEFR 2001 PDF page 233 -->
 
-<!-- el:start type=table id=cefr2001_p233_t0 page=224 -->
+<!-- el:start type=table id=cefr2001_p233_t0 page=206 -->
 | | A1 | A2 | | B1 | | B2 | C1 | C2 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **DESCRIBING & NARRATING:** | • where they live | • people, appearance<br>• background, job<br>• places & living conditions | • objects, pets, possessions<br>• events & activities<br>• likes/dislikes<br>• plans/arrangements<br>• habits/routines<br>• personal experience | • plot of book/film<br>• experiences<br>• reactions to both<br>• dreams, hopes, ambitions<br>• tell a story | • basic details of unpredictable occurrences e.g. accident | | • clear detailed description of complex subjects | |
@@ -6822,11 +6822,11 @@ The charts below compare the way topics are treated in those three areas. Althou
 
 <!-- el:end id=prose_p233 -->
 
-*Page **224***
+*Page **206*****
 
-<!-- page:224 -->
+<!-- page:206 -->
 
-<!-- el:start type=prose id=prose_p234 page=225 -->
+<!-- el:start type=prose id=prose_p234 page=207 -->
 <!-- vision: CEFR 2001 PDF page 234 -->
 
 - Eurocentres/ELTDU Scale of Business English 1991
@@ -6873,11 +6873,11 @@ in English 1990
 
 <!-- el:end id=prose_p234 -->
 
-*Page **225***
+*Page **207*****
 
-<!-- page:225 -->
+<!-- page:207 -->
 
-<!-- el:start type=prose id=prose_p235 page=226 -->
+<!-- el:start type=prose id=prose_p235 page=208 -->
 <!-- vision: CEFR 2001 PDF page 235 -->
 
 This appendix contains a description of the DIALANG language assessment system which is an application for diagnostic purposes of the Common European Framework (CEF). The focus here is on the self-assessment statements used in the system and on the calibration study carried out on them as part of the development of the system. Two related descriptive scales, which are based on the CEF and used in reporting and explaining the diagnostic results to the learners, are also included. The descriptors in this project were scaled and equated to the CEF levels with Method No 12c (Rasch modelling) outlined at the end of Appendix A.
@@ -6894,11 +6894,11 @@ DIALANG is aimed at adults who want to know their level of language proficiency 
 
 <!-- el:end id=prose_p235 -->
 
-*Page **226***
+*Page **208*****
 
-<!-- page:226 -->
+<!-- page:208 -->
 
-<!-- el:start type=prose id=prose_p236 page=227 -->
+<!-- el:start type=prose id=prose_p236 page=209 -->
 <!-- vision: CEFR 2001 PDF page 236 -->
 
 The primary users of the system will be individual learners who study languages independently or on formal language courses. However, language teachers may also find many of the features of the system useful for their purposes.
@@ -6913,11 +6913,11 @@ Self-assessment (SA) statements are used for two reasons in the DIALANG system. 
 
 <!-- el:end id=prose_p236 -->
 
-*Page **227***
+*Page **209*****
 
-<!-- page:227 -->
+<!-- page:209 -->
 
-<!-- el:start type=prose id=prose_p237 page=228 -->
+<!-- el:start type=prose id=prose_p237 page=210 -->
 <!-- vision: CEFR 2001 PDF page 237 -->
 
 ### The DIALANG self-assessment scales
@@ -6940,11 +6940,11 @@ So far, the DIALANG project has carried out one calibration study on the selfass
 
 <!-- el:end id=prose_p237 -->
 
-*Page **228***
+*Page **210*****
 
-<!-- page:228 -->
+<!-- page:210 -->
 
-<!-- el:start type=prose id=prose_p238 page=229 -->
+<!-- el:start type=prose id=prose_p238 page=211 -->
 <!-- vision: CEFR 2001 PDF page 238 -->
 
 items, statements, etc. is determined statistically and a scale is constructed of them.) The calibration was based on a sample of 304 subjects (complete test design) who also took a number of DIALANG tests in Finnish. The SA-statements were presented to them either in Swedish (for 250 subjects whose mother tongue was Swedish) or in English. In addition, most subjects could consult the Finnish language version of the statements.2 The data was analysed with the OPLM programme (Verhelst et al. 1985; Verhelst and Glass 1995).3 The results of the analysis were very good: over 90% of the statements could be scaled (i.e. they ‘fitted’ the statistical model used). The three self-assessment scales which were constructed on the basis of the calibration of the statements were very homogeneous, as indicated by the high reliability indices (Cronbach’s alpha): .91 for reading, .93 for listening and .94 for writing.4 Similar calibration studies will be carried out when the other 13 languages are piloted, following the approach developed by the Data Analysis Group. They will show to what extent the excellent results of the first study can be replicated and whether there is any tendency for some statements to be consistently better than the others, for self-assessment purposes. Although the first calibration study is only one study, it is important to note that it tells about the quality of more than one language version of the SA statements in DIALANG. This is because most of the learners studied could choose any, even all, of the three versions (Swedish, English or Finnish) when completing the self-assessment part, although most of them probably relied on the Swedish one. Because of the careful translation procedure, we can safely assume that the SA statements are largely equivalent across the languages – an assumption which will obviously be tested as part of the other calibration studies. Additional evidence for the quality of the DIALANG self-assessment scales – and for the CEF scales – was obtained by Dr Kaftandjieva by correlating the difficulty values of the statements in this study with the values for the same statements obtained by North (1996/2000) in a different context. The correlation was found to be very high (.83), or even .897, if one strangely behaving statement is excluded. Document C1 presents the 107 self-assessment statements for reading, listening and writing which survived the calibration study based on Finnish data. The statements in each table are ordered in terms of difficulty from the easiest to the hardest. Statements which were not taken from the Framework are in italics.
@@ -6955,11 +6955,11 @@ In addition to the self-assessment statements, DIALANG uses two sets of descript
 
 <!-- el:end id=prose_p238 -->
 
-*Page **229***
+*Page **211*****
 
-<!-- page:229 -->
+<!-- page:211 -->
 
-<!-- el:start type=prose id=prose_p239 page=230 -->
+<!-- el:start type=prose id=prose_p239 page=212 -->
 <!-- vision: CEFR 2001 PDF page 239 -->
 
 - the more concise version accompanies the test score,
@@ -6979,18 +6979,18 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p239 -->
 
-*Page **230***
+*Page **212*****
 
-<!-- page:230 -->
+<!-- page:212 -->
 
-<!-- el:start type=prose id=prose_p240 page=231 -->
+<!-- el:start type=prose id=prose_p240 page=213 -->
 <!-- vision: CEFR 2001 PDF page 240 -->
 
 ### Document C1
 
 ### DIALANG self-assessment statements
 
-<!-- el:start type=table id=cefr2001_p240_t0 page=231 -->
+<!-- el:start type=table id=cefr2001_p240_t0 page=213 -->
 | CEF Level | READING |
 | --- | --- |
 | A1 | I can understand the general idea of simple informational texts and short simple descriptions, especially if they contain pictures which help to explain the text. |
@@ -7029,14 +7029,14 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p240 -->
 
-*Page **231***
+*Page **213*****
 
-<!-- page:231 -->
+<!-- page:213 -->
 
-<!-- el:start type=prose id=prose_p241 page=232 -->
+<!-- el:start type=prose id=prose_p241 page=214 -->
 <!-- vision: CEFR 2001 PDF page 241 -->
 
-<!-- el:start type=table id=cefr2001_p241_t0 page=232 -->
+<!-- el:start type=table id=cefr2001_p241_t0 page=214 -->
 | CEF Level | WRITING |
 | --- | --- |
 | A1 | I can write simple notes to friends. |
@@ -7076,14 +7076,14 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p241 -->
 
-*Page **232***
+*Page **214*****
 
-<!-- page:232 -->
+<!-- page:214 -->
 
-<!-- el:start type=prose id=prose_p242 page=233 -->
+<!-- el:start type=prose id=prose_p242 page=215 -->
 <!-- vision: CEFR 2001 PDF page 242 -->
 
-<!-- el:start type=table id=cefr2001_p242_t0 page=233 -->
+<!-- el:start type=table id=cefr2001_p242_t0 page=215 -->
 | CEF Level | LISTENING |
 | --- | --- |
 | A1 | I can understand everyday expressions dealing with simple and concrete everyday needs, in clear, slow and repeated speech. |
@@ -7114,14 +7114,14 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p242 -->
 
-*Page **233***
+*Page **215*****
 
-<!-- page:233 -->
+<!-- page:215 -->
 
-<!-- el:start type=prose id=prose_p243 page=234 -->
+<!-- el:start type=prose id=prose_p243 page=216 -->
 <!-- vision: CEFR 2001 PDF page 243 -->
 
-<!-- el:start type=table id=cefr2001_p243_t0 page=234 -->
+<!-- el:start type=table id=cefr2001_p243_t0 page=216 -->
 | CEF Level | LISTENING (continued) |
 | --- | --- |
 | B2 | I can understand in detail what is said to me in the standard spoken language. I can do this even when there is some noise in the background. |
@@ -7147,18 +7147,18 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p243 -->
 
-*Page **234***
+*Page **216*****
 
-<!-- page:234 -->
+<!-- page:216 -->
 
-<!-- el:start type=prose id=prose_p244 page=235 -->
+<!-- el:start type=prose id=prose_p244 page=217 -->
 <!-- vision: CEFR 2001 PDF page 244 -->
 
 ### Document C2
 
 ### The overall (concise) scales for reporting DIALANG scores
 
-<!-- el:start type=table id=cefr2001_p244_t0 page=235 -->
+<!-- el:start type=table id=cefr2001_p244_t0 page=217 -->
 | CEF Level | READING |
 | --- | --- |
 | A1 | Your test result suggests that you are at or below level A1 in reading on the Council of Europe scale. At this level people can understand very simple sentences, for example on notices and posters or in catalogues. |
@@ -7171,14 +7171,14 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p244 -->
 
-*Page **235***
+*Page **217*****
 
-<!-- page:235 -->
+<!-- page:217 -->
 
-<!-- el:start type=prose id=prose_p245 page=236 -->
+<!-- el:start type=prose id=prose_p245 page=218 -->
 <!-- vision: CEFR 2001 PDF page 245 -->
 
-<!-- el:start type=table id=cefr2001_p245_t0 page=236 -->
+<!-- el:start type=table id=cefr2001_p245_t0 page=218 -->
 | CEF Level | WRITING |
 | --- | --- |
 | A1 | Your test result suggests that you are at level A1 in writing on the Council of Europe scale. At this level, people can write a short simple postcard, for example sending holiday greetings. They can fill in forms with personal details, for example writing their name, nationality and address on a hotel registration form. |
@@ -7191,14 +7191,14 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p245 -->
 
-*Page **236***
+*Page **218*****
 
-<!-- page:236 -->
+<!-- page:218 -->
 
-<!-- el:start type=prose id=prose_p246 page=237 -->
+<!-- el:start type=prose id=prose_p246 page=219 -->
 <!-- vision: CEFR 2001 PDF page 246 -->
 
-<!-- el:start type=table id=cefr2001_p246_t0 page=237 -->
+<!-- el:start type=table id=cefr2001_p246_t0 page=219 -->
 | CEF Level | LISTENING |
 | --- | --- |
 | A1 | Your test result suggests that you are at or below level A1 in listening on the Council of Europe scale. At this level, people can understand very simple phrases about themselves, people they know and things around them, when people speak slowly and clearly. |
@@ -7211,11 +7211,11 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p246 -->
 
-*Page **237***
+*Page **219*****
 
-<!-- page:237 -->
+<!-- page:219 -->
 
-<!-- el:start type=prose id=prose_p247 page=238 -->
+<!-- el:start type=prose id=prose_p247 page=220 -->
 <!-- vision: CEFR 2001 PDF page 247 -->
 <!-- multipage-table: Document C3 READING elaborated scales pages=247-248 -->
 
@@ -7231,17 +7231,17 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p247 -->
 
-*Page **238***
+*Page **220*****
 
-<!-- page:238 -->
+<!-- page:220 -->
 
-<!-- el:start type=prose id=prose_p248 page=239 -->
+<!-- el:start type=prose id=prose_p248 page=221 -->
 <!-- vision: CEFR 2001 PDF page 248 -->
 <!-- multipage-table-continuation: Document C3 READING elaborated scales (full stitched table on page 247) -->
 
 *Continuation of Document C3 READING table (B2–C2 columns; full stitched table: page 247).*
 
-<!-- el:start type=table id=cefr2001_p248_t0 page=239 -->
+<!-- el:start type=table id=cefr2001_p248_t0 page=221 -->
 | **READING** (cont.) | **B2** | **C1** | **C2** |
 | --- | --- | --- | --- |
 | **What types of text I understand** | Correspondence relating to my field of interest. Longer texts, including specialised articles outside my field and highly specialised sources within my field. Articles and reports on contemporary problems with particular viewpoints. | Wide range of long, complex texts from social, professional or academic life. Complex instructions on a new unfamiliar machine or procedure outside my area. | Wide range of long and complex texts – practically all forms of written language. Abstract, structurally complex, or highly colloquial literary and non-literary writings. |
@@ -7251,11 +7251,11 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p248 -->
 
-*Page **239***
+*Page **221*****
 
-<!-- page:239 -->
+<!-- page:221 -->
 
-<!-- el:start type=prose id=prose_p249 page=240 -->
+<!-- el:start type=prose id=prose_p249 page=222 -->
 <!-- vision: CEFR 2001 PDF page 249 -->
 <!-- multipage-table: Document C3 WRITING elaborated scales pages=249-250 -->
 
@@ -7269,17 +7269,17 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p249 -->
 
-*Page **240***
+*Page **222*****
 
-<!-- page:240 -->
+<!-- page:222 -->
 
-<!-- el:start type=prose id=prose_p250 page=241 -->
+<!-- el:start type=prose id=prose_p250 page=223 -->
 <!-- vision: CEFR 2001 PDF page 250 -->
 <!-- multipage-table-continuation: Document C3 WRITING (full stitched table on page 249) -->
 
 *Continuation of Document C3 WRITING table (B2–C2 columns; full stitched table: page 249).*
 
-<!-- el:start type=table id=cefr2001_p250_t0 page=241 -->
+<!-- el:start type=table id=cefr2001_p250_t0 page=223 -->
 | **WRITING** (cont.) | **B2** | **C1** | **C2** |
 | --- | --- | --- | --- |
 | **What types of text I can write** | Can write a variety of different texts. | Can write a variety of different texts. Can express oneself with clarity and precision, using language flexibly and effectively. | Can write a variety of different texts. Can convey finer shades of meaning precisely. Can write persuasively. |
@@ -7289,11 +7289,11 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p250 -->
 
-*Page **241***
+*Page **223*****
 
-<!-- page:241 -->
+<!-- page:223 -->
 
-<!-- el:start type=prose id=prose_p251 page=242 -->
+<!-- el:start type=prose id=prose_p251 page=224 -->
 <!-- vision: CEFR 2001 PDF page 251 -->
 <!-- multipage-table: Document C3 LISTENING elaborated scales pages=251-252 -->
 
@@ -7307,17 +7307,17 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p251 -->
 
-*Page **242***
+*Page **224*****
 
-<!-- page:242 -->
+<!-- page:224 -->
 
-<!-- el:start type=prose id=prose_p252 page=243 -->
+<!-- el:start type=prose id=prose_p252 page=225 -->
 <!-- vision: CEFR 2001 PDF page 252 -->
 <!-- multipage-table-continuation: Document C3 LISTENING (full stitched table on page 251) -->
 
 *Continuation of Document C3 LISTENING table (B2–C2 columns; full stitched table: page 251).*
 
-<!-- el:start type=table id=cefr2001_p252_t0 page=243 -->
+<!-- el:start type=table id=cefr2001_p252_t0 page=225 -->
 | **LISTENING** (cont.) | **B2** | **C1** | **C2** |
 | --- | --- | --- | --- |
 | **What types of text I understand** | All kinds of speech on familiar matters. Lectures. Programmes in the media and films. Examples: technical discussions, reports, live interviews. | Spoken language in general. Lectures, discussions and debates. Public announcements. Complex technical information. Recorded audio material and films. Examples: native-speaker conversations. | Any spoken language, live or broadcast. Specialised lectures and presentations. |
@@ -7327,11 +7327,11 @@ Huhta, A., S. Luoma, M. Oscarson, K. Sajavaara, S. Takala, and A. Teasdale (fort
 
 <!-- el:end id=prose_p252 -->
 
-*Page **243***
+*Page **225*****
 
-<!-- page:243 -->
+<!-- page:225 -->
 
-<!-- el:start type=prose id=prose_p253 page=244 -->
+<!-- el:start type=prose id=prose_p253 page=226 -->
 <!-- vision: CEFR 2001 PDF page 253 -->
 
 This appendix contains a description of the ALTE ‘Can Do’ statements, which form part of a long-term research project being undertaken by the Association of Language Testers in Europe (ALTE). The purposes and nature of the ‘Can Do’ statements are described. An account is then given of the way the statements were developed, related to ALTE examinations, and anchored to the CEF. The descriptors in this project were scaled and equated to the CEF levels with method number 12c (Rasch modelling) outlined in Appendix A.
@@ -7350,11 +7350,11 @@ a) a useful tool for those involved in teaching and testing language students. T
 
 <!-- el:end id=prose_p253 -->
 
-*Page **244***
+*Page **226*****
 
-<!-- page:244 -->
+<!-- page:226 -->
 
-<!-- el:start type=prose id=prose_p254 page=245 -->
+<!-- el:start type=prose id=prose_p254 page=227 -->
 <!-- vision: CEFR 2001 PDF page 254 -->
 
 b) a basis for developing diagnostic test tasks, activity-based curricula and teaching materials;
@@ -7380,11 +7380,11 @@ b) using this information to specify range of candidate needs and identify major
 
 <!-- el:end id=prose_p254 -->
 
-*Page **245***
+*Page **227*****
 
-<!-- page:245 -->
+<!-- page:227 -->
 
-<!-- el:start type=prose id=prose_p255 page=246 -->
+<!-- el:start type=prose id=prose_p255 page=228 -->
 <!-- vision: CEFR 2001 PDF page 255 -->
 
 c) using test specifications and internationally recognised levels such as Waystage and Threshold to draw up initial statements;
@@ -7400,11 +7400,11 @@ Questionnaires have been administered in the subjects’ own first language, exc
 
 <!-- el:end id=prose_p255 -->
 
-*Page **246***
+*Page **228*****
 
-<!-- page:246 -->
+<!-- page:228 -->
 
-<!-- el:start type=prose id=prose_p256 page=247 -->
+<!-- el:start type=prose id=prose_p256 page=229 -->
 <!-- vision: CEFR 2001 PDF page 256 -->
 
 ### Textual revision
@@ -7428,11 +7428,11 @@ Following the initial calibration of the ‘Can Do’ statements, and the textua
 
 <!-- el:end id=prose_p256 -->
 
-*Page **247***
+*Page **229*****
 
-<!-- page:247 -->
+<!-- page:229 -->
 
-<!-- el:start type=prose id=prose_p257 page=248 -->
+<!-- el:start type=prose id=prose_p257 page=230 -->
 <!-- vision: CEFR 2001 PDF page 257 -->
 
 The figure of 80 per cent has been chosen, as an 80 per cent score is frequently used in domainor criterion-referenced testing as an indication of mastery in a given domain. Thus, candidates achieving an ordinary pass in an ALTE exam at a given level should have an 80 per cent chance of succeeding on tasks identified as describing that level. Data so far collected on Cambridge exam candidates indicate that this figure accords well with their average probability of endorsing ‘Can Do’ statements at the relevant level. This relationship has been found to be fairly constant across exam levels. By defining ‘can do’ explicitly in this way we have a basis for interpreting particular ALTE levels in terms of ‘Can Do’ skills. While the relation to exam performance has so far been based on Cambridge exams, data linking ‘Can Do’ statements to performance in other ALTE examinations will continue to be collected, allowing us to verify that these different examination systems relate in essentially the same way to the ALTE 5-level Framework.
@@ -7445,11 +7445,11 @@ Table 2 was chosen because in practice it is achieving wide use as a summary des
 
 <!-- el:end id=prose_p257 -->
 
-*Page **248***
+*Page **230*****
 
-<!-- page:248 -->
+<!-- page:230 -->
 
-<!-- el:start type=prose id=prose_p258 page=249 -->
+<!-- el:start type=prose id=prose_p258 page=231 -->
 <!-- vision: CEFR 2001 PDF page 258 -->
 
 the ‘Can Do’ statements. It seems likely that the reason for this is that Table 2 represents the end product of an extended process of selection, analysis and refinement. The result of this process is that each level description is a composite of carefully selected typical elements, making it easier for respondents at a given level to recognise the level which best describes them. This produces a more coherent pattern of responses, which in turn produces a longer scale. This is in contrast to the present form of the ‘Can Dos’, which are still short, atomic statements which have not yet been grouped into such rounded, holistic descriptions of levels. Group effects (differential item function) are evident in the fact that certain respondent groups (i.e. respondents to the Social and Tourist, Work or Study forms of the questionnaire) are found to discriminate levels considerably more finely on certain of the scales used as anchors, for reasons which have been difficult to identify. None of these effects are unexpected when using a Rasch modelling approach to scale equating. They indicate that a systematic, qualitative review of the texts of the individual statements themselves remains a necessary and important stage in arriving at a ‘final’ equating of the scales.
@@ -7460,7 +7460,7 @@ At the time of writing the ALTE Framework is a five-level system. The validation
 
 > Council of A1 A2 B1 B2 C1 C2 Europe Levels ALTE ALTE ALTE ALTE ALTE ALTE ALTE Levels Breakthrough Level 1 Level 2 Level 3 Level 4 Level 5 Level
 
-<!-- el:start type=table id=cefr2001_p258_t0 page=249 -->
+<!-- el:start type=table id=cefr2001_p258_t0 page=231 -->
 | Council of Europe Levels | A1 | A2 | B1 | B2 | C1 | C2 |
 | --- | --- | --- | --- | --- | --- | --- |
 | ALTE | ALTE | ALTE
@@ -7489,11 +7489,11 @@ ALTE Level 4 (Competent User): an ability to communicate with the emphasis on ho
 
 <!-- el:end id=prose_p258 -->
 
-*Page **249***
+*Page **231*****
 
-<!-- page:249 -->
+<!-- page:231 -->
 
-<!-- el:start type=prose id=prose_p259 page=250 -->
+<!-- el:start type=prose id=prose_p259 page=232 -->
 <!-- vision: CEFR 2001 PDF page 259 -->
 
 Example: CAN deal with hostile questioning confidently. CAN get and hold onto his/her turn to speak.
@@ -7520,16 +7520,16 @@ For further information about the ALTE project, please contact Marianne Hirtzel 
 
 <!-- el:end id=prose_p259 -->
 
-*Page **250***
+*Page **232*****
 
-<!-- page:250 -->
+<!-- page:232 -->
 
-<!-- el:start type=prose id=prose_p260 page=251 -->
+<!-- el:start type=prose id=prose_p260 page=233 -->
 <!-- vision: CEFR 2001 PDF page 260 -->
 
 ### Document D1 ALTE skill level summaries
 
-<!-- el:start type=table id=cefr2001_p260_t0 page=251 -->
+<!-- el:start type=table id=cefr2001_p260_t0 page=233 -->
 | ALTE Level | Listening/Speaking | Reading | Writing |
 | --- | --- | --- | --- |
 | ALTE Level 5 | CAN advise on or talk about complex or sensitive issues, understanding colloquial references and dealing confidently with hostile questions. | CAN understand documents, correspondence and reports, including the finer points of complex texts. | CAN write letters on any subject and full notes of meetings or seminars with good expression and accuracy. |
@@ -7542,16 +7542,16 @@ For further information about the ALTE project, please contact Marianne Hirtzel 
 
 <!-- el:end id=prose_p260 -->
 
-*Page **251***
+*Page **233*****
 
-<!-- page:251 -->
+<!-- page:233 -->
 
-<!-- el:start type=prose id=prose_p261 page=252 -->
+<!-- el:start type=prose id=prose_p261 page=234 -->
 <!-- vision: CEFR 2001 PDF page 261 -->
 
 ### Document D2 ALTE social and tourist statements summary
 
-<!-- el:start type=table id=cefr2001_p261_t0 page=252 -->
+<!-- el:start type=table id=cefr2001_p261_t0 page=234 -->
 | ALTE Level | Listening/Speaking | Reading | Writing |
 | --- | --- | --- | --- |
 | ALTE Level 5 | CAN talk about complex or sensitive issues without awkwardness. | CAN (when looking for accommodation) understand a tenancy agreement in detail, for example technical details and the main legal implications. | CAN write letters on any subject with good expression and accuracy. |
@@ -7564,18 +7564,18 @@ For further information about the ALTE project, please contact Marianne Hirtzel 
 
 <!-- el:end id=prose_p261 -->
 
-*Page **252***
+*Page **234*****
 
-<!-- page:252 -->
+<!-- page:234 -->
 
-<!-- el:start type=prose id=prose_p262 page=253 -->
+<!-- el:start type=prose id=prose_p262 page=235 -->
 <!-- vision: CEFR 2001 PDF page 262 -->
 
 ### Document D3 ALTE social and tourist statements
 
 Overview of concerns and activities covered
 
-<!-- el:start type=table id=cefr2001_p262_t0 page=253 -->
+<!-- el:start type=table id=cefr2001_p262_t0 page=235 -->
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
 | Day-to-Day Survival | 1. Shopping<br>2. Eating Out<br>3. Hotel-type accommodation<br>4. Renting temporary accommodation (flat, room, house)<br>5. Settling into accommodation<br>6. Using financial and postal services | Self-service shops<br>Counter service shops<br>Market place<br>Restaurants<br>Self-service (fast food)<br>Hotels, B & B, etc.<br>Agency, private landlord<br>Host families<br>Banks, bureaux de change, post offices | Listening/Speaking<br>Reading<br>Listening/Speaking<br>Reading<br>Listening/Speaking<br>Reading, Writing (form filling)<br>Listening/Speaking<br>Reading, Writing (form filling)<br>Listening/Speaking<br>Reading, Writing (letters)<br>Listening/Speaking<br>Reading, Writing |
@@ -7590,16 +7590,16 @@ Overview of concerns and activities covered
 
 <!-- el:end id=prose_p262 -->
 
-*Page **253***
+*Page **235*****
 
-<!-- page:253 -->
+<!-- page:235 -->
 
-<!-- el:start type=prose id=prose_p263 page=254 -->
+<!-- el:start type=prose id=prose_p263 page=236 -->
 <!-- vision: CEFR 2001 PDF page 263 -->
 
 ### Document D4 ALTE work statements summary
 
-<!-- el:start type=table id=cefr2001_p263_t0 page=254 -->
+<!-- el:start type=table id=cefr2001_p263_t0 page=236 -->
 | ALTE Level | Listening/Speaking | Reading | Writing |
 | --- | --- | --- | --- |
 | ALTE Level 5 | CAN advise on/handle complex delicate or contentious issues, such as legal or financial matters, to the extent that he/she has the necessary specialist knowledge. | CAN understand reports and articles likely to be encountered during his/her work, including complex ideas expressed in complex language. | CAN make full and accurate notes and continue to participate in a meeting or seminar. |
@@ -7612,18 +7612,18 @@ Overview of concerns and activities covered
 
 <!-- el:end id=prose_p263 -->
 
-*Page **254***
+*Page **236*****
 
-<!-- page:254 -->
+<!-- page:236 -->
 
-<!-- el:start type=prose id=prose_p264 page=255 -->
+<!-- el:start type=prose id=prose_p264 page=237 -->
 <!-- vision: CEFR 2001 PDF page 264 -->
 
 ### Document D5 ALTE WORK statements
 
 Overview of concerns and activities covered
 
-<!-- el:start type=table id=cefr2001_p264_t0 page=255 -->
+<!-- el:start type=table id=cefr2001_p264_t0 page=237 -->
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
 | Work-related services | 1. Requesting work-related services<br>2. Providing work-related services | Workplace (office, factory, etc.)<br>Workplace (office, factory, etc.) / customer’s home | Listening/Speaking<br>Writing<br>Listening/Speaking<br>Writing |
@@ -7638,16 +7638,16 @@ Overview of concerns and activities covered
 
 <!-- el:end id=prose_p264 -->
 
-*Page **255***
+*Page **237*****
 
-<!-- page:255 -->
+<!-- page:237 -->
 
-<!-- el:start type=prose id=prose_p265 page=256 -->
+<!-- el:start type=prose id=prose_p265 page=238 -->
 <!-- vision: CEFR 2001 PDF page 265 -->
 
 ### Document D6 ALTE study statements summary
 
-<!-- el:start type=table id=cefr2001_p265_t0 page=256 -->
+<!-- el:start type=table id=cefr2001_p265_t0 page=238 -->
 | ALTE Level | Listening/Speaking | Reading | Writing |
 | --- | --- | --- | --- |
 | ALTE Level 5 | CAN understand jokes, colloquial asides and cultural allusions. | CAN access all sources of information quickly and reliably. | CAN make accurate and complete notes during the course of a lecture, seminar or tutorial. |
@@ -7660,18 +7660,18 @@ Overview of concerns and activities covered
 
 <!-- el:end id=prose_p265 -->
 
-*Page **256***
+*Page **238*****
 
-<!-- page:256 -->
+<!-- page:238 -->
 
-<!-- el:start type=prose id=prose_p266 page=257 -->
+<!-- el:start type=prose id=prose_p266 page=239 -->
 <!-- vision: CEFR 2001 PDF page 266 -->
 
 ### Document D7 ALTE STUDY statements
 
 Overview of concerns and activities
 
-<!-- el:start type=table id=cefr2001_p266_t0 page=257 -->
+<!-- el:start type=table id=cefr2001_p266_t0 page=239 -->
 | CONCERN | ACTIVITY | ENVIRONMENT | LANGUAGE SKILL REQUIRED |
 | --- | --- | --- | --- |
 | Lectures, talks, presentations and demonstrations | 1. Following a lecture, talk, presentation or demonstration<br>2. Giving a lecture talk, presentation or demonstration | Lecture hall, classroom, laboratory, etc. | Listening/Speaking<br>Writing (notes) |
@@ -7685,11 +7685,11 @@ Overview of concerns and activities
 
 <!-- el:end id=prose_p266 -->
 
-*Page **257***
+*Page **239*****
 
-<!-- page:257 -->
+<!-- page:239 -->
 
-<!-- el:start type=prose id=prose_p267 page=258 -->
+<!-- el:start type=prose id=prose_p267 page=240 -->
 <!-- vision: CEFR 2001 PDF page 267 -->
 
 ## Index
@@ -7754,33 +7754,33 @@ The index covers prefatory note, notes for user, chapters 1–9, bibliographies 
 
 <!-- el:end id=prose_p267 -->
 
-*Page **258***
+*Page **240*****
 
-<!-- page:258 -->
+<!-- page:240 -->
 
-<!-- el:start type=prose id=prose_p268 page=259 -->
+<!-- el:start type=prose id=prose_p268 page=241 -->
 <!-- vision: CEFR 2001 PDF page 268 -->
 
 descriptors communicative activities 180 criteria 21–2 illustrative 25, 36–7 language proficiency 37–40, 181, 205–11, 224t see also scales DIALANG xiv 226–30 dialect 121 direct assessment 186–7 discourse competence 123–5 domains 10, 14–15, 45–6 educational domain 45, 55 Effective Occupational Proficiency Level 23 errors 155 European Language Portfolio (ELP) 5, 20 examination rating scale 181–2 examinations 178–9, 182 examiners 140 exercises 152 existential competence 11–12, 105–6, 148–9 face-to-face interaction 82 fixed point assessment 185 flexibility 31–3, 124 folk-wisdom 120 formative assessment 186 functional competence 125–30 grammatical competence 112, 151, 152 Guide for Examiners 20 guided judgement 189–90 heuristic skills 108, 149 holistic assessment 190 hypertext 40 illustrative descriptors 25, 36–7 impression judgement 189–90 Independent User Level 23 indirect assessment 186–7 interaction 14, 57, 66, 73–87, 92, 99, 126–8 interculturality 43, 103–5 interlanguage 155 interlocutors 51 intuitive methods 208–9 know-how 11, 12 knowledge 11 declarative 12, 101–4 sociocultural 102–3 knowledge assessment 187 knowledge of the world 101–2 language 107 language learning 18–19, 131–56 language policy 2–4 language processes 10 language proficiency assessment 183–4 descriptors 37–40, 181, 205–11, 224t levels 16–18, 40–2, 182 scales 37–40, 181, 212, 224t language skills profile 26t–7t language switching 133–4 language teaching 18–19, 140–54 language teaching profession 140 language use communicative activities and strategies 57–90 communicative tasks and purposes 53–7 context 44–51 qualitative aspects 28t–9t texts 93–100 themes 51–3 language users 50 learner characteristics 160–2 learner competences 160–2 learners 141–2, 144 ability to learn 12, 106, 149 responsibility for own learning 149 lexical competence 110–11 lexical selection 150 linguistic competences 13, 108–9, 149 linguistic diversification 168–76 listening 65–8, 233–4, 237, 242 ludic activities 55–6 macrofunctions 126 Mastery CR 184–5 Mastery Level 23 measurement issues 21–2 media 71, 93–4, 145 mediation 14, 57, 87–8, 99 mental context 50–1 metasystem 192–6 methodology 142–54 microfunctions 125–6 mistakes 155 modular approach 175–6 monitoring 92–3 multidimensional approach 175–6 multilingualism 4 non-verbal communication 88–90 norm-referencing(NR) 184 objective assessment 188–9 objectives 3, 135–8, 170–4, 179–80 oral production 58–60 orthoepic competence 117–8 orthographic competence 117 orthography 153 paralinguistics 89–90 paratextual features 90 performance assessment 181, 187 personal identification 54 phonological competence 116–7 pluriculturalism 6, 133, 168 plurilingualism 4–5, 43, 133, 168 politeness conventions 119 political objectives 3 portfolios 5, 20, 175 pragmatic competences 13–14, 123, 154 production 14, 57–65, 91, 98 proficiency see language proficiency Proficient User Level 23 profiling 175 pronunciation 153
 
 <!-- el:end id=prose_p268 -->
 
-*Page **259***
+*Page **241*****
 
-<!-- page:259 -->
+<!-- page:241 -->
 
-<!-- el:start type=prose id=prose_p269 page=260 -->
+<!-- el:start type=prose id=prose_p269 page=242 -->
 <!-- vision: CEFR 2001 PDF page 269 -->
 
 qualitative methods 209–10 quantitative methods 210–11 reading 68–71, 235, 239 reception 14, 91–2, 98 activities/strategies 65–72 register 120 reliability 177 scale development methodologies 207–12 scale rating 189 scales analytic 38 assessor-oriented 38, 39 constructor-oriented 39 diagnosis-oriented 38, 39 DIALANG 226–30 holistic 38 illustrative 25, 36–7 addressing audiences 60 asking for clarification 87 coherence 125 communication strategies 222 communicative activities 222 communicative competence 223 compensating 64 cooperating 86 creative writing 62 DIALANG 231–43 discourse competence 124–5 essays 62 flexibility 124 grammatical accuracy 114 interaction 66, 85–7 linguistic range 110 listening 65–8, 233–4, 237, 242 media 71 monitoring 65 monologues 59 note-taking 96 oral production 58 orthographic control 118 phonological accuracy 117 planning 64 production strategies 64–5 propositional precision 129 public announcements 60 reading 68–71, 235, 239 reception strategies 72 register 120 repair 65 reports 62 self-assessment 231 sociolinguistic appropriateness 122 speaking activities 58–61 spoken fluency 129 spoken interaction 73–82 Swiss research project 217–25 text processing 96 thematic development 125 turntaking 86, 124 vocabulary 112 working with text 223 writing 61–3, 82–4, 231, 236, 240 language proficiency 37–40, 181, 224t user-oriented 37–8, 39 see also descriptors schools 172–4 self-assessment 126–7t, 181, 191–2, 231 semantic competence 115 series assessment 191 situations 46–9 skills 11, 12, 104–5 social relations 119 sociocultural knowledge 102–3 sociolinguistic competences 13, 118, 154 spoken interaction 73–82 strategies 10, 15–16, 25, 57–90 study skills 107–8, 149 subjective assessment 188–9 summative assessment 186 Swiss National Science Research Council 31, 217–21 tasks 10, 15–16, 53–6, 147, 157–67 teacher-assessment 181 teachers 141, 144 teaching 18–19 teaching/learning objectives xii 135–8, 179–80 teaching/learning situation xii tests 178–9, 182 textbook writers 141 texts 10, 15–16, 93–100, 145, 223 characteristics 165–7 themes 51–3 Threshold Level 17, 23, 52, 53 translation 99 transparency 7 validity 177 Vantage Level 17–18, 23 variation 135, 170–4 visual reception 68–71 vocabulary 112, 149–50 Waystage 17–18, 23 workplace communication 53–4 written interaction 82–4 written production 61–2
 
 <!-- el:end id=prose_p269 -->
 
-*Page **260***
+*Page **242*****
 
-<!-- page:260 -->
+<!-- page:242 -->
 
-<!-- el:start type=prose id=prose_p270 page=261 -->
+<!-- el:start type=prose id=prose_p270 page=243 -->
 <!-- vision: CEFR 2001 PDF page 270 -->
 
 ### This electronic version of the Common European Framework of Reference has
@@ -7804,11 +7804,11 @@ b) Clicking on a bookmark takes you straight to that section of the text. So thi
 
 <!-- el:end id=prose_p270 -->
 
-*Page **261***
+*Page **243*****
 
-<!-- page:261 -->
+<!-- page:243 -->
 
-<!-- el:start type=prose id=prose_p271 page=262 -->
+<!-- el:start type=prose id=prose_p271 page=244 -->
 <!-- vision: CEFR 2001 PDF page 271 -->
 
 Moving around the text The simplest way to move round the text is to use the PgUp and PgDn keys on your keyboard. You can also use the up and down arrows on the slider at the right of your screen. This is fine for reading a sequence of paragraphs, but it is not very useful for moving from one section of the text to another.
@@ -7845,11 +7845,11 @@ Using the hyperlinks in the text In the text of the document many hyperlinks hav
 
 <!-- el:end id=prose_p271 -->
 
-*Page **262***
+*Page **244*****
 
-<!-- page:262 -->
+<!-- page:244 -->
 
-<!-- el:start type=prose id=prose_p272 page=263 -->
+<!-- el:start type=prose id=prose_p272 page=245 -->
 <!-- vision: CEFR 2001 PDF page 272 -->
 
 Try that here: This sentence is not hyperlinked.
@@ -7882,11 +7882,11 @@ ISBN : HB 0521803136 - PB 0521005310 www.uk.cambridge.org/elt Printing the text 
 
 <!-- el:end id=prose_p272 -->
 
-*Page **263***
+*Page **245*****
 
-<!-- page:263 -->
+<!-- page:245 -->
 
-<!-- el:start type=prose id=prose_p273 page=264 -->
+<!-- el:start type=prose id=prose_p273 page=246 -->
 <!-- vision: CEFR 2001 PDF page 273 -->
 
 Tip: For technical reasons the page number of the electronic version may not always correspond exactly to the page numbers printed on the pages of the printed version. The electronic page number you are viewing on screen is always displayed at the bottom of the screen. E.g.
@@ -7895,7 +7895,7 @@ If you want to print out a sequence of pages, always check the electronic page n
 
 <!-- el:end id=prose_p273 -->
 
-*Page **264***
+*Page **246*****
 
-<!-- page:264 -->
+<!-- page:246 -->
 

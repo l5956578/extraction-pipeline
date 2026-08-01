@@ -1,45 +1,60 @@
-<!-- el:start type=prose id=prose_p023 page=23 -->
-<!-- vision: Waystage PDF page 23 -->
+<!-- vision: Waystage leaf 23 doc p.17 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p023 page=17 -->
 
-(degree) how ,far/,much/,long/,hot/etc.?  
-(reason) ,why?
+(degree) how ˎfar/ˎmuch/ˎlong/ˎhot/etc.?  
+(reason) ˎwhy?
 
 **c** seeking identification  
 wh questions  
-(person) ,who?  
+(person) ˎwho?  
 (possession) whose + NP?  
-'Whose ,watch is ·this?  
-(thing) ,what?  
+
+> ˈWhose ˎwatch is ·this?
+
+(thing) ˎwhat?  
 which + NP?  
-'Which ,sport do you ·play? ®
+
+> ˈWhich ˎsport do you ·play? ®
 
 **1.5 answering questions**  
 **a** for confirmation  
 Yes, No (+ tag)  
-,Yes (he ,is).  
-,No (he ,isn't).
+
+> ˎYes (he ˎis).  
+> ˎNo (he ˎisn't).
 
 **b** for information  
 declarative sentences  
-('Where did you ,go?)  
-I ·went to ,London.  
+(ˈWhere did you ˎgo?)  
+
+> I ·went to ˎLondon.
+
 (time)  
 adverb, prepositional phrase  
-,yesterday. At 'ten o',clock.  
+
+> ˎyesterday. At ˈten o'ˎclock.
+
 (place)  
 adverb, prepositional phrase  
-,There. 'On the ,table.  
+
+> ˎThere. ˈOn the ˎtable.
+
 (manner)  
 adverb, prepositional phrase  
-,Fast. With a ,spoon.  
+
+> ˎFast. With a ˎspoon.
+
 (degree)  
 adverb, prepositional phrase  
-('How ,hot is it?) ,Very.  
-('How ·much do you ,like it?)  
-'Better than 'water.  
+
+> (ˈHow ˎhot is it?) ˎVery.  
+> (ˈHow ·much do you ˎlike it?)  
+> ˈBetter than ˇwater.
+
 (reason) (because +) declarative sentence  
-('Why did you ,leave?)  
-Because I was ,tired.
+(ˈWhy did you ˎleave?)  
+
+> Because I was ˎtired.
 
 **c** seeking identification – see 1.1
 
@@ -48,43 +63,58 @@ Because I was ,tired.
 #### Factual: agreement, etc.
 
 **2.1 expressing agreement with a statement**  
-I a,gree.  
-'That's ,right. ®  
+
+> I aˎgree.  
+> ˈThat's ˎright. ®
+
 (with a positive statement)  
-'Yes (+ tag).  
-(She's 'nice!) 'Yes, she 'is!  
-Of ,course. ®  
-,Certainly. ®  
+ˈYes (+ tag).  
+(She's ˈnice!)  
+
+> ˈYes, she ˋis!
+
+Of ˎcourse. ®  
+ˎCertainly. ®  
 (with a negative statement)  
-,No (+ tag)  
-(He 'doesn't look ,well.)  
-,No, he ,doesn't.  
-Of ,course ·not. ®  
-'Certainly ,not. ®
+ˎNo (+ tag)  
+(He ˈdoesn't look ˎwell.)  
+
+> ˎNo, he ˎdoesn't.
+
+Of ˎcourse ·not. ®  
+ˈCertainly ˎnot. ®
 
 **2.2 expressing disagreement with a statement**  
-That's 'not ,right.  
-I 'don't a,gree. ®  
+
+> That's ˈnot ˎright.  
+> I ˈdon't aˎgree. ®
+
 (with a positive statement)  
-,No (+ tag).  
-'Certainly ,not. ®  
-I 'don't 'think so.  
+ˎNo (+ tag).  
+ˈCertainly ˎnot. ®  
+
+> I ˈdon't ˇthink so.
+
 (with a negative statement)  
 Yes (+ tag).  
-(They 'aren't ,French)  
-'Yes, they 'are  
+(They ˈaren't ˎFrench)  
+
+> ˈYes, they ˇare
+
 I think + positive statement  
-I·think he 'will ·come.
+
+> I ·think he ˈwill ·come.
 
 **2.3 enquiring about agreement and disagreement**  
 Do(n't) you think + complement clause?  
-'Do you ·think it'll ,rain?  
-'Do(n't) you ,think so (,too)?  
-'Do(n't) you a,gree? ®
+
+> ˈDo you ·think it'll ˎrain?  
+> ˈDo(n't) you ˎthink so (ˎtoo)?  
+> ˈDo(n't) you aˎgree? ®
 
 **2.4 denying something**  
 No (+ negative tag)  
-(You ,saw him)  
-,No, I ,didn't.
+(You ˎsaw him)  
 
+> ˎNo, I ˎdidn't.
 <!-- el:end id=prose_p023 -->

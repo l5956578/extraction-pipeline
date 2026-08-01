@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 55 = document p.49 | multipass intonation -->
+<!-- vision: leaf 55 doc p.49 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p055 page=49 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -12,7 +12,7 @@ to happen
 **2.1** *location*  
 the following adverbs: **here**, **there**, everywhere, somewhere, nowhere, (not) anywhere, where?; inside, outside  
 (in) the east/north/south/west  
-to have been to (as in: She has ·been to ˈParis.)  
+to have been to (as in: She has ·been to ˋParis.)  
 this, that, these those
 
 **2.2** *relative position*  

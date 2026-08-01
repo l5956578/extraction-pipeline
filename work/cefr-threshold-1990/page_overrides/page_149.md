@@ -3,13 +3,13 @@
 
 before (6.3.7), since, until
 
-He ‘left before | ar,rived.
+He ˈleft before | arˎrived.
 
 preposition + which
 
 The ‘town where/in which | live is in Dorset.
 
-"Teach me -how you -make an omelette.
+ˇTeach me -how you -make an omelette.
 
 | know how -hard you work.
 
@@ -19,17 +19,17 @@ We are glad | be-cause the sur is -shining.
 
 so (+ adj + that)
 
-It was 'so ,hot | that | 'took off my ,coat. or It was hot, | so!
+It was ˈso ˎhot | that | ˈtook off my ˎcoat. or It was hot, | so!
 
 ‘took off my coat.
 
-If it ‘doesn’t ,rain, | we'll -go fishing.
+If it ˈdoesn't ˎrain, | we'll -go fishing.
 
 whom, that, which, whose
 
 ‘What you -say interests me.
 
-| know | -who you ,mean.
+| know | -who you ˎmean.
 
 B_ Phrase level
 
@@ -57,21 +57,21 @@ denoting: colour (6.5.1.9)
 
 | pre-fer ‘leather-shoes. days, months (6.3.2, 6.3.3)
 
-To-morrow is 'Tuesday the
+To-morrow is ˈTuesday the
 
 -fourth of April. drinks (7.10.1)
 
 ‘Beer tastes bitter. foodstuffs (7.10.1)
 
-, | ‘don’t ‘eat | ,meat. meals (7.3.1, 7.10.1)
+, | ˈdon't ˈeat | ˎmeat. meals (7.3.1, 7.10.1)
 
 ‘What is for lunch to-day? festivals (6.3.3)
 
 ‘Easter is early | -this year. numerals (6.4.1)
 
-‘Three and ,eight | make e,leven. abstracts (7.8)
+ˈThree and ˎeight | make eˎleven. abstracts (7.8)
 
-Edu'cation is im,portant. arts, sports, games (7.4.2)
+Edu'cation is imˎportant. arts, sports, games (7.4.2)
 
 | pre-fer ‘music | or ‘chess | to football. vehicles seen as means of
 
@@ -83,15 +83,15 @@ Edu'cation is im,portant. arts, sports, games (7.4.2)
 
 above) + determiner + noun
 
-‘Did she -eat -all the ,cakes?
+ˈDid she -eat -all the ˎcakes?
 
 determiner + post determiner
 
-Is 'this your -first ,visit to -Britain?
+Is ˈthis your -first ˎvisit to -Britain?
 
 (determiner +) (postdeterminer +) adjective(s) + noun
 
-She was -wearing a 'nice -new
+She was -wearing a ˈnice -new
 
 -white dress.
 

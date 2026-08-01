@@ -1,9 +1,9 @@
+<!-- vision: leaf 63 doc p.57 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p063 page=63 -->
-<!-- vision: Threshold PDF leaf 63 = doc p.57 | multipass two-column general notions + Deixis -->
 
 **7.6.9** *focusing*  
 **about** (as in: I ˈdon't ·want to ˎtalk about the ·war.), **on** (as in: I ˈcannot ·give you ·any inforˎmation on ·train ·services.) ●,  
-**only** (as in: I ˈonly ·wanted to ˈhelp.)
+**only** (as in: I ˈonly ·wanted to ˋhelp.)
 
 #### 8 Deixis
 
@@ -26,14 +26,14 @@ interrogative adjectives: whose ●, what, which
 **8.1.2** *anaphoric*  
 personal pronouns (subject forms and object forms)  
 possessive adjectives  
-possessive pronouns as complement (as in: ˈYou ·take it, it's ˈyours.)  
+possessive pronouns as complement (as in: ˈYou ·take it, it's ˋyours.)  
 demonstrative adjectives and pronouns  
 relative pronouns: who, whom ●, whose ●, which, that ●, omission of relative pronoun ●  
 reflexive/emphatic pronouns: myˎself, yourself, etc. (as in: I ˎhurt myself; I've ˈdone it myˎself.)  
 reciprocal pronoun: each other  
 definite article: the  
-adverbs: here, there, now, then, so (as in: He ˈwanted to ·go ·out | but he ˈdidn't ˎsay so.)  
-prop word: one, ones (as in: I ˈlike the ˈred one.)  
+adverbs: here, there, now, then, so (as in: He ˋwanted to ·go ·out | but he ˈdidn't ˎsay so.)  
+prop word: one, ones (as in: I ˈlike the ˋred one.)  
 substitute-verb: do (as in: He ˈasked me to ·help him, | and I ˎdid.)
 
 **8.2** *indefinite*  

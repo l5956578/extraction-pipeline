@@ -1,5 +1,5 @@
+<!-- vision: leaf 60 doc p.54 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p060 page=60 -->
-<!-- vision: Threshold PDF leaf 60 = doc p.54 | multipass two-column general notions -->
 
 **better** (as in: He ·got ˎbetter.), **dead**, **ill**, **well**  
 in/out of order ● (as in: The ˈtelephone is ·out of ˎorder.)  

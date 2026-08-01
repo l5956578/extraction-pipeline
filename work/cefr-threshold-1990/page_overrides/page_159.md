@@ -9,7 +9,7 @@
 
 2.3.2. you + VP infinitive @
 
-John, | -you be a 'good ,boy | and ‘eat your spinach!
+John, | -you be a ˈgood ˎboy | and ˈeat your spinach!
 
 2.3.3. do+VP infinitive
 
@@ -23,7 +23,7 @@ John, | -you be a 'good ,boy | and ‘eat your spinach!
 
 The -flight ar-rived at '9 a..m.
 
-‘Sue | has 'blue eyes.
+ˈSue | has ˈblue eyes.
 
 It -happened ‘early this morning
 
@@ -31,9 +31,9 @@ concerning:
 
 | ‘quite agree with you.
 
-| 'know he was -here yesterday.
+| ˈknow he was -here yesterday.
 
-\re'member ,meeting you | in
+\re'member ˎmeeting you | in
 
 tam ‘likely to -see him in
 
@@ -41,11 +41,11 @@ tam ‘likely to -see him in
 
 1am ‘sure he will come.
 
-You 'must -stay here -till | return.
+You ˈmust -stay here -till | return.
 
-‘All -young Swedes | can 'speak
+ˈAll -young Swedes | can ˈspeak
 
-'Parking is al,lowed | from
+ˈParking is alˎlowed | from
 
 '6 p.m. | to'8 -a..m.
 
@@ -53,7 +53,7 @@ You 'must -stay here -till | return.
 
 lam ‘going to -buy a -new car.
 
-I'd 'rather ‘die | than -give -up tennis.
+I'd ˈrather ˈdie | than -give -up tennis.
 
 I'm de'lighted to see you a-gain.
 
@@ -61,13 +61,13 @@ I'm de'lighted to see you a-gain.
 
 -morning.
 
-| 'like -cakes and ,pastries | 'very much.
+| ˈlike -cakes and ˎpastries | ˈvery much.
 
 ‘This ‘coffee | -tastes ‘horrible.
 
 This -brandy is ‘just what | need.
 
-The ‘shower in the ,bathroom | is
+The ˈshower in the ˎbathroom | is
 
 ‘not working.
 

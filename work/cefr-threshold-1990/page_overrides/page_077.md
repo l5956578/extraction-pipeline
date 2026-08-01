@@ -1,5 +1,15 @@
 <!-- el:start type=prose id=prose_p077 page=77 -->
-<!-- vision: Threshold PDF leaf 77 = doc p.71 | multipass Specific notions 5.5 cont.–6.2 -->
+<!-- vision: leaf 77 doc p.71 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈPress the ˎbutton | for the ˈthird ˎfloor. -->
+<!-- cat: ˎPush | to ˈopen the ˎdoor. -->
+<!-- cat: ˎPull | to ˈopen the ˎdoor. -->
+<!-- cat: In ˈcase of ˎfire | ... -->
+<!-- cat: ˈCan I have my ˎbill, ·please? -->
+<!-- cat: ˈDo you ·want a ˎporter for your ·luggage? -->
+<!-- cat: ˈHave you ·anything to deˎclare? -->
+<!-- cat: ˈWill you ·open your ˎbag, ·please? -->
+<!-- cat: You'll ˈhave to ·pay ˋduty | on ˎthis. -->
+<!-- cat: I ·want to ·change ˈ500 ˎdollars. -->
 
 button  
 ˈPress the ˎbutton | for the ˈthird ˎfloor.  
@@ -39,7 +49,7 @@ to declare ●
 to open  
 ˈWill you ·open your ˎbag, ·please?  
 duty ●  
-You'll ˈhave to ·pay ˈduty | on ˎthis.  
+You'll ˈhave to ·pay ˋduty | on ˎthis.  
 duty-free ●  
 money  
 to change  
@@ -71,5 +81,10 @@ stranger
 to invite  
 invitation  
 to make an appointment
+
+
+
+
+
 
 <!-- el:end id=prose_p077 -->

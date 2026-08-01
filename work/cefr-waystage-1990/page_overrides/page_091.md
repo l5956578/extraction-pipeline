@@ -6,25 +6,25 @@
 **7.3.2.1** obligation (3.2.11, 3.2.12)  
 *have* + to + VP infinitive
 
-> We 'have to 'go | ,now.
+> We ˈhave to ˈgo | ˎnow.
 
 **7.3.2.2** wants, desires (3.2.16, 3.2.17)
 
-> 'May I ·have a ,drink?
+> ˈMay | ·have a ˎdrink?
 
 **7.3.2.3** availability (4.1.3)
 
-> We 'haven’t got ·any ,ice.
+> We ˈhaven't got ·any ˎice.
 
 **7.3.2.4** present perfect (4.3.7, 4.3.12, 4.3.18)  
 *have* + past participle
 
-> 'Have you ·seen the ,cat?
+> ˈHave you ·seen the ˎcat?
 
 **7.3.2.5** ownership (4.7.5.1)  
 *have* (+ *got*)
 
-> 'Have you ·got a ·C,D ·player ·yet?
+> ˈHave you ·got a ·CˎD ·player ·yet?
 
 **7.3.2.6** meals (5.3.1)
 
@@ -32,114 +32,114 @@
 
 **7.3.2.7** ailments (5.7.4)
 
-> I ·have a 'bad ,cold.
+> | ·have a ˈbad ˎcold.
 
 **7.3.3** do
 
 **7.3.3.1** interrogative (3.1.4)
 
-> 'Did you ·bring some ,money?
+> ˈDid you ·bring some ˎmoney?
 
 **7.3.3.2** tag questions
 
-> You 'saw them, | ,didn’t you?
+> You ˈsaw them, | ˎdidn't you?
 
 **7.3.3.3** tag responses (3.1.5, 3.2.1)
 
-> ('Did you ,see him?) ,Yes, | I ,did.
+> (ˈDid you ˎsee him?) ˎYes, | | ˎdid.
 
 **7.3.3.4** agreement (3.2.1)
 
-> (He ·works 'hard.) 'Yes, | he 'does.
+> (He ·works ˈhard.) ˈYes, | he ˈdoes.
 
 **7.3.3.5** negative sentences
 
-> It 'doesn’t ,matter.
+> It ˈdoesn't ˎmatter.
 
 **7.3.3.6** denying (3.2.4)
 
-> (You ,stole it.) 'No, | I 'didn’t.
+> (You ˎstole it.) ˈNo, | | ˈdidn't.
 
 **7.3.3.7** negative imperatives (3.2.15, 3.3.8)
 
-> 'Please don’t ·smoke ,here.
+> ˈPlease don't ·smoke ˎhere.
 
 **7.3.3.8** strong hopes (3.2.24)
 
-> I 'do ·hope | they ,come. ®
+> | ˈdo ·hope | they ˎcome. ®
 
 **7.3.3.9** on being introduced (3.4.6)
 
-> 'How do you ,do!
+> ˈHow do you ˎdo!
 
 **7.3.3.10** anaphoric use (4.8.1.2)
 
-> He 'asked me to ,stop, | so I ,did.
+> He ˈasked me to ˎstop, | so | ˎdid.
 
 **7.3.3.11** semi-deictic (4.8.2)
 
-> 'What can we ·do ,now?
+> ˈWhat can we ·do ˎnow?
 
 **7.3.4** can
 
 **7.3.4.1** short questions (3.1.4a)
 
-> ,Can you?
+> ˎCan you?
 
 **7.3.4.2** short answers
 
-> ,Yes, | ,can.
+> ˎYes, | ˎcan.
 
 **7.3.4.3** ability (3.2.7)
 
-> I 'can’t ,swim.
+> | ˈcan't ˎswim.
 
 **7.3.4.4** denying possibility (3.2.9e)
 
-> He 'can’t | be ·60 ·years ,old.
+> He ˈcan't | be ·60 ·years ˎold.
 
 **7.3.4.5** permission (3.2.13–15)
 
-> 'Can I go ,out this ·evening?
+> ˈCan | go ˎout this ·evening?
 
 **7.3.4.6** declining an invitation (3.3.5)
 
-> I am a·fraid I 'can’t ,come. ®
+> | am a·fraid | ˈcan't ˎcome. ®
 
 **7.3.4.7** offering assistance (3.3.9)
 
-> 'Can I ,help ·you?
+> ˈCan | ˎhelp ·you?
 
 **7.3.4.8** requesting assistance (3.3.10)
 
-> 'Can you ·tell me the ·way to the ,station?
+> ˈCan you ·tell me the ·way to the ˎstation?
 
 **7.3.4.9** sensory perception (4.5.1.4, 4.5.1.5)
 
-> I can ·see an 'island.
+> | can ·see an ˈisland.
 
 **7.3.4.10** capacity (4.5.2.7)
 
-> ·Animals 'cannot ,speak.
+> ·Animals ˈcannot ˎspeak.
 
 **7.3.4.11** travel (5.5.1)
 
-> 'How can I ·get to ,Croydon?
+> ˈHow can | ·get to ˎCroydon?
 
 **7.3.5** could
 
 **7.3.5.1** suggestions (3.3.1)
 
-> We could 'drink ʸwater. ®
+> We could ˈdrink ʸwater. ®
 
 **7.3.5.2** requests (3.3.2)
 
-> 'Could you ·please ,write your ·name? ®
+> ˈCould you ·please ˎwrite your ·name? ®
 
 **7.3.6** may
 
 **7.3.6.1** permission (3.2.13, 3.2.14)
 
-> 'May I ,smoke? ,Yes, | you ,may.
+> ˈMay | ˎsmoke? ˎYes, | you ˎmay.
 
 <!-- el:end id=prose_p091 -->

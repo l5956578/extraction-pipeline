@@ -1,5 +1,14 @@
 <!-- el:start type=prose id=prose_p080 page=80 -->
-<!-- vision: Threshold PDF leaf 80 = doc p.74 | multipass Specific notions theme 7 Health -->
+<!-- vision: leaf 80 doc p.74 | word-catalog multipass ch7-8 -->
+<!-- cat: I'm ˈquite ˎcomfortable | ˎnow. -->
+<!-- cat: The ·chair ˈisn't very ˇcomfortable. -->
+<!-- cat: I'd ˈlike to ˎrest a ·little. -->
+<!-- cat: ˈWill you ·cut my ˎhair, ·please? -->
+<!-- cat: I'd ˈlike to ˎwash before ·dinner. -->
+<!-- cat: ˈCan you ·wash these ˎclothes for me? -->
+<!-- cat: ˈIs there a ˎlaundry ·here? -->
+<!-- cat: ˈHas the ·laundry come ˎback ·yet? -->
+<!-- cat: I have a ˎheadache. -->
 
 ## 7 Health and body care
 
@@ -12,7 +21,7 @@ e.g. arm, back, chest, foot, hair, hand, head, heart, leg, lungs, neck, stomach,
 **7.2 personal comfort**  
 comfortable  
 I'm ˈquite ˎcomfortable | ˎnow.  
-The ·chair ˈisn't very ˈcomfortable.  
+The ·chair ˈisn't very ˇcomfortable.  
 hunger ●  
 hungry  
 thirst ●  
@@ -42,7 +51,7 @@ to cut
 ˈWill you ·cut my ˎhair, ·please?  
 to shave  
 to wash  
-I'd ˈlike to ·wash before ·dinner.  
+I'd ˈlike to ˎwash before ·dinner.  
 ˈCan you ·wash these ˎclothes for me?  
 laundry ●  
 ˈIs there a ˎlaundry ·here?  
@@ -66,5 +75,10 @@ dizzy
 to feel sick  
 to hurt  
 *names of diseases e.g.* AIDS ●, diabetes, diarrhoea, influenza (flu), V.D. ●
+
+
+
+
+
 
 <!-- el:end id=prose_p080 -->

@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p042 page=42 -->
-<!-- vision: Waystage PDF page 42 -->
+<!-- vision: Waystage leaf 42 doc p.36 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p042 page=36 -->
 
 to play
 

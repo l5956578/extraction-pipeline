@@ -62,49 +62,49 @@ would not/wouldn’t/’d not
 
 **7.1.5.1.1** (I, you, we they) verb stem
 
-> They ,ask.
+> They ˎask.
 
 **7.1.5.1.2** (he, she, it, NP) verb stem+s
 
-> He ar,rives.
+> He arˎrives.
 
 **7.1.5.1.3** verb stem+es
 
-> He ,teaches.
+> He ˎteaches.
 
 **7.1.5.1.4** verb stem (replacing -y by -i) +es
 
-> He ,tries.
+> He ˎtries.
 
 **7.1.5.2** simple present, negative
 
 **7.1.5.2.1** (I, you, we, they) do not/don’t + infinitive
 
-> I 'don’t ,ask.
+> | ˈdon't ˎask.
 
 **7.1.5.2.2** (he, she, it, NP) does not/doesn’t + infinitive
 
-> She 'doesn’t ,try.
+> She ˈdoesn't ˎtry.
 
 **7.1.5.3** simple present, interrogative (affirmative)
 
 **7.1.5.3.1** do (I, you, we, they) + infinitive?
 
-> 'Do you ,smoke?
+> ˈDo you ˎsmoke?
 
 **7.1.5.3.2** does (he, she, it, NP) + infinitive?
 
-> 'Does he ,dance?
+> ˈDoes he ˎdance?
 
 **7.1.5.4** simple present, interrogative (negative)
 
 **7.1.5.4.1** don’t (I, you, we, they) + infinitive?
 
-> 'Don’t you ,smoke?
+> ˈDon't you ˎsmoke?
 
 **7.1.5.4.2** doesn’t (he, she, it, NP) + infinitive?
 
-> 'Doesn’t it ,matter?
+> ˈDoesn't it ˎmatter?
 
 **7.1.5.5** simple past, affirmative (all persons)
 

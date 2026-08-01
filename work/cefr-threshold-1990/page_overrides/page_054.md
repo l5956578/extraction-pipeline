@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 54 = document p.48 | multipass intonation -->
+<!-- vision: leaf 54 doc p.48 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p054 page=48 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 

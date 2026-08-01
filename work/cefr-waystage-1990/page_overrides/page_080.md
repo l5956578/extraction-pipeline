@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p080 page=80 -->
-<!-- vision: Waystage PDF page 80 -->
+<!-- vision: Waystage leaf 80 doc p.74 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p080 page=74 -->
 
 attitude of the speaker towards what he is saying and towards the hearer. The higher the level, the more cheerful and friendly the speaker sounds. The (high) head is marked in the texts by an upright line before the syllable concerned, above the line of writing [ˈ].
 

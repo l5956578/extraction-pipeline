@@ -5,13 +5,13 @@ If you had “asked me, | | would have ‘come.
 
 If “I were -you, | I’d -go by ‘train.
 
-\'d 'rather -drink ‘coffee | than tea.
+\'d ˈrather -drink ˈcoffee | than tea.
 
 #### 7.7 Use of verb forms
 
 time reference (6.3.14)
 
-‘Cats and ,dogs | are animals.
+ˈCats and ˎdogs | are animals.
 
 actions (6.3.12)
 
@@ -21,21 +21,21 @@ My ‘sister -works in a factory.
 
 etc. denoting future time
 
-The -train leaves | ,soon.
+The -train leaves | ˎsoon.
 
 (cf. A7.2.4.1 above) denoting: cognitive attitudes (5.2)
 
 | -think she is French. volition (5.2.23-27)
 
-He 'wants to -go to ,bed. emotions (5.2.29-44)
+He ˈwants to -go to ˎbed. emotions (5.2.29-44)
 
-I 'hope the -plane will leave on
+I ˈhope the -plane will leave on
 
 “time. sensory perception (6.5.1.4-7)
 
 ‘This -food tastes ‘good. reflection (6.6.1)
 
-I 'know you are tired. appearance (5.2.13)
+I ˈknow you are tired. appearance (5.2.13)
 
 He -seems to be a'sleep.
 
@@ -43,11 +43,11 @@ He -seems to be a'sleep.
 
 completed in a past period
 
-| saw 'Helen | yesterday.
+| saw ˈHelen | yesterday.
 
 questions which contained simple present verb forms
 
-He «said 'dogs and ,cats | were animals.
+He «said ˈdogs and ˎcats | were animals.
 
 He ‘asked if my -sister -worked in a factory.
 
@@ -61,7 +61,7 @@ As a “child, | | -lived in London. habitual actions
 
 ‘Last year, | | drove to -work every -day. stative verbs (cf. A 7.7.1.5 above)
 
-He ‘thought it was -time to ,go.
+He ˈthought it was -time to ˎgo.
 
 reference to the present time)
 
@@ -73,7 +73,7 @@ It has ‘stopped raining.
 
 action or state, beginning in the past, which is still continuing
 
-Ihave -known -Peter for 'ten years, | since | 'met him in
+Ihave -known -Peter for ˈten years, | since | ˈmet him in
 
 denotations as the present perfect, but with reference to a previous time)
 

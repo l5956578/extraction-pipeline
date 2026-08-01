@@ -3,7 +3,7 @@
 
 complementising verbs of reflection (6.6.1)
 
-(‘Will he ,come?) | ‘hope/’think/ believe so. of expression (6.6.2)
+(ˈWill he ˎcome?) | ˈhope/ˈthink/ believe so. of expression (6.6.2)
 
 2.2. Adjectival (relative) clauses
 
@@ -19,27 +19,27 @@ This is the -man who lives with me.
 
 preposition
 
-"Joe's a -man (who/that) | -play
+ˇJoe's a -man (who/that) | -play
 
 \tugby with.
 
-The 'man whose -daughter
+The ˈman whose -daughter
 
 -taught me French has -just
 
 ‘This is a -colleague whose -wife | strained as a nurse.
 
-| 'read a -book which/that ex-plains -nuclear physics.
+| ˈread a -book which/that ex-plains -nuclear physics.
 
-‘Have you seen the ,car which/that | -bought?
+ˈHave you seen the ˎcar which/that | -bought?
 
 Is ‘that the -best (that) you can
 
 relative clauses
 
-| 'do not buy -books which are boring. (i.e. |only buy interesting books.)
+| ˈdo not buy -books which are boring. (i·e. |only buy interesting books.)
 
-| 'do not buy ,books, | which are boring. (i.e. |do not buy any books, because all books are boring.)
+| ˈdo not buy ˎbooks, | which are boring. (i·e. |do not buy any books, because all books are boring.)
 
 2.3. Adverbial clauses
 
@@ -47,18 +47,18 @@ It hurts where | -put my finger.
 
 ‘Please come when | -call you
 
-It is quiet -here | since ,lan -left.
+It is quiet -here | since ˎlan -left.
 
 6.3.25) until @/till
 
 Iwill (‘not) sleep | un'ti/till he re.turns.
 
-The ‘accident -happened be-fore lar,rived.
+The ˈaccident -happened be-fore larˎrived.
 
-‘After we -finished ,eating, | we
+ˈAfter we -finished ˎeating, | we
 
 ‘paid the bill.
 
-"Tell me as -soon as the -boat
+ˇTell me as -soon as the -boat
 
 <!-- el:end id=prose_p156 -->

@@ -377,12 +377,128 @@ def _extract_figure_page_composed(page: fitz.Page, page_num: int, el: dict) -> s
 
     body = _strip_figure_diagram_soup("\n".join(out_lines))
     try:
-        from pipeline.figure_inject import strip_garbage_under_figure_images
+        from pipeline.figure_inject import (
+            strip_garbage_under_figure_images,
+            strip_text_diagram_leaf_soup_global,
+        )
 
         body = strip_garbage_under_figure_images(body)
+        body = strip_text_diagram_leaf_soup_global(body)
     except Exception:  # noqa: BLE001
         pass
+    # C2-ADJ: never leave trailing section prose on the floor under a figure crop
+    body = _append_prose_below_figure_crops(page, page_num, body, figs)
     return body + ("\n" if body and not body.endswith("\n") else "")
+
+
+def _append_prose_below_figure_crops(
+    page: fitz.Page,
+    page_num: int,
+    body: str,
+    figs: list[dict],
+) -> str:
+    """Recover section headers + body that live *under* a figure on the same page.
+
+    Inventory often marks the whole page as ``figure_page`` (e.g. p.61 Fig 12).
+    Exclusive crop + catalog diagram then dual-emits leaf soup and **drops** the
+    real §3.2.1 / §3.3.1 prose under the diagram. Extract that band from the PDF
+    and append when missing (replace-semantics for soup already handled upstream).
+    """
+    if not figs:
+        return body
+    try:
+        excl = _figure_exclusive_rects(page, figs)
+    except Exception:  # noqa: BLE001
+        excl = []
+    if not excl:
+        # Fall back: mid-page split
+        y_cut = page.rect.height * 0.55
+    else:
+        y_cut = max(r[3] for r in excl) + 2.0
+
+    y_max = page.rect.height - 36
+    if y_cut >= y_max - 20:
+        return body
+
+    # Collect text blocks below the figure band
+    blocks = page.get_text("blocks") or []
+    below: list[tuple[float, str]] = []
+    for b in blocks:
+        if len(b) < 5:
+            continue
+        x0, y0, x1, y1, text = b[0], b[1], b[2], b[3], b[4]
+        if y0 < y_cut:
+            continue
+        if y0 > y_max:
+            continue
+        t = (text or "").strip()
+        if not t:
+            continue
+        # Skip running headers/footers
+        if re.search(r"Page\s+\d+|Companion volume|Illustrative Descriptor", t, re.I):
+            continue
+        below.append((y0, t))
+    if not below:
+        return body
+
+    below.sort(key=lambda t: t[0])
+    raw = "\n".join(t for _, t in below)
+    # Normalize whitespace
+    raw = re.sub(r"[ \t]+\n", "\n", raw)
+    raw = re.sub(r"\n{3,}", "\n\n", raw).strip()
+    if not raw:
+        return body
+
+    # If body already has the distinctive close of p.61 oral-production lead, skip
+    markers_done = (
+        "rather than dialogue",
+        "3.2.1. Production activities",
+        "3.2.1 Production activities",
+        "3.3.1. Interaction activities",
+        "3.3.1 Interaction activities",
+    )
+    if any(m.lower() in body.lower() for m in markers_done if "rather" in m or "3.2.1" in m or "3.3.1" in m):
+        # still may need soup-only fix; only skip inject if key prose present
+        if "rather than dialogue" in body.lower() or "categories for oral production" in body.lower():
+            return body
+        if "categories for oral interaction" in body.lower() or "rather than dialogue" in body.lower():
+            return body
+
+    # Format recovered lines into markdown sections
+    out_bits: list[str] = []
+    for para in re.split(r"\n\s*\n", raw):
+        p = re.sub(r"\s*\n\s*", " ", para).strip()
+        if not p:
+            continue
+        # Section headers like 3.2.1. Production activities
+        hm = re.match(r"^(\d+(?:\.\d+)+\.?)\s+(.+)$", p)
+        if hm and len(p) < 90:
+            num, title = hm.group(1).rstrip("."), hm.group(2).strip()
+            # ### depth from number of dots
+            depth = min(4, 2 + num.count("."))
+            out_bits.append(f"{'#' * depth} {num}. {title}")
+            continue
+        # Skip pure figure leaf echoes
+        try:
+            from pipeline.figure_inject import _is_text_diagram_leaf_soup_line
+
+            if _is_text_diagram_leaf_soup_line(p):
+                continue
+        except Exception:  # noqa: BLE001
+            pass
+        if len(p) < 40 and not p.endswith((".", "?", "!")):
+            # likely leftover label
+            continue
+        out_bits.append(p)
+
+    recovered = "\n\n".join(out_bits).strip()
+    if not recovered:
+        return body
+    # Avoid duplicating if already substantially present
+    sample = recovered[:80].lower()
+    if sample and sample in body.lower():
+        return body
+    return body.rstrip() + "\n\n" + recovered + "\n"
 
 def _compose_prose_with_figures(
     prose: str, located: list[tuple[float, dict, str]]
@@ -737,7 +853,8 @@ def _extract_single_table(
         table_index == 0 or numbered
     ):
         known_id, known_title, known_type = cfg.KNOWN_TABLES_FIGURES[page_num]
-        # Only apply known when this table is the known one (title match or sole table).
+        # Layout pin wins: Table N on a known page always uses job.json id/title.
+        # (C2-T1: never fall through to column-header slugs like table_reception.)
         if numbered or len(tables) == 1 or table_index == 0 and not any(
             _table_title_is_numbered(_table_title(t)) for t in tables if t is not table
         ):
@@ -749,17 +866,38 @@ def _extract_single_table(
                 page_start=page_num,
                 page_end=page_num,
             )
+            # Prefer layout display name even if art_by_id has a stale title
+            if table_art.id == known_id and known_title:
+                table_art = ArtifactMeta(
+                    id=known_id,
+                    display_name=known_title,
+                    artifact_type=known_type or table_art.artifact_type,
+                    product_tiers=list(table_art.product_tiers or ["context"]),
+                    page_start=table_art.page_start or page_num,
+                    page_end=table_art.page_end or page_num,
+                )
             return _emit_artifact(
                 table_art, table_art.page_start, table_art.page_end, md
             )
 
     if numbered:
         num, rest = numbered.group(1), numbered.group(2).strip()
-        aid = slugify(f"table_{int(num):02d}_{rest}")
+        # Prefer layout pin by table number when known map uses table_0N_* ids
+        known_id = None
+        known_title = None
+        known_type = "table"
+        if page_num in cfg.KNOWN_TABLES_FIGURES:
+            kid, ktitle, ktype = cfg.KNOWN_TABLES_FIGURES[page_num]
+            if kid.startswith(f"table_{int(num):02d}_") or kid.startswith(f"table_{num}_"):
+                known_id, known_title, known_type = kid, ktitle, ktype
+        aid = known_id or slugify(f"table_{int(num):02d}_{rest}")
+        # Avoid table_table_N_ double prefix from artifact_id_from_title style slugs
+        if aid.startswith("table_table_"):
+            aid = "table_" + aid[len("table_table_") :]
         table_art = ctx.art_by_id.get(aid) or ArtifactMeta(
             id=aid,
-            display_name=fix_rotated_title(title),
-            artifact_type="table",
+            display_name=known_title or fix_rotated_title(title),
+            artifact_type=known_type or "table",
             product_tiers=["context"],
             page_start=page_num,
             page_end=page_num,

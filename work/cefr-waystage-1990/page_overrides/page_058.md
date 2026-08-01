@@ -1,7 +1,7 @@
-<!-- el:start type=prose id=prose_p058 page=58 -->
-<!-- vision: Waystage PDF page 58 -->
+<!-- vision: Waystage leaf 58 doc p.52 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p058 page=52 -->
 
-conversation does not lend itself to a didactically meaningful description of the kind we try to provide in this document. 'All we can be said to understand about such talk,' Peck observes, 'is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: 'We can teach pupils to recognise these elements of discourse and to use them themselves.'
+conversation does not lend itself to a didactically meaningful description of the kind we try to provide in this document. ‘All we can be said to understand about such talk,' Peck observes, ‘is that certain elements occur frequently. These act as signposts along a road we are travelling.' He adds: ‘We can teach pupils to recognise these elements of discourse and to use them themselves.'
 
 Chapter 3 contains a classified list of the language functions, together with their common exponents, which are combined in verbal interaction. We have not thought it necessary, or even desirable, to attempt to specify the verbal interaction patterns to be used by learners (e.g. in the form of praxeograms).
 

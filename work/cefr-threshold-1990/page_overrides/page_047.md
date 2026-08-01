@@ -1,4 +1,4 @@
-<!-- vision: Threshold PDF leaf 47 = document p.41 | multipass intonation -->
+<!-- vision: leaf 47 doc p.41 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p047 page=41 -->
 <!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
@@ -33,13 +33,13 @@
 
 **4.1.1** Exˈcuse ˎme.
 
-**4.1.2** ˈHalˎlo. (informal)
+**4.1.2** ˋHal·lo. (informal)
 
 **4.1.3** I ˈsay … ●
 
 #### 4.2 greeting people
 
-**4.2.1** ˈHalˎlo.
+**4.2.1** ˋHal·lo.
 
 **4.2.2** ·Good ˎmorning/afterˎnoon/ˎevening (more formal)
 
@@ -59,7 +59,7 @@
 
 **4.4.2** if in poor health, etc.
 
-**4.4.2.1** ˋWell, | ˋso-so. | ˈHow are ˎyou?
+**4.4.2.1** ˇWell, | ˇso-so. | ˈHow are ˎyou?
 
 **4.4.3** if recovering from an illness, etc.
 
@@ -69,7 +69,7 @@
 
 **4.5.1** first name
 
-> ˈHalˎlo ·John, | ˈhow are you ˎkeeping?
+> ˋHal·lo ·John, | ˈhow are you ˎkeeping?
 
 #### 4.6 addressing a stranger
 
@@ -81,7 +81,7 @@
 
 **4.7.1** formal: Sir/Madam
 
-> That will be ˈ35 ˎpounds, Sir.
+> That will be '35 ˎpounds, Sir.
 
 **4.7.2** popular, familiar: Dear/Love ●
 

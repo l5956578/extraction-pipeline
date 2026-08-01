@@ -1,5 +1,6 @@
-<!-- el:start type=prose id=prose_p125 page=125 -->
-<!-- vision: Threshold PDF page 125 -->
+<!-- vision: leaf 125 doc p.119 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p125 page=119 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 statements of intention, obligation, granting or withholding permission, etc. In general, it indicates an unambiguous certainty.
 
@@ -43,7 +44,7 @@ ii) as an instruction;
 
 iii) as a strong form of offer.
 
-> ˈHave ·one of ·my cigaˎrettes.
+> ˈHave ·one of ˎmy ciga·rettes.
 
 #### 2 High falling **ˋ** is used
 
@@ -53,7 +54,7 @@ i) in exclamations to indicate surprise, protest, enthusiasm, emphasis or insist
 
 > That's ˋexcellent! You are ˋhurting me! ˈFancy ˋthat!
 
-ii) to indicate contrast with an element previously mentioned or believed to be in the listener's mind.
+ii) to indicate contrast with an element previously mentioned or believed to be in the listener’s mind.
 
 > ˋNo, | Mount ˋElburz is the ·highest ·mountain in ·Europe.
 

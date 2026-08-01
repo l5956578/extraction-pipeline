@@ -3,11 +3,11 @@
 
 - events
 
-  > He has ·had an ,accident.
+ > He has ·had an ˎaccident.
 
 - measures
 
-  > It is 'two ·miles ,long.
+ > It is ˈtwo ·miles ˎlong.
 
 #### 1.2 Forms
 
@@ -47,28 +47,28 @@ clothes (5.8.3), people (4.8.2), tights (5.8.3), trousers (5.8.3)
 
 **1.2.2.4.1** in the sense of ‘kinds of’
 
-> 'Most ·German ·wines are ,white.
+> ˈMost ·German ·wines are ˎwhite.
 
 **1.2.2.4.2** ‘objects made of …’ nylons, papers, plastics
 
 **1.2.2.4.3** ‘servings of’
 
-> 'Two ,teas and 'three ,coffees, ·please.
+> ˈTwo ˎteas and ˈthree ˎcoffees, ·please.
 
 **1.2.3** possessives (persons and animals only) (4.7.5.1)
 
 **1.2.3.1** singular  
 N+’s
 
-> my 'aunt’s ,dog
+> my ˈaunt's ˎdog
 
 **1.2.3.2** plural (not ending in s) ’s
 
-> the 'men’s ,bosses
+> the ˈmen's ˎbosses
 
 (ending in s)’ only
 
-> the 'wives’ ,club
+> the ˈwives' ˎclub
 
 ### A2 Pronouns
 

@@ -1,5 +1,6 @@
-<!-- el:start type=prose id=prose_p129 page=129 -->
-<!-- vision: Threshold PDF page 129 -->
+<!-- vision: leaf 129 doc p.123 | word-catalog multipass socio-appa -->
+<!-- el:start type=prose id=prose_p129 page=123 -->
+<!-- intonation: marks per docs/vision_extract/INTONATION_NOTATION.md (ˈ ˎ ˋ ˏ ˊ ˇ · only) -->
 
 Every tone group contains a nucleus. Many short utterances will comprise a single tone group, containing only one prominent syllable, which is then the nucleus of the tone group. Where there is more than one prominent syllable, the last of these is the nucleus and the first is the **head**. The head is usually marked by a jump up in pitch to a high-mid level. The actual pitch varies from mid to high, depending on the attitude of the speaker towards what he is saying and towards the hearer. The higher the level, the more cheerful and friendly the speaker sounds. The (high) head is marked in the texts by an upright line before the syllable concerned, above the line of writing **ˈ**.
 
@@ -13,7 +14,7 @@ Many, perhaps most, short exchanges in conversation — especially the contribut
 |-----------|-------------|
 | low rising | low falling |
 
-> ˈWhen you ·see John | ˈtell him to phone me.||
+> ˈWhen you ·see ˏJohn | ˈtell him to ˎphone me.||
 
 #### 2 Contrasting
 

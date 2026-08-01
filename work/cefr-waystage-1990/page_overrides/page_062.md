@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p062 page=62 -->
-<!-- vision: Waystage PDF page 62 -->
+<!-- vision: Waystage leaf 62 doc p.56 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p062 page=56 -->
 
 ## 10 Compensation strategies
 

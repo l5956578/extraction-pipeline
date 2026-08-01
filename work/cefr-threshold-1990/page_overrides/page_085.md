@@ -1,5 +1,10 @@
 <!-- el:start type=prose id=prose_p085 page=85 -->
-<!-- vision: Threshold PDF leaf 85 = doc p.79 | multipass Specific notions theme 11 Services -->
+<!-- vision: leaf 85 doc p.79 | word-catalog multipass ch7-8 -->
+<!-- cat: I'd ˈlike to ·change ˈ500 ˎfrancs. -->
+<!-- cat: I'd ˈlike to ·cash this ˎcheque. -->
+<!-- cat: I ˈhave an ·acˎcount | with the ˈMidland ˎBank. -->
+<!-- cat: I've ˈlost my ˎpassport. -->
+<!-- cat: My ˋbrakes ·don't ·work. -->
 
 ## 11 Services
 
@@ -73,10 +78,15 @@ steering
 to help  
 to repair  
 to work  
-My ˈbrakes ·don't ·work.
+My ˋbrakes ·don't ·work.
 
 **11.9 petrol station**  
 (See also General Notions 2.8.5.)  
 petrol station
+
+
+
+
+
 
 <!-- el:end id=prose_p085 -->

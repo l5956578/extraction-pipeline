@@ -3,11 +3,11 @@
 
 ### 43 Pro-verb phrase do so
 
-He 'asked me to stop | and | did so.
+He ˈasked me to stop | and | did so.
 
 ### 44 Nominalised verb phrases
 
-| 'want to -go home.
+| ˈwant to -go home.
 
 | don’t -know ‘what to do.
 
@@ -21,7 +21,7 @@ To ‘kill -people | is wrong.
 
 adjectives (cf. A 4.5 above) of probability (5.2.9, 10)
 
-It is ‘likely to ,rain to-morrow. of certainty (5.2.13, 14)
+It is ˈlikely to ˎrain to-morrow. of certainty (5.2.13, 14)
 
 He is ex'pected to ar-rive late. of evaluation (6.5.2)
 
@@ -31,19 +31,19 @@ Itis ‘wrong to kill -people. denoting emotional states
 
 This -bed is soft to -lie on. denoting moral qualities
 
-It is ‘kind of you | to in,vite us. denoting order (6.3.9)
+It is ˈkind of you | to inˎvite us. denoting order (6.3.9)
 
 They are ‘always the last to ar-rive. denoting availability (6.1.3)
 
-‘Is the -food -ready to ,eat?
+ˈIs the -food -ready to ˎeat?
 
 degree (6.4.3) enough
 
-The 'tea is now -cool e-nough to drink. 'Have you had e-nough to eat?
+The ˈtea is now -cool e-nough to drink. ˈHave you had e-nough to eat?
 
 My -grandfather is ‘too old | to travel. very
 
-This -case is 'very heavy to -carry.
+This -case is ˈvery heavy to -carry.
 
 complementising verbs (cf. A 7.1.7 above) forget, remember
 
@@ -51,13 +51,13 @@ complementising verbs (cf. A 7.1.7 above) forget, remember
 
 | ‘want to be-come a doctor. verbs expressing emotions
 
-| hope to ,pass the exami-nation. commencement (6.3.24)
+| hope to ˎpass the exami-nation. commencement (6.3.24)
 
-It is be'ginning to ,rain. suasion (6.6.2)
+It is be'ginning to ˎrain. suasion (6.6.2)
 
 ‘Tell him to -come here. appearance (5.2.13)
 
-She 'seems to be a,sleep.
+She ˈseems to be aˎsleep.
 
 pronoun (6.8.2)
 
@@ -65,22 +65,22 @@ pronoun (6.8.2)
 
 adverb (6.8.2)
 
-\ have 'nowhere to sleep.
+\ have ˈnowhere to sleep.
 
 complementising adjectives certain (5.2.13)
 
-‘Are you -certain -where to ,go?
+ˈAre you -certain -where to ˎgo?
 
 complementising verbs denoting cognitive attitudes
 
-‘Do you -know -where to ,go?
+ˈDo you -know -where to ˎgo?
 
 ‘Teach me -how to swim.
 
 4.5.3. VP gerund
 
-‘Swimming in the ,sea | 'can be
+ˈSwimming in the ˎsea | ˈcan be
 
-,dangerous.
+ˎdangerous.
 
 <!-- el:end id=prose_p152 -->

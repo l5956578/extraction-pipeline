@@ -7,3 +7,9 @@ __pycache__/
 terminals/
 .DS_Store
 Thumbs.db
+# Regenerable Vision/PDF renders (local only; rebuild from PDFs)
+**/intonation_hires/
+**/page_renders/
+**/page_ocr/
+**/metadata/qa_snapshots/
+**/metadata/crops/

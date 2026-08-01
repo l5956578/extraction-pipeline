@@ -1,12 +1,11 @@
-<!-- vision: Threshold PDF leaf 43 = document p.37 | multipass intonation -->
+<!-- vision: leaf 43 doc p.37 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p043 page=37 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
-**2.39.6** I don't care (+ *that* clause/*if* clause)
+**2.39.6** I don’t care (+ *that* clause/*if* clause)
 
 > I ˈdon't ˎcare | if it is ˈfoggy or ˎfine.
 
-**2.39.7** I don't mind (+ *that* clause/*if* clause)
+**2.39.7** I don’t mind (+ *that* clause/*if* clause)
 
 > I ˈdon't ˎmind | if you ˎsmoke.
 
@@ -14,11 +13,11 @@
 
 #### 2.40 enquiring about interest or lack of interest
 
-**2.40.1** Are(n't) you interested in NP/VP gerund?
+**2.40.1** Are(n’t) you interested in NP/VP gerund?
 
 > ˈAren't you ˈinterested in ·foreign ˎlanguages?
 
-**2.40.2** Do(es)(n't) NP interest you?
+**2.40.2** Do(es)(n’t) NP interest you?
 
 > ˈDoes phoˎtography ·interest you?
 
@@ -34,7 +33,7 @@
 
 **2.41.5** ˈThat is surˎprising!
 
-**2.41.6** I'm surprised (+ *that* clause/to + VPinf)
+**2.41.6** I’m surprised (+ *that* clause/to + VPinf)
 
 > I'm surˈprised | to ˈhear ˎthat.
 
@@ -48,7 +47,7 @@
 
 #### 2.42 expressing lack of surprise
 
-**2.42.1** ˈWell?
+**2.42.1** ˋWell?
 
 **2.42.2** ˈSo ˎwhat?
 
@@ -72,7 +71,7 @@
 
 **2.44.3** I (do) hope + *that* clause.
 
-> I ˈhope it ·stays ˋfine.
+> I ˈhope it ·stays ˇfine.
 
 **2.44.4** I hope/am hoping + to + VPinf
 
@@ -89,15 +88,15 @@
 
 #### 2.46 expressing fear
 
-**2.46.1** ˈHelp!
+**2.46.1** ˋHelp!
 
-**2.46.2** I'm ˈfrightened.
+**2.46.2** I'm ˋfrightened.
 
-**2.46.3** I'm afraid (+ *that* clause/ to + VPinf/of + NP)
+**2.46.3** I’m afraid (+ *that* clause/ to + VPinf/of + NP)
 
 > I'm aˈfraid of ·that ·man.
 
-**2.46.4** I'm (rather) worried (about NP)
+**2.46.4** I’m (rather) worried (about NP)
 
 > I'm ˈrather ·worried about ˎJoan.
 

@@ -1,9 +1,15 @@
 <!-- el:start type=prose id=prose_p082 page=82 -->
-<!-- vision: Threshold PDF leaf 82 = doc p.76 | multipass Specific notions 8.2–9.4 Shopping -->
+<!-- vision: leaf 82 doc p.76 | word-catalog multipass ch7-8 -->
+<!-- cat: ˈWhat ˎsubjects did you ·take at ·school? -->
+<!-- cat: I ˈpassed my examiˎnation | ˈlast ˎyear. -->
+<!-- cat: I ˈfailed my ·driving-·test ˎtwice. -->
+<!-- cat: I've ˈbought ˋthis | at the ˎsales. -->
+<!-- cat: I ˈwant to ·change this ˎshirt; | it is ˈnot the ·right ˎcolour. -->
+<!-- cat: ˈHave you ·got a ·new ˎwatch? -->
 
 **8.2 subjects**  
 subject  
-ˈWhat ·subjects did you ·take at ·school?  
+ˈWhat ˎsubjects did you ·take at ·school?  
 *names of school subjects*  
 e.g. arithmetic, computer science, economics, geography, history, mathematics, physics, reading, science, writing
 
@@ -35,7 +41,7 @@ self-service
 *names of types of shops*  
 e.g. baker's, butcher's, greengrocer's, grocer's, tobacconist's  
 sale  
-I've ˈbought ˈthis | at the ˎsales.  
+I've ˈbought ˋthis | at the ˎsales.  
 it is my (etc.) turn ●  
 to show  
 to wrap up ●  
@@ -64,5 +70,10 @@ to wear (clothes)
 
 **9.4 smoking**  
 tobacco
+
+
+
+
+
 
 <!-- el:end id=prose_p082 -->

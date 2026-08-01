@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p060 page=60 -->
-<!-- vision: Waystage PDF page 60 -->
+<!-- vision: Waystage leaf 60 doc p.54 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p060 page=54 -->
 
 3 Selecting goods/services
 
@@ -23,7 +23,7 @@
 
 3.3.5 asking for preference
 
-3.3.6 expressing preference  
+3.3.6 expressing preference 
 etc.
 
 3.4 identifying particular goods required

@@ -12,7 +12,6 @@ from pathlib import Path
 
 import pipeline.config as cfg
 from pipeline.config import ROOT, final_markdown_path
-from pipeline.extractors.figures import figures_for_page, load_figures_registry
 
 def _page_body(md: str, page_num: int) -> str:
     m = re.search(rf"<!-- page:{page_num} -->", md)
@@ -57,14 +56,67 @@ def validate_contracts(md_path: Path | None = None) -> dict:
     if re.search(r"\|\s*\|\n\|\s*---\s*\|\n\|\s*\|", md):
         issues.append(_fail("V-EMPTY-TABLE", "empty junk table | | pattern"))
 
-    # --- V-TABLE-ID: Table 3 not scale_reception ---
-    if re.search(r"scale_reception\b", md) and re.search(
-        r"Table\s+3|Reception.*Production.*Interaction", md[: md.find("<!-- page:40 -->") if "<!-- page:40 -->" in md else 200000]
-    ):
-        # Hard fail if scale_reception still used near chapter 2 table region
-        body33 = _page_body(md, 33)
+    # --- V-TABLE-ID / V-KNOWN-TABLE: layout-pinned Table ids (final-state lock) ---
+    # C2-T1: Table 3 must be table_03_macro_functional_basis — not scale_reception
+    # and not table_reception (Reception is one column of four).
+    body33 = _page_body(md, 33)
+    if body33:
         if "scale_reception" in body33:
-            issues.append(_fail("V-TABLE-ID", "p.33 still has scale_reception (should be table_03)"))
+            issues.append(
+                _fail(
+                    "V-TABLE-ID",
+                    "p.33 still has scale_reception (must be table_03_macro_functional_basis)",
+                )
+            )
+        if re.search(r"\btable_reception\b", body33) and not re.search(
+            r"db:id=table_03_macro_functional_basis\b", body33
+        ):
+            issues.append(
+                _fail(
+                    "V-TABLE-ID",
+                    "p.33 has table_reception (column header) — must be "
+                    "table_03_macro_functional_basis",
+                )
+            )
+        if "table_03_macro_functional_basis" not in body33 and re.search(
+            r"Table\s*3|Macro-functional|Reception\s*\|\s*Production",
+            body33,
+            re.I,
+        ):
+            issues.append(
+                _fail(
+                    "V-TABLE-ID",
+                    "p.33 missing db:id=table_03_macro_functional_basis "
+                    "(layout pin / C2-T1 final state)",
+                )
+            )
+
+    # All job-layout known_tables must appear as db:id=… (fail-closed final state)
+    try:
+        import pipeline.config as cfg
+
+        for page, (aid, title, _atype) in cfg.KNOWN_TABLES_FIGURES.items():
+            if not aid:
+                continue
+            body = _page_body(md, int(page))
+            if not body:
+                issues.append(
+                    _fail(
+                        "V-KNOWN-TABLE",
+                        f"p.{page}: missing page body for known table {aid}",
+                    )
+                )
+                continue
+            if f"db:id={aid}" not in body and f"id={aid}" not in body:
+                issues.append(
+                    _fail(
+                        "V-KNOWN-TABLE",
+                        f"p.{page}: known table id {aid!r} not present "
+                        f"(title was {title!r}) — extract/resync must not undowork layout pins",
+                    )
+                )
+    except Exception as exc:  # noqa: BLE001
+        issues.append(_fail("V-KNOWN-TABLE", f"layout pin check error: {exc}"))
 
     # --- V-FIG-MULTI ---
     for pn, required in (
@@ -92,7 +144,14 @@ def validate_contracts(md_path: Path | None = None) -> dict:
                 )
 
     # --- V-FIG-SOUP: soup after text_diagram on figure pages ---
-    for fig in load_figures_registry():
+    try:
+        from pipeline.extractors.figures import load_figures_registry
+
+        registry_figs = load_figures_registry()
+    except Exception as exc:  # noqa: BLE001
+        issues.append(_fail("V-FIG-SOUP", f"figures registry load error: {exc}"))
+        registry_figs = []
+    for fig in registry_figs:
         if fig.get("render_as") != "text_diagram":
             continue
         pn = fig["page"]

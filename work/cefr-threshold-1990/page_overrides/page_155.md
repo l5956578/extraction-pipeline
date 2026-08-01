@@ -3,21 +3,21 @@
 
 complementising verbs cf. 47.1.7 above) reporting (5.1.2)
 
-He -said that the -food was 'very good. knowing (5.2.5, 6)
+He -said that the -food was ˈvery good. knowing (5.2.5, 6)
 
 | know (that) she -works in an
 
-Office. remembering (5.2.7, 8) tre'member (that) he is -very ,tal expressing certainty (5.2.13,
+Office. remembering (5.2.7, 8) tre'member (that) he is -very ˎtal expressing certainty (5.2.13,
 
-Do you 'think (that) it will be ifoggy? expressing hope (5.2.44)
+Do you ˈthink (that) it will be ifoggy? expressing hope (5.2.44)
 
-Ido -hope | (that) you will .com to ,dinner.
+Ido -hope | (that) you will ·com to ˎdinner.
 
 following verbs of: asking
 
-She ‘asked if he was ,ready yet. wondering
+She ˈasked if he was ˎready yet. wondering
 
-| 'wonder if you could help me. knowing
+| ˈwonder if you could help me. knowing
 
 | ‘don't -know if you will like this.
 
@@ -25,21 +25,21 @@ She ‘asked if he was ,ready yet. wondering
 
 ‘What | like | is ‘watching football.
 
-This is '‘not what | ex,pected | or
+This is ˈnot what | exˎpected | or
 
 following verbs of: asking
 
 | ‘asked him -where he was going. wondering
 
-| ‘wonder where my ,keys are. telling
+| ˈwonder where my ˎkeys are. telling
 
-| 'told him when the -train was leaving.
+| ˈtold him when the -train was leaving.
 
 remembering
 
 Ihave for'gotten | -when he was jborn. knowing
 
-| 'don't -know ‘why | he ,left her.
+| ˈdon't -know ˈwhy | he ˎleft her.
 
 ‘What interests me | is politics.
 
@@ -65,7 +65,7 @@ smoke. suasion (6.6.2)
 
 -here. cognition (5.2.5-8) @
 
-I 'know him to be a kind -man.
+I ˈknow him to be a kind -man.
 
 2.1.7. NP+VP gerund
 
@@ -75,7 +75,7 @@ remembering (5.2.7, 8) tre'member my brother being
 
 I hate -insects -eating my
 
-,vegetables.
+ˎvegetables.
 
 ##### 2.1.8 NP (+ tobe) + adjective @
 

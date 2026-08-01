@@ -8,7 +8,7 @@
 | --- | --- |
 | C2 | Can interact in a multilingual context on abstract and specialised topics by alternating flexibly between languages in their plurilingual repertoire and if necessary explaining the different contributions made.<br>Can explore similarities and differences between metaphors and other figures of speech in the languages in their plurilingual repertoire, either for rhetorical effect or for fun. |
 | C1 | Can alternate between languages flexibly to facilitate communication in a multilingual context, summarising and glossing in different languages in their plurilingual repertoire contributions to the discussion and texts referred to.<br>Can participate effectively in a conversation in two or more languages in their plurilingual repertoire, adjusting to the changes of language and catering to the needs and linguistic skills of the interlocutors.<br>Can use and explain specialised terminology from another language in their plurilingual repertoire more familiar to the interlocutor(s), in order to improve understanding in a discussion of abstract and specialised topics.<br>Can respond spontaneously and flexibly in the appropriate language when someone else changes to another language in their plurilingual repertoire.<br>Can support comprehension and discussion of a text spoken, signed or written in one language by explaining, summarising, clarifying and expanding it in another language in their plurilingual repertoire. |
-| B2 | **Can recognise the extent to which it is appropriate to make flexible use of different languages in their plurilingual repertoire in a specific situation, in order to increase the efficiency of communication.<br>**Can alternate efficiently between languages in their plurilingual repertoire in order to facilitate comprehension with and between third parties who lack a common language.<br>**Can introduce into an utterance an expression from another language in their plurilingual repertoire that is particularly apt for the situation/concept being discussed, explaining it for the interlocutor when necessary.<br>Can alternate between languages in their plurilingual repertoire in order to communicate specialised information and issues on a subject in their field of interest to different interlocutors.<br>Can make use of different languages in their plurilingual repertoire during collaborative interaction, in order to clarify the nature of a task, the main steps, the decisions to be taken and the outcomes expected.<br>Can make use of different languages in their plurilingual repertoire to encourage other people to use the language in which they feel more comfortable. |
+| B2 | **Can recognise the extent to which it is appropriate to make flexible use of different languages in their plurilingual repertoire in a specific situation, in order to increase the efficiency of communication.<br>** Can alternate efficiently between languages in their plurilingual repertoire in order to facilitate comprehension with and between third parties who lack a common language.<br> **Can introduce into an utterance an expression from another language in their plurilingual repertoire that is particularly apt for the situation/concept being discussed, explaining it for the interlocutor when necessary.<br>Can alternate between languages in their plurilingual repertoire in order to communicate specialised information and issues on a subject in their field of interest to different interlocutors.<br>Can make use of different languages in their plurilingual repertoire during collaborative interaction, in order to clarify the nature of a task, the main steps, the decisions to be taken and the outcomes expected.<br>Can make use of different languages in their plurilingual repertoire to encourage other people to use the language in which they feel more comfortable. |
 | B1 | Can exploit creatively their limited repertoire in different languages in their plurilingual repertoire for everyday contexts, in order to cope with an unexpected situation. |
 | A2 | Can mobilise their limited repertoire in different languages in order to explain a problem or to ask for help or clarification.<br>Can use simple words/signs and phrases from different languages in their plurilingual repertoire to conduct a simple, practical transaction or information exchange.<br>Can use a simple word/sign from another language in their plurilingual repertoire to make themselves understood in a routine everyday situation, when they cannot think of an adequate expression in the language being used. |
 | A1 | Can use a very limited repertoire in different languages to conduct a very basic, concrete, everyday transaction with a collaborative interlocutor. |
@@ -19,10 +19,22 @@
 Descriptors marked with asterisks (**) represent a high level for B2. They may also be suitable for the C levels.
 <!-- el:end id=prose_p128_s1 -->
 
-*Page **128**▶**CEFR – Companion volume***<!-- page:128 -->
+*Page **128** ▶ **CEFR – Companion volume***
+
+<!-- page:128 -->
 
 <!-- el:start type=figure_page id=figure_16_communicative_language_competences page=129 -->
-Chapter 5**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES:**As stated in the first chapter when discussing the CEFR descriptive scheme, the view of competence in the CEFR does not come solely from applied linguistics but also from applied psychology and sociopolitical approaches. However, the different competence models developed in applied linguistics from the early 1980s on did influence the CEFR. Although they organised them in different ways, in general these models shared four main aspects: strategic competence; linguistic competence; pragmatic competence (comprising both discourse and functional/actional competence) and sociocultural competence (including sociolinguistic competence). Since strategic competence is dealt with in relation to activities, the CEFR presents descriptor scales for aspects of communicative language competence in CEFR 2001 Section 5.2 under three headings: “Linguistic competence”, “Pragmatic competence” and “Sociolinguistic competence”. These aspects, or parameters of description, are always intertwined in any language use; they are not separate “components” and cannot be isolated from each other.**Sociolinguistic  Linguistic competence** **competence**Sociolinguistic General linguistic range appropriateness
+Chapter 5
+
+**THE CEFR ILLUSTRATIVE DESCRIPTOR SCALES:**
+
+
+As stated in the first chapter when discussing the CEFR descriptive scheme, the view of competence in the CEFR does not come solely from applied linguistics but also from applied psychology and sociopolitical approaches. However, the different competence models developed in applied linguistics from the early 1980s on did influence the CEFR. Although they organised them in different ways, in general these models shared four main aspects: strategic competence; linguistic competence; pragmatic competence (comprising both discourse and functional/actional competence) and sociocultural competence (including sociolinguistic competence). Since strategic competence is dealt with in relation to activities, the CEFR presents descriptor scales for aspects of communicative language competence in CEFR 2001 Section 5.2 under three headings: “Linguistic competence”, “Pragmatic competence” and “Sociolinguistic competence”. These aspects, or parameters of description, are always intertwined in any language use; they are not separate “components” and cannot be isolated from each other.
+
+
+**Sociolinguistic  Linguistic competence** **competence**
+
+Sociolinguistic General linguistic range appropriateness
 
 Vocabulary range
 
@@ -32,7 +44,11 @@ Vocabulary control
 
 Phonological control
 
-Orthographic control**Pragmatic competence**Flexibility
+Orthographic control
+
+**Pragmatic competence**
+
+Flexibility
 
 Turntaking
 
@@ -68,14 +84,18 @@ Communicative language competences
 ```
 <!-- el:end id=figure_16_communicative_language_competences -->
 
-Page**129**<!-- page:129 -->
+Page **129**
+
+<!-- page:129 -->
 
 <!-- el:start type=prose id=prose_p130_s0 page=130 -->
 ### 5.1. LINGUISTIC COMPETENCE
 
 Descriptors are available for different aspects of linguistic competence: “Range” (subdivided: “Morpho-syntactic range”, later renamed “General linguistic range”, and “Vocabulary range”); “Control” (subdivided: “Grammatical accuracy” and “Vocabulary control”), “Phonological control” and “Orthographic control”. The range/control distinction is a common one that reflects the need to take account of the complexity of the language used rather than just registering mistakes. “Phonological control” is presented as a grid with the categories “Overall phonological control”, “Sound articulation” and “Prosodic features” (stress and intonation).
 
-The features of language used successfully at different levels are sometimes called “criterial features” but these are particular to different languages. Research in corpus linguistics is beginning to shed light on the nature of these features, and learners’ accuracy in using them, but results cannot easily be generalised across languages or across the linguistic backgrounds of the learners concerned.**General linguistic range**
+The features of language used successfully at different levels are sometimes called “criterial features” but these are particular to different languages. Research in corpus linguistics is beginning to shed light on the nature of these features, and learners’ accuracy in using them, but results cannot easily be generalised across languages or across the linguistic backgrounds of the learners concerned.
+
+**General linguistic range**
 
 Since the primary evidence for second language acquisition (that is, progress) is the emergence of new forms and not their mastery, the “range” of language at the user/learner’s disposal is a primary concern. Secondly, attempting to use more complex language, taking risks and moving beyond one’s comfort zone are essential parts of the learning process. When learners are tackling more complex tasks, their control of their language naturally suffers, and this is a healthy process. Learners will tend to have less control over more difficult, more recently learnt morphology and syntax than when they stay within their linguistic comfort zone, and this needs to be taken into consideration when viewing (lack of) accuracy.
 
@@ -106,13 +126,16 @@ Key concepts operationalised in the scale include the following:
 | Pre-A1 | Can use isolated words/signs and basic expressions in order to give simple information about themselves. |
 <!-- el:end id=scale_general_linguistic_range -->
 
-*Page **130**▶**CEFR – Companion volume***
+*Page **130** ▶ **CEFR – Companion volume***
 
 <!-- page:130 -->
 
-*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **131***<!-- page:131 -->
+*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **131***
 
-<!-- el:start type=prose id=prose_p132_s0 page=132 -->**Grammatical accuracy**
+<!-- page:131 -->
+
+<!-- el:start type=prose id=prose_p132_s0 page=132 -->
+**Grammatical accuracy**
 
 This scale concerns both the user/learner’s ability to recall “prefabricated” expressions correctly and the capacity to focus on grammatical forms while articulating thought. This is difficult because, when formulating thoughts or performing more demanding tasks, the user/learner has to devote the majority of their mental processing capacity to fulfilling the task. This is why accuracy tends to drop during complex tasks. In addition, research in English, French and German suggests that inaccuracy increases at around B1 as the learner is beginning to use language more independently and creatively. The fact that accuracy does not increase in a linear manner is reflected in the descriptors. Key concepts operationalised in the scale include the following:
 
@@ -159,9 +182,12 @@ This scale concerns the user/learner’s ability to choose an appropriate expres
 - degree of control (B2 to C2).
 <!-- el:end id=prose_p132_s2 -->
 
-*Page **132**▶**CEFR – Companion volume***<!-- page:132 -->
+*Page **132** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p133_s1 page=133 -->**Phonological control**
+<!-- page:132 -->
+
+<!-- el:start type=prose id=prose_p133_s1 page=133 -->
+**Phonological control**
 
 The 2001 scale has been replaced in this publication. The description of phonology in CEFR 2001 Section 5.2.1.4 is clear, thorough and sufficiently broad to encompass more recent reflections on aspects of phonology in second/foreign language education. However, the 2001 scale did not capture this conceptual apparatus and the progression appeared unrealistic, particularly in moving from B1 (“Pronunciation is clearly intelligible even if a foreign accent is sometimes evident and occasional mispronunciations occur”) to B2 (“Has a clear, natural, pronunciation and intonation”). In fact, the phonology scale was the least successful of those calibrated in the original research behind the descriptors published in 2001.
 
@@ -224,11 +250,13 @@ The focus is on the ability to effectively use prosodic features to convey meani
 | A1 | Pronunciation of a very limited repertoire of learnt words and phrases can be understood with some effort by interlocutors used to dealing with speakers of the language group. Can reproduce correctly a limited range of sounds as well as stress for simple, familiar words and phrases. | Can reproduce sounds in the target language if carefully guided.<br>Can articulate a limited number of sounds, so that speech is only intelligible if the interlocutor provides support (e.g. by repeating correctly and by eliciting repetition of new sounds). | Can use the prosodic features of a limited repertoire of simple words and phrases intelligibly, in spite of a very strong influence on stress, rhythm and/or intonation from the other language(s) they speak; their interlocutor needs to be collaborative. |
 <!-- el:end id=scale_phonological_control -->
 
-*Page **134**▶**CEFR – Companion volume***
+*Page **134** ▶ **CEFR – Companion volume***
 
 <!-- page:134 -->
 
-*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **135***<!-- page:135 -->
+*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **135***
+
+<!-- page:135 -->
 
 <!-- el:start type=prose id=prose_p136_s0 page=136 -->
 ### Orthographic control
@@ -260,7 +288,9 @@ This scale concerns the ability to copy, spell and use layout and punctuation. K
 <!-- el:start type=prose id=prose_p136_s2 page=136 -->
 ### 5.2. SOCIOLINGUISTIC COMPETENCE
 
-Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. Since language is a sociocultural phenomenon, much of what is contained in the CEFR, particularly in respect of the sociocultural, is also of relevance to sociolinguistic competence. The matters treated here are those specifically relating to language use that are not dealt with elsewhere: linguistic markers of social relations; politeness conventions; register differences; and dialect and accent.**Sociolinguistic appropriateness**
+Sociolinguistic competence is concerned with the knowledge and skills required to deal with the social dimension of language use. Since language is a sociocultural phenomenon, much of what is contained in the CEFR, particularly in respect of the sociocultural, is also of relevance to sociolinguistic competence. The matters treated here are those specifically relating to language use that are not dealt with elsewhere: linguistic markers of social relations; politeness conventions; register differences; and dialect and accent.
+
+**Sociolinguistic appropriateness**
 
 One scale is offered for “Sociolinguistic appropriateness”. Key concepts operationalised in the scale include the following:
 
@@ -275,7 +305,7 @@ One scale is offered for “Sociolinguistic appropriateness”. Key concepts ope
 - adopting an appropriate register (from B2 up).
 <!-- el:end id=prose_p136_s2 -->
 
-*Page **136**▶**CEFR – Companion volume***
+*Page **136** ▶ **CEFR – Companion volume***
 
 <!-- page:136 -->
 
@@ -344,13 +374,20 @@ Flexibility is concerned with the ability to adapt language learnt to new situat
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_flexibility -->
 
-*Page **138**▶**CEFR – Companion volume***<!-- page:138 -->
+*Page **138** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p139_s0 page=139 -->**Turntaking**Turntaking is concerned with the ability to take the discourse initiative. This ability can be viewed both as an interaction strategy (to take the floor) or as an integral aspect of discourse competence. For this reason this scale also appears in the section “Interaction strategies”. Key concepts operationalised in the scale include the following:
+<!-- page:138 -->
+
+<!-- el:start type=prose id=prose_p139_s0 page=139 -->
+**Turntaking**
+
+Turntaking is concerned with the ability to take the discourse initiative. This ability can be viewed both as an interaction strategy (to take the floor) or as an integral aspect of discourse competence. For this reason this scale also appears in the section “Interaction strategies”. Key concepts operationalised in the scale include the following:
 
 - initiating, maintaining and ending conversation;
 
-- intervening in an existing conversation or discussion, often using a prefabricated expression to do so, or to gain time to think.**Note:**This scale is repeated under “Interaction strategies”.
+- intervening in an existing conversation or discussion, often using a prefabricated expression to do so, or to gain time to think.
+
+**Note:** This scale is repeated under “Interaction strategies”.
 <!-- el:end id=prose_p139_s0 -->
 
 <!-- el:start type=artifact id=scale_turntaking page=139 -->
@@ -370,7 +407,8 @@ Flexibility is concerned with the ability to adapt language learnt to new situat
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_turntaking -->
 
-<!-- el:start type=prose id=prose_p139_s2 page=139 -->**Thematic development**
+<!-- el:start type=prose id=prose_p139_s2 page=139 -->
+**Thematic development**
 
 This scale is concerned with the way in which ideas are logically presented in a text and related to each other in a clear rhetorical structure. It also involves following relevant discourse conventions. Key concepts operationalised in the scale include the following:
 
@@ -381,7 +419,9 @@ This scale is concerned with the way in which ideas are logically presented in a
 - developing an argument (especially B2 to C1).
 <!-- el:end id=prose_p139_s2 -->
 
-*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **139***<!-- page:139 -->
+*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **139***
+
+<!-- page:139 -->
 
 <!-- el:start type=artifact id=scale_thematic_development page=140 -->
 <!-- db:id=scale_thematic_development type=descriptor_scale product_tier=assessment_action,detailed pages=140 -->
@@ -401,7 +441,8 @@ This scale is concerned with the way in which ideas are logically presented in a
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_thematic_development -->
 
-<!-- el:start type=prose id=prose_p140_s1 page=140 -->**Coherence and cohesion**
+<!-- el:start type=prose id=prose_p140_s1 page=140 -->
+**Coherence and cohesion**
 
 Coherence and cohesion refer to the way in which the separate elements of a text are interwoven into a coherent whole by exploiting linguistic devices such as referencing, substitution, ellipsis and other forms of textual cohesion, plus logical and temporal connectors and other forms of discourse markers. Both cohesion and coherence operate at the level of the sentence/utterance and at the level of the complete text. Key concepts operationalised in the scale include the following:
 
@@ -412,7 +453,9 @@ Coherence and cohesion refer to the way in which the separate elements of a text
 - varying the types of cohesive devices used, with fewer “clunky” connectors (C levels).
 <!-- el:end id=prose_p140_s1 -->
 
-*Page **140**▶**CEFR – Companion volume***<!-- page:140 -->
+*Page **140** ▶ **CEFR – Companion volume***
+
+<!-- page:140 -->
 
 <!-- el:start type=artifact id=scale_coherence_and_cohesion page=141 -->
 <!-- db:id=scale_coherence_and_cohesion type=descriptor_scale product_tier=assessment_action,detailed pages=141 -->
@@ -432,7 +475,8 @@ Coherence and cohesion refer to the way in which the separate elements of a text
 | Pre-A1 | No descriptors available |
 <!-- el:end id=scale_coherence_and_cohesion -->
 
-<!-- el:start type=prose id=prose_p141_s1 page=141 -->**Propositional precision**
+<!-- el:start type=prose id=prose_p141_s1 page=141 -->
+**Propositional precision**
 
 This scale concerns the ability to pinpoint how to formulate what one wishes to express. It concerns the extent to which the user/learner can communicate detail and shades of meaning, and can avoid compromising their ideally intended message. Key concepts operationalised in the scale include the following:
 
@@ -454,7 +498,9 @@ This scale concerns the ability to pinpoint how to formulate what one wishes to 
 | B2 | Can pass on detailed information reliably.<br>Can communicate the essential points even in more demanding situations, though their language lacks expressive power and idiomaticity. |
 <!-- el:end id=scale_coherence_and_cohesion -->
 
-*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **141***<!-- page:141 -->
+*The CEFR Illustrative Descriptor Scales: Communicative language competences ▶ Page **141***
+
+<!-- page:141 -->
 
 <!-- el:start type=artifact id=scale_propositional_precision page=142 -->
 <!-- db:id=scale_propositional_precision type=descriptor_scale product_tier=assessment_action,detailed pages=142 -->
@@ -469,7 +515,8 @@ This scale concerns the ability to pinpoint how to formulate what one wishes to 
 | Pre-A1 | Can communicate very basic information about personal details in a simple way. |
 <!-- el:end id=scale_propositional_precision -->
 
-<!-- el:start type=prose id=prose_p142_s1 page=142 -->**Fluency**
+<!-- el:start type=prose id=prose_p142_s1 page=142 -->
+**Fluency**
 
 Fluency, as discussed above, has a broader, holistic meaning (= articulate speaker/signer) and a narrower, technical and more psycholinguistic meaning (= accessing one’s repertoire). The broader interpretation would include “Propositional precision”, “Flexibility”, and at least to some extent “Thematic development” and “Coherence/ cohesion”. For this reason, the scale below focuses more on the narrower, more traditional view of fluency. Key concepts operationalised in the scale include the following:
 
@@ -495,10 +542,16 @@ Fluency, as discussed above, has a broader, holistic meaning (= articulate speak
 | Pre-A1 | Can manage very short, isolated, rehearsed utterances using gesture and signalled requests for help when necessary. |
 <!-- el:end id=scale_propositional_precision -->
 
-*Page **142**▶**CEFR – Companion volume***<!-- page:142 -->
+*Page **142** ▶ **CEFR – Companion volume***
+
+<!-- page:142 -->
 
 <!-- el:start type=prose id=prose_p143_s0 page=143 -->
-Chapter 6**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: SIGNING COMPETENCES**Many of the CEFR descriptors, especially those for communicative language activities, are as applicable to sign languages as they are to spoken languages, since sign languages are used to fulfil the same communicative functions. Hence these descriptors are modality-neutral, and modifications have been made to the formulation to emphasise this. However, there are obviously ways in which sign languages differ substantially from spoken languages. Fundamentally, they involve grammatical competences in the use of space, which we term “diagrammatical competence”. They also involve a broadened notion of the term “text”, namely for video-recorded signing that is not based on a written script. These competences go far beyond the paralinguistic features of communication through spoken language. The signing space is typically used to establish and later refer to relevant persons, places and objects in a form of spatial mapping. Sign languages then have syntax, semantics, morphology and phonology just like any other language. These differ of course from one sign language to another, as there are different sign languages in different countries, and sometimes more than one sign language in the same country. But there are certain common features such as the use of indexing, pronouns and classifier constructions. In addition, non-manual elements (facial expression, body orientation, head movement, etc.) and constructed action are used extensively in addition to hand and arm movements that are more traditionally considered to be the articulators of sign languages.
+Chapter 6
+
+**THE CEFR ILLUSTRATIVE DESCRIPTOR  SCALES: SIGNING COMPETENCES**
+
+Many of the CEFR descriptors, especially those for communicative language activities, are as applicable to sign languages as they are to spoken languages, since sign languages are used to fulfil the same communicative functions. Hence these descriptors are modality-neutral, and modifications have been made to the formulation to emphasise this. However, there are obviously ways in which sign languages differ substantially from spoken languages. Fundamentally, they involve grammatical competences in the use of space, which we term “diagrammatical competence”. They also involve a broadened notion of the term “text”, namely for video-recorded signing that is not based on a written script. These competences go far beyond the paralinguistic features of communication through spoken language. The signing space is typically used to establish and later refer to relevant persons, places and objects in a form of spatial mapping. Sign languages then have syntax, semantics, morphology and phonology just like any other language. These differ of course from one sign language to another, as there are different sign languages in different countries, and sometimes more than one sign language in the same country. But there are certain common features such as the use of indexing, pronouns and classifier constructions. In addition, non-manual elements (facial expression, body orientation, head movement, etc.) and constructed action are used extensively in addition to hand and arm movements that are more traditionally considered to be the articulators of sign languages.
 
 For communication, and reflecting contact with spoken language users, the repertoire of lexical and productive signs is supplemented by literally spelling out words or names using fingerspelling. Roughly, each letter of the spoken language script corresponds to a handshape. In due course, it may become lexicalised and phonologised. Fingerspelling, however, is a means of conveying something unfamiliar, for example a proper name, or a concept that does not have an established sign in the sign language used. Thus, fingerspelling is one of several contact phenomena that facilitate access to the written knowledge of spoken languages. Furthermore, fingerspelling is used to borrow new expressions from spoken languages, which may eventually also become lexicalised.
 
@@ -507,7 +560,9 @@ The categories for signing competences relate to the linguistic, pragmatic and s
 A few of the descriptors calibrated for signing competences are of a more global nature, similar to those included earlier. These have been kept in signing competences because they help to demonstrate the content coherence between the descriptors for signing competences and those for other areas.
 <!-- el:end id=prose_p143_s0 -->
 
-Page**143**<!-- page:143 -->
+Page **143**
+
+<!-- page:143 -->
 
 <!-- el:start type=figure_page id=figure_17_signing_competences page=144 -->
 <!-- db:id=figure_17_signing_competences type=figure render_as=text_diagram product_tier=context pages=144 -->
@@ -527,7 +582,19 @@ Signing competences
   ├── Presence and effect (productive)
   ├── Processing speed (receptive)
   └── Signing fluency (productive)
-```**Signing competences**Sign language repertoire Sociolinguistic (receptive/productive) appropriateness and cultural repertoire (receptive/productive) Diagrammatical accuracy (receptive/productive**6.1. LINGUISTIC COMPETENCE**Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary.**Sign language repertoire**
+```
+
+
+**Signing competences**
+
+
+Sign language repertoire Sociolinguistic (receptive/productive) appropriateness and cultural repertoire (receptive/productive) Diagrammatical accuracy (receptive/productive
+
+**6.1. LINGUISTIC COMPETENCE**
+
+Descriptors are available for “Sign language repertoire” and for “Diagrammatical accuracy”. This distinction reflects the knowledge/control dichotomy and mirrors that between range and control/accuracy with respect to grammar and vocabulary.
+
+**Sign language repertoire**
 
 These two scales incorporate language resources that are accessed in both sign language comprehension and production, for example in the combination of non-manual features with classifier handshapes to indicate reference and possibly hand motion and orientation to express other aspects of the intended meaning.
 
@@ -549,7 +616,7 @@ Processing speed (receptive)
 Signing fluency (productive)
 <!-- el:end id=figure_17_signing_competences -->
 
-*Page **144**▶**CEFR – Companion volume***
+*Page **144** ▶ **CEFR – Companion volume***
 
 <!-- page:144 -->
 
@@ -586,7 +653,7 @@ Key concepts operationalised in the two scales include:
 46. This is also known as “body partitioning”.
 <!-- el:end id=footnote_zone_p146_s1 -->
 
-*Page **146**▶**CEFR – Companion volume***
+*Page **146** ▶ **CEFR – Companion volume***
 
 <!-- page:146 -->
 
@@ -594,9 +661,12 @@ Key concepts operationalised in the two scales include:
 
 <!-- page:147 -->
 
-*Page **148**▶**CEFR – Companion volume***<!-- page:148 -->
+*Page **148** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p149_s0 page=149 -->**Diagrammatical accuracy**
+<!-- page:148 -->
+
+<!-- el:start type=prose id=prose_p149_s0 page=149 -->
+**Diagrammatical accuracy**
 
 Diagrammatical accuracy describes the correctness, accuracy, precision and complexity of syntactic expressions. Taken together, these aspects determine the comprehensibility of the intended meanings of the signed expressions. The competences here relate to manual and non-manual elements; they encompass knowledge and observation of syntactic rules and principles, use of signing space, the bodily expression necessary, head motions and so on. Receptive competences include correctly analysing parts of speech, spatial relations of structured expressions, particular contributions of clausal and phrasal functions, non-manual markings (e.g. to indicate scope, spatial reference, topicalised phrases).
 
@@ -632,7 +702,7 @@ Key concepts operationalised in the productive scale include:
 | A1 | Can understand an utterance as a direct request, question or order and respond accordingly.<br>Can understand the forms and sizes of objects (e.g., the form of a pyramid) and identify the objects.<br>Can understand different plural forms with simple signs (e.g., plural by means of numbers or by repetition).<br>Can understand lists and sequences (<and>/<both-and>/<and then> meanings).<br>Can understand productively expressed time indicators (<day-before-yesterday>, <3-years-ago>, etc.), when the time references are clearly indicated.<br>Can understand from descriptions of manipulated objects how a signer sets/lays them down or places them. | Can use personal pronouns correctly.<br>Can construct simple sentences with SVO and SOV patterns.<br>Can represent the thickness of an object by using productive signs.<br>Can construct a simple sentence using lexical signs.<br>Can form plurals through use of repetition or by marking a number. |
 <!-- el:end id=scale_diagrammatical_accuracy -->
 
-*Page **150**▶**CEFR – Companion volume***
+*Page **150** ▶ **CEFR – Companion volume***
 
 <!-- page:150 -->
 
@@ -640,6 +710,6 @@ Key concepts operationalised in the productive scale include:
 
 <!-- page:151 -->
 
-*Page **152**▶**CEFR – Companion volume***
+*Page **152** ▶ **CEFR – Companion volume***
 
 <!-- page:152 -->

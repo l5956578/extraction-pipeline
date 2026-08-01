@@ -46,6 +46,11 @@ def main() -> None:
         action="store_true",
         help="Cleanup raw → cleaned, merge, then postprocess",
     )
+    parser.add_argument(
+        "--skip-regression",
+        action="store_true",
+        help="Skip automatic regression suite + versions/NNN snapshot after write",
+    )
     args = parser.parse_args()
 
     ctx = bootstrap_job(args.job, force_draft=args.force_draft)
@@ -82,6 +87,24 @@ def main() -> None:
     _log(f"  {result['input_lines']} → {result['output_lines']} lines")
     _log(f"  {result['output_path']}")
     _log(f"Review: output/{ctx.job_id}/{ctx.markdown_name}")
+
+    if not args.skip_regression:
+        from pipeline.regression import run_regression_and_maybe_version
+
+        _log("=== REGRESSION + AUTO-VERSION ===")
+        r = run_regression_and_maybe_version(create_version=True)
+        rep = r["regression"]
+        _log(
+            f"regression passed={rep['passed']} "
+            f"hard={len(rep['issues'])} soft={len(rep['soft_issues'])}"
+        )
+        for it in rep["issues"][:15]:
+            _log(f"  HARD [{it['code']}] {it['detail']}")
+        if r.get("version_path"):
+            _log(f"version snapshot: {r['version_path']}")
+        elif not rep["passed"]:
+            _log("no version snapshot (regression failed — live output still updated)")
+            raise SystemExit(1)
 
 
 if __name__ == "__main__":

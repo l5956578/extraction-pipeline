@@ -1,5 +1,5 @@
-<!-- el:start type=prose id=prose_p077 page=77 -->
-<!-- vision: Waystage PDF page 77 -->
+<!-- vision: Waystage leaf 77 doc p.71 | word-catalog multipass -->
+<!-- el:start type=prose id=prose_p077 page=71 -->
 
 rhythmic beat, they are not given pitch prominence. At *Waystage*, two points of pitch prominence are of importance, the *nucleus* and the *head*. The last prominent stressed syllable in a tone group is its *nucleus*, which initiates a pitch pattern which continues to the end of the tone group, including any unstressed or stressed but non-prominent syllables that follow. The pattern used is closely related to the language function of the sentence and its grammatical category. At *Waystage*, five nuclear tones should be distinguished:
 
@@ -20,6 +20,7 @@ It is followed by one or more non-prominent syllables (the 'tail'), stressed or 
 a) in declarative sentences
 
 i) for factual statements e.g. identifying, defining, describing and narrating as well as in answers to *wh* questions (which may be short phrases or single words);  
-ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
+
+> ˈThis is a ˎdoor. They ˈdrove to ˎLondon. ˈDogs are ˎanimals.
 
 <!-- el:end id=prose_p077 -->

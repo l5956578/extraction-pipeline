@@ -1,10 +1,9 @@
-<!-- vision: Threshold PDF leaf 38 = document p.32 | multipass intonation -->
+<!-- vision: leaf 38 doc p.32 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p038 page=32 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 **2.9.5** impossible
 
-> … but ˈnot imˎpossible.
+> ... but ˈnot imˎpossible.
 
 **2.9.6** NP + *be* + certain/likely + to + VPinf ●
 
@@ -34,7 +33,7 @@
 
 **2.10.4** sentences in 2.9 + high rising intonation
 
-> The mu·seum is ˈcertain to be ˊclosed?
+> The mu·seum is ˈcertain to be ·closed?
 
 #### 2.11 expressing or denying necessity (including logical deduction)
 
@@ -62,7 +61,7 @@
 
 **2.12.2** must + NP + VPinf?
 
-> ˈMust ·things be ·black or ·white?
+> ˇMust ·things be ·black or ·white?
 
 #### 2.13 expressing degrees of certainty
 

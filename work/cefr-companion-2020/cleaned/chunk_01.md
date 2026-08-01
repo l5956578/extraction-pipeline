@@ -2,13 +2,22 @@
 
 <!-- el:start type=prose id=prose_p001_s0 page=1 -->
 **COMMON EUROPEAN  FRAMEWORK  OF REFERENCE  FOR LANGUAGES:**
-**LEARNING, TEACHING,  ASSESSMENT Companion volume**<!-- el:end id=prose_p001_s0 -->
 
-Page**1**<!-- page:1 -->
+**LEARNING, TEACHING,  ASSESSMENT Companion volume**
+<!-- el:end id=prose_p001_s0 -->
 
-Page**2**<!-- page:2 -->
+Page **1**
 
-<!-- el:start type=prose id=prose_p003_s0 page=3 -->**COMMON EUROPEAN  FRAMEWORK  OF REFERENCE  FOR LANGUAGES:**LEARNING, TEACHING, ASSESSMENT
+<!-- page:1 -->
+
+Page **2**
+
+<!-- page:2 -->
+
+<!-- el:start type=prose id=prose_p003_s0 page=3 -->
+**COMMON EUROPEAN  FRAMEWORK  OF REFERENCE  FOR LANGUAGES:**
+
+LEARNING, TEACHING, ASSESSMENT
 
 Companion volume
 
@@ -27,21 +36,27 @@ Education Department
 Council of Europe
 <!-- el:end id=prose_p003_s0 -->
 
-Page**3**<!-- page:3 -->
+Page **3**
+
+<!-- page:3 -->
 
 <!-- el:start type=prose id=prose_p004_s0 page=4 -->
-A preliminary version of this update to the**Common European Framework  of Reference for Languages: learning, teaching, assessment**was published online in English and French in 2018 as “Common European Framework of Reference for Languages: Learning, teaching, assessment: Companion Volume with New Descriptors” and “Cadre européen commun de référence pour les langues: apprendre, enseigner, évaluer : Volume complémentaire avec de nouveaux descripteurs”,respectively.
+A preliminary version of this update to the **Common European Framework  of Reference for Languages: learning, teaching, assessment** was published online in English and French in 2018 as “Common European Framework of Reference for Languages: Learning, teaching, assessment: Companion Volume with New Descriptors” and “Cadre européen commun de référence pour les langues: apprendre, enseigner, évaluer : Volume complémentaire avec de nouveaux descripteurs”,respectively.
 
 This volume presents the key messages of the CEFR in a user-friendly form and contains all CEFR illustrative descriptors. For pedagogical use of the CEFR for learning, teaching and assessment, teachers and teacher educators will find it easier to access the CEFR Companion volume as the updated framework. The Companion volume provides the links and references to also consult the chapters of the 2001 edition, where necessary. Researchers wishing to interrogate the underlying concepts and guidance in CEFR chapters about specific areas should access the 2001 edition, which remains valid.
 
-French edition:**Cadre européen commun de référence  pour les langues : apprendre, enseigner,** **évaluer – Volume complémentaire**All rights reserved. No part of this publication may be translated, reproduced or transmitted, in any form or by any means, electronic (CD-Rom, internet, etc.) or mechanical, including photocopying, recording or any information storage or retrieval system, without prior permission in writing from the Directorate of Communication (F-67075 Strasbourg Cedex or publishing@coe.int).
+French edition:
+
+**Cadre européen commun de référence  pour les langues : apprendre, enseigner,** **évaluer – Volume complémentaire**
+
+All rights reserved. No part of this publication may be translated, reproduced or transmitted, in any form or by any means, electronic (CD-Rom, internet, etc.) or mechanical, including photocopying, recording or any information storage or retrieval system, without prior permission in writing from the Directorate of Communication (F-67075 Strasbourg Cedex or publishing@coe.int).
 
 Cover design and layout: Documents and Publications Production Department (SPDP), Council of Europe
 
-ISBN 978-92-871-8621-8 © Council of Europe, April 2020 Printed at the Council of Europe Citation reference: Council of Europe (2020),**Common European Framework  of Reference for Languages: Learning,  teaching, assessment – Companion volume**, Council of Europe Publishing, Strasbourg, available at www.coe.int/lang-cefr.
+ISBN 978-92-871-8621-8 © Council of Europe, April 2020 Printed at the Council of Europe Citation reference: Council of Europe (2020), **Common European Framework  of Reference for Languages: Learning,  teaching, assessment – Companion volume**, Council of Europe Publishing, Strasbourg, available at www.coe.int/lang-cefr.
 <!-- el:end id=prose_p004_s0 -->
 
-Page**4**
+Page **4**
 
 <!-- page:4 -->
 
@@ -261,9 +276,12 @@ Page**4**
 <!-- page:9 -->
 <!-- el:end id=toc_p009_s0 -->
 
-Page **10**<!-- page:10 -->
+Page **10**
 
-<!-- el:start type=prose id=prose_p011_s0 page=11 -->**FOREWORD**The**Common European Framework of Reference for Languages: Learning, teaching, assessment**(CEFR)1 is one of the best-known and most used Council of Europe policy instruments. Through the European C (https://rm.coe.int/1680459f97)ultural Convention 50 European countries commit to encouraging “the study by its own nationals of the languages, history and civilisation” of other European countries. The CEFR has played and continues to play an important role in making this vision of Europe a reality.
+<!-- page:10 -->
+
+<!-- el:start type=prose id=prose_p011_s0 page=11 -->
+**FOREWORD**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)1 is one of the best-known and most used Council of Europe policy instruments. Through the European C (https://rm.coe.int/1680459f97)ultural Convention 50 European countries commit to encouraging “the study by its own nationals of the languages, history and civilisation” of other European countries. The CEFR has played and continues to play an important role in making this vision of Europe a reality.
 
 Since its launch in 2001, the CEFR, together with its related instrument for learners, the European Language Portfolio (ELP),2 has been a central feature of the Council of Europe’s intergovernmental programmes in the field of education, including their initiatives to promote the right to quality education for all. Language education contributes to Council of Europe’s core mission “to achieve a greater unity between its members” and is fundamental to the effective enjoyment of the right to education and other individual human rights and the rights of minorities as well as, more broadly, to developing and maintaining a culture of democracy.
 
@@ -271,24 +289,32 @@ The CEFR is intended to promote quality plurilingual education, facilitate great
 
 The Council of Europe hopes that the development in this publication of areas such as mediation, plurilingual/ pluricultural competence and signing competences will contribute to quality inclusive education for all, and to the promotion of plurilingualism and pluriculturalism.
 
-Snežana Samardžić-Marković**Council of Europe Director General for Democracy**<!-- el:end id=prose_p011_s0 -->
+Snežana Samardžić-Marković
+
+**Council of Europe Director General for Democracy**
+<!-- el:end id=prose_p011_s0 -->
 
 1. www.coe.int/lang-cefr.
 2. www.coe.int/en/web/portfolio.
 
-Page**11**<!-- page:11 -->
+Page **11**
 
-Page**12**<!-- page:12 -->
+<!-- page:11 -->
 
-<!-- el:start type=prose id=prose_p013_s0 page=13 -->**PREFACE WITH ACKNOWLEDGEMENTS**The**Common European Framework of Reference for Languages: Learning, teaching, assessment**(CEFR) was published in 2001 (the European Year of Languages) after a comprehensive process of drafting, piloting and consultation. The CEFR has contributed to the implementation of the Council of Europe’s language education principles, including the promotion of reflective learning and learner autonomy.
+Page **12**
+
+<!-- page:12 -->
+
+<!-- el:start type=prose id=prose_p013_s0 page=13 -->
+**PREFACE WITH ACKNOWLEDGEMENTS**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR) was published in 2001 (the European Year of Languages) after a comprehensive process of drafting, piloting and consultation. The CEFR has contributed to the implementation of the Council of Europe’s language education principles, including the promotion of reflective learning and learner autonomy.
 
 A comprehensive set of resources has been developed around the CEFR since its publication in order to support implementation and, like the CEFR itself, these resources are presented on the Council of Europe’s CEFR website.3 Building on the success of the CEFR and other projects a number of policy documents and resources that further develop the underlying educational principles and objectives of the CEFR are also available, not only for foreign/second languages but also for the languages of schooling and the development of curricula to promote (http://www.coe.int/lang-platform) plurilingual and intercultural education. Many of these are available on the Platform of resources and references for plurilingual and intercultural education,4 for example:
 
--**Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621);5**f**A handbook for curriculum development and teacher education: the language dimension in all subjects (https://rm.coe.int/16806af387);6**f “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe”; (https://rm.coe.int/16802fc1c4)7
+- **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621);5**f**A handbook for curriculum development and teacher education: the language dimension in all subjects (https://rm.coe.int/16806af387);6** f “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe”; (https://rm.coe.int/16802fc1c4)7
 
 Others are available separately:
 
-- policy guidelines and resources for the linguistic integration of adult migrants (http://www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines);8 f guidelines for intercultural education and an autobiography of intercultural encounters (http://www.coe.int/t/dg4/autobiography/default_en.asp);9 f**Reference framework of competences for democratic culture (https://go.coe.int/mWYUH)**.10  
+- policy guidelines and resources for the linguistic integration of adult migrants (http://www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines);8 f guidelines for intercultural education and an autobiography of intercultural encounters (http://www.coe.int/t/dg4/autobiography/default_en.asp);9 f **Reference framework of competences for democratic culture (https://go.coe.int/mWYUH)**.10  
 
 However, regardless of all this further material provided, the Council of Europe frequently received requests to continue to develop aspects of the CEFR, particularly the illustrative descriptors of second/foreign language proficiency. Requests were made asking the Council of Europe to complement the illustrative scales published in 2001 with descriptors for mediation, reactions to literature and online interaction, to produce versions for young learners and for signing competences, and to develop more detailed coverage in the descriptors for A1 and C levels.
 
@@ -298,15 +324,17 @@ For mediation, an important concept introduced in the CEFR that has assumed even
 <!-- el:end id=prose_p013_s0 -->
 
 3. www.coe.int/lang-cefr.
-4. www.coe.int/lang-platform. Beacco J.-C. et al. (2016a),**Guide for the development and implementation of curricula for plurilingual and intercultural education**, Council
-5. of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae621. Beacco J.-C. et al. (2016b),**A handbook for curriculum development and teacher education: the language dimension in all subjects**, Council
+4. www.coe.int/lang-platform. Beacco J.-C. et al. (2016a), **Guide for the development and implementation of curricula for plurilingual and intercultural education**, Council
+5. of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806ae621. Beacco J.-C. et al. (2016b), **A handbook for curriculum development and teacher education: the language dimension in all subjects**, Council
 6. of Europe Publishing, Strasbourg, available at https://rm.coe.int/16806af387.
 7. Beacco J.-C. and Byram M. (2007), “From linguistic diversity to plurilingual education: guide for the development of language education policies in Europe”, Language Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/16802fc1c4.
 8. www.coe.int/en/web/lang-migrants/officials-texts-and-guidelines.
 9. www.coe.int/t/dg4/autobiography/default_en.asp.
-10.	 Council of Europe (2018),**Reference framework of competences for democratic culture**, Council of Europe Publishing, Strasbourg, available at https://go.coe.int/mWYUH, accessed 6 March 2020.
+10.	 Council of Europe (2018), **Reference framework of competences for democratic culture**, Council of Europe Publishing, Strasbourg, available at https://go.coe.int/mWYUH, accessed 6 March 2020.
 
-Page**13**<!-- page:13 -->
+Page **13**
+
+<!-- page:13 -->
 
 <!-- el:start type=prose id=prose_p014_s0 page=14 -->
 As part of the process of further developing the descriptors, an effort was made to make them modality-inclusive. The adaptation of the descriptors in this way is informed by the ECML’s pioneering PRO-Sign project. (http://www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx) In addition, illustrative descriptor scales specifically for signing competences are provided, again informed by SNSF research project No. 100015_156592.
@@ -337,15 +365,17 @@ Authoring Group: Brian North, Tim Goodier, Enrica Piccardo, Maria Stathopoulou
 
 Sounding Board: Gilles Breton, Coreen Docherty, Hanan Khalifa, Ángeles Ortega, Christine Tagliante, Sauli Takala
 
-Consultants**(at meetings in June 2014, June 2015 and/or June 2016)**: Marisa Cavalli, Daniel Coste, Mirjam Egli Ceunat, Gudrun Erickson, Daniela Fasoglio, Vincent Folny, Manuela Ferreira Pinto, Glyn Jones, Neil Jones, Peter Lenz, David Little, Gerda Piribauer, Günther Schneider, Joseph Sheils, Belinda Steinhuber, Barbara Spinelli, Bertrand Vittecoq
+Consultants **(at meetings in June 2014, June 2015 and/or June 2016)**: Marisa Cavalli, Daniel Coste, Mirjam Egli Ceunat, Gudrun Erickson, Daniela Fasoglio, Vincent Folny, Manuela Ferreira Pinto, Glyn Jones, Neil Jones, Peter Lenz, David Little, Gerda Piribauer, Günther Schneider, Joseph Sheils, Belinda Steinhuber, Barbara Spinelli, Bertrand Vittecoq
 <!-- el:end id=prose_p014_s0 -->
 
 11.	 https://go.coe.int/mWYUH
 
-*Page **14**▶**CEFR – Companion volume***<!-- page:14 -->
+*Page **14** ▶ **CEFR – Companion volume***
+
+<!-- page:14 -->
 
 <!-- el:start type=prose id=prose_p015_s0 page=15 -->
-Consultants**(at a meeting in June 2016 only)**: Sarah Breslin, Mike Byram, Michel Candelier, Neus Figueras Casanovas, Francis Goullier, Hanna Komorowska, Terry Lamb, Nick Saville, Maria Stoicheva, Luca Tomasi
+Consultants **(at a meeting in June 2016 only)**: Sarah Breslin, Mike Byram, Michel Candelier, Neus Figueras Casanovas, Francis Goullier, Hanna Komorowska, Terry Lamb, Nick Saville, Maria Stoicheva, Luca Tomasi
 
 Stage 3:	 Developing a new scale for phonological control (2015-16)
 
@@ -392,7 +422,9 @@ The Swiss National Science Foundation and the Max Bircher Stiftung for funding t
 
 12.	 SNSF research project 100015_156592: Gemeinsamer Europäischer Referenzrahmen für Gebärdensprachen: Empirie-basierte Grundlagen für grammatische, pragmatische und soziolinguistische Deskriptoren in Deutschschweizer Gebärdensprache, conducted at the Zurich University of Applied Sciences (ZHAW, Winterthur). The SNSF provided some €385 000 for this research into signing competences.
 
-*Preface with acknowledgements ▶ Page **15***<!-- page:15 -->
+*Preface with acknowledgements ▶ Page **15***
+
+<!-- page:15 -->
 
 <!-- el:start type=prose id=prose_p016_s0 page=16 -->
 The PRO-Sign project team (European Centre for Modern Languages, ECML) for their assistance in finalising the descriptors for signing competences and in adapting the other descriptors for modality inclusiveness.13
@@ -421,7 +453,9 @@ Organisations, in alphabetical order, that facilitated the recruitment of instit
 
 - UNIcert
 
-Institutes (organised in alphabetical order by country) that participated between February and November 2015 in the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/ pluricultural competence, and/or assisted in initial piloting. The Council of Europe also wishes to thank the many individual participants, all of whose institutes could not be included here.**Algeria**Institut Français d’Alger**Argentina**Academia Argüello, Córdoba La Asociación de Ex Alumnos del Profesorado en Lenguas Vivas Juan R. Fernández National University of Córdoba**Austria**BBS (Berufsbildende Schule), Rohrbach BG/BRG (Bundesgymnasium/Bundesrealgymnasium), Hallein CEBS (Center für berufsbezogene Sprachen des bmbf), Vienna Federal Institute for Education Research (BIFIE), Vienna HBLW Linz-Landwiedstraße HLW (Höhere Lehranstalt für wirtschaftliche Berufe) Ferrarischule, Innsbruck**Bolivia**Alliance Française de La Paz**Bosnia and Herzegovina**Anglia V Language School, Bijeljina**Brazil**Alliance Française Alliance Française de Curitiba**Bulgaria** AVO Language and Examination Centre, Sofia St Patrick’s School, Córdoba Universidad Nacional de La Plata, La Plata
+Institutes (organised in alphabetical order by country) that participated between February and November 2015 in the validation of the descriptors for mediation, online interaction, reactions to literature and plurilingual/ pluricultural competence, and/or assisted in initial piloting. The Council of Europe also wishes to thank the many individual participants, all of whose institutes could not be included here.
+
+**Algeria**Institut Français d’Alger**Argentina** Academia Argüello, Córdoba La Asociación de Ex Alumnos del Profesorado en Lenguas Vivas Juan R. Fernández National University of Córdoba **Austria** BBS (Berufsbildende Schule), Rohrbach BG/BRG (Bundesgymnasium/Bundesrealgymnasium), Hallein CEBS (Center für berufsbezogene Sprachen des bmbf), Vienna Federal Institute for Education Research (BIFIE), Vienna HBLW Linz-Landwiedstraße HLW (Höhere Lehranstalt für wirtschaftliche Berufe) Ferrarischule, Innsbruck **Bolivia**Alliance Française de La Paz**Bosnia and Herzegovina**Anglia V Language School, Bijeljina**Brazil**Alliance Française Alliance Française de Curitiba**Bulgaria** AVO Language and Examination Centre, Sofia St Patrick’s School, Córdoba Universidad Nacional de La Plata, La Plata
 
 Institut Français d’Autriche-Vienne International Language Centre of the University of Innsbruck LTRGI (Language Testing Research Group Innsbruck), School of Education, University of Innsbruck Language Centre of the University of Salzburg Pädagogische Hochschule Niederösterreich
 
@@ -434,9 +468,12 @@ Sofia University St. Kliment Ohridski
 
 13.	 See www.ecml.at/ECML-Programme/Programme2012-2015/ProSign/tabid/1752/Default.aspx. Project team: Tobias Haug, Lorraine Leeson, Christian Rathmann, Beppie van den Bogaerde.
 
-*Page **16**▶**CEFR – Companion volume***<!-- page:16 -->
+*Page **16** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p017_s0 page=17 -->**Cameroon**Alliance Française de Bamenda**Canada**OISE (Ontario Institute for Studies in Education), University of Toronto**Chile**Alliance Française de La Serena**China**Alliance Française de Chine China Language Assessment, Beijing Foreign Studies University Guangdong University of Foreign Studies, School of Interpreting and Translation Studies**Colombia**Alliance Française de Bogota**Croatia**University of Split Croatian Defence Academy, Zagreb**Cyprus**Cyprus University of Technology**Czech Republic**Charles University, Prague (Institute for Language and Preparatory Studies) Masaryk University Language Centre, Brno**Egypt**Institut Français d’Egypt**Estonia**Foundation Innove, Tallinn**Finland**Aalto University Häme University of Applied Sciences Language Centre, University of Tampere Matriculation Examination Board National Board of Education**France**Alliance Française Alliance Française de Nice Alliance française Paris Ile-de-France British Council, Lyon CAVILAM (Centre d’Approches Vivantes des Langues et des Médias) – Alliance Française CIDEF (Centre international d’études françaises), Université catholique de l’Ouest CIEP (Centre international d’études pédagogiques) CLV (Centre de langues vivantes), Université Grenoble-Alpes Collège International de Cannes**Germany** Bundesarbeitsgemeinschaft Englisch an Gesamtschulen elc-European Language Competence, Frankfurt
+<!-- page:16 -->
+
+<!-- el:start type=prose id=prose_p017_s0 page=17 -->
+**Cameroon**Alliance Française de Bamenda**Canada**OISE (Ontario Institute for Studies in Education), University of Toronto**Chile**Alliance Française de La Serena**China** Alliance Française de Chine China Language Assessment, Beijing Foreign Studies University Guangdong University of Foreign Studies, School of Interpreting and Translation Studies **Colombia**Alliance Française de Bogota**Croatia**University of Split Croatian Defence Academy, Zagreb**Cyprus**Cyprus University of Technology**Czech Republic** Charles University, Prague (Institute for Language and Preparatory Studies) Masaryk University Language Centre, Brno **Egypt**Institut Français d’Egypt**Estonia**Foundation Innove, Tallinn**Finland** Aalto University Häme University of Applied Sciences Language Centre, University of Tampere Matriculation Examination Board National Board of Education **France** Alliance Française Alliance Française de Nice Alliance française Paris Ile-de-France British Council, Lyon CAVILAM (Centre d’Approches Vivantes des Langues et des Médias) – Alliance Française CIDEF (Centre international d’études françaises), Université catholique de l’Ouest CIEP (Centre international d’études pédagogiques) CLV (Centre de langues vivantes), Université Grenoble-Alpes Collège International de Cannes **Germany** Bundesarbeitsgemeinschaft Englisch an Gesamtschulen elc-European Language Competence, Frankfurt
 
 Frankfurt School of Finance & Management Fremdsprachenzentrum der Hochschulen im Land Bremen, Bremen University Georg-August-Universität Göttingen (Zentrale Einrichtung für Sprachen und Schlüsselqualifikationen) Goethe-Institut München Institut français d’Allemagne Language Centre, Neu-Ulm University of Applied Sciences (HNU) Institut Français du Cameroun, Yaoundé
 
@@ -469,14 +506,20 @@ telc gGmbH Frankfurt
 Universität Freiburg (Sprachlehrinstitut) Universität Hohenheim (Sprachenzentrum) Universität Leipzig (Sprachenzentrum)
 <!-- el:end id=prose_p017_s0 -->
 
-*Preface with acknowledgements ▶ Page **17***<!-- page:17 -->
+*Preface with acknowledgements ▶ Page **17***
+
+<!-- page:17 -->
 
 <!-- el:start type=prose id=prose_p018_s0 page=18 -->
-Instituto Cervantes de Munich Institut für Qualitätsentwicklung Mecklenburg-Vorpommern Justus-Liebig Universität Giessen (Zentrum für fremdsprachliche und berufsfeldorientierte Kompetenzen) Pädagogische Hochschule Heidelberg Pädagogische Hochschule Karlsruhe Ruhr-Universität Bochum, ZFA (Zentrum für Fremdsprachenausbildung ) Sprachenzentrum, Europa-Universität Viadrina Frankfurt (Oder)**Greece**Bourtsoukli Language Centre Hellenic American University in Athens**Hungary**ELTE ONYC Eötvös Lorand University Euroexam Budapest Business School Budapest University of Technology and Economics**India**ELT Consultants**Ireland**Alpha College, Dublin Galway Cultural Institute**Italy**Accento, Martina Franca, Apulia AISLi (Associazione Italiana Scuola di Lingue) Alliance Française Bennett Languages, Civitavecchia British School of Trieste British School of Udine Centro Lingue Estere Arma dei Carabinieri
+Instituto Cervantes de Munich Institut für Qualitätsentwicklung Mecklenburg-Vorpommern Justus-Liebig Universität Giessen (Zentrum für fremdsprachliche und berufsfeldorientierte Kompetenzen) Pädagogische Hochschule Heidelberg Pädagogische Hochschule Karlsruhe Ruhr-Universität Bochum, ZFA (Zentrum für Fremdsprachenausbildung ) Sprachenzentrum, Europa-Universität Viadrina Frankfurt (Oder)
+
+**Greece**Bourtsoukli Language Centre Hellenic American University in Athens**Hungary** ELTE ONYC Eötvös Lorand University Euroexam Budapest Business School Budapest University of Technology and Economics **India**ELT Consultants**Ireland**Alpha College, Dublin Galway Cultural Institute**Italy** Accento, Martina Franca, Apulia AISLi (Associazione Italiana Scuola di Lingue) Alliance Française Bennett Languages, Civitavecchia British School of Trieste British School of Udine Centro Lingue Estere Arma dei Carabinieri
 
 Centro Linguistio di Ateneo – Università di Bologna Centro Linguistico di Ateneo di Trieste
 
-CVCL (Centro per la Valutazione e le Certificazioni linguistiche) – Università per Stranieri di Perugia Free University of Bolzano, Language Study Unit Globally Speaking, Rome Institut Français de Milan Institute for Educational Research/LUMSA University, Rome**Japan**Alliance Française du Japon Institut Français du Japon**Latvia**Baltic International Academy, Department of Translation and Interpreting**Lebanon**Institut Français du Liban**Lithuania**Lithuanian University of Educational Sciences Ministry of Education and Science**Luxembourg**Ministry of Education, Children and Youth**Mexico** University of Guadalajara Universität Passau (Sprachenzentrum) Universität Regensburg (Zentrum für Sprache und Kommunikation) Universität Rostock (Sprachenzentrum)
+CVCL (Centro per la Valutazione e le Certificazioni linguistiche) – Università per Stranieri di Perugia Free University of Bolzano, Language Study Unit Globally Speaking, Rome Institut Français de Milan Institute for Educational Research/LUMSA University, Rome
+
+**Japan**Alliance Française du Japon Institut Français du Japon**Latvia**Baltic International Academy, Department of Translation and Interpreting**Lebanon**Institut Français du Liban**Lithuania**Lithuanian University of Educational Sciences Ministry of Education and Science**Luxembourg**Ministry of Education, Children and Youth**Mexico** University of Guadalajara Universität Passau (Sprachenzentrum) Universität Regensburg (Zentrum für Sprache und Kommunikation) Universität Rostock (Sprachenzentrum)
 
 Universität des Saarlandes (Sprachenzentrum) University Language Centers in Berlin and Brandenburg VHS Siegburg
 
@@ -501,13 +544,20 @@ Vilnius University
 University of Luxembourg
 <!-- el:end id=prose_p018_s0 -->
 
-*Page **18**▶**CEFR – Companion volume***<!-- page:18 -->
+*Page **18** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p019_s0 page=19 -->**Morocco**Institut Français de Maroc**Netherlands**Institut Français des Pays-Bas Cito**New Zealand**LSI (Language Studies International)**North Macedonia**AAB University Elokventa Language Centre**Norway**Department of Teacher Education and School Research, University of Oslo University of Bergen**Peru**Alliance Française au Peru**Poland**British Council, Warsaw
+<!-- page:18 -->
 
-Educational Research Institute, Warsaw Gama College, Kraków Instituto Cervantes, Kraków**Portugal**British Council, Lisbon Camões, Instituto da Cooperação e da Língua
+<!-- el:start type=prose id=prose_p019_s0 page=19 -->
+**Morocco**Institut Français de Maroc**Netherlands**Institut Français des Pays-Bas Cito**New Zealand**LSI (Language Studies International)**North Macedonia**AAB University Elokventa Language Centre**Norway**Department of Teacher Education and School Research, University of Oslo University of Bergen**Peru**Alliance Française au Peru**Poland** British Council, Warsaw
 
-FCSH, NOVA University of Lisbon**Romania**ASE (Academia de Studii Economice din Bucuresti) Institut Français de Roumanie LINGUA Language Centre of Babeș-Bolyai, University Cluj-Napoca**Russia**Globus International Language Centres Lomonosov Moscow State University MGIMO (Moscow State Institute of International Relations) National Research University Higher Schools of Economics, Moscow**Saudi Arabia**ELC (English Language Center ), Taibah University, Madinah**Senegal**Institut Français de Dakar**Serbia**Centre Jules Verne Institut Français de Belgrade**Slovakia**Trnava University**Slovenia**Državni izpitni center**Spain** Alliance Française en Espagne British Council, Madrid British Institute of Seville Centro de Lenguas, Universitat Politècnica de València Consejería de Educación de la Junta de Andalucía
+Educational Research Institute, Warsaw Gama College, Kraków Instituto Cervantes, Kraków
+
+**Portugal** British Council, Lisbon Camões, Instituto da Cooperação e da Língua
+
+FCSH, NOVA University of Lisbon
+
+**Romania** ASE (Academia de Studii Economice din Bucuresti) Institut Français de Roumanie LINGUA Language Centre of Babeș-Bolyai, University Cluj-Napoca **Russia** Globus International Language Centres Lomonosov Moscow State University MGIMO (Moscow State Institute of International Relations) National Research University Higher Schools of Economics, Moscow **Saudi Arabia**ELC (English Language Center ), Taibah University, Madinah**Senegal**Institut Français de Dakar**Serbia**Centre Jules Verne Institut Français de Belgrade**Slovakia**Trnava University**Slovenia**Državni izpitni center**Spain** Alliance Française en Espagne British Council, Madrid British Institute of Seville Centro de Lenguas, Universitat Politècnica de València Consejería de Educación de la Junta de Andalucía
 
 Departament d’EnsenyamentGeneralitat de Catalunya SLO (Netherlands Institute for curriculum development) University of Groningen, Language Centre
 
@@ -534,18 +584,26 @@ University of Belgrade
 EOI de Villanueva-Don Benito, Extremadura ILM (Instituto de Lenguas Modernas), Caceres Institut Français d’Espagne Instituto Britanico de Sevilla S.A. Instituto de Lenguas Modernas de la Universidad de Extremadura Lacunza International House, San Sebastián
 <!-- el:end id=prose_p019_s0 -->
 
-*Preface with acknowledgements ▶ Page **19***<!-- page:19 -->
+*Preface with acknowledgements ▶ Page **19***
+
+<!-- page:19 -->
 
 <!-- el:start type=prose id=prose_p020_s0 page=20 -->
-EOI de Albacete EOI de Badajoz, Extremadura EOI de Catalunya EOI de Granada EOI de La Coruña, Galicia EOI de Málaga, Málaga EOI de Santa Cruz de Tenerife EOI de Santander EOI de Santiago de Compostela, Galicia EOI (Escola Oficial de Idiomas) de Vigo**Sweden**Instituto Cervantes Stockholm**Switzerland**Bell Switzerland
+EOI de Albacete EOI de Badajoz, Extremadura EOI de Catalunya EOI de Granada EOI de La Coruña, Galicia EOI de Málaga, Málaga EOI de Santa Cruz de Tenerife EOI de Santander EOI de Santiago de Compostela, Galicia EOI (Escola Oficial de Idiomas) de Vigo
+
+**Sweden**Instituto Cervantes Stockholm**Switzerland** Bell Switzerland
 
 Eurocentres Lausanne Sprachenzentrum der Universität Basel
 
-TLC (The Language Company) Internationa House Zurich-Baden**Thailand**Alliance Française Bangkok**Turkey**Çağ University, Mersin Ege University Hacettepe University, Ankara**Uganda**Alliance Française de Kampala**Ukraine**Institute of Philology, Taras Shevchenko National University of Kyiv Odessa National Mechnikov University**United Arab Emirates**Higher Colleges of Technology**United Kingdom**Anglia Examinations, Chichester College Cambridge Assessment English
+TLC (The Language Company) Internationa House Zurich-Baden
+
+**Thailand**Alliance Française Bangkok**Turkey**Çağ University, Mersin Ege University Hacettepe University, Ankara**Uganda**Alliance Française de Kampala**Ukraine** Institute of Philology, Taras Shevchenko National University of Kyiv Odessa National Mechnikov University **United Arab Emirates**Higher Colleges of Technology**United Kingdom** Anglia Examinations, Chichester College Cambridge Assessment English
 
 Eurocentres, Bournemouth
 
-Eurocentres, Brighton Eurocentres, London Experience English Instituto Cervantes de Mánchester International Study and Language Institute, University of Reading Kaplan International College, London NILE (Norwich Institute for Language Education)**United States of America**Alliance Française de Porto Rico Cambridge Michigan Language Assessments Columbia University, New York Eastern Michigan University**Uruguay** Centro Educativo Rowan, Montevideo Net Languages, Barcelona Universidad Antonio de Nebrija Universidad Europea de Madrid Universidad Internacional de La Rioja Universidad Católica de València Universidad de Cantabria Universidad de Jaén Universidad Pablo de Olavide, Sevilla Universidad Ramon Llull, Barcelona Universitat Autònoma de Barcelona
+Eurocentres, Brighton Eurocentres, London Experience English Instituto Cervantes de Mánchester International Study and Language Institute, University of Reading Kaplan International College, London NILE (Norwich Institute for Language Education)
+
+**United States of America** Alliance Française de Porto Rico Cambridge Michigan Language Assessments Columbia University, New York Eastern Michigan University **Uruguay** Centro Educativo Rowan, Montevideo Net Languages, Barcelona Universidad Antonio de Nebrija Universidad Europea de Madrid Universidad Internacional de La Rioja Universidad Católica de València Universidad de Cantabria Universidad de Jaén Universidad Pablo de Olavide, Sevilla Universidad Ramon Llull, Barcelona Universitat Autònoma de Barcelona
 
 University of Gothenburg
 
@@ -564,17 +622,21 @@ University of Westminster Westminster Professional Language Centre
 ETS (Educational Testing Service) Purdue University University of Michigan
 <!-- el:end id=prose_p020_s0 -->
 
-*Page **20**▶**CEFR – Companion volume***<!-- page:20 -->
+*Page **20** ▶ **CEFR – Companion volume***
+
+<!-- page:20 -->
 
 <!-- el:start type=prose id=prose_p021_s0 page=21 -->
-Chapter 1**INTRODUCTION**The**Common European Framework of Reference for Languages: Learning, teaching, assessment**(CEFR)14 is part of the Council of Europe’s continuing work to ensure quality inclusive education as a right of all citizens. T (https://rm.coe.int/1680459f97)his update to the CEFR, first published online in 2018 in English and French as the “CEFR Companion Volume with New Descriptors”, updates and extends the CEFR, which was published as a book in 2001 and which is available in 40 languages at the time of writing. With this new, user-friendly version, the Council of Europe responds to the many comments that the 2001 edition was a very complex document that many language professionals found difficult to access. The key aspects of the CEFR vision are therefore explained in Chapter 2, which elaborates the key notions of the CEFR as a vehicle for promoting quality in second/foreign language teaching and learning as well as in plurilingual and intercultural education. The updated and extended version of the CEFR illustrative descriptors contained in this publication replaces the 2001 version of them.
+Chapter 1
+
+**INTRODUCTION**The**Common European Framework of Reference for Languages: Learning, teaching, assessment** (CEFR)14 is part of the Council of Europe’s continuing work to ensure quality inclusive education as a right of all citizens. T (https://rm.coe.int/1680459f97)his update to the CEFR, first published online in 2018 in English and French as the “CEFR Companion Volume with New Descriptors”, updates and extends the CEFR, which was published as a book in 2001 and which is available in 40 languages at the time of writing. With this new, user-friendly version, the Council of Europe responds to the many comments that the 2001 edition was a very complex document that many language professionals found difficult to access. The key aspects of the CEFR vision are therefore explained in Chapter 2, which elaborates the key notions of the CEFR as a vehicle for promoting quality in second/foreign language teaching and learning as well as in plurilingual and intercultural education. The updated and extended version of the CEFR illustrative descriptors contained in this publication replaces the 2001 version of them.
 
 Teacher educators and researchers will find it worthwhile to follow links and/or references given in Chapter 2 “Key aspects of the CEFR for teaching and learning” in order to also consult the chapters of the 2001 edition on, for example, full details of the descriptive scheme (CEFR 2001, Chapters 4 and 5). The updated and extended illustrative descriptors include all those from the CEFR 2001. The descriptor scales are organised according to the categories of the CEFR descriptive scheme. It is important to note that the changes and additions in this publication do not affect the construct described in the CEFR, or its Common Reference Levels.
 
 The CEFR in fact consists of far more than a set of common reference levels. As explained in Chapter 2, the CEFR broadens the perspective of language education in a number of ways, not least by its vision of the user/learner as a social agent, co-constructing meaning in interaction, and by the notions of mediation and plurilingual/ pluricultural competences. The CEFR has proved successful precisely because it encompasses educational values, a clear model of language-related competences and language use, and practical tools, in the form of illustrative descriptors, to facilitate the development of curricula and orientation of teaching and learning.
 <!-- el:end id=prose_p021_s0 -->
 
-14.**Common European Framework of Reference for Languages: Learning, teaching, assessment**(2001), Cambridge University Press, Cambridge, available at https://rm.coe.int/1680459f97. Page**21**
+14.	**Common European Framework of Reference for Languages: Learning, teaching, assessment** (2001), Cambridge University Press, Cambridge, available at https://rm.coe.int/1680459f97. Page **21**
 
 <!-- page:21 -->
 
@@ -617,9 +679,12 @@ The relationship between the CEFR descriptive scheme, the illustrative descripto
 17.	 Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 1: Ages 7-10”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1688.
 18.	 Goodier T. (ed.) (2018), “Collated representative samples of descriptors of language competences developed for young learners – Resource for educators, Volume 2: Ages 11-15”, Education Policy Division, Council of Europe, available at https://rm.coe.int/16808b1689.
 
-*Page **22**▶**CEFR – Companion volume***<!-- page:22 -->
+*Page **22** ▶ **CEFR – Companion volume***
 
-<!-- el:start type=prose id=prose_p023_s0 page=23 -->**Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions**
+<!-- page:22 -->
+
+<!-- el:start type=prose id=prose_p023_s0 page=23 -->
+**Table 1 – The CEFR descriptive scheme and illustrative descriptors: updates and additions**
 <!-- el:end id=prose_p023_s0 -->
 
 <!-- el:start type=artifact id=table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions page=23 -->
@@ -662,12 +727,16 @@ The relationship between the CEFR descriptive scheme, the illustrative descripto
 | Pragmatic competence | | | | √ |
 <!-- el:end id=table_table_1_the_cefr_descriptive_scheme_and_illustrative_descriptors_updates_and_additions -->
 
-*Introduction ▶ Page **23***<!-- page:23 -->
+*Introduction ▶ Page **23***
+
+<!-- page:23 -->
 
 <!-- el:start type=prose id=prose_p024_s0 page=24 -->
 ### 1.1. SUMMARY OF CHANGES TO THE ILLUSTRATIVE DESCRIPTORS
 
-Table 2 summarises the changes to the CEFR illustrative descriptors and also the rationale for these changes. A short description of the development project is given in Appendix 6, with a more complete version available in the paper by Brian North and Enrica Piccardo: “Developing illustrative descriptors of aspects of mediation for the CEFR (https://rm.coe.int/168073ff31)”.19**Table 2 – Summary of changes to the illustrative descriptors**
+Table 2 summarises the changes to the CEFR illustrative descriptors and also the rationale for these changes. A short description of the development project is given in Appendix 6, with a more complete version available in the paper by Brian North and Enrica Piccardo: “Developing illustrative descriptors of aspects of mediation for the CEFR (https://rm.coe.int/168073ff31)”.19
+
+**Table 2 – Summary of changes to the illustrative descriptors**
 <!-- el:end id=prose_p024_s0 -->
 
 <!-- el:start type=artifact id=table_table_2_summary_of_changes_to_the_illustrative_descriptors page=24 -->
@@ -697,14 +766,16 @@ Table 2 summarises the changes to the CEFR illustrative descriptors and also the
 
 19.	 North B. and Piccardo E (2016), “Developing illustrative descriptors of aspects of mediation for the CEFR”, Education Policy Division, Council of Europe, Strasbourg, available at https://rm.coe.int/168073ff31.
 
-*Page **24**▶**CEFR – Companion volume***<!-- page:24 -->
+*Page **24** ▶ **CEFR – Companion volume***
+
+<!-- page:24 -->
 
 <!-- el:start type=prose id=prose_p025_s1 page=25 -->
 In addition to Chapter 2 “Key aspects of the CEFR for teaching and learning”, and the extended illustrative descriptors included in this publication, users may wish to consult the following two fundamental policy documents related to plurilingual, intercultural and inclusive education:
 
--**Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)**(Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chap (https://rm.coe.int/16806ae621)ter 8 on language diversification and the curriculum;
+- **Guide for the development and implementation of curricula for plurilingual and intercultural education (https://rm.coe.int/16806ae621)** (Beacco et al. 2016a), which constitutes an operationalisation and further development of CEFR 2001 Chap (https://rm.coe.int/16806ae621)ter 8 on language diversification and the curriculum;
 
--**Reference framework of competences for democratic culture** (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation includ (https://go.coe.int/mWYUH)ed in this publication.
+- **Reference framework of competences for democratic culture** (Council of Europe 2018), the sources for which inspired some of the new descriptors for mediation includ (https://go.coe.int/mWYUH)ed in this publication.
 
 Users concerned with school education may also wish to consult the paper “Education, mobility, otherness – The (https://rm.coe.int/16807367ee) mediation functions of schools”,20 which helped the conceptualisation of mediation in the descriptor development project.
 <!-- el:end id=prose_p025_s1 -->

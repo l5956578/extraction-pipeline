@@ -1,5 +1,11 @@
 <!-- el:start type=prose id=prose_p095 page=95 -->
 <!-- vision: Threshold PDF leaf 95 = doc p.89 | multipass reading text types -->
+<!-- cat: Signs (e·g. street signs), directions (e·g. how to make a phone call), -->
+<!-- cat: notices, instructions (e·g. warnings), posters, advertisements, -->
+<!-- cat: brochures, leaflets, guides (e·g. hotel guides, city guides), price lists, -->
+<!-- cat: maps), telephone directories, forms (e·g. landing forms, hotel -->
+<!-- cat: registration forms), shop signs, product packaging (e·g. in -->
+<!-- cat: articles, features, weather forecastsˎfrorn newspapers and magazines. -->
 
 devices and the command of a core vocabulary such as the one recommended in this volume the learners' range of action – particularly as readers – is, as far as vocabulary is concerned, sufficient for the kinds of texts that fall within the terms of our definition. Only one further, and obvious, reservation has to be made with regard to vocabulary, and that is that the learners cannot be expected to be able to understand items whose meaning, in the available context, would be obscure to them even if the text had been produced in their native language. This would apply to items whose meaning would be, conceptually, beyond the learners' mental reach. They would be unlikely to occur, however, in texts referred to in this specification.
 
@@ -18,3 +24,30 @@ In addition to several text types listed under 'situations' above, the following
 personal correspondence (letters, postcards, telegrams); informative articles, features, weather forecasts, *from* newspapers and magazines.
 
 <!-- el:end id=prose_p095 -->
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.
+
+
+<!-- NATIVE-GOLD-EXAMPLES leaf 95 -->
+> Signs (e·g. street signs), directions (e·g. how to make a phone call),
+> notices, instructions (e·g. warnings), posters, advertisements,
+> brochures, leaflets, guides (e·g. hotel guides, city guides), price lists,
+> maps), telephone directories, forms (e·g. landing forms, hotel
+> registration forms), shop signs, product packaging (e·g. in
+> articles, features, weather forecastsˎfrorn newspapers and magazines.

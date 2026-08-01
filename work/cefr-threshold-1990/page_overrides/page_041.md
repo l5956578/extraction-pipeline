@@ -1,10 +1,9 @@
-<!-- vision: Threshold PDF leaf 41 = document p.35 | multipass intonation -->
+<!-- vision: leaf 41 doc p.35 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p041 page=35 -->
-<!-- intonation: docs/vision_extract/INTONATION_NOTATION.md -->
 
 #### 2.27 expressing preference
 
-**2.27.1** I('d) prefer + NP | to + VPinf
+**2.27.1** I(’d) prefer + NP | to + VPinf
 
 > I'd preˈfer to ·go by ˎtrain.
 
@@ -12,11 +11,11 @@
 
 > I preˈfer ˈhockey | to ˎfootball.
 
-**2.27.3** I('d) rather (not) + VP
+**2.27.3** I(’d) rather (not) + VP
 
 > I'd ˈrather ·not ˎfly ·there.
 
-**2.27.4** I('d) rather VPinf (than + contrastive element)
+**2.27.4** I(’d) rather VPinf (than + contrastive element)
 
 > I'd ˈrather ·drink ˎcoffee | than ˎtea.
 
@@ -40,15 +39,15 @@
 
 #### 2.29 expressing pleasure, happiness
 
-**2.29.1** That's ˈlovely/ˈwonderful/ˈgreat!
+**2.29.1** That's ˈlovely/ˈwonderful/ˋgreat!
 
-**2.29.2** How ˈnice!
+**2.29.2** How ˋnice!
 
-**2.29.3** I'm/I feel so ˈhappy!
+**2.29.3** I'm/I feel so ˋhappy!
 
 **2.29.4** I'm ˈvery ˎpleased.
 
-**2.29.5** I'm (very) glad/delighted (+ *that* clause to + VPinf)
+**2.29.5** I’m (very) glad/delighted (+ *that* clause to + VPinf)
 
 > I'm ˈvery ·glad to ˎsee you ·here.
 
@@ -90,13 +89,13 @@
 
 **2.33.2** NP + *be* not (very/at all) nice/pleasant
 
-> That's ·not aˈt all ˎnice.
+> That's ·not at ˈall ˎnice.
 
 **2.33.3** NP + *be* + nasty/horrible
 
 > ˈSour ·milk is ˎnasty.
 
-**2.33.4** I don't like/enjoy NP/VP gerund (very much/at all)
+**2.33.4** I don’t like/enjoy NP/VP gerund (very much/at all)
 
 > I ˈdon't ˎlike | ˎsweet ·tea.
 
@@ -104,7 +103,7 @@
 
 > I ˈhate ˎhurting ·people.
 
-**2.33.6** I'd hate/I wouldn't like + to + VPinf
+**2.33.6** I’d hate/I wouldn’t like + to + VPinf
 
 > I ˈwouldn't ·like to be ˎlate.
 

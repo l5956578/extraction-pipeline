@@ -15,27 +15,27 @@ We trust that with a little experience users will find that the systematic prese
 
 **1.1.1.1** names of persons
 
-> 'This is ·John ,Smith.
+> ˈThis is ·John ˎSmith.
 
 **1.1.1.2** places
 
-> We ·live in ,Sheffield.
+> We ·live in ˎSheffield.
 
 **1.1.1.3** days (4.3.2)
 
-> To 'day is ·Friday the ,13th.
+> To ˈday is ·Friday the ,13th.
 
 **1.1.1.4** months (4.3.2)
 
-> Our 'holiday is in ,August.
+> Our ˈholiday is in ˎAugust.
 
 **1.1.1.5** festivals (4.3.3)
 
-> ,Christmas is ·coming.
+> ˎChristmas is ·coming.
 
 **1.1.1.6** religion (5.1.13)
 
-> Our 'friends are ,Baptists.
+> Our ˈfriends are ˎBaptists.
 
 **1.1.2** common
 
@@ -45,63 +45,63 @@ We trust that with a little experience users will find that the systematic prese
 
 - arts, sports, games (5.4.2)
 
-  > I ·like 'music and ,sport.
+ > | ·like ˈmusic and ˎsport.
 
 - cardinal numbers (4.4.1)
 
-  > 'Three and ,six | make ,nine.
+ > ˈThree and ˎsix | make ˎnine.
 
 - colours (4.5.1.8)
 
-  > 'Are ·black and ·white ,colours?
+ > ˈAre ·black and ·white ˎcolours?
 
 - points of compass (4.2.1)
 
-  > Go 'ten ·miles ,north, | 'then ,east.
+ > Go ˈten ·miles ˎnorth, | ˈthen ˎeast.
 
 - weather (5.13.1)
 
-  > We'll have 'fog | to,night.
+ > We'll have ˈfog | toˎnight.
 
 **1.1.2.1.2** material and mass substances
 
 - drinks (5.9.1)
 
-  > 'Have some more ,wine!
+ > ˈHave some more ˎwine!
 
 - foodstuffs (5.9.1)
 
-  > A'nother ·slice of 'toast?
+ > A'nother ·slice of ˈtoast?
 
 - meals (5.3.1, 5.9.1)
 
-  > 'When is ,lunch?
+ > ˈWhen is ˎlunch?
 
 - means of transport (5.5.1, 5.5.2)
 
-  > 'Let's ·go by ,bicycle!
+ > ˈLet's ·go by ˎbicycle!
 
 - fluids (5.9.1, 5.10.8)
 
-  > 'Where can I ·get ,water?
+ > ˈWhere can | ·get ˎwater?
 
 - collectives
 
   - traffic (5.5.3)
 
-    > The 'traffic was ,light.
+ > The ˈtraffic was ˎlight.
 
   - police (5.10.5)
 
-    > The po·lice were 'very ,helpful.
+ > The po·lice were ˈvery ˎhelpful.
 
   - underwear (5.8.3)
 
-    > I 'want to ·wash my ,underwear.
+ > | ˈwant to ·wash my ˎunderwear.
 
 **1.1.2.1.3** verbal nouns (gerund)
 
-> I 'hate ,shopping.
+> | ˈhate ˎshopping.
 
 **1.1.2.2** countables
 
@@ -109,10 +109,10 @@ individuals belonging to classes of
 
 - persons
 
-  > ·Nurses ·work 'very ,hard.
+ > ·Nurses ·work ˈvery ˎhard.
 
 - things
 
-  > I'd ·like a ,sandwich.
+ > I'd ·like a ˎsandwich.
 
 <!-- el:end id=prose_p082 -->

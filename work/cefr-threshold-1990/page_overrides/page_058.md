@@ -1,5 +1,5 @@
+<!-- vision: leaf 58 doc p.52 | word-catalog multipass ch5-6 -->
 <!-- el:start type=prose id=prose_p058 page=58 -->
-<!-- vision: Threshold PDF leaf 58 = doc p.52 | multipass two-column general notions -->
 
 usually  
 daily ●, weekly ●, monthly ● (as in: There are ˈdaily ˎflights.)  
@@ -42,7 +42,7 @@ to end ●, to finish ●, to stop (as in: The ·game will ˈstop at ˎsix; He �
 till, until ●, to (as in: from ˈ9 to ˎ12)
 
 **3.26** *stability*  
-to remain ● (as in: ˈHow ·long will you reˎmain ·here; ˈWill it reˎmain ˎdry today?), to stay (as in: I will ˈstay here for a ˎweek; It ˈwon't ·stay ·dry for ˈlong.), to keep (as in: ˈHow ·long will this ·milk ·keep ˎfresh?), to wait (as in: We ·had to ·wait ·only ˈfive ˎminutes.)
+to remain ● (as in: ˈHow ·long will you reˎmain ·here; ˈWill it reˎmain ˎdry today?), to stay (as in: I will ˈstay here for a ˎweek; It ˈwon't ·stay ·dry for ˇlong.), to keep (as in: ˈHow ·long will this ·milk ·keep ˎfresh?), to wait (as in: We ·had to ·wait ·only ˈfive ˎminutes.)
 
 **3.27** *change, transition*  
 to become (as in: ˈSugar has become exˎpensive.), to change, to get ● (as in: He's ·getting ˎold.), to turn (as in: The ·leaves ·turned ˎyellow.)  

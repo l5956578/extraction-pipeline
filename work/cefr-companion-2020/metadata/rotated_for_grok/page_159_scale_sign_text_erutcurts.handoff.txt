@@ -4,8 +4,8 @@ Title: Sign text structure
 Role: middle
 Rotation: 90
 Slug: page_159_scale_sign_text_erutcurts
-PNG: work/metadata/rotated_for_grok/page_159_scale_sign_text_erutcurts.png
-Write markdown: work/metadata/rotated_from_grok/page_159_scale_sign_text_erutcurts.md
+PNG: work/cefr-companion-2020/metadata/rotated_for_grok/page_159_scale_sign_text_erutcurts.png
+Write markdown: work/cefr-companion-2020/metadata/rotated_from_grok/page_159_scale_sign_text_erutcurts.md
 
 AUTHORITY: coding agent vision only (no chat/web Grok step).
 Schema: | Level | Receptive | Productive |  multi-row: blank Level.
