@@ -25,7 +25,7 @@ This file (`STATUS.md`) remains the **open / partial / fixed status** SoT. The R
 
 | | |
 |--|--|
-| **Last updated** | 2026-07-29 (full re-run → versions/002; hard final-state pins; layout-table locks) |
+| **Last updated** | 2026-08-01 (jobs registry: draft `evp-us-online` language-scrape landing pointer) |
 | **Branch** | `master` |
 | **Active job** | `cefr-companion-2020` (`--job` **required** on all CLIs — no silent default) |
 | **Deliverable** | `output/cefr-companion-2020/CEFR_Companion_Volume.md` (~994 KB, pages 1–278) |
@@ -67,6 +67,8 @@ Register and extract CEFR-family documents for website / SQLite ETL.
 
 **Registered output modes** (see §1a) also include `page_png`, `tabular_db`, and `markdown_import` for draft jobs — those modes are **not** implemented by the PDF markdown engine yet (CLI rejects them unless `--force-draft`; use `load_job` for inspection).
 
+**Language-product scrape landing:** shippable / future-SQL language data may register as jobs here (same `input|work|output/<job-id>/` contract). Scrape **capability** lives in monorepo `tools/scrapers/*` (see monorepo `tools/AGENTS.md`). Example: draft `evp-us-online` → monorepo `tools/scrapers/evp/` (**RES-08**).
+
 ---
 
 ## 1a. Jobs registry (Phase C)
@@ -82,6 +84,7 @@ Family notes: [`input/cefr-family-NOTES.md`](input/cefr-family-NOTES.md).
 | `cefr-descriptors-2020` | **draft** | `tabular_db` | `source.xlsx` | `tabular_db` | DB-oriented later; not PDF markdown |
 | `cefr-english-grammar-profile-online-202607` | **draft** | `tabular_db` | `source.xlsx` | `tabular_db` | English Grammar Profile Online; CEFR levels; single Data sheet; DB later |
 | `cefr-self-assessment-grid-cn` | **draft** | `markdown_import` | `source.md` | `markdown_import` | CN grid; pair with EN Companion grid later |
+| `evp-us-online` | **draft** | `tabular_db` | monorepo `tools/scrapers/evp/out/*` (no local `source.*` yet; `source.file` is null) | `tabular_db` | **RES-08**; language-scrape landing pointer; not product-done; do not invent a parallel ticket |
 
 **Do not** treat draft jobs as extracted. Full production extract of 2001/Waystage/Threshold is out of scope until scheduled.
 

@@ -327,7 +327,13 @@ def load_job(job_id: str, *, reload: bool = False) -> JobContext:
     source = job_data.get("source") or {}
     product = job_data.get("product") or {}
 
-    source_file = source.get("file") or "source.pdf"
+    # Explicit null/empty source.file = external/capability landing (no local artifact yet).
+    # Only invent "source.pdf" when the key is omitted (legacy PDF jobs).
+    if "file" in source:
+        raw_source_file = source.get("file")
+        source_file = str(raw_source_file).strip() if raw_source_file else ""
+    else:
+        source_file = "source.pdf"
     work_dir = ROOT / "work" / resolved_id
     output_dir = ROOT / "output" / resolved_id
     metadata_dir = work_dir / "metadata"
@@ -337,6 +343,15 @@ def load_job(job_id: str, *, reload: bool = False) -> JobContext:
         source.get("original_filename")
         or source.get("published_filename")
         or source_file
+        or resolved_id
+    )
+
+    # When no local source file is registered, do not pretend source.pdf exists.
+    # Agents must use monorepo/capability paths from notes — not ctx.pdf_path.
+    pdf_path = (
+        input_dir / source_file
+        if source_file
+        else input_dir / "_NO_LOCAL_SOURCE"
     )
 
     ctx = JobContext(
@@ -345,7 +360,7 @@ def load_job(job_id: str, *, reload: bool = False) -> JobContext:
         input_dir=input_dir,
         work_dir=work_dir,
         output_dir=output_dir,
-        pdf_path=input_dir / source_file,
+        pdf_path=pdf_path,
         inventories_dir=work_dir / "inventories",
         chunks_dir=work_dir / "chunks",
         raw_dir=work_dir / "raw_extraction",

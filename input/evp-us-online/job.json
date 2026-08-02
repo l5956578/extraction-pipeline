@@ -37,7 +37,7 @@
     "document_id": "evp_us_online",
     "document_title": "English Vocabulary Profile Online (American English)",
     "product_tier": "detailed",
-    "notes": "Draft job registration only. Scrape capability + experimental outputs: monorepo tools/scrapers/evp/. Ticket RES-08. DB-oriented import later (Details-critical)."
+    "notes": "Draft job registration only. Scrape capability + experimental outputs: monorepo tools/scrapers/evp/. Ticket RES-08. source.file is null → load_job uses _NO_LOCAL_SOURCE sentinel (not a real PDF). Agents must use monorepo out/ paths from notes.md. DB-oriented import later (Details-critical)."
   },
   "capability_path": "tools/scrapers/evp",
   "kanban_ticket": "RES-08"

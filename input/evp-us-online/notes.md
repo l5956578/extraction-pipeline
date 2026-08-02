@@ -17,6 +17,8 @@ American English EVP Online senses with **Details** (definition + learner exampl
 | Job registration (this folder) | `input/evp-us-online/` |
 | Future work/output | `work/evp-us-online/`, `output/evp-us-online/` when import pipeline exists |
 
+**`source.file` is null** — no local PDF/xlsx registered yet. `load_job` sets `ctx.pdf_path` to `input/evp-us-online/_NO_LOCAL_SOURCE` (sentinel; file does not exist). **Do not** treat `ctx.pdf_path` as a real artifact. Use monorepo paths below (and `capability_path` / notes) until a local `source.*` is copied in and `source.file` is set.
+
 **Do not** move multi-GB `out/audio` into this nested git repo unless intentionally promoting shippable assets.
 
 ## Expected source artifacts (when ready to land)
