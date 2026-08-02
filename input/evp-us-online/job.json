@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "evp-us-online",
+  "title": "English Vocabulary Profile Online (American English)",
+  "status": "draft",
+  "profile": "tabular_db",
+  "source": {
+    "file": null,
+    "original_filename": null,
+    "notes": "Capability scrape outputs live in monorepo tools/scrapers/evp/out/ (jsonl/csv/xlsx). Do not copy multi-GB audio into this nested repo unless promoting. Register source artifact when landing for DB import.",
+    "language": "en",
+    "dict": "us",
+    "url": "https://englishprofile.org/?menu=evp-online&dict=us"
+  },
+  "product": {
+    "framework": "cefr",
+    "audiences": ["coach", "student_portal", "storehouse"],
+    "default_product_tiers": ["detailed", "assessment_action"],
+    "skill_categories": ["vocabulary"],
+    "promotion_target": "resources/cefr"
+  },
+  "extraction": {
+    "chunk_size": 0,
+    "levels": ["A1", "A2", "B1", "B2", "C1", "C2"],
+    "features": {
+      "rotated_tables": false,
+      "agent_vision": false,
+      "figures": false,
+      "multipage_merge": false,
+      "callouts": false
+    }
+  },
+  "layout": {},
+  "notes_file": "notes.md",
+  "output": {
+    "mode": "tabular_db",
+    "document_id": "evp_us_online",
+    "document_title": "English Vocabulary Profile Online (American English)",
+    "product_tier": "detailed",
+    "notes": "Draft job registration only. Scrape capability + experimental outputs: monorepo tools/scrapers/evp/. Ticket RES-08. DB-oriented import later (Details-critical)."
+  },
+  "capability_path": "tools/scrapers/evp",
+  "kanban_ticket": "RES-08"
+}

@@ -8,6 +8,15 @@ Before changing extraction, formatting, or rotated-table behavior:
 
 Do **not** treat `docs/archive/**` as current requirements.
 
+## Platform Kanban + honesty (lang-platform)
+
+This repo is nested under **lang-platform**. Platform policy: monorepo root `AGENTS.md` + `ideas/KANBAN.md`.
+
+- **Attach RES-*** (or DATA-*) tickets for multi-session extract/Vision/tabular work before claiming progress. Prefer seeded keys (RES-04, RES-08, RES-14, …) over duplicates.
+- **Vision `APPROVED.json` / version snapshots ≠ product-done.** Artifact state (A1) marks iteration quality for a job; human product honesty lives in ticket notes + monorepo `library/` gaps — do not launder “Vision draft approved” into “resource is product-done.”
+- **Language-product scrape landing:** shippable language data registers as jobs here (`input|work|output/<job-id>/`). Scrape **capability** lives in monorepo `tools/scrapers/*` (e.g. EVP → `tools/scrapers/evp/`, ticket **RES-08**). Experimental scraper `out/` may stay under tools until a job is registered. No separate `pipelines/ingest/` yet.
+- Nested commits/pushes stay **inside this folder**; board DB updates commit on the **parent** lang-platform repo.
+
 ## Logging user feedback
 
 The user is not required to speak in “bug tickets.” When they write logs, chat notes, or screenshots:
